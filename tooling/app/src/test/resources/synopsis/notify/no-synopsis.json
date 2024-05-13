@@ -1,0 +1,74 @@
+{
+  "id": "3tsYfpfSR",
+  "type": "tv",
+  "title": {
+    "canonical": "Momentary Lily",
+    "romaji": "Momentary Lily",
+    "english": "",
+    "japanese": "もめんたりー・リリィ",
+    "hiragana": "",
+    "synonyms": null
+  },
+  "summary": "",
+  "status": "upcoming",
+  "genres": [],
+  "startDate": "2025-01",
+  "endDate": "",
+  "episodeCount": 0,
+  "episodeLength": 0,
+  "source": "",
+  "image": {
+    "extension": ".jpg",
+    "width": 400,
+    "height": 560,
+    "averageColor": {
+      "hue": 0.706036745406824,
+      "saturation": 0.006184161404989508,
+      "lightness": 0.5299534599832151
+    },
+    "lastModified": 1714057308
+  },
+  "firstChannel": "",
+  "rating": {
+    "overall": 0,
+    "story": 0,
+    "visuals": 0,
+    "soundtrack": 0,
+    "count": {
+      "overall": 0,
+      "story": 0,
+      "visuals": 0,
+      "soundtrack": 0
+    }
+  },
+  "popularity": {
+    "watching": 0,
+    "completed": 0,
+    "planned": 0,
+    "hold": 0,
+    "dropped": 0
+  },
+  "trailers": [],
+  "episodes": null,
+  "mappings": [
+    {
+      "service": "anidb/anime",
+      "serviceId": "18600"
+    }
+  ],
+  "posts": null,
+  "likes": null,
+  "created": "2024-04-25T15:01:36Z",
+  "createdBy": "I_vyeZamg",
+  "edited": "",
+  "editedBy": "",
+  "isDraft": false,
+  "studios": [
+    "xCA897UzRi"
+  ],
+  "producers": [
+    "YCA89n8zRp"
+  ],
+  "licensors": null,
+  "links": null
+}

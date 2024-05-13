@@ -1,0 +1,123 @@
+{
+  "id": "0_Om94WIR",
+  "type": "tv",
+  "title": {
+    "canonical": "Shinigami Bocchan to Kuro Maid 3rd Season",
+    "romaji": "Shinigami Bocchan to Kuro Maid 3rd Season",
+    "english": "The Duke of Death and His Maid Season 3",
+    "japanese": "死神坊ちゃんと黒メイド 3期が",
+    "hiragana": "",
+    "synonyms": null
+  },
+  "summary": "Although everything the young duke touches perishes, his existence is far from lonely. His spirited siblings Viola and Walter, loyal butler Rob, and the eccentric witches Cuff and Zain are regularly livening up his secluded mansion. But it is the duke's flirty maid, Alice Lendrott, who fills him with the promise of a beautiful tomorrow and the determination to break this hellish spell cast upon him.\n\nThe identity of the witch who cursed the duke has been uncovered thanks to Zain's unique magic and the help of Daleth, the leader of the underworld. However, the villain is a notoriously fearsome and powerful witch, who, enraged by the duke and his companions' trip back in time, torments them even from the afterlife. Moreover, an unexpected loved one reappears, strengthening the duke and Alice's hope to break the curse and finally close the distance between them.\n\n[Written by MAL Rewrite]",
+  "status": "current",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Supernatural",
+    "Romance"
+  ],
+  "startDate": "2024-04-07",
+  "endDate": "",
+  "episodeCount": 0,
+  "episodeLength": 23,
+  "source": "manga",
+  "image": {
+    "extension": ".jpg",
+    "width": 460,
+    "height": 650,
+    "averageColor": {
+      "hue": 0.9369539895165987,
+      "saturation": 0.09543130280124505,
+      "lightness": 0.725459678034638
+    },
+    "lastModified": 1709822888
+  },
+  "firstChannel": "",
+  "rating": {
+    "overall": 0,
+    "story": 0,
+    "visuals": 0,
+    "soundtrack": 0,
+    "count": {
+      "overall": 0,
+      "story": 0,
+      "visuals": 0,
+      "soundtrack": 0
+    }
+  },
+  "popularity": {
+    "watching": 3,
+    "completed": 0,
+    "planned": 8,
+    "hold": 0,
+    "dropped": 0
+  },
+  "trailers": [
+    {
+      "service": "Youtube",
+      "serviceId": "D-i1q9RW_KE"
+    },
+    {
+      "service": "Youtube",
+      "serviceId": "FBBaVYzy6HE"
+    }
+  ],
+  "episodes": [
+    "Mkr8xXAIg",
+    "Mk9Ubu0Igz",
+    "Mz98xu0Sgm",
+    "Mkr8bu0IgZ",
+    "Gk98xX0SRM",
+    "Gkr8xXAIg7",
+    "MzrUxuAIRV",
+    "Gz9Ubu0IRI",
+    "Gkr8bX0SRN",
+    "Gz98bu0SRv",
+    "Gz98bX0SRO",
+    "Gz98xuASRF",
+    "Gk9UbX0Igc"
+  ],
+  "mappings": [
+    {
+      "service": "myanimelist/anime",
+      "serviceId": "56738"
+    },
+    {
+      "service": "anilist/anime",
+      "serviceId": "169584"
+    },
+    {
+      "service": "kitsu/anime",
+      "serviceId": "47984"
+    },
+    {
+      "service": "anidb/anime",
+      "serviceId": "18213"
+    },
+    {
+      "service": "shoboi/anime",
+      "serviceId": "7034"
+    }
+  ],
+  "posts": null,
+  "likes": null,
+  "created": "2023-09-24T17:29:17Z",
+  "createdBy": "I_vyeZamg",
+  "edited": "",
+  "editedBy": "",
+  "isDraft": false,
+  "studios": null,
+  "producers": null,
+  "licensors": null,
+  "links": [
+    {
+      "title": "Website",
+      "url": "https://bocchan-anime.com/"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/bocchan_anime"
+    }
+  ]
+}

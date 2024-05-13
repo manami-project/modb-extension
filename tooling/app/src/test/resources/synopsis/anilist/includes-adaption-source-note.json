@@ -1,0 +1,804 @@
+{
+  "data": {
+    "Media": {
+      "id": 166240,
+      "title": {
+        "userPreferred": "Kimetsu no Yaiba: Hashira Geiko-hen",
+        "romaji": "Kimetsu no Yaiba: Hashira Geiko-hen",
+        "english": "Demon Slayer: Kimetsu no Yaiba Hashira Training Arc",
+        "native": "\u9b3c\u6ec5\u306e\u5203 \u67f1\u7a3d\u53e4\u7de8"
+      },
+      "coverImage": {
+        "extraLarge": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx166240-PBV7zukIHW7V.png",
+        "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx166240-PBV7zukIHW7V.png"
+      },
+      "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/166240-YdxoEhrfwNk0.jpg",
+      "startDate": {
+        "year": 2024,
+        "month": 5,
+        "day": 12
+      },
+      "endDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "description": "Adaptation of the Hashira Training Arc.<br>\n<br>\nThe Hashira, the Demon Slayer Corps' highest ranking swordsmen and members. The Hashira Training has begun in order to face the forthcoming battle against Muzan Kibutsuji. Each with their own thoughts and hopes held in their hearts, a new story for Tanjiro and the Hashira begins.<br><br>\n(Source: Aniplex USA)<br><br>\n<i>Notes:<br>\n\u2022 The first episode has a runtime of ~1 hour, and received an early premiere in cinemas as part of a special screening alongside the final episode of Kimetsu no Yaiba: Katanakaji no Sato-hen. <\/i>",
+      "season": "SPRING",
+      "seasonYear": 2024,
+      "type": "ANIME",
+      "format": "TV",
+      "status": "NOT_YET_RELEASED",
+      "episodes": null,
+      "duration": null,
+      "chapters": null,
+      "volumes": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "synonyms": [
+        "KnY 4"
+      ],
+      "source": "MANGA",
+      "isAdult": false,
+      "isLocked": false,
+      "meanScore": null,
+      "averageScore": null,
+      "popularity": 74112,
+      "favourites": 1318,
+      "isFavouriteBlocked": false,
+      "hashtag": "#\u9b3c\u6ec5\u306e\u5203",
+      "countryOfOrigin": "JP",
+      "isLicensed": true,
+      "isFavourite": false,
+      "isRecommendationBlocked": false,
+      "isReviewBlocked": false,
+      "nextAiringEpisode": {
+        "airingAt": 1715523300,
+        "timeUntilAiring": 412096,
+        "episode": 1
+      },
+      "relations": {
+        "edges": [
+          {
+            "id": 87669,
+            "relationType": "PREQUEL",
+            "node": {
+              "id": 145139,
+              "title": {
+                "userPreferred": "Kimetsu no Yaiba: Katanakaji no Sato-hen"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/145139-V01Prh6UzfRk.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx145139-rRimpHGWLhym.png"
+              }
+            }
+          },
+          {
+            "id": 87671,
+            "relationType": "SOURCE",
+            "node": {
+              "id": 87216,
+              "title": {
+                "userPreferred": "Kimetsu no Yaiba"
+              },
+              "format": "MANGA",
+              "type": "MANGA",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/banner\/87216-TVKEGfSxAqKs.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/bx87216-c9bSNVD10UuD.png"
+              }
+            }
+          }
+        ]
+      },
+      "characterPreview": {
+        "edges": [
+          {
+            "id": 433448,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 111635,
+                "name": {
+                  "userPreferred": "Natsuki Hanae"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n111635-L385UcjTKCBq.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 126071,
+              "name": {
+                "userPreferred": "Tanjirou Kamado"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b126071-BTNEc1nRIv68.png"
+              }
+            }
+          },
+          {
+            "id": 433446,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 119722,
+                "name": {
+                  "userPreferred": "Akari Kitou"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n119722-Ls7ORfBejJEP.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 127518,
+              "name": {
+                "userPreferred": "Nezuko Kamado"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b127518-NRlq1CQ1v1ro.png"
+              }
+            }
+          },
+          {
+            "id": 433445,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 106817,
+                "name": {
+                  "userPreferred": "Yoshitsugu Matsuoka"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n106817-mioGQjbTWWQ6.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 129130,
+              "name": {
+                "userPreferred": "Inosuke Hashibira"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/n129130-SJC0Kn1DU39E.jpg"
+              }
+            }
+          },
+          {
+            "id": 433447,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95356,
+                "name": {
+                  "userPreferred": "Hiro Shimono"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95356-PFaZRlI9oJ56.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 129131,
+              "name": {
+                "userPreferred": "Zenitsu Agatsuma"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b129131-FZrQ7lSlxmEr.png"
+              }
+            }
+          },
+          {
+            "id": 433451,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95079,
+                "name": {
+                  "userPreferred": "Takahiro Sakurai"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95079-MdbWTLxPUvFf.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 130050,
+              "name": {
+                "userPreferred": "Giyuu Tomioka"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b130050-qsLThJs5VIbz.png"
+              }
+            }
+          },
+          {
+            "id": 433454,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95869,
+                "name": {
+                  "userPreferred": "Saori Hayami"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95869-qCQ0EaWpq1QT.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 136070,
+              "name": {
+                "userPreferred": "Shinobu Kochou"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b136070-MC9LLxJsHyHE.png"
+              }
+            }
+          }
+        ]
+      },
+      "staffPreview": {
+        "edges": [
+          {
+            "id": 691166,
+            "role": "Original Creator",
+            "node": {
+              "id": 119973,
+              "name": {
+                "userPreferred": "Koyoharu Gotouge"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n119973-pzMtyCVGBWNt.jpg"
+              }
+            }
+          },
+          {
+            "id": 691165,
+            "role": "Director ",
+            "node": {
+              "id": 99006,
+              "name": {
+                "userPreferred": "Haruo Sotozaki"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n99006-ubhRe65EcEUF.jpg"
+              }
+            }
+          },
+          {
+            "id": 691164,
+            "role": "Character Design",
+            "node": {
+              "id": 119808,
+              "name": {
+                "userPreferred": "Akira Matsushima"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n119808-61yB4qZ8gvPf.png"
+              }
+            }
+          },
+          {
+            "id": 735791,
+            "role": "Sub Character Design",
+            "node": {
+              "id": 146728,
+              "name": {
+                "userPreferred": "Youko Kajiyama"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n146728-SCLHr6f0n4Tz.png"
+              }
+            }
+          },
+          {
+            "id": 735793,
+            "role": "Sub Character Design",
+            "node": {
+              "id": 183357,
+              "name": {
+                "userPreferred": "Miyuki Satou"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n183357-thpik7UhcKcM.png"
+              }
+            }
+          },
+          {
+            "id": 735801,
+            "role": "Sub Character Design",
+            "node": {
+              "id": 183407,
+              "name": {
+                "userPreferred": "Mika Kikuchi"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 735798,
+            "role": "Prop Design",
+            "node": {
+              "id": 146709,
+              "name": {
+                "userPreferred": "Shouji Koyama"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n146709-mDkNNAHI6crh.jpg"
+              }
+            }
+          },
+          {
+            "id": 735794,
+            "role": "Art Supervisor",
+            "node": {
+              "id": 142692,
+              "name": {
+                "userPreferred": "Kouji Etou"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n142692-I0Hb1leizdUW.png"
+              }
+            }
+          }
+        ]
+      },
+      "studios": {
+        "edges": [
+          {
+            "isMain": true,
+            "node": {
+              "id": 43,
+              "name": "ufotable"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 17,
+              "name": "Aniplex"
+            }
+          }
+        ]
+      },
+      "reviewPreview": {
+        "pageInfo": {
+          "total": 0
+        },
+        "nodes": []
+      },
+      "recommendations": {
+        "pageInfo": {
+          "total": 0
+        },
+        "nodes": []
+      },
+      "externalLinks": [
+        {
+          "id": 73365,
+          "site": "Twitter",
+          "url": "https:\/\/twitter.com\/kimetsu_off",
+          "type": "SOCIAL",
+          "language": "Japanese",
+          "color": "#000000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/17-R0tMgOvwvhsS.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 73366,
+          "site": "Official Site",
+          "url": "https:\/\/kimetsu.com\/anime\/hashirageikohen\/",
+          "type": "INFO",
+          "language": "Japanese",
+          "color": null,
+          "icon": null,
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 73728,
+          "site": "Twitter",
+          "url": "https:\/\/twitter.com\/DemonSlayerUSA",
+          "type": "SOCIAL",
+          "language": "English",
+          "color": "#000000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/17-R0tMgOvwvhsS.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 88837,
+          "site": "Official Site",
+          "url": "https:\/\/demonslayer-anime.com\/hta\/",
+          "type": "INFO",
+          "language": "English",
+          "color": null,
+          "icon": null,
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 90111,
+          "site": "Bilibili TV",
+          "url": "https:\/\/www.bilibili.tv\/en\/media\/2104174",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#00A1D6",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/119-NCwGvCjFADGQ.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 90423,
+          "site": "Crunchyroll",
+          "url": "https:\/\/www.crunchyroll.com\/series\/GY5P48XEY\/demon-slayer-kimetsu-no-yaiba",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#F88B24",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/5-AWN2pVlluCOO.png",
+          "notes": null,
+          "isDisabled": true
+        }
+      ],
+      "streamingEpisodes": [
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 1 - Cruelty",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/db617c3bb6a6097394baf707239ff1091554542829_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G9DUEDM08\/cruelty"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 2 - Trainer Sakonji Urokodaki",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/086240450f344f53dbc50765c0ba80cc1555138178_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GX9UQKWE0\/trainer-sakonji-urokodaki"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 3 - Sabito and Makomo",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/249734bc86fa3b6c96697b4c0fb623671555745937_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G4VUQMV58\/sabito-and-makomo"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 4 - Final Selection",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/4558b0fe17cec9f89c4e49142be8841a1556355701_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GJWU2J0W0\/final-selection"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 5 - My Own Steel",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/ef38749be1f8c847f6cf3c543f731d861556965651_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GK9U38EVV\/my-own-steel"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 6 - Swordsman Accompanying a Demon",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/130e542a4c0e9b2a641f415b307c061c1557582919_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G50UZE0KN\/swordsman-accompanying-a-demon"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 7 - Muzan Kibutsuji",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/e37f49ef0692223e459b05861a988bd71558163856_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G0DUN92GM\/muzan-kibutsuji"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 8 - The Smell of Enchanting Blood",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/fcedf99908b2ac57874878fb01dbeaf31558769599_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G9DUED0ZK\/the-smell-of-enchanting-blood"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 9 - Temari Demon and Arrow Demon",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/d28b6a5b34e7a0655ecd215c27762ec91559369980_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GX9UQKE1N\/temari-demon-and-arrow-demon"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 10 - Together Forever",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/64a13c0d70d63e7c138a618ed2312d861559984760_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G14U4X7QX\/together-forever"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 11 - Tsuzumi Mansion",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/f514e4165a990f016f5459d92c5b0ef81560592929_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GJWU2JWNX\/tsuzumi-mansion"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 12 - The Boar Bares Its Fangs, Zenitsu Sleeps",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/6070dc5bcb56020bbcb0c1981378ac261561190278_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GK9U38EV5\/the-boar-bares-its-fangs-zenitsu-sleeps"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 13 - Something More Important Than Life",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/e42ec5184d3d7d13897586c3744098fe1561800656_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GPWUK09NG\/something-more-important-than-life"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 14 - The House with the Wisteria Family Crest",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/6c70ee54a26bd84c1a1052abba7c819d1562413909_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G8WUN2J3G\/the-house-with-the-wisteria-family-crest"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 15 - Mount Natagumo",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/6ba9f2d38cdc6ff21e6a586dc36b28a81563019836_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GZ7UVPGQE\/mount-natagumo"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 16 - Letting Someone Else Go First",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/c15001b5a9ca894ef00d38bfaa1c54a21563622283_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G50UZE0NN\/letting-someone-else-go-first"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 17 - You Must Master a Single Thing",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/f40566dcc7a6841da2cdc35680dde5021564216522_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GG1U2DJ52\/you-must-master-a-single-thing"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 18 - A Forged Bond",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/d4902643472940221c95439b1e6724121564822696_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GEVUZ8730\/a-forged-bond"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 19 - Hinokami",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/d3813c988231fda747d02614e8caa4b61565438538_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G7PU4W72N\/hinokami"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 20 - Pretend Family",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/7bb29c047f587150e6ef46b7cc24cb141566045641_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G4VUQM503\/pretend-family"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 21 - Against Corps Rules",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/3dfb5c42ad0601cef2cae9c7294fa0791566633737_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GJWU2JW7X\/against-corps-rules"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 22 - Master of the Mansion",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/a68639577c99f83aec8a64b72c74860e1567236590_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GK9U38E25\/master-of-the-mansion"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 23 - Hashira Meeting",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/3e6560351787e6940f7f523c02d937591567839099_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GVWU0PMXE\/hashira-meeting"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 24 - Rehabilitation Training",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/935b6e5afc1f948277e938756820a8c81568458699_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GPWUK09JG\/rehabilitation-training"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 25 - Tsuguko, Kanao Tsuyuri",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/dbf9b3cce83780ea5e49fad38f45aedf1569067593_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G8WUN2JVG\/tsuguko-kanao-tsuyuri"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 26 - New Mission",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/e326d8be303eecf03d3e5812ffcfc7ce1569672152_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GD9UV2MZM\/new-mission"
+        }
+      ],
+      "trailer": {
+        "id": "7w5Vfjozzb8",
+        "site": "youtube"
+      },
+      "rankings": [
+        {
+          "id": 11187,
+          "rank": 9,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": null,
+          "allTime": false,
+          "context": "most popular"
+        },
+        {
+          "id": 11373,
+          "rank": 5,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": "SPRING",
+          "allTime": false,
+          "context": "most popular"
+        }
+      ],
+      "tags": [
+        {
+          "id": 15,
+          "name": "Demons",
+          "description": "Prominently features malevolent otherworldly creatures.",
+          "rank": 93,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6285858
+        },
+        {
+          "id": 56,
+          "name": "Shounen",
+          "description": "Target demographic is teenage and young adult males.",
+          "rank": 88,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 886186
+        },
+        {
+          "id": 326,
+          "name": "Cultivation",
+          "description": "Features characters using training, often martial arts-related, and other special methods to cultivate life force and gain strength or immortality.",
+          "rank": 88,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6100961
+        },
+        {
+          "id": 43,
+          "name": "Swordplay",
+          "description": "Prominently features the use of swords in combat.",
+          "rank": 86,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 886186
+        },
+        {
+          "id": 66,
+          "name": "Super Power",
+          "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+          "rank": 70,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5890752
+        },
+        {
+          "id": 250,
+          "name": "Rural",
+          "description": "Partly or completely set in the countryside.",
+          "rank": 20,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6100961
+        },
+        {
+          "id": 25,
+          "name": "Historical",
+          "description": "Partly or completely set during a real period of world history.",
+          "rank": 20,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 309959
+        },
+        {
+          "id": 1219,
+          "name": "Disability",
+          "description": "A work that features one or more characters with a physical, mental, cognitive, or developmental condition that impairs, interferes with, or limits the person's ability to engage in certain tasks or actions.",
+          "rank": 20,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5403930
+        }
+      ],
+      "mediaListEntry": null,
+      "stats": {
+        "statusDistribution": [
+          {
+            "status": "CURRENT",
+            "amount": 11291
+          },
+          {
+            "status": "PLANNING",
+            "amount": 60409
+          },
+          {
+            "status": "COMPLETED",
+            "amount": 1568
+          },
+          {
+            "status": "DROPPED",
+            "amount": 130
+          },
+          {
+            "status": "PAUSED",
+            "amount": 714
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 40
+          },
+          {
+            "score": 20,
+            "amount": 14
+          },
+          {
+            "score": 30,
+            "amount": 16
+          },
+          {
+            "score": 40,
+            "amount": 29
+          },
+          {
+            "score": 50,
+            "amount": 58
+          },
+          {
+            "score": 60,
+            "amount": 94
+          },
+          {
+            "score": 70,
+            "amount": 226
+          },
+          {
+            "score": 80,
+            "amount": 328
+          },
+          {
+            "score": 90,
+            "amount": 569
+          },
+          {
+            "score": 100,
+            "amount": 450
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,844 @@
+{
+  "data": {
+    "Media": {
+      "id": 158709,
+      "title": {
+        "userPreferred": "Unnamed Memory",
+        "romaji": "Unnamed Memory",
+        "english": "Unnamed Memory",
+        "native": "Unnamed Memory"
+      },
+      "coverImage": {
+        "extraLarge": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx158709-WFA0RHloDvPl.jpg",
+        "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx158709-WFA0RHloDvPl.jpg"
+      },
+      "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/158709-ZGCammGG4F9a.jpg",
+      "startDate": {
+        "year": 2024,
+        "month": 4,
+        "day": 9
+      },
+      "endDate": {
+        "year": 2024,
+        "month": 6,
+        "day": 25
+      },
+      "description": "<i>\"My wish as champion is for you to descend the tower and be my wife.\"<\/i><br>\n<br>\nClimbing a deadly tower, Oscar seeks the power of its master, the Witch of the Azure Moon. He hopes her incredible magic can break a curse that will kill any woman he takes for a wife. When the prince sees how beautiful Tinasha is, though, he has a better idea-since she's surely strong enough to survive his curse, she should just marry him instead! Tinasha isn't keen on the idea, but agrees to live with Oscar in the royal castle for a year while researching the spell placed on the prince. The witch's pretty face hides several lifetimes of dark secrets, however-secrets that begin resurfacing...<br>\n<br>\n(Source: Yen Press)",
+      "season": "SPRING",
+      "seasonYear": 2024,
+      "type": "ANIME",
+      "format": "TV",
+      "status": "RELEASING",
+      "episodes": 12,
+      "duration": 24,
+      "chapters": null,
+      "volumes": null,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Romance"
+      ],
+      "synonyms": [
+        "\u30a2\u30f3\u30cd\u30fc\u30e0\u30c9\u30e1\u30e2\u30ea\u30fc",
+        "\u0e2d\u0e31\u0e19\u0e40\u0e19\u0e21\u0e14\u0e4c \u0e40\u0e21\u0e42\u0e21\u0e23\u0e35"
+      ],
+      "source": "LIGHT_NOVEL",
+      "isAdult": false,
+      "isLocked": false,
+      "meanScore": 69,
+      "averageScore": 68,
+      "popularity": 25583,
+      "favourites": 389,
+      "isFavouriteBlocked": false,
+      "hashtag": "#UnnamedMemory #\u30a2\u30f3\u30e1\u30e2",
+      "countryOfOrigin": "JP",
+      "isLicensed": true,
+      "isFavourite": false,
+      "isRecommendationBlocked": false,
+      "isReviewBlocked": false,
+      "nextAiringEpisode": {
+        "airingAt": 1715697000,
+        "timeUntilAiring": 586376,
+        "episode": 6
+      },
+      "relations": {
+        "edges": [
+          {
+            "id": 81987,
+            "relationType": "SOURCE",
+            "node": {
+              "id": 120040,
+              "title": {
+                "userPreferred": "Unnamed Memory"
+              },
+              "format": "NOVEL",
+              "type": "MANGA",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/banner\/120040-AO46aH6o9jzP.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/bx120040-ncMTfR7xM18a.png"
+              }
+            }
+          },
+          {
+            "id": 81989,
+            "relationType": "ALTERNATIVE",
+            "node": {
+              "id": 120039,
+              "title": {
+                "userPreferred": "Unnamed Memory"
+              },
+              "format": "MANGA",
+              "type": "MANGA",
+              "status": "RELEASING",
+              "bannerImage": null,
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/bx120039-lDehKwvzngLy.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "characterPreview": {
+        "edges": [
+          {
+            "id": 403415,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 112215,
+                "name": {
+                  "userPreferred": "Atsumi Tanezaki"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n112215-kfABGD8W2YSJ.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 220804,
+              "name": {
+                "userPreferred": "Tinasha"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b220804-NPcJNFbf3fQv.jpg"
+              }
+            }
+          },
+          {
+            "id": 403416,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 115096,
+                "name": {
+                  "userPreferred": "Yoshiki Nakajima"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n115096-bge79ik3lOOR.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 220806,
+              "name": {
+                "userPreferred": "Oscar Farsas"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b220806-03hjaRo9fk2t.jpg"
+              }
+            }
+          },
+          {
+            "id": 461888,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 236715,
+                "name": {
+                  "userPreferred": "Shuichirou Umeda"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n236715-AqVwesOw9zVK.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 320742,
+              "name": {
+                "userPreferred": "Lazar"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 461889,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 136272,
+                "name": {
+                  "userPreferred": "Yuuko Natsuyoshi"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n136272-eshqjVqwnM9a.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 320743,
+              "name": {
+                "userPreferred": "Sylvia"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 461890,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 107652,
+                "name": {
+                  "userPreferred": "Chinatsu Akasaki"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n107652-wHdkKzhetbiH.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 320744,
+              "name": {
+                "userPreferred": "Meredina"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 461891,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 104580,
+                "name": {
+                  "userPreferred": "Takuya Satou"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n104580-UtA5zydwu3ai.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 320745,
+              "name": {
+                "userPreferred": "Als"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "staffPreview": {
+        "edges": [
+          {
+            "id": 635417,
+            "role": "Original Story",
+            "node": {
+              "id": 157260,
+              "name": {
+                "userPreferred": "Kuji Furumiya"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n157260-f7AJvFbUQl56.png"
+              }
+            }
+          },
+          {
+            "id": 635416,
+            "role": "Original Character Design",
+            "node": {
+              "id": 172084,
+              "name": {
+                "userPreferred": "chibi"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n172084-66bH24ARLpFK.jpg"
+              }
+            }
+          },
+          {
+            "id": 635418,
+            "role": "Director",
+            "node": {
+              "id": 118660,
+              "name": {
+                "userPreferred": "Kazuya Miura"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n118660-FQju22rhdLVq.png"
+              }
+            }
+          },
+          {
+            "id": 635421,
+            "role": "Series Composition",
+            "node": {
+              "id": 104540,
+              "name": {
+                "userPreferred": "Hitomi Mieno"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n104540-JMpYb6fdq2kT.png"
+              }
+            }
+          },
+          {
+            "id": 635419,
+            "role": "Character Design",
+            "node": {
+              "id": 148825,
+              "name": {
+                "userPreferred": "Chika Noumi"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n148825-UClggeSdnQKj.jpg"
+              }
+            }
+          },
+          {
+            "id": 736449,
+            "role": "Art Director",
+            "node": {
+              "id": 267109,
+              "name": {
+                "userPreferred": "Ryousuke Kawai"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 736447,
+            "role": "Art Design",
+            "node": {
+              "id": 267109,
+              "name": {
+                "userPreferred": "Ryousuke Kawai"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 736450,
+            "role": "Color Design",
+            "node": {
+              "id": 196319,
+              "name": {
+                "userPreferred": "Eiko Nishi"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "studios": {
+        "edges": [
+          {
+            "isMain": true,
+            "node": {
+              "id": 6292,
+              "name": "ENGI"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6698,
+              "name": "KADOKAWA"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 7003,
+              "name": "Tencent"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6424,
+              "name": "Sammy"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 238,
+              "name": "AT-X"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 7138,
+              "name": "Bandai Namco Music Live"
+            }
+          }
+        ]
+      },
+      "reviewPreview": {
+        "pageInfo": {
+          "total": 0
+        },
+        "nodes": []
+      },
+      "recommendations": {
+        "pageInfo": {
+          "total": 500
+        },
+        "nodes": [
+          {
+            "id": 263875,
+            "rating": 6,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 112667,
+              "title": {
+                "userPreferred": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/112667-lPoSCxnVfcMm.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx112667-GYFeAlZ38mXK.jpg"
+              }
+            },
+            "user": {
+              "id": 520323,
+              "name": "Setnara",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b520323-eNm1VnvoJ6Jx.png"
+              }
+            }
+          },
+          {
+            "id": 263879,
+            "rating": 5,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 14833,
+              "title": {
+                "userPreferred": "Maoyuu Maou Yuusha"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/14833.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx14833-6M3yEmu4SJkH.png"
+              }
+            },
+            "user": {
+              "id": 520323,
+              "name": "Setnara",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b520323-eNm1VnvoJ6Jx.png"
+              }
+            }
+          },
+          {
+            "id": 263882,
+            "rating": 5,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 2966,
+              "title": {
+                "userPreferred": "Ookami to Koushinryou"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/2966-h1ZiL7o7oYPs.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx2966-BDusgFy0UzDy.png"
+              }
+            },
+            "user": {
+              "id": 520323,
+              "name": "Setnara",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b520323-eNm1VnvoJ6Jx.png"
+              }
+            }
+          },
+          {
+            "id": 265444,
+            "rating": 4,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 154587,
+              "title": {
+                "userPreferred": "Sousou no Frieren"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/154587-ivXNJ23SM1xB.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx154587-gHSraOSa0nBG.jpg"
+              }
+            },
+            "user": {
+              "id": 803999,
+              "name": "Sirix",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b803999-4aWCMDp5dBFG.png"
+              }
+            }
+          },
+          {
+            "id": 263869,
+            "rating": 3,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 154214,
+              "title": {
+                "userPreferred": "Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/154214-R6zdN2T24raQ.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx154214-Uf9x7mY4IJJr.jpg"
+              }
+            },
+            "user": {
+              "id": 520323,
+              "name": "Setnara",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b520323-eNm1VnvoJ6Jx.png"
+              }
+            }
+          },
+          {
+            "id": 263894,
+            "rating": 3,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 21058,
+              "title": {
+                "userPreferred": "Akagami no Shirayuki-hime"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/21058-Kxl8fq3kEgeH.png",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx21058-IAIOIhkmKSBG.jpg"
+              }
+            },
+            "user": {
+              "id": 520323,
+              "name": "Setnara",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b520323-eNm1VnvoJ6Jx.png"
+              }
+            }
+          },
+          {
+            "id": 263917,
+            "rating": 3,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 98436,
+              "title": {
+                "userPreferred": "Mahoutsukai no Yome"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/98436-mipAtJXRUCgx.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx98436-n7sK6POCd0XV.png"
+              }
+            },
+            "user": {
+              "id": 520323,
+              "name": "Setnara",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b520323-eNm1VnvoJ6Jx.png"
+              }
+            }
+          }
+        ]
+      },
+      "externalLinks": [
+        {
+          "id": 63036,
+          "site": "Twitter",
+          "url": "https:\/\/twitter.com\/Project_UM",
+          "type": "SOCIAL",
+          "language": "Japanese",
+          "color": "#000000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/17-R0tMgOvwvhsS.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 63037,
+          "site": "Official Site",
+          "url": "https:\/\/unnamedmemory.com\/",
+          "type": "INFO",
+          "language": "Japanese",
+          "color": null,
+          "icon": null,
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 89144,
+          "site": "Crunchyroll",
+          "url": "https:\/\/www.crunchyroll.com\/series\/G9VHN9QXQ\/unnamed-memory",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#F88B24",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/5-AWN2pVlluCOO.png",
+          "notes": null,
+          "isDisabled": false
+        }
+      ],
+      "streamingEpisodes": [
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 1 - Cursed Words and the Azure Tower",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/b0f3cb4aae962fc06e2368bbdd6324f61712670581_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GZ7UVGD3E\/cursed-words-and-the-azure-tower"
+        }
+      ],
+      "trailer": {
+        "id": "DjaDWqKnBv8",
+        "site": "youtube"
+      },
+      "rankings": [
+        {
+          "id": 11133,
+          "rank": 53,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2024,
+          "season": null,
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 11222,
+          "rank": 44,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": null,
+          "allTime": false,
+          "context": "most popular"
+        },
+        {
+          "id": 11364,
+          "rank": 26,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2024,
+          "season": "SPRING",
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 11386,
+          "rank": 18,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": "SPRING",
+          "allTime": false,
+          "context": "most popular"
+        }
+      ],
+      "tags": [
+        {
+          "id": 179,
+          "name": "Witch",
+          "description": "Prominently features a character who is a witch.",
+          "rank": 86,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 683581
+        },
+        {
+          "id": 1327,
+          "name": "Royal Affairs",
+          "description": "Features nobility, alliances, arranged marriage, succession disputes, religious orders and other elements of royal politics.",
+          "rank": 70,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6031105
+        },
+        {
+          "id": 1045,
+          "name": "Heterosexual",
+          "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+          "rank": 70,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6031105
+        },
+        {
+          "id": 29,
+          "name": "Magic",
+          "description": "Prominently features magical elements or the use of magic.",
+          "rank": 68,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6448491
+        },
+        {
+          "id": 109,
+          "name": "Primarily Adult Cast",
+          "description": "Main cast is mostly composed of characters above a high school age.",
+          "rank": 66,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6031105
+        },
+        {
+          "id": 1433,
+          "name": "Marriage",
+          "description": "Centers around marriage between two or more characters.",
+          "rank": 60,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6031105
+        },
+        {
+          "id": 43,
+          "name": "Swordplay",
+          "description": "Prominently features the use of swords in combat.",
+          "rank": 46,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6448491
+        },
+        {
+          "id": 81,
+          "name": "Iyashikei",
+          "description": "Primary aim is to heal the audience through serene depictions of characters' daily lives.",
+          "rank": 40,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6339823
+        }
+      ],
+      "mediaListEntry": null,
+      "stats": {
+        "statusDistribution": [
+          {
+            "status": "CURRENT",
+            "amount": 14508
+          },
+          {
+            "status": "PLANNING",
+            "amount": 10005
+          },
+          {
+            "status": "COMPLETED",
+            "amount": 47
+          },
+          {
+            "status": "DROPPED",
+            "amount": 819
+          },
+          {
+            "status": "PAUSED",
+            "amount": 204
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 39
+          },
+          {
+            "score": 20,
+            "amount": 22
+          },
+          {
+            "score": 30,
+            "amount": 41
+          },
+          {
+            "score": 40,
+            "amount": 47
+          },
+          {
+            "score": 50,
+            "amount": 137
+          },
+          {
+            "score": 60,
+            "amount": 243
+          },
+          {
+            "score": 70,
+            "amount": 476
+          },
+          {
+            "score": 80,
+            "amount": 369
+          },
+          {
+            "score": 90,
+            "amount": 213
+          },
+          {
+            "score": 100,
+            "amount": 145
+          }
+        ]
+      }
+    }
+  }
+}

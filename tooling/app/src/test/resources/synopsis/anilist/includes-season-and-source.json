@@ -1,0 +1,990 @@
+{
+  "data": {
+    "Media": {
+      "id": 139518,
+      "title": {
+        "userPreferred": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+        "romaji": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
+        "english": "TSUKIMICHI -Moonlit Fantasy- Season 2",
+        "native": "\u6708\u304c\u5c0e\u304f\u7570\u4e16\u754c\u9053\u4e2d \u7b2c\u4e8c\u5e55"
+      },
+      "coverImage": {
+        "extraLarge": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx139518-GZWYKM8Kg1S2.png",
+        "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx139518-GZWYKM8Kg1S2.png"
+      },
+      "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/139518-OxLRGjPm9Tms.jpg",
+      "startDate": {
+        "year": 2024,
+        "month": 1,
+        "day": 8
+      },
+      "endDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "description": "The second season of <i>Tsuki ga Michibiku Isekai Douchuu<\/i>.<br>\n<br>\nAfter Makoto Misumi defeats Mitsurugi and Sofia Bulga, humanity is saved from the attacking demon army\u2014for the time being. The goddess is aware of Makoto\u2019s growing power, and she sees him as less of a nuisance and more of a rival. Makoto continues his journey to further expand his community of outcasts and connect with more hyumans. But will he be strong enough to hold off the coming storm?<br>\n<br>\n(Source: Crunchyroll)",
+      "season": "WINTER",
+      "seasonYear": 2024,
+      "type": "ANIME",
+      "format": "TV",
+      "status": "RELEASING",
+      "episodes": 25,
+      "duration": 24,
+      "chapters": null,
+      "volumes": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+      ],
+      "synonyms": [
+        "\u0e08\u0e31\u0e19\u0e17\u0e23\u0e32\u0e19\u0e33\u0e1e\u0e32\u0e2a\u0e39\u0e48\u0e15\u0e48\u0e32\u0e07\u0e42\u0e25\u0e01 \u0e20\u0e32\u0e04 2",
+        "\u6708\u5149\u4e0b\u7684\u7570\u4e16\u754c\u4e4b\u65c5 \u7b2c\u4e8c\u5b63",
+        "\u0411\u043b\u0430\u0433\u043e\u0441\u043b\u043e\u0432\u043b\u0451\u043d\u043d\u043e\u0435 \u043b\u0443\u043d\u043d\u044b\u043c \u0441\u0432\u0435\u0442\u043e\u043c \u043f\u0440\u0438\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u0432 \u0434\u0440\u0443\u0433\u043e\u043c \u043c\u0438\u0440\u0435 2"
+      ],
+      "source": "LIGHT_NOVEL",
+      "isAdult": false,
+      "isLocked": false,
+      "meanScore": 77,
+      "averageScore": 76,
+      "popularity": 55280,
+      "favourites": 1883,
+      "isFavouriteBlocked": false,
+      "hashtag": "#\u30c4\u30ad\u30df\u30c1 #\u30c4\u30ad\u30df\u30c12",
+      "countryOfOrigin": "JP",
+      "isLicensed": true,
+      "isFavourite": false,
+      "isRecommendationBlocked": false,
+      "isReviewBlocked": false,
+      "nextAiringEpisode": {
+        "airingAt": 1715608800,
+        "timeUntilAiring": 497870,
+        "episode": 19
+      },
+      "relations": {
+        "edges": [
+          {
+            "id": 63475,
+            "relationType": "PREQUEL",
+            "node": {
+              "id": 125206,
+              "title": {
+                "userPreferred": "Tsuki ga Michibiku Isekai Douchuu"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/125206-UdWijVTgcC5t.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx125206-O2MsOWdW1lVi.jpg"
+              }
+            }
+          },
+          {
+            "id": 63477,
+            "relationType": "SOURCE",
+            "node": {
+              "id": 87224,
+              "title": {
+                "userPreferred": "Tsuki ga Michibiku Isekai Douchuu"
+              },
+              "format": "NOVEL",
+              "type": "MANGA",
+              "status": "RELEASING",
+              "bannerImage": null,
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/bx87224-cXzygUtaRK8s.jpg"
+              }
+            }
+          },
+          {
+            "id": 89871,
+            "relationType": "ALTERNATIVE",
+            "node": {
+              "id": 87225,
+              "title": {
+                "userPreferred": "Tsuki ga Michibiku Isekai Douchuu"
+              },
+              "format": "MANGA",
+              "type": "MANGA",
+              "status": "RELEASING",
+              "bannerImage": null,
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/bx87225-EYFJq2QMzHkk.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "characterPreview": {
+        "edges": [
+          {
+            "id": 437360,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 111635,
+                "name": {
+                  "userPreferred": "Natsuki Hanae"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n111635-L385UcjTKCBq.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 138137,
+              "name": {
+                "userPreferred": "Makoto Misumi"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b138137-yBtJdBlRziS9.png"
+              }
+            }
+          },
+          {
+            "id": 332202,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 106622,
+                "name": {
+                  "userPreferred": "Ayane Sakura"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n106622-yemj6ymLz4lY.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 138138,
+              "name": {
+                "userPreferred": "Tomoe Misumi"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b138138-Nz9jNIHBVeRC.png"
+              }
+            }
+          },
+          {
+            "id": 332204,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 119722,
+                "name": {
+                  "userPreferred": "Akari Kitou"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n119722-Ls7ORfBejJEP.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 138139,
+              "name": {
+                "userPreferred": "Mio Misumi"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b138139-RyExQ4tdSsLG.png"
+              }
+            }
+          },
+          {
+            "id": 437359,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95591,
+                "name": {
+                  "userPreferred": "Kenjirou Tsuda"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95591-WQGdD3ubbeoq.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 247735,
+              "name": {
+                "userPreferred": "Shiki"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b247735-x7YhxlUh0Cnn.png"
+              }
+            }
+          },
+          {
+            "id": 476055,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 106817,
+                "name": {
+                  "userPreferred": "Yoshitsugu Matsuoka"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n106817-mioGQjbTWWQ6.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 329305,
+              "name": {
+                "userPreferred": "Root"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b329305-Ymyjee3lMhl7.jpg"
+              }
+            }
+          },
+          {
+            "id": 460144,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 113511,
+                "name": {
+                  "userPreferred": "Ai Kakuma"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n113511-9zlSX9E2ne5G.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 195918,
+              "name": {
+                "userPreferred": "Hibiki  Otonashi"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b195918-gM6mmP0pbdeN.png"
+              }
+            }
+          }
+        ]
+      },
+      "staffPreview": {
+        "edges": [
+          {
+            "id": 425646,
+            "role": "Original Story",
+            "node": {
+              "id": 119983,
+              "name": {
+                "userPreferred": "Kei Azumi"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n119983-kSNKQdrCw6xW.jpg"
+              }
+            }
+          },
+          {
+            "id": 425647,
+            "role": "Original Character Design",
+            "node": {
+              "id": 119984,
+              "name": {
+                "userPreferred": "Mitsuaki Matsumoto"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n119984-fvUzE81IzIA0.jpg"
+              }
+            }
+          },
+          {
+            "id": 698836,
+            "role": "Director",
+            "node": {
+              "id": 103743,
+              "name": {
+                "userPreferred": "Shinji Ishihira"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n103743-lE7d556GiDyq.png"
+              }
+            }
+          },
+          {
+            "id": 698839,
+            "role": "Series Composition",
+            "node": {
+              "id": 121054,
+              "name": {
+                "userPreferred": "Kenta Ihara"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n121054-BuB93AisYNhZ.png"
+              }
+            }
+          },
+          {
+            "id": 698838,
+            "role": "Character Design",
+            "node": {
+              "id": 133629,
+              "name": {
+                "userPreferred": "Yukie Suzuki"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 728115,
+            "role": "Art Director",
+            "node": {
+              "id": 222832,
+              "name": {
+                "userPreferred": "Teruhiko Niita"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 728116,
+            "role": "Director of Photography",
+            "node": {
+              "id": 238777,
+              "name": {
+                "userPreferred": "Fuuka Aoyagi"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 728113,
+            "role": "Editing",
+            "node": {
+              "id": 101596,
+              "name": {
+                "userPreferred": "Masahiro Gotou"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n101596-2Lr3xZ2xBnGU.png"
+              }
+            }
+          }
+        ]
+      },
+      "studios": {
+        "edges": [
+          {
+            "isMain": true,
+            "node": {
+              "id": 7,
+              "name": "J.C. Staff"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 143,
+              "name": "Mainichi Broadcasting System"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6620,
+              "name": "Nippon Television Network"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 29,
+              "name": "VAP"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 7166,
+              "name": "NetEase Games"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 7460,
+              "name": "AlphaPolis"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6815,
+              "name": "DMM.com"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6259,
+              "name": "TOKYO MX"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 7312,
+              "name": "BS Nittele"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6667,
+              "name": "Medicos Entertainment"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6417,
+              "name": "AQUA ARIS"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6428,
+              "name": "A-Sketch"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 7168,
+              "name": "CTW"
+            }
+          }
+        ]
+      },
+      "reviewPreview": {
+        "pageInfo": {
+          "total": 0
+        },
+        "nodes": []
+      },
+      "recommendations": {
+        "pageInfo": {
+          "total": 500
+        },
+        "nodes": [
+          {
+            "id": 248630,
+            "rating": 45,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 101280,
+              "title": {
+                "userPreferred": "Tensei Shitara Slime Datta Ken"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/101280-9t7J3774n955.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx101280-ezBXqEHi8pg0.jpg"
+              }
+            },
+            "user": {
+              "id": 5175256,
+              "name": "Roxxass",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b5175256-7p018dAEF1bA.jpg"
+              }
+            }
+          },
+          {
+            "id": 248637,
+            "rating": 15,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 137908,
+              "title": {
+                "userPreferred": "Chiyu Mahou no Machigatta Tsukaikata"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/137908-ZJ0tMykH623Z.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx137908-50af3lKVbst2.jpg"
+              }
+            },
+            "user": {
+              "id": 520323,
+              "name": "Setnara",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b520323-eNm1VnvoJ6Jx.png"
+              }
+            }
+          },
+          {
+            "id": 248926,
+            "rating": 10,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 20920,
+              "title": {
+                "userPreferred": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/20920-QZeO1gVTQSUZ.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx20920-3x2KtyeYQmaR.jpg"
+              }
+            },
+            "user": {
+              "id": 428077,
+              "name": "parsaxo",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b428077-92Dnjs0bPOw2.png"
+              }
+            }
+          },
+          {
+            "id": 253587,
+            "rating": 10,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 147642,
+              "title": {
+                "userPreferred": "Nozomanu Fushi no Boukensha"
+              },
+              "format": "ONA",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/147642-TZIcI9SzmKwl.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx147642-SztpXNn9ke6P.jpg"
+              }
+            },
+            "user": {
+              "id": 520323,
+              "name": "Setnara",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b520323-eNm1VnvoJ6Jx.png"
+              }
+            }
+          },
+          {
+            "id": 248998,
+            "rating": 8,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 107693,
+              "title": {
+                "userPreferred": "Mairimashita! Iruma-kun"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/107693-h0syT88giDiw.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx107693-A9bSSFAMxA6j.jpg"
+              }
+            },
+            "user": {
+              "id": 5821182,
+              "name": "Gandalf1414",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b5821182-Ofu3ZvVcoKcr.jpg"
+              }
+            }
+          },
+          {
+            "id": 258142,
+            "rating": 5,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 20832,
+              "title": {
+                "userPreferred": "Overlord"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/20832-NswCiSYMoI2k.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/nx20832-Kz7PMdGT0JI6.jpg"
+              }
+            },
+            "user": {
+              "id": 6288119,
+              "name": "PerfectPicture",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b6288119-8VW0bp7rGFpG.jpg"
+              }
+            }
+          },
+          {
+            "id": 258144,
+            "rating": 3,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 104252,
+              "title": {
+                "userPreferred": "Maou-sama, Retry!"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/104252-qeVvmiAPExqQ.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx104252-DTFPQy0uae3o.png"
+              }
+            },
+            "user": {
+              "id": 6288119,
+              "name": "PerfectPicture",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b6288119-8VW0bp7rGFpG.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "externalLinks": [
+        {
+          "id": 38506,
+          "site": "Twitter",
+          "url": "https:\/\/twitter.com\/tsukimichi_PR",
+          "type": "SOCIAL",
+          "language": "Japanese",
+          "color": "#000000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/17-R0tMgOvwvhsS.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 38507,
+          "site": "Official Site",
+          "url": "https:\/\/tsukimichi.com\/",
+          "type": "INFO",
+          "language": "Japanese",
+          "color": null,
+          "icon": null,
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 82582,
+          "site": "Crunchyroll",
+          "url": "https:\/\/www.crunchyroll.com\/series\/GZJH3D719\/tsukimichi--moonlit-fantasy-",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#F88B24",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/5-AWN2pVlluCOO.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 84789,
+          "site": "Bilibili TV",
+          "url": "https:\/\/www.bilibili.tv\/en\/media\/2097987",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#00A1D6",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/119-NCwGvCjFADGQ.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 84975,
+          "site": "YouTube",
+          "url": "https:\/\/www.youtube.com\/playlist?list=PLxSscENEp7JhJY1zEwijh3wClH5Gw1ylJ",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#FF0000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/13-ZwR1Xwgtyrwa.png",
+          "notes": "Ani-One Asia",
+          "isDisabled": false
+        }
+      ],
+      "streamingEpisodes": [],
+      "trailer": {
+        "id": "bJaTrqUGXXU",
+        "site": "youtube"
+      },
+      "rankings": [
+        {
+          "id": 11099,
+          "rank": 19,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2024,
+          "season": null,
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 11191,
+          "rank": 13,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": null,
+          "allTime": false,
+          "context": "most popular"
+        },
+        {
+          "id": 11286,
+          "rank": 8,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2024,
+          "season": "WINTER",
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 11314,
+          "rank": 6,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": "WINTER",
+          "allTime": false,
+          "context": "most popular"
+        }
+      ],
+      "tags": [
+        {
+          "id": 244,
+          "name": "Isekai",
+          "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+          "rank": 93,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5314136
+        },
+        {
+          "id": 29,
+          "name": "Magic",
+          "description": "Prominently features magical elements or the use of magic.",
+          "rank": 88,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 427009
+        },
+        {
+          "id": 82,
+          "name": "Male Protagonist",
+          "description": "Main character is male.",
+          "rank": 76,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 427009
+        },
+        {
+          "id": 516,
+          "name": "Language Barrier",
+          "description": "A barrier to communication between people who are unable to speak a common language.",
+          "rank": 64,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 427009
+        },
+        {
+          "id": 253,
+          "name": "Gods",
+          "description": "Prominently features a character of divine or religious nature.",
+          "rank": 60,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 427009
+        },
+        {
+          "id": 23,
+          "name": "Female Harem",
+          "description": "Main cast features the protagonist plus several female characters who are romantically interested in them.",
+          "rank": 58,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 528499
+        },
+        {
+          "id": 1304,
+          "name": "Anthropomorphism",
+          "description": "Contains non-human character(s) that have attributes or characteristics of a human being.",
+          "rank": 50,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 382263
+        },
+        {
+          "id": 259,
+          "name": "Monster Girl",
+          "description": "Prominently features a female character who is part-monster.",
+          "rank": 40,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 862192
+        },
+        {
+          "id": 291,
+          "name": "Samurai",
+          "description": "Prominently features warriors of medieval Japanese nobility bound by a code of honor.",
+          "rank": 30,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 427009
+        },
+        {
+          "id": 224,
+          "name": "Dragons",
+          "description": "Prominently features mythical reptiles which generally have wings and can breathe fire.",
+          "rank": 30,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 427009
+        },
+        {
+          "id": 144,
+          "name": "Meta",
+          "description": "Features fourth wall-breaking references to itself or genre tropes.",
+          "rank": 25,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 427009
+        },
+        {
+          "id": 142,
+          "name": "Food",
+          "description": "Centers around cooking or food appraisal.",
+          "rank": 20,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5427152
+        },
+        {
+          "id": 165,
+          "name": "Teacher",
+          "description": "Protagonist is an educator, usually in a school setting.",
+          "rank": 20,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 862192
+        },
+        {
+          "id": 248,
+          "name": "Economics",
+          "description": "Centers around the field of economics.",
+          "rank": 20,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 862192
+        },
+        {
+          "id": 15,
+          "name": "Demons",
+          "description": "Prominently features malevolent otherworldly creatures.",
+          "rank": 20,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 862192
+        }
+      ],
+      "mediaListEntry": null,
+      "stats": {
+        "statusDistribution": [
+          {
+            "status": "CURRENT",
+            "amount": 33060
+          },
+          {
+            "status": "PLANNING",
+            "amount": 20095
+          },
+          {
+            "status": "COMPLETED",
+            "amount": 895
+          },
+          {
+            "status": "DROPPED",
+            "amount": 596
+          },
+          {
+            "status": "PAUSED",
+            "amount": 634
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 53
+          },
+          {
+            "score": 20,
+            "amount": 21
+          },
+          {
+            "score": 30,
+            "amount": 48
+          },
+          {
+            "score": 40,
+            "amount": 56
+          },
+          {
+            "score": 50,
+            "amount": 225
+          },
+          {
+            "score": 60,
+            "amount": 416
+          },
+          {
+            "score": 70,
+            "amount": 1221
+          },
+          {
+            "score": 80,
+            "amount": 1529
+          },
+          {
+            "score": 90,
+            "amount": 1194
+          },
+          {
+            "score": 100,
+            "amount": 712
+          }
+        ]
+      }
+    }
+  }
+}

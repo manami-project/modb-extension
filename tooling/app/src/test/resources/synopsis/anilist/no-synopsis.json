@@ -1,0 +1,207 @@
+{
+  "data": {
+    "Media": {
+      "id": 141867,
+      "title": {
+        "userPreferred": "Chang Ge Xing",
+        "romaji": "Chang Ge Xing",
+        "english": null,
+        "native": "\u957f\u6b4c\u884c"
+      },
+      "coverImage": {
+        "extraLarge": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx141867-8YMiHRZpJzcm.png",
+        "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx141867-8YMiHRZpJzcm.png"
+      },
+      "bannerImage": null,
+      "startDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "endDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "description": null,
+      "season": null,
+      "seasonYear": null,
+      "type": "ANIME",
+      "format": "ONA",
+      "status": "NOT_YET_RELEASED",
+      "episodes": null,
+      "duration": null,
+      "chapters": null,
+      "volumes": null,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "synonyms": [
+        "The Legend of Princess Chang Ge"
+      ],
+      "source": "MANGA",
+      "isAdult": false,
+      "isLocked": false,
+      "meanScore": null,
+      "averageScore": null,
+      "popularity": 207,
+      "favourites": 2,
+      "isFavouriteBlocked": false,
+      "hashtag": null,
+      "countryOfOrigin": "CN",
+      "isLicensed": true,
+      "isFavourite": false,
+      "isRecommendationBlocked": false,
+      "isReviewBlocked": false,
+      "nextAiringEpisode": null,
+      "relations": {
+        "edges": [
+          {
+            "id": 65427,
+            "relationType": "SOURCE",
+            "node": {
+              "id": 72001,
+              "title": {
+                "userPreferred": "Chang Ge Xing"
+              },
+              "format": "MANGA",
+              "type": "MANGA",
+              "status": "HIATUS",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/banner\/72001-xPmQylANGalm.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/bx72001-ovt706Sru0FP.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "characterPreview": {
+        "edges": []
+      },
+      "staffPreview": {
+        "edges": [
+          {
+            "id": 466493,
+            "role": "Original Creator",
+            "node": {
+              "id": 106796,
+              "name": {
+                "userPreferred": "Da Xia"
+              },
+              "language": "Chinese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n106796-OMo9szHL21wP.png"
+              }
+            }
+          }
+        ]
+      },
+      "studios": {
+        "edges": [
+          {
+            "isMain": true,
+            "node": {
+              "id": 6380,
+              "name": "BigBigSun"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6389,
+              "name": "bilibili"
+            }
+          }
+        ]
+      },
+      "reviewPreview": {
+        "pageInfo": {
+          "total": 0
+        },
+        "nodes": []
+      },
+      "recommendations": {
+        "pageInfo": {
+          "total": 0
+        },
+        "nodes": []
+      },
+      "externalLinks": [
+        {
+          "id": 40804,
+          "site": "Bilibili",
+          "url": "https:\/\/www.bilibili.com\/bangumi\/media\/md28235354\/",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#00A1D6",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/45-6JAD1SYYCHI2.png",
+          "notes": null,
+          "isDisabled": false
+        }
+      ],
+      "streamingEpisodes": [],
+      "trailer": {
+        "id": "jN1lfy0_rMk",
+        "site": "youtube"
+      },
+      "rankings": [],
+      "tags": [
+        {
+          "id": 89,
+          "name": "Full CGI",
+          "description": "Almost entirely created with computer-generated imagery.",
+          "rank": 50,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 120802
+        },
+        {
+          "id": 1598,
+          "name": "Ancient China",
+          "description": "Setting in ancient china, does not apply to fantasy settings.",
+          "rank": 20,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 408904
+        }
+      ],
+      "mediaListEntry": null,
+      "stats": {
+        "statusDistribution": [
+          {
+            "status": "CURRENT",
+            "amount": 6
+          },
+          {
+            "status": "PLANNING",
+            "amount": 196
+          },
+          {
+            "status": "COMPLETED",
+            "amount": 1
+          },
+          {
+            "status": "DROPPED",
+            "amount": 4
+          },
+          {
+            "status": "PAUSED",
+            "amount": 0
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1
+          },
+          {
+            "score": 20,
+            "amount": 1
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,1334 @@
+{
+  "data": {
+    "Media": {
+        "id": 113415,
+      "title": {
+        "userPreferred": "Jujutsu Kaisen",
+        "romaji": "Jujutsu Kaisen",
+        "english": "JUJUTSU KAISEN",
+        "native": "\u546a\u8853\u5efb\u6226"
+      },
+      "coverImage": {
+        "extraLarge": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx113415-bbBWj4pEFseh.jpg",
+        "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx113415-bbBWj4pEFseh.jpg"
+      },
+      "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/113415-jQBSkxWAAk83.jpg",
+      "startDate": {
+        "year": 2020,
+        "month": 10,
+        "day": 3
+      },
+      "endDate": {
+        "year": 2021,
+        "month": 3,
+        "day": 27
+      },
+      "description": "A boy fights... for \"the right death.\"<br>\n<br>\nHardship, regret, shame: the negative feelings that humans feel become Curses that lurk in our everyday lives. The Curses run rampant throughout the world, capable of leading people to terrible misfortune and even death. What's more, the Curses can only be exorcised by another Curse.<br>\n<br>\nItadori Yuji is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a friend who has been attacked by Curses, he eats the finger of the Double-Faced Specter, taking the Curse into his own soul. From then on, he shares one body with the Double-Faced Specter. Guided by the most powerful of sorcerers, Gojou Satoru, Itadori is admitted to the Tokyo Metropolitan Technical High School of Sorcery, an organization that fights the Curses... and thus begins the heroic tale of a boy who became a Curse to exorcise a Curse, a life from which he could never turn back.\n<br><br>\n(Source: Crunchyroll)<br>\n<br>\n<i>Note: The first episode received an early web premiere on September 19th, 2020. The regular TV broadcast started on October 3rd, 2020.<\/i>",
+      "season": "FALL",
+      "seasonYear": 2020,
+      "type": "ANIME",
+      "format": "TV",
+      "status": "FINISHED",
+      "episodes": 24,
+      "duration": 24,
+      "chapters": null,
+      "volumes": null,
+      "genres": [
+        "Action",
+        "Drama",
+        "Supernatural"
+      ],
+      "synonyms": [
+        "JJK",
+        "Sorcery Fight",
+        "\u5492\u672f\u56de\u6218",
+        "\uc8fc\uc220\ud68c\uc804",
+        "\u0e21\u0e2b\u0e32\u0e40\u0e27\u0e17\u0e22\u0e4c\u0e1c\u0e19\u0e36\u0e01\u0e21\u0e32\u0e23",
+        "\u062c\u0648\u062c\u0648\u062a\u0633\u0648 \u0643\u0627\u064a\u0633\u0646",
+        "\u041c\u0430\u0433\u0438\u0447\u0435\u0441\u043a\u0430\u044f \u0431\u0438\u0442\u0432\u0430",
+        "\u5492\u8853\u8ff4\u6230"
+      ],
+      "source": "MANGA",
+      "isAdult": false,
+      "isLocked": false,
+      "meanScore": 86,
+      "averageScore": 86,
+      "popularity": 662604,
+      "favourites": 47940,
+      "isFavouriteBlocked": false,
+      "hashtag": "#\u546a\u8853\u5efb\u6226",
+      "countryOfOrigin": "JP",
+      "isLicensed": true,
+      "isFavourite": false,
+      "isRecommendationBlocked": false,
+      "isReviewBlocked": false,
+      "nextAiringEpisode": null,
+      "relations": {
+        "edges": [
+          {
+            "id": 36747,
+            "relationType": "SOURCE",
+            "node": {
+              "id": 101517,
+              "title": {
+                "userPreferred": "Jujutsu Kaisen"
+              },
+              "format": "MANGA",
+              "type": "MANGA",
+              "status": "RELEASING",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/banner\/101517-FrJtb3Th3HtF.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/bx101517-H3TdM3g5ZUe9.jpg"
+              }
+            }
+          },
+          {
+            "id": 54914,
+            "relationType": "PREQUEL",
+            "node": {
+              "id": 131573,
+              "title": {
+                "userPreferred": "Jujutsu Kaisen 0"
+              },
+              "format": "MOVIE",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/131573-3veuVz5p0z2I.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx131573-rpl82vDEDRm6.jpg"
+              }
+            }
+          },
+          {
+            "id": 68876,
+            "relationType": "SEQUEL",
+            "node": {
+              "id": 145064,
+              "title": {
+                "userPreferred": "Jujutsu Kaisen 2nd Season"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/145064-esDtAY2He7sk.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx145064-FwX2pzE4mS8Q.jpg"
+              }
+            }
+          },
+          {
+            "id": 71815,
+            "relationType": "OTHER",
+            "node": {
+              "id": 147463,
+              "title": {
+                "userPreferred": "Jujutsu Kaisen PV"
+              },
+              "format": "ONA",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": null,
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/b147463-LmoLwL9DbYAn.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "characterPreview": {
+        "edges": [
+          {
+            "id": 192386,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 119617,
+                "name": {
+                  "userPreferred": "Yuuma Uchida"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n119617-icFDk96OdV5k.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 126635,
+              "name": {
+                "userPreferred": "Megumi Fushiguro"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b126635-L0y3I92JSUkN.png"
+              }
+            }
+          },
+          {
+            "id": 192387,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 119319,
+                "name": {
+                  "userPreferred": "Junya Enoki"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n119319-yIrrUOUaJuSm.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 127212,
+              "name": {
+                "userPreferred": "Yuuji Itadori"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b127212-FVm2tD0erQ5B.png"
+              }
+            }
+          },
+          {
+            "id": 196122,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95513,
+                "name": {
+                  "userPreferred": "Yuuichi Nakamura"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95513-up9ZDuocHgRs.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 127691,
+              "name": {
+                "userPreferred": "Satoru Gojou"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b127691-UmAY8k2uXeQM.png"
+              }
+            }
+          },
+          {
+            "id": 192388,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 106787,
+                "name": {
+                  "userPreferred": "Asami Seto"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n106787-ojpoY7XEGYgc.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 133700,
+              "name": {
+                "userPreferred": "Nobara Kugisaki"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b133700-f6sOO3TcgLV6.png"
+              }
+            }
+          },
+          {
+            "id": 249508,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95079,
+                "name": {
+                  "userPreferred": "Takahiro Sakurai"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95079-MdbWTLxPUvFf.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 133699,
+              "name": {
+                "userPreferred": "Suguru Getou"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b133699-FCnXaISgazAi.png"
+              }
+            }
+          },
+          {
+            "id": 224113,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95095,
+                "name": {
+                  "userPreferred": "Junichi Suwabe"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95095-DvSjTQnqcgXP.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 133701,
+              "name": {
+                "userPreferred": "Sukuna"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b133701-JVAThWqcAncW.png"
+              }
+            }
+          }
+        ]
+      },
+      "staffPreview": {
+        "edges": [
+          {
+            "id": 149741,
+            "role": "Original Creator",
+            "node": {
+              "id": 125415,
+              "name": {
+                "userPreferred": "Gege Akutami"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n125415-B1o6NtIImcCK.png"
+              }
+            }
+          },
+          {
+            "id": 191787,
+            "role": "Director",
+            "node": {
+              "id": 123074,
+              "name": {
+                "userPreferred": "Seong-Hu Park"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n123074-6tFkJXFgMNv9.png"
+              }
+            }
+          },
+          {
+            "id": 217489,
+            "role": "Assistant Director",
+            "node": {
+              "id": 142936,
+              "name": {
+                "userPreferred": "Yui Miura"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n142936-wmrPkmCaZGJV.png"
+              }
+            }
+          },
+          {
+            "id": 191792,
+            "role": "Series Composition",
+            "node": {
+              "id": 99012,
+              "name": {
+                "userPreferred": "Hiroshi Seko"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n99012-H3OCMnoTqmEV.png"
+              }
+            }
+          },
+          {
+            "id": 191790,
+            "role": "Character Design",
+            "node": {
+              "id": 101185,
+              "name": {
+                "userPreferred": "Tadashi Hiramatsu"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n101185-CJLT9YKxSDZC.png"
+              }
+            }
+          },
+          {
+            "id": 282585,
+            "role": "Art Director",
+            "node": {
+              "id": 211545,
+              "name": {
+                "userPreferred": "Jeong-Ryeon Kim"
+              },
+              "language": "Korean",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 217490,
+            "role": "Color Design",
+            "node": {
+              "id": 173676,
+              "name": {
+                "userPreferred": "Chikako Kamata"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 217492,
+            "role": "Director of Photography",
+            "node": {
+              "id": 187695,
+              "name": {
+                "userPreferred": "Teppei Itou"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n187695-66OoI6HPffxX.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "studios": {
+        "edges": [
+          {
+            "isMain": false,
+            "node": {
+              "id": 245,
+              "name": "Toho"
+            }
+          },
+          {
+            "isMain": true,
+            "node": {
+              "id": 569,
+              "name": "MAPPA"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6570,
+              "name": "Shueisha"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6602,
+              "name": "Sumzap"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 143,
+              "name": "Mainichi Broadcasting System"
+            }
+          }
+        ]
+      },
+      "reviewPreview": {
+        "pageInfo": {
+          "total": 500
+        },
+        "nodes": [
+          {
+            "id": 10785,
+            "summary": "One of the Absolute Worst Shounen Out there if not the Worst I have Come Across as of Yet",
+            "rating": 679,
+            "ratingAmount": 2832,
+            "user": {
+              "id": 39336,
+              "name": "KaizokuOtaku",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b39336-ac6s4xA0wjEY.gif"
+              }
+            }
+          },
+          {
+            "id": 10255,
+            "summary": "This first season of Jujutsu Kaisen is a truly remarkable run of 24 perfect episodes, making it a must watch.",
+            "rating": 548,
+            "ratingAmount": 776,
+            "user": {
+              "id": 835398,
+              "name": "setok",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b835398-4Y5biaxGeKkl.png"
+              }
+            }
+          }
+        ]
+      },
+      "recommendations": {
+        "pageInfo": {
+          "total": 500
+        },
+        "nodes": [
+          {
+            "id": 45038,
+            "rating": 2751,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 101922,
+              "title": {
+                "userPreferred": "Kimetsu no Yaiba"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/101922-YfZhKBUDDS6L.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx101922-WBsBl0ClmgYL.jpg"
+              }
+            },
+            "user": {
+              "id": 516348,
+              "name": "highfuelreal",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b516348-41YbjZMAK3HD.jpg"
+              }
+            }
+          },
+          {
+            "id": 44920,
+            "rating": 1094,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 269,
+              "title": {
+                "userPreferred": "BLEACH"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/269-08ar2HJOUAuL.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx269-wc062RMqud8B.png"
+              }
+            },
+            "user": {
+              "id": 127137,
+              "name": "evielynn",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b127137-Bt9OTu80Hdwu.png"
+              }
+            }
+          },
+          {
+            "id": 44918,
+            "rating": 895,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 11061,
+              "title": {
+                "userPreferred": "HUNTER\u00d7HUNTER (2011)"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/11061-8WkkTZ6duKpq.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx11061-NpIIobuQNbJW.png"
+              }
+            },
+            "user": {
+              "id": 127137,
+              "name": "evielynn",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b127137-Bt9OTu80Hdwu.png"
+              }
+            }
+          },
+          {
+            "id": 174787,
+            "rating": 836,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 127230,
+              "title": {
+                "userPreferred": "Chainsaw Man"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/127230-o8IRwCGVr9KW.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx127230-NuHM32a3VJsb.png"
+              }
+            },
+            "user": {
+              "id": 3,
+              "name": "Removed",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/3.jpg"
+              }
+            }
+          },
+          {
+            "id": 44972,
+            "rating": 515,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 20623,
+              "title": {
+                "userPreferred": "Kiseijuu: Sei no Kakuritsu"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/20623-xb9PPf8rGOsG.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx20623-rVoHgF3Apo7P.jpg"
+              }
+            },
+            "user": {
+              "id": 601170,
+              "name": "Rohit",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b601170-o0DzjXY7KRa5.jpg"
+              }
+            }
+          },
+          {
+            "id": 44978,
+            "rating": 419,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 20447,
+              "title": {
+                "userPreferred": "Noragami"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/20447-nlgQQzcgWbgw.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx20447-EoQXeygHaVCK.jpg"
+              }
+            },
+            "user": {
+              "id": 528448,
+              "name": "Melken",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b528448-LZNxSac84Dnv.png"
+              }
+            }
+          },
+          {
+            "id": 45074,
+            "rating": 360,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 9919,
+              "title": {
+                "userPreferred": "Ao no Exorcist"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/9919-S5idQm3GbZ80.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx9919-nXS7JOZrWHfS.jpg"
+              }
+            },
+            "user": {
+              "id": 3,
+              "name": "Removed",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/3.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "externalLinks": [
+        {
+          "id": 13086,
+          "site": "Official Site",
+          "url": "https:\/\/jujutsukaisen.jp\/",
+          "type": "INFO",
+          "language": "Japanese",
+          "color": null,
+          "icon": null,
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 13087,
+          "site": "Twitter",
+          "url": "https:\/\/twitter.com\/animejujutsu",
+          "type": "SOCIAL",
+          "language": "Japanese",
+          "color": "#000000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/17-R0tMgOvwvhsS.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 23866,
+          "site": "Crunchyroll",
+          "url": "https:\/\/www.crunchyroll.com\/jujutsu-kaisen",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#F88B24",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/5-AWN2pVlluCOO.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 32771,
+          "site": "Netflix",
+          "url": "https:\/\/www.netflix.com\/title\/81278456",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#E50914",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/10-rVGPom8RCiwH.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 34368,
+          "site": "iQ",
+          "url": "https:\/\/www.iq.com\/album\/igc33vhvex",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#00CC36",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/122-EPBJ2E0oPt5C.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 41427,
+          "site": "Bilibili TV",
+          "url": "https:\/\/www.bilibili.tv\/media\/37738",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#00A1D6",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/119-NCwGvCjFADGQ.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 45305,
+          "site": "Twitter",
+          "url": "https:\/\/twitter.com\/Jujutsu_anime",
+          "type": "SOCIAL",
+          "language": "French",
+          "color": "#000000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/17-R0tMgOvwvhsS.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 72914,
+          "site": "YouTube",
+          "url": "https:\/\/youtube.com\/playlist?list=PLxSscENEp7JisDU6GAJuyNpVwDvCm-f3J",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#FF0000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/13-ZwR1Xwgtyrwa.png",
+          "notes": "Ani-One Asia",
+          "isDisabled": false
+        },
+        {
+          "id": 73034,
+          "site": "Twitter",
+          "url": "https:\/\/twitter.com\/Jujutsu_Kaisen_",
+          "type": "SOCIAL",
+          "language": "English",
+          "color": "#000000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/17-R0tMgOvwvhsS.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 90013,
+          "site": "Hulu",
+          "url": "https:\/\/www.hulu.com\/series\/jujutsu-kaisen-382ec8bf-3650-4cde-94db-ecd18665f9e0",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#1CE783",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/7-rM06PQyWONGC.png",
+          "notes": null,
+          "isDisabled": false
+        }
+      ],
+      "streamingEpisodes": [
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 1 - Ryomen Sukuna",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/1ef057fb7fd088de798cc4a6571cc4a21605858787_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G8WUND3JW\/ryomen-sukuna"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 2 - For Myself",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/4d53a19f3832834b5eeb58494362672f1606459212_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GWDU893ZZ\/for-myself"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 3 - Girl of Steel",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/16220c7eddb784fbaace05b1e570e3f41607083878_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GK9U3ZN47\/girl-of-steel"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 4 - Curse Womb Must Die",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/dbce9a0bc0e84830bad8048ba7f7f0d11607697009_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GN7UDZDZ3\/curse-womb-must-die"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 5 - Curse Womb Must Die -II-",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/fc26d630619ec4865f1cc481e7452de31608308347_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GQJUGDG1X\/curse-womb-must-die-ii-"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 6 - After Rain",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/df185fffe015701d652f0a22f46d27491608908958_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GQJUGDM28\/after-rain"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 7 - Assault",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/627c45766c8bb8722b251296d8b41e0e1609491366_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G14U4350D\/assault"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 8 - Boredom",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/567fd3dd5850cf764721530b01231d851610114584_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G9DUEXVE8\/boredom"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 9 - Small Fry and Reverse Retribution",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/90fa2e82e1326a94e7779b9978b74d661610710694_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GEVUZP13J\/small-fry-and-reverse-retribution"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 10 - Idle Transfiguration",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/3f993b2f34efbcfe01a6d70edd94040d1611324307_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G0DUN33DZ\/idle-transfiguration"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 11 - Narrow-minded",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/a3415f0086b16c500c36ead2f8a6115a1611915565_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GQJUGD77K\/narrow-minded"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 12 - To You, Someday",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/f01e526b6246b4e39f20d3e66026291f1612528699_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GJWU2MZ0G\/to-you-someday"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 13 - Tomorrow",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/671e98e1b0d7adba8cd9e987bf1e4a521613119160_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GQJUGD213\/tomorrow"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 14 - Kyoto Sister School Exchange Event - Group Battle 0 -",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/001c1724d7377ddae5199108115301b81614961337_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GN7UDZ19Q\/kyoto-sister-school-exchange-event-group-battle-0-"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 15 - Kyoto Sister School Exchange Event - Group Battle 1 -",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/c256fde870bbfe5e06d262f9619e43c11615562827_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GEVUZP7K5\/kyoto-sister-school-exchange-event-group-battle-1-"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 16 - Kyoto Sister School Exchange Event - Group Battle 2 -",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/634b1b5aef81deacc96de1196136e3821616157733_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GX9UQK1KJ\/kyoto-sister-school-exchange-event-group-battle-2-"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 17 - Kyoto Sister School Exchange Event - Group Battle 3 -",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/20a611db4acbb82c4fee8e878393c6311616764686_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GJWU2J738\/kyoto-sister-school-exchange-event-group-battle-3-"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 18 - Sage",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/df6bc2078ddbe883c607cc0149c629411617363908_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G8WUN2NPV\/sage"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 19 - Black Flash",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/a8de712a35a64f0f30abcd8b356fcb511617991745_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G7PU4W4Q8\/black-flash"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 20 - Nonstandard",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/12f0e02621beef5c8a18e5c71c9cfe401618568707_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GMKUX5E0V\/nonstandard"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 21 - Jujutsu Koshien",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/2e5818ee67ec1dc39029d2ccae6af4f31619176411_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GK9U38GQK\/jujutsu-koshien"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 22 - The Origin of Blind Obedience",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/2bfb51c0b436a22010a1370b27b9a0f31619781911_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G9DUED4XZ\/the-origin-of-blind-obedience"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 23 - The Origin of Blind Obedience - 2 -",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/b2c6d9719205194dca682dd510d2969e1620403205_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G4VUQM4K1\/the-origin-of-blind-obedience-2-"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 24 - Accomplices",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/457da1fe491e41b44eafad8a284dc9211620982098_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G31UX7JPM\/accomplices"
+        }
+      ],
+      "trailer": {
+        "id": "pkKu9hLT-t8",
+        "site": "youtube"
+      },
+      "rankings": [
+        {
+          "id": 45,
+          "rank": 45,
+          "type": "RATED",
+          "format": "TV",
+          "year": null,
+          "season": null,
+          "allTime": true,
+          "context": "highest rated all time"
+        },
+        {
+          "id": 505,
+          "rank": 5,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": null,
+          "season": null,
+          "allTime": true,
+          "context": "most popular all time"
+        },
+        {
+          "id": 9350,
+          "rank": 3,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2020,
+          "season": null,
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 9448,
+          "rank": 1,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2020,
+          "season": null,
+          "allTime": false,
+          "context": "most popular"
+        },
+        {
+          "id": 9701,
+          "rank": 1,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2020,
+          "season": "FALL",
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 9731,
+          "rank": 1,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2020,
+          "season": "FALL",
+          "allTime": false,
+          "context": "most popular"
+        }
+      ],
+      "tags": [
+        {
+          "id": 321,
+          "name": "Urban Fantasy",
+          "description": "Set in a world similar to the real world, but with the existence of magic or other supernatural elements.",
+          "rank": 93,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 56,
+          "name": "Shounen",
+          "description": "Target demographic is teenage and young adult males.",
+          "rank": 92,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 66,
+          "name": "Super Power",
+          "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+          "rank": 88,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 233,
+          "name": "Youkai",
+          "description": "Prominently features supernatural creatures from Japanese folklore.",
+          "rank": 88,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 82,
+          "name": "Male Protagonist",
+          "description": "Main character is male.",
+          "rank": 85,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 1228,
+          "name": "Primarily Teen Cast",
+          "description": "Main cast is mostly composed of teen characters.",
+          "rank": 84,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 317528
+        },
+        {
+          "id": 536,
+          "name": "Dissociative Identities",
+          "description": "A case where one or more people share the same body.",
+          "rank": 80,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 15,
+          "name": "Demons",
+          "description": "Prominently features malevolent otherworldly creatures.",
+          "rank": 75,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5750280
+        },
+        {
+          "id": 639,
+          "name": "Body Horror",
+          "description": "Features characters who undergo horrific transformations or disfigurement, often to their own detriment.",
+          "rank": 75,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 29,
+          "name": "Magic",
+          "description": "Prominently features magical elements or the use of magic.",
+          "rank": 72,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 105,
+          "name": "Ensemble Cast",
+          "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+          "rank": 70,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 1382,
+          "name": "Orphan",
+          "description": "Prominently features a character that is an orphan.",
+          "rank": 70,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 862192
+        },
+        {
+          "id": 30,
+          "name": "Martial Arts",
+          "description": "Centers around the use of traditional hand-to-hand combat.",
+          "rank": 70,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 88,
+          "name": "Primarily Male Cast",
+          "description": "Main cast is mostly composed of male characters.",
+          "rank": 68,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6360034
+        },
+        {
+          "id": 94,
+          "name": "Gore",
+          "description": "Prominently features graphic bloodshed and violence.",
+          "rank": 65,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 43,
+          "name": "Swordplay",
+          "description": "Prominently features the use of swords in combat.",
+          "rank": 65,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 85,
+          "name": "Tragedy",
+          "description": "Centers around tragic events and unhappy endings.",
+          "rank": 61,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": true,
+          "userId": 955403
+        },
+        {
+          "id": 1489,
+          "name": "Boarding School",
+          "description": "Features characters attending a boarding school.",
+          "rank": 60,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5653199
+        },
+        {
+          "id": 772,
+          "name": "Shapeshifting",
+          "description": "Features character(s) who changes one's appearance or form.",
+          "rank": 60,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": false,
+          "userId": 373784
+        },
+        {
+          "id": 46,
+          "name": "School",
+          "description": "Partly or completely set in a primary or secondary educational institution.",
+          "rank": 60,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 683,
+          "name": "Rotoscoping",
+          "description": "Animation technique that animators use to trace over motion picture footage, frame by frame, to produce realistic action.",
+          "rank": 56,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": null
+        },
+        {
+          "id": 83,
+          "name": "Slapstick",
+          "description": "Prominently features comedy based on deliberately clumsy actions or embarrassing events.",
+          "rank": 55,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5948301
+        },
+        {
+          "id": 1304,
+          "name": "Anthropomorphism",
+          "description": "Contains non-human character(s) that have attributes or characteristics of a human being.",
+          "rank": 53,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5968206
+        },
+        {
+          "id": 208,
+          "name": "Mythology",
+          "description": "Prominently features mythological elements, especially those from religious or cultural tradition.",
+          "rank": 45,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5968206
+        },
+        {
+          "id": 1456,
+          "name": "Femboy",
+          "description": "Features a boy who exhibits characteristics or behaviors considered in many cultures to be typical of girls.",
+          "rank": 43,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5120524
+        },
+        {
+          "id": 281,
+          "name": "Surreal Comedy",
+          "description": "Prominently features comedic moments that defy casual reasoning, resulting in illogical events.",
+          "rank": 40,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5968206
+        },
+        {
+          "id": 494,
+          "name": "Twins",
+          "description": "Prominently features two or more siblings that were born at one birth.",
+          "rank": 40,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 862192
+        },
+        {
+          "id": 84,
+          "name": "School Club",
+          "description": "Partly or completely set in a school club scene.",
+          "rank": 32,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5123889
+        },
+        {
+          "id": 149,
+          "name": "Baseball",
+          "description": "Centers around the sport of baseball.",
+          "rank": 22,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5307236
+        },
+        {
+          "id": 155,
+          "name": "Rape",
+          "description": "Features non-consensual sexual penetration.",
+          "rank": 10,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6383431
+        }
+      ],
+      "mediaListEntry": null,
+      "stats": {
+        "statusDistribution": [
+          {
+            "status": "CURRENT",
+            "amount": 100006
+          },
+          {
+            "status": "PLANNING",
+            "amount": 73722
+          },
+          {
+            "status": "COMPLETED",
+            "amount": 466547
+          },
+          {
+            "status": "DROPPED",
+            "amount": 7485
+          },
+          {
+            "status": "PAUSED",
+            "amount": 14844
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 1325
+          },
+          {
+            "score": 20,
+            "amount": 353
+          },
+          {
+            "score": 30,
+            "amount": 697
+          },
+          {
+            "score": 40,
+            "amount": 1196
+          },
+          {
+            "score": 50,
+            "amount": 3600
+          },
+          {
+            "score": 60,
+            "amount": 7291
+          },
+          {
+            "score": 70,
+            "amount": 27870
+          },
+          {
+            "score": 80,
+            "amount": 74573
+          },
+          {
+            "score": 90,
+            "amount": 130355
+          },
+          {
+            "score": 100,
+            "amount": 95369
+          }
+        ]
+      }
+    }
+  }
+}
+

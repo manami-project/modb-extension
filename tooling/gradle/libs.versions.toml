@@ -1,0 +1,37 @@
+[versions]
+guava-jre = "33.1.0-jre"
+modb-core = "12.0.1"
+modb-serde = "5.1.0"
+modb-anidb = "5.0.0"
+modb-anilist = "6.0.0"
+modb-animeplanet = "5.0.0"
+modb-anisearch = "3.0.0"
+modb-kitsu = "5.0.0"
+modb-livechart = "3.0.0"
+modb-mal = "5.0.0"
+modb-notify = "5.0.0"
+modb-test = "1.6.10"
+logback-classic = "1.5.6"
+commons-text = "1.12.0"
+aws-bedrock-runtime = "1.2.10"
+
+[libraries]
+guava-jre = { module = "com.google.guava:guava", version.ref = "guava-jre" }
+modb-core = { module = "io.github.manamiproject:modb-core", version.ref = "modb-core" }
+modb-serde = { module = "io.github.manamiproject:modb-serde", version.ref = "modb-serde" }
+modb-anidb = { module = "io.github.manamiproject:modb-anidb", version.ref = "modb-anidb" }
+modb-anilist = { module = "io.github.manamiproject:modb-anilist", version.ref = "modb-anilist" }
+modb-animeplanet = { module = "io.github.manamiproject:modb-anime-planet", version.ref = "modb-animeplanet" }
+modb-anisearch = { module = "io.github.manamiproject:modb-anisearch", version.ref = "modb-anisearch" }
+modb-kitsu = { module = "io.github.manamiproject:modb-kitsu", version.ref = "modb-kitsu" }
+modb-livechart = { module = "io.github.manamiproject:modb-livechart", version.ref = "modb-livechart" }
+modb-mal = { module = "io.github.manamiproject:modb-mal", version.ref = "modb-mal" }
+modb-notify = { module = "io.github.manamiproject:modb-notify", version.ref = "modb-notify" }
+modb-test = { module = "io.github.manamiproject:modb-test", version.ref = "modb-test" }
+logback-classic = { module = "ch.qos.logback:logback-classic", version.ref = "logback-classic" }
+commons-text = { module = "org.apache.commons:commons-text", version.ref = "commons-text" }
+aws-bedrock-runtime = { module = "aws.sdk.kotlin:bedrockruntime-jvm", version.ref = "aws-bedrock-runtime" }
+
+[plugins]
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version = "1.9.22" }
+coveralls-jacoco = { id = "com.github.nbaztec.coveralls-jacoco", version = "1.2.19" }

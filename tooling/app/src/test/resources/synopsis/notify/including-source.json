@@ -1,0 +1,94 @@
+{
+  "id": "zLUApeoIR",
+  "type": "tv",
+  "title": {
+    "canonical": "Honey Lemon Soda",
+    "romaji": "Honey Lemon Soda",
+    "english": "",
+    "japanese": "ハニーレモンソーダ",
+    "hiragana": "",
+    "synonyms": null
+  },
+  "summary": "Middle school left Uka Ishimori with nothing but scars—to the point where she’s forgotten how to laugh or cry or even say “hello.” But a chance reencounter with a boy with lemon-colored hair invigorates her, giving her hope that maybe, just maybe, life can be that much sweeter if she finally reaches out for help.\n\n(Source: Yen Press)",
+  "status": "upcoming",
+  "genres": [
+    "Romance",
+    "School"
+  ],
+  "startDate": "2025-01",
+  "endDate": "",
+  "episodeCount": 0,
+  "episodeLength": 0,
+  "source": "manga",
+  "image": {
+    "extension": ".jpg",
+    "width": 400,
+    "height": 566,
+    "averageColor": {
+      "hue": 0.10878730538127013,
+      "saturation": 0.31883275648556836,
+      "lightness": 0.7597238117036698
+    },
+    "lastModified": 1709285187
+  },
+  "firstChannel": "",
+  "rating": {
+    "overall": 0,
+    "story": 0,
+    "visuals": 0,
+    "soundtrack": 0,
+    "count": {
+      "overall": 0,
+      "story": 0,
+      "visuals": 0,
+      "soundtrack": 0
+    }
+  },
+  "popularity": {
+    "watching": 0,
+    "completed": 0,
+    "planned": 3,
+    "hold": 0,
+    "dropped": 0
+  },
+  "trailers": [],
+  "episodes": null,
+  "mappings": [
+    {
+      "service": "myanimelist/anime",
+      "serviceId": "58271"
+    },
+    {
+      "service": "anilist/anime",
+      "serviceId": "175443"
+    },
+    {
+      "service": "anidb/anime",
+      "serviceId": "18516"
+    }
+  ],
+  "posts": null,
+  "likes": null,
+  "created": "2024-03-01T09:24:24Z",
+  "createdBy": "I_vyeZamg",
+  "edited": "",
+  "editedBy": "",
+  "isDraft": false,
+  "studios": [
+    "xC0U978kg7"
+  ],
+  "producers": [
+    "/hhO-t6oIR"
+  ],
+  "licensors": null,
+  "links": [
+    {
+      "title": "Website",
+      "url": "http://honeylemon-anime.com/"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://x.com/honeylemon_an"
+    }
+  ]
+}

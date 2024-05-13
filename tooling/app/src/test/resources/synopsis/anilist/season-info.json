@@ -1,0 +1,1247 @@
+{
+  "data": {
+    "Media": {
+      "id": 166873,
+      "title": {
+        "userPreferred": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+        "romaji": "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+        "english": "Mushoku Tensei: Jobless Reincarnation Season 2 Part 2",
+        "native": "\u7121\u8077\u8ee2\u751f \u2161 \uff5e\u7570\u4e16\u754c\u884c\u3063\u305f\u3089\u672c\u6c17\u3060\u3059\uff5e \u7b2c2\u30af\u30fc\u30eb"
+      },
+      "coverImage": {
+        "extraLarge": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx166873-JC56ExYSC2YB.jpg",
+        "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx166873-JC56ExYSC2YB.jpg"
+      },
+      "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/166873-GTi5imE5skM2.jpg",
+      "startDate": {
+        "year": 2024,
+        "month": 4,
+        "day": 8
+      },
+      "endDate": {
+        "year": 2024,
+        "month": 6,
+        "day": null
+      },
+      "description": "The second cour of <i>Mushoku Tensei II: Isekai Ittara Honki Dasu<\/i>.",
+      "season": "SPRING",
+      "seasonYear": 2024,
+      "type": "ANIME",
+      "format": "TV",
+      "status": "RELEASING",
+      "episodes": 12,
+      "duration": 24,
+      "chapters": null,
+      "volumes": null,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Ecchi",
+        "Fantasy"
+      ],
+      "synonyms": [
+        "Mushoku Tensei: Jobless Reincarnation Season 2 Cour 2",
+        "\u0e0a\u0e32\u0e15\u0e34\u0e19\u0e35\u0e49\u0e1e\u0e35\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e40\u0e17\u0e1e \u0e20\u0e32\u0e04 2",
+        "Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season Part 2",
+        "Mushoku Tensei II: Jobless Reincarnation Part 2",
+        "Mushoku Tensei II: Reencarnaci\u00f3n desde cero",
+        "\u65e0\u804c\u8f6c\u751f\uff5e\u5230\u4e86\u5f02\u4e16\u754c\u5c31\u62ff\u51fa\u771f\u672c\u4e8b\uff5e\u7b2c2\u5b63"
+      ],
+      "source": "LIGHT_NOVEL",
+      "isAdult": false,
+      "isLocked": false,
+      "meanScore": 82,
+      "averageScore": 82,
+      "popularity": 82527,
+      "favourites": 2020,
+      "isFavouriteBlocked": false,
+      "hashtag": "#\u7121\u8077\u8ee2\u751f",
+      "countryOfOrigin": "JP",
+      "isLicensed": true,
+      "isFavourite": false,
+      "isRecommendationBlocked": false,
+      "isReviewBlocked": false,
+      "nextAiringEpisode": {
+        "airingAt": 1715526000,
+        "timeUntilAiring": 415166,
+        "episode": 6
+      },
+      "relations": {
+        "edges": [
+          {
+            "id": 88163,
+            "relationType": "SOURCE",
+            "node": {
+              "id": 85470,
+              "title": {
+                "userPreferred": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+              },
+              "format": "NOVEL",
+              "type": "MANGA",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/banner\/85470-akkFSKH9aacB.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/nx85470-jt6BF9tDWB2X.jpg"
+              }
+            }
+          },
+          {
+            "id": 88165,
+            "relationType": "ALTERNATIVE",
+            "node": {
+              "id": 85564,
+              "title": {
+                "userPreferred": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+              },
+              "format": "MANGA",
+              "type": "MANGA",
+              "status": "RELEASING",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/banner\/85564-Wy8IQU3Km61c.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/bx85564-egXRASF0x9B9.jpg"
+              }
+            }
+          },
+          {
+            "id": 88166,
+            "relationType": "PREQUEL",
+            "node": {
+              "id": 146065,
+              "title": {
+                "userPreferred": "Mushoku Tensei II: Isekai Ittara Honki Dasu"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/146065-33RDijfuxLLk.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx146065-IjirxRK26O03.png"
+              }
+            }
+          }
+        ]
+      },
+      "characterPreview": {
+        "edges": [
+          {
+            "id": 436467,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 106784,
+                "name": {
+                  "userPreferred": "Yumi Uchiyama"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n106784-reDoHBLWxi7J.jpg"
+                }
+              },
+              {
+                "id": 95002,
+                "name": {
+                  "userPreferred": "Tomokazu Sugita"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95002-nDIvHaynicEg.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 88348,
+              "name": {
+                "userPreferred": "Rudeus Greyrat"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b88348-bIe5XnXdRpmX.png"
+              }
+            }
+          },
+          {
+            "id": 441377,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 105765,
+                "name": {
+                  "userPreferred": "Ai Kayano"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n105765-DDK94me8axVv.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 88346,
+              "name": {
+                "userPreferred": "Sylphiette"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b88346-h8kCL93AXj4n.png"
+              }
+            }
+          },
+          {
+            "id": 436468,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 129326,
+                "name": {
+                  "userPreferred": "Saya Aizawa"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n129326-UrPZoDTpWkNt.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 145458,
+              "name": {
+                "userPreferred": "Norn Greyrat"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b145458-JG4FkAjUjw2l.png"
+              }
+            }
+          },
+          {
+            "id": 436466,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 119154,
+                "name": {
+                  "userPreferred": "Yuuki Takada"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n119154-x2un4m4ECxn4.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 145459,
+              "name": {
+                "userPreferred": "Aisha Greyrat"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b145459-qCq1vKZtxkT3.png"
+              }
+            }
+          },
+          {
+            "id": 436461,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 110743,
+                "name": {
+                  "userPreferred": "Ryouta Oosaka"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n110743-k2SgQwU0JD33.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 255894,
+              "name": {
+                "userPreferred": "Cliff Grimoire"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b255894-m8YzAbnDgsIh.jpg"
+              }
+            }
+          },
+          {
+            "id": 441375,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95060,
+                "name": {
+                  "userPreferred": "Rie Tanaka"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95060-Rw0HZghxH1hF.jpg"
+                }
+              }
+            ],
+            "node": {
+              "id": 186490,
+              "name": {
+                "userPreferred": "Elinalise Dragonroad"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b186490-18Y2kFHZhr1m.png"
+              }
+            }
+          }
+        ]
+      },
+      "staffPreview": {
+        "edges": [
+          {
+            "id": 696724,
+            "role": "Original Story",
+            "node": {
+              "id": 118743,
+              "name": {
+                "userPreferred": "Rifujin na Magonote"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n118743-ikzTCd1mLvgn.png"
+              }
+            }
+          },
+          {
+            "id": 696723,
+            "role": "Original Character Design",
+            "node": {
+              "id": 118744,
+              "name": {
+                "userPreferred": "Sirotaka"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n118744-XVSDP2Pg2Zzk.jpg"
+              }
+            }
+          },
+          {
+            "id": 752432,
+            "role": "Director",
+            "node": {
+              "id": 134727,
+              "name": {
+                "userPreferred": "Ryousuke Shibuya"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n134727-vxJm3GL1V1Cc.jpg"
+              }
+            }
+          },
+          {
+            "id": 752435,
+            "role": "Series Composition",
+            "node": {
+              "id": 110745,
+              "name": {
+                "userPreferred": "Toshiya Oono"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n110745-zD6fBkeW9DjR.png"
+              }
+            }
+          },
+          {
+            "id": 752434,
+            "role": "Character Design",
+            "node": {
+              "id": 147330,
+              "name": {
+                "userPreferred": "Yoshiko Saitou"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n147330-TKTTSBX11ruT.jpg"
+              }
+            }
+          },
+          {
+            "id": 752433,
+            "role": "Character Design",
+            "node": {
+              "id": 191730,
+              "name": {
+                "userPreferred": "Sanae Shimada"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          },
+          {
+            "id": 752439,
+            "role": "Art Director",
+            "node": {
+              "id": 120031,
+              "name": {
+                "userPreferred": "Masakazu Miyake"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n120031-6h2vmQpILEPw.png"
+              }
+            }
+          },
+          {
+            "id": 752440,
+            "role": "Color Design",
+            "node": {
+              "id": 129576,
+              "name": {
+                "userPreferred": "Makiko Doi"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/default.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "studios": {
+        "edges": [
+          {
+            "isMain": true,
+            "node": {
+              "id": 6309,
+              "name": "Studio Bind"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 777,
+              "name": "Hakuhodo DY Music & Pictures"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 245,
+              "name": "Toho"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6698,
+              "name": "KADOKAWA"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 61,
+              "name": "Frontier Works"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6616,
+              "name": "BS11"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 7237,
+              "name": "GREE Entertainment"
+            }
+          },
+          {
+            "isMain": false,
+            "node": {
+              "id": 6127,
+              "name": "EGG FIRM"
+            }
+          }
+        ]
+      },
+      "reviewPreview": {
+        "pageInfo": {
+          "total": 0
+        },
+        "nodes": []
+      },
+      "recommendations": {
+        "pageInfo": {
+          "total": 6
+        },
+        "nodes": [
+          {
+            "id": 263302,
+            "rating": 19,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 21355,
+              "title": {
+                "userPreferred": "Re:Zero kara Hajimeru Isekai Seikatsu"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/21355-f9SjOfEJMk5P.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx21355-IHaS50pvLYd0.jpg"
+              }
+            },
+            "user": {
+              "id": 5942555,
+              "name": "FatherChaska",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b5942555-xqqw8awjP7Le.jpg"
+              }
+            }
+          },
+          {
+            "id": 263767,
+            "rating": 18,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 154587,
+              "title": {
+                "userPreferred": "Sousou no Frieren"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/154587-ivXNJ23SM1xB.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx154587-gHSraOSa0nBG.jpg"
+              }
+            },
+            "user": {
+              "id": 764263,
+              "name": "ZeRoX",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b764263-x1u9MqIyz6f2.png"
+              }
+            }
+          },
+          {
+            "id": 263582,
+            "rating": 6,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 4181,
+              "title": {
+                "userPreferred": "CLANNAD: After Story"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/4181.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx4181-V1LCtX1rJgbR.png"
+              }
+            },
+            "user": {
+              "id": 786762,
+              "name": "AnimeKoala",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b786762-4uk3eOPcLIFV.jpg"
+              }
+            }
+          },
+          {
+            "id": 264068,
+            "rating": 4,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 145728,
+              "title": {
+                "userPreferred": "Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "RELEASING",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/145728-v6NGBJOQs8Kh.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx145728-YUKXjN2E81Pq.jpg"
+              }
+            },
+            "user": {
+              "id": 5880807,
+              "name": "Dandy",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b5880807-KOCUg8ec14mI.jpg"
+              }
+            }
+          },
+          {
+            "id": 264212,
+            "rating": 0,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 21428,
+              "title": {
+                "userPreferred": "Hai to Gensou no Grimgar"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/21428-WXeLTDwfmKI5.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx21428-dFVIHeZ8McBe.jpg"
+              }
+            },
+            "user": {
+              "id": 5574933,
+              "name": "Mittchel",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b5574933-dk3wNm0Vq9Zq.jpg"
+              }
+            }
+          },
+          {
+            "id": 267210,
+            "rating": -1,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 11757,
+              "title": {
+                "userPreferred": "Sword Art Online"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/11757-TlEEV9weG4Ag.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/nx11757-Q9P2zjCPICq5.jpg"
+              }
+            },
+            "user": {
+              "id": 567335,
+              "name": "9tailedfaux",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b567335-OuvA2xA7Y6Ec.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "externalLinks": [
+        {
+          "id": 74590,
+          "site": "Twitter",
+          "url": "https:\/\/twitter.com\/mushokutensei_A",
+          "type": "SOCIAL",
+          "language": "Japanese",
+          "color": "#000000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/17-R0tMgOvwvhsS.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 74591,
+          "site": "Official Site",
+          "url": "https:\/\/mushokutensei.jp\/",
+          "type": "INFO",
+          "language": "Japanese",
+          "color": null,
+          "icon": null,
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 89025,
+          "site": "Crunchyroll",
+          "url": "https:\/\/www.crunchyroll.com\/series\/G24H1N3MP\/mushoku-tensei-jobless-reincarnation",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#F88B24",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/5-AWN2pVlluCOO.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 90096,
+          "site": "iQ",
+          "url": "https:\/\/www.iq.com\/album\/a8ey3c5oap",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#00CC36",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/122-EPBJ2E0oPt5C.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 90097,
+          "site": "Bilibili TV",
+          "url": "https:\/\/www.bilibili.tv\/en\/media\/2104111",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#00A1D6",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/119-NCwGvCjFADGQ.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 90098,
+          "site": "YouTube",
+          "url": "https:\/\/www.youtube.com\/channel\/UCGbshtvS9t-8CW11W7TooQg",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#FF0000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/13-ZwR1Xwgtyrwa.png",
+          "notes": "Muse Asia",
+          "isDisabled": true
+        },
+        {
+          "id": 90398,
+          "site": "Hulu",
+          "url": "https:\/\/www.hulu.com\/series\/787a5fb4-9cba-4a69-96b2-4fb3b10c860a",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#1CE783",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/7-rM06PQyWONGC.png",
+          "notes": null,
+          "isDisabled": false
+        }
+      ],
+      "streamingEpisodes": [
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 17 - My Older Brother's Feelings",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/2eaaf4e0383ee7ab92029508b17c5d691714914456_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G50UZ0K2K\/my-older-brothers-feelings"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 16 - Norn and Aisha",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/798a5c55bd86d3d3f1fb5bcbc0b65c2a1714311193_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GK9U3EV7E\/norn-and-aisha"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 15 - Afar",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/3996fe9e0dc0454c552d7a5ec46385921713712680_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GN7UDMX51\/afar"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 14 - Wedding Reception",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/4a90ac9092f36a1e0b729711ab690b5a1713106293_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GJWU2WN49\/wedding-reception"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 13 - My Dream Home",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/49a33780e4baa939218d35a38d07c9791712497021_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G7PU4J725\/my-dream-home"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 12 - I Want to Tell You",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/4c8fd79912e0b5cb4abf42f97780a1a71695566539_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GEVUZN735\/i-want-to-tell-you"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 11 - To You",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/1d7f26f7f28f0aad10dece05708bdcb51694961826_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G0DUNJ2WV\/to-you"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 10 - These Feelings",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/28308f205e6ec3577b34bad03a3fe3f71694354692_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GG1U2ZJ5P\/these-feelings"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 9 - The White Mask",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/eadccc1f86741bed8eb641ff644abb381693746038_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GWDU8Q2M0\/the-white-mask"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 8 - The Fianc\u00e9 of Despair",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/d0616887e072c093b93cf4a458b046a21693146640_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G50UZ10NM\/the-fianc-of-despair"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 7 - The Kidnapping and Confinement of Beast Girls",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/f07b81956f08f59a29b67571e40f8d421692541980_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GQJUGQ50G\/the-kidnapping-and-confinement-of-beast-girls"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 6 - I Don't Want To Die",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/9b12197ea5edb4b1772b356fe8805b8d1691939194_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GD9UV8MZG\/i-dont-want-to-die"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 5 - Ranoa University of Magic",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/a9951001e3b65e8b78bca853b52692851691334755_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GZ7UV1G33\/ranoa-university-of-magic"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 4 - Letter of Invitation",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/c0e024ac6f26d6187285d69d0ca2fbef1690729522_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G8WUN0JV3\/letter-of-invitation"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 3 - Abrupt Approach",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire3-tmb\/d39a8492b863d8599d1ec30aa774b5081690098409_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G2XU0D7X7\/abrupt-approach"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 2 - The Forest in the Dead of Night",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/49265386cd47f7a6a8df195e4f686d781689521174_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GPWUKD9NV\/the-forest-in-the-dead-of-night"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 1 - The Brokenhearted Mage",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire1-tmb\/be64d4360a955b28c15517e963d8d7b11688904050_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/G31UXZNKW\/the-brokenhearted-mage"
+        },
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 0 - Guardian Fitz",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire2-tmb\/39f89d1795f00e620fef6aab05291e691688310547_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GVWU04MN4\/guardian-fitz"
+        }
+      ],
+      "trailer": {
+        "id": "wwKZYTsxIhk",
+        "site": "youtube"
+      },
+      "rankings": [
+        {
+          "id": 157,
+          "rank": 157,
+          "type": "RATED",
+          "format": "TV",
+          "year": null,
+          "season": null,
+          "allTime": true,
+          "context": "highest rated all time"
+        },
+        {
+          "id": 1000,
+          "rank": 500,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": null,
+          "season": null,
+          "allTime": true,
+          "context": "most popular all time"
+        },
+        {
+          "id": 11086,
+          "rank": 6,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2024,
+          "season": null,
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 11183,
+          "rank": 5,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": null,
+          "allTime": false,
+          "context": "most popular"
+        },
+        {
+          "id": 11340,
+          "rank": 2,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2024,
+          "season": "SPRING",
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 11370,
+          "rank": 2,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": "SPRING",
+          "allTime": false,
+          "context": "most popular"
+        }
+      ],
+      "tags": [
+        {
+          "id": 244,
+          "name": "Isekai",
+          "description": "Features characters being transported into an alternate world setting and having to adapt to their new surroundings.",
+          "rank": 100,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5757804
+        },
+        {
+          "id": 243,
+          "name": "Reincarnation",
+          "description": "Features a character being born again after death, typically as another person or in another world.",
+          "rank": 92,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": true,
+          "userId": 5757804
+        },
+        {
+          "id": 102,
+          "name": "Coming of Age",
+          "description": "Centers around a character's transition from childhood to adulthood.",
+          "rank": 92,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 29,
+          "name": "Magic",
+          "description": "Prominently features magical elements or the use of magic.",
+          "rank": 87,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5757804
+        },
+        {
+          "id": 82,
+          "name": "Male Protagonist",
+          "description": "Main character is male.",
+          "rank": 86,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5757804
+        },
+        {
+          "id": 87,
+          "name": "Family Life",
+          "description": "Centers around the activities of a family unit.",
+          "rank": 83,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 85,
+          "name": "Tragedy",
+          "description": "Centers around tragic events and unhappy endings.",
+          "rank": 82,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": true,
+          "userId": 5645805
+        },
+        {
+          "id": 43,
+          "name": "Swordplay",
+          "description": "Prominently features the use of swords in combat.",
+          "rank": 80,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 235,
+          "name": "Badminton",
+          "description": "Centers around the sport of badminton.",
+          "rank": 79,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5949174
+        },
+        {
+          "id": 1453,
+          "name": "Desert",
+          "description": "Prominently features a desert environment.",
+          "rank": 79,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 1045,
+          "name": "Heterosexual",
+          "description": "Prominently features a romance between a man and a woman, not inherently sexual.",
+          "rank": 77,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5645805
+        },
+        {
+          "id": 1433,
+          "name": "Marriage",
+          "description": "Centers around marriage between two or more characters.",
+          "rank": 76,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 598,
+          "name": "Elf",
+          "description": "Prominently features a character who is an elf.",
+          "rank": 72,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 282,
+          "name": "Hikikomori",
+          "description": "Prominently features a character who withdraws from social life, often seeking extreme isolation.",
+          "rank": 71,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 639,
+          "name": "Body Horror",
+          "description": "Features characters who undergo horrific transformations or disfigurement, often to their own detriment.",
+          "rank": 70,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 604,
+          "name": "Dungeon",
+          "description": "Prominently features a dungeon environment.",
+          "rank": 68,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": false,
+          "userId": 5645805
+        },
+        {
+          "id": 1459,
+          "name": "Polyamorous",
+          "description": "Features a character who is in a consenting relationship with multiple people at one time.",
+          "rank": 68,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 110593
+        },
+        {
+          "id": 143,
+          "name": "Survival",
+          "description": "Centers around the struggle to live in spite of extreme obstacles.",
+          "rank": 68,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 23,
+          "name": "Female Harem",
+          "description": "Main cast features the protagonist plus several female characters who are romantically interested in them.",
+          "rank": 66,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": false,
+          "userId": 5645805
+        },
+        {
+          "id": 15,
+          "name": "Demons",
+          "description": "Prominently features malevolent otherworldly creatures.",
+          "rank": 64,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 395,
+          "name": "Delinquents",
+          "description": "Features characters with a notorious image and attitude, sometimes referred to as \"yankees\".",
+          "rank": 60,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 253,
+          "name": "Gods",
+          "description": "Prominently features a character of divine or religious nature.",
+          "rank": 56,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 516,
+          "name": "Language Barrier",
+          "description": "A barrier to communication between people who are unable to speak a common language.",
+          "rank": 56,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 66,
+          "name": "Super Power",
+          "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+          "rank": 55,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 249,
+          "name": "Maids",
+          "description": "Prominently features a character who is a maid.",
+          "rank": 55,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 138,
+          "name": "Age Gap",
+          "description": "Prominently features romantic relations between people with a significant age difference.",
+          "rank": 54,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": true,
+          "userId": 5261596
+        },
+        {
+          "id": 139,
+          "name": "Love Triangle",
+          "description": "Centered around romantic feelings between more than two people. Includes all love polygons.",
+          "rank": 53,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 254,
+          "name": "Kemonomimi",
+          "description": "Prominently features humanoid characters with animal ears.",
+          "rank": 53,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 1219,
+          "name": "Disability",
+          "description": "A work that features one or more characters with a physical, mental, cognitive, or developmental condition that impairs, interferes with, or limits the person's ability to engage in certain tasks or actions.",
+          "rank": 50,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 240,
+          "name": "Amnesia",
+          "description": "Prominently features a character(s) with memory loss.",
+          "rank": 44,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": false,
+          "userId": 5261596
+        },
+        {
+          "id": 81,
+          "name": "Iyashikei",
+          "description": "Primary aim is to heal the audience through serene depictions of characters' daily lives.",
+          "rank": 33,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 6159057
+        },
+        {
+          "id": 404,
+          "name": "College",
+          "description": "Partly or completely set in a college or university.",
+          "rank": 20,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5521493
+        }
+      ],
+      "mediaListEntry": null,
+      "stats": {
+        "statusDistribution": [
+          {
+            "status": "CURRENT",
+            "amount": 49363
+          },
+          {
+            "status": "PLANNING",
+            "amount": 29953
+          },
+          {
+            "status": "COMPLETED",
+            "amount": 2414
+          },
+          {
+            "status": "DROPPED",
+            "amount": 317
+          },
+          {
+            "status": "PAUSED",
+            "amount": 480
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 95
+          },
+          {
+            "score": 20,
+            "amount": 22
+          },
+          {
+            "score": 30,
+            "amount": 46
+          },
+          {
+            "score": 40,
+            "amount": 68
+          },
+          {
+            "score": 50,
+            "amount": 150
+          },
+          {
+            "score": 60,
+            "amount": 262
+          },
+          {
+            "score": 70,
+            "amount": 789
+          },
+          {
+            "score": 80,
+            "amount": 1633
+          },
+          {
+            "score": 90,
+            "amount": 2171
+          },
+          {
+            "score": 100,
+            "amount": 1687
+          }
+        ]
+      }
+    }
+  }
+}

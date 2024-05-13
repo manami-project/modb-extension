@@ -1,0 +1,148 @@
+{
+  "id": "lrioruf7g",
+  "type": "tv",
+  "title": {
+    "canonical": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+    "romaji": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
+    "english": "Spice and Wolf: Merchant Meets the Wise Wolf",
+    "japanese": "狼と香辛料",
+    "hiragana": "",
+    "synonyms": [
+      "Spice and Wolf (2024)",
+      "Ookami to Koushinryou (2024)"
+    ]
+  },
+  "summary": "Lawrence is a traveling merchant selling various goods from a horse-drawn cart. One day, he arrives at a village and meets a beautiful girl with the ears and tail of an animal! Her name is Holo the Wisewolf and she brings bountiful harvests. She wishes to return to her homeland, and Lawrence offers to take her. Now, the once-lonely merchant and the once-lonely wisewolf begin their journey north.\n\nSource: Crunchyroll",
+  "status": "current",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy",
+    "Romance",
+    "Historical"
+  ],
+  "startDate": "2024-04-02",
+  "endDate": "",
+  "episodeCount": 25,
+  "episodeLength": 24,
+  "source": "light novel",
+  "image": {
+    "extension": ".png",
+    "width": 1444,
+    "height": 1920,
+    "averageColor": {
+      "hue": 0.6790123456790123,
+      "saturation": 0.0008684185133961566,
+      "lightness": 0.47441824979018843
+    },
+    "lastModified": 1712050627
+  },
+  "firstChannel": "",
+  "rating": {
+    "overall": 6.6,
+    "story": 5,
+    "visuals": 5,
+    "soundtrack": 5,
+    "count": {
+      "overall": 1,
+      "story": 0,
+      "visuals": 0,
+      "soundtrack": 0
+    }
+  },
+  "popularity": {
+    "watching": 14,
+    "completed": 0,
+    "planned": 34,
+    "hold": 0,
+    "dropped": 0
+  },
+  "trailers": [
+    {
+      "service": "Youtube",
+      "serviceId": "DuWQOwwI9z4"
+    },
+    {
+      "service": "Youtube",
+      "serviceId": "87qP9hwrSAs"
+    },
+    {
+      "service": "Youtube",
+      "serviceId": "Fr50ydw5H_Q"
+    }
+  ],
+  "episodes": [
+    "9h7Gv_0Sg",
+    "9h7Gv_0IRz",
+    "9hnGDl0Sgm",
+    "927MDl0IRZ",
+    "r27MvlAIRM",
+    "rh7Gv_0IR7",
+    "92nMvlASgV",
+    "r2nMvlAIRI",
+    "r2nGDl0IgN",
+    "rh7GvlAIgv",
+    "r27Mv_AIgO",
+    "rhnGD_0SRF",
+    "927MDlASRc"
+  ],
+  "mappings": [
+    {
+      "service": "myanimelist/anime",
+      "serviceId": "51122"
+    },
+    {
+      "service": "anilist/anime",
+      "serviceId": "145728"
+    },
+    {
+      "service": "kitsu/anime",
+      "serviceId": "45930"
+    },
+    {
+      "service": "anidb/anime",
+      "serviceId": "17221"
+    },
+    {
+      "service": "imdb/anime",
+      "serviceId": "tt28534254"
+    },
+    {
+      "service": "thetvdb/anime",
+      "serviceId": "417147"
+    },
+    {
+      "service": "shoboi/anime",
+      "serviceId": "7033"
+    }
+  ],
+  "posts": [
+    "tef67IrVR",
+    "S_oydAxSR"
+  ],
+  "likes": null,
+  "created": "2022-02-25T19:02:32Z",
+  "createdBy": "I_vyeZamg",
+  "edited": "",
+  "editedBy": "",
+  "isDraft": false,
+  "studios": [
+    "R3A8r7Ukgo"
+  ],
+  "producers": [
+    "sj0U97UkRv",
+    "ZsSFmHmig",
+    ""
+  ],
+  "licensors": null,
+  "links": [
+    {
+      "title": "Website",
+      "url": "https://spice-and-wolf.com/"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://twitter.com/Spicy_Wolf_Prj"
+    }
+  ]
+}

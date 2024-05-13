@@ -1,0 +1,844 @@
+{
+  "data": {
+    "Media": {
+      "id": 163139,
+      "title": {
+        "userPreferred": "Boku no Hero Academia 7",
+        "romaji": "Boku no Hero Academia 7",
+        "english": "My Hero Academia Season 7",
+        "native": "\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 7"
+      },
+      "coverImage": {
+        "extraLarge": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/large\/bx163139-JchZhUFlNTWU.jpg",
+        "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx163139-JchZhUFlNTWU.jpg"
+      },
+      "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/163139-I6UpRghBPVor.jpg",
+      "startDate": {
+        "year": 2024,
+        "month": 5,
+        "day": 4
+      },
+      "endDate": {
+        "year": null,
+        "month": null,
+        "day": null
+      },
+      "description": "The seventh season of <i>Boku no Hero Academia<\/i>.<br>\n<br>\n<i>Note: The season was preceded by a 4-episode special titled 'Boku no Hero Academia: Memories' recapping events from the 6th season along with adding a few minutes of new material each episode.<\/i>",
+      "season": "SPRING",
+      "seasonYear": 2024,
+      "type": "ANIME",
+      "format": "TV",
+      "status": "RELEASING",
+      "episodes": null,
+      "duration": null,
+      "chapters": null,
+      "volumes": null,
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "synonyms": [],
+      "source": "MANGA",
+      "isAdult": false,
+      "isLocked": false,
+      "meanScore": 79,
+      "averageScore": 78,
+      "popularity": 60152,
+      "favourites": 1058,
+      "isFavouriteBlocked": false,
+      "hashtag": "#heroaca_a #\u30d2\u30ed\u30a2\u30ab",
+      "countryOfOrigin": "JP",
+      "isLicensed": true,
+      "isFavourite": false,
+      "isRecommendationBlocked": false,
+      "isReviewBlocked": false,
+      "nextAiringEpisode": {
+        "airingAt": 1715416200,
+        "timeUntilAiring": 305074,
+        "episode": 2
+      },
+      "relations": {
+        "edges": [
+          {
+            "id": 85371,
+            "relationType": "PREQUEL",
+            "node": {
+              "id": 139630,
+              "title": {
+                "userPreferred": "Boku no Hero Academia 6"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/139630-XLc90c6CJjZv.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx139630-3v4gxWtNZxLV.jpg"
+              }
+            }
+          },
+          {
+            "id": 85372,
+            "relationType": "SOURCE",
+            "node": {
+              "id": 85486,
+              "title": {
+                "userPreferred": "Boku no Hero Academia"
+              },
+              "format": "MANGA",
+              "type": "MANGA",
+              "status": "RELEASING",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/banner\/85486-4mTRih1qOdgk.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/manga\/cover\/medium\/bx85486-INqnYx8gL3eX.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "characterPreview": {
+        "edges": [
+          {
+            "id": 418560,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 116971,
+                "name": {
+                  "userPreferred": "Daiki Yamashita"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n116971-KDHjlYPO4HrS.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 89028,
+              "name": {
+                "userPreferred": "Izuku Midoriya"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b89028-8w1I9o1ISHMg.png"
+              }
+            }
+          },
+          {
+            "id": 479477,
+            "role": "MAIN",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 96764,
+                "name": {
+                  "userPreferred": "Kouki Uchiyama"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n96764-yJWGrhjanDJQ.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 89226,
+              "name": {
+                "userPreferred": "Tomura Shigaraki"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b89226-IhENW81LofQe.jpg"
+              }
+            }
+          },
+          {
+            "id": 462244,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95270,
+                "name": {
+                  "userPreferred": "Nobuhiko Okamoto"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95270-LqNIF238L59u.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 88892,
+              "name": {
+                "userPreferred": "Katsuki Bakugou"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b88892-kYy9l65iW5rx.png"
+              }
+            }
+          },
+          {
+            "id": 462246,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 95672,
+                "name": {
+                  "userPreferred": "Yuuki Kaji"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n95672-RN4nm0OFwCyU.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 89220,
+              "name": {
+                "userPreferred": "Shouto Todoroki"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b89220-EEWjWgMsTiIw.png"
+              }
+            }
+          },
+          {
+            "id": 462245,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [
+              {
+                "id": 106622,
+                "name": {
+                  "userPreferred": "Ayane Sakura"
+                },
+                "language": "Japanese",
+                "image": {
+                  "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n106622-yemj6ymLz4lY.png"
+                }
+              }
+            ],
+            "node": {
+              "id": 89221,
+              "name": {
+                "userPreferred": "Ochako Uraraka"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b89221-gyqjTx68CAqr.jpg"
+              }
+            }
+          },
+          {
+            "id": 479478,
+            "role": "SUPPORTING",
+            "name": null,
+            "voiceActors": [],
+            "node": {
+              "id": 89222,
+              "name": {
+                "userPreferred": "Tenya Iida"
+              },
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/character\/large\/b89222-RkcrWoTge2LL.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "staffPreview": {
+        "edges": [
+          {
+            "id": 664019,
+            "role": "Original Creator",
+            "node": {
+              "id": 104834,
+              "name": {
+                "userPreferred": "Kouhei Horikoshi"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n104834-Bny7KyukbSdy.png"
+              }
+            }
+          },
+          {
+            "id": 737260,
+            "role": "Chief Director",
+            "node": {
+              "id": 108677,
+              "name": {
+                "userPreferred": "Kenji Nagasaki"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n108677-jL6WHUX83Dr8.png"
+              }
+            }
+          },
+          {
+            "id": 737262,
+            "role": "Director",
+            "node": {
+              "id": 144207,
+              "name": {
+                "userPreferred": "Naomi Nakayama"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n144207-Hp8bHZDftyhw.png"
+              }
+            }
+          },
+          {
+            "id": 776299,
+            "role": "Assistant Director",
+            "node": {
+              "id": 219803,
+              "name": {
+                "userPreferred": "Hyuuga Yamamura"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n219803-PvKGPuZozAGJ.jpg"
+              }
+            }
+          },
+          {
+            "id": 737261,
+            "role": "Series Composition",
+            "node": {
+              "id": 97471,
+              "name": {
+                "userPreferred": "Yousuke Kuroda"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n97471-QakOe67tAErz.png"
+              }
+            }
+          },
+          {
+            "id": 737263,
+            "role": "Character Design",
+            "node": {
+              "id": 101458,
+              "name": {
+                "userPreferred": "Yoshihiko Umakoshi"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n101458-bGvJKzGP927H.png"
+              }
+            }
+          },
+          {
+            "id": 737259,
+            "role": "Character Design",
+            "node": {
+              "id": 145863,
+              "name": {
+                "userPreferred": "Hitomi Odashima"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n145863-sWqxpJVzjknY.png"
+              }
+            }
+          },
+          {
+            "id": 737380,
+            "role": "Art Director",
+            "node": {
+              "id": 110647,
+              "name": {
+                "userPreferred": "Shigemi Ikeda"
+              },
+              "language": "Japanese",
+              "image": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/staff\/large\/n110647-oGP3Qn0HItjN.png"
+              }
+            }
+          }
+        ]
+      },
+      "studios": {
+        "edges": [
+          {
+            "isMain": false,
+            "node": {
+              "id": 245,
+              "name": "Toho"
+            }
+          },
+          {
+            "isMain": true,
+            "node": {
+              "id": 4,
+              "name": "bones"
+            }
+          }
+        ]
+      },
+      "reviewPreview": {
+        "pageInfo": {
+          "total": 0
+        },
+        "nodes": []
+      },
+      "recommendations": {
+        "pageInfo": {
+          "total": 6
+        },
+        "nodes": [
+          {
+            "id": 268280,
+            "rating": 6,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 21087,
+              "title": {
+                "userPreferred": "One Punch Man"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/21087-sHb9zUZFsHe1.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx21087-2OkAdgfnQown.jpg"
+              }
+            },
+            "user": {
+              "id": 6265453,
+              "name": "martingrasoso",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b6265453-OcXFyMm00qYr.png"
+              }
+            }
+          },
+          {
+            "id": 268282,
+            "rating": 2,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 113415,
+              "title": {
+                "userPreferred": "Jujutsu Kaisen"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/113415-jQBSkxWAAk83.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx113415-bbBWj4pEFseh.jpg"
+              }
+            },
+            "user": {
+              "id": 6265453,
+              "name": "martingrasoso",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b6265453-OcXFyMm00qYr.png"
+              }
+            }
+          },
+          {
+            "id": 268286,
+            "rating": 2,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 21507,
+              "title": {
+                "userPreferred": "Mob Psycho 100"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/21507-Qx8bGsLXUgLo.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx21507-BICFCVZY3xQb.jpg"
+              }
+            },
+            "user": {
+              "id": 6265453,
+              "name": "martingrasoso",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b6265453-OcXFyMm00qYr.png"
+              }
+            }
+          },
+          {
+            "id": 268288,
+            "rating": 2,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 97940,
+              "title": {
+                "userPreferred": "Black Clover"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/97940-1URQdQ4U1a0b.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx97940-O2LWFOG8bK1u.jpg"
+              }
+            },
+            "user": {
+              "id": 6265453,
+              "name": "martingrasoso",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b6265453-OcXFyMm00qYr.png"
+              }
+            }
+          },
+          {
+            "id": 268284,
+            "rating": -1,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 155389,
+              "title": {
+                "userPreferred": "SHY"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/155389-AYVuX0nowx1l.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx155389-qB3aiPB5IkAi.png"
+              }
+            },
+            "user": {
+              "id": 6265453,
+              "name": "martingrasoso",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b6265453-OcXFyMm00qYr.png"
+              }
+            }
+          },
+          {
+            "id": 268300,
+            "rating": -1,
+            "userRating": "NO_RATING",
+            "mediaRecommendation": {
+              "id": 20755,
+              "title": {
+                "userPreferred": "Ansatsu Kyoushitsu"
+              },
+              "format": "TV",
+              "type": "ANIME",
+              "status": "FINISHED",
+              "bannerImage": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/banner\/20755-D4ipww9U8YkC.jpg",
+              "coverImage": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/media\/anime\/cover\/medium\/bx20755-q0b3Ok1cAbPd.jpg"
+              }
+            },
+            "user": {
+              "id": 6120009,
+              "name": "Risspect",
+              "avatar": {
+                "large": "https:\/\/s4.anilist.co\/file\/anilistcdn\/user\/avatar\/large\/b6120009-zzgV83kmXhf6.jpg"
+              }
+            }
+          }
+        ]
+      },
+      "externalLinks": [
+        {
+          "id": 68956,
+          "site": "Twitter",
+          "url": "https:\/\/twitter.com\/heroaca_anime",
+          "type": "SOCIAL",
+          "language": "Japanese",
+          "color": "#000000",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/17-R0tMgOvwvhsS.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 68957,
+          "site": "Official Site",
+          "url": "https:\/\/heroaca.com\/",
+          "type": "INFO",
+          "language": "Japanese",
+          "color": null,
+          "icon": null,
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 83627,
+          "site": "Instagram",
+          "url": "https:\/\/www.instagram.com\/heroaca_insta\/",
+          "type": "SOCIAL",
+          "language": "Japanese",
+          "color": "#833AB4",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/48-VFlxaXGaNqXk.png",
+          "notes": null,
+          "isDisabled": false
+        },
+        {
+          "id": 90076,
+          "site": "Crunchyroll",
+          "url": "https:\/\/www.crunchyroll.com\/series\/G6NQ5DWZ6\/my-hero-academia",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#F88B24",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/5-AWN2pVlluCOO.png",
+          "notes": null,
+          "isDisabled": true
+        },
+        {
+          "id": 90110,
+          "site": "Bilibili TV",
+          "url": "https:\/\/www.bilibili.tv\/en\/media\/2106937",
+          "type": "STREAMING",
+          "language": null,
+          "color": "#00A1D6",
+          "icon": "https:\/\/s4.anilist.co\/file\/anilistcdn\/link\/icon\/119-NCwGvCjFADGQ.png",
+          "notes": null,
+          "isDisabled": false
+        }
+      ],
+      "streamingEpisodes": [
+        {
+          "site": "Crunchyroll",
+          "title": "Episode 139 - In the Nick of Time! A Big-Time Maverick from the West",
+          "thumbnail": "https:\/\/img1.ak.crunchyroll.com\/i\/spire4-tmb\/dea3db6993a42fdc04bb28348093f9e91714791613_full.jpg",
+          "url": "http:\/\/www.crunchyroll.com\/watch\/GPWUK9KD8\/in-the-nick-of-time-a-big-time-maverick-from-the-west"
+        }
+      ],
+      "trailer": {
+        "id": "T5HMoxJRhRY",
+        "site": "youtube"
+      },
+      "rankings": [
+        {
+          "id": 345,
+          "rank": 345,
+          "type": "RATED",
+          "format": "TV",
+          "year": null,
+          "season": null,
+          "allTime": true,
+          "context": "highest rated all time"
+        },
+        {
+          "id": 11096,
+          "rank": 16,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2024,
+          "season": null,
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 11189,
+          "rank": 11,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": null,
+          "allTime": false,
+          "context": "most popular"
+        },
+        {
+          "id": 11347,
+          "rank": 9,
+          "type": "RATED",
+          "format": "TV",
+          "year": 2024,
+          "season": "SPRING",
+          "allTime": false,
+          "context": "highest rated"
+        },
+        {
+          "id": 11374,
+          "rank": 6,
+          "type": "POPULAR",
+          "format": "TV",
+          "year": 2024,
+          "season": "SPRING",
+          "allTime": false,
+          "context": "most popular"
+        }
+      ],
+      "tags": [
+        {
+          "id": 1228,
+          "name": "Primarily Teen Cast",
+          "description": "Main cast is mostly composed of teen characters.",
+          "rank": 95,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5653101
+        },
+        {
+          "id": 66,
+          "name": "Super Power",
+          "description": "Prominently features characters with special abilities that allow them to do what would normally be physically or logically impossible.",
+          "rank": 91,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 683581
+        },
+        {
+          "id": 857,
+          "name": "Villainess",
+          "description": "Centers around or prominently features a villainous noble lady.",
+          "rank": 90,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5765168
+        },
+        {
+          "id": 56,
+          "name": "Shounen",
+          "description": "Target demographic is teenage and young adult males.",
+          "rank": 86,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 34910
+        },
+        {
+          "id": 285,
+          "name": "Terrorism",
+          "description": "Centers around the activities of a terrorist or terrorist organization.",
+          "rank": 79,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5427152
+        },
+        {
+          "id": 93,
+          "name": "Post-Apocalyptic",
+          "description": "Partly or completely set in a world or civilization after a global disaster.",
+          "rank": 79,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5427152
+        },
+        {
+          "id": 111,
+          "name": "War",
+          "description": "Partly or completely set during wartime.",
+          "rank": 74,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 683581
+        },
+        {
+          "id": 198,
+          "name": "Foreign",
+          "description": "Partly or completely set in a country outside the country of origin.",
+          "rank": 70,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5427152
+        },
+        {
+          "id": 104,
+          "name": "Anti-Hero",
+          "description": "Features a protagonist who lacks conventional heroic attributes and may be considered a borderline villain.",
+          "rank": 60,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5765168
+        },
+        {
+          "id": 34,
+          "name": "Military",
+          "description": "Centered around the life and activities of military personnel.",
+          "rank": 60,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5427152
+        },
+        {
+          "id": 105,
+          "name": "Ensemble Cast",
+          "description": "Features a large cast of characters with (almost) equal screen time and importance to the plot.",
+          "rank": 50,
+          "isMediaSpoiler": false,
+          "isGeneralSpoiler": false,
+          "userId": 5427152
+        },
+        {
+          "id": 85,
+          "name": "Tragedy",
+          "description": "Centers around tragic events and unhappy endings.",
+          "rank": 20,
+          "isMediaSpoiler": true,
+          "isGeneralSpoiler": true,
+          "userId": 5599026
+        }
+      ],
+      "mediaListEntry": null,
+      "stats": {
+        "statusDistribution": [
+          {
+            "status": "CURRENT",
+            "amount": 21117
+          },
+          {
+            "status": "PLANNING",
+            "amount": 37575
+          },
+          {
+            "status": "COMPLETED",
+            "amount": 815
+          },
+          {
+            "status": "DROPPED",
+            "amount": 210
+          },
+          {
+            "status": "PAUSED",
+            "amount": 435
+          }
+        ],
+        "scoreDistribution": [
+          {
+            "score": 10,
+            "amount": 37
+          },
+          {
+            "score": 20,
+            "amount": 13
+          },
+          {
+            "score": 30,
+            "amount": 18
+          },
+          {
+            "score": 40,
+            "amount": 24
+          },
+          {
+            "score": 50,
+            "amount": 81
+          },
+          {
+            "score": 60,
+            "amount": 90
+          },
+          {
+            "score": 70,
+            "amount": 283
+          },
+          {
+            "score": 80,
+            "amount": 478
+          },
+          {
+            "score": 90,
+            "amount": 557
+          },
+          {
+            "score": 100,
+            "amount": 401
+          }
+        ]
+      }
+    }
+  }
+}
