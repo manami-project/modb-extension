@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/manami-project/modb-extension/badge.svg)](https://coveralls.io/github/manami-project/modb-extension) ![jdk21](https://img.shields.io/badge/jdk-21-informational)
+![jdk21](https://img.shields.io/badge/jdk-21-informational)
 # modb-extension
 
 > [!NOTE]

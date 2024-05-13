@@ -3,7 +3,7 @@ name: Build
 on:
   push:
     branches:
-      - 'master'
+      - 'main'
     paths-ignore:
       - 'README.md'
       - '.gitignore'
@@ -33,13 +33,6 @@ jobs:
         env:
           GH_PACKAGES_READ_TOKEN: ${{ secrets.PACKAGES_READ_TOKEN }}
         run: ./gradlew test
-      - name: Generate coverage
-        working-directory: ./tooling
-        if: ${{ matrix.java == 21 }}
-        env:
-          COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_REPO_TOKEN }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-        run: ./gradlew jacocoTestReport coverallsJacoco
       - name: Workflow housekeeping
         if: ${{ matrix.java == 21 }}
         uses: Mattraks/delete-workflow-runs@v2
