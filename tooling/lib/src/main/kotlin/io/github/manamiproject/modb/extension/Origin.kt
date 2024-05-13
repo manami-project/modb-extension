@@ -23,7 +23,7 @@ public sealed interface Origin<T> {
  */
 public data object ModbExtensionRepoOrigin: Origin<URI> {
 
-    private val uri = URI("https://github.com/manami-project/modb-extension/raw/master/data")
+    private val uri = URI("https://github.com/manami-project/modb-extension/raw/main/data")
 
     override fun resolve(filename: String): URI {
         require(filename.isNotBlank()) { "Filename must not be blank." }
