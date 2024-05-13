@@ -34,4 +34,4 @@ aws-bedrock-runtime = { module = "aws.sdk.kotlin:bedrockruntime-jvm", version.re
 
 [plugins]
 kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version = "1.9.24" }
-coveralls-jacoco = { id = "com.github.nbaztec.coveralls-jacoco", version = "1.2.19" }
+coveralls-jacoco = { id = "com.github.nbaztec.coveralls-jacoco", version = "1.2.20" }
