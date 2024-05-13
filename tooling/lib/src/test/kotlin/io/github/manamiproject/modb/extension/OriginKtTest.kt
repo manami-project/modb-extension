@@ -130,7 +130,7 @@ internal class OriginKtTest {
                 val result = ModbExtensionRepoOrigin.resolve(filename)
 
                 // then
-                assertThat(result).isEqualTo(URI("https://github.com/manami-project/modb-extension/raw/main/data/$filename"))
+                assertThat(result).isEqualTo(URI("https://raw.githubusercontent.com/manami-project/modb-extension/main/data/$filename"))
             }
         }
     }
