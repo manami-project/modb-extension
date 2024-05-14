@@ -3,8 +3,8 @@
 
 > [!NOTE]
 > **This repository is experimental** \
-> Code and structure are open to drastic changes. I'm also not sure if I will continuously maintain this project or leave it as a demonstration as a public archive.
- 
+> Significant and breaking changes can potentially be made to both code and structure. I am also not sure whether I will maintain this project continuously or leave it as a public archive for demonstration purposes.
+
 _[modb](https://github.com/manami-project?tab=repositories&q=modb&type=source)_ stands for _**M**anami **O**ffline **D**ata**B**ase_ and basically represents [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) which is a dataset specifically created for [manami](https://github.com/manami-project/manami).
 This project is both an experiment and a demonstration on how to extend the existing tooling.
 
@@ -22,6 +22,8 @@ That got me curious and thinking how this could possibly be solved and if I coul
 With this repository I want to see if I can create an extension to the [anime-offline-database](https://github.com/manami-project/anime-offline-database) dataset.
 
 ## Content of the repo
+
+See also the [README.md](tooling/lib/README.md) file of the lib to learn how to access the data.
 
 ### data
 
