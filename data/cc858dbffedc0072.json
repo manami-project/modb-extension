@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/i-love-me",
     "https://myanimelist.net/anime/51154"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc858dbffedc0072",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
   "score": {
     "arithmeticMean": 4.909090909090909,
     "arithmeticGeometricMean": 4.909090909090909,

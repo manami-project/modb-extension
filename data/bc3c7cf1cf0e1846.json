@@ -8,6 +8,14 @@
     "https://myanimelist.net/anime/7876",
     "https://notify.moe/anime/5pS85Kimg"
   ],
+  "synopsis": {
+    "text": "This enchanting animated rendition of the enduring classic, The Wizard of Oz, invites you on an unforgettable adventure down the iconic yellow brick road. Join Dorothy, her loyal canine companion Toto, the brain-seeking Scarecrow, the heart-desiring Tin Woodsman, and the courage-lacking Cowardly Lion as they embark on a quest to find the legendary Wizard of Oz. Along their journey, they encounter the malevolent Witch of the West and her minions, but our brave heroes overcome their wickedness and unveil the truth behind the mystical Wizard. Featuring Aileen Quinn as the voice of Dorothy, this delightful adaptation is perfect for young audiences and promises a thrilling experience for all. Prepare to be whisked away by a twister, conquer the Wicked Witch, and uncover the magic of Oz in this captivating tale.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc3c7cf1cf0e1846",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
   "score": {
     "arithmeticMean": 5.651973495891864,
     "arithmeticGeometricMean": 5.629377627042575,

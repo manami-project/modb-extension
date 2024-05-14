@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/best-friend",
     "https://myanimelist.net/anime/41633"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c3de1f484852120",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
   "score": {
     "arithmeticMean": 5.664666666666666,
     "arithmeticGeometricMean": 5.649015939882528,

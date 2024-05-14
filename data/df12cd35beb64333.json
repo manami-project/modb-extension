@@ -5,6 +5,14 @@
     "https://anisearch.com/anime/12863",
     "https://livechart.me/anime/2911"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "df12cd35beb64333",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
   "score": {
     "arithmeticMean": 6.534969387755103,
     "arithmeticGeometricMean": 6.515479146715578,

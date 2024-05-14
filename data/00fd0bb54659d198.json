@@ -5,6 +5,14 @@
     "https://anisearch.com/anime/12970",
     "https://kitsu.io/anime/45359"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "00fd0bb54659d198",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
   "score": {
     "arithmeticMean": 4.532282003710575,
     "arithmeticGeometricMean": 4.501784099864227,

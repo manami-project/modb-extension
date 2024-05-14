@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/sun-rise-and-set",
     "https://anisearch.com/anime/13532"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "235cd3429557ac53",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
   "score": {
     "arithmeticMean": 4.26595547309833,
     "arithmeticGeometricMean": 4.2054888002718975,

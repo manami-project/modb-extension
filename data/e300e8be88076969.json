@@ -4,6 +4,14 @@
     "https://anisearch.com/anime/13231",
     "https://kitsu.io/anime/46060"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e300e8be88076969",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
   "score": {
     "arithmeticMean": 5.13469387755102,
     "arithmeticGeometricMean": 5.097909524851899,

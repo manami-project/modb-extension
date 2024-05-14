@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/sou-noid",
     "https://anisearch.com/anime/16319"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aad5ce10f277aeee",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
   "score": {
     "arithmeticMean": 5.84178231292517,
     "arithmeticGeometricMean": 5.81284982654798,
