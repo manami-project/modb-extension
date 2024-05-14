@@ -29,7 +29,7 @@ This is a folder containing the data as separate JSON files.
 
 ### tooling
 
-A kotlin library which lets you access the data. Best used in conjunction with the other modb libraries. It also contains an app which creates the data in `/data`.
+A kotlin library which lets you access the data. It is best used in conjunction with the other modb libraries. The folder also contains an app which creates the data in `/data`.
 See the `README.md` files in the subfolders for more information.
 
 ## Data created here
