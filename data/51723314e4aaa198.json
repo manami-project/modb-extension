@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102505",
+    "https://anime-planet.com/anime/yu-gi-oh-the-dark-side-of-dimensions-special-eien-no-rival-yugi-to-kaiba",
+    "https://kitsu.io/anime/13094",
+    "https://livechart.me/anime/7946",
+    "https://myanimelist.net/anime/33997",
+    "https://notify.moe/anime/J4SMhFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "51723314e4aaa198",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.632763636363637,
+    "arithmeticGeometricMean": 6.626914462773322,
+    "median": 6.454545454545455,
+    "hash": "51723314e4aaa198",
+    "lastUpdate": "2024-05-06"
+  }
+}

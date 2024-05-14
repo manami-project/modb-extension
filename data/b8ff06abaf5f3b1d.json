@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6733",
+    "https://anilist.co/anime/6827",
+    "https://anime-planet.com/anime/suzume-no-oyado",
+    "https://anisearch.com/anime/5679",
+    "https://kitsu.io/anime/4729",
+    "https://myanimelist.net/anime/6827",
+    "https://notify.moe/anime/whr65Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8ff06abaf5f3b1d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.34425390935595,
+    "arithmeticGeometricMean": 5.323763363461616,
+    "median": 5.18,
+    "hash": "b8ff06abaf5f3b1d",
+    "lastUpdate": "2024-05-08"
+  }
+}

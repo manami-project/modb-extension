@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7401",
+    "https://anilist.co/anime/5337",
+    "https://anime-planet.com/anime/bakugan-battle-brawlers-new-vestroia",
+    "https://anisearch.com/anime/5758",
+    "https://kitsu.io/anime/4062",
+    "https://livechart.me/anime/4692",
+    "https://myanimelist.net/anime/5337",
+    "https://notify.moe/anime/CIdC5FimR"
+  ],
+  "synopsis": {
+    "text": "Dragonoid, alongside his human partner Danma Kuusou, once brought peace to Vestroia after defeating the rogue Bakugan Naga. However, their victory is short-lived as New Vestroia is invaded by humanoid aliens known as the Vestals. The Vestals aim to enslave the Bakugan for their amusement, using a powerful machine to confine them in their ball forms.\n\nDanma and Dragonoid, now part of the Bakugan Battle Brawlers Resistance, stand as the last line of defense against the Vestals' tyranny. Joined by new allies like Mira and Chouji, they must navigate enemy territory to free their captured friends and liberate New Vestroia from the clutches of their oppressors.\n\nAs the Vexos, another group of humans, threaten to take over New Vestroia, the Resistance faces a daunting task. With the fate of their world hanging in the balance, they must rally together to vanquish the Vestals, thwart the Vexos, and restore peace and freedom to their enslaved planet. Will they succeed in their mission, or will New Vestroia remain forever under the Vestals' iron fist? Join the Bakugan Battle Brawlers Resistance in their epic battle for freedom!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d0a289ccd78657e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.26919523333809,
+    "arithmeticGeometricMean": 6.251930937078956,
+    "median": 6.369272727272728,
+    "hash": "d0a289ccd78657e6",
+    "lastUpdate": "2024-05-08"
+  }
+}

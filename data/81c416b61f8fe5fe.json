@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6246",
+    "https://anilist.co/anime/5671",
+    "https://anime-planet.com/anime/saki",
+    "https://anisearch.com/anime/4918",
+    "https://kitsu.io/anime/4235",
+    "https://livechart.me/anime/3932",
+    "https://myanimelist.net/anime/5671",
+    "https://notify.moe/anime/hqyC5Fiig"
+  ],
+  "synopsis": {
+    "text": "Hisa Takei, the president of the school's mahjong club, is on the lookout for talented players to help her team reach the Nationals. Enter Saki Miyanaga, a high school freshman who has developed a unique strategy for playing mahjong - she always aims for a score of plus/minus zero. Saki's family would get upset if she won their annual mahjong games, but losing meant sacrificing her New Year's gift money. To avoid either outcome, Saki learned to walk the fine line between winning and losing. Despite her hatred for the game, Saki's skill catches Hisa's eye, and she's soon drafted into the club. With the help of her new teammates, including Nodoka Haramura, the reigning national middle school champion, Saki may just discover a new appreciation for mahjong. But can the team overcome their personal differences and work together to achieve victory at the National tournament?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81c416b61f8fe5fe",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.4442076376004955,
+    "arithmeticGeometricMean": 7.440789740940627,
+    "median": 7.467272727272727,
+    "hash": "81c416b61f8fe5fe",
+    "lastUpdate": "2024-05-09"
+  }
+}

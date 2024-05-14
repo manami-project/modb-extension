@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1870",
+    "https://anilist.co/anime/2797",
+    "https://anime-planet.com/anime/shootfighter-tekken-the-tough",
+    "https://anisearch.com/anime/1817",
+    "https://kitsu.io/anime/2553",
+    "https://myanimelist.net/anime/2797",
+    "https://notify.moe/anime/kmGU5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9376892465ef91aa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.66582807668522,
+    "arithmeticGeometricMean": 6.657042595696379,
+    "median": 6.7940000000000005,
+    "hash": "9376892465ef91aa",
+    "lastUpdate": "2024-05-08"
+  }
+}

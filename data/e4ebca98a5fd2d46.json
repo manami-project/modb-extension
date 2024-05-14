@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/17295",
+    "https://anime-planet.com/anime/cosmic-break",
+    "https://kitsu.io/anime/7630",
+    "https://livechart.me/anime/8052",
+    "https://myanimelist.net/anime/17295",
+    "https://notify.moe/anime/N-a5pFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e4ebca98a5fd2d46",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.726136363636363,
+    "arithmeticGeometricMean": 5.71071821368269,
+    "median": 5.632272727272728,
+    "hash": "e4ebca98a5fd2d46",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8517",
+    "https://anilist.co/anime/10937",
+    "https://anime-planet.com/anime/mobile-suit-gundam-the-origin",
+    "https://anisearch.com/anime/7192",
+    "https://livechart.me/anime/477",
+    "https://myanimelist.net/anime/10937"
+  ],
+  "synopsis": {
+    "text": "Kanashimi no Artesia and Aoi Hitomi no Casval, the children of the late Zeon Zum Deikun, find themselves in the midst of a political upheaval in the year U.C. 0068. After their father's sudden death during his declaration of Munzo's independence from the Earth Federation, the siblings are forced to flee their home and seek refuge on Earth. As the House of Zabi rises to power and Munzo falls into chaos, Casval and Artesia embark on separate journeys that will shape their destinies and the fate of the universe.\n\nIn U.C. 0071, three years after the events of the first episode, the siblings' tearful separation is chronicled in the second episode. Meanwhile, the development of mobile suits, particularly on the Zeon side, gains momentum. The third episode, Akatsuki no Houki, follows Casval, who would later become known as the legendary Char Aznable, and his future comrade Garma Zabi as they join the Zeons' military academy.\n\nAs Casval and Artesia, later known as Char and Sayla, navigate the tumultuous waters of war and politics, they become entangled in the rise of the militarized version of their father's ideology. The four episodes of 'Chronicle of Char and Sayla' reveal the secrets of mobile suit development, conflicts with the Earth Federation Forces, and the road leading to the outbreak of war, all of which contribute to the siblings' transformation into formidable soldiers and legendary mobile suit pilots.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f191a3ea6b3e29b9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.134991960420532,
+    "arithmeticGeometricMean": 8.134016839353066,
+    "median": 8.183,
+    "hash": "f191a3ea6b3e29b9",
+    "lastUpdate": "2024-05-09"
+  }
+}

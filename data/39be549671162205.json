@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13704",
+    "https://anilist.co/anime/100852",
+    "https://anime-planet.com/anime/hozukis-coolheadedness-2nd-season-part-ii",
+    "https://anisearch.com/anime/13163",
+    "https://kitsu.io/anime/14157",
+    "https://livechart.me/anime/3035",
+    "https://myanimelist.net/anime/37029",
+    "https://notify.moe/anime/qEwHhKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "39be549671162205",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.779245443631997,
+    "arithmeticGeometricMean": 7.776996339939964,
+    "median": 7.809090909090909,
+    "hash": "39be549671162205",
+    "lastUpdate": "2024-05-09"
+  }
+}

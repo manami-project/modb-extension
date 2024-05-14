@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/745",
+    "https://anilist.co/anime/1136",
+    "https://anime-planet.com/anime/betterman",
+    "https://anisearch.com/anime/1037",
+    "https://kitsu.io/anime/1017",
+    "https://livechart.me/anime/5436",
+    "https://myanimelist.net/anime/1136",
+    "https://notify.moe/anime/63gbcKmig"
+  ],
+  "synopsis": {
+    "text": "Betterman, a mysterious mutant, emerges as a beacon of hope amidst the chaos of \"Algernon,\" a deadly virus causing random acts of terrorism and violence worldwide. As traditional law enforcement fails to contain the situation, Akamatsu Industries, a covert Tokyo-based organization, steps in with their neural-enhanced weapons, NeuroNoids. Keita, an ordinary boy, is thrust into the heart of this battle when he reunites with his childhood friend Hinoki, a NeuroNoid pilot, at an underground amusement park. As they navigate through the enigmatic world of Algernon and encounter monstrous threats, the duo finds themselves protected by the legendary Betterman. The question remains: who or what is Betterman, and why does he appear when Keita and Hinoki are in danger? The journey to unravel the mysteries of Algernon and Betterman begins, promising a thrilling adventure filled with action and suspense.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5f5054c5c95c3397",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.513255057867303,
+    "arithmeticGeometricMean": 6.511098449123093,
+    "median": 6.636363636363637,
+    "hash": "5f5054c5c95c3397",
+    "lastUpdate": "2024-05-09"
+  }
+}

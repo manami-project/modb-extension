@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/154955",
+    "https://anime-planet.com/anime/im-the-villainess-so-im-taming-the-final-boss-mini-anime",
+    "https://anisearch.com/anime/18757",
+    "https://kitsu.io/anime/48760",
+    "https://livechart.me/anime/11513",
+    "https://myanimelist.net/anime/53085"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6bb764fef0d0b8a5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.348935992578848,
+    "arithmeticGeometricMean": 6.339467004577344,
+    "median": 6.321545454545454,
+    "hash": "6bb764fef0d0b8a5",
+    "lastUpdate": "2024-05-05"
+  }
+}

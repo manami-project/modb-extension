@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15282",
+    "https://anilist.co/anime/113863",
+    "https://anime-planet.com/anime/gainatamager",
+    "https://anisearch.com/anime/14889",
+    "https://kitsu.io/anime/43399",
+    "https://livechart.me/anime/9689",
+    "https://myanimelist.net/anime/40768"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "51e7305b963f6b65",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.591727272727272,
+    "arithmeticGeometricMean": 5.542239009898779,
+    "median": 5.591727272727272,
+    "hash": "51e7305b963f6b65",
+    "lastUpdate": "2024-05-09"
+  }
+}

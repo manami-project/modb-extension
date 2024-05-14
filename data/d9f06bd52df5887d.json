@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13358",
+    "https://anime-planet.com/anime/aiseki-mogol-girl",
+    "https://anisearch.com/anime/12791",
+    "https://kitsu.io/anime/13898",
+    "https://livechart.me/anime/2852",
+    "https://myanimelist.net/anime/36073",
+    "https://notify.moe/anime/QeyIhFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d9f06bd52df5887d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.4281768707483,
+    "arithmeticGeometricMean": 5.328276563513798,
+    "median": 6.326530612244898,
+    "hash": "d9f06bd52df5887d",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1456",
+    "https://anilist.co/anime/442",
+    "https://anime-planet.com/anime/naruto-movie-1-ninja-clash-in-the-land-of-snow",
+    "https://anisearch.com/anime/604",
+    "https://kitsu.io/anime/405",
+    "https://livechart.me/anime/3788",
+    "https://myanimelist.net/anime/442",
+    "https://notify.moe/anime/GIGocKimR"
+  ],
+  "synopsis": {
+    "text": "Dotou, a ruthless ruler in the Land of Snow, has set his sights on a mysterious treasure, and the key to unlocking it may lie with Yukie Fujikaze, a famous actress. When Naruto, Sasuke, Sakura, and Kakashi are tasked with escorting Yukie to the Land of Snow for her latest film, they have no idea what they're getting themselves into. Yukie is reluctant to travel to the Land of Snow, and it soon becomes clear that she's hiding something. As the group makes their way to the filming location, they are attacked by rogue Snow ninja and must fight to protect Yukie and uncover the truth about her connection to the treasure. Will Naruto and his friends be able to complete their mission and keep Yukie safe, or will Dotou and his minions succeed in their quest for power? Find out in \"Naruto the Movie: Ninja Clash in the Land of Snow.\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5994fadbddc028d3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.057330962688106,
+    "arithmeticGeometricMean": 7.054245903842398,
+    "median": 7.135,
+    "hash": "5994fadbddc028d3",
+    "lastUpdate": "2024-05-09"
+  }
+}

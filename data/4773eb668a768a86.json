@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/claris-luminous"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4773eb668a768a86",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.408,
+    "arithmeticGeometricMean": 6.408,
+    "median": 6.408,
+    "hash": "4773eb668a768a86",
+    "lastUpdate": "2024-05-08"
+  }
+}

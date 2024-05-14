@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/408",
+    "https://anilist.co/anime/1248",
+    "https://anime-planet.com/anime/zone-of-the-enders-idolo",
+    "https://anisearch.com/anime/3433",
+    "https://kitsu.io/anime/1123",
+    "https://livechart.me/anime/6723",
+    "https://myanimelist.net/anime/1248",
+    "https://notify.moe/anime/zc0bcKmig"
+  ],
+  "synopsis": {
+    "text": "Based in the year 2761, the anime Z.O.E. 2167 Idolo unfolds on Mars, where the BAHRAM army's top pilots, Radium and Viola, are tasked with testing a revolutionary weapon, the Orbital Frame. The Martians, yearning for freedom from Earth's oppressive United Nations Space Force, pin their hopes on this weapon, which harnesses the immense power of the rare Metatron ore. However, when the Orbital Frame, Idolo, gains sentience and begins to corrupt its pilot, Radium, chaos ensues. As Earth forces launch an attack to seize the weapon, a desperate Radium embarks on a mission to save his girlfriend, Dolores, who has been kidnapped during the raid. This series of events culminates in the infamous Deimos Incident, a catastrophic act of terrorism orchestrated by the Mars revolutionaries. Will Radium succumb to the Metatron's influence, or will he break free and save Mars from Earth's tyranny? Only time will tell in this thrilling prequel to the Z.O.E Dolores, i series.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "298a623814dbd5dc",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.821073946461701,
+    "arithmeticGeometricMean": 6.813472681264577,
+    "median": 6.91,
+    "hash": "298a623814dbd5dc",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16342",
+    "https://anime-planet.com/anime/kuma-no-gakkou-jackie-no-ohoshi-sama",
+    "https://myanimelist.net/anime/54011"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e912360f71054bfa",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "e912360f71054bfa",
+    "lastUpdate": "2024-05-11"
+  }
+}

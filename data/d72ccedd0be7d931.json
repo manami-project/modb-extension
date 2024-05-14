@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/12094",
+    "https://myanimelist.net/anime/34492"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d72ccedd0be7d931",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.798877551020408,
+    "arithmeticGeometricMean": 5.782720336523529,
+    "median": 5.798877551020408,
+    "hash": "d72ccedd0be7d931",
+    "lastUpdate": "2024-05-06"
+  }
+}

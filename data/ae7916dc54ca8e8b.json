@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/721",
+    "https://anilist.co/anime/89",
+    "https://anime-planet.com/anime/mobile-suit-victory-gundam",
+    "https://anisearch.com/anime/3125",
+    "https://kitsu.io/anime/68",
+    "https://livechart.me/anime/5587",
+    "https://myanimelist.net/anime/89",
+    "https://notify.moe/anime/uS2tcFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ae7916dc54ca8e8b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.804445372088229,
+    "arithmeticGeometricMean": 6.789806338186216,
+    "median": 6.827999999999999,
+    "hash": "ae7916dc54ca8e8b",
+    "lastUpdate": "2024-05-09"
+  }
+}

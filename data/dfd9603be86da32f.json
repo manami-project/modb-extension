@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102772",
+    "https://anime-planet.com/anime/sid-white-tree",
+    "https://anisearch.com/anime/10863",
+    "https://kitsu.io/anime/12075",
+    "https://myanimelist.net/anime/31925",
+    "https://notify.moe/anime/err6pKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dfd9603be86da32f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.682391094619666,
+    "arithmeticGeometricMean": 5.676505447714771,
+    "median": 5.5,
+    "hash": "dfd9603be86da32f",
+    "lastUpdate": "2024-05-06"
+  }
+}

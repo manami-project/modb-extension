@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6922",
+    "https://anilist.co/anime/177218",
+    "https://anime-planet.com/anime/kobutori-1918",
+    "https://anisearch.com/anime/5262",
+    "https://kitsu.io/anime/8614",
+    "https://myanimelist.net/anime/22511",
+    "https://notify.moe/anime/FjZJtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "026c5922743e66d0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.896006184291899,
+    "arithmeticGeometricMean": 4.836666113307488,
+    "median": 4.625,
+    "hash": "026c5922743e66d0",
+    "lastUpdate": "2024-05-08"
+  }
+}

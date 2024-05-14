@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12358",
+    "https://anilist.co/anime/99707",
+    "https://anime-planet.com/anime/rakshasa-street",
+    "https://anisearch.com/anime/12462",
+    "https://kitsu.io/anime/12291",
+    "https://livechart.me/anime/5702",
+    "https://myanimelist.net/anime/33350",
+    "https://notify.moe/anime/-k9ghFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0ee71d28dfa43fc7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.682135590599876,
+    "arithmeticGeometricMean": 7.677836059315384,
+    "median": 7.766363636363637,
+    "hash": "0ee71d28dfa43fc7",
+    "lastUpdate": "2024-05-10"
+  }
+}

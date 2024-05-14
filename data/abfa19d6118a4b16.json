@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6892",
+    "https://anilist.co/anime/15455",
+    "https://anime-planet.com/anime/sakura-haru-no-gensou",
+    "https://anisearch.com/anime/5966",
+    "https://kitsu.io/anime/7260",
+    "https://livechart.me/anime/6876",
+    "https://myanimelist.net/anime/15455",
+    "https://notify.moe/anime/HhjdpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "abfa19d6118a4b16",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.118265571163529,
+    "arithmeticGeometricMean": 5.09369995843466,
+    "median": 5.090909090909091,
+    "hash": "abfa19d6118a4b16",
+    "lastUpdate": "2024-05-09"
+  }
+}

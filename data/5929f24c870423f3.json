@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12534",
+    "https://anime-planet.com/anime/xiong-chu-mo-season-3-zhong-dong-yuan",
+    "https://anisearch.com/anime/12767",
+    "https://kitsu.io/anime/11863",
+    "https://myanimelist.net/anime/32819",
+    "https://notify.moe/anime/8n6qpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5929f24c870423f3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.427687074829932,
+    "arithmeticGeometricMean": 4.318778474660492,
+    "median": 5.0,
+    "hash": "5929f24c870423f3",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11521",
+    "https://anilist.co/anime/99208",
+    "https://anime-planet.com/anime/gondora",
+    "https://anisearch.com/anime/11534",
+    "https://kitsu.io/anime/8465",
+    "https://myanimelist.net/anime/23877",
+    "https://notify.moe/anime/1V20tKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2f164bdca6df07f9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.220992843890803,
+    "arithmeticGeometricMean": 4.191163843550411,
+    "median": 4.181818181818182,
+    "hash": "2f164bdca6df07f9",
+    "lastUpdate": "2024-05-08"
+  }
+}

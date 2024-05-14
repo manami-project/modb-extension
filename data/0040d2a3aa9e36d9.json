@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11178",
+    "https://anilist.co/anime/102151",
+    "https://anime-planet.com/anime/qi-cai-lao-fu-zi",
+    "https://anisearch.com/anime/10505",
+    "https://kitsu.io/anime/10645",
+    "https://myanimelist.net/anime/30095",
+    "https://notify.moe/anime/pEtwtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0040d2a3aa9e36d9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.624070500927643,
+    "arithmeticGeometricMean": 5.587985757259871,
+    "median": 5.0,
+    "hash": "0040d2a3aa9e36d9",
+    "lastUpdate": "2024-05-07"
+  }
+}

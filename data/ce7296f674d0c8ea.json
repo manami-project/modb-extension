@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12659",
+    "https://anilist.co/anime/98231",
+    "https://anime-planet.com/anime/yu-gi-oh-vrains",
+    "https://anisearch.com/anime/12209",
+    "https://kitsu.io/anime/13189",
+    "https://livechart.me/anime/2475",
+    "https://myanimelist.net/anime/34866",
+    "https://notify.moe/anime/0laGhFmiR"
+  ],
+  "synopsis": {
+    "text": "Reality and virtuality collide in the thrilling world of \"Yu-Gi-Oh! Vrains,\" where the beloved card game undergoes a digital transformation with the introduction of Link Summoning and the immersive Link Vrains network. High school student Yusaku Fujiki, aka Playmaker, navigates this new landscape in search of answers to his enigmatic past, all while battling the notorious hacker group, The Hanoi Knights, who seek to destroy the AI-populated Cyverse hidden within the network. As Yusaku and his allies race against time, they must confront the Knights and the powerful SOL Technology Co. in a series of high-stakes duels that could change the fate of both the real and virtual worlds forever. Join Playmaker on his quest for truth and watch as the boundaries between reality and virtuality blur in this action-packed adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce7296f674d0c8ea",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.6683895859779305,
+    "arithmeticGeometricMean": 6.65599740092055,
+    "median": 6.7713636363636365,
+    "hash": "ce7296f674d0c8ea",
+    "lastUpdate": "2024-05-10"
+  }
+}

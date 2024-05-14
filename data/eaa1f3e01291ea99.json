@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169772",
+    "https://anime-planet.com/anime/matatabi-movie-labo",
+    "https://myanimelist.net/anime/56156"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eaa1f3e01291ea99",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.988727272727273,
+    "arithmeticGeometricMean": 6.981689572070714,
+    "median": 6.988727272727273,
+    "hash": "eaa1f3e01291ea99",
+    "lastUpdate": "2024-05-07"
+  }
+}

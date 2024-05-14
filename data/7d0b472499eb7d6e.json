@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8882",
+    "https://anilist.co/anime/11783",
+    "https://anime-planet.com/anime/dog-days-2",
+    "https://anisearch.com/anime/7565",
+    "https://kitsu.io/anime/6598",
+    "https://livechart.me/anime/1024",
+    "https://myanimelist.net/anime/11783",
+    "https://notify.moe/anime/IDjSpFmiR"
+  ],
+  "synopsis": {
+    "text": "As the tranquility of Flonyard is once again disrupted, our protagonist, Cinque, is summoned back to this magical realm, three months after his initial adventure. This time, he is not alone; his childhood friend, Rebecca, and his athletic cousin, Nanami, find themselves in this enchanting world too. While Cinque resumes his heroic duties for the Biscotti Republic, Nanami becomes the hero for the Galette Lion Dominion, and Rebecca, captivated by Flonyard's charm, is scouted by the First Princess of Pastillage, Couver, to become their hero. As the athletic trio delves deeper into their new roles, they must navigate the mysteries of Flonyard while participating in thrilling sporting events. With rival factions vying for victory, will Cinque and his friends successfully lead their respective kingdoms to triumph?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d0b472499eb7d6e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.142072047000618,
+    "arithmeticGeometricMean": 7.1396698931139735,
+    "median": 7.197530612244898,
+    "hash": "7d0b472499eb7d6e",
+    "lastUpdate": "2024-05-09"
+  }
+}

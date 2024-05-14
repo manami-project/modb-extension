@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14715",
+    "https://anime-planet.com/anime/uchi-no-3-shimai-movie",
+    "https://anisearch.com/anime/14358",
+    "https://livechart.me/anime/11560",
+    "https://myanimelist.net/anime/39436"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5bd6675ed04b6672",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "5bd6675ed04b6672",
+    "lastUpdate": "2024-05-11"
+  }
+}

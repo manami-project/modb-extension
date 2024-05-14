@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6601",
+    "https://anilist.co/anime/132268",
+    "https://anime-planet.com/anime/bugtte-honey-megaromu-shoujo-ma-4622",
+    "https://anisearch.com/anime/11885",
+    "https://kitsu.io/anime/11525",
+    "https://myanimelist.net/anime/31868",
+    "https://notify.moe/anime/4_2CpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "945f7fa8bfac008d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.186580086580086,
+    "arithmeticGeometricMean": 5.168887072371884,
+    "median": 5.0,
+    "hash": "945f7fa8bfac008d",
+    "lastUpdate": "2024-05-08"
+  }
+}

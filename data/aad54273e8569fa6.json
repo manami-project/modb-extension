@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1020",
+    "https://anilist.co/anime/1117",
+    "https://anime-planet.com/anime/pokemon-movie-2-the-power-of-one",
+    "https://anisearch.com/anime/3495",
+    "https://kitsu.io/anime/1001",
+    "https://livechart.me/anime/3979",
+    "https://myanimelist.net/anime/1117",
+    "https://notify.moe/anime/E43JcKmig"
+  ],
+  "synopsis": {
+    "text": "Guardian of the Seas, Lugia, and the Chosen One, Ash, embark on a thrilling adventure to restore the balance of nature in the Orange Archipelago. The ancient prophecy foretells the chaos that will ensue when the legendary bird Pokémon - Arktos, Zapdos, and Lavados - are disturbed from their harmonious existence. As the elemental forces of nature go haywire, the earth faces imminent danger.\n\nLawrence, a Pokémon collector driven by greed, sets his sights on capturing the three bird Pokémon to lure out the mysterious Lugia. When Ash, Misty, and Tracey find themselves stranded on Shamouti Island amidst powerful storms, they learn about the annual Legends Festival and the island's custom of selecting a Chosen One to save the world. This time, however, the prophecy seems to be coming true, and Ash might just be the hero they need.\n\nJoined by Melody, an island girl who shares the ancient legend, Ash must collect three mystical orbs to quell the fighting among the titans. But first, he must seek the help of Lugia, the Beast of the Sea. With the fate of the world hanging in the balance, Ash and his friends must rise to the challenge and put an end to Lawrence's sinister plan. Will they succeed in restoring harmony and preventing catastrophe? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aad54273e8569fa6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.07870983251721,
+    "arithmeticGeometricMean": 7.068783759085891,
+    "median": 7.3113636363636365,
+    "hash": "aad54273e8569fa6",
+    "lastUpdate": "2024-05-09"
+  }
+}

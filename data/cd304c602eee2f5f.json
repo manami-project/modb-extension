@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13665",
+    "https://anilist.co/anime/104362",
+    "https://anime-planet.com/anime/nana-moon",
+    "https://anisearch.com/anime/13154",
+    "https://kitsu.io/anime/12622",
+    "https://myanimelist.net/anime/33583",
+    "https://notify.moe/anime/OvOi2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cd304c602eee2f5f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.5,
+    "arithmeticGeometricMean": 5.488606881261927,
+    "median": 5.5,
+    "hash": "cd304c602eee2f5f",
+    "lastUpdate": "2024-05-08"
+  }
+}

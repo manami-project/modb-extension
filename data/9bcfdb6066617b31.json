@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6212",
+    "https://anilist.co/anime/4811",
+    "https://anime-planet.com/anime/strawberry-marshmallow-encore",
+    "https://anisearch.com/anime/5085",
+    "https://kitsu.io/anime/3800",
+    "https://livechart.me/anime/4506",
+    "https://myanimelist.net/anime/4811",
+    "https://notify.moe/anime/nNFr5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9bcfdb6066617b31",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.662418856936715,
+    "arithmeticGeometricMean": 7.661578012126555,
+    "median": 7.705,
+    "hash": "9bcfdb6066617b31",
+    "lastUpdate": "2024-05-09"
+  }
+}

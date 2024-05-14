@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2109",
+    "https://anime-planet.com/anime/hanappe-bazooka",
+    "https://anisearch.com/anime/1524",
+    "https://kitsu.io/anime/3427",
+    "https://myanimelist.net/anime/4042",
+    "https://notify.moe/anime/5kiXcFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6526d7c3cd27890b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.240404452690167,
+    "arithmeticGeometricMean": 5.232193125323129,
+    "median": 5.05,
+    "hash": "6526d7c3cd27890b",
+    "lastUpdate": "2024-05-08"
+  }
+}

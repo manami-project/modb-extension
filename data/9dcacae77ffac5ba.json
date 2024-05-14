@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/686",
+    "https://anilist.co/anime/1521",
+    "https://anime-planet.com/anime/black-jack-the-movie",
+    "https://anisearch.com/anime/1912",
+    "https://kitsu.io/anime/1365",
+    "https://livechart.me/anime/7305",
+    "https://myanimelist.net/anime/1521",
+    "https://notify.moe/anime/Fq2-5FimR"
+  ],
+  "synopsis": {
+    "text": "As the world marvels at the rise of superhumans, individuals with extraordinary abilities in various fields, a sinister truth lurks beneath the surface. These gifted beings, while shattering records and pushing the boundaries of human potential, are plagued by a mysterious and deadly illness known as Moira Syndrome. This lethal virus not only enhances their abilities but also triggers a rapid deterioration of their bodies, leading to a painful and untimely death.\n\nEnter Dr. Black Jack, an unlicensed yet legendary surgeon with godlike skills, capable of performing operations that are deemed impossible by even the most skilled professionals. His services, though expensive, are sought after by the enigmatic Jo Carol Brane, who desires his expertise to unravel the mystery behind Moira Syndrome and find a cure.\n\nAs Black Jack delves deeper into the world of these superhumans, he uncovers a conspiracy that threatens the very existence of mankind. With time running out and the stakes higher than ever, Black Jack must use his unparalleled medical prowess to unravel the enigma of Moira Syndrome and save humanity from impending doom. In this thrilling race against time, will Black Jack be able to solve the mystery and find a cure, or will he become the next victim of this deadly virus?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9dcacae77ffac5ba",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.2486011131725405,
+    "arithmeticGeometricMean": 7.243130269632828,
+    "median": 7.37,
+    "hash": "9dcacae77ffac5ba",
+    "lastUpdate": "2024-05-09"
+  }
+}

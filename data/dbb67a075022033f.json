@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/kemy",
+    "https://kitsu.io/anime/12895",
+    "https://myanimelist.net/anime/34666",
+    "https://notify.moe/anime/t_cW2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dbb67a075022033f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.938000000000001,
+    "arithmeticGeometricMean": 5.900664169184664,
+    "median": 5.938000000000001,
+    "hash": "dbb67a075022033f",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9378",
+    "https://anilist.co/anime/12267",
+    "https://anime-planet.com/anime/treasure-hunting",
+    "https://anisearch.com/anime/7077",
+    "https://kitsu.io/anime/6697",
+    "https://livechart.me/anime/11009",
+    "https://myanimelist.net/anime/12267",
+    "https://notify.moe/anime/R9ONtKmmR"
+  ],
+  "synopsis": {
+    "text": "Iro Iro no Tane, a short film exclusively screened at the Ghibli Museum in Mitaka, is a delightful adaptation of a picture book by Rieko Nakagawa and Yuriko Yamawaki. The nine-minute short follows the story of a young boy named Yuji and his rabbit friend, Gick, as they discover a walking stick and compete in various games to determine its rightful owner. From foot races to long jumps and sumo wrestling, the pair always find themselves in a tie. Seeking a solution, they consult Gick's wise Granny, who suggests a treasure hunt. Who will emerge victorious in this friendly competition? Only the treasure hunt will reveal the answer.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a8e3e3703db0efdc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.658802226345084,
+    "arithmeticGeometricMean": 5.60430350271327,
+    "median": 5.5,
+    "hash": "a8e3e3703db0efdc",
+    "lastUpdate": "2024-05-10"
+  }
+}

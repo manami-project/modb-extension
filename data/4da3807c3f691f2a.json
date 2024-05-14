@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12916",
+    "https://anilist.co/anime/127507",
+    "https://anime-planet.com/anime/midori-no-kuni-no-otomodachi-koeda-chan",
+    "https://anisearch.com/anime/12374",
+    "https://kitsu.io/anime/40648",
+    "https://myanimelist.net/anime/35008",
+    "https://notify.moe/anime/fcxv2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4da3807c3f691f2a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.6995102040816334,
+    "arithmeticGeometricMean": 5.626787923085299,
+    "median": 6.326530612244898,
+    "hash": "4da3807c3f691f2a",
+    "lastUpdate": "2024-05-08"
+  }
+}

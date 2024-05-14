@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11391",
+    "https://anilist.co/anime/99948",
+    "https://anime-planet.com/anime/00-08",
+    "https://anisearch.com/anime/10941",
+    "https://kitsu.io/anime/10157",
+    "https://livechart.me/anime/6565",
+    "https://myanimelist.net/anime/28761",
+    "https://notify.moe/anime/PMAypFmmg"
+  ],
+  "synopsis": {
+    "text": "Tokyo University of the Arts presents an award-winning, five-minute animation that redefines the concept of time. The story revolves around a man who repeatedly savors a drink in eight-second intervals. At first glance, the sequence appears identical, but with each sip, subtle changes unfold, adding a layer of intrigue. The protagonist, seemingly trapped in a loop, attempts to break free, but to no avail. This innovative piece expands and enlarges each frame, creating a luxurious and captivating experience that transcends the boundaries of traditional time-based narratives. Winner of the 2014 Anima Mundi Best Gallery Film, ANIMPACT Jury Special Prize, and Tokyo Anime Award Festival Graduation Work Adobe Prize, this animation is a must-watch for its unique exploration of time and change.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "776cd5985595d775",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.217551329622758,
+    "arithmeticGeometricMean": 5.177909390769397,
+    "median": 5.010454545454545,
+    "hash": "776cd5985595d775",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/2630",
+    "https://myanimelist.net/anime/3953"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "78e59cc6be7ef26e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.4012244897959185,
+    "arithmeticGeometricMean": 4.320454332446601,
+    "median": 4.4012244897959185,
+    "hash": "78e59cc6be7ef26e",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11379",
+    "https://anilist.co/anime/103450",
+    "https://anime-planet.com/anime/haru-no-shikumi",
+    "https://anisearch.com/anime/10161",
+    "https://kitsu.io/anime/10179",
+    "https://myanimelist.net/anime/28645",
+    "https://notify.moe/anime/76xytFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "11adddea068f061f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.495498542274052,
+    "arithmeticGeometricMean": 4.465581885654544,
+    "median": 4.454545454545454,
+    "hash": "11adddea068f061f",
+    "lastUpdate": "2024-05-08"
+  }
+}

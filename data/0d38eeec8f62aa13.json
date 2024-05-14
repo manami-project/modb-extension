@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6694",
+    "https://anime-planet.com/anime/kakkun-cafe",
+    "https://anisearch.com/anime/5641",
+    "https://kitsu.io/anime/9360",
+    "https://livechart.me/anime/8470",
+    "https://myanimelist.net/anime/23613",
+    "https://notify.moe/anime/uvSBtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0d38eeec8f62aa13",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.632639455782313,
+    "arithmeticGeometricMean": 5.603985336810806,
+    "median": 5.095918367346939,
+    "hash": "0d38eeec8f62aa13",
+    "lastUpdate": "2024-05-09"
+  }
+}

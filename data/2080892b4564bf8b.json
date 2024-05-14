@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13444",
+    "https://anilist.co/anime/101876",
+    "https://anime-planet.com/anime/the-unparalleled-black-white-2nd-season",
+    "https://anisearch.com/anime/13036",
+    "https://kitsu.io/anime/13996",
+    "https://livechart.me/anime/6099",
+    "https://myanimelist.net/anime/36544",
+    "https://notify.moe/anime/7wGNhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2080892b4564bf8b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.7231099920487685,
+    "arithmeticGeometricMean": 6.707854775897724,
+    "median": 7.0,
+    "hash": "2080892b4564bf8b",
+    "lastUpdate": "2024-05-09"
+  }
+}

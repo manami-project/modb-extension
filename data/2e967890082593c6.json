@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1499",
+    "https://anilist.co/anime/2556",
+    "https://anime-planet.com/anime/the-new-adventures-of-kimba-the-white-lion",
+    "https://anisearch.com/anime/240",
+    "https://kitsu.io/anime/2321",
+    "https://livechart.me/anime/6422",
+    "https://myanimelist.net/anime/2556",
+    "https://notify.moe/anime/KrGy5Kimg"
+  ],
+  "synopsis": {
+    "text": "In the heart of the African wilderness, a young lion named Kimba, also known as Leo, embarks on a mission to fulfill his birthright and become the ruler of a peaceful and harmonious animal kingdom. After his father, the noble white lion Panja, falls victim to poachers, Kimba inherits the throne and the responsibility to protect all creatures residing in the jungle.\n\nDespite the tragic circumstances surrounding his father's demise at the hands of humans, Kimba harbors no ill will towards them. Instead, he fosters a unique bond with humans and seeks to create a utopia where all animals can thrive together.\n\nHowever, Kimba's journey to reclaim his kingdom is not without challenges. He must face adversaries and rally support from newfound allies, including his father's loyal friends. Only then can he overthrow the incompetent lion Bubu, who has usurped the throne in Panja's absence, and restore balance to the animal kingdom. Join Kimba on his inspiring quest to become the true king of the jungle.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2e967890082593c6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.48184521600848,
+    "arithmeticGeometricMean": 6.448668506714326,
+    "median": 6.598,
+    "hash": "2e967890082593c6",
+    "lastUpdate": "2024-05-09"
+  }
+}

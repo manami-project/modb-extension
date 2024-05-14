@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14323",
+    "https://anilist.co/anime/121675",
+    "https://anime-planet.com/anime/azuma-hitomi-harinezumi",
+    "https://kitsu.io/anime/9841",
+    "https://myanimelist.net/anime/20529",
+    "https://notify.moe/anime/oLzEtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "53083e1b73413792",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.5404,
+    "arithmeticGeometricMean": 5.52662599040622,
+    "median": 5.0,
+    "hash": "53083e1b73413792",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/5817",
+    "https://myanimelist.net/anime/7458"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ee79ea6c212aed9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.140510204081632,
+    "arithmeticGeometricMean": 5.1016658407379945,
+    "median": 5.140510204081632,
+    "hash": "4ee79ea6c212aed9",
+    "lastUpdate": "2024-05-07"
+  }
+}

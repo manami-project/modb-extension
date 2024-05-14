@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2036",
+    "https://anilist.co/anime/463",
+    "https://anime-planet.com/anime/one-piece-movie-5-the-curse-of-the-sacred-sword",
+    "https://anisearch.com/anime/2376",
+    "https://kitsu.io/anime/425",
+    "https://livechart.me/anime/4208",
+    "https://myanimelist.net/anime/463",
+    "https://notify.moe/anime/GoIo5FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2030f9d21bf6773f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.295352710781282,
+    "arithmeticGeometricMean": 7.293941639667554,
+    "median": 7.253181818181819,
+    "hash": "2030f9d21bf6773f",
+    "lastUpdate": "2024-05-09"
+  }
+}

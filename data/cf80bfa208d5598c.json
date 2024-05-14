@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4514",
+    "https://anilist.co/anime/2768",
+    "https://anime-planet.com/anime/clamp-in-wonderland-2",
+    "https://anisearch.com/anime/4529",
+    "https://kitsu.io/anime/2526",
+    "https://myanimelist.net/anime/2768",
+    "https://notify.moe/anime/N0RU5Fiig"
+  ],
+  "synopsis": {
+    "text": "Knight Rayearth. Join the Mokonas as they leap from the pages of beloved CLAMP mangas, such as \"Card Captor Sakura\" and \"xxxHOLiC,\" into a vibrant journey across dimensions, all unfolding in a captivating music video.\n\nEmbark on a whirlwind adventure with the Mokonas, traversing time and space from the quaint steps of Yuuko's garden. Delve into the enchanting worlds of popular CLAMP series, including \"Angelic Layer,\" \"Tsubasa Chronicle,\" and \"Kobato.\" Prepare to dance with persocoms, soar through the skies alongside Syo, Kero, and others, and even stir up some chaos in a drug store!\n\nAs the Mokonas weave their way through the diverse landscapes of CLAMP's creations, they cross paths with cherished characters and forge new friendships. But their journey is not without its challenges, as they occasionally find themselves in perilous situations, forced to run and fight for their lives. Will the Mokonas navigate these thrilling escapades unscathed and continue their adventure across the vast expanse of space?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cf80bfa208d5598c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.998002772737467,
+    "arithmeticGeometricMean": 6.984477460408684,
+    "median": 7.181818181818182,
+    "hash": "cf80bfa208d5598c",
+    "lastUpdate": "2024-05-07"
+  }
+}

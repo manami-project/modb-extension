@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4310",
+    "https://anilist.co/anime/4091",
+    "https://anime-planet.com/anime/kagami-no-genon",
+    "https://anisearch.com/anime/3781",
+    "https://kitsu.io/anime/3460",
+    "https://livechart.me/anime/6813",
+    "https://myanimelist.net/anime/4091",
+    "https://notify.moe/anime/JBVX5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f945260c9c84811a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.419999469917838,
+    "arithmeticGeometricMean": 5.384777253684858,
+    "median": 5.642,
+    "hash": "f945260c9c84811a",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2081",
+    "https://anilist.co/anime/3183",
+    "https://anime-planet.com/anime/maps-densetsu-no-samayoeru-seijin-tachi",
+    "https://anisearch.com/anime/213",
+    "https://kitsu.io/anime/2844",
+    "https://myanimelist.net/anime/3183",
+    "https://notify.moe/anime/vqWQ5FiiR"
+  ],
+  "synopsis": {
+    "text": "Lipumira, a sentient spaceship with the ability to assume a humanoid form, embarks on a mission to locate the last surviving member of the Nomad Star tribe, known as the \"map man.\" Her search leads her to Tokyo, where she encounters Gen Tokishima, a local schoolboy who possesses the unique ability to uncover a piece of the hidden starmap on Earth. After retrieving the piece, Gen faces a dilemma: to join Lipumira in her quest to find the remaining starmap fragments or remain on Earth. Unbeknownst to him, his girlfriend has already boarded the spaceship, eager to join the adventure. However, as Gen uncovers the starmap's secret, Lipumira's sisters emerge as formidable adversaries, determined to thwart her at any cost. Meanwhile, rival alien pirates and a new lunar threat force both earthlings and pirates to set aside their differences in order to complete their shared quest for the coveted Surging Light gem.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "abc8b139a72ea58a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.870892658362046,
+    "arithmeticGeometricMean": 5.846236134508825,
+    "median": 5.830612244897958,
+    "hash": "abc8b139a72ea58a",
+    "lastUpdate": "2024-05-08"
+  }
+}

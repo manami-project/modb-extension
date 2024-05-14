@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7160",
+    "https://anime-planet.com/anime/ie-naki-ko-remi-2001",
+    "https://anisearch.com/anime/6150",
+    "https://kitsu.io/anime/8796",
+    "https://myanimelist.net/anime/25087",
+    "https://notify.moe/anime/rYgxpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b6fa78f852acf10",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.3181306122448975,
+    "arithmeticGeometricMean": 6.282940328679454,
+    "median": 5.53,
+    "hash": "2b6fa78f852acf10",
+    "lastUpdate": "2024-05-08"
+  }
+}

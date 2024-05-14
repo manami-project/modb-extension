@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3381",
+    "https://anilist.co/anime/511",
+    "https://anime-planet.com/anime/kidou-shinsengumi-moeyo-ken-tv",
+    "https://anisearch.com/anime/577",
+    "https://kitsu.io/anime/470",
+    "https://livechart.me/anime/7189",
+    "https://myanimelist.net/anime/511",
+    "https://notify.moe/anime/Zo2o5Fiig"
+  ],
+  "synopsis": {
+    "text": "There is an alternate Meiji Era in Japan, where the government has embraced modernization and even hosted an expo in Kyoto. In this era, demons (youkai) coexist with humans, but they must be licensed to do so. The Kidou Shinsengumi Corporation, led by Ryoma Sakamoto, is tasked with capturing unlicensed demons to maintain order. After studying abroad in Shanghai, Ryoma's son, Sakamoto Ryunosuke, returns to Kyoto with his demon companion, Nekomaru, to join the family business. However, the company faces financial troubles and opposition from the Tsubame Squad, who believe that demons' freedom is being stolen. As Ryunosuke navigates challenges like loan collectors, a vengeful Kappa, and even romantic pursuits, he must use his Western finance skills and ninja abilities to keep the company afloat and protect the peace between humans and demons. Can Ryunosuke succeed in this daunting task, or will the company's debt continue to grow?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ea566df9c94fb615",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.9184359042318215,
+    "arithmeticGeometricMean": 5.905521498325131,
+    "median": 6.09,
+    "hash": "ea566df9c94fb615",
+    "lastUpdate": "2024-05-09"
+  }
+}

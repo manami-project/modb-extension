@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/483",
+    "https://anilist.co/anime/2769",
+    "https://anime-planet.com/anime/galactic-patrol-lensman",
+    "https://anisearch.com/anime/950",
+    "https://kitsu.io/anime/2527",
+    "https://livechart.me/anime/7131",
+    "https://myanimelist.net/anime/2769",
+    "https://notify.moe/anime/0BR8cFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "65bc6b6e613dcd23",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.966147598433313,
+    "arithmeticGeometricMean": 5.912634975198384,
+    "median": 6.4559999999999995,
+    "hash": "65bc6b6e613dcd23",
+    "lastUpdate": "2024-05-09"
+  }
+}

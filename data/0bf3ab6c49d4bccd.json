@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4397",
+    "https://anilist.co/anime/1857",
+    "https://anime-planet.com/anime/a-spirit-of-the-sun",
+    "https://anisearch.com/anime/3867",
+    "https://kitsu.io/anime/1674",
+    "https://livechart.me/anime/8788",
+    "https://myanimelist.net/anime/1857",
+    "https://notify.moe/anime/NjUB5Kimg"
+  ],
+  "synopsis": {
+    "text": "United by tragedy and divided by circumstance, Japan faces an unprecedented catastrophe as a colossal earthquake and subsequent tsunamis wreak havoc, ultimately bisecting the nation on August 15, 2002. In a desperate bid for survival, Japan accepts aid from China and the United States, unwittingly ceding control of its northern and southern territories to these superpowers.\n\nFifteen years later, the once proud nation finds its citizens scattered across the globe, with 80,000 Japanese refugees seeking solace in Taiwan. As the years pass, the initially sympathetic Taiwanese citizens grow weary of the stagnant refugee situation, leading to escalating tensions between the two groups.\n\nAmidst the brewing storm, Genichiro Ryu, a Japanese refugee adopted by a Taiwanese couple, steps into the fray. Having survived the catastrophic events that befell his homeland, Genichiro is determined to bridge the divide between the Taiwanese and Japanese, hoping to forge a harmonious coexistence.\n\nHowever, the path to peace is fraught with danger, as a violent gang threatens to disrupt the delicate balance. Can Genichiro navigate these treacherous waters and unite the two communities, or will the simmering conflict erupt into full-blown chaos? Only time will tell, as the fate of two nations hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0bf3ab6c49d4bccd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.900159554730983,
+    "arithmeticGeometricMean": 6.897089611734328,
+    "median": 6.82,
+    "hash": "0bf3ab6c49d4bccd",
+    "lastUpdate": "2024-05-10"
+  }
+}

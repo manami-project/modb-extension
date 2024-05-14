@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12881",
+    "https://anilist.co/anime/111796",
+    "https://anime-planet.com/anime/ahiru-no-ko",
+    "https://anisearch.com/anime/12281",
+    "https://kitsu.io/anime/40754",
+    "https://myanimelist.net/anime/35410",
+    "https://notify.moe/anime/rS6v2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cdfed2520f97444a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.506320346320346,
+    "arithmeticGeometricMean": 5.472157577342608,
+    "median": 5.541818181818181,
+    "hash": "cdfed2520f97444a",
+    "lastUpdate": "2024-05-08"
+  }
+}

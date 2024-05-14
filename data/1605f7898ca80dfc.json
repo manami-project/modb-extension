@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103537",
+    "https://anime-planet.com/anime/shigeo-wa-handsome",
+    "https://anisearch.com/anime/13330",
+    "https://kitsu.io/anime/12455",
+    "https://myanimelist.net/anime/33692",
+    "https://notify.moe/anime/lWJkhFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1605f7898ca80dfc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.991203463203463,
+    "arithmeticGeometricMean": 4.950191351420312,
+    "median": 5.04,
+    "hash": "1605f7898ca80dfc",
+    "lastUpdate": "2024-05-06"
+  }
+}

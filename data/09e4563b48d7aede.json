@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4724",
+    "https://anilist.co/anime/15823",
+    "https://anime-planet.com/anime/shin-takarajima",
+    "https://anisearch.com/anime/8277",
+    "https://kitsu.io/anime/7319",
+    "https://myanimelist.net/anime/15823",
+    "https://notify.moe/anime/rDVFtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09e4563b48d7aede",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.465930735930736,
+    "arithmeticGeometricMean": 5.443660390459879,
+    "median": 5.257792207792208,
+    "hash": "09e4563b48d7aede",
+    "lastUpdate": "2024-05-08"
+  }
+}

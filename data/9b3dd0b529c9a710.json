@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/3196",
+    "https://myanimelist.net/anime/1895"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b3dd0b529c9a710",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.318163265306122,
+    "arithmeticGeometricMean": 5.27958152282443,
+    "median": 5.318163265306122,
+    "hash": "9b3dd0b529c9a710",
+    "lastUpdate": "2024-05-05"
+  }
+}

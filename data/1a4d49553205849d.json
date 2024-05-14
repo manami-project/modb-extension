@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2279",
+    "https://anilist.co/anime/2311",
+    "https://anime-planet.com/anime/shounen-kenya",
+    "https://anisearch.com/anime/3413",
+    "https://kitsu.io/anime/2093",
+    "https://livechart.me/anime/8163",
+    "https://myanimelist.net/anime/2311",
+    "https://notify.moe/anime/HbTE5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1a4d49553205849d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.283566922873045,
+    "arithmeticGeometricMean": 5.272036670337977,
+    "median": 5.02,
+    "hash": "1a4d49553205849d",
+    "lastUpdate": "2024-05-10"
+  }
+}

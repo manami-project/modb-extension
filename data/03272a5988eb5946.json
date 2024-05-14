@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18328",
+    "https://anilist.co/anime/171689",
+    "https://anime-planet.com/anime/hyakushou-kizoku-2",
+    "https://kitsu.io/anime/48336",
+    "https://livechart.me/anime/12462",
+    "https://myanimelist.net/anime/57562",
+    "https://notify.moe/anime/jo-Q9RdSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "03272a5988eb5946",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "03272a5988eb5946",
+    "lastUpdate": "2024-05-11"
+  }
+}

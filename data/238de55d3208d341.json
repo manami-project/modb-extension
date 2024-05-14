@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11060",
+    "https://anilist.co/anime/9868",
+    "https://anime-planet.com/anime/chengyu-donghua-lang",
+    "https://anisearch.com/anime/10240",
+    "https://kitsu.io/anime/5911",
+    "https://myanimelist.net/anime/9868",
+    "https://notify.moe/anime/JzlMtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "238de55d3208d341",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.7727272727272725,
+    "arithmeticGeometricMean": 4.770019725373701,
+    "median": 4.7727272727272725,
+    "hash": "238de55d3208d341",
+    "lastUpdate": "2024-05-07"
+  }
+}

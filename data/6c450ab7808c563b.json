@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5952",
+    "https://anilist.co/anime/12037",
+    "https://anime-planet.com/anime/whats-michael-1988",
+    "https://anisearch.com/anime/4931",
+    "https://kitsu.io/anime/6650",
+    "https://livechart.me/anime/6896",
+    "https://myanimelist.net/anime/12037",
+    "https://notify.moe/anime/LAGNpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6c450ab7808c563b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.757100185528756,
+    "arithmeticGeometricMean": 5.742451077198344,
+    "median": 5.797755102040817,
+    "hash": "6c450ab7808c563b",
+    "lastUpdate": "2024-05-10"
+  }
+}

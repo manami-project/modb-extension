@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2124",
+    "https://anilist.co/anime/1452",
+    "https://anime-planet.com/anime/the-samurai",
+    "https://anisearch.com/anime/101",
+    "https://kitsu.io/anime/1302",
+    "https://livechart.me/anime/7504",
+    "https://myanimelist.net/anime/1452",
+    "https://notify.moe/anime/FY4acFimg"
+  ],
+  "synopsis": {
+    "text": "Ayatsugi High School's Takeshi Chimatsuri, son of a legendary samurai, dreams of following in his father's footsteps. However, his journey takes an unexpected turn when the Toki twins, descendants of a vanquished ninja, enroll in his school. Seeking vengeance for their grandfather's defeat and the return of a precious family heirloom, the twins exploit Takeshi's unique vulnerability: an intense fear of naked women. To overcome this challenge, Takeshi embarks on a peculiar training regimen with the help of his teacher Miss Ayatsugi and friends Atsuko and Tora, aiming to conquer his phobia and prove his mettle as a true samurai.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d02919d0901deaa3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.033958653591307,
+    "arithmeticGeometricMean": 6.02916427646966,
+    "median": 6.1,
+    "hash": "d02919d0901deaa3",
+    "lastUpdate": "2024-05-10"
+  }
+}

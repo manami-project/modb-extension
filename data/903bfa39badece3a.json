@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9453",
+    "https://anilist.co/anime/15689",
+    "https://anime-planet.com/anime/nekomonogatari-black",
+    "https://anisearch.com/anime/8117",
+    "https://kitsu.io/anime/7294",
+    "https://livechart.me/anime/2791",
+    "https://myanimelist.net/anime/15689",
+    "https://notify.moe/anime/BszFtFmig"
+  ],
+  "synopsis": {
+    "text": "After narrowly escaping a vampire attack, high school student Koyomi Araragi becomes increasingly concerned about his friend and savior, Tsubasa Hanekawa, who has been acting out of character. When he runs into her on his way to a bookstore, he notices a bandage on her face, hinting at trouble. Despite her assurances that it's just a minor injury from home, Koyomi can't shake off the feeling that something is amiss.\n\nTheir day takes a turn for the worse when they stumble upon a tailless white cat that's been hit by a car, and decide to bury it. Little do they know, this seemingly innocuous act triggers a series of supernatural events. Upon consulting his friend Meme Oshino, Koyomi learns that the creature they buried was actually an apparition, one that's perfectly suited for Tsubasa's current state.\n\nAs the situation escalates, Koyomi discovers that Tsubasa, now possessed by the 'Sawari Neko', has attacked her parents. Determined to repay her for saving him from the vampire, Koyomi embarks on a mission to help Tsubasa, setting the stage for a nightmarish nine-day ordeal during Golden Week.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "903bfa39badece3a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.980384296647952,
+    "arithmeticGeometricMean": 7.980007544384536,
+    "median": 7.962750544662309,
+    "hash": "903bfa39badece3a",
+    "lastUpdate": "2024-05-09"
+  }
+}

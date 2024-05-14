@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8615",
+    "https://anilist.co/anime/10923",
+    "https://anime-planet.com/anime/tantei-opera-milky-holmes-summer-special",
+    "https://anisearch.com/anime/7258",
+    "https://kitsu.io/anime/6408",
+    "https://livechart.me/anime/6745",
+    "https://myanimelist.net/anime/10923",
+    "https://notify.moe/anime/3LgSpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4fc56aa5eeb88918",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.773620814559591,
+    "arithmeticGeometricMean": 6.76859425969106,
+    "median": 6.802,
+    "hash": "4fc56aa5eeb88918",
+    "lastUpdate": "2024-05-10"
+  }
+}

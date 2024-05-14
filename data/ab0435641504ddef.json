@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13946",
+    "https://anilist.co/anime/101347",
+    "https://anime-planet.com/anime/dororo-2019",
+    "https://anisearch.com/anime/13490",
+    "https://kitsu.io/anime/41083",
+    "https://livechart.me/anime/3168",
+    "https://myanimelist.net/anime/37520",
+    "https://notify.moe/anime/OlIKhKiig"
+  ],
+  "synopsis": {
+    "text": "Kagemitsu's ambition for power and prosperity during Japan's Warring States period leads him to make a dark pact with twelve demons, offering them his unborn son in exchange for the flourishing of his lands. The child, Hyakkimaru, is born without limbs, skin, and senses, and is abandoned in a river by his father. A compassionate medicine man rescues the infant, providing him with prosthetics and teaching him the art of combat. As Hyakkimaru grows, he discovers that by slaying the demons responsible for his condition, he can reclaim his lost body parts.\n\nIn this treacherous world plagued by supernatural creatures, Hyakkimaru crosses paths with Dororo, a cunning and resourceful young orphan. Despite their contrasting backgrounds, the pair forms an unlikely bond and embarks on a perilous journey together. As they traverse the demon-infested countryside, they encounter a host of monstrous adversaries, with each victory bringing Hyakkimaru one step closer to regaining his humanity.\n\nWith Dororo at his side, Hyakkimaru's quest for vengeance and restoration unfolds in this thrilling tale of friendship, courage, and redemption. Together, they must navigate the dangers of feudal Japan and confront the very demons that have shaped their intertwined destinies.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ab0435641504ddef",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.270422657699443,
+    "arithmeticGeometricMean": 8.268417875359734,
+    "median": 8.2639146567718,
+    "hash": "ab0435641504ddef",
+    "lastUpdate": "2024-05-09"
+  }
+}

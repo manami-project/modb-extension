@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3367",
+    "https://anilist.co/anime/8139",
+    "https://anime-planet.com/anime/shin-minashigo-hutch",
+    "https://anisearch.com/anime/3478",
+    "https://kitsu.io/anime/5209",
+    "https://livechart.me/anime/11706",
+    "https://myanimelist.net/anime/8139",
+    "https://notify.moe/anime/oo9ktKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ac0b8d2f3311cb3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.628140383426097,
+    "arithmeticGeometricMean": 5.580707023648669,
+    "median": 5.272727272727273,
+    "hash": "5ac0b8d2f3311cb3",
+    "lastUpdate": "2024-05-09"
+  }
+}

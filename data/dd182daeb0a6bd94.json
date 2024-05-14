@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/421",
+    "https://anilist.co/anime/1412",
+    "https://anime-planet.com/anime/lupin-the-3rd",
+    "https://anisearch.com/anime/3500",
+    "https://kitsu.io/anime/1265",
+    "https://livechart.me/anime/4165",
+    "https://myanimelist.net/anime/1412",
+    "https://notify.moe/anime/Dnk-5Fmmg"
+  ],
+  "synopsis": {
+    "text": "And so begins the thrilling escapades of Arsène Lupin III, the world-renowned thief and the grandson of the legendary Arsène Lupin. With his trusty sidekick and skilled marksman, Daisuke Jigen, Lupin III embarks on daring heists and high-speed chases, leaving a trail of chaos in his wake. But he's not alone in his adventures; the enigmatic Fujiko Mine, a femme fatale with a knack for deception, keeps Lupin III on his toes, as he can never be sure if she's an ally or an enemy.\n\nHot on Lupin III's heels is the tenacious Inspector Zenigata, a man determined to bring the master thief to justice. From elaborate heists to classic car chases, Lupin III and his motley crew of misfits, including the stoic swordsman Goemon, leave no stone unturned in their pursuit of the world's most valuable treasures.\n\nWill Lupin III and his gang outsmart the relentless Inspector Zenigata, or will their reckless lifestyle finally catch up with them? Join the world's greatest thief on his wild adventures and find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd182daeb0a6bd94",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.423076994434138,
+    "arithmeticGeometricMean": 7.419568612737742,
+    "median": 7.489181818181818,
+    "hash": "dd182daeb0a6bd94",
+    "lastUpdate": "2024-05-09"
+  }
+}

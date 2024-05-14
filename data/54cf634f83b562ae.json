@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10722",
+    "https://anilist.co/anime/21604",
+    "https://anime-planet.com/anime/elite-jack",
+    "https://anisearch.com/anime/9810",
+    "https://kitsu.io/anime/8565",
+    "https://livechart.me/anime/649",
+    "https://myanimelist.net/anime/24985",
+    "https://notify.moe/anime/HN90pKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "54cf634f83b562ae",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.226025355596783,
+    "arithmeticGeometricMean": 5.100697493068962,
+    "median": 5.724545454545455,
+    "hash": "54cf634f83b562ae",
+    "lastUpdate": "2024-05-09"
+  }
+}

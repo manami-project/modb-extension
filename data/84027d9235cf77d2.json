@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1195",
+    "https://anilist.co/anime/1289",
+    "https://anime-planet.com/anime/patlabor-the-mobile-police-new-files",
+    "https://anisearch.com/anime/2915",
+    "https://kitsu.io/anime/1163",
+    "https://livechart.me/anime/5473",
+    "https://myanimelist.net/anime/1289",
+    "https://notify.moe/anime/L2LxcKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "84027d9235cf77d2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.383968725152398,
+    "arithmeticGeometricMean": 7.377870096850358,
+    "median": 7.53,
+    "hash": "84027d9235cf77d2",
+    "lastUpdate": "2024-05-09"
+  }
+}

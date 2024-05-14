@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/602",
+    "https://anilist.co/anime/1162",
+    "https://anime-planet.com/anime/maze-ova",
+    "https://anisearch.com/anime/2164",
+    "https://kitsu.io/anime/1043",
+    "https://livechart.me/anime/9140",
+    "https://myanimelist.net/anime/1162",
+    "https://notify.moe/anime/IBMx5Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d92b69e9415a8cea",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.974891068115558,
+    "arithmeticGeometricMean": 5.963376855612878,
+    "median": 6.11,
+    "hash": "d92b69e9415a8cea",
+    "lastUpdate": "2024-05-09"
+  }
+}

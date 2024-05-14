@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8967",
+    "https://anilist.co/anime/13139",
+    "https://anime-planet.com/anime/gakkatsu",
+    "https://anisearch.com/anime/7588",
+    "https://kitsu.io/anime/6890",
+    "https://livechart.me/anime/1106",
+    "https://myanimelist.net/anime/13139",
+    "https://notify.moe/anime/ys7DpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3302b2854b8017bc",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.922560826928174,
+    "arithmeticGeometricMean": 5.894793373732181,
+    "median": 6.0,
+    "hash": "3302b2854b8017bc",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11781",
+    "https://anilist.co/anime/21598",
+    "https://anime-planet.com/anime/watashitachi-luck-logic-bu",
+    "https://anisearch.com/anime/11183",
+    "https://kitsu.io/anime/11775",
+    "https://livechart.me/anime/2299",
+    "https://myanimelist.net/anime/32084",
+    "https://notify.moe/anime/nSbqpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "faa087bd8abb3e9f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.51643625761993,
+    "arithmeticGeometricMean": 5.507212239051902,
+    "median": 5.545454545454546,
+    "hash": "faa087bd8abb3e9f",
+    "lastUpdate": "2024-05-10"
+  }
+}

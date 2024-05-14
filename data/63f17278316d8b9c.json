@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21016",
+    "https://anime-planet.com/anime/taisei-kensetsu-vietnam-noi-bai-kuukou",
+    "https://anisearch.com/anime/10571",
+    "https://kitsu.io/anime/8679",
+    "https://notify.moe/anime/z701tFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "63f17278316d8b9c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.173973283858998,
+    "arithmeticGeometricMean": 6.170595663159481,
+    "median": 6.090909090909091,
+    "hash": "63f17278316d8b9c",
+    "lastUpdate": "2024-05-07"
+  }
+}

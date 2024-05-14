@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7664",
+    "https://anilist.co/anime/7745",
+    "https://anime-planet.com/anime/zettai-karen-children-ova-aitazousei-ubawareta-mirai",
+    "https://anisearch.com/anime/6069",
+    "https://kitsu.io/anime/5105",
+    "https://livechart.me/anime/7192",
+    "https://myanimelist.net/anime/7745",
+    "https://notify.moe/anime/QOhztKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "301884fe67eb8728",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.021957063344819,
+    "arithmeticGeometricMean": 7.018836875054944,
+    "median": 7.086,
+    "hash": "301884fe67eb8728",
+    "lastUpdate": "2024-05-10"
+  }
+}

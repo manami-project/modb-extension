@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4962",
+    "https://anilist.co/anime/10136",
+    "https://anime-planet.com/anime/manga-doushite-monogatari",
+    "https://anisearch.com/anime/4063",
+    "https://kitsu.io/anime/6050",
+    "https://myanimelist.net/anime/10136",
+    "https://notify.moe/anime/UT2ntKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ff3aa06c0b09210",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.625590909090909,
+    "arithmeticGeometricMean": 5.593677078506743,
+    "median": 5.555,
+    "hash": "6ff3aa06c0b09210",
+    "lastUpdate": "2024-05-08"
+  }
+}

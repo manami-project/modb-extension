@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/149055",
+    "https://anime-planet.com/anime/harumaki-gohan-steel-wonder",
+    "https://kitsu.io/anime/48600",
+    "https://myanimelist.net/anime/51830"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09381e07f0aa902a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.231333333333333,
+    "arithmeticGeometricMean": 6.226578047509955,
+    "median": 6.0,
+    "hash": "09381e07f0aa902a",
+    "lastUpdate": "2024-05-07"
+  }
+}

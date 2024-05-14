@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103332",
+    "https://anime-planet.com/anime/the-mad-capsule-markets-scary",
+    "https://kitsu.io/anime/14035",
+    "https://myanimelist.net/anime/36765",
+    "https://notify.moe/anime/2XvNhFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75fc864603e555b7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.359454545454547,
+    "arithmeticGeometricMean": 5.341342090206679,
+    "median": 5.28,
+    "hash": "75fc864603e555b7",
+    "lastUpdate": "2024-05-06"
+  }
+}

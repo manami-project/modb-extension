@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8347",
+    "https://anilist.co/anime/17693",
+    "https://anime-planet.com/anime/elemental-gelade-aozora-no-senki",
+    "https://anisearch.com/anime/6982",
+    "https://kitsu.io/anime/8830",
+    "https://myanimelist.net/anime/17693",
+    "https://notify.moe/anime/M3MxtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9a556313c15feed6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.656356215213358,
+    "arithmeticGeometricMean": 5.639697598814702,
+    "median": 5.636363636363637,
+    "hash": "9a556313c15feed6",
+    "lastUpdate": "2024-05-08"
+  }
+}

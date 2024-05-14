@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14426",
+    "https://anilist.co/anime/105119",
+    "https://anime-planet.com/anime/shikizakura",
+    "https://anisearch.com/anime/13928",
+    "https://kitsu.io/anime/42330",
+    "https://livechart.me/anime/3545",
+    "https://myanimelist.net/anime/38440",
+    "https://notify.moe/anime/R9B35CWZR"
+  ],
+  "synopsis": {
+    "text": "Oka Myojin, a shrine maiden, is destined to save the world by performing a sacred ritual in Shikizakura, a mystical realm where cherry blossoms bloom alongside autumn leaves, and the physical and spiritual worlds intertwine. However, the journey to this enigmatic place is fraught with danger, as Oka must navigate a perilous path filled with deadly threats from otherworldly creatures known as Oni.\n\nEnter Kakeru Miwa, an unsuspecting high school student who stumbles upon a powerful battle suit called Yoroi. This suit, a fusion of ancient secrets and cutting-edge technology, is the only thing capable of protecting humanity from the malevolent Oni, who possess humans in an attempt to cling to the transient world.\n\nKakeru becomes an unlikely hero as he joins an elite team of Yoroi-clad warriors tasked with defending Oka and battling the Oni. With the fate of the world resting on their shoulders, Kakeru and his team must navigate a treacherous landscape filled with danger, action, and adventure, where the past and future collide, and thoughts and wishes intersect. Will they be able to protect Oka and complete the ritual in time to save humanity? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f1ed20f3284c951",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.697285714285714,
+    "arithmeticGeometricMean": 5.636363610652941,
+    "median": 5.8469999999999995,
+    "hash": "8f1ed20f3284c951",
+    "lastUpdate": "2024-05-09"
+  }
+}

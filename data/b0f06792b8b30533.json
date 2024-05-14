@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/146415",
+    "https://anime-planet.com/anime/mino-tsune",
+    "https://kitsu.io/anime/45979",
+    "https://myanimelist.net/anime/51445"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b0f06792b8b30533",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.926181818181819,
+    "arithmeticGeometricMean": 6.923148379867144,
+    "median": 6.926181818181819,
+    "hash": "b0f06792b8b30533",
+    "lastUpdate": "2024-05-08"
+  }
+}

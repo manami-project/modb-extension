@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7750",
+    "https://anilist.co/anime/145477",
+    "https://anime-planet.com/anime/sore-ike-anpanman-minami-no-umi-wo-sukue",
+    "https://anisearch.com/anime/6378",
+    "https://kitsu.io/anime/9621",
+    "https://livechart.me/anime/7249",
+    "https://myanimelist.net/anime/21291",
+    "https://notify.moe/anime/C5SLtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "942f24e7a86705ed",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.732250834879406,
+    "arithmeticGeometricMean": 5.7032041682065024,
+    "median": 5.0,
+    "hash": "942f24e7a86705ed",
+    "lastUpdate": "2024-05-10"
+  }
+}

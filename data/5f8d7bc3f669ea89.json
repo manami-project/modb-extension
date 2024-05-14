@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14806",
+    "https://anilist.co/anime/110089",
+    "https://anime-planet.com/anime/kaijuu-step-wandabada",
+    "https://anisearch.com/anime/14642",
+    "https://kitsu.io/anime/42594",
+    "https://livechart.me/anime/9399",
+    "https://myanimelist.net/anime/39628",
+    "https://notify.moe/anime/uRy_gWTWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5f8d7bc3f669ea89",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.951361781076066,
+    "arithmeticGeometricMean": 5.83720658087947,
+    "median": 5.821090909090909,
+    "hash": "5f8d7bc3f669ea89",
+    "lastUpdate": "2024-05-09"
+  }
+}

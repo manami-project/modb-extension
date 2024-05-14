@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/minigaro-manner-movies",
+    "https://kitsu.io/anime/13166",
+    "https://myanimelist.net/anime/34630",
+    "https://notify.moe/anime/ek1G2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7b09e0fe4ac25355",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.0,
+    "arithmeticGeometricMean": 3.0,
+    "median": 3.0,
+    "hash": "7b09e0fe4ac25355",
+    "lastUpdate": "2024-05-07"
+  }
+}

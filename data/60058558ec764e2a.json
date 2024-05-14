@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/138976",
+    "https://anime-planet.com/anime/angel-inside-a-box",
+    "https://kitsu.io/anime/45146"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "60058558ec764e2a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.022272727272727,
+    "arithmeticGeometricMean": 6.008855293084778,
+    "median": 6.022272727272727,
+    "hash": "60058558ec764e2a",
+    "lastUpdate": "2024-05-05"
+  }
+}

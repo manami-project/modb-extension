@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5090",
+    "https://anilist.co/anime/19993",
+    "https://anime-planet.com/anime/kaminari-boy-pikkaribee",
+    "https://anisearch.com/anime/4190",
+    "https://kitsu.io/anime/9362",
+    "https://myanimelist.net/anime/19993",
+    "https://notify.moe/anime/d1IBpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "365693826f39a9a3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.007902597402598,
+    "arithmeticGeometricMean": 4.948433947009359,
+    "median": 4.909090909090909,
+    "hash": "365693826f39a9a3",
+    "lastUpdate": "2024-05-08"
+  }
+}

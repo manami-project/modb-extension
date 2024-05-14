@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3167",
+    "https://anilist.co/anime/16650",
+    "https://anime-planet.com/anime/pro-golfer-saru-tv",
+    "https://anisearch.com/anime/1463",
+    "https://kitsu.io/anime/7483",
+    "https://livechart.me/anime/12213",
+    "https://myanimelist.net/anime/16650",
+    "https://notify.moe/anime/B6CKtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9640f855c914c1bd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.382268645640074,
+    "arithmeticGeometricMean": 5.33902771303375,
+    "median": 4.948979591836734,
+    "hash": "9640f855c914c1bd",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1025"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "44d4c69979da38b2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.94,
+    "arithmeticGeometricMean": 6.94,
+    "median": 6.94,
+    "hash": "44d4c69979da38b2",
+    "lastUpdate": "2024-05-07"
+  }
+}

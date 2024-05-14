@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4317",
+    "https://anilist.co/anime/6076",
+    "https://anime-planet.com/anime/eiji",
+    "https://anisearch.com/anime/6068",
+    "https://kitsu.io/anime/4416",
+    "https://myanimelist.net/anime/6076",
+    "https://notify.moe/anime/lcAq5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "399863b507563221",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.909400005889801,
+    "arithmeticGeometricMean": 5.903337917673524,
+    "median": 5.896000000000001,
+    "hash": "399863b507563221",
+    "lastUpdate": "2024-05-08"
+  }
+}

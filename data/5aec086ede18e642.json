@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11197",
+    "https://anilist.co/anime/21274",
+    "https://anime-planet.com/anime/selector-destructed-wixoss",
+    "https://anisearch.com/anime/10528",
+    "https://kitsu.io/anime/11213",
+    "https://livechart.me/anime/1518",
+    "https://myanimelist.net/anime/31280",
+    "https://notify.moe/anime/8cjXtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5aec086ede18e642",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.222286348989357,
+    "arithmeticGeometricMean": 7.218282902558295,
+    "median": 7.284183673469387,
+    "hash": "5aec086ede18e642",
+    "lastUpdate": "2024-05-09"
+  }
+}

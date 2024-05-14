@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/87482",
+    "https://anime-planet.com/anime/cyborg-009-call-of-justice-movie-2",
+    "https://kitsu.io/anime/12577",
+    "https://livechart.me/anime/2331",
+    "https://myanimelist.net/anime/33686",
+    "https://notify.moe/anime/HoMm2Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35d459b7e4e736df",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.588339393939394,
+    "arithmeticGeometricMean": 6.583919950564598,
+    "median": 6.33,
+    "hash": "35d459b7e4e736df",
+    "lastUpdate": "2024-05-06"
+  }
+}

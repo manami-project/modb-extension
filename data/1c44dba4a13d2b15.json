@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/this-is-not-blue",
+    "https://kitsu.io/anime/43664",
+    "https://myanimelist.net/anime/42836"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c44dba4a13d2b15",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.079000000000001,
+    "arithmeticGeometricMean": 6.058238609697372,
+    "median": 6.079000000000001,
+    "hash": "1c44dba4a13d2b15",
+    "lastUpdate": "2024-05-07"
+  }
+}

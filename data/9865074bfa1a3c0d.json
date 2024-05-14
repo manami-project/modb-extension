@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12210",
+    "https://anilist.co/anime/19231",
+    "https://anime-planet.com/anime/jam",
+    "https://anisearch.com/anime/12039",
+    "https://kitsu.io/anime/8839",
+    "https://myanimelist.net/anime/19231",
+    "https://notify.moe/anime/WNVxtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9865074bfa1a3c0d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.56289159819772,
+    "arithmeticGeometricMean": 4.470017216198967,
+    "median": 4.818181818181818,
+    "hash": "9865074bfa1a3c0d",
+    "lastUpdate": "2024-05-08"
+  }
+}

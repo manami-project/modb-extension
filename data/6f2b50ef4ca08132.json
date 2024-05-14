@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14944",
+    "https://anilist.co/anime/109413",
+    "https://anime-planet.com/anime/wan-jie-xian-zong-2nd-season",
+    "https://anisearch.com/anime/16150",
+    "https://kitsu.io/anime/43100",
+    "https://livechart.me/anime/10270",
+    "https://myanimelist.net/anime/39912",
+    "https://notify.moe/anime/8Z5goBjWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f2b50ef4ca08132",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.355767676767677,
+    "arithmeticGeometricMean": 7.350254725838431,
+    "median": 7.303030303030303,
+    "hash": "6f2b50ef4ca08132",
+    "lastUpdate": "2024-05-10"
+  }
+}

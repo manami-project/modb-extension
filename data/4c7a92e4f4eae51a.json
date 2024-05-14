@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13044",
+    "https://anilist.co/anime/102445",
+    "https://anime-planet.com/anime/cro-magnon-survivor",
+    "https://kitsu.io/anime/12221",
+    "https://myanimelist.net/anime/32852",
+    "https://notify.moe/anime/VMAghFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c7a92e4f4eae51a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.4976,
+    "arithmeticGeometricMean": 4.450720710060326,
+    "median": 4.0,
+    "hash": "4c7a92e4f4eae51a",
+    "lastUpdate": "2024-05-08"
+  }
+}

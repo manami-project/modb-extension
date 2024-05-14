@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108062",
+    "https://anime-planet.com/anime/my-sister-my-writer-my-little-sister-and-i-in-a-virtual-world",
+    "https://anisearch.com/anime/14245",
+    "https://kitsu.io/anime/42225",
+    "https://livechart.me/anime/9227",
+    "https://myanimelist.net/anime/39397",
+    "https://notify.moe/anime/rcRtG4RZg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41e413fa6e78ba93",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.190142592101776,
+    "arithmeticGeometricMean": 6.174056096629618,
+    "median": 5.822,
+    "hash": "41e413fa6e78ba93",
+    "lastUpdate": "2024-05-06"
+  }
+}

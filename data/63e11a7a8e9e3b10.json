@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7549",
+    "https://anilist.co/anime/10056",
+    "https://anime-planet.com/anime/sore-ike-anpanman-kyouryuu-nosshii-no-daibouken",
+    "https://anisearch.com/anime/6247",
+    "https://kitsu.io/anime/6013",
+    "https://livechart.me/anime/11426",
+    "https://myanimelist.net/anime/10056",
+    "https://notify.moe/anime/jfNntKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "63e11a7a8e9e3b10",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.48964811379097,
+    "arithmeticGeometricMean": 5.446923514918397,
+    "median": 5.045454545454545,
+    "hash": "63e11a7a8e9e3b10",
+    "lastUpdate": "2024-05-10"
+  }
+}

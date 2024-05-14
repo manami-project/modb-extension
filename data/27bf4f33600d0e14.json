@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/111949",
+    "https://anime-planet.com/anime/yelp",
+    "https://kitsu.io/anime/44554"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "27bf4f33600d0e14",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.090909090909091,
+    "arithmeticGeometricMean": 5.090909090909091,
+    "median": 5.090909090909091,
+    "hash": "27bf4f33600d0e14",
+    "lastUpdate": "2024-05-06"
+  }
+}

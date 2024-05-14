@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4626",
+    "https://anilist.co/anime/6217",
+    "https://anime-planet.com/anime/crayon-shin-chan-movie-3-unkokusai-no-yabou",
+    "https://anisearch.com/anime/3747",
+    "https://kitsu.io/anime/4480",
+    "https://livechart.me/anime/8591",
+    "https://myanimelist.net/anime/6217",
+    "https://notify.moe/anime/CKQ3cKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a04f9bab36446708",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.380287304532203,
+    "arithmeticGeometricMean": 6.352591558522105,
+    "median": 6.896,
+    "hash": "a04f9bab36446708",
+    "lastUpdate": "2024-05-09"
+  }
+}

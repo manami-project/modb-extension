@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9283",
+    "https://anilist.co/anime/14835",
+    "https://anime-planet.com/anime/the-idolmaster-shiny-festa",
+    "https://anisearch.com/anime/7922",
+    "https://kitsu.io/anime/7175",
+    "https://livechart.me/anime/1016",
+    "https://myanimelist.net/anime/14835",
+    "https://notify.moe/anime/0lTOtKmmR"
+  ],
+  "synopsis": {
+    "text": "Producer's Pick is the name of the game in this vibrant anime, where the girls of 765 Production Studio compete for a coveted spot at the International Music Festival on the idyllic Vacation Island. The island, complete with a world-class amusement park and luxurious resort, promises a thrilling experience for all. However, with only one unit allowed to participate, the stakes are high.\n\nIn three distinct storylines, the girls are divided into three groups, each with a unique approach to the festival. In Honey Sound, Haruka, Chihaya, and Azusa, accompanied by Ritsuko, find themselves in a musical showdown with the formidable Jupiter. Groovy Tune follows Miki, Yukiho, Makoto, and Takane as they delve into the complex world of love songs, with each member embarking on a date with their Producer to gain firsthand experience.\n\nEach group, with their unique musical journey, experiences the festival in their own way, from the moment they set foot on the island until the climactic concert. Will they rise to the challenge and deliver a show-stopping performance? The stage is set for a musical extravaganza filled with laughter, love, and friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6535b671baa8bb27",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.1014573283859,
+    "arithmeticGeometricMean": 7.097153437139741,
+    "median": 7.138,
+    "hash": "6535b671baa8bb27",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11626",
+    "https://anilist.co/anime/103419",
+    "https://anime-planet.com/anime/tomato-ni-natta-otokonoko",
+    "https://anisearch.com/anime/10748",
+    "https://kitsu.io/anime/11400",
+    "https://myanimelist.net/anime/31624",
+    "https://notify.moe/anime/_fwrpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8280760eaa62a49f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.058118738404453,
+    "arithmeticGeometricMean": 4.992705145849392,
+    "median": 4.99,
+    "hash": "8280760eaa62a49f",
+    "lastUpdate": "2024-05-08"
+  }
+}

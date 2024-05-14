@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9890",
+    "https://anilist.co/anime/18753",
+    "https://anime-planet.com/anime/my-teen-romantic-comedy-snafu-ova",
+    "https://anisearch.com/anime/8724",
+    "https://kitsu.io/anime/7748",
+    "https://livechart.me/anime/95",
+    "https://myanimelist.net/anime/18753",
+    "https://notify.moe/anime/_rItpFiig"
+  ],
+  "synopsis": {
+    "text": "While awaiting a breakfast prepared by his sister, the cynical Hachiman Hikigaya contemplates the illusion of happiness that surrounds the institution of marriage. His skepticism is put to the test when the Service Club, of which he is a member, is tasked with promoting the appeal of love and marriage to teenagers in a local magazine campaign.\n\nLacking firsthand experience, the club members struggle to brainstorm relatable ideas, until Yui suggests conducting a marriage survey in their class. However, the broad and naive responses only serve to highlight their inexperience. In an attempt to refocus the project, Hachiman's sister, Komachi, proposes a series of contests to determine the ideal wife.\n\nThrough cooking competitions, bridal quizzes, and dress contests, the club members learn about the complexities of marriage. Despite his initial skepticism, Hachiman finds himself admiring Shizuka's culinary skills and praising her beauty in a bridal dress.\n\nAs the deadline approaches, the club members work tirelessly to prepare their findings for the magazine. Hachiman, burdened by his workload, lags behind, causing frustration for Yukino. In his final article, Hachiman encourages female readers to pursue their desired husbands, asserting that everyone deserves the right to happiness, despite the uncertainties of the future.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a308fc8b62d2e87",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.542003387675904,
+    "arithmeticGeometricMean": 7.539718462463374,
+    "median": 7.636386463505107,
+    "hash": "5a308fc8b62d2e87",
+    "lastUpdate": "2024-05-10"
+  }
+}

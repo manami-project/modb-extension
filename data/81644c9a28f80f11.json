@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/rayglanz-go-now",
+    "https://anisearch.com/anime/14071",
+    "https://kitsu.io/anime/46849",
+    "https://myanimelist.net/anime/38486"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81644c9a28f80f11",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.711931972789114,
+    "arithmeticGeometricMean": 5.6751394172285945,
+    "median": 6.09,
+    "hash": "81644c9a28f80f11",
+    "lastUpdate": "2024-05-07"
+  }
+}

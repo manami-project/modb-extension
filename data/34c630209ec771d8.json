@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103519",
+    "https://anime-planet.com/anime/honpo-fullkawa-gekkou-shokudou",
+    "https://kitsu.io/anime/12187",
+    "https://myanimelist.net/anime/32761",
+    "https://notify.moe/anime/p2KRhKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "34c630209ec771d8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.965927272727273,
+    "arithmeticGeometricMean": 5.946108826216107,
+    "median": 5.69,
+    "hash": "34c630209ec771d8",
+    "lastUpdate": "2024-05-06"
+  }
+}

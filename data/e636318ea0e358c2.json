@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7330",
+    "https://anime-planet.com/anime/ganbare-swimmy",
+    "https://anisearch.com/anime/6038",
+    "https://kitsu.io/anime/9826",
+    "https://myanimelist.net/anime/23863",
+    "https://notify.moe/anime/BkRPtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e636318ea0e358c2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.663265306122449,
+    "arithmeticGeometricMean": 5.643761500998084,
+    "median": 5.663265306122449,
+    "hash": "e636318ea0e358c2",
+    "lastUpdate": "2024-05-07"
+  }
+}

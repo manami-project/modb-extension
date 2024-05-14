@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136979",
+    "https://anime-planet.com/anime/hayashi-fusai",
+    "https://kitsu.io/anime/14166",
+    "https://myanimelist.net/anime/36671",
+    "https://notify.moe/anime/7r_H2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3d0fad3b1a56673e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.125166666666667,
+    "arithmeticGeometricMean": 5.119563607499434,
+    "median": 5.12,
+    "hash": "3d0fad3b1a56673e",
+    "lastUpdate": "2024-05-06"
+  }
+}

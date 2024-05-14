@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9505",
+    "https://anilist.co/anime/14735",
+    "https://anime-planet.com/anime/detective-conan-zekkai-no-private-eye",
+    "https://anisearch.com/anime/8190",
+    "https://kitsu.io/anime/7159",
+    "https://livechart.me/anime/850",
+    "https://myanimelist.net/anime/14735",
+    "https://notify.moe/anime/hOcdpFiig"
+  ],
+  "synopsis": {
+    "text": "Maizuru Bay becomes the epicenter of intrigue and suspense as Conan Edogawa and his friends find themselves aboard the cutting-edge Aegis Destroyer for a public naval exercise. The group's excitement turns to anxiety when a Self-Defense Force member's corpse is discovered, with the left arm mysteriously missing. As the security of Japan hangs in the balance, Conan learns of a foreign spy infiltrating the ship to obtain classified information, putting the entire nation at risk.\n\nWith the Ministry of Defense and Maritime Self-Defense Force working alongside, Conan and his friends must race against time to expose the dangerous spy known as 'X.' As the investigation unfolds, Ran Mouri's life is threatened, pushing Conan to rise against the formidable enemy. In a thrilling battle of wits, Conan must unravel the mystery and protect Japan from imminent danger.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "805bae62e3961e04",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.681054305813234,
+    "arithmeticGeometricMean": 7.678936033034179,
+    "median": 7.720000000000001,
+    "hash": "805bae62e3961e04",
+    "lastUpdate": "2024-05-09"
+  }
+}

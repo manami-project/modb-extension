@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3135",
+    "https://anilist.co/anime/9349",
+    "https://anime-planet.com/anime/shizukanaru-don-yakuza-side-story",
+    "https://anisearch.com/anime/3278",
+    "https://kitsu.io/anime/5696",
+    "https://myanimelist.net/anime/9349",
+    "https://notify.moe/anime/DLjWpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e6695c312f36db2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.778047619047619,
+    "arithmeticGeometricMean": 5.759086421143717,
+    "median": 5.757142857142856,
+    "hash": "9e6695c312f36db2",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12771",
+    "https://anilist.co/anime/8730",
+    "https://anime-planet.com/anime/metropolitan-museum",
+    "https://anisearch.com/anime/6744",
+    "https://kitsu.io/anime/5465",
+    "https://myanimelist.net/anime/8730",
+    "https://notify.moe/anime/PU3mpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "84f6296a998a64ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.110928703949113,
+    "arithmeticGeometricMean": 5.064792535383078,
+    "median": 5.0,
+    "hash": "84f6296a998a64ac",
+    "lastUpdate": "2024-05-08"
+  }
+}

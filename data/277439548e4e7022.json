@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140581",
+    "https://anisearch.com/anime/13673",
+    "https://kitsu.io/anime/46157"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "277439548e4e7022",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.190166975881262,
+    "arithmeticGeometricMean": 4.042789918754421,
+    "median": 4.190166975881262,
+    "hash": "277439548e4e7022",
+    "lastUpdate": "2024-05-07"
+  }
+}

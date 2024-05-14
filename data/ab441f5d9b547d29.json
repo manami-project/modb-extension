@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12645",
+    "https://anilist.co/anime/97920",
+    "https://anime-planet.com/anime/a-polar-bear-in-love",
+    "https://anisearch.com/anime/12513",
+    "https://kitsu.io/anime/40610",
+    "https://livechart.me/anime/2461",
+    "https://myanimelist.net/anime/34535",
+    "https://notify.moe/anime/2EtD2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ab441f5d9b547d29",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.506415761109639,
+    "arithmeticGeometricMean": 6.489346414683504,
+    "median": 6.6,
+    "hash": "ab441f5d9b547d29",
+    "lastUpdate": "2024-05-09"
+  }
+}

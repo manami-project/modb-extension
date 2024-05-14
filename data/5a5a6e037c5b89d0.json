@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12148",
+    "https://anilist.co/anime/21830",
+    "https://anime-planet.com/anime/atom-the-beginning",
+    "https://anisearch.com/anime/11518",
+    "https://kitsu.io/anime/12235",
+    "https://livechart.me/anime/2201",
+    "https://myanimelist.net/anime/33371",
+    "https://notify.moe/anime/qobR2Fiig"
+  ],
+  "synopsis": {
+    "text": "Umatarou Tenma and Hiroshi Ochanomizu, two brilliant young minds at a Japanese university, are on a mission to create a robot that can think and feel like a human. In a world still recovering from an unexplained catastrophe that struck Japan five years ago, the duo dreams of a future where robots can aid in reconstruction and more.\n\nWith no financial backing from investors, Tenma and Ochanomizu resort to taking on odd jobs to fund their ambitious project. After countless hours of labor, they finally succeed in building A106, a humanoid robot with advanced artificial intelligence.\n\nAs they push the boundaries of technology and ethics, Tenma and Ochanomizu begin testing A106's emotional capabilities. Will their creation become a powerful deity or a compassionate friend? This untold story leads up to the birth of a robot that will leave an indelible mark on the world. Join Tenma and Ochanomizu on their journey to create a new interpretation of the eternal hero, Astro Boy.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a5a6e037c5b89d0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.772129045557616,
+    "arithmeticGeometricMean": 6.766561397832166,
+    "median": 6.7606363636363636,
+    "hash": "5a5a6e037c5b89d0",
+    "lastUpdate": "2024-05-08"
+  }
+}

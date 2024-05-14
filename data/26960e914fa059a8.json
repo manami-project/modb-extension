@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8212",
+    "https://anilist.co/anime/10217",
+    "https://anime-planet.com/anime/kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise",
+    "https://anisearch.com/anime/6813",
+    "https://kitsu.io/anime/6083",
+    "https://livechart.me/anime/1213",
+    "https://myanimelist.net/anime/10217",
+    "https://notify.moe/anime/5cfnpFiig"
+  ],
+  "synopsis": {
+    "text": "The vibrant Haruka Minazuki and the studious Aoi Kannazuki, two inseparable best friends, navigate their high school days at St. Cherine Academy with seemingly ordinary lives. One is known for her boundless energy, while the other is admired for her academic prowess. However, beneath this facade of normalcy, they conceal an extraordinary secret. As night falls, they transform from typical students into the powerful Twin Angels, guardians of their town, relentlessly battling the sinister forces that lurk in the shadows. Prepare for a thrilling ride as these unsuspecting heroines balance their dual lives, blending the mundane with the supernatural.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26960e914fa059a8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.050229525576463,
+    "arithmeticGeometricMean": 6.017718619674546,
+    "median": 5.909090909090908,
+    "hash": "26960e914fa059a8",
+    "lastUpdate": "2024-05-09"
+  }
+}

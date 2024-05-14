@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140591",
+    "https://anime-planet.com/anime/tan",
+    "https://anisearch.com/anime/13308",
+    "https://kitsu.io/anime/46756"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "57e55a121eb8367e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.770593692022263,
+    "arithmeticGeometricMean": 4.7520733225333815,
+    "median": 4.770593692022263,
+    "hash": "57e55a121eb8367e",
+    "lastUpdate": "2024-05-07"
+  }
+}

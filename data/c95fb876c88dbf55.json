@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/azki-overwrite",
+    "https://kitsu.io/anime/46503",
+    "https://myanimelist.net/anime/51816"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c95fb876c88dbf55",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.566,
+    "arithmeticGeometricMean": 6.56032084899761,
+    "median": 6.566,
+    "hash": "c95fb876c88dbf55",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1714",
+    "https://anilist.co/anime/616",
+    "https://anime-planet.com/anime/nurse-angel-ririka-sos",
+    "https://anisearch.com/anime/262",
+    "https://kitsu.io/anime/571",
+    "https://livechart.me/anime/7347",
+    "https://myanimelist.net/anime/616",
+    "https://notify.moe/anime/FwqTcFmig"
+  ],
+  "synopsis": {
+    "text": "Kanon, an emissary from the devastated planet Queen Earth, arrives on our world with a desperate mission: to find the legendary Nurse Angel, the only hope against the encroaching darkness of the malevolent Dark Joker. 10-year-old Moriya Ririka, an ordinary girl, finds herself thrust into an extraordinary destiny when she receives a mysterious gift from Kanon containing a Nurse's Cap, transforming her into the fabled Nurse Angel.\n\nAs the forces of evil close in, Ririka, aided by her childhood friend Seiya, embarks on a perilous quest to locate the Flower of Life, a powerful artifact once abundant on Earth but now hidden in an unexpected place. With the fate of two worlds hanging in the balance, Ririka must summon the courage to make a heart-wrenching decision to acquire the Flower and vanquish the evil forces once and for all. Will Ririka and her friends succeed in their mission, or will the universe succumb to the sinister grasp of Dark Joker?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26abb11ecd56aa12",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.756484495096741,
+    "arithmeticGeometricMean": 6.727144542736262,
+    "median": 6.987755102040815,
+    "hash": "26abb11ecd56aa12",
+    "lastUpdate": "2024-05-09"
+  }
+}

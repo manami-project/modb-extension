@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10477",
+    "https://anilist.co/anime/114472",
+    "https://anime-planet.com/anime/peeping-life-this-is-fate-2",
+    "https://anisearch.com/anime/9370",
+    "https://kitsu.io/anime/8370",
+    "https://livechart.me/anime/12199",
+    "https://myanimelist.net/anime/22671",
+    "https://notify.moe/anime/JSmAtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c95d03a85328339",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.955256029684601,
+    "arithmeticGeometricMean": 4.936366303337476,
+    "median": 4.805,
+    "hash": "5c95d03a85328339",
+    "lastUpdate": "2024-05-09"
+  }
+}

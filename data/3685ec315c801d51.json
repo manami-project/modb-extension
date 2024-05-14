@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/513",
+    "https://anilist.co/anime/371",
+    "https://anime-planet.com/anime/cardcaptor-sakura-the-movie",
+    "https://anisearch.com/anime/2731",
+    "https://kitsu.io/anime/338",
+    "https://livechart.me/anime/4216",
+    "https://myanimelist.net/anime/371",
+    "https://notify.moe/anime/CKQhcKmmR"
+  ],
+  "synopsis": {
+    "text": "Madoushi, a woman seeking vengeance against Clow Reed, summons Sakura Kinomoto, a Cardcaptor, to Hong Kong under the guise of a lottery win. Accompanied by her best friend Tomoyo, her rival Syaoran, and other loved ones, Sakura's vacation quickly turns into a battle against Madoushi's evil forces. Guided by Clow Reed's voice and Syaoran's mother Yelan, Sakura must navigate the phantom world, rescue her friends, and uncover the truth about Clow Reed's past. As Sakura fights her first human threat, she experiences mysterious dreams involving water and a strange woman, hinting at the dangers to come. Will Sakura be able to defeat Madoushi and save Hong Kong from impending doom? Join Sakura on this thrilling adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3685ec315c801d51",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.564765648947326,
+    "arithmeticGeometricMean": 7.563298357081137,
+    "median": 7.600181818181818,
+    "hash": "3685ec315c801d51",
+    "lastUpdate": "2024-05-09"
+  }
+}

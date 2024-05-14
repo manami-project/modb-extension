@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102619",
+    "https://anime-planet.com/anime/wedding-peach-specials",
+    "https://anisearch.com/anime/15101",
+    "https://kitsu.io/anime/9127",
+    "https://myanimelist.net/anime/26189",
+    "https://notify.moe/anime/f4D-tKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d602b425909ef3be",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.428891156462584,
+    "arithmeticGeometricMean": 6.40476294483676,
+    "median": 6.523673469387756,
+    "hash": "d602b425909ef3be",
+    "lastUpdate": "2024-05-05"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102523",
+    "https://anime-planet.com/anime/kotowa-jiten-hetana-teppou-mo-kazu-ucha-ataru",
+    "https://kitsu.io/anime/41518",
+    "https://myanimelist.net/anime/34929"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "67a9fc65ba0baa5d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.511636363636363,
+    "arithmeticGeometricMean": 5.497313970912803,
+    "median": 5.12,
+    "hash": "67a9fc65ba0baa5d",
+    "lastUpdate": "2024-05-07"
+  }
+}

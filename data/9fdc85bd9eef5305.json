@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3369",
+    "https://anilist.co/anime/2575",
+    "https://anime-planet.com/anime/don-chuck-monogatari",
+    "https://anisearch.com/anime/3104",
+    "https://kitsu.io/anime/2340",
+    "https://myanimelist.net/anime/2575",
+    "https://notify.moe/anime/ahIs5Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9fdc85bd9eef5305",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.556879406307977,
+    "arithmeticGeometricMean": 5.498481516710118,
+    "median": 6.0,
+    "hash": "9fdc85bd9eef5305",
+    "lastUpdate": "2024-05-07"
+  }
+}

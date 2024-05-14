@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5315",
+    "https://anilist.co/anime/3080",
+    "https://anime-planet.com/anime/anime-tenchou",
+    "https://anisearch.com/anime/4376",
+    "https://kitsu.io/anime/2778",
+    "https://livechart.me/anime/6724",
+    "https://myanimelist.net/anime/3080",
+    "https://notify.moe/anime/wvrUcKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "529754caab3dd9a3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.803928968990193,
+    "arithmeticGeometricMean": 5.794437727911416,
+    "median": 5.796000000000001,
+    "hash": "529754caab3dd9a3",
+    "lastUpdate": "2024-05-08"
+  }
+}

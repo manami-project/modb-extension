@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14822",
+    "https://anilist.co/anime/109020",
+    "https://anime-planet.com/anime/sing-yesterday-for-me",
+    "https://anisearch.com/anime/14347",
+    "https://kitsu.io/anime/43063",
+    "https://livechart.me/anime/9412",
+    "https://myanimelist.net/anime/39710",
+    "https://notify.moe/anime/9KfX5A8Wg"
+  ],
+  "synopsis": {
+    "text": "Toume's timeless tale of love and growth finally comes to life in this animated adaptation. Rikuo Uozumi, a young man with no clear aspirations, finds himself working at a convenience store after finishing college. His mundane existence takes a turn for the extraordinary when he encounters the eccentric Haru Nonaka, a girl who always has her pet crow by her side. As Rikuo grapples with his unresolved feelings for his former classmate Shinako, who has returned to town, he begins to question his current situation and future prospects. Set in a quaint town just outside of Shinjuku, this story follows the intertwined lives of four young individuals as they navigate the complexities of love, friendship, and personal growth. With each day bringing new challenges and misunderstandings, they must learn to balance their past experiences with their hopes for the future.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1b8361eccd3b331c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.101150447198188,
+    "arithmeticGeometricMean": 7.098319375830735,
+    "median": 7.088034070796461,
+    "hash": "1b8361eccd3b331c",
+    "lastUpdate": "2024-05-10"
+  }
+}

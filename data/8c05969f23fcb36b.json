@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15236",
+    "https://anilist.co/anime/123120",
+    "https://anime-planet.com/anime/hulu-xiongdi-movie",
+    "https://myanimelist.net/anime/43612"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8c05969f23fcb36b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.636363636363637,
+    "arithmeticGeometricMean": 4.636363636363637,
+    "median": 4.636363636363637,
+    "hash": "8c05969f23fcb36b",
+    "lastUpdate": "2024-05-08"
+  }
+}

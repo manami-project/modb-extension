@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3465",
+    "https://anilist.co/anime/858",
+    "https://anime-planet.com/anime/gunparade-orchestra",
+    "https://anisearch.com/anime/3438",
+    "https://kitsu.io/anime/760",
+    "https://livechart.me/anime/8476",
+    "https://myanimelist.net/anime/858",
+    "https://notify.moe/anime/6CQ0cKimR"
+  ],
+  "synopsis": {
+    "text": "World War II has ended, but humanity faces a new, formidable enemy: the Genju, an alien race intent on conquering Earth. In 1999, the battle continues, with the last hope for mankind's survival resting on the shoulders of young pilots operating Humanoid Walking Tanks (HWT). Among these brave soldiers is Ishida Sara, a fresh officer graduate assigned to the 108th Guard Squad in Aomori.\n\nThe 108th Guard Squad, often dismissed as a 'reject camp' for pilots who don't make the cut for elite units, is ill-equipped and inexperienced. Despite this, they find themselves on the frontlines of a war they never asked for, as the Genju forces close in on them and the rest of the empire.\n\nSara's team, composed of inexperienced high school students with little desire to train, struggles to follow her orders. Their first mission against a Phantom Beast, a type of Genju, ends in failure, leaving Sara grappling with self-doubt and the constant scrutiny of her peers and superiors.\n\nAs the Genju threat looms closer, Sara must find a way to unite her team and overcome the odds, transforming the 108th from a group of misfits into a formidable fighting force. In this alternate reality, the fate of Aomori and possibly the entire human race rests on their shoulders. Can Sara and the 108th rise to the challenge and turn the tide of the war?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ff9c0a18b21a2b94",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.7613654916512065,
+    "arithmeticGeometricMean": 5.7456286895484725,
+    "median": 5.9,
+    "hash": "ff9c0a18b21a2b94",
+    "lastUpdate": "2024-05-09"
+  }
+}

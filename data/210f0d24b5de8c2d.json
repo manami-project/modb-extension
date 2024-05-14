@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11181",
+    "https://anime-planet.com/anime/the-snack-world-2015",
+    "https://anisearch.com/anime/10995",
+    "https://kitsu.io/anime/12426",
+    "https://livechart.me/anime/1506",
+    "https://myanimelist.net/anime/32593",
+    "https://notify.moe/anime/0OpzhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "210f0d24b5de8c2d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.959928571428572,
+    "arithmeticGeometricMean": 5.93038410395248,
+    "median": 6.022857142857142,
+    "hash": "210f0d24b5de8c2d",
+    "lastUpdate": "2024-05-10"
+  }
+}

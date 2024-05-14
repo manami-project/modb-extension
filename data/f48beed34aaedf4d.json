@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3072",
+    "https://anilist.co/anime/3110",
+    "https://anime-planet.com/anime/kaze-no-naka-no-shoujo-kinpatsu-no-jeanie",
+    "https://anisearch.com/anime/3345",
+    "https://kitsu.io/anime/2802",
+    "https://livechart.me/anime/7626",
+    "https://myanimelist.net/anime/3110",
+    "https://notify.moe/anime/lL38cKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f48beed34aaedf4d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.735607209117414,
+    "arithmeticGeometricMean": 6.726039356683046,
+    "median": 6.636363636363637,
+    "hash": "f48beed34aaedf4d",
+    "lastUpdate": "2024-05-09"
+  }
+}

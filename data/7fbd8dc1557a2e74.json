@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2284",
+    "https://anilist.co/anime/8153",
+    "https://anime-planet.com/anime/gegege-no-kitarou-youkai-daisensou",
+    "https://anisearch.com/anime/2724",
+    "https://kitsu.io/anime/5218",
+    "https://myanimelist.net/anime/8153",
+    "https://notify.moe/anime/7EjztFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7fbd8dc1557a2e74",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.986706246134818,
+    "arithmeticGeometricMean": 5.972242813830656,
+    "median": 6.024118738404453,
+    "hash": "7fbd8dc1557a2e74",
+    "lastUpdate": "2024-05-08"
+  }
+}

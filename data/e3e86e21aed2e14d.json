@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13742",
+    "https://anilist.co/anime/100978",
+    "https://anime-planet.com/anime/gegege-no-kitarou-2018",
+    "https://anisearch.com/anime/13262",
+    "https://kitsu.io/anime/14246",
+    "https://livechart.me/anime/3050",
+    "https://myanimelist.net/anime/37140",
+    "https://notify.moe/anime/ymGv2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e3e86e21aed2e14d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.015755084862228,
+    "arithmeticGeometricMean": 7.010435934532659,
+    "median": 7.12734693877551,
+    "hash": "e3e86e21aed2e14d",
+    "lastUpdate": "2024-05-09"
+  }
+}

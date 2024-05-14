@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/the-charm-park-standing-tall"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77fa3c42e7383022",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.72,
+    "arithmeticGeometricMean": 6.72,
+    "median": 6.72,
+    "hash": "77fa3c42e7383022",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/128535",
+    "https://anime-planet.com/anime/gekidan-nanatsu-no-taizai",
+    "https://anisearch.com/anime/15861",
+    "https://kitsu.io/anime/48494",
+    "https://livechart.me/anime/10292",
+    "https://myanimelist.net/anime/45567"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7e553b2e4d87b74d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.196532467532467,
+    "arithmeticGeometricMean": 6.183940951169734,
+    "median": 6.051636363636364,
+    "hash": "7e553b2e4d87b74d",
+    "lastUpdate": "2024-05-06"
+  }
+}

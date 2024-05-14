@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12984",
+    "https://anilist.co/anime/6566",
+    "https://anime-planet.com/anime/its-a-rumic-world-50th-anniversary-weekly-shonen-sunday",
+    "https://anisearch.com/anime/8809",
+    "https://kitsu.io/anime/4612",
+    "https://myanimelist.net/anime/6566",
+    "https://notify.moe/anime/YtF6cKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c43d6a3964e4506a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.549398356745296,
+    "arithmeticGeometricMean": 6.543708882065165,
+    "median": 6.81,
+    "hash": "c43d6a3964e4506a",
+    "lastUpdate": "2024-05-08"
+  }
+}

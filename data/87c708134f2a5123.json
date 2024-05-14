@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145289",
+    "https://anime-planet.com/anime/superstar-wo-yumemite",
+    "https://kitsu.io/anime/45263",
+    "https://myanimelist.net/anime/50005"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "87c708134f2a5123",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.835090909090909,
+    "arithmeticGeometricMean": 5.7903578320327265,
+    "median": 5.835090909090909,
+    "hash": "87c708134f2a5123",
+    "lastUpdate": "2024-05-07"
+  }
+}

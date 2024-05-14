@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/174709",
+    "https://anime-planet.com/anime/quan-zhi-ming",
+    "https://anisearch.com/anime/18796",
+    "https://kitsu.io/anime/48219",
+    "https://myanimelist.net/anime/56772",
+    "https://notify.moe/anime/_AX3Y6WSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "762fea6cb08e8650",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.158627087198516,
+    "arithmeticGeometricMean": 6.135658052520822,
+    "median": 6.158627087198516,
+    "hash": "762fea6cb08e8650",
+    "lastUpdate": "2024-05-06"
+  }
+}

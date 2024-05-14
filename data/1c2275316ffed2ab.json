@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/shounen-sunday-cm-detective-conan",
+    "https://anisearch.com/anime/9015",
+    "https://kitsu.io/anime/42581",
+    "https://myanimelist.net/anime/40348"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c2275316ffed2ab",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.797704081632653,
+    "arithmeticGeometricMean": 5.744266876161776,
+    "median": 6.01,
+    "hash": "1c2275316ffed2ab",
+    "lastUpdate": "2024-05-06"
+  }
+}

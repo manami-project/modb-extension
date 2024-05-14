@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/3207",
+    "https://myanimelist.net/anime/3478"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d10296292e4ff1c9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.93469387755102,
+    "arithmeticGeometricMean": 5.909892039879974,
+    "median": 5.93469387755102,
+    "hash": "d10296292e4ff1c9",
+    "lastUpdate": "2024-05-07"
+  }
+}

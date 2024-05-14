@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/111306",
+    "https://anime-planet.com/anime/million-arthur-farewell-beloved-dancho",
+    "https://anisearch.com/anime/15012",
+    "https://kitsu.io/anime/42634",
+    "https://livechart.me/anime/8222",
+    "https://myanimelist.net/anime/38601"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9adb4798e2928c6a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.604542486085343,
+    "arithmeticGeometricMean": 6.6004416459705135,
+    "median": 6.438,
+    "hash": "9adb4798e2928c6a",
+    "lastUpdate": "2024-05-06"
+  }
+}

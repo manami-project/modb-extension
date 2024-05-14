@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17429",
+    "https://anilist.co/anime/154173",
+    "https://anime-planet.com/anime/nanamental",
+    "https://anisearch.com/anime/17472",
+    "https://livechart.me/anime/11234",
+    "https://myanimelist.net/anime/52000"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "10452fa0f9ef7f3a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.890538033395177,
+    "arithmeticGeometricMean": 5.882456600890949,
+    "median": 5.890538033395177,
+    "hash": "10452fa0f9ef7f3a",
+    "lastUpdate": "2024-05-09"
+  }
+}

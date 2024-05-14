@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15745",
+    "https://anime-planet.com/anime/planetarium-pokemon-aurora-kara-no-message",
+    "https://anisearch.com/anime/15641",
+    "https://myanimelist.net/anime/42914"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "76f24e736e3f1b2d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.077278911564625,
+    "arithmeticGeometricMean": 7.070107552086337,
+    "median": 7.39,
+    "hash": "76f24e736e3f1b2d",
+    "lastUpdate": "2024-05-08"
+  }
+}

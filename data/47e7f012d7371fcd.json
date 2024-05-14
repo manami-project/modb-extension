@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5407",
+    "https://anilist.co/anime/7696",
+    "https://anime-planet.com/anime/great-conquest-the-romance-of-the-three-kingdoms",
+    "https://anisearch.com/anime/4454",
+    "https://kitsu.io/anime/5084",
+    "https://myanimelist.net/anime/7696",
+    "https://notify.moe/anime/OxKktKiig"
+  ],
+  "synopsis": {
+    "text": "Cao Cao and Liu Bei, two minor figures in a tumultuous era, find themselves at the heart of a power struggle that will shape the future of Imperial China. As the Yellow Turban rebellion weakens the ruling Han dynasty, Liu Bei, the eventual protagonist, witnesses the suffering of the common people and vows to become a powerful lord to restore peace and justice. Alongside his newfound allies, the formidable warriors Zhang Fei and Guan Yu, they pledge an unbreakable bond in the Peach Garden, vowing to live and die together as champions of justice.\n\nMeanwhile, the cunning Cao Cao contemplates his own destiny as either a hero in chaos or a villain in peace. Seizing an opportunity amidst the power vacuum left by the feuding warlord Dong Zhuo and his mighty warrior Lu Bu, Cao Cao rises to prominence, aided by his uncanny luck on the battlefield.\n\nAs war ravages the land and political intrigue unfolds, Liu Bei struggles to maintain his moral compass amidst the complex game of power. This first installment of the three-part adaptation of \"Romance of the Three Kingdoms\" sets the stage for the epic saga of loyalty, ambition, and the birth of a new nation from the ashes of chaos.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47e7f012d7371fcd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.368376623376623,
+    "arithmeticGeometricMean": 6.349686565553359,
+    "median": 6.507272727272728,
+    "hash": "47e7f012d7371fcd",
+    "lastUpdate": "2024-05-08"
+  }
+}

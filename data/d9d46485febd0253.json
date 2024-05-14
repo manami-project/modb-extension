@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103493",
+    "https://anime-planet.com/anime/gokiburi-hime",
+    "https://anisearch.com/anime/11639",
+    "https://kitsu.io/anime/41614",
+    "https://livechart.me/anime/8532",
+    "https://myanimelist.net/anime/36278"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d9d46485febd0253",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.218711502782931,
+    "arithmeticGeometricMean": 5.2168169416742405,
+    "median": 5.278877551020408,
+    "hash": "d9d46485febd0253",
+    "lastUpdate": "2024-05-06"
+  }
+}

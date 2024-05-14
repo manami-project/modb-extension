@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12737",
+    "https://anilist.co/anime/98107",
+    "https://anime-planet.com/anime/idol-time-pripara",
+    "https://anisearch.com/anime/12229",
+    "https://kitsu.io/anime/13293",
+    "https://livechart.me/anime/2513",
+    "https://myanimelist.net/anime/34787",
+    "https://notify.moe/anime/lk4n2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ee3e4998a49fd58",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.189887622581501,
+    "arithmeticGeometricMean": 7.178523848767318,
+    "median": 7.41,
+    "hash": "1ee3e4998a49fd58",
+    "lastUpdate": "2024-05-09"
+  }
+}

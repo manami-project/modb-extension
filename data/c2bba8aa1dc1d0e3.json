@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/98778",
+    "https://anime-planet.com/anime/91-days-special",
+    "https://anisearch.com/anime/12480",
+    "https://kitsu.io/anime/13598",
+    "https://livechart.me/anime/2658",
+    "https://myanimelist.net/anime/34777",
+    "https://notify.moe/anime/NThVhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c2bba8aa1dc1d0e3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.976747738056261,
+    "arithmeticGeometricMean": 6.974050678794727,
+    "median": 6.932653061224489,
+    "hash": "c2bba8aa1dc1d0e3",
+    "lastUpdate": "2024-05-05"
+  }
+}

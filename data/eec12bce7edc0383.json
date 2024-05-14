@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/166058",
+    "https://anime-planet.com/anime/mcdonalds-x-suzume-no-tojimari-big-mac-to-susume",
+    "https://kitsu.io/anime/46986",
+    "https://myanimelist.net/anime/53731"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eec12bce7edc0383",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.083636363636364,
+    "arithmeticGeometricMean": 7.080950605913043,
+    "median": 7.020909090909091,
+    "hash": "eec12bce7edc0383",
+    "lastUpdate": "2024-05-07"
+  }
+}

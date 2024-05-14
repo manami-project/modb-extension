@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115472",
+    "https://anime-planet.com/anime/smile",
+    "https://anisearch.com/anime/11720",
+    "https://kitsu.io/anime/42802",
+    "https://myanimelist.net/anime/40527"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9462d3dfa01c72f5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.5797523191094625,
+    "arithmeticGeometricMean": 5.557296179439437,
+    "median": 5.3129591836734695,
+    "hash": "9462d3dfa01c72f5",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6332",
+    "https://anilist.co/anime/5454",
+    "https://anime-planet.com/anime/modern-magic-made-simple",
+    "https://anisearch.com/anime/5143",
+    "https://kitsu.io/anime/4104",
+    "https://livechart.me/anime/4409",
+    "https://myanimelist.net/anime/5454",
+    "https://notify.moe/anime/BihjcKimg"
+  ],
+  "synopsis": {
+    "text": "Morishita Koyomi's high school experience is far from ordinary. Standing at a petite height, she is often mistaken for a grade schooler, making her a target for relentless teasing from her peers. Her clumsiness only adds fuel to the fire. However, her troubles pale in comparison to those of Yumiko, who is pursued by a malevolent magician. When their paths intertwine, Koyomi finds herself in a world of magic and danger.\n\nJust as technology evolves, so does magic in this world, transforming spells into sequences of binary code. Enter Anehara Misa, a master mage and graduate student, who takes Koyomi under her wing, teaching her the new-age style of magic. However, Koyomi's magical prowess seems to be limited to summoning washbasins from the sky, making her lessons a challenging endeavor.\n\nAs Koyomi navigates through her magical journey, she must confront malevolent creatures known as 'daemons' summoned by unscrupulous magic users. With Misa's guidance, Koyomi embarks on a desperate quest to improve her magical versatility, proving that magic is not always as easy as it seems. A unique blend of charm school and crash course awaits, filled with unpredictable challenges and enchanting lessons.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "170f57c0b1a4686c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.585097866419295,
+    "arithmeticGeometricMean": 6.573350273485821,
+    "median": 6.431818181818182,
+    "hash": "170f57c0b1a4686c",
+    "lastUpdate": "2024-05-10"
+  }
+}

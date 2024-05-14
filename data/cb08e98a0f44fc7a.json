@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/zombie-dumb",
+    "https://anisearch.com/anime/15292",
+    "https://myanimelist.net/anime/48323"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb08e98a0f44fc7a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.489795918367346,
+    "arithmeticGeometricMean": 4.489795918367346,
+    "median": 4.489795918367346,
+    "hash": "cb08e98a0f44fc7a",
+    "lastUpdate": "2024-05-07"
+  }
+}

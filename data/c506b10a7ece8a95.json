@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7074",
+    "https://anilist.co/anime/117957",
+    "https://anime-planet.com/anime/nihon-mukashibanashi-chouja",
+    "https://anisearch.com/anime/5898",
+    "https://kitsu.io/anime/9906",
+    "https://myanimelist.net/anime/22413",
+    "https://notify.moe/anime/GdDPtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c506b10a7ece8a95",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.303102040816326,
+    "arithmeticGeometricMean": 5.274207497563237,
+    "median": 5.2,
+    "hash": "c506b10a7ece8a95",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9578",
+    "https://anilist.co/anime/16389",
+    "https://anime-planet.com/anime/komachi-to-dangorou",
+    "https://anisearch.com/anime/8306",
+    "https://kitsu.io/anime/7418",
+    "https://livechart.me/anime/1000",
+    "https://myanimelist.net/anime/16389",
+    "https://notify.moe/anime/L9fFpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "baa8f03f6425256d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.179727007686191,
+    "arithmeticGeometricMean": 5.149416296123275,
+    "median": 5.090909090909091,
+    "hash": "baa8f03f6425256d",
+    "lastUpdate": "2024-05-09"
+  }
+}

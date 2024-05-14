@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11531",
+    "https://anime-planet.com/anime/lord-of-vermilion-iii-special-anime-movie",
+    "https://anisearch.com/anime/10729",
+    "https://kitsu.io/anime/12371",
+    "https://livechart.me/anime/1866",
+    "https://myanimelist.net/anime/31493",
+    "https://notify.moe/anime/3L4zhKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d89a878ba390fb98",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.723755102040816,
+    "arithmeticGeometricMean": 5.706110247829283,
+    "median": 5.33,
+    "hash": "d89a878ba390fb98",
+    "lastUpdate": "2024-05-09"
+  }
+}

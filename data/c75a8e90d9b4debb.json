@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18197",
+    "https://anilist.co/anime/134099",
+    "https://anime-planet.com/anime/shu-tian-fu-mo-lu",
+    "https://kitsu.io/anime/47589",
+    "https://myanimelist.net/anime/55186",
+    "https://notify.moe/anime/eBNQ1N_4R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c75a8e90d9b4debb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.800545454545454,
+    "arithmeticGeometricMean": 6.795292998703269,
+    "median": 6.75,
+    "hash": "c75a8e90d9b4debb",
+    "lastUpdate": "2024-05-08"
+  }
+}

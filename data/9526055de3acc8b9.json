@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3155",
+    "https://anilist.co/anime/3819",
+    "https://anime-planet.com/anime/sasurai-no-taiyou",
+    "https://anisearch.com/anime/364",
+    "https://kitsu.io/anime/3273",
+    "https://livechart.me/anime/11752",
+    "https://myanimelist.net/anime/3819",
+    "https://notify.moe/anime/PN-_5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9526055de3acc8b9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.703050092764379,
+    "arithmeticGeometricMean": 6.697420319705029,
+    "median": 6.7219999999999995,
+    "hash": "9526055de3acc8b9",
+    "lastUpdate": "2024-05-09"
+  }
+}

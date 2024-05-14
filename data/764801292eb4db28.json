@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/fire-emblem-heroes-book-iii-movie-cohort-of-the-dead"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "764801292eb4db28",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.69,
+    "arithmeticGeometricMean": 6.69,
+    "median": 6.69,
+    "hash": "764801292eb4db28",
+    "lastUpdate": "2024-05-08"
+  }
+}

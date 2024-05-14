@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6044",
+    "https://anilist.co/anime/3574",
+    "https://anime-planet.com/anime/switch",
+    "https://anisearch.com/anime/4997",
+    "https://kitsu.io/anime/3115",
+    "https://livechart.me/anime/5346",
+    "https://myanimelist.net/anime/3574",
+    "https://notify.moe/anime/E-R_5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "739779cbdbec5a3d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.73989345348529,
+    "arithmeticGeometricMean": 6.738786156520307,
+    "median": 6.714285714285714,
+    "hash": "739779cbdbec5a3d",
+    "lastUpdate": "2024-05-10"
+  }
+}

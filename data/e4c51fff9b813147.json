@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8214",
+    "https://anilist.co/anime/16554",
+    "https://anime-planet.com/anime/dallyeola-majing-ga-x",
+    "https://anisearch.com/anime/8903",
+    "https://kitsu.io/anime/7455",
+    "https://myanimelist.net/anime/16554",
+    "https://notify.moe/anime/ST_FpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e4c51fff9b813147",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.419467161410019,
+    "arithmeticGeometricMean": 4.3361448311893325,
+    "median": 3.46,
+    "hash": "e4c51fff9b813147",
+    "lastUpdate": "2024-05-08"
+  }
+}

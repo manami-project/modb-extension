@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/240",
+    "https://anilist.co/anime/782",
+    "https://anime-planet.com/anime/gasaraki",
+    "https://anisearch.com/anime/258",
+    "https://kitsu.io/anime/699",
+    "https://livechart.me/anime/6242",
+    "https://myanimelist.net/anime/782",
+    "https://notify.moe/anime/FKA05Kiig"
+  ],
+  "score": {
+    "arithmeticMean": 6.621420355155048,
+    "arithmeticGeometricMean": 6.619767984358763,
+    "median": 6.67,
+    "hash": "4dfa2236d2ea8720",
+    "lastUpdate": "2024-05-09"
+  }
+}

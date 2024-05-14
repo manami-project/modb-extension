@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6229",
+    "https://anilist.co/anime/7729",
+    "https://anime-planet.com/anime/hokkyoku-no-muushika-mishika",
+    "https://anisearch.com/anime/3887",
+    "https://kitsu.io/anime/5100",
+    "https://myanimelist.net/anime/7729",
+    "https://notify.moe/anime/fwpzpKimR"
+  ],
+  "synopsis": {
+    "text": "Joseph Campanella voices Scholar Mu, the wise leader of the Great Northern animal kingdom, who guides his two polar bear cubs, Mushka and Mishka, through a series of thrilling escapades in the North Pole. While the thoughtful Mushka and the daring Mishka explore their icy surroundings, they encounter unexpected challenges and friendships. Mishka forms a bond with Aura, a mischievous seal, and Mushka accidentally disrupts the bird village by breaking swan eggs. As the cubs learn valuable life lessons, they must also rise to the occasion when their father is injured by a human, taking on his responsibilities and protecting their fellow animals from hunters during the annual Summer Festival. This delightful tale showcases the adventures of these brave polar cubs as they grow and navigate the world around them.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "802fa0e3d1290c92",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.472923933209647,
+    "arithmeticGeometricMean": 5.4636084258605075,
+    "median": 5.331363636363636,
+    "hash": "802fa0e3d1290c92",
+    "lastUpdate": "2024-05-08"
+  }
+}

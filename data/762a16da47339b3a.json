@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://kitsu.io/anime/12629",
+    "https://notify.moe/anime/SfKm2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "762a16da47339b3a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.4407575757575755,
+    "arithmeticGeometricMean": 7.423895389575765,
+    "median": 7.4407575757575755,
+    "hash": "762a16da47339b3a",
+    "lastUpdate": "2024-05-07"
+  }
+}

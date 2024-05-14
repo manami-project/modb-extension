@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16642",
+    "https://anilist.co/anime/124339",
+    "https://anime-planet.com/anime/fei-zhi-baike-yuanlai-ni-shi-zheyang-de-zhiwu",
+    "https://livechart.me/anime/10591",
+    "https://myanimelist.net/anime/42967",
+    "https://notify.moe/anime/iTSHpkcMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "67cac23ee12c6621",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.454545454545454,
+    "arithmeticGeometricMean": 4.454545454545454,
+    "median": 4.454545454545454,
+    "hash": "67cac23ee12c6621",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12579",
+    "https://anilist.co/anime/102378",
+    "https://anime-planet.com/anime/punpun-polka",
+    "https://kitsu.io/anime/12834",
+    "https://myanimelist.net/anime/34406",
+    "https://notify.moe/anime/DJSW2Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b29dcd70b9abdb18",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.528763636363635,
+    "arithmeticGeometricMean": 4.494944893361303,
+    "median": 4.0,
+    "hash": "b29dcd70b9abdb18",
+    "lastUpdate": "2024-05-08"
+  }
+}

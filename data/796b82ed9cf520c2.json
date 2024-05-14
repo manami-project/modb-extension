@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3587",
+    "https://anilist.co/anime/10282",
+    "https://anime-planet.com/anime/manga-nippon-mukashibanashi",
+    "https://anisearch.com/anime/2808",
+    "https://kitsu.io/anime/6113",
+    "https://myanimelist.net/anime/10282",
+    "https://notify.moe/anime/Qt8npKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "796b82ed9cf520c2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.516875077303649,
+    "arithmeticGeometricMean": 5.485386475307586,
+    "median": 5.272727272727273,
+    "hash": "796b82ed9cf520c2",
+    "lastUpdate": "2024-05-08"
+  }
+}

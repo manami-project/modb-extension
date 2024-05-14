@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/882",
+    "https://anilist.co/anime/4200",
+    "https://anime-planet.com/anime/dirty-pair-ova",
+    "https://anisearch.com/anime/2512",
+    "https://kitsu.io/anime/3520",
+    "https://livechart.me/anime/6613",
+    "https://myanimelist.net/anime/4200",
+    "https://notify.moe/anime/aEhXcKmmg"
+  ],
+  "synopsis": {
+    "text": "Association(3WA), Kei and Yuri, known as the Lovely Angels or notoriously as the Dirty Pair, are the organization's go-to Trouble Consultants. Despite their knack for solving cases, their chaotic methods often result in unintended destruction, much to the dismay of Chief Gooley and those they assist. From infiltrating a prisoner-controlled waste star facility to retrieve a warden, to hunting down a rogue robot weapon on Halloween night amidst citywide chaos, the Dirty Pair's unconventional approaches always lead to thrilling and unpredictable outcomes. Even on a seemingly peaceful agricultural planet, the duo finds themselves investigating a newly ordained deity with a deadly secret. As the Dirty Pair, Kei and Yuri continue to leave their mark on the galaxy, one explosive case at a time.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2767b106b49b7fdc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.784078982242248,
+    "arithmeticGeometricMean": 6.757468900804475,
+    "median": 7.12,
+    "hash": "2767b106b49b7fdc",
+    "lastUpdate": "2024-05-09"
+  }
+}

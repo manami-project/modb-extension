@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15287",
+    "https://anilist.co/anime/113596",
+    "https://anime-planet.com/anime/josee-the-tiger-and-the-fish",
+    "https://anisearch.com/anime/14808",
+    "https://kitsu.io/anime/42825",
+    "https://livechart.me/anime/9700",
+    "https://myanimelist.net/anime/40787",
+    "https://notify.moe/anime/E22Ib5XWg"
+  ],
+  "synopsis": {
+    "text": "With aspirations of exploring marine life and studying abroad, university student Tsuneo finds his life taking an unexpected turn when he crosses paths with Josee, a young woman bound to a wheelchair. Initially, Josee's demanding and aloof demeanor makes Tsuneo hesitant, but he eventually agrees to become her caretaker as a means to fund his academic dreams. As they spend more time together, Tsuneo discovers Josee's vibrant imagination and her yearning to experience the world beyond her confined living space. Inspired by her spirit, Tsuneo decides to help Josee navigate the outside world, leading to a heartwarming bond that transcends their initial differences. As they support each other in pursuing their dreams, Tsuneo and Josee embark on a journey of self-discovery, love, and the realization that sometimes, the greatest adventures lie just beyond our comfort zones.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0f9ba4783bcd1bb7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.41388048855906,
+    "arithmeticGeometricMean": 8.412769843555058,
+    "median": 8.395,
+    "hash": "0f9ba4783bcd1bb7",
+    "lastUpdate": "2024-05-09"
+  }
+}

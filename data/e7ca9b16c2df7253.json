@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/130247",
+    "https://kitsu.io/anime/10097",
+    "https://myanimelist.net/anime/28815",
+    "https://notify.moe/anime/UUIstFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e7ca9b16c2df7253",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.676363636363637,
+    "arithmeticGeometricMean": 4.6319618370603495,
+    "median": 4.909090909090909,
+    "hash": "e7ca9b16c2df7253",
+    "lastUpdate": "2024-05-05"
+  }
+}

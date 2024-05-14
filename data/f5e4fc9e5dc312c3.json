@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7373",
+    "https://anilist.co/anime/8078",
+    "https://anime-planet.com/anime/kurenai-ova",
+    "https://anisearch.com/anime/6061",
+    "https://kitsu.io/anime/5188",
+    "https://livechart.me/anime/7742",
+    "https://myanimelist.net/anime/8078",
+    "https://notify.moe/anime/a8QztFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f5e4fc9e5dc312c3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.696536443148688,
+    "arithmeticGeometricMean": 6.6933148907868985,
+    "median": 6.8,
+    "hash": "f5e4fc9e5dc312c3",
+    "lastUpdate": "2024-05-09"
+  }
+}

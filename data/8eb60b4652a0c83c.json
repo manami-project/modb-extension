@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1750",
+    "https://anilist.co/anime/1590",
+    "https://anime-planet.com/anime/legendz-yomigaeru-ryuuou-densetsu",
+    "https://anisearch.com/anime/1395",
+    "https://kitsu.io/anime/1430",
+    "https://livechart.me/anime/9163",
+    "https://myanimelist.net/anime/1590",
+    "https://notify.moe/anime/gnQacKimg"
+  ],
+  "synopsis": {
+    "text": "Shu Matsutani, a young baseball enthusiast, finds his life turned upside down when he discovers that his seemingly useless Talispod toy can summon real-life mythical creatures known as Legendz. The Talispod, gifted to him by his father, becomes the target of the nefarious Dark Wiz Toy Company, which seeks to exploit its unique power.\n\nAs the toy gains popularity and children everywhere engage in virtual Legendz battles, Shu finds himself in possession of a Windragon - a powerful Legendz that descends from the heavens to fight by his side. Pursued by Dark Wiz's relentless minions, Shu must navigate a series of battles to protect his Talispod and prevent the company from misusing the Legendz's power.\n\nJoined by his friends Mac, Meg, and Dino, who also possess their own Legendz, Shu embarks on a thrilling adventure to locate the remaining Soul Dolls - crystals containing the DNA of Legendz. As they strive to keep the Soul Dolls out of Dark Wiz's clutches, they must also prevent an impending war that threatens to destroy civilization. Will Shu and his friends succeed in safeguarding the Legendz and maintaining peace? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8eb60b4652a0c83c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.668994257443237,
+    "arithmeticGeometricMean": 6.648794341735163,
+    "median": 6.818181818181818,
+    "hash": "8eb60b4652a0c83c",
+    "lastUpdate": "2024-05-09"
+  }
+}

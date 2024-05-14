@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139133",
+    "https://anime-planet.com/anime/truth",
+    "https://kitsu.io/anime/45348",
+    "https://myanimelist.net/anime/41448"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75be3cbd336a5abc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.137636363636363,
+    "arithmeticGeometricMean": 5.100734353080152,
+    "median": 5.11,
+    "hash": "75be3cbd336a5abc",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/155496",
+    "https://anime-planet.com/anime/management-of-a-novice-alchemist-mini-anime",
+    "https://anisearch.com/anime/18180",
+    "https://livechart.me/anime/11539",
+    "https://myanimelist.net/anime/53248"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2c329e1550beba52",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.132556586270872,
+    "arithmeticGeometricMean": 6.1273699759622735,
+    "median": 6.0609090909090915,
+    "hash": "2c329e1550beba52",
+    "lastUpdate": "2024-05-10"
+  }
+}

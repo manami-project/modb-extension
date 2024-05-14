@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14294",
+    "https://anime-planet.com/anime/ganbare-kickers-bokutachi-no-densetsu",
+    "https://anisearch.com/anime/13695",
+    "https://myanimelist.net/anime/33499"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8d3fa36cb60875d5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.504336734693878,
+    "arithmeticGeometricMean": 6.498165590358834,
+    "median": 6.468673469387755,
+    "hash": "8d3fa36cb60875d5",
+    "lastUpdate": "2024-05-08"
+  }
+}

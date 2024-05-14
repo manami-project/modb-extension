@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12336",
+    "https://anilist.co/anime/87497",
+    "https://anime-planet.com/anime/mekaku-city-reload",
+    "https://anisearch.com/anime/12497",
+    "https://kitsu.io/anime/12510",
+    "https://livechart.me/anime/2287",
+    "https://notify.moe/anime/fOQz2Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "32db04c00a8c29de",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "32db04c00a8c29de",
+    "lastUpdate": "2024-05-09"
+  }
+}

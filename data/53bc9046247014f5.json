@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13215",
+    "https://anime-planet.com/anime/lalala-lala-chan",
+    "https://anisearch.com/anime/12801",
+    "https://kitsu.io/anime/40967",
+    "https://myanimelist.net/anime/36549",
+    "https://notify.moe/anime/5DQOhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "53bc9046247014f5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.630897959183673,
+    "arithmeticGeometricMean": 5.572327701423948,
+    "median": 5.630897959183673,
+    "hash": "53bc9046247014f5",
+    "lastUpdate": "2024-05-08"
+  }
+}

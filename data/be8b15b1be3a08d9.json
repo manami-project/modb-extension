@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13748",
+    "https://anilist.co/anime/101095",
+    "https://anime-planet.com/anime/chao-you-bing",
+    "https://anisearch.com/anime/13316",
+    "https://kitsu.io/anime/13072",
+    "https://livechart.me/anime/8968",
+    "https://myanimelist.net/anime/33883",
+    "https://notify.moe/anime/g4MM2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "be8b15b1be3a08d9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.7062118561710395,
+    "arithmeticGeometricMean": 5.687713423920102,
+    "median": 5.666666666666667,
+    "hash": "be8b15b1be3a08d9",
+    "lastUpdate": "2024-05-09"
+  }
+}

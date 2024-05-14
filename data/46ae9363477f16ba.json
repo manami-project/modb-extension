@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11410",
+    "https://anilist.co/anime/102652",
+    "https://anime-planet.com/anime/mottainai",
+    "https://anisearch.com/anime/11528",
+    "https://kitsu.io/anime/11173",
+    "https://livechart.me/anime/6433",
+    "https://myanimelist.net/anime/31144",
+    "https://notify.moe/anime/72EupKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46ae9363477f16ba",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.024344023323615,
+    "arithmeticGeometricMean": 6.0119383720234145,
+    "median": 6.2727272727272725,
+    "hash": "46ae9363477f16ba",
+    "lastUpdate": "2024-05-09"
+  }
+}

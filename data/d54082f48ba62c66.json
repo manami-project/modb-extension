@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18568",
+    "https://anilist.co/anime/177468",
+    "https://anilist.co/anime/177496",
+    "https://anime-planet.com/anime/yin-shizong-men-zhang-jiao",
+    "https://anisearch.com/anime/19214",
+    "https://kitsu.io/anime/48809",
+    "https://myanimelist.net/anime/58494",
+    "https://notify.moe/anime/JY8C_X1SR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d54082f48ba62c66",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 1.6363636363636365,
+    "arithmeticGeometricMean": 1.6312935129364383,
+    "median": 1.6363636363636365,
+    "hash": "d54082f48ba62c66",
+    "lastUpdate": "2024-05-13"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/20",
+    "https://anilist.co/anime/175",
+    "https://anime-planet.com/anime/tokyo-underground",
+    "https://anisearch.com/anime/2637",
+    "https://kitsu.io/anime/152",
+    "https://livechart.me/anime/6314",
+    "https://myanimelist.net/anime/175",
+    "https://notify.moe/anime/vgrpcFmiR"
+  ],
+  "score": {
+    "arithmeticMean": 6.749763914656772,
+    "arithmeticGeometricMean": 6.742636253718754,
+    "median": 6.715,
+    "hash": "cd850de292e622ef",
+    "lastUpdate": "2024-05-10"
+  }
+}

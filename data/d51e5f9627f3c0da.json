@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12766",
+    "https://anilist.co/anime/98229",
+    "https://anime-planet.com/anime/future-card-buddyfight-x",
+    "https://anisearch.com/anime/12240",
+    "https://kitsu.io/anime/13314",
+    "https://livechart.me/anime/2530",
+    "https://myanimelist.net/anime/34836",
+    "https://notify.moe/anime/-6N7hKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d51e5f9627f3c0da",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.060750596342433,
+    "arithmeticGeometricMean": 5.992912772842629,
+    "median": 6.636363636363637,
+    "hash": "d51e5f9627f3c0da",
+    "lastUpdate": "2024-05-09"
+  }
+}

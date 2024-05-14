@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5028",
+    "https://anilist.co/anime/103468",
+    "https://anime-planet.com/anime/yamakoshi-mura-no-mari-to-sanbiki-no-koinu",
+    "https://anisearch.com/anime/4133",
+    "https://kitsu.io/anime/11075",
+    "https://myanimelist.net/anime/30985",
+    "https://notify.moe/anime/CTDXtFmmR"
+  ],
+  "synopsis": {
+    "text": "Mari, a beloved dog, had just welcomed her three newborn puppies when disaster struck in the form of a devastating earthquake in Yamakoshimura. The earthquake, based on the real-life 2004 Chuuetsu quake in Niigata prefecture, left their home in ruins and Mari's elderly owner trapped beneath the debris. Displaying remarkable courage, Mari manages to free herself from her chain and stays by her owner's side, offering comfort until help arrives. Although her owner is eventually rescued, he is unable to take Mari and her puppies with him, leaving them behind in the desolate, abandoned village. As they face an uncertain future, Mari and her young family must find a way to survive on their own. Will they be able to overcome the challenges that lie ahead?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb02bdc8a78a4414",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.530727272727273,
+    "arithmeticGeometricMean": 5.513802710525009,
+    "median": 5.0,
+    "hash": "cb02bdc8a78a4414",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140214",
+    "https://anime-planet.com/anime/chiisai-aki-mitsuketa-1982",
+    "https://kitsu.io/anime/40817",
+    "https://myanimelist.net/anime/35671",
+    "https://notify.moe/anime/iC4OhKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8d1459ac43ec0667",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.4511515151515155,
+    "arithmeticGeometricMean": 5.424532702866494,
+    "median": 5.4,
+    "hash": "8d1459ac43ec0667",
+    "lastUpdate": "2024-05-06"
+  }
+}

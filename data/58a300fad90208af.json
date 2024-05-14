@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118042",
+    "https://anime-planet.com/anime/killing-me-killing-you-pvs",
+    "https://kitsu.io/anime/45493",
+    "https://myanimelist.net/anime/52824"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "58a300fad90208af",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.4208181818181815,
+    "arithmeticGeometricMean": 6.420690867771831,
+    "median": 6.4208181818181815,
+    "hash": "58a300fad90208af",
+    "lastUpdate": "2024-05-07"
+  }
+}

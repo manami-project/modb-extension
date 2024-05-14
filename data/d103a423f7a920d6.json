@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4193",
+    "https://anilist.co/anime/1829",
+    "https://anime-planet.com/anime/tales-from-earthsea",
+    "https://anisearch.com/anime/1385",
+    "https://kitsu.io/anime/1646",
+    "https://livechart.me/anime/3090",
+    "https://myanimelist.net/anime/1829",
+    "https://notify.moe/anime/veffcKmig"
+  ],
+  "synopsis": {
+    "text": "Set in the mystical realm of Earthsea, an unsettling darkness is spreading across the once prosperous kingdom. Unusual storms, droughts, and diseases are wreaking havoc on the land, and the people are behaving oddly. Even more peculiar, dragons, long separated from humans due to conflicting beliefs, are now being sighted. In an attempt to unravel these mysterious occurrences, the mighty wizard Ged embarks on a quest. Along the way, he encounters the troubled Crown Prince Arren, who harbors a deep inner turmoil that makes him the target of the power-hungry wizard Cob. Together with Tenar, an old friend of Ged, and Therru, a young girl with a quiet strength, Ged and Arren must stand against Cob's sinister pursuit of eternal life and restore balance to their world. As they navigate through this journey, they will discover that the greatest battles are often fought within.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d103a423f7a920d6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.001355287569573,
+    "arithmeticGeometricMean": 6.999790602278107,
+    "median": 6.99769387755102,
+    "hash": "d103a423f7a920d6",
+    "lastUpdate": "2024-05-09"
+  }
+}

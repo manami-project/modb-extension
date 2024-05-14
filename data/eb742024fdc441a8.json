@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/38",
+    "https://anilist.co/anime/556",
+    "https://anime-planet.com/anime/steel-angel-kurumi-zero",
+    "https://anisearch.com/anime/2793",
+    "https://kitsu.io/anime/513",
+    "https://livechart.me/anime/7269",
+    "https://myanimelist.net/anime/556",
+    "https://notify.moe/anime/0PYTcKiiR"
+  ],
+  "synopsis": {
+    "text": "Kurumi, Saki, Karinka, and Excelia, four young women living in a bleak and hazardous future, spend their days confined to their apartment, shielding themselves from the relentless acid rain and hailstorms that plague their world. One day, their monotonous routine is disrupted when Kurumi, fresh from a school club meeting, reveals her newfound affection for a young man named Michihito Kagura. With her friends eagerly listening, she shares the news, igniting a spark of excitement and curiosity among them. However, the uncertainty of ever encountering Michihito again and the challenges that love brings leave Kurumi grappling with her heart's desires. Will her love for Michihito endure the trials of fate, or will it succumb to the harsh realities of their dystopian world?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb742024fdc441a8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.099994699178373,
+    "arithmeticGeometricMean": 6.06754856593433,
+    "median": 6.090909090909091,
+    "hash": "eb742024fdc441a8",
+    "lastUpdate": "2024-05-09"
+  }
+}

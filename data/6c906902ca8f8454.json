@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126668",
+    "https://anime-planet.com/anime/hachioji-p-electric-love",
+    "https://kitsu.io/anime/43511",
+    "https://myanimelist.net/anime/40556"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6c906902ca8f8454",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.06230303030303,
+    "arithmeticGeometricMean": 6.062277234206328,
+    "median": 6.066,
+    "hash": "6c906902ca8f8454",
+    "lastUpdate": "2024-05-07"
+  }
+}

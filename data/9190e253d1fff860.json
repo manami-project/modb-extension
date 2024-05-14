@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9063",
+    "https://anilist.co/anime/121057",
+    "https://anime-planet.com/anime/the-snow-country-prince",
+    "https://anisearch.com/anime/7718",
+    "https://kitsu.io/anime/9709",
+    "https://myanimelist.net/anime/23345",
+    "https://notify.moe/anime/b7xLpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9190e253d1fff860",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.398084106369821,
+    "arithmeticGeometricMean": 5.366137600385313,
+    "median": 5.148979591836735,
+    "hash": "9190e253d1fff860",
+    "lastUpdate": "2024-05-08"
+  }
+}

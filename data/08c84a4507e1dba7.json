@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9025",
+    "https://anime-planet.com/anime/ninja-hattori-kun-plus-perman-ninja-kaijuu-jippou-tai-miracle-tamago",
+    "https://anisearch.com/anime/7664",
+    "https://kitsu.io/anime/10295",
+    "https://myanimelist.net/anime/29233",
+    "https://notify.moe/anime/lXgUpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "08c84a4507e1dba7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.3603571428571435,
+    "arithmeticGeometricMean": 5.284260433974806,
+    "median": 5.5,
+    "hash": "08c84a4507e1dba7",
+    "lastUpdate": "2024-05-07"
+  }
+}

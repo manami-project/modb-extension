@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16127",
+    "https://anilist.co/anime/129462",
+    "https://anime-planet.com/anime/eve-and-suis-heikousen",
+    "https://anisearch.com/anime/15965",
+    "https://kitsu.io/anime/44036",
+    "https://myanimelist.net/anime/47402"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b820b6c8617713a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.580583797155225,
+    "arithmeticGeometricMean": 7.57778114577399,
+    "median": 7.702272727272728,
+    "hash": "6b820b6c8617713a",
+    "lastUpdate": "2024-05-08"
+  }
+}

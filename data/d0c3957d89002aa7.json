@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8627",
+    "https://anilist.co/anime/105080",
+    "https://anime-planet.com/anime/yokohama-bakkure-tai",
+    "https://anisearch.com/anime/7282",
+    "https://kitsu.io/anime/8923",
+    "https://myanimelist.net/anime/25815",
+    "https://notify.moe/anime/TvJbtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d0c3957d89002aa7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.237878787878787,
+    "arithmeticGeometricMean": 5.206115492245498,
+    "median": 5.0,
+    "hash": "d0c3957d89002aa7",
+    "lastUpdate": "2024-05-08"
+  }
+}

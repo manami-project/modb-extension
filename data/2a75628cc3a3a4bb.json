@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6894",
+    "https://anilist.co/anime/140019",
+    "https://anime-planet.com/anime/fuku-chan-no-sensuikan",
+    "https://anisearch.com/anime/5962",
+    "https://kitsu.io/anime/5013",
+    "https://livechart.me/anime/12157",
+    "https://myanimelist.net/anime/7523",
+    "https://notify.moe/anime/iQkktKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2a75628cc3a3a4bb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.65343104514533,
+    "arithmeticGeometricMean": 4.639445704131192,
+    "median": 4.627272727272727,
+    "hash": "2a75628cc3a3a4bb",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4482",
+    "https://anilist.co/anime/6091",
+    "https://anime-planet.com/anime/shiritsutantei-toki-shouzou-trouble-note-hard-and-loose",
+    "https://anisearch.com/anime/3703",
+    "https://kitsu.io/anime/4421",
+    "https://myanimelist.net/anime/6091",
+    "https://notify.moe/anime/xiJq5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "68808f542b66b797",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.254011750154607,
+    "arithmeticGeometricMean": 5.242734703994409,
+    "median": 4.974489795918367,
+    "hash": "68808f542b66b797",
+    "lastUpdate": "2024-05-08"
+  }
+}

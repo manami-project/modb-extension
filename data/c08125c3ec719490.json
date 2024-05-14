@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12438",
+    "https://anilist.co/anime/103430",
+    "https://anime-planet.com/anime/recorder",
+    "https://kitsu.io/anime/10358",
+    "https://myanimelist.net/anime/29771",
+    "https://notify.moe/anime/xJD8pKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c08125c3ec719490",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.303999999999999,
+    "arithmeticGeometricMean": 5.289386549199066,
+    "median": 5.252,
+    "hash": "c08125c3ec719490",
+    "lastUpdate": "2024-05-07"
+  }
+}

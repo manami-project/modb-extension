@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14833",
+    "https://anime-planet.com/anime/bai-ge-dao",
+    "https://myanimelist.net/anime/43875"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e8adcd41e977aac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "0e8adcd41e977aac",
+    "lastUpdate": "2024-05-11"
+  }
+}

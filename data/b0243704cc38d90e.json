@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10137",
+    "https://anime-planet.com/anime/ikite-iru",
+    "https://anisearch.com/anime/9135",
+    "https://kitsu.io/anime/10188",
+    "https://myanimelist.net/anime/28487",
+    "https://notify.moe/anime/zlaytFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b0243704cc38d90e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.974489795918367,
+    "arithmeticGeometricMean": 4.974457090259733,
+    "median": 4.974489795918367,
+    "hash": "b0243704cc38d90e",
+    "lastUpdate": "2024-05-08"
+  }
+}

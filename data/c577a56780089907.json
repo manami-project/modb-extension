@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2201",
+    "https://anilist.co/anime/3905",
+    "https://anime-planet.com/anime/wanpaku-ouji-no-orochi-taiji",
+    "https://anisearch.com/anime/2966",
+    "https://kitsu.io/anime/3336",
+    "https://livechart.me/anime/9046",
+    "https://myanimelist.net/anime/3905",
+    "https://notify.moe/anime/Lh_l5KiiR"
+  ],
+  "synopsis": {
+    "text": "Orochi, an eight-headed dragon, stands in the path of Susanoo, a young god with the heart of a warrior and the face of a child, as he embarks on a daring quest to find his departed mother, Izanami. With his loyal companions, the chatty rabbit Akahana and the gentle giant Taitanbo from the Land of Fire, Susanoo traverses vast oceans and treacherous landscapes, undeterred by the challenges that lie ahead. Along the way, Susanoo befriends the enchanting Princess Kushinada, whose family has been terrorized by the fearsome Orochi. In a tale of love, loss, and courage, Susanoo and his friends prepare for an epic battle against the monstrous serpent to protect Kushinada and her family, and to honor the memory of Susanoo's beloved mother. As the youngest child of the creation gods Izanagi and Izanami, Susanoo's journey takes him to the ends of the earth and beyond, proving that even the smallest of heroes can achieve greatness in the face of adversity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c577a56780089907",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.160093824542804,
+    "arithmeticGeometricMean": 6.137996860122261,
+    "median": 6.454545454545455,
+    "hash": "c577a56780089907",
+    "lastUpdate": "2024-05-10"
+  }
+}

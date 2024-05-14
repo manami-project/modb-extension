@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4659",
+    "https://anilist.co/anime/8503",
+    "https://anime-planet.com/anime/fushigi-mahou-fun-fun-pharmacy",
+    "https://anisearch.com/anime/3778",
+    "https://kitsu.io/anime/5364",
+    "https://livechart.me/anime/6796",
+    "https://myanimelist.net/anime/8503",
+    "https://notify.moe/anime/nIJipFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d77a6a960fa0176",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.818699531760757,
+    "arithmeticGeometricMean": 6.807586418305389,
+    "median": 6.89,
+    "hash": "4d77a6a960fa0176",
+    "lastUpdate": "2024-05-09"
+  }
+}

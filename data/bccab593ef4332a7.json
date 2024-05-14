@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16880",
+    "https://anilist.co/anime/120522",
+    "https://anime-planet.com/anime/mengyou-dunhuang",
+    "https://anisearch.com/anime/16933",
+    "https://kitsu.io/anime/43291",
+    "https://myanimelist.net/anime/42332",
+    "https://notify.moe/anime/wNj7cSGGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bccab593ef4332a7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.545454545454545,
+    "arithmeticGeometricMean": 4.545454545454545,
+    "median": 4.545454545454545,
+    "hash": "bccab593ef4332a7",
+    "lastUpdate": "2024-05-08"
+  }
+}

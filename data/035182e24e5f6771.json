@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5894",
+    "https://anilist.co/anime/4646",
+    "https://anime-planet.com/anime/cobra-the-animation-the-psychogun",
+    "https://anisearch.com/anime/4920",
+    "https://kitsu.io/anime/3722",
+    "https://livechart.me/anime/9062",
+    "https://myanimelist.net/anime/4646",
+    "https://notify.moe/anime/KUir5FmmR"
+  ],
+  "synopsis": {
+    "text": "Utopia More, an archaeologist, stumbles upon an ancient artifact that holds the key to the universe's deepest secrets, making her the relentless target of the nefarious Pirate Guild led by Gypsy Doc. In her hour of need, the legendary space pirate, Cobra, steps in to save her. With his powerful Psychogun, Cobra becomes an indomitable ally in Utopia's quest to protect the artifact from falling into the wrong hands. As they navigate through a perilous journey filled with interstellar threats, Cobra must confront his arch-nemesis, Crystal Boy, and thwart Gypsy Doc's sinister plans to rule the universe using the artifact's hidden power. In this thrilling adventure, Cobra's exploits transcend from mere heists to saving the universe, making every encounter a test of his courage and wit.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "035182e24e5f6771",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.603885502252849,
+    "arithmeticGeometricMean": 6.590486400615938,
+    "median": 6.818181818181818,
+    "hash": "035182e24e5f6771",
+    "lastUpdate": "2024-05-09"
+  }
+}

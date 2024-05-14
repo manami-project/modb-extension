@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3395",
+    "https://anilist.co/anime/889",
+    "https://anime-planet.com/anime/black-lagoon",
+    "https://anisearch.com/anime/3462",
+    "https://kitsu.io/anime/789",
+    "https://livechart.me/anime/3612",
+    "https://myanimelist.net/anime/889",
+    "https://notify.moe/anime/jxq05Kmmg"
+  ],
+  "synopsis": {
+    "text": "Southeast Asia was supposed to be a mundane business trip for Rokuro Okajima, a typical Japanese salaryman. Carrying a secret disc for his company, his journey takes a dramatic turn when his ship is ambushed by a ruthless band of pirates known as the Black Lagoon. Held captive, Rokuro discovers his employers have abandoned him, prioritizing the disc's safety over his own life. Faced with a life-altering decision, Rokuro abandons his old identity and joins the ranks of the mercenaries who kidnapped him. Now, as a member of the Black Lagoon, Rokuro, now known as \"Rock,\" must navigate the treacherous underworld of Roanapur, a crime-infested city where corruption is rife and danger lurks around every corner. With his new crew, including the volatile and gun-slinging Revy, Rock must adapt to his new life, balancing his past values with the harsh realities of his new profession. Join Rock on his thrilling journey through the dark corners of the South China Sea, where survival is a constant struggle and every decision could be his last.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "10de89158e2ee193",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.130693497317626,
+    "arithmeticGeometricMean": 8.130097998505256,
+    "median": 8.139,
+    "hash": "10de89158e2ee193",
+    "lastUpdate": "2024-05-09"
+  }
+}

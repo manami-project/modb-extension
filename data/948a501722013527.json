@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7735",
+    "https://anilist.co/anime/11787",
+    "https://anime-planet.com/anime/toriko-barbarian-ivy-wo-hokaku-seyo",
+    "https://anisearch.com/anime/6806",
+    "https://kitsu.io/anime/6600",
+    "https://livechart.me/anime/6907",
+    "https://myanimelist.net/anime/11787",
+    "https://notify.moe/anime/l8CStKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "948a501722013527",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.683199045852107,
+    "arithmeticGeometricMean": 6.677599262661176,
+    "median": 6.63,
+    "hash": "948a501722013527",
+    "lastUpdate": "2024-05-10"
+  }
+}

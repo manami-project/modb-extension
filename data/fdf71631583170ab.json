@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1153",
+    "https://anilist.co/anime/731",
+    "https://anime-planet.com/anime/interstella-5555-the-5tory-of-the-5ecret-5tar-5ystem",
+    "https://anisearch.com/anime/2823",
+    "https://kitsu.io/anime/658",
+    "https://livechart.me/anime/6379",
+    "https://myanimelist.net/anime/731",
+    "https://notify.moe/anime/rYd0cKiiR"
+  ],
+  "synopsis": {
+    "text": "After receiving a distress signal from a distant galaxy, a brave space pilot embarks on a mission to rescue an extraterrestrial band of musicians who have been kidnapped by a malevolent manager and brought to Earth. The story unfolds through the music of Daft Punk's album \"Discovery,\" as the band, known as The Crescendolls, are brainwashed and transformed into a prefabricated pop group, topping the charts on Earth. With the help of their biggest fan, Seph, who has fallen in love with the bass player Stella, the band must rediscover themselves and their music in order to escape the clutches of their evil captor and return home. This silent film, overseen by Japanese animation legend Matsumoto Leiji and scored by Daft Punk's Guy-Manuel de Homem Christo and Thomas Bangalter, is a visual realization of the album and a thrilling intergalactic adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fdf71631583170ab",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.914920369699986,
+    "arithmeticGeometricMean": 7.9119593372171995,
+    "median": 7.983545454545454,
+    "hash": "fdf71631583170ab",
+    "lastUpdate": "2024-05-09"
+  }
+}

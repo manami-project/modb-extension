@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18559",
+    "https://anilist.co/anime/176298",
+    "https://anime-planet.com/anime/tales-of-wedding-rings-2",
+    "https://anisearch.com/anime/19133",
+    "https://kitsu.io/anime/48648",
+    "https://livechart.me/anime/12607",
+    "https://myanimelist.net/anime/58515",
+    "https://notify.moe/anime/v5ST9_JIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "758edfa56bd1ee79",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "758edfa56bd1ee79",
+    "lastUpdate": "2024-05-11"
+  }
+}

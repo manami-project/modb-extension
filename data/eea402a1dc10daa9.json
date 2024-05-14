@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2494",
+    "https://anilist.co/anime/3190",
+    "https://anime-planet.com/anime/guitar-wo-motta-shounen-kikaider-vs-inazuman",
+    "https://anisearch.com/anime/2228",
+    "https://kitsu.io/anime/2847",
+    "https://myanimelist.net/anime/3190",
+    "https://notify.moe/anime/LDMQcKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eea402a1dc10daa9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.230053538298436,
+    "arithmeticGeometricMean": 6.217703410729607,
+    "median": 6.36,
+    "hash": "eea402a1dc10daa9",
+    "lastUpdate": "2024-05-07"
+  }
+}

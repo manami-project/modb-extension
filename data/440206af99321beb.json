@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2866",
+    "https://anilist.co/anime/5023",
+    "https://anime-planet.com/anime/ninpuu-kamui-gaiden",
+    "https://anisearch.com/anime/2343",
+    "https://kitsu.io/anime/3888",
+    "https://livechart.me/anime/11674",
+    "https://myanimelist.net/anime/5023",
+    "https://notify.moe/anime/UgY95Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "440206af99321beb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.917658008658009,
+    "arithmeticGeometricMean": 5.8731130181848625,
+    "median": 6.109545454545454,
+    "hash": "440206af99321beb",
+    "lastUpdate": "2024-05-09"
+  }
+}

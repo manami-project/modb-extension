@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5432",
+    "https://anilist.co/anime/2673",
+    "https://anime-planet.com/anime/doraemon-movie-27-nobita-no-shin-makai-daibouken-shichinin-no-mahou-tsukai",
+    "https://anisearch.com/anime/4468",
+    "https://kitsu.io/anime/2436",
+    "https://livechart.me/anime/8170",
+    "https://myanimelist.net/anime/2673",
+    "https://notify.moe/anime/X-By5KmmR"
+  ],
+  "synopsis": {
+    "text": "Demon magic replaces science and technology in a world where Nobita, a boy struggling with everyday life, wishes for magic to solve his problems. With the help of Doraemon, a magical cat-like creature, Nobita's wish comes true, but he quickly realizes that he is not skilled in casting spells. When the group discovers that a dangerous planet of demons is approaching Earth, they must find a way to return to their original world and stop the impending threat. However, Nobita's mother has thrown away the Moshimo-box, the only tool that can undo his wish.\n\nThe group meets Professor Mangetsu, a scholar of magic and magical beings, and his daughter Miyoko, who warn them of the approaching \"star of the Underworld.\" The group's attempts to pierce the heart of the Underworld King with a silver dart fail, and Miyoko is captured. Using the Time Machine and Dorami's Moshimo-box, the group restores the Earth, but the events in the Underworld continue in a parallel universe. The group must once again travel to the Underworld and defeat its tyrannical ruler to save Miyoko and prevent the complete annihilation of Earth.\n\nCan Nobita and his friends overcome their magical shortcomings and defeat the Demon King to save the world? Join them on their thrilling adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b659e589467ae2e7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.372757730364873,
+    "arithmeticGeometricMean": 7.359480867767313,
+    "median": 7.592727272727273,
+    "hash": "b659e589467ae2e7",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6848",
+    "https://anime-planet.com/anime/tanukichi-no-ohanashi",
+    "https://anisearch.com/anime/11931",
+    "https://kitsu.io/anime/40769",
+    "https://myanimelist.net/anime/35490",
+    "https://notify.moe/anime/pmkdhFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "86599b3ecadce9e9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.571428571428571,
+    "arithmeticGeometricMean": 3.571428571428571,
+    "median": 3.571428571428571,
+    "hash": "86599b3ecadce9e9",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14958",
+    "https://anilist.co/anime/109342",
+    "https://anime-planet.com/anime/mei-chuxi-de-yinyang-shi-yijia",
+    "https://kitsu.io/anime/43177",
+    "https://myanimelist.net/anime/39678",
+    "https://notify.moe/anime/MQ5qVKiMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1a79856ddabb8a85",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.058454545454546,
+    "arithmeticGeometricMean": 6.048174973052376,
+    "median": 6.175909090909091,
+    "hash": "1a79856ddabb8a85",
+    "lastUpdate": "2024-05-08"
+  }
+}

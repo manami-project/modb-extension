@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/607",
+    "https://anilist.co/anime/1164",
+    "https://anime-planet.com/anime/rune-soldier",
+    "https://anisearch.com/anime/2174",
+    "https://kitsu.io/anime/1045",
+    "https://livechart.me/anime/7161",
+    "https://myanimelist.net/anime/1164",
+    "https://notify.moe/anime/2rMxcKmmg"
+  ],
+  "synopsis": {
+    "text": "With muscular build and a heart full of dreams, Louie, an apprentice magician at the Ohfun Guild, finds himself on an unexpected adventure when he crosses paths with three formidable female adventurers. Melissa, a devoted priestess of the war god, Genie, a hardened warrior, and Merrill, a cunning thief, are in search of a magician to join their party. Despite Louie's lackluster magical skills and his initial rejection, a divine revelation from Melissa's god leads the trio to reluctantly accept Louie as their companion.\n\nAs the unlikely quartet embarks on thrilling escapades, they delve into ancient ruins, engage in intense battles with dark creatures, and forge new friendships. However, their journey is not all fun and games as they stumble upon a nefarious plot brewing within the kingdom. Can Louie rise above his mediocre magical abilities and become the hero that Melissa's god has foretold, or will the sinister forces prevail? Join Louie and his adventurous companions as they navigate through a world filled with danger, mystery, and unexpected twists.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b94ddac6d4fc8aac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.003524516300026,
+    "arithmeticGeometricMean": 6.998223557820554,
+    "median": 7.182,
+    "hash": "b94ddac6d4fc8aac",
+    "lastUpdate": "2024-05-09"
+  }
+}

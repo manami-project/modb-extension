@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/123",
+    "https://anilist.co/anime/866",
+    "https://anime-planet.com/anime/slayers-premium",
+    "https://anisearch.com/anime/1200",
+    "https://kitsu.io/anime/767",
+    "https://livechart.me/anime/5717",
+    "https://myanimelist.net/anime/866",
+    "https://notify.moe/anime/qelAcFmig"
+  ],
+  "score": {
+    "arithmeticMean": 7.133181553140736,
+    "arithmeticGeometricMean": 7.131535977054476,
+    "median": 7.13,
+    "hash": "45c3ea1c55925333",
+    "lastUpdate": "2024-05-10"
+  }
+}

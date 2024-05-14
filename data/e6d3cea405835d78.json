@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1216",
+    "https://anime-planet.com/anime/mobile-suit-sd-gundam-no-gyakushuu-sd-sengokuden-abaowakuujou-no-shou",
+    "https://anisearch.com/anime/11603"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e6d3cea405835d78",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.353931972789115,
+    "arithmeticGeometricMean": 5.329136643306316,
+    "median": 5.3,
+    "hash": "e6d3cea405835d78",
+    "lastUpdate": "2024-05-08"
+  }
+}

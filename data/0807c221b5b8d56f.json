@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6522",
+    "https://anilist.co/anime/19873",
+    "https://anime-planet.com/anime/marude-dameo",
+    "https://anisearch.com/anime/4426",
+    "https://kitsu.io/anime/9436",
+    "https://myanimelist.net/anime/19873",
+    "https://notify.moe/anime/voAftKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0807c221b5b8d56f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.2555426716141,
+    "arithmeticGeometricMean": 6.21982938934421,
+    "median": 6.388636363636364,
+    "hash": "0807c221b5b8d56f",
+    "lastUpdate": "2024-05-08"
+  }
+}

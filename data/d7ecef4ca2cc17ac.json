@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11247",
+    "https://anilist.co/anime/21191",
+    "https://anime-planet.com/anime/fairy-tail-movie-2-dragon-cry",
+    "https://anisearch.com/anime/10618",
+    "https://kitsu.io/anime/10922",
+    "https://livechart.me/anime/1595",
+    "https://myanimelist.net/anime/30778",
+    "https://notify.moe/anime/8IL_pFiiR"
+  ],
+  "synopsis": {
+    "text": "Dragon Cry, a magical staff imbued with the raw emotions of ancient dragons, is said to wield enough power to obliterate the world. Safeguarded in the Kingdom of Fiore for years, the artifact is stolen by Zash, a traitor who delivers it to Animus, the king of the Kingdom of Stella. To prevent catastrophe, the King of Fiore dispatches Fairy Tail's elite mages: Natsu, Lucy, Happy, Gray, Erza, Wendy, and Carla. Their mission: infiltrate the Stella Kingdom and reclaim the staff. As they navigate a web of secrets and hidden agendas, the team encounters Sonya, Animus' enigmatic aide. The fate of both kingdoms hangs in the balance as Fairy Tail confronts the true power of Dragon Cry and the unexpected challenges that lie ahead. In the heat of battle, Natsu's dormant instincts stir, hinting at untapped potential that could change everything.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7ecef4ca2cc17ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.710214247696098,
+    "arithmeticGeometricMean": 7.703418638571931,
+    "median": 7.6345081967213115,
+    "hash": "d7ecef4ca2cc17ac",
+    "lastUpdate": "2024-05-09"
+  }
+}

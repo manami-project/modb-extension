@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15707",
+    "https://anilist.co/anime/125208",
+    "https://anime-planet.com/anime/tales-of-crestoria-the-wake-of-sin",
+    "https://anisearch.com/anime/15514",
+    "https://kitsu.io/anime/43676",
+    "https://livechart.me/anime/10141",
+    "https://myanimelist.net/anime/42832",
+    "https://notify.moe/anime/vioUfu2Mg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "53d0353395d0c7cb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.617514687693259,
+    "arithmeticGeometricMean": 6.606850965309569,
+    "median": 6.5627272727272725,
+    "hash": "53d0353395d0c7cb",
+    "lastUpdate": "2024-05-10"
+  }
+}

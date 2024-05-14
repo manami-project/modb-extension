@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2577",
+    "https://anilist.co/anime/2310",
+    "https://anime-planet.com/anime/super-mobile-legend-dinagiga",
+    "https://anisearch.com/anime/2723",
+    "https://kitsu.io/anime/2092",
+    "https://livechart.me/anime/6542",
+    "https://myanimelist.net/anime/2310",
+    "https://notify.moe/anime/2pTP5KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "16983b167d14cd52",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.061959537061577,
+    "arithmeticGeometricMean": 5.048267701437227,
+    "median": 4.909090909090909,
+    "hash": "16983b167d14cd52",
+    "lastUpdate": "2024-05-09"
+  }
+}

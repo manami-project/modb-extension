@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15220",
+    "https://anilist.co/anime/129223",
+    "https://anime-planet.com/anime/hua-jianghu-zhi-xia-lan",
+    "https://anisearch.com/anime/13952",
+    "https://kitsu.io/anime/43754",
+    "https://myanimelist.net/anime/43772",
+    "https://notify.moe/anime/PENdA2jMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2bddb8935abc5677",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.483636363636364,
+    "arithmeticGeometricMean": 6.461483004886413,
+    "median": 6.483636363636364,
+    "hash": "2bddb8935abc5677",
+    "lastUpdate": "2024-05-07"
+  }
+}

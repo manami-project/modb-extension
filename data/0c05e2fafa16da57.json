@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/mayi",
+    "https://kitsu.io/anime/47805",
+    "https://myanimelist.net/anime/44670"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0c05e2fafa16da57",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.124,
+    "arithmeticGeometricMean": 7.124,
+    "median": 7.124,
+    "hash": "0c05e2fafa16da57",
+    "lastUpdate": "2024-05-07"
+  }
+}

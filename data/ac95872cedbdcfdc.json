@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/141528",
+    "https://anime-planet.com/anime/verse-n-episode-n-kuusou",
+    "https://anisearch.com/anime/18955",
+    "https://kitsu.io/anime/45881",
+    "https://myanimelist.net/anime/50383"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ac95872cedbdcfdc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.147361781076066,
+    "arithmeticGeometricMean": 7.131862774422128,
+    "median": 7.043090909090909,
+    "hash": "ac95872cedbdcfdc",
+    "lastUpdate": "2024-05-06"
+  }
+}

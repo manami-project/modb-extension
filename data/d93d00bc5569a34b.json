@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15",
+    "https://anilist.co/anime/144",
+    "https://anime-planet.com/anime/kanon",
+    "https://anisearch.com/anime/1478",
+    "https://kitsu.io/anime/7659",
+    "https://livechart.me/anime/4655",
+    "https://myanimelist.net/anime/144",
+    "https://notify.moe/anime/HEE5pFmmg"
+  ],
+  "synopsis": {
+    "text": "For Yuuichi Aizawa, moving back to his aunt's northern town after seven years brings a mix of unfamiliarity and nostalgia. Due to his parents' career pursuits in Africa, Yuuichi finds himself in a town where his memories have mysteriously faded, leaving even his cousin Nayuki feeling like a stranger. As he settles into his new home, an old red headband sparks a journey of rediscovery, leading him through snow-covered streets and into the lives of several young women who share a connection with his forgotten past. As fragments of his memories resurface, Yuuichi uncovers buried secrets, broken promises, and a hint of the supernatural that weaves a complex web around his past and present. Prepare for a heartwarming tale filled with emotions, mystery, and the supernatural as Yuuichi reconnects with the people who once held a special place in his life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d93d00bc5569a34b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.080169516818585,
+    "arithmeticGeometricMean": 7.0777837687530285,
+    "median": 7.077999999999999,
+    "hash": "d93d00bc5569a34b",
+    "lastUpdate": "2024-05-09"
+  }
+}

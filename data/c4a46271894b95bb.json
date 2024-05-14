@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17926",
+    "https://anilist.co/anime/162985",
+    "https://anime-planet.com/anime/metallic-rouge",
+    "https://anisearch.com/anime/18290",
+    "https://kitsu.io/anime/47228",
+    "https://livechart.me/anime/11890",
+    "https://myanimelist.net/anime/54794",
+    "https://notify.moe/anime/G1CjGdB4g"
+  ],
+  "synopsis": {
+    "text": "Having established a new order with extraterrestrial beings, humanity now shares its existence with androids known as Neans. After a grueling war against hostile aliens, Mars transformed into a human sanctuary, where Neans once served as powerful combat allies. Now, they are treated as secondary citizens, subjected to discrimination, and reliant on their human masters for a life-sustaining substance called Nectar. Among these Neans, a unique class called Proto-Neans possesses extraordinary abilities, enabling them to summon metallic exoskeletons.\n\nRouge Redstar, a Proto-Nean, teams up with her human partner Naomi Orthmann, working under the government organization Aletheia to maintain Nean regulations. Their mission: to eliminate the Immortal Nine, a group of rogue Proto-Neans posing a mysterious threat to mankind. As Rouge and Naomi embark on their perilous journey, they uncover hidden truths about the rebellious androids and the very organization they serve. Meanwhile, an investigator sets his sights on Mars, suspecting Rouge of a series of murders.\n\nIn this futuristic world, can Rouge and Naomi unravel the enigma surrounding the Immortal Nine and restore balance between humans and Neans? Or will the complex web of secrets and allegiances prove too challenging for our heroes? Join Rouge on her quest for answers and, perhaps, a taste of chocolate along the way.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c4a46271894b95bb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.532760667903526,
+    "arithmeticGeometricMean": 6.518875155220404,
+    "median": 6.5218181818181815,
+    "hash": "c4a46271894b95bb",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12629",
+    "https://anilist.co/anime/8681",
+    "https://anime-planet.com/anime/kitakaze-kozou-no-kantarou",
+    "https://anisearch.com/anime/6778",
+    "https://kitsu.io/anime/5440",
+    "https://myanimelist.net/anime/8681",
+    "https://notify.moe/anime/2hXipKmmR"
+  ],
+  "synopsis": {
+    "text": "Children's choirs and renowned singers lend their voices to two distinct versions of a captivating music video, \"Kitakaze Kozou no Kantarou.\" The original 1974 rendition features the harmonious blend of Maasaki Sakai and the NHK Tokyo Children's Choir, while the 1981 adaptation showcases the talents of Saburou Kitajima and the Hibari Children Chorus. Both iterations utilize the same animated footage, with the singers being the sole differentiating factor. This enchanting melody graced the airwaves of NHK's Minna no Uta Program, inviting audiences to delight in a timeless musical experience.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f7bc909281b42e00",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.056615955473099,
+    "arithmeticGeometricMean": 5.035346783632749,
+    "median": 5.0,
+    "hash": "f7bc909281b42e00",
+    "lastUpdate": "2024-05-08"
+  }
+}

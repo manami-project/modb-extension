@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139880",
+    "https://anime-planet.com/anime/koko-yakou-wo-yobu",
+    "https://kitsu.io/anime/45880",
+    "https://myanimelist.net/anime/49994"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "54054378f89a19b3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.5571515151515145,
+    "arithmeticGeometricMean": 6.550715309830764,
+    "median": 6.545454545454545,
+    "hash": "54054378f89a19b3",
+    "lastUpdate": "2024-05-07"
+  }
+}

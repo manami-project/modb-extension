@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10311",
+    "https://anilist.co/anime/115198",
+    "https://anime-planet.com/anime/pic-lele",
+    "https://anisearch.com/anime/9385",
+    "https://kitsu.io/anime/9923",
+    "https://myanimelist.net/anime/21981",
+    "https://notify.moe/anime/feOEtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4405e8ff2952f793",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.454545454545455,
+    "arithmeticGeometricMean": 4.437768977368081,
+    "median": 4.454545454545455,
+    "hash": "4405e8ff2952f793",
+    "lastUpdate": "2024-05-08"
+  }
+}

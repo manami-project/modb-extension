@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103723",
+    "https://anime-planet.com/anime/the-configurators-2",
+    "https://anisearch.com/anime/12060",
+    "https://kitsu.io/anime/12805",
+    "https://myanimelist.net/anime/33792",
+    "https://notify.moe/anime/OYZW2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a0d483dc7468601f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "a0d483dc7468601f",
+    "lastUpdate": "2024-05-06"
+  }
+}

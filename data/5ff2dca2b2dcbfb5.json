@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1788",
+    "https://anilist.co/anime/3571",
+    "https://anime-planet.com/anime/speed-racer-x",
+    "https://anisearch.com/anime/3072",
+    "https://kitsu.io/anime/3112",
+    "https://livechart.me/anime/8983",
+    "https://myanimelist.net/anime/3571",
+    "https://notify.moe/anime/Wmgl5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ff2dca2b2dcbfb5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.3210813676119795,
+    "arithmeticGeometricMean": 6.31181288049399,
+    "median": 6.2727272727272725,
+    "hash": "5ff2dca2b2dcbfb5",
+    "lastUpdate": "2024-05-09"
+  }
+}

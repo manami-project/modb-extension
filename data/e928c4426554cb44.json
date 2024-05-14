@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17437",
+    "https://anilist.co/anime/129652",
+    "https://anime-planet.com/anime/xiong-bing-lian-3",
+    "https://anime-planet.com/anime/xiong-bing-lian-3-leiting-wan-jun",
+    "https://anisearch.com/anime/17400",
+    "https://kitsu.io/anime/45915",
+    "https://myanimelist.net/anime/52019"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e928c4426554cb44",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.454545454545455,
+    "arithmeticGeometricMean": 6.454545454545455,
+    "median": 6.454545454545455,
+    "hash": "e928c4426554cb44",
+    "lastUpdate": "2024-05-08"
+  }
+}

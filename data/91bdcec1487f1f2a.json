@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16041",
+    "https://anilist.co/anime/120213",
+    "https://anime-planet.com/anime/thousand-autumns",
+    "https://anisearch.com/anime/16071",
+    "https://kitsu.io/anime/44075",
+    "https://kitsu.io/anime/44194",
+    "https://livechart.me/anime/10408",
+    "https://myanimelist.net/anime/44196",
+    "https://notify.moe/anime/OnvGGVxMR"
+  ],
+  "synopsis": {
+    "text": "Even after a crushing defeat at the hands of the Beimu Clan's leader, the virtuous Shen Qiao, a revered disciple of Mount Xuandu, clings to life following a catastrophic fall off a cliff. As fate would have it, the cold-hearted and cunning Yan Wushi, leader of the Cleansing Moon Sect, discovers the gravely injured Shen Qiao. Seizing the opportunity, Yan Wushi hatches a devious plot to mold the compassionate disciple into a formidable adversary, bent on proving that goodness stands no chance in their harsh world.\n\nAs Shen Qiao navigates a treacherous landscape of betrayal and deceit, his unwavering faith in humanity's inherent kindness is put to the ultimate test. With each new hardship, he is forced to confront the possibility that the vindictive Yan Wushi may be right about the nature of their world. Can Shen Qiao remain steadfast in his convictions and prove that goodness can still prevail, or will he succumb to the manipulative schemes of his newfound rival? Only time will tell who will emerge victorious in this battle of ideals.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "91bdcec1487f1f2a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.865974644403217,
+    "arithmeticGeometricMean": 7.859000516621146,
+    "median": 7.945454545454545,
+    "hash": "91bdcec1487f1f2a",
+    "lastUpdate": "2024-05-09"
+  }
+}

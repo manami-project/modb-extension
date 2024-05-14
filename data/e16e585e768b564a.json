@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/154164",
+    "https://anime-planet.com/anime/violet-evergarden-pv",
+    "https://kitsu.io/anime/43347",
+    "https://myanimelist.net/anime/42166"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e16e585e768b564a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.041090909090908,
+    "arithmeticGeometricMean": 8.039905062392167,
+    "median": 8.005454545454544,
+    "hash": "e16e585e768b564a",
+    "lastUpdate": "2024-05-07"
+  }
+}

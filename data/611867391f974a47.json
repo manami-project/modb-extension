@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6804",
+    "https://anilist.co/anime/6555",
+    "https://anime-planet.com/anime/pokemon-pikachus-great-sparking-search",
+    "https://anisearch.com/anime/5533",
+    "https://kitsu.io/anime/4608",
+    "https://livechart.me/anime/6620",
+    "https://myanimelist.net/anime/6555",
+    "https://notify.moe/anime/GiKecKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "611867391f974a47",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.982797243572754,
+    "arithmeticGeometricMean": 5.970977320364457,
+    "median": 6.2,
+    "hash": "611867391f974a47",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16980",
+    "https://anilist.co/anime/141775",
+    "https://anime-planet.com/anime/shoot-goal-to-the-future",
+    "https://anisearch.com/anime/16796",
+    "https://kitsu.io/anime/45514",
+    "https://livechart.me/anime/10888",
+    "https://myanimelist.net/anime/50379",
+    "https://notify.moe/anime/HHGkMIpng"
+  ],
+  "synopsis": {
+    "text": "Atsushi Kamiya, a celebrated figure in the world of soccer, returns to his alma mater, Kakegawa High School, after a successful stint as the captain of a prestigious Italian soccer team. To his dismay, he finds the once formidable soccer team of his high school languishing in mediocrity. But destiny has a twist in store for him in the form of Hideto Tsuji, a seemingly indifferent high school student. As their paths intersect, a new chapter unfolds, promising to restore the lost glory of the soccer club and ignite a spark of greatness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e4e514531a52ae60",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.643644314868804,
+    "arithmeticGeometricMean": 5.594195363066272,
+    "median": 5.66,
+    "hash": "e4e514531a52ae60",
+    "lastUpdate": "2024-05-10"
+  }
+}

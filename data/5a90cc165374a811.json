@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://kitsu.io/anime/10181",
+    "https://myanimelist.net/anime/28911",
+    "https://notify.moe/anime/KS-spKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a90cc165374a811",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.68,
+    "arithmeticGeometricMean": 5.6595560067899235,
+    "median": 5.68,
+    "hash": "5a90cc165374a811",
+    "lastUpdate": "2024-05-07"
+  }
+}

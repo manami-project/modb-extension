@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145285",
+    "https://anime-planet.com/anime/mama-ga-hakuchou-datta-hi",
+    "https://kitsu.io/anime/42676",
+    "https://myanimelist.net/anime/39896"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e657227718b82715",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.8572727272727265,
+    "arithmeticGeometricMean": 5.83984024627091,
+    "median": 5.66,
+    "hash": "e657227718b82715",
+    "lastUpdate": "2024-05-06"
+  }
+}

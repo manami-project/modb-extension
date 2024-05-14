@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/99713",
+    "https://anime-planet.com/anime/afro-samurai-pilot",
+    "https://anisearch.com/anime/7847",
+    "https://kitsu.io/anime/9798",
+    "https://livechart.me/anime/5771",
+    "https://myanimelist.net/anime/27939",
+    "https://notify.moe/anime/HHCYtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0efb5ed426bbda8a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.824803074476543,
+    "arithmeticGeometricMean": 6.820449569937271,
+    "median": 6.7,
+    "hash": "0efb5ed426bbda8a",
+    "lastUpdate": "2024-05-05"
+  }
+}

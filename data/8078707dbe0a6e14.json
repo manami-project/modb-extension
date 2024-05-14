@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3610",
+    "https://anilist.co/anime/17211",
+    "https://anime-planet.com/anime/shouwa-ahozoushi-akanuke-ichiban",
+    "https://anisearch.com/anime/439",
+    "https://kitsu.io/anime/7606",
+    "https://myanimelist.net/anime/17211",
+    "https://notify.moe/anime/BF0cpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8078707dbe0a6e14",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.044777365491652,
+    "arithmeticGeometricMean": 6.016339418083916,
+    "median": 5.9354545454545455,
+    "hash": "8078707dbe0a6e14",
+    "lastUpdate": "2024-05-07"
+  }
+}

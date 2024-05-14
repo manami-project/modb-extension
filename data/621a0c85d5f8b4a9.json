@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/2513",
+    "https://myanimelist.net/anime/4493"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "621a0c85d5f8b4a9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.980102040816327,
+    "arithmeticGeometricMean": 4.910173354126315,
+    "median": 4.980102040816327,
+    "hash": "621a0c85d5f8b4a9",
+    "lastUpdate": "2024-05-07"
+  }
+}

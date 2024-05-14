@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/765",
+    "https://anilist.co/anime/1302",
+    "https://anime-planet.com/anime/adieu-galaxy-express-999",
+    "https://anisearch.com/anime/789",
+    "https://kitsu.io/anime/1174",
+    "https://livechart.me/anime/8394",
+    "https://myanimelist.net/anime/1302",
+    "https://notify.moe/anime/CMsb5FiiR"
+  ],
+  "synopsis": {
+    "text": "Maetel's enigmatic summons brings Tetsuro Hoshino back aboard the legendary Galaxy Express 999, two years after their initial journey. As Earth transforms into a war-torn battleground overrun by the relentless Machine Empire, Tetsuro finds himself joining the resistance to protect humanity. Upon boarding the train, he is greeted by unexplainable mysteries: Maetel is absent, a sinister Ghost Train emerges, and the ultimate destination of the Galaxy Express remains veiled in secrecy.\n\nAs Tetsuro delves deeper into the enigma, he encounters the dark knight Faust and uncovers the machine empire's most guarded secret. The journey promises to reveal the answers to questions left unanswered and disclose mysteries that even Maetel finds difficult to share. As the Galaxy Express 999 ventures into the unknown, Tetsuro's unwavering determination to avenge his mother's death at the hands of Count Mecha fuels his resolve to unravel the hidden truths that lie ahead.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7143ca3f7e419c85",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.037392260800424,
+    "arithmeticGeometricMean": 7.031776803594065,
+    "median": 7.272727272727273,
+    "hash": "7143ca3f7e419c85",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12595",
+    "https://anilist.co/anime/126910",
+    "https://anime-planet.com/anime/gan-gan-ganko-chan",
+    "https://anisearch.com/anime/12100",
+    "https://kitsu.io/anime/12811",
+    "https://livechart.me/anime/2453",
+    "https://myanimelist.net/anime/34488",
+    "https://notify.moe/anime/MTGWhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "27e82a064acecb10",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.069175324675324,
+    "arithmeticGeometricMean": 4.997582580337871,
+    "median": 4.863636363636363,
+    "hash": "27e82a064acecb10",
+    "lastUpdate": "2024-05-09"
+  }
+}

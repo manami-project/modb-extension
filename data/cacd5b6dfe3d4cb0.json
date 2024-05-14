@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16290",
+    "https://anilist.co/anime/126403",
+    "https://anime-planet.com/anime/link-click",
+    "https://anisearch.com/anime/16254",
+    "https://kitsu.io/anime/44503",
+    "https://livechart.me/anime/10563",
+    "https://myanimelist.net/anime/44074",
+    "https://notify.moe/anime/nmnskVxGg"
+  ],
+  "synopsis": {
+    "text": "These two men, Cheng Xiaoshi and Lu Guang, run a unique photography studio called \"Time Photo Studio\" nestled in the heart of a thriving city. With their extraordinary abilities, they can enter the world of photographs, unraveling secrets and fulfilling customer requests. But with each new photo comes unpredictable danger and the risk of altering the future. Despite the chaos that follows them, they remain committed to completing every order, no matter the peril involved. As they navigate through the events captured in the photos, they must put aside their personal feelings and focus on accomplishing the task at hand. With their special powers and unwavering determination, they bring a new meaning to the phrase \"a picture is worth a thousand words.\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cacd5b6dfe3d4cb0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.518460763175048,
+    "arithmeticGeometricMean": 8.5148737370631,
+    "median": 8.660408163265306,
+    "hash": "cacd5b6dfe3d4cb0",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108906",
+    "https://anime-planet.com/anime/the-hiatus-clone",
+    "https://kitsu.io/anime/43473",
+    "https://myanimelist.net/anime/39549"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6efdfea3d22df202",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.7681818181818185,
+    "arithmeticGeometricMean": 5.763461079013093,
+    "median": 5.62,
+    "hash": "6efdfea3d22df202",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103765",
+    "https://anime-planet.com/anime/lite-the-sun-sank",
+    "https://kitsu.io/anime/13803",
+    "https://myanimelist.net/anime/36066",
+    "https://notify.moe/anime/bUOI2Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8596da080c11be48",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.3655,
+    "arithmeticGeometricMean": 5.35645590475378,
+    "median": 5.18,
+    "hash": "8596da080c11be48",
+    "lastUpdate": "2024-05-07"
+  }
+}

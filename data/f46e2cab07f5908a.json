@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13277",
+    "https://anilist.co/anime/121689",
+    "https://anime-planet.com/anime/enoshimans",
+    "https://anisearch.com/anime/12689",
+    "https://kitsu.io/anime/40847",
+    "https://livechart.me/anime/2843",
+    "https://myanimelist.net/anime/35890",
+    "https://notify.moe/anime/EJddhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f46e2cab07f5908a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.5417526283240575,
+    "arithmeticGeometricMean": 5.39960230437712,
+    "median": 6.326530612244898,
+    "hash": "f46e2cab07f5908a",
+    "lastUpdate": "2024-05-09"
+  }
+}

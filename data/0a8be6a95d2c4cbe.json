@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9982",
+    "https://anilist.co/anime/19647",
+    "https://anime-planet.com/anime/hajime-no-ippo-rising",
+    "https://anisearch.com/anime/8832",
+    "https://kitsu.io/anime/7855",
+    "https://livechart.me/anime/144",
+    "https://myanimelist.net/anime/19647",
+    "https://notify.moe/anime/Gz8ppKiig"
+  ],
+  "synopsis": {
+    "text": "Champion!Hajime no Ippo: Rising follows the journey of Makunouchi Ippo, the reigning Japanese Featherweight Champion, as he faces an increasingly formidable pool of contenders. With his signature move, the Dempsey Roll, Ippo has crushed his opponents, but new challengers emerge, each claiming to have a counter for his devastating technique. As Ippo grapples with the true meaning of strength, he must decide if he has what it takes to overcome these new obstacles.\n\nMeanwhile, fellow Kamogawa Gym member Takamura sets his sights on a second WBC title in the middleweight class, and Aoki Masaru vies for the Japanese Lightweight title. As each fighter battles for glory, they reminisce about the days of their mentors, Coach Kamogawa and Nekota, who once fought as prizefighters after World War II. With determination and grit, these boxers put their hearts and bodies on the line in the ruthless world of professional boxing.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0a8be6a95d2c4cbe",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.453368394655582,
+    "arithmeticGeometricMean": 8.452416849748788,
+    "median": 8.472612725190045,
+    "hash": "0a8be6a95d2c4cbe",
+    "lastUpdate": "2024-05-09"
+  }
+}

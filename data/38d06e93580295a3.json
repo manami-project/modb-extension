@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1171",
+    "https://anilist.co/anime/2705",
+    "https://anime-planet.com/anime/bakusou-kyoudai-lets-and-go",
+    "https://anisearch.com/anime/2083",
+    "https://kitsu.io/anime/2467",
+    "https://livechart.me/anime/7563",
+    "https://myanimelist.net/anime/2705",
+    "https://notify.moe/anime/2BUy5Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "38d06e93580295a3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.590012191889743,
+    "arithmeticGeometricMean": 6.5678839526939266,
+    "median": 6.7272727272727275,
+    "hash": "38d06e93580295a3",
+    "lastUpdate": "2024-05-08"
+  }
+}

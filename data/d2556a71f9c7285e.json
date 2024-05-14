@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/138182",
+    "https://anime-planet.com/anime/oretachi-majikou-destroy-music-video",
+    "https://anisearch.com/anime/18405",
+    "https://myanimelist.net/anime/52078"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d2556a71f9c7285e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.834464749536178,
+    "arithmeticGeometricMean": 5.816068226552449,
+    "median": 6.025909090909091,
+    "hash": "d2556a71f9c7285e",
+    "lastUpdate": "2024-05-07"
+  }
+}

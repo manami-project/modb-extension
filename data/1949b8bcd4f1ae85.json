@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/56",
+    "https://anilist.co/anime/22",
+    "https://anime-planet.com/anime/the-prince-of-tennis",
+    "https://anisearch.com/anime/823",
+    "https://kitsu.io/anime/13",
+    "https://livechart.me/anime/4029",
+    "https://myanimelist.net/anime/22",
+    "https://notify.moe/anime/4LWp5FmiR"
+  ],
+  "synopsis": {
+    "text": "Prince of Tennis follows the journey of Ryouma Echizen, a 12-year-old tennis prodigy who has won four consecutive championships in America. Despite his accomplishments, Ryouma is determined to step out of his father's shadow, who was once a legendary tennis player. He enrolls in Seishun Academy, one of the best middle schools in Japan for tennis, with the goal of becoming the best player in the country.\n\nRyouma's exceptional skills catch the eye of the captain of the Seishun Boys' Tennis Team, who offers him a spot on the starting lineup. However, Ryouma's young age and arrogant attitude initially make it difficult for him to gain the acceptance of his teammates. With the goal of winning the National Tournament, Ryouma and his team must first compete in the Tokyo Prefectural and Kanto Regionals, facing off against a variety of strong schools with unique playing styles.\n\nThroughout the series, Ryouma and his teammates learn to work together and find their own unique style of tennis, as they strive to become the champions they aspire to be. With Ryouma's determination and the support of his team, they aim to take the coveted title of the National Tournament and prove themselves as the best in Japan.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1949b8bcd4f1ae85",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.712837868480726,
+    "arithmeticGeometricMean": 7.710442026136895,
+    "median": 7.766,
+    "hash": "1949b8bcd4f1ae85",
+    "lastUpdate": "2024-05-10"
+  }
+}

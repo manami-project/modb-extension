@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18398",
+    "https://anilist.co/anime/177444",
+    "https://anime-planet.com/anime/wangu-kuang-di",
+    "https://myanimelist.net/anime/57613",
+    "https://notify.moe/anime/tsVGU85IR"
+  ],
+  "synopsis": {
+    "text": "Shiyang town, a remote location in the vast Shenlong Empire, is home to Chu Kuangsheng, the son of the town's esteemed Patriarch Chu. Born with a cultivation impairment, Chu Kuangsheng is ridiculed by the townsfolk for his inability to train. His life takes a turn for the worse when his parents go missing while on official duty, leaving his talented sister, Chu Liu'er, as the prospective head of the Chu family. However, she is afflicted by a mysterious illness, exacerbating Chu Kuangsheng's plight.\n\nDuring an ambush, Chu Kuangsheng inherits the ancestral technique of the Chu family, mending his damaged meridians and catalyzing his training progression. Despite his apparent weakness, Chu Kuangsheng harbors a secret identity—the formidable Kuangzun in the martial world. Uncovering a conspiracy involving the Chu clan leader and outsiders, Chu Kuangsheng suspects their collusion is linked to his parents' disappearance. Under the guise of Kuangzun, he forges alliances with heroes, amassing strength and knowledge.\n\nBalancing his dual identities, Chu Kuangsheng eradicates the corruption within the Chu clan and departs from the small town to train at the prestigious Siling Academy. Driven by the desire to uncover the truth behind his parents' disappearance, Chu Kuangsheng wields his sword, battling heroes across the expansive universe. His name reverberates through countless domains, marking his ascent as a master.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a31aef37d9739430",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.035030303030303,
+    "arithmeticGeometricMean": 5.923299907215265,
+    "median": 6.72,
+    "hash": "a31aef37d9739430",
+    "lastUpdate": "2024-05-13"
+  }
+}

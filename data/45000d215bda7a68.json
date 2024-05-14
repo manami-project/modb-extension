@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14225",
+    "https://anilist.co/anime/101879",
+    "https://anime-planet.com/anime/ling-yu-4th-season",
+    "https://anisearch.com/anime/16284",
+    "https://kitsu.io/anime/41316",
+    "https://livechart.me/anime/9021",
+    "https://myanimelist.net/anime/37894",
+    "https://notify.moe/anime/-k_8tHvmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "45000d215bda7a68",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.137056895485467,
+    "arithmeticGeometricMean": 6.099962577341373,
+    "median": 6.247272727272728,
+    "hash": "45000d215bda7a68",
+    "lastUpdate": "2024-05-09"
+  }
+}

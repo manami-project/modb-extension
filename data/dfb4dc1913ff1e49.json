@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15108",
+    "https://anilist.co/anime/111964",
+    "https://anisearch.com/anime/14776",
+    "https://livechart.me/anime/9610"
+  ],
+  "synopsis": {
+    "text": "Earth, 2014: Aliens, later known as Peddlers, make an unprecedented proposal to humanity, offering advanced technology in exchange for limestone. The technology in question is the Exoframe, a robotic mecha controlled by the user's consciousness, making it accessible and effortless for anyone to operate. Initially met with skepticism, these Exoframes soon revolutionize the world, transforming industries and warfare alike. Their versatility and affordability make them a ubiquitous presence, leading to a shift in global power dynamics as nations race to exploit this newfound tool for military superiority. As humanity embraces this alien technology, the implications of this interstellar trade deal unfold in ways no one could have anticipated.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dfb4dc1913ff1e49",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.9790074211502775,
+    "arithmeticGeometricMean": 5.935281501969977,
+    "median": 5.7695454545454545,
+    "hash": "dfb4dc1913ff1e49",
+    "lastUpdate": "2024-05-09"
+  }
+}

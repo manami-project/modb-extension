@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1148",
+    "https://anilist.co/anime/2961",
+    "https://anime-planet.com/anime/digimon-adventure-movie-1",
+    "https://anisearch.com/anime/770",
+    "https://kitsu.io/anime/7826",
+    "https://livechart.me/anime/4251",
+    "https://myanimelist.net/anime/2961",
+    "https://notify.moe/anime/44-ptKmmg"
+  ],
+  "synopsis": {
+    "text": "Taichi's and Hikari's ordinary lives take an extraordinary turn when a mysterious Digital Monster emerges from their family computer, revealing the existence of a hidden digital realm. This short film, set three years before the events of \"Digimon Adventure,\" unfolds as the siblings discover a strange egg nestled within their father's computer screen.\n\nAs they secretly nurture the egg, it hatches into a Digimon, launching the duo into a thrilling adventure that will shape their destiny. Unbeknownst to them, this encounter lays the groundwork for a group of chosen children who would later be tasked with saving the Digital World.\n\nWhile the siblings grapple with the challenges of concealing their growing Digimon within their apartment, they soon cross paths with a second, less amicable Digimon. This unexpected meeting triggers an intense battle, with Taichi and Hikari caught in the middle.\n\nThis 20-minute pilot episode of the Digimon Adventure series offers a more in-depth look at the story that was later recounted in the 20th episode of the series. The children's first encounter with Digimon serves as a pivotal moment, setting them on the path to becoming the heroes they were destined to be.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3a044069451edc06",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.341383580705009,
+    "arithmeticGeometricMean": 7.331987009879356,
+    "median": 7.572727272727272,
+    "hash": "3a044069451edc06",
+    "lastUpdate": "2024-05-09"
+  }
+}

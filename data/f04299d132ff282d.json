@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/163753",
+    "https://anime-planet.com/anime/korone-inugami-wonky-monkey",
+    "https://kitsu.io/anime/47300",
+    "https://myanimelist.net/anime/55049"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f04299d132ff282d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.807333333333333,
+    "arithmeticGeometricMean": 6.801295596430679,
+    "median": 7.0,
+    "hash": "f04299d132ff282d",
+    "lastUpdate": "2024-05-07"
+  }
+}

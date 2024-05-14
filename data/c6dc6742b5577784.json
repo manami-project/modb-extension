@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7918",
+    "https://anilist.co/anime/8248",
+    "https://anime-planet.com/anime/armored-trooper-votoms-case-irvine",
+    "https://anisearch.com/anime/6477",
+    "https://kitsu.io/anime/5268",
+    "https://livechart.me/anime/10798",
+    "https://myanimelist.net/anime/8248",
+    "https://notify.moe/anime/IoMitKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c6dc6742b5577784",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.245886562417174,
+    "arithmeticGeometricMean": 6.229953334291242,
+    "median": 6.34,
+    "hash": "c6dc6742b5577784",
+    "lastUpdate": "2024-05-10"
+  }
+}

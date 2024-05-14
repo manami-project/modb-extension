@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103710",
+    "https://anime-planet.com/anime/hamaneko",
+    "https://kitsu.io/anime/41635",
+    "https://myanimelist.net/anime/36622"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "69cc5c89b38d6918",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.510242424242424,
+    "arithmeticGeometricMean": 5.506845246504743,
+    "median": 5.36,
+    "hash": "69cc5c89b38d6918",
+    "lastUpdate": "2024-05-07"
+  }
+}

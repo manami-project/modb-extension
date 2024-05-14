@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6385",
+    "https://anilist.co/anime/9546",
+    "https://anime-planet.com/anime/shirahata-no-shoujo-ryuuko",
+    "https://anisearch.com/anime/4077",
+    "https://kitsu.io/anime/5786",
+    "https://myanimelist.net/anime/9546",
+    "https://notify.moe/anime/AXNGpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ebf46fbeded794d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.139146567717996,
+    "arithmeticGeometricMean": 5.098529536979596,
+    "median": 5.0,
+    "hash": "1ebf46fbeded794d",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7408",
+    "https://anilist.co/anime/6288",
+    "https://anime-planet.com/anime/mobile-suit-gundam-00-the-movie-a-wakening-of-the-trailblazer",
+    "https://anisearch.com/anime/5362",
+    "https://kitsu.io/anime/4509",
+    "https://livechart.me/anime/3216",
+    "https://myanimelist.net/anime/6288",
+    "https://notify.moe/anime/NlrqcFimR"
+  ],
+  "synopsis": {
+    "text": "Innovation and peace have flourished in the year 2314 AD, two years after Celestial Being's heroic triumph over the A-LAWS. The Earth Sphere Federation has embraced a weapon-free world, while the once-feared organization, Celestial Being, is now celebrated as heroes. However, the return of a derelict Jupiter exploration ship, lost for 130 years, ignites a new crisis. The ship harbors the Extraterrestrial Living-metal Shape-shifters (ELS), an alien threat capable of assimilating Earth's technology and inhabitants.\n\nAs the ELS begin their invasion, Celestial Being's legendary Gundam Meisters, led by the evolved Innovator Setsuna F. Seiei, rise to defend humanity. Meanwhile, the Earth Sphere Federation seeks to exploit the emerging True Innovators, individuals with extraordinary abilities resulting from exposure to GN Particles.\n\nIn this unprecedented crisis, Setsuna must uncover the true purpose of his evolution as an Innovator and the enigmatic 'dialogues' that Aeolia Schenberg's plan had intended for mankind. As the ELS threaten to wipe out humanity, Celestial Being embarks on a final mission to save the world from an unimaginable fate.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c5374eb6919b73d0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.347814487236902,
+    "arithmeticGeometricMean": 7.345700994728074,
+    "median": 7.34423197492163,
+    "hash": "c5374eb6919b73d0",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/okaeri"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd71f8363b9ccf26",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.624,
+    "arithmeticGeometricMean": 6.624,
+    "median": 6.624,
+    "hash": "fd71f8363b9ccf26",
+    "lastUpdate": "2024-05-07"
+  }
+}

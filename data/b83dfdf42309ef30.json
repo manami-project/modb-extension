@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12879",
+    "https://anilist.co/anime/104570",
+    "https://anime-planet.com/anime/manga-futatsu-no-sekai",
+    "https://anisearch.com/anime/12279",
+    "https://kitsu.io/anime/40752",
+    "https://myanimelist.net/anime/35408",
+    "https://notify.moe/anime/zReDhKiig"
+  ],
+  "synopsis": {
+    "text": "Ant and Grasshopper, an anime adaptation of Aesop's fable, presents a stark contrast between the industrious ants and their carefree counterparts - a frog, a butterfly, and a grasshopper. The ants, a picture of diligence, work tirelessly even on a beautiful summer day, while the others indulge in music and feasts. The old toad, inebriated even in daylight, mocks the ants for their relentless hard work.\n\nAs the seasons change, the ants' dedication proves wise. The once vibrant and lively grasshopper, butterfly, and frog find themselves in dire straits, battling illness and starvation in the harsh winter. Meanwhile, the ant family enjoys the comfort and warmth of their home, their earlier efforts bearing fruit.\n\nThe father ant, a beacon of wisdom, often reminds his envious son of the proverb, 'Summer fun leads to a winter of misery,' emphasizing the value of hard work and preparation. This poignant tale underscores the importance of diligence over a carefree lifestyle, making for a thought-provoking and engaging watch.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b83dfdf42309ef30",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.331072356215214,
+    "arithmeticGeometricMean": 5.308360279787393,
+    "median": 5.2,
+    "hash": "b83dfdf42309ef30",
+    "lastUpdate": "2024-05-08"
+  }
+}

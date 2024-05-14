@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/100719",
+    "https://anime-planet.com/anime/bleach-jump-festa-2008-special",
+    "https://anisearch.com/anime/13529",
+    "https://kitsu.io/anime/13264",
+    "https://livechart.me/anime/8308",
+    "https://myanimelist.net/anime/35118",
+    "https://notify.moe/anime/oCRn2Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2dc66026ba82ff6d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.803608269281738,
+    "arithmeticGeometricMean": 6.79830431093697,
+    "median": 6.726,
+    "hash": "2dc66026ba82ff6d",
+    "lastUpdate": "2024-05-06"
+  }
+}

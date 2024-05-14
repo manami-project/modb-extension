@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/8977",
+    "https://myanimelist.net/anime/20379"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5e1804caa37c953e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.373775510204082,
+    "arithmeticGeometricMean": 6.367610253723205,
+    "median": 6.373775510204082,
+    "hash": "5e1804caa37c953e",
+    "lastUpdate": "2024-05-07"
+  }
+}

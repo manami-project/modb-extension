@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/117228",
+    "https://anime-planet.com/anime/recruit-rhapsody",
+    "https://kitsu.io/anime/45124",
+    "https://myanimelist.net/anime/50523"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "62cac12661c930ab",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.917727272727273,
+    "arithmeticGeometricMean": 6.912714332836977,
+    "median": 6.917727272727273,
+    "hash": "62cac12661c930ab",
+    "lastUpdate": "2024-05-07"
+  }
+}

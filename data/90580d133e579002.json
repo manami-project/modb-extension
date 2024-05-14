@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/great3-caligula",
+    "https://kitsu.io/anime/42845",
+    "https://myanimelist.net/anime/37733"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "90580d133e579002",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.885999999999999,
+    "arithmeticGeometricMean": 5.881481734194762,
+    "median": 5.885999999999999,
+    "hash": "90580d133e579002",
+    "lastUpdate": "2024-05-07"
+  }
+}

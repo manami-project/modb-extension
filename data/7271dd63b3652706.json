@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7640",
+    "https://anilist.co/anime/19983",
+    "https://anime-planet.com/anime/shounen-ninja-kaze-no-fujimaru-nazo-no-arabiya-ningyou",
+    "https://anisearch.com/anime/6318",
+    "https://kitsu.io/anime/9594",
+    "https://myanimelist.net/anime/19983",
+    "https://notify.moe/anime/KWMYtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7271dd63b3652706",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.032948051948052,
+    "arithmeticGeometricMean": 4.96279212715459,
+    "median": 4.818181818181818,
+    "hash": "7271dd63b3652706",
+    "lastUpdate": "2024-05-08"
+  }
+}

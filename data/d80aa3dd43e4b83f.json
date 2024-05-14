@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4288",
+    "https://anilist.co/anime/16251",
+    "https://anime-planet.com/anime/shinkai-no-kantai-submarine-707",
+    "https://anisearch.com/anime/3550",
+    "https://kitsu.io/anime/7394",
+    "https://livechart.me/anime/12363",
+    "https://myanimelist.net/anime/16251",
+    "https://notify.moe/anime/tvJKpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d80aa3dd43e4b83f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.626874635568512,
+    "arithmeticGeometricMean": 5.601169764311461,
+    "median": 5.51,
+    "hash": "d80aa3dd43e4b83f",
+    "lastUpdate": "2024-05-10"
+  }
+}

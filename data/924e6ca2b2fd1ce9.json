@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1194",
+    "https://anilist.co/anime/1442",
+    "https://anime-planet.com/anime/reign-the-conqueror",
+    "https://anisearch.com/anime/612",
+    "https://kitsu.io/anime/1295",
+    "https://livechart.me/anime/6107",
+    "https://myanimelist.net/anime/1442",
+    "https://notify.moe/anime/wYn-5Kimg"
+  ],
+  "synopsis": {
+    "text": "Alexander the Great, born in 356 BC, is prophesied to rule and then destroy the world. As the prince of Macedonia, he faces political scheming, assassination attempts, and his father's jealousy to claim his birthright as king. Once crowned, Alexander embarks on a relentless campaign, conquering vast territories across Greece, Persia, and Asia, and ushering in the age of Hellenism. As he advances towards the East, his mentor Aristotle fears the fulfillment of the ancient prophecy that labels Alexander as the \"Devil King.\" With enemies on all sides, including the Persian king Darius III, Alexander must navigate treacherous waters to fulfill his destiny. Will he become the world's savior or its destroyer? Only time will tell as Alexander the Great marches on, leaving a trail of conquest and destruction in his wake.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "924e6ca2b2fd1ce9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.599490591041611,
+    "arithmeticGeometricMean": 5.595650268781018,
+    "median": 5.8,
+    "hash": "924e6ca2b2fd1ce9",
+    "lastUpdate": "2024-05-08"
+  }
+}

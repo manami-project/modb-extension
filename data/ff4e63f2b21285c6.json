@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11587",
+    "https://anime-planet.com/anime/kaette-kite-yoo-toyama-kara",
+    "https://anisearch.com/anime/11536",
+    "https://kitsu.io/anime/12360",
+    "https://myanimelist.net/anime/31599",
+    "https://notify.moe/anime/_v7z2Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ff4e63f2b21285c6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.4812925170068025,
+    "arithmeticGeometricMean": 4.284845864550534,
+    "median": 5.0,
+    "hash": "ff4e63f2b21285c6",
+    "lastUpdate": "2024-05-07"
+  }
+}

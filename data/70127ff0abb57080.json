@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15109",
+    "https://anilist.co/anime/112036",
+    "https://anime-planet.com/anime/mono-no-kami-sama-cocotama",
+    "https://anisearch.com/anime/14643",
+    "https://kitsu.io/anime/42654",
+    "https://livechart.me/anime/9611",
+    "https://myanimelist.net/anime/40437",
+    "https://notify.moe/anime/TWYVt06Gg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "70127ff0abb57080",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.199747680890538,
+    "arithmeticGeometricMean": 4.993702372549769,
+    "median": 5.818181818181818,
+    "hash": "70127ff0abb57080",
+    "lastUpdate": "2024-05-09"
+  }
+}

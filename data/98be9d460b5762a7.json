@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14972",
+    "https://anilist.co/anime/110201",
+    "https://anime-planet.com/anime/waresho-warera-shoudoubutsu-aigo-iinkai",
+    "https://anisearch.com/anime/14473",
+    "https://kitsu.io/anime/42386",
+    "https://livechart.me/anime/9464",
+    "https://myanimelist.net/anime/39978",
+    "https://notify.moe/anime/SSKgm64WR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "98be9d460b5762a7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.845971243042672,
+    "arithmeticGeometricMean": 4.757074196797265,
+    "median": 4.378942486085343,
+    "hash": "98be9d460b5762a7",
+    "lastUpdate": "2024-05-10"
+  }
+}

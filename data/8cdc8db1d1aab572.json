@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16423",
+    "https://anilist.co/anime/136517",
+    "https://anime-planet.com/anime/mini-vanguard-large",
+    "https://anisearch.com/anime/16452",
+    "https://livechart.me/anime/10682",
+    "https://myanimelist.net/anime/49370",
+    "https://notify.moe/anime/K8dmiaM7g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8cdc8db1d1aab572",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.12430241187384,
+    "arithmeticGeometricMean": 6.108966026543586,
+    "median": 6.287727272727272,
+    "hash": "8cdc8db1d1aab572",
+    "lastUpdate": "2024-05-09"
+  }
+}

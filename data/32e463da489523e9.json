@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4666",
+    "https://anilist.co/anime/3690",
+    "https://anime-planet.com/anime/chou-hatsumei-boy-kanipan",
+    "https://anisearch.com/anime/3644",
+    "https://kitsu.io/anime/3197",
+    "https://livechart.me/anime/12022",
+    "https://myanimelist.net/anime/3690",
+    "https://notify.moe/anime/KTv_cKmmg"
+  ],
+  "synopsis": {
+    "text": "Boy genius Kanipan, now in his teenage years, continues his inventive exploits in the sequel to Hatsumei Boy Kanipan. One day, a mysterious spaceship crash lands on the beach, carrying a female humanoid with no recollection of her past. Kanipan takes on the challenge of restoring her memory, only to stumble upon a shocking revelation: his beloved planet is in imminent peril. As he navigates this newfound crisis, Kanipan's journey promises to be a thrilling blend of adventure, discovery, and the power of friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "32e463da489523e9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.001345083487941,
+    "arithmeticGeometricMean": 5.965861044891612,
+    "median": 5.804545454545455,
+    "hash": "32e463da489523e9",
+    "lastUpdate": "2024-05-09"
+  }
+}

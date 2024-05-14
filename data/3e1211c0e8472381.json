@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113308",
+    "https://anime-planet.com/anime/hungry-days-x-bump-of-chicken-kinen-satsuei",
+    "https://anisearch.com/anime/15205",
+    "https://kitsu.io/anime/42798",
+    "https://myanimelist.net/anime/52139"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3e1211c0e8472381",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.392699814471243,
+    "arithmeticGeometricMean": 7.385521595183711,
+    "median": 7.25,
+    "hash": "3e1211c0e8472381",
+    "lastUpdate": "2024-05-06"
+  }
+}

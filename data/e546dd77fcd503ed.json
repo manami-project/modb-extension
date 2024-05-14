@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8189",
+    "https://anilist.co/anime/19749",
+    "https://anime-planet.com/anime/naniwa-yuukyouden-kyouretsu-ana-ga-attara-iretai-hen",
+    "https://anisearch.com/anime/11381",
+    "https://kitsu.io/anime/9481",
+    "https://myanimelist.net/anime/19749",
+    "https://notify.moe/anime/PqLftKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e546dd77fcd503ed",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.472479901051329,
+    "arithmeticGeometricMean": 5.4565085883479965,
+    "median": 5.090909090909091,
+    "hash": "e546dd77fcd503ed",
+    "lastUpdate": "2024-05-08"
+  }
+}

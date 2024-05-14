@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1577",
+    "https://anilist.co/anime/5477",
+    "https://anime-planet.com/anime/gozonji-gekkou-kamen-kun",
+    "https://anisearch.com/anime/2142",
+    "https://kitsu.io/anime/4118",
+    "https://myanimelist.net/anime/5477",
+    "https://notify.moe/anime/OPTC5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "90b8df977c063b91",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1300660482374765,
+    "arithmeticGeometricMean": 4.876886826620946,
+    "median": 5.0,
+    "hash": "90b8df977c063b91",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13054",
+    "https://anilist.co/anime/98586",
+    "https://anime-planet.com/anime/meow-meow-japanese-history-2nd-season",
+    "https://anisearch.com/anime/12408",
+    "https://kitsu.io/anime/13332",
+    "https://livechart.me/anime/2643",
+    "https://myanimelist.net/anime/35302",
+    "https://notify.moe/anime/CuFn2Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "78a4fdbcc2180aee",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.103361162646877,
+    "arithmeticGeometricMean": 6.086278654893427,
+    "median": 6.283265306122449,
+    "hash": "78a4fdbcc2180aee",
+    "lastUpdate": "2024-05-09"
+  }
+}

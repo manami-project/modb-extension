@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4964",
+    "https://anilist.co/anime/105861",
+    "https://anime-planet.com/anime/kirin-ashita-no-calendar",
+    "https://anisearch.com/anime/4065",
+    "https://kitsu.io/anime/11920",
+    "https://myanimelist.net/anime/32448",
+    "https://notify.moe/anime/chIepFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7c894dd46c2f3492",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.575772727272727,
+    "arithmeticGeometricMean": 5.556526014448919,
+    "median": 5.4399999999999995,
+    "hash": "7c894dd46c2f3492",
+    "lastUpdate": "2024-05-08"
+  }
+}

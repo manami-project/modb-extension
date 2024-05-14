@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14478",
+    "https://anilist.co/anime/110693",
+    "https://anime-planet.com/anime/pop-team-epic-kinen",
+    "https://anisearch.com/anime/14319",
+    "https://kitsu.io/anime/41912",
+    "https://livechart.me/anime/5199",
+    "https://myanimelist.net/anime/38068",
+    "https://notify.moe/anime/n4tuw-Tig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "107c8ae6b3a9988f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.002683805989929,
+    "arithmeticGeometricMean": 5.981315231517106,
+    "median": 5.964,
+    "hash": "107c8ae6b3a9988f",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9863",
+    "https://anilist.co/anime/18723",
+    "https://anime-planet.com/anime/soul-reviver-pv",
+    "https://anisearch.com/anime/8772",
+    "https://kitsu.io/anime/8890",
+    "https://myanimelist.net/anime/18723",
+    "https://notify.moe/anime/LitbpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "22a00dfc6a1c1440",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.160445092322644,
+    "arithmeticGeometricMean": 5.128116897484058,
+    "median": 5.090909090909091,
+    "hash": "22a00dfc6a1c1440",
+    "lastUpdate": "2024-05-08"
+  }
+}

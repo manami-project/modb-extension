@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21789",
+    "https://anime-planet.com/anime/three-leaves-three-colors-specials",
+    "https://anisearch.com/anime/11410",
+    "https://kitsu.io/anime/12082",
+    "https://livechart.me/anime/2155",
+    "https://myanimelist.net/anime/33173",
+    "https://notify.moe/anime/owCepKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2cdce652a20abfeb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.880958683040315,
+    "arithmeticGeometricMean": 6.8762304971470005,
+    "median": 6.818181818181818,
+    "hash": "2cdce652a20abfeb",
+    "lastUpdate": "2024-05-09"
+  }
+}

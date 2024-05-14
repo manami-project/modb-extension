@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10436",
+    "https://anilist.co/anime/103002",
+    "https://anime-planet.com/anime/right-places-sono-toki-boku-no-irubeki-basho",
+    "https://anisearch.com/anime/9461",
+    "https://kitsu.io/anime/11171",
+    "https://myanimelist.net/anime/39018",
+    "https://notify.moe/anime/SZEutKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b338564965accc3d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.869680360455871,
+    "arithmeticGeometricMean": 5.858654447957009,
+    "median": 5.68,
+    "hash": "b338564965accc3d",
+    "lastUpdate": "2024-05-08"
+  }
+}

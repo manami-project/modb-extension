@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9182",
+    "https://anilist.co/anime/14039",
+    "https://anime-planet.com/anime/katayoku-no-khronos-gear",
+    "https://anisearch.com/anime/7797",
+    "https://kitsu.io/anime/7070",
+    "https://myanimelist.net/anime/14039",
+    "https://notify.moe/anime/hlqvpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "557ce83ed073db8d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.986484848484849,
+    "arithmeticGeometricMean": 5.944081273281828,
+    "median": 5.545454545454546,
+    "hash": "557ce83ed073db8d",
+    "lastUpdate": "2024-05-08"
+  }
+}

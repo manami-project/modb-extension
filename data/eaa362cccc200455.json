@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/853",
+    "https://anilist.co/anime/623",
+    "https://anime-planet.com/anime/nana-seven-of-seven",
+    "https://anisearch.com/anime/1431",
+    "https://kitsu.io/anime/578",
+    "https://livechart.me/anime/7290",
+    "https://myanimelist.net/anime/623",
+    "https://notify.moe/anime/Il6T5Fmmg"
+  ],
+  "synopsis": {
+    "text": "On the brink of her high school entrance exams, Nana Suzuki's ordinary life takes a dramatic turn when her inventor grandfather's experiment goes awry, resulting in the creation of six unique clones, each embodying a distinct aspect of her personality. From the intelligent and cheerful to the emotional and slow-witted, these Nanas also possess magical powers granted by their respective crystals. Amidst this chaos, Nana's plans to confess her feelings to her long-time crush, Yuuichi Kamichika, are disrupted. Determined to win his heart and follow him to an elite high school, Nana and her clones band together to tackle the challenges of exam season. However, the competition heats up as each Nana develops feelings for the same boy, leading to a whirlwind of comedic and heartwarming moments as they navigate their new reality. With seven times the love, hopes, and problems, Nana's journey to self-discovery and romance is anything but ordinary.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eaa362cccc200455",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.69714709780016,
+    "arithmeticGeometricMean": 6.684305959113023,
+    "median": 6.636363636363637,
+    "hash": "eaa362cccc200455",
+    "lastUpdate": "2024-05-09"
+  }
+}

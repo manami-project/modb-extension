@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103499",
+    "https://anime-planet.com/anime/katte-ni-shiyagatte",
+    "https://kitsu.io/anime/13857",
+    "https://myanimelist.net/anime/36117",
+    "https://notify.moe/anime/GsJI2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33c5e7953dad82cf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.674454545454545,
+    "arithmeticGeometricMean": 4.669425451845237,
+    "median": 4.758,
+    "hash": "33c5e7953dad82cf",
+    "lastUpdate": "2024-05-06"
+  }
+}

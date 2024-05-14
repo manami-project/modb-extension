@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/303",
+    "https://anilist.co/anime/523",
+    "https://anime-planet.com/anime/my-neighbor-totoro",
+    "https://anisearch.com/anime/1289",
+    "https://kitsu.io/anime/482",
+    "https://livechart.me/anime/3075",
+    "https://myanimelist.net/anime/523",
+    "https://notify.moe/anime/gAATcKiiR"
+  ],
+  "synopsis": {
+    "text": "To the lush countryside of 1950s Japan, two young sisters, Satsuki and Mei, relocate with their father, Tatsuo Kusakabe, to be closer to their ailing mother, who is recuperating in a nearby hospital. As they settle into their new home, the girls stumble upon a magical world hidden within the depths of the surrounding forest. They befriend Totoro, a mystical forest spirit residing in a colossal camphor tree, who is invisible to the eyes of adults.\n\nAs the girls explore their new environment, they encounter an array of enchanting creatures, including soot sprites and the extraordinary Catbus, a feline-shaped vehicle that traverses the woods. When the youngest sister, Mei, goes missing after hearing worrying news about her mother's health, the older Satsuki seeks the help of their newfound magical friends to find her.\n\nEmbark on a heartwarming journey filled with magical adventures and the wonders of nature as Satsuki and Mei learn the importance of family, friendship, and the power of imagination in this timeless anime classic.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4681359d857679c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.232110586260022,
+    "arithmeticGeometricMean": 8.231626149445708,
+    "median": 8.202997076023392,
+    "hash": "b4681359d857679c",
+    "lastUpdate": "2024-05-10"
+  }
+}

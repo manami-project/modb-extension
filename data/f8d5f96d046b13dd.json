@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/276",
+    "https://anilist.co/anime/1560",
+    "https://anime-planet.com/anime/voltage-fighter-gowcaizer",
+    "https://anisearch.com/anime/433",
+    "https://kitsu.io/anime/1400",
+    "https://livechart.me/anime/9328",
+    "https://myanimelist.net/anime/1560",
+    "https://notify.moe/anime/Vtf-cKiig"
+  ],
+  "synopsis": {
+    "text": "Caizer Stones, mysterious artifacts granting superhuman abilities, have emerged in the wake of a devastating earthquake that left Tokyo in ruins. The calamity was orchestrated by Shizuru Ozaki, a power-hungry man teetering on the brink of insanity, who now threatens to annihilate the entire world.\n\nIn this time of crisis, an unsuspecting student named Isato Kaiza receives a Caizer Stone from his classmate, Kash, also known as Hellstinger. Transforming into the armored hero Gowcaizer, Isato finds himself in an unlikely alliance with Hellstinger and a vengeful swordsman shrouded in mystery.\n\nTogether, they must confront Omni-Exist, the embodiment of humanity's darkest desires and the driving force behind the recent disasters. Can Gowcaizer and his allies harness their newfound powers to stop Ozaki's madness and save the human race from impending doom?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f8d5f96d046b13dd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.110432016962629,
+    "arithmeticGeometricMean": 5.098734650125955,
+    "median": 5.17,
+    "hash": "f8d5f96d046b13dd",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9332",
+    "https://anilist.co/anime/15315",
+    "https://anime-planet.com/anime/problem-children-are-coming-from-another-world-arent-they",
+    "https://anisearch.com/anime/7971",
+    "https://kitsu.io/anime/7239",
+    "https://livechart.me/anime/890",
+    "https://myanimelist.net/anime/15315",
+    "https://notify.moe/anime/V8wOpFmmg"
+  ],
+  "synopsis": {
+    "text": "The lives of three extraordinary teenagers, Izayoi Sakamaki, Asuka Kudou, and You Kasukabe, take a thrilling turn when they receive mysterious invitations to a realm known as Little Garden. Blessed with psychic abilities but discontented with their ordinary lives, the trio finds themselves in an unfamiliar world brimming with excitement and high-stakes games.\n\nUpon arrival, they are greeted by Kurousagi, who introduces them to the Gift Games, a series of contests where participants wager their unique abilities for extraordinary rewards. To partake, they must join a community, and Kurousagi's 'No Names' community, having lost its prestige and land to a demon lord, is in dire need of their assistance.\n\nIn this parallel universe where reality intertwines with myth, the trio embarks on a mission to restore the dignity of their new home, eager to protect its inhabitants and explore the thrilling possibilities that Little Garden offers. As the stakes rise, Izayoi, Asuka, and You must decide if they will use their powers for personal gain or rally to help the struggling clan regain its former glory.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "36546a951b267472",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.489030067898372,
+    "arithmeticGeometricMean": 7.487389376022484,
+    "median": 7.438469387755101,
+    "hash": "36546a951b267472",
+    "lastUpdate": "2024-05-09"
+  }
+}

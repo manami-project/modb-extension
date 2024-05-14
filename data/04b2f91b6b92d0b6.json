@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14656",
+    "https://anilist.co/anime/109940",
+    "https://anime-planet.com/anime/qin-shi-mingyue-canghai-hengliu",
+    "https://livechart.me/anime/10329",
+    "https://myanimelist.net/anime/39023",
+    "https://notify.moe/anime/bxm99GKGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "04b2f91b6b92d0b6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.2010000000000005,
+    "arithmeticGeometricMean": 7.1995970406575704,
+    "median": 7.2010000000000005,
+    "hash": "04b2f91b6b92d0b6",
+    "lastUpdate": "2024-05-09"
+  }
+}

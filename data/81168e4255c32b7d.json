@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10934",
+    "https://anilist.co/anime/21319",
+    "https://anime-planet.com/anime/aokana-four-rhythm-across-the-blue",
+    "https://anisearch.com/anime/9963",
+    "https://kitsu.io/anime/10021",
+    "https://livechart.me/anime/1294",
+    "https://myanimelist.net/anime/28391",
+    "https://notify.moe/anime/Uz_PpFiiR"
+  ],
+  "synopsis": {
+    "text": "To soar through the skies has become an ordinary experience in an archipelago far south of Japan, thanks to the invention of Grav-Shoes that harness the power of anti-gravitons. This technological marvel has not only transformed the way people live but also given birth to an exhilarating new sport known as Flying Circus. In this thrilling competition, participants either touch floating buoys or their opponents' backs to score points, all while navigating the boundless skies.\n\nAsuka Kurashina, a clumsy yet spirited transfer student, finds herself unwittingly drawn into this world of aerial adventures when she joins Kunahama High School. Despite her initial struggles with flight, Asuka discovers a deep passion for Flying Circus and joins the school's FC club alongside fellow students Misaki Tobisawa, Mashiro Arisaka, and their coach, Masaya Hinata.\n\nMasaya, once a promising FC athlete, had abandoned his dreams following a crushing defeat and mysterious circumstances. However, as he teaches Asuka the ropes and witnesses her unwavering determination, his dormant passion for the sport reignites. Together, they strive to conquer the skies and triumph in the summer FC tournament, supported by their teammates and fueled by their shared love for flight. This heartwarming tale of friendship, ambition, and love unfolds as they navigate the challenges and triumphs of Flying Circus.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81168e4255c32b7d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.743031283138427,
+    "arithmeticGeometricMean": 6.73937478629204,
+    "median": 6.676985985985986,
+    "hash": "81168e4255c32b7d",
+    "lastUpdate": "2024-05-08"
+  }
+}

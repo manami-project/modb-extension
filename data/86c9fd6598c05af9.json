@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/nonoc-luster",
+    "https://anisearch.com/anime/18172",
+    "https://myanimelist.net/anime/54295"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "86c9fd6598c05af9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.956938775510203,
+    "arithmeticGeometricMean": 5.934541773062971,
+    "median": 6.02,
+    "hash": "86c9fd6598c05af9",
+    "lastUpdate": "2024-05-07"
+  }
+}

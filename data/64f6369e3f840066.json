@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2971",
+    "https://anilist.co/anime/3946",
+    "https://anime-planet.com/anime/chie-the-brat-movie",
+    "https://anisearch.com/anime/856",
+    "https://kitsu.io/anime/3369",
+    "https://livechart.me/anime/7668",
+    "https://myanimelist.net/anime/3946",
+    "https://notify.moe/anime/UA9_5FmmR"
+  ],
+  "synopsis": {
+    "text": "Tetsu's Diner, nestled in the vibrant city of Osaka, is not your typical eatery. The establishment is managed by none other than the spirited and resilient Chie, a 10-year-old girl who is often dubbed as 'the most unfortunate girl in Japan'. Based on Etsumi Haruki's popular manga, 'Jarinko Chie' (1981), this heartwarming comedy will have you laughing out loud despite its seemingly gloomy premise.\n\nChie's mother has left the family, and her father, Tetsu, is an unemployed yakuza who prefers to indulge in alcohol, gambling, and questionable activities. With her father's lack of responsibility, Chie takes charge of the family diner, demonstrating remarkable strength and determination for a child her age.\n\nDespite the challenges she faces, Chie maintains a positive outlook on life, always wearing a smile and standing up to her father's inappropriate behavior. Directed by Takahata Isao, the movie was such a hit that it led to the creation of a TV series, with Takahata serving as the chief director.\n\nSet against the unique cultural backdrop of Osaka, which differs significantly from Tokyo, 'Jarinko Chie' is a delightful tale of resilience, humor, and the unbreakable spirit of a young girl.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "64f6369e3f840066",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.939290750066261,
+    "arithmeticGeometricMean": 6.932896798937891,
+    "median": 7.024489795918367,
+    "hash": "64f6369e3f840066",
+    "lastUpdate": "2024-05-09"
+  }
+}

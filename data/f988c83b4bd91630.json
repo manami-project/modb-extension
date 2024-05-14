@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13824",
+    "https://anime-planet.com/anime/turning-mecard-w-vandyne-ui-bimil-teugbyeolpan",
+    "https://anisearch.com/anime/13811",
+    "https://kitsu.io/anime/41220",
+    "https://myanimelist.net/anime/37751",
+    "https://notify.moe/anime/6rWCvmGmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f988c83b4bd91630",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.776530612244898,
+    "arithmeticGeometricMean": 4.52412173622648,
+    "median": 4.776530612244898,
+    "hash": "f988c83b4bd91630",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5308",
+    "https://anilist.co/anime/7374",
+    "https://anime-planet.com/anime/a-hundred-percents",
+    "https://anisearch.com/anime/4357",
+    "https://kitsu.io/anime/4954",
+    "https://myanimelist.net/anime/7374",
+    "https://notify.moe/anime/Q0_RtFmmg"
+  ],
+  "synopsis": {
+    "text": "Newcomer Kazuyo Hata, a charming 22-year-old, finds herself in the thrilling yet challenging world of television news broadcasting after leaving university to chase her dream. As she navigates the complexities of the industry, she faces not only professional rivalries but also the intricate web of office romances. With her pure heart and natural desires at odds, Kazuyo must balance her goofy disposition with the demands of her career. As she strives to secure her place alongside the company boss, she learns that life at the top is far from easy. Will Kazuyo's determination and dreams be enough to conquer the challenges that await her in this cutthroat industry? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b733b36271f738d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2714651470978,
+    "arithmeticGeometricMean": 5.224111972207067,
+    "median": 5.0,
+    "hash": "0b733b36271f738d",
+    "lastUpdate": "2024-05-08"
+  }
+}

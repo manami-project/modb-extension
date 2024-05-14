@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/162882",
+    "https://anime-planet.com/anime/chloe-sakamata-pet",
+    "https://kitsu.io/anime/47196",
+    "https://myanimelist.net/anime/55368"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a5f3e347d41db43",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.965212121212121,
+    "arithmeticGeometricMean": 6.9575899636363125,
+    "median": 7.202,
+    "hash": "8a5f3e347d41db43",
+    "lastUpdate": "2024-05-07"
+  }
+}

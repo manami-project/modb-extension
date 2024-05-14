@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10119",
+    "https://anilist.co/anime/162693",
+    "https://anime-planet.com/anime/ashita-kirarin",
+    "https://anisearch.com/anime/9037",
+    "https://kitsu.io/anime/11642",
+    "https://myanimelist.net/anime/32255",
+    "https://notify.moe/anime/jgk3pKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "91d150d6a699069f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.443056586270872,
+    "arithmeticGeometricMean": 5.437023623384605,
+    "median": 5.451113172541744,
+    "hash": "91d150d6a699069f",
+    "lastUpdate": "2024-05-08"
+  }
+}

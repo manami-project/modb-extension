@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2139",
+    "https://anilist.co/anime/1437",
+    "https://anime-planet.com/anime/lupin-the-3rd-speical-10-crisis-in-tokyo",
+    "https://anisearch.com/anime/308",
+    "https://kitsu.io/anime/1290",
+    "https://livechart.me/anime/9301",
+    "https://myanimelist.net/anime/1437",
+    "https://notify.moe/anime/f6Ga5Fimg"
+  ],
+  "synopsis": {
+    "text": "When the last Shogun of Japan concealed a fortune worth billions, he left behind two etched glass plates, each containing a piece of the treasure's location. These plates, now in the possession of the enigmatic millionaire, Michael Suzuki, become the target of the notorious thief, Lupin the Third, and his associates. But the heist is far from straightforward. Lupin's partners, Jigen and Goemon, are grappling with their own issues, while a beautiful reporter named Maria and the relentless Inspector Zenigata are hot on their heels. As the chase for the treasure intensifies, it becomes clear that there's more to the plates and Suzuki than meets the eye. With Maria's uncanny ability to see the future and Suzuki's connection to one of the plates, the stakes are higher than ever. Will Lupin and his team outsmart their rivals and claim the treasure, or will they fall victim to the secrets that lie within the plates?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b131416b7f9774a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.275602615072003,
+    "arithmeticGeometricMean": 7.273176100810356,
+    "median": 7.34,
+    "hash": "8b131416b7f9774a",
+    "lastUpdate": "2024-05-09"
+  }
+}

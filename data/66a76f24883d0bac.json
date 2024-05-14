@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8783",
+    "https://anilist.co/anime/12121",
+    "https://anime-planet.com/anime/daisy-x-daisy-towa-no-kizuna",
+    "https://anisearch.com/anime/7441",
+    "https://kitsu.io/anime/6668",
+    "https://myanimelist.net/anime/12121",
+    "https://notify.moe/anime/qy4NtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "66a76f24883d0bac",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.1444438010968625,
+    "arithmeticGeometricMean": 6.138161740420635,
+    "median": 6.09,
+    "hash": "66a76f24883d0bac",
+    "lastUpdate": "2024-05-07"
+  }
+}

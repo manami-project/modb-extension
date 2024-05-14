@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9674",
+    "https://anilist.co/anime/17705",
+    "https://anime-planet.com/anime/dd-fist-of-the-north-star",
+    "https://anisearch.com/anime/8347",
+    "https://kitsu.io/anime/7646",
+    "https://livechart.me/anime/809",
+    "https://myanimelist.net/anime/17705",
+    "https://notify.moe/anime/2of5pFmmg"
+  ],
+  "synopsis": {
+    "text": "The anime presents a comedic twist on the classic 'Hokuto no Ken' storyline, imagining a world where the nuclear apocalypse never occurred. The series centers around Ken, Raoh, and Toki, three formidable warriors skilled in the deadly martial art of Hokuto Shinken, who now find themselves navigating the mundane challenges of modern society. With their once-feared combat skills rendered virtually useless in contemporary Japan, the trio is left to compete for employment at their mentor Ryuken's convenience store, where Bat and Lin are already on the payroll. Amidst the chaos of their job hunt, various other familiar characters make appearances, adding to the hilarity and absurdity of their situation.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6708f44483074076",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.922315398886828,
+    "arithmeticGeometricMean": 5.902880324370855,
+    "median": 6.1818181818181825,
+    "hash": "6708f44483074076",
+    "lastUpdate": "2024-05-09"
+  }
+}

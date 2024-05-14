@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/155",
+    "https://myanimelist.net/anime/3982"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cbddda97895920b1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.260102040816326,
+    "arithmeticGeometricMean": 5.2456808967827655,
+    "median": 5.260102040816326,
+    "hash": "cbddda97895920b1",
+    "lastUpdate": "2024-05-07"
+  }
+}

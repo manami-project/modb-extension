@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106565",
+    "https://anime-planet.com/anime/tumbled-cat",
+    "https://kitsu.io/anime/43190",
+    "https://myanimelist.net/anime/40737"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dee30b490d149355",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.238242424242425,
+    "arithmeticGeometricMean": 5.2005323379552,
+    "median": 5.0,
+    "hash": "dee30b490d149355",
+    "lastUpdate": "2024-05-06"
+  }
+}

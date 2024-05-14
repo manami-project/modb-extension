@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/17643",
+    "https://anime-planet.com/anime/little-busters-ova",
+    "https://anisearch.com/anime/8271",
+    "https://kitsu.io/anime/7687",
+    "https://livechart.me/anime/50",
+    "https://myanimelist.net/anime/17643",
+    "https://notify.moe/anime/1W9ctKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dedf45b30ea7c673",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.362341622363231,
+    "arithmeticGeometricMean": 7.359675545534596,
+    "median": 7.368,
+    "hash": "dedf45b30ea7c673",
+    "lastUpdate": "2024-05-06"
+  }
+}

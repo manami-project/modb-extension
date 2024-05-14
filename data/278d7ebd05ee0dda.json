@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5234",
+    "https://anilist.co/anime/3000",
+    "https://anime-planet.com/anime/youre-under-arrest-full-throttle",
+    "https://anisearch.com/anime/4308",
+    "https://kitsu.io/anime/2711",
+    "https://livechart.me/anime/7570",
+    "https://myanimelist.net/anime/3000",
+    "https://notify.moe/anime/vHL85Kmmg"
+  ],
+  "synopsis": {
+    "text": "After completing rigorous training abroad, the formidable duo of Miyuki Kobayakawa and Natsumi Tsujimoto return to their duties at the Bokuto Police Department in the latest season of the fan-favorite series, \"You're under Arrest.\" With Miyuki's forensic expertise and Natsumi's elite JSDF ranger skills, they are ready to take on any challenge that comes their way. Whether it's tackling speeding violations, navigating romantic entanglements, or protecting a young boy on a quest to become a samurai from hired gunmen, these officers are dedicated to keeping their precinct safe. But with trouble never far behind, they'll need to use all of their wits and strength to maintain order and ensure that justice prevails. Get ready for another thrilling season of action, adventure, and misadventures with the unstoppable duo of Miyuki and Natsumi!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "278d7ebd05ee0dda",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.2114900609594486,
+    "arithmeticGeometricMean": 7.209284005128746,
+    "median": 7.15,
+    "hash": "278d7ebd05ee0dda",
+    "lastUpdate": "2024-05-10"
+  }
+}

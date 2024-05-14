@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3983",
+    "https://anilist.co/anime/6877",
+    "https://anime-planet.com/anime/pokemon-pichu-bros-in-party-panic",
+    "https://anisearch.com/anime/10757",
+    "https://kitsu.io/anime/4763",
+    "https://livechart.me/anime/5809",
+    "https://myanimelist.net/anime/6877",
+    "https://notify.moe/anime/pkzRpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8405adee3214e76f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.375178571428571,
+    "arithmeticGeometricMean": 6.360852747253155,
+    "median": 6.386818181818182,
+    "hash": "8405adee3214e76f",
+    "lastUpdate": "2024-05-09"
+  }
+}

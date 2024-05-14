@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/1956",
+    "https://myanimelist.net/anime/3534"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "18944ae5d93d9569",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.786122448979592,
+    "arithmeticGeometricMean": 4.754580682416797,
+    "median": 4.786122448979592,
+    "hash": "18944ae5d93d9569",
+    "lastUpdate": "2024-05-07"
+  }
+}

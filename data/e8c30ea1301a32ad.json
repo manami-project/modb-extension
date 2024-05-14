@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1208",
+    "https://anilist.co/anime/317",
+    "https://anime-planet.com/anime/final-fantasy-vii-advent-children",
+    "https://anisearch.com/anime/2362",
+    "https://kitsu.io/anime/7776",
+    "https://livechart.me/anime/3986",
+    "https://myanimelist.net/anime/317",
+    "https://notify.moe/anime/t1cttFmig"
+  ],
+  "synopsis": {
+    "text": "Advent Children takes place two years after the epic battle against Sephiroth, where Cloud Strife and his comrades saved the world from the brink of destruction. The bustling city of Midgar now lies in ruins, but its resilient inhabitants are gradually rebuilding their lives in a new settlement called Edge. However, a mysterious and deadly illness known as Geostigma has emerged, afflicting many of the city's children, including Cloud's young friend Denzel.\n\nAs Cloud and his old friend Tifa run a courier service and care for their makeshift family, they face a new threat: a trio of powerful men, led by the enigmatic Kadaj, who are kidnapping Geostigma-afflicted children for unknown reasons. With shadows from his past looming over him, Cloud must confront his inner demons and join forces with his trusted allies once again to save the children, uncover the truth behind Geostigma, and thwart Kadaj's sinister plans.\n\nIn this thrilling continuation of the Final Fantasy VII saga, Cloud and his friends must band together to protect their newfound hope and prevent the destruction of their world at the hands of a new enemy. Will they succeed in vanquishing this new threat, or will the darkness consume them once more? Only time will tell, as the battle for their future unfolds.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e8c30ea1301a32ad",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.684793053756666,
+    "arithmeticGeometricMean": 7.683386108695673,
+    "median": 7.684090909090909,
+    "hash": "e8c30ea1301a32ad",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148605",
+    "https://anime-planet.com/anime/tsuki-no-fuusen",
+    "https://kitsu.io/anime/44770",
+    "https://myanimelist.net/anime/42638"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "11d8495e78c52342",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.7464545454545455,
+    "arithmeticGeometricMean": 5.727682094727205,
+    "median": 5.7464545454545455,
+    "hash": "11d8495e78c52342",
+    "lastUpdate": "2024-05-07"
+  }
+}

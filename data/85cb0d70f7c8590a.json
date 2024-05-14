@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17537",
+    "https://anime-planet.com/anime/ganbare-choushuu-kun",
+    "https://anisearch.com/anime/17559",
+    "https://myanimelist.net/anime/52815"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85cb0d70f7c8590a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.326530612244898,
+    "arithmeticGeometricMean": 6.326530612244898,
+    "median": 6.326530612244898,
+    "hash": "85cb0d70f7c8590a",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14474",
+    "https://anilist.co/anime/109931",
+    "https://anime-planet.com/anime/crayon-shin-chan-movie-27-shinkon-ryokou-hurricane-ushinawareta-hiroshi",
+    "https://anisearch.com/anime/13971",
+    "https://kitsu.io/anime/43051",
+    "https://livechart.me/anime/8229",
+    "https://myanimelist.net/anime/38629",
+    "https://notify.moe/anime/Io7fGMIMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c59e0d4e56ff7403",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.131523809523809,
+    "arithmeticGeometricMean": 7.124917717449171,
+    "median": 7.156000000000001,
+    "hash": "c59e0d4e56ff7403",
+    "lastUpdate": "2024-05-09"
+  }
+}

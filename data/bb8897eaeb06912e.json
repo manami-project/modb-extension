@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6467",
+    "https://anilist.co/anime/6030",
+    "https://anime-planet.com/anime/needless",
+    "https://anisearch.com/anime/5314",
+    "https://kitsu.io/anime/4391",
+    "https://livechart.me/anime/3795",
+    "https://myanimelist.net/anime/6030",
+    "https://notify.moe/anime/B_5q5KimR"
+  ],
+  "synopsis": {
+    "text": "Its been over a century since the cataclysmic World War III ravaged the globe, leaving behind a scarred and desolate landscape. In the heart of Tokyo, a desolate region known as the Black Spot, cordoned off by towering walls, remains shrouded in mystery. The Black Spot, a byproduct of the war, is home to a unique group of individuals known as the Needless, each possessing extraordinary abilities such as pyrokinesis, telekinesis, and more.\n\nThe Needless, once ordinary humans, are now feared and hunted by the powerful and nefarious Simeon Corporation. Simeon, with its own army of subservient Needless, is hell-bent on capturing every last one of them, particularly those who hold the key to the enigmatic Fragments.\n\nLeading the resistance against Simeon's tyranny is the formidable Adam Blade, a Needless with superhuman strength and regenerative powers. Despite his tough exterior, Adam harbors a soft spot for the innocents caught in the crossfire, especially those clad in schoolgirl attire.\n\nAs the battle between the Needless and Simeon escalates, the truth behind the corporation's sinister intentions begins to unravel. What secrets lie within the Black Spot, and what is the true purpose behind Simeon's relentless pursuit of the Fragments? Join Adam and his motley crew as they fight to restore peace and uncover the truth in this action-packed, post-apocalyptic thriller.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bb8897eaeb06912e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.1199796668800435,
+    "arithmeticGeometricMean": 7.117782690879938,
+    "median": 7.129890838206627,
+    "hash": "bb8897eaeb06912e",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13045",
+    "https://anilist.co/anime/104129",
+    "https://anime-planet.com/anime/popo-loouise",
+    "https://anisearch.com/anime/6771",
+    "https://kitsu.io/anime/9543",
+    "https://myanimelist.net/anime/24315",
+    "https://notify.moe/anime/xXCftKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fb9cedfe39ba0f01",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.1785751391465675,
+    "arithmeticGeometricMean": 5.1419941911543114,
+    "median": 5.16090909090909,
+    "hash": "fb9cedfe39ba0f01",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2382",
+    "https://anilist.co/anime/1261",
+    "https://anime-planet.com/anime/samurai-pizza-cats",
+    "https://anisearch.com/anime/196",
+    "https://kitsu.io/anime/1136",
+    "https://livechart.me/anime/7047",
+    "https://myanimelist.net/anime/1261",
+    "https://notify.moe/anime/9Dxx5FimR"
+  ],
+  "synopsis": {
+    "text": "Guido Anchovy, Polly Esther, and Speedy Cerviche, a trio of cybernetic feline ninjas, lead double lives in the bustling city of Edoropolis, a futuristic metropolis that beautifully blends traditional Japanese culture with 1990s flair. By day, they run a popular pizza parlor, but when evil threatens the peace, they transform into the Nyankii, the city's secret protectors.\n\nThe city is under the nominal leadership of the eccentric Shogun Iei-Iei Tokugawa, but his daughter, Princess Violet, and a council manage the city's affairs. Among the council members, the cunning and ambitious Seymour 'The Big' Cheese, a fox in disguise, plots to overthrow the Shogun and seize power. He is aided by his trusted advisor, Jerry Atric, and Bad Bird, the leader of a formidable ninja crow army.\n\nTo counter Seymour's sinister plans, Big Al Dente, the head of the Palace Guard and a loyal council member, recruits the Nyankii. Operating from their pizza parlor, the Nyankii use their extraordinary ninja skills and an arsenal of high-tech weapons to thwart Seymour's schemes and preserve the harmony in Edoropolis.\n\nJoin the Nyankii on their thrilling adventures as they juggle their pizza business and their secret mission to protect their beloved city from the clutches of evil. Will they succeed in safeguarding Edoropolis while keeping their true identities under wraps? Only time will tell!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "18fda00f43538b30",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.78629658097005,
+    "arithmeticGeometricMean": 6.769521833991708,
+    "median": 6.7272727272727275,
+    "hash": "18fda00f43538b30",
+    "lastUpdate": "2024-05-09"
+  }
+}

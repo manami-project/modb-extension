@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10178",
+    "https://anilist.co/anime/20840",
+    "https://anime-planet.com/anime/maria-the-virgin-witch",
+    "https://anisearch.com/anime/9046",
+    "https://kitsu.io/anime/8951",
+    "https://livechart.me/anime/273",
+    "https://myanimelist.net/anime/26441",
+    "https://notify.moe/anime/CJBxpFimg"
+  ],
+  "synopsis": {
+    "text": "He avens and earth collide in medieval France during the Hundred Years' War, as a young witch named Maria defies both human and divine norms to end the bloodshed. Residing in a hidden forest with her two familiars, Maria uses her magical abilities to disrupt the ongoing conflict, much to the disapproval of the church and the heavens. Archangel Michael, dispatched to curb Maria's intervention, imposes a divine restriction: her powers will be lost if she forsakes her virginity. Despite being branded a heretic and facing opposition from all sides, Maria remains steadfast in her quest for peace, even as the Church and heavenly agents conspire to put an end to her meddling.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c0e6b3e10c33be6c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.137456652694747,
+    "arithmeticGeometricMean": 7.1359371858456475,
+    "median": 7.115,
+    "hash": "c0e6b3e10c33be6c",
+    "lastUpdate": "2024-05-09"
+  }
+}

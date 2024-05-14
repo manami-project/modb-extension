@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13426",
+    "https://anilist.co/anime/100009",
+    "https://anime-planet.com/anime/space-battleship-tiramisu",
+    "https://anisearch.com/anime/12784",
+    "https://kitsu.io/anime/40875",
+    "https://livechart.me/anime/2849",
+    "https://myanimelist.net/anime/36267",
+    "https://notify.moe/anime/pqtO2FimR"
+  ],
+  "synopsis": {
+    "text": "Ichinose Subaru, a prodigious pilot, finds solace in the confined space of his cockpit, a sanctuary reminiscent of a mother's womb, as he navigates the tumultuous galactic war in Space Era 0156. Aboard the clandestinely constructed Space Battleship Tiramisu, Subaru shoulders the colossal responsibility of safeguarding Earth and its far-reaching colonies from imminent threats. Armed with his personal mecha, Durandal, Subaru engages in fierce combat against encroaching enemy forces while simultaneously battling mundane adversaries such as misplaced fried pork skewers and ill-fitting shirts within his cherished sanctuary. As the ace pilot, Subaru's culinary indulgences provide a momentary escape from the harsh realities of war, offering blissful reprieve amidst the chaos. The fate of humanity hinges on Subaru's prowess, as he steers the Tiramisu through the cosmos, embodying a beacon of hope for Earth's enduring survival.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1081061f91ba43f4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.203206864564007,
+    "arithmeticGeometricMean": 6.189075165924561,
+    "median": 6.157363636363636,
+    "hash": "1081061f91ba43f4",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/12447",
+    "https://anime-planet.com/anime/ben-to-picture-drama",
+    "https://anisearch.com/anime/8462",
+    "https://kitsu.io/anime/6735",
+    "https://livechart.me/anime/4763",
+    "https://myanimelist.net/anime/12447",
+    "https://notify.moe/anime/EPAHpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f1bd023b024c48bc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.864118119975263,
+    "arithmeticGeometricMean": 5.845172035999754,
+    "median": 6.045,
+    "hash": "f1bd023b024c48bc",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/109482",
+    "https://anime-planet.com/anime/deco-27-android-girl",
+    "https://kitsu.io/anime/42512",
+    "https://myanimelist.net/anime/39975"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f82f23dc369aeb6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.023045454545454,
+    "arithmeticGeometricMean": 7.02072211885616,
+    "median": 6.987,
+    "hash": "6f82f23dc369aeb6",
+    "lastUpdate": "2024-05-05"
+  }
+}

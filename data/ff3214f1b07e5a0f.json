@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/98136",
+    "https://anime-planet.com/anime/kazoku-no-hanashi",
+    "https://anisearch.com/anime/9454",
+    "https://kitsu.io/anime/8231",
+    "https://myanimelist.net/anime/21333",
+    "https://notify.moe/anime/ketopFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ff3214f1b07e5a0f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.348949494949494,
+    "arithmeticGeometricMean": 6.336046758930642,
+    "median": 6.385,
+    "hash": "ff3214f1b07e5a0f",
+    "lastUpdate": "2024-05-06"
+  }
+}

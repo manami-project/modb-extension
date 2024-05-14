@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15981",
+    "https://anilist.co/anime/128563",
+    "https://anime-planet.com/anime/d4dj-petit-mix",
+    "https://anisearch.com/anime/15980",
+    "https://kitsu.io/anime/44008",
+    "https://livechart.me/anime/10325",
+    "https://myanimelist.net/anime/45782",
+    "https://notify.moe/anime/CfgwF_BMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35fc23168de94c9b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.892538497217069,
+    "arithmeticGeometricMean": 6.88331775046812,
+    "median": 7.002244897959184,
+    "hash": "35fc23168de94c9b",
+    "lastUpdate": "2024-05-09"
+  }
+}

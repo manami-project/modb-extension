@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3496",
+    "https://anilist.co/anime/5918",
+    "https://anime-planet.com/anime/bride-of-deimos",
+    "https://anisearch.com/anime/621",
+    "https://kitsu.io/anime/4336",
+    "https://livechart.me/anime/5811",
+    "https://myanimelist.net/anime/5918",
+    "https://notify.moe/anime/Ubn3cKmmg"
+  ],
+  "synopsis": {
+    "text": "Hisamatsu's disappearance leads Minako Ifu on a search for a renowned orchid grower, where she crosses paths with the enigmatic Deimos. Once a god of terror, Deimos now seeks a human reincarnation for his sister Venus, who languishes in the Swamp of Death as punishment for their forbidden love. Believing Minako to be the perfect vessel, Deimos proposes she become his bride and join him in the underworld.\n\nAs Minako evades Deimos' advances, she stumbles upon the secluded mansion of the Ooba siblings, Touko and Kaname. Their peculiar relationship is marked by tragedy, as any potential suitor for either sibling meets an untimely end. With Minako now in the crosshairs of this deadly rivalry, she must navigate the treacherous waters of divine love and sibling devotion to uncover the truth behind her friend's disappearance and protect herself from the clutches of Deimos.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fee736406b69c056",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.463838324940364,
+    "arithmeticGeometricMean": 5.442348181996925,
+    "median": 5.545454545454546,
+    "hash": "fee736406b69c056",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13759",
+    "https://anime-planet.com/anime/devilman-memorial",
+    "https://anisearch.com/anime/15406",
+    "https://kitsu.io/anime/13907",
+    "https://livechart.me/anime/8116",
+    "https://myanimelist.net/anime/35952",
+    "https://notify.moe/anime/AmwS2Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2c76b58afdbeb28b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.869779591836735,
+    "arithmeticGeometricMean": 5.834558983718795,
+    "median": 5.0,
+    "hash": "2c76b58afdbeb28b",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/animagear-2019",
+    "https://kitsu.io/anime/42738",
+    "https://myanimelist.net/anime/40033"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0fc182e138f3cbde",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.439,
+    "arithmeticGeometricMean": 5.43811174182664,
+    "median": 5.439,
+    "hash": "0fc182e138f3cbde",
+    "lastUpdate": "2024-05-05"
+  }
+}

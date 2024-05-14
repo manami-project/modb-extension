@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15724",
+    "https://anilist.co/anime/124136",
+    "https://anime-planet.com/anime/armor-shop-for-ladies-and-gentlemen-ii",
+    "https://anisearch.com/anime/15556",
+    "https://kitsu.io/anime/43569",
+    "https://livechart.me/anime/10146",
+    "https://myanimelist.net/anime/42862",
+    "https://notify.moe/anime/t_m3RaOGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b30a0da9ecab299",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.629877551020408,
+    "arithmeticGeometricMean": 5.609130243273231,
+    "median": 5.4772727272727275,
+    "hash": "6b30a0da9ecab299",
+    "lastUpdate": "2024-05-09"
+  }
+}

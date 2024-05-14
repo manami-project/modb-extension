@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12757",
+    "https://anilist.co/anime/98516",
+    "https://anime-planet.com/anime/mazinger-z-infinity",
+    "https://anisearch.com/anime/12364",
+    "https://kitsu.io/anime/13747",
+    "https://livechart.me/anime/2524",
+    "https://myanimelist.net/anime/34820",
+    "https://notify.moe/anime/6tWShFmmR"
+  ],
+  "synopsis": {
+    "text": "The world has enjoyed a decade of tranquility since the nefarious Dr. Hell and his Underground Empire were defeated by Kouji Kabuto and his mighty robot, Mazinger Z. Kouji, having hung up his pilot's helmet, now follows in the scientific footsteps of his father and grandfather. However, a mysterious life form discovered deep beneath Mt. Fuji threatens to disrupt the peace and usher in a new era of uncertainty. As humanity's fate hangs in the balance, Kouji must confront this new threat and make a crucial decision that could determine the world's future. Will Mazinger Z rise again as a god or a demon? The choice lies with Kouji, as he once again shoulders the responsibility of safeguarding humanity's destiny.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3745a42454aced12",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.961046117148158,
+    "arithmeticGeometricMean": 6.953534616584105,
+    "median": 7.0,
+    "hash": "3745a42454aced12",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6171",
+    "https://anilist.co/anime/3784",
+    "https://anime-planet.com/anime/evangelion-2-0-you-can-not-advance",
+    "https://anisearch.com/anime/4678",
+    "https://kitsu.io/anime/3250",
+    "https://livechart.me/anime/3243",
+    "https://myanimelist.net/anime/3784",
+    "https://notify.moe/anime/Fc0_cKmig"
+  ],
+  "synopsis": {
+    "text": "Like its predecessor, \"Evangelion: -2.22 You Can (Not) Advance\" follows the ongoing struggle of the elite organization NERV against the enigmatic and destructive Angels. As the Angels continue their relentless assault on humanity, Shinji Ikari and Rei Ayanami are joined by two new Eva pilots: the fiery Asuka Shikinami Langley and the enigmatic Mari Illustrious Makinami. Together, these four young pilots must navigate the complexities of their interpersonal relationships while battling the Angels in their colossal Evangelion units.\n\nWhen the Third Angel's skeleton is resurrected and threatens to escape NERV's Arctic Bethany Base, Mari takes control of the Evangelion Provisional Unit-05 and destroys the Angel by self-destructing the unit, narrowly escaping in the process. Meanwhile, Shinji and his estranged father Gendo visit the grave of Shinji's mother, Yui. Soon after, the Seventh Angel attacks, only to be swiftly defeated by Asuka and her newly arrived Evangelion Unit-02.\n\nAs the battle against the Angels rages on, the shadowy organization SEELE continues to manipulate events from behind the scenes, seeking to initiate the cataclysmic Third Impact. Gendo receives the mysterious \"Key of Nebuchadnezzar\" from Kaji Ryoji and travels to NERV's lunar base, Tabgha, to observe the construction of the unusual Evangelion Mark.06. During his absence, the Eighth Angel attacks Tokyo-3, forcing Shinji, Asuka, and Rei to improvise a plan to defeat it. Both Evangelion Un",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca2af44813e186f4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.339695578231293,
+    "arithmeticGeometricMean": 8.339155181909486,
+    "median": 8.318741496598639,
+    "hash": "ca2af44813e186f4",
+    "lastUpdate": "2024-05-09"
+  }
+}

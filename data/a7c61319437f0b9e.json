@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5742",
+    "https://anilist.co/anime/4917",
+    "https://anime-planet.com/anime/ginga-tansa-2100-nen-border-planet",
+    "https://anisearch.com/anime/4584",
+    "https://kitsu.io/anime/3847",
+    "https://livechart.me/anime/10241",
+    "https://myanimelist.net/anime/4917",
+    "https://notify.moe/anime/idorcFimg"
+  ],
+  "synopsis": {
+    "text": "Tezuka Osamu presents a poignant tale of love and sacrifice set against the backdrop of humanity's expansion into the cosmos at the brink of the 21st century's end. The narrative unfolds in an omnibus format reminiscent of Bradbury's 'Martian Chronicle.'\n\nThe story revolves around a trio of friends who mature into adulthood together in a sprawling urban landscape on Earth. As time elapses, both men find themselves enamored with the same woman, Mira. The fair-haired Prokion successfully woos and weds Mira, leaving the dark-haired Subaru nursing a broken heart.\n\nTragedy strikes during their honeymoon when Prokion succumbs to a mysterious cosmic ailment after investigating an abandoned spaceship. Faced with the prospect of losing Mira to the same disease, Subaru resolves to embark on a perilous journey into space, leaving Earth behind to seek a cure.\n\nMira's friends rally to her aid, setting off on a mission to rescue the woman who once epitomized the ideal of feminine grace and beauty. Tezuka Osamu underscores his profound belief that love possesses the power to salvage humanity and preserve our planet.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a7c61319437f0b9e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.173470447919428,
+    "arithmeticGeometricMean": 6.154770679079677,
+    "median": 6.051020408163265,
+    "hash": "a7c61319437f0b9e",
+    "lastUpdate": "2024-05-09"
+  }
+}

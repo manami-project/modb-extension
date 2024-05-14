@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/128951",
+    "https://anime-planet.com/anime/mikito-p-39-music",
+    "https://kitsu.io/anime/43969",
+    "https://myanimelist.net/anime/55375"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c5270298683ee9c0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.988181818181818,
+    "arithmeticGeometricMean": 6.982443351252024,
+    "median": 7.03,
+    "hash": "c5270298683ee9c0",
+    "lastUpdate": "2024-05-05"
+  }
+}

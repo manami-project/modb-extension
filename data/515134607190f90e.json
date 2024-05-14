@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15415",
+    "https://anilist.co/anime/116242",
+    "https://anime-planet.com/anime/im-standing-on-a-million-lives",
+    "https://anisearch.com/anime/15039",
+    "https://kitsu.io/anime/43367",
+    "https://livechart.me/anime/9789",
+    "https://myanimelist.net/anime/41380",
+    "https://notify.moe/anime/HA7U15uZg"
+  ],
+  "synopsis": {
+    "text": "Tasked with an unexpected and perilous journey, the aloof and logical middle school student Yotsuya Yuusuke, along with his classmates Iu Shindou and Kusue Hakozaki, find themselves transported to a mystical realm filled with mythical creatures and governed by a mysterious Game Master. As they navigate this strange world, they are given timed quests and specific roles to aid them in their missions. While Shindou and Hakozaki are bestowed with the powerful roles of a Magician and a Warrior, Yuusuke is left with the seemingly unremarkable role of a Farmer.\n\nAs they face the challenges of this game-like world, Yuusuke must rely on his wit and detached demeanor to protect his companions and overcome the relentless onslaught of monsters and demons they encounter. With their lives and the fate of the real world hanging in the balance, the trio must work together to unravel the enigmatic nature of this alternate reality and complete the Game Master's quests. Can Yuusuke, the lone wolf who has always lived life on his terms, adapt to his new role as a hero and save the day? Only time will tell in this thrilling and unpredictable adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "515134607190f90e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.780331961193569,
+    "arithmeticGeometricMean": 6.775023201779856,
+    "median": 6.899272727272727,
+    "hash": "515134607190f90e",
+    "lastUpdate": "2024-05-08"
+  }
+}

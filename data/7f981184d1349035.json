@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11431",
+    "https://anilist.co/anime/102037",
+    "https://anime-planet.com/anime/ninja-soldier",
+    "https://anisearch.com/anime/10163",
+    "https://kitsu.io/anime/10341",
+    "https://myanimelist.net/anime/28991",
+    "https://notify.moe/anime/Dy4UpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f981184d1349035",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.892931354359926,
+    "arithmeticGeometricMean": 5.876083575717082,
+    "median": 5.645,
+    "hash": "7f981184d1349035",
+    "lastUpdate": "2024-05-08"
+  }
+}

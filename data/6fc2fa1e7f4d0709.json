@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5914",
+    "https://anilist.co/anime/4437",
+    "https://anime-planet.com/anime/naruto-shippuden-movie-2-bonds",
+    "https://anisearch.com/anime/4816",
+    "https://kitsu.io/anime/3606",
+    "https://livechart.me/anime/3790",
+    "https://myanimelist.net/anime/4437",
+    "https://notify.moe/anime/TN8XcKmiR"
+  ],
+  "synopsis": {
+    "text": "During an unexpected assault, a group of airborne ninjas from the Land of Sky wreak havoc on Konohagakure, leaving the village in a state of disarray. The attackers are driven by a desire for vengeance, as their homeland was destroyed during the Second Shinobi World War. Amidst the chaos, Naruto finds himself assisting a doctor named Shinnou and his apprentice, Amaru, whose village has also been targeted. Meanwhile, Tsunade assembles a team to launch a counterattack, while Naruto, Sakura, and Hinata are tasked with escorting Shinnou and Amaru back to their village. Unbeknownst to them, Orochimaru has sent Sasuke to capture Shinnou for his knowledge of the reincarnation technique. As the Land of Sky prepares for another war, Naruto must confront the looming threat and face an unexpected reunion with Sasuke. With the stakes higher than ever, Naruto is determined to put an end to the conflict and protect those dear to him.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6fc2fa1e7f4d0709",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.205853023242225,
+    "arithmeticGeometricMean": 7.201901642810658,
+    "median": 7.304842519685039,
+    "hash": "6fc2fa1e7f4d0709",
+    "lastUpdate": "2024-05-09"
+  }
+}

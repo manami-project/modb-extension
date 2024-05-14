@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8975",
+    "https://anilist.co/anime/13165",
+    "https://anime-planet.com/anime/paboo-and-mojies",
+    "https://anisearch.com/anime/8705",
+    "https://kitsu.io/anime/6898",
+    "https://myanimelist.net/anime/13165",
+    "https://notify.moe/anime/cu4vpKmmg"
+  ],
+  "synopsis": {
+    "text": "Town of Mojies, a place where magic and learning intertwine to bring joy and laughter! Meet Paboo, a charming and inquisitive young panda, who along with his extraordinary friends, embarks on exciting adventures in their whimsical and sometimes unpredictable world. In every episode, Paboo teams up with the Mojies, the Japanese representation of alphabet letters, and their book fairy, Maki, to uncover the enchanted Word of the Day and tackle daily challenges. Join Paboo and his friends in this delightful and educational journey!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8fc7bcdcd92ee431",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.81958719851577,
+    "arithmeticGeometricMean": 5.795604653143932,
+    "median": 5.75417439703154,
+    "hash": "8fc7bcdcd92ee431",
+    "lastUpdate": "2024-05-08"
+  }
+}

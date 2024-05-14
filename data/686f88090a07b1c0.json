@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8059",
+    "https://anilist.co/anime/20153",
+    "https://anime-planet.com/anime/hana-no-hi",
+    "https://anisearch.com/anime/6597",
+    "https://kitsu.io/anime/8909",
+    "https://myanimelist.net/anime/20153",
+    "https://notify.moe/anime/cfTbpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "686f88090a07b1c0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.336165385634773,
+    "arithmeticGeometricMean": 4.228761968643555,
+    "median": 4.74,
+    "hash": "686f88090a07b1c0",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4308",
+    "https://anilist.co/anime/1703",
+    "https://anime-planet.com/anime/tokyo-tribe-2",
+    "https://anisearch.com/anime/3600",
+    "https://kitsu.io/anime/1529",
+    "https://livechart.me/anime/6632",
+    "https://myanimelist.net/anime/1703",
+    "https://notify.moe/anime/epVfcKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb71b6a001b9e2e7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.31622934888241,
+    "arithmeticGeometricMean": 6.30646688722687,
+    "median": 6.32,
+    "hash": "cb71b6a001b9e2e7",
+    "lastUpdate": "2024-05-10"
+  }
+}

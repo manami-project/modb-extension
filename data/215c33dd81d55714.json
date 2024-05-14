@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18548",
+    "https://anilist.co/anime/176276",
+    "https://anime-planet.com/anime/chained-soldier-2",
+    "https://anisearch.com/anime/19132",
+    "https://kitsu.io/anime/48639",
+    "https://livechart.me/anime/12603",
+    "https://myanimelist.net/anime/58505",
+    "https://notify.moe/anime/2qm3tPJIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "215c33dd81d55714",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "215c33dd81d55714",
+    "lastUpdate": "2024-05-11"
+  }
+}

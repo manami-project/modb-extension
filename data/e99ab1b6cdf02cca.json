@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108242",
+    "https://anime-planet.com/anime/uneasiness-and-triangle",
+    "https://kitsu.io/anime/42801",
+    "https://myanimelist.net/anime/38976"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e99ab1b6cdf02cca",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.546969696969697,
+    "arithmeticGeometricMean": 5.538245485043988,
+    "median": 5.4,
+    "hash": "e99ab1b6cdf02cca",
+    "lastUpdate": "2024-05-07"
+  }
+}

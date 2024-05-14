@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12346",
+    "https://anime-planet.com/anime/t7s-longing-for-summer-again-and-again-harukaze",
+    "https://anisearch.com/anime/12322",
+    "https://kitsu.io/anime/40639",
+    "https://myanimelist.net/anime/34943",
+    "https://notify.moe/anime/Dv1D2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b984d3dab0328ee",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.886718367346939,
+    "arithmeticGeometricMean": 5.854923863289407,
+    "median": 5.72,
+    "hash": "2b984d3dab0328ee",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9054",
+    "https://anilist.co/anime/169813",
+    "https://anime-planet.com/anime/the-flower-and-the-phoenix",
+    "https://anisearch.com/anime/7707",
+    "https://kitsu.io/anime/9298",
+    "https://myanimelist.net/anime/23709",
+    "https://notify.moe/anime/8fe-pFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dff268ac2c9b53f4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.980395547309833,
+    "arithmeticGeometricMean": 4.929768622215646,
+    "median": 4.489795918367346,
+    "hash": "dff268ac2c9b53f4",
+    "lastUpdate": "2024-05-07"
+  }
+}

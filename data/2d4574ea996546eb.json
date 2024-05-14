@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7518",
+    "https://anilist.co/anime/8624",
+    "https://anime-planet.com/anime/digimon-xros-wars",
+    "https://anisearch.com/anime/6257",
+    "https://kitsu.io/anime/5404",
+    "https://livechart.me/anime/4662",
+    "https://myanimelist.net/anime/8624",
+    "https://notify.moe/anime/U9EmtKmmg"
+  ],
+  "synopsis": {
+    "text": "With a heart full of warmth and courage, seventh-grader Taiki Kudō finds himself on an unexpected adventure when he encounters a wounded Digimon named Shoutmon. Using the power of a mysterious device called a Xros Loader, Taiki saves Shoutmon and is catapulted into the Digital World alongside his friends, Akari Hinomoto and Zenjirō Tsurugi. In this parallel universe, the Digital World is embroiled in a large-scale war, the Xros Wars, reminiscent of the Sengoku period. The evil Bagra Army is on a relentless quest to gather all 108 fragments of the Code Crown to rule the Digital World.\n\nDetermined to thwart the Bagra Army's sinister plans, Taiki and his friends form an alliance with Shoutmon and other Digimon, creating their own army known as Xros Heart. As the General, Taiki uses the Xros Loader to transfer power to his Digimon allies, enabling them to engage in intense battles against formidable opponents. Facing rival teams and enemy Digimon, Xros Heart's mission is to collect the Code Crown fragments and restore peace in the Digital World.\n\nIn this thrilling anime, Taiki and his friends embark on a journey filled with camaraderie, bravery, and action-packed battles, all while striving to protect both the Digital World and their own world from the clutches of evil.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2d4574ea996546eb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.481066326530612,
+    "arithmeticGeometricMean": 6.467326213587326,
+    "median": 6.488727272727273,
+    "hash": "2d4574ea996546eb",
+    "lastUpdate": "2024-05-09"
+  }
+}

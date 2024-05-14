@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16316",
+    "https://anilist.co/anime/134070",
+    "https://anime-planet.com/anime/hairpin-double",
+    "https://anisearch.com/anime/16300",
+    "https://kitsu.io/anime/44638",
+    "https://livechart.me/anime/10578",
+    "https://myanimelist.net/anime/48954",
+    "https://notify.moe/anime/-wxZkPjGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b3aa07f4406e50e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.747714285714285,
+    "arithmeticGeometricMean": 4.654882141908593,
+    "median": 5.1,
+    "hash": "2b3aa07f4406e50e",
+    "lastUpdate": "2024-05-09"
+  }
+}

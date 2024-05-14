@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10685",
+    "https://anilist.co/anime/98552",
+    "https://anime-planet.com/anime/world-fool-news",
+    "https://anisearch.com/anime/9767",
+    "https://kitsu.io/anime/8448",
+    "https://livechart.me/anime/2660",
+    "https://myanimelist.net/anime/18205",
+    "https://notify.moe/anime/WpcApKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9f02e430ad8d173c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.535254174397031,
+    "arithmeticGeometricMean": 5.508187219568137,
+    "median": 5.757142857142856,
+    "hash": "9f02e430ad8d173c",
+    "lastUpdate": "2024-05-10"
+  }
+}

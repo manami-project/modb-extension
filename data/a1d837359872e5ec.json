@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/110638",
+    "https://anime-planet.com/anime/oshiri-tantei-puputto-fumutto-kaiketsu-dance",
+    "https://kitsu.io/anime/41700",
+    "https://myanimelist.net/anime/36983",
+    "https://notify.moe/anime/bYojV4wGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a1d837359872e5ec",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.041575757575758,
+    "arithmeticGeometricMean": 5.019881171597941,
+    "median": 4.96,
+    "hash": "a1d837359872e5ec",
+    "lastUpdate": "2024-05-07"
+  }
+}

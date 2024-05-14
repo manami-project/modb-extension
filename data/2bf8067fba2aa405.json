@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118078",
+    "https://anime-planet.com/anime/dekkai-totto-march",
+    "https://kitsu.io/anime/45013",
+    "https://myanimelist.net/anime/39213"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2bf8067fba2aa405",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.499151515151515,
+    "arithmeticGeometricMean": 5.462415419179643,
+    "median": 5.22,
+    "hash": "2bf8067fba2aa405",
+    "lastUpdate": "2024-05-08"
+  }
+}

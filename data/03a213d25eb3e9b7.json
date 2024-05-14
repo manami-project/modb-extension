@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7772",
+    "https://anime-planet.com/anime/ai-no-kiseki-doctor-norman-monogatari",
+    "https://anisearch.com/anime/6387",
+    "https://kitsu.io/anime/9183",
+    "https://myanimelist.net/anime/23861",
+    "https://notify.moe/anime/kf1atKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "03a213d25eb3e9b7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.925,
+    "arithmeticGeometricMean": 5.888618958161829,
+    "median": 5.925,
+    "hash": "03a213d25eb3e9b7",
+    "lastUpdate": "2024-05-08"
+  }
+}

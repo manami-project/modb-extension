@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17572",
+    "https://anilist.co/anime/153676",
+    "https://anime-planet.com/anime/sk8-the-infinity-2nd-season",
+    "https://anisearch.com/anime/17632",
+    "https://kitsu.io/anime/46359",
+    "https://livechart.me/anime/10681",
+    "https://myanimelist.net/anime/52750"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc62e7a34f93d1ac",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "dc62e7a34f93d1ac",
+    "lastUpdate": "2024-05-11"
+  }
+}

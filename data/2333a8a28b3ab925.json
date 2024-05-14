@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/110331",
+    "https://anime-planet.com/anime/tales-of-puppet",
+    "https://anisearch.com/anime/15180",
+    "https://myanimelist.net/anime/38112"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2333a8a28b3ab925",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.783108534322819,
+    "arithmeticGeometricMean": 5.766924732033444,
+    "median": 5.792727272727273,
+    "hash": "2333a8a28b3ab925",
+    "lastUpdate": "2024-05-07"
+  }
+}

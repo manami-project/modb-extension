@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/871",
+    "https://anilist.co/anime/2483",
+    "https://anime-planet.com/anime/samurai-hunt-for-the-sword",
+    "https://anisearch.com/anime/2609",
+    "https://kitsu.io/anime/2253",
+    "https://livechart.me/anime/10114",
+    "https://myanimelist.net/anime/2483",
+    "https://notify.moe/anime/87jPcFmig"
+  ],
+  "synopsis": {
+    "text": "Tokugawa shogunate faces threats from various factions, and the responsibility to protect the town falls on the shoulders of Shinjuro, the young master of a swordsmanship school. Shinjuro's peaceful life takes a turn for the worse when the rogue samurai Mikage seeks the legendary sword Mizuchi to overthrow the government. The Tokugawa house calls in a favor, and Shinjuro must duel Mikage to restore peace. With the support of a group of skilled and beautiful female swordsmen, Shinjuro must balance his duty to protect the town and his dojo while facing cunning thieves and powerful enemies. The fate of the shogunate rests in the hands of this young swordsman and his allies. Will they be able to rise to the challenge and protect feudal Japan from harm?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d874cba402b16542",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.506059899284389,
+    "arithmeticGeometricMean": 5.4742348642151715,
+    "median": 5.66,
+    "hash": "d874cba402b16542",
+    "lastUpdate": "2024-05-09"
+  }
+}

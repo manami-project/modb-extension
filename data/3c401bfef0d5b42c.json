@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15870",
+    "https://anilist.co/anime/99659",
+    "https://anime-planet.com/anime/chu-feng-yi-dian-zhi-zi",
+    "https://kitsu.io/anime/43920",
+    "https://livechart.me/anime/10330",
+    "https://myanimelist.net/anime/44062",
+    "https://notify.moe/anime/UFiYso0Mg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c401bfef0d5b42c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.6250909090909085,
+    "arithmeticGeometricMean": 6.6155448314890215,
+    "median": 6.7272727272727275,
+    "hash": "3c401bfef0d5b42c",
+    "lastUpdate": "2024-05-09"
+  }
+}

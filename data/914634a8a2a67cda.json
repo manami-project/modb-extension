@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7767",
+    "https://anilist.co/anime/2625",
+    "https://anime-planet.com/anime/the-doraemons-kaitou-dorapan-nazo-no-chousenjou",
+    "https://anisearch.com/anime/5634",
+    "https://kitsu.io/anime/2389",
+    "https://livechart.me/anime/8862",
+    "https://myanimelist.net/anime/2625",
+    "https://notify.moe/anime/DK2scKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "914634a8a2a67cda",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.463786200194363,
+    "arithmeticGeometricMean": 6.433022633276342,
+    "median": 6.7272727272727275,
+    "hash": "914634a8a2a67cda",
+    "lastUpdate": "2024-05-10"
+  }
+}

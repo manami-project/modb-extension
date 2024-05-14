@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5775",
+    "https://anilist.co/anime/5900",
+    "https://anime-planet.com/anime/jean-valjean-monogatari",
+    "https://anisearch.com/anime/4123",
+    "https://kitsu.io/anime/4327",
+    "https://myanimelist.net/anime/5900",
+    "https://notify.moe/anime/sIMqcFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bdbda85f14166b20",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.916202226345082,
+    "arithmeticGeometricMean": 5.890031436229209,
+    "median": 6.00760667903525,
+    "hash": "bdbda85f14166b20",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11789",
+    "https://anilist.co/anime/101911",
+    "https://anime-planet.com/anime/masamune-datenicle",
+    "https://anisearch.com/anime/11426",
+    "https://kitsu.io/anime/12110",
+    "https://livechart.me/anime/2091",
+    "https://myanimelist.net/anime/32248",
+    "https://notify.moe/anime/TXzghKiiR"
+  ],
+  "synopsis": {
+    "text": "Gainax's Fukushima studio brings to life the thrilling coming-of-age tale of the legendary 17th-century Japanese warlord, Date Masamune, in his formative years. Hailing from the Date region of the former Mutsu province, now part of the modern city of Date, the young warrior finds himself in a battle for the destiny of his clan. In a fateful encounter, Masamune receives a mystical gem from a dragon deity at a shrine closely linked to his family, leading to the resurrection of 16 former Date clan leaders. The anime serves as the inaugural project in the city's 'Kirari na Wonder Project' (Twinkling Wonder Project), designed to showcase regional attractions and allure. Set to be completed by the end of March, the anime will be privately screened in April, followed by appearances at anime events and online postings. Prepare for a historical adventure that intertwines the past and present, as young Masamune fights for his family's future.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "320202d76977356c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.401427334570191,
+    "arithmeticGeometricMean": 5.38372674800172,
+    "median": 5.176363636363636,
+    "hash": "320202d76977356c",
+    "lastUpdate": "2024-05-09"
+  }
+}

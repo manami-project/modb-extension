@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/nissin-cup-noodles-x-dragon-ball-z",
+    "https://kitsu.io/anime/42749",
+    "https://kitsu.io/anime/46739",
+    "https://myanimelist.net/anime/48617"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a76e740fb81102ff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.575,
+    "arithmeticGeometricMean": 5.571094113735331,
+    "median": 5.575,
+    "hash": "a76e740fb81102ff",
+    "lastUpdate": "2024-05-07"
+  }
+}

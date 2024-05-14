@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1086",
+    "https://anilist.co/anime/265",
+    "https://anime-planet.com/anime/hajime-no-ippo-mashiba-vs-kimura",
+    "https://anisearch.com/anime/2969",
+    "https://kitsu.io/anime/240",
+    "https://livechart.me/anime/4570",
+    "https://myanimelist.net/anime/265",
+    "https://notify.moe/anime/cJdhcKmmg"
+  ],
+  "synopsis": {
+    "text": "Lightweight boxer Tatsuya Kimura's dream of becoming a champion is finally within reach as he prepares for the annual champion carnival. His opponent? The reigning lightweight champion, Ryo \"the monster\" Mashiba, known for his deadly \"Flicker Jab.\" With the odds stacked against him, Kimura turns to Ichirou Miyata, the only boxer who has successfully defended against Mashiba's signature move.\n\nFor years, Kimura has watched his friends, Ippo Makunouchi and Mamoru Takamura, rise to the top of their respective weight classes, and now it's his turn to prove himself. But Mashiba has his own motivations for holding onto the belt, hoping to secure a better life for his sister.\n\nWith everything on the line, Kimura must rely on his new secret punch to defeat Mashiba and claim the championship belt. Will his determination and overwhelming drive be enough to overcome Mashiba's desperate wish to provide for his sister? Only time will tell in this thrilling showdown.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c8154324172957c3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.154021238681953,
+    "arithmeticGeometricMean": 8.15342420170321,
+    "median": 8.178358070500927,
+    "hash": "c8154324172957c3",
+    "lastUpdate": "2024-05-09"
+  }
+}

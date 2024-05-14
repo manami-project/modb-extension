@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4736",
+    "https://anilist.co/anime/5785",
+    "https://anime-planet.com/anime/g-9",
+    "https://anisearch.com/anime/3662",
+    "https://kitsu.io/anime/4277",
+    "https://livechart.me/anime/8582",
+    "https://myanimelist.net/anime/5785",
+    "https://notify.moe/anime/2QCC5Fiig"
+  ],
+  "synopsis": {
+    "text": "When a woman awakens in an abandoned town with no memory of her past, she finds herself inexplicably marked with the name Agarta, the 'Devourer of Dragons.' As she navigates the eerie, deserted landscape, a monstrous creature relentlessly pursues her. With only a faint voice urging her to stand her ground, Agarta must summon the courage to face her fears and uncover the truth behind her mysterious identity. In this surreal world, Agarta must confront the darkness within and reclaim her lost memories to defeat the sinister forces that plague her existence.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "725863a624102999",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.47641293400477,
+    "arithmeticGeometricMean": 5.45712156532935,
+    "median": 5.66,
+    "hash": "725863a624102999",
+    "lastUpdate": "2024-05-09"
+  }
+}

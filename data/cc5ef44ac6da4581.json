@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8645",
+    "https://anilist.co/anime/11457",
+    "https://anime-planet.com/anime/chibi-devi",
+    "https://anisearch.com/anime/7289",
+    "https://kitsu.io/anime/6512",
+    "https://livechart.me/anime/1177",
+    "https://myanimelist.net/anime/11457",
+    "https://notify.moe/anime/0PTStKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc5ef44ac6da4581",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.592059015814118,
+    "arithmeticGeometricMean": 6.574285042962702,
+    "median": 6.818181818181818,
+    "hash": "cc5ef44ac6da4581",
+    "lastUpdate": "2024-05-09"
+  }
+}

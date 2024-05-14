@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16731",
+    "https://anilist.co/anime/102376",
+    "https://anime-planet.com/anime/junlin-chengxia",
+    "https://kitsu.io/anime/12928",
+    "https://myanimelist.net/anime/34724",
+    "https://notify.moe/anime/dG1Z2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "88ee609c1622dea8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.08080808080808,
+    "arithmeticGeometricMean": 4.968035523892417,
+    "median": 4.909090909090909,
+    "hash": "88ee609c1622dea8",
+    "lastUpdate": "2024-05-08"
+  }
+}

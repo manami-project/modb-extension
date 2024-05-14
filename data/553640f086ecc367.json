@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6272",
+    "https://anilist.co/anime/5234",
+    "https://anime-planet.com/anime/zettai-yareru-greece-shinwa",
+    "https://anisearch.com/anime/5810",
+    "https://kitsu.io/anime/4003",
+    "https://myanimelist.net/anime/5234",
+    "https://notify.moe/anime/BgWjcKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "553640f086ecc367",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.6425095856524425,
+    "arithmeticGeometricMean": 4.479769566617865,
+    "median": 4.818181818181818,
+    "hash": "553640f086ecc367",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14430",
+    "https://anilist.co/anime/104562",
+    "https://anime-planet.com/anime/the-relative-worlds",
+    "https://anisearch.com/anime/13934",
+    "https://kitsu.io/anime/42021",
+    "https://livechart.me/anime/3548",
+    "https://myanimelist.net/anime/38464",
+    "https://notify.moe/anime/rNkjSoPmR"
+  ],
+  "synopsis": {
+    "text": "Shin, a typical high school student in Tokyo, has been harboring a closed heart since his mother's untimely death during his childhood. With his father engrossed in research, Shin's life revolves around his childhood friend, Kotori, a kind-hearted and popular girl who has been his pillar of support. As they approach the end of their high school journey, their bond deepens, only to be disrupted by the sudden appearance of another Shin from a parallel Japan.\n\nThis parallel world is a dystopian society, ruled by an evil queen, Kotoko, who wields absolute power through her control of wealth and ruthless suppression of dissent. The queen's next ambition is to expand her dominion by invading Shin's world. The parallel Shin, known as Jin, is part of a resistance group and has a mission: to assassinate the queen's counterpart in Shin's world, who is none other than Kotori.\n\nJin's mission is twofold: to protect Shin, as their lives are intertwined, and to eliminate Kotori. The revelation of this parallel world and its sinister plans throws Shin's life into chaos. Caught between two worlds, Shin must confront the reality that the girl he cares for is the counterpart of his mortal enemy. Will Shin be forced to make an unimaginable sacrifice to save both worlds? The stage is set for a battle between parallel selves in this thrilling tale of love, loyalty, and survival.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "932bdecccee70a8e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.758625695732839,
+    "arithmeticGeometricMean": 6.750288890026676,
+    "median": 6.603909090909092,
+    "hash": "932bdecccee70a8e",
+    "lastUpdate": "2024-05-08"
+  }
+}

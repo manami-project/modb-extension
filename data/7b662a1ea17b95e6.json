@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6598",
+    "https://anilist.co/anime/7354",
+    "https://anime-planet.com/anime/chikara-to-onna-no-yononaka",
+    "https://anisearch.com/anime/3640",
+    "https://kitsu.io/anime/4949",
+    "https://myanimelist.net/anime/7354",
+    "https://notify.moe/anime/KuwRtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7b662a1ea17b95e6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.191394434137291,
+    "arithmeticGeometricMean": 5.110304248460852,
+    "median": 5.0,
+    "hash": "7b662a1ea17b95e6",
+    "lastUpdate": "2024-05-08"
+  }
+}

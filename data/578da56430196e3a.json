@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5114",
+    "https://anilist.co/anime/4129",
+    "https://anime-planet.com/anime/magical-angel-creamy-mami-curtain-call",
+    "https://anisearch.com/anime/4214",
+    "https://kitsu.io/anime/3480",
+    "https://myanimelist.net/anime/4129",
+    "https://notify.moe/anime/hVvXcKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "578da56430196e3a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.055844155844156,
+    "arithmeticGeometricMean": 6.026396671916228,
+    "median": 5.909090909090908,
+    "hash": "578da56430196e3a",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/120345",
+    "https://anime-planet.com/anime/natsuyasumi-no-osakana",
+    "https://kitsu.io/anime/42937",
+    "https://myanimelist.net/anime/41663"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ff39c8f9272bea8",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.787181818181818,
+    "arithmeticGeometricMean": 4.785993583442969,
+    "median": 4.787181818181818,
+    "hash": "1ff39c8f9272bea8",
+    "lastUpdate": "2024-05-06"
+  }
+}

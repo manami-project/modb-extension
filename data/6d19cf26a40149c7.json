@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/560",
+    "https://anilist.co/anime/2775",
+    "https://anime-planet.com/anime/genocyber",
+    "https://anisearch.com/anime/36",
+    "https://kitsu.io/anime/2531",
+    "https://livechart.me/anime/6029",
+    "https://myanimelist.net/anime/2775",
+    "https://notify.moe/anime/cnkU5Kiig"
+  ],
+  "synopsis": {
+    "text": "Kyuryu Group, a formidable corporation, stumbles upon a weapon capable of shifting global power amidst a world where nations are uniting, and private armies of corporations pose a threat to peace. This weapon is the Genocyber, a terrifying amalgamation of cybernetics and psychic potential. Many seek control over this monstrous creation, but its sheer hatred and power prove difficult to contain. As conflict erupts, the world is on the brink of a violent explosion.\n\nIn a world striving to eradicate warfare and armies, private companies like Kyuryu Group are secretly developing their own military forces. Their goal is to create the ultimate weapon: humans who can harness their 'mind shadow,' known as Vajura. However, the experiment seemingly goes awry until a mysterious young girl, Elaine, escapes the Kyuryu research facility. Faced with hostile gangs, cybernetic agents, and other strange members of the Kyuryu Group, Elaine is forced to transform into the Genocyber, the first Vajura.\n\nAs Elaine encounters the horrifying experiments of the Kyuryu Group and the cruelty of mankind, she must continue to fight. But the question remains: at what cost? The future world is on the precipice of chaos, filled with violence and destruction, as the Genocyber's power threatens to consume everything in its path.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6d19cf26a40149c7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.955423005565862,
+    "arithmeticGeometricMean": 5.937824376211691,
+    "median": 5.84,
+    "hash": "6d19cf26a40149c7",
+    "lastUpdate": "2024-05-09"
+  }
+}

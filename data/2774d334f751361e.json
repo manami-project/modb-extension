@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17517",
+    "https://anilist.co/anime/152523",
+    "https://anime-planet.com/anime/chillin-in-my-30s-after-getting-fired-from-the-demon-kings-army",
+    "https://anisearch.com/anime/17532",
+    "https://kitsu.io/anime/46274",
+    "https://livechart.me/anime/11337",
+    "https://myanimelist.net/anime/52446",
+    "https://notify.moe/anime/QOdkrog4g"
+  ],
+  "synopsis": {
+    "text": "King’s army for his inability to wield magic, Dariel, a dark soldier, stumbles upon an unexpected opportunity for redemption. Raised by the previous Demon King, Dariel finds himself discarded by his adoptive brother and successor, who deems him unfit for service. However, when Dariel rescues a young girl from the clutches of a forest monster, he is welcomed into her village and discovers that his lack of magical abilities does not define his true power. As he embarks on a new journey, Dariel uncovers hidden strengths and potential that may surpass even the greatest of heroes, all while navigating the complexities of a brewing conflict between humans and demons. With his newfound purpose, Dariel must tread carefully to protect his secret and forge a new path in this world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2774d334f751361e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.260855465962609,
+    "arithmeticGeometricMean": 7.255373557533511,
+    "median": 7.341918367346938,
+    "hash": "2774d334f751361e",
+    "lastUpdate": "2024-05-09"
+  }
+}

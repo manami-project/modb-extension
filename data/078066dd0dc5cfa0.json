@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/132424",
+    "https://anime-planet.com/anime/toshiwasure-guda-guda-order-2016",
+    "https://kitsu.io/anime/43688",
+    "https://myanimelist.net/anime/40469"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "078066dd0dc5cfa0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.337515151515151,
+    "arithmeticGeometricMean": 6.336289388407727,
+    "median": 6.454545454545455,
+    "hash": "078066dd0dc5cfa0",
+    "lastUpdate": "2024-05-07"
+  }
+}

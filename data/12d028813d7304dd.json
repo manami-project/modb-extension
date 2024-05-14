@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121045",
+    "https://anime-planet.com/anime/ringo-to-shoujo",
+    "https://kitsu.io/anime/43326",
+    "https://myanimelist.net/anime/42234"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "12d028813d7304dd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.155212121212121,
+    "arithmeticGeometricMean": 5.127305678364778,
+    "median": 4.9,
+    "hash": "12d028813d7304dd",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102600",
+    "https://anime-planet.com/anime/fox-spirit-matchmaker-season-3",
+    "https://kitsu.io/anime/12277",
+    "https://myanimelist.net/anime/33446",
+    "https://notify.moe/anime/id_ghKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d15e01dd311f89ff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.509284848484848,
+    "arithmeticGeometricMean": 7.507013858643934,
+    "median": 7.374,
+    "hash": "d15e01dd311f89ff",
+    "lastUpdate": "2024-05-06"
+  }
+}

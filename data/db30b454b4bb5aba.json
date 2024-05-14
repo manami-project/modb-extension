@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/16028",
+    "https://myanimelist.net/anime/48843"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db30b454b4bb5aba",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.283163265306122,
+    "arithmeticGeometricMean": 6.282985516181664,
+    "median": 6.283163265306122,
+    "hash": "db30b454b4bb5aba",
+    "lastUpdate": "2024-05-07"
+  }
+}

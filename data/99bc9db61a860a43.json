@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11647",
+    "https://anilist.co/anime/101923",
+    "https://anime-planet.com/anime/kicking-rocks",
+    "https://anisearch.com/anime/11917",
+    "https://kitsu.io/anime/11233",
+    "https://myanimelist.net/anime/31310",
+    "https://notify.moe/anime/ZkgrtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "99bc9db61a860a43",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.439773124834349,
+    "arithmeticGeometricMean": 5.410775602898282,
+    "median": 5.53,
+    "hash": "99bc9db61a860a43",
+    "lastUpdate": "2024-05-08"
+  }
+}

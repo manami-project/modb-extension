@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/111853",
+    "https://anime-planet.com/anime/tug-tug",
+    "https://kitsu.io/anime/42806",
+    "https://myanimelist.net/anime/38640"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fcc05884cd38f180",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.200484848484848,
+    "arithmeticGeometricMean": 5.118218150110645,
+    "median": 5.48,
+    "hash": "fcc05884cd38f180",
+    "lastUpdate": "2024-05-07"
+  }
+}

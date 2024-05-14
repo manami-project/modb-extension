@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4711",
+    "https://anilist.co/anime/5928",
+    "https://anime-planet.com/anime/kigyou-senshi-yamazaki-long-distance-call",
+    "https://anisearch.com/anime/3846",
+    "https://kitsu.io/anime/4345",
+    "https://myanimelist.net/anime/5928",
+    "https://notify.moe/anime/axV35Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "384775d0a9bfed7e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.924778602350031,
+    "arithmeticGeometricMean": 5.913879165099258,
+    "median": 5.971335807050092,
+    "hash": "384775d0a9bfed7e",
+    "lastUpdate": "2024-05-08"
+  }
+}

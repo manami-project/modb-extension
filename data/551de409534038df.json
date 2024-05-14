@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5091",
+    "https://anilist.co/anime/8184",
+    "https://anime-planet.com/anime/adventure-on-the-gaboten-island",
+    "https://anisearch.com/anime/3634",
+    "https://kitsu.io/anime/5233",
+    "https://livechart.me/anime/11646",
+    "https://myanimelist.net/anime/8184",
+    "https://notify.moe/anime/ZLeztFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "551de409534038df",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.331576994434137,
+    "arithmeticGeometricMean": 5.287342042924234,
+    "median": 4.7272727272727275,
+    "hash": "551de409534038df",
+    "lastUpdate": "2024-05-09"
+  }
+}

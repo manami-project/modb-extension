@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102650",
+    "https://anime-planet.com/anime/super-juniors-circus",
+    "https://kitsu.io/anime/41782",
+    "https://myanimelist.net/anime/37404"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5f8fc629ac2605d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.603030303030303,
+    "arithmeticGeometricMean": 5.577698821658332,
+    "median": 5.22,
+    "hash": "e5f8fc629ac2605d",
+    "lastUpdate": "2024-05-07"
+  }
+}

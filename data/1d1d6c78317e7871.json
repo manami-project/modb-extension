@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/176529",
+    "https://anime-planet.com/anime/wcdonalds",
+    "https://kitsu.io/anime/48663"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d1d6c78317e7871",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.845090909090909,
+    "arithmeticGeometricMean": 5.8450599384875135,
+    "median": 5.845090909090909,
+    "hash": "1d1d6c78317e7871",
+    "lastUpdate": "2024-05-07"
+  }
+}

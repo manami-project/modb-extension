@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2709",
+    "https://anilist.co/anime/2567",
+    "https://anime-planet.com/anime/pinocchio-yori-piccolino-no-bouken",
+    "https://anisearch.com/anime/815",
+    "https://kitsu.io/anime/2332",
+    "https://livechart.me/anime/12558",
+    "https://myanimelist.net/anime/2567",
+    "https://notify.moe/anime/npVy5FmiR"
+  ],
+  "synopsis": {
+    "text": "Carlo Collodi's beloved tale of Pinocchio takes on a new form in this enchanting story filled with love, deception, and adventure. The lonely carpenter, Old Jeppet, is granted his deepest wish when the wooden puppet he's carving comes to life and speaks to him. He names the puppet Piccolino, treating him as the son he's always longed for. Despite Piccolino's mischievous nature, causing endless trouble for Jeppet, the puppet's good-hearted intentions earn the old man's love as if he were his own flesh and blood.\n\nHowever, tragedy strikes when the cunning fox Dino and his feline accomplice, Witch, deceive Piccolino on his way to school. Sold to a puppet show master alongside his friend, Gina the duck, the pair faces little chance of ever reuniting with kind-hearted Jeppet. Determined to find his adoptive father, Piccolino embarks on a series of thrilling escapades, constantly pitting his wits against the devious duo, Dino and Witch.\n\nDespite his best efforts to stay out of trouble, misfortune seems to find Piccolino at every turn. If he can manage to avoid mischief, his ultimate dream may just come true. This delightful and entertaining adaptation, The Adventures of Pinocchio, demonstrates that a pure heart and good intentions are rewarded, and that true love can indeed create miracles.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "705264f8b392e6e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.073220249138617,
+    "arithmeticGeometricMean": 6.046179816742747,
+    "median": 6.1818181818181825,
+    "hash": "705264f8b392e6e6",
+    "lastUpdate": "2024-05-09"
+  }
+}

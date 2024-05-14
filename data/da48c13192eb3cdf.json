@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8891",
+    "https://anime-planet.com/anime/fushigi-no-yappo-shima-pukipuki-to-poi",
+    "https://anisearch.com/anime/7744",
+    "https://kitsu.io/anime/12810",
+    "https://myanimelist.net/anime/33842",
+    "https://notify.moe/anime/9OMWhKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da48c13192eb3cdf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "da48c13192eb3cdf",
+    "lastUpdate": "2024-05-08"
+  }
+}

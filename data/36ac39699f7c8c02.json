@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/vooid-rabbit-hole",
+    "https://kitsu.io/anime/47889",
+    "https://myanimelist.net/anime/52907"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "36ac39699f7c8c02",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.414,
+    "arithmeticGeometricMean": 6.414,
+    "median": 6.414,
+    "hash": "36ac39699f7c8c02",
+    "lastUpdate": "2024-05-08"
+  }
+}

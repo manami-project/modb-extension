@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11728",
+    "https://anilist.co/anime/21446",
+    "https://anime-planet.com/anime/mini-hama",
+    "https://anisearch.com/anime/10902",
+    "https://kitsu.io/anime/10853",
+    "https://livechart.me/anime/1434",
+    "https://myanimelist.net/anime/30291",
+    "https://notify.moe/anime/0JK_tFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "63fbd9123142b6c1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.021655446594222,
+    "arithmeticGeometricMean": 6.006017200464675,
+    "median": 6.22,
+    "hash": "63fbd9123142b6c1",
+    "lastUpdate": "2024-05-09"
+  }
+}

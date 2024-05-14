@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8103",
+    "https://anime-planet.com/anime/kenritsu-umisora-koukou-yakyuubu-in-yamashita-tarou-kun",
+    "https://anisearch.com/anime/6651",
+    "https://kitsu.io/anime/9752",
+    "https://myanimelist.net/anime/27837",
+    "https://notify.moe/anime/rd8LpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89ab4d032c1c133a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.515265306122449,
+    "arithmeticGeometricMean": 5.462846735864662,
+    "median": 5.0,
+    "hash": "89ab4d032c1c133a",
+    "lastUpdate": "2024-05-07"
+  }
+}

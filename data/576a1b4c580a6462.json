@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2753",
+    "https://anilist.co/anime/7752",
+    "https://anime-planet.com/anime/lotus-lantern",
+    "https://anisearch.com/anime/1541",
+    "https://kitsu.io/anime/5109",
+    "https://myanimelist.net/anime/7752",
+    "https://notify.moe/anime/rP2ktFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "576a1b4c580a6462",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.814628324056895,
+    "arithmeticGeometricMean": 5.800122699762572,
+    "median": 5.7272727272727275,
+    "hash": "576a1b4c580a6462",
+    "lastUpdate": "2024-05-08"
+  }
+}

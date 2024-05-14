@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3142",
+    "https://anilist.co/anime/145480",
+    "https://anime-planet.com/anime/bouken-tachi-gamba-to-nanbiki-no-nakama",
+    "https://anisearch.com/anime/354",
+    "https://kitsu.io/anime/10101",
+    "https://myanimelist.net/anime/28983",
+    "https://notify.moe/anime/yHNytKimR"
+  ],
+  "synopsis": {
+    "text": "Re-edited from a 1975 TV series, \"Gamba no Bouken\" follows the courageous journey of a wild and adventurous mouse named Gamba. When a wounded mouse arrives in Tokyo Harbor from the infamous Devil's Island, he shares harrowing tales of Noroi, a tyrannical white weasel who has subjected the island's mice to unimaginable terror. Fueled by a burning desire to help, Gamba impulsively vows to dethrone Noroi and restore peace. Joined by his loyal friends, Gamba embarks on a daring mission to confront Noroi and liberate the suffering mice from his oppressive rule. This 90-minute movie encapsulates the main events of the series, offering a thrilling and heartwarming tale of bravery and camaraderie.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "977c0ce08113ec30",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.735896103896104,
+    "arithmeticGeometricMean": 5.719486898888725,
+    "median": 5.915,
+    "hash": "977c0ce08113ec30",
+    "lastUpdate": "2024-05-08"
+  }
+}

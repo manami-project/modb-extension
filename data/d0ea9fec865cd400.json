@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6873",
+    "https://anilist.co/anime/7529",
+    "https://anime-planet.com/anime/mori-no-ongakukai",
+    "https://anisearch.com/anime/5968",
+    "https://kitsu.io/anime/5019",
+    "https://myanimelist.net/anime/7529",
+    "https://notify.moe/anime/r0iztKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d0ea9fec865cd400",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.189205936920223,
+    "arithmeticGeometricMean": 5.1445638997032574,
+    "median": 4.863636363636363,
+    "hash": "d0ea9fec865cd400",
+    "lastUpdate": "2024-05-07"
+  }
+}

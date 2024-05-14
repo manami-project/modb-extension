@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/18854",
+    "https://kitsu.io/anime/48081",
+    "https://myanimelist.net/anime/40415"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bb16d1f250630a21",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.281020408163265,
+    "arithmeticGeometricMean": 5.270131702749123,
+    "median": 5.281020408163265,
+    "hash": "bb16d1f250630a21",
+    "lastUpdate": "2024-05-07"
+  }
+}

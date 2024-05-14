@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10055",
+    "https://anilist.co/anime/158700",
+    "https://anime-planet.com/anime/hi-no-tori-kizuna-hen",
+    "https://anisearch.com/anime/9193",
+    "https://kitsu.io/anime/9315",
+    "https://myanimelist.net/anime/23675",
+    "https://notify.moe/anime/CykftFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "430ec5673f1b0e95",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.2603586889301175,
+    "arithmeticGeometricMean": 5.231995521730016,
+    "median": 5.0,
+    "hash": "430ec5673f1b0e95",
+    "lastUpdate": "2024-05-07"
+  }
+}

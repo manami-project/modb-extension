@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/sailor-moon-super-s-memorial"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec782dc897ade2da",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.324,
+    "arithmeticGeometricMean": 7.324,
+    "median": 7.324,
+    "hash": "ec782dc897ade2da",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7035",
+    "https://anilist.co/anime/6822",
+    "https://anime-planet.com/anime/penelope-tete-en-lair-2009",
+    "https://anisearch.com/anime/6001",
+    "https://kitsu.io/anime/4727",
+    "https://myanimelist.net/anime/6822",
+    "https://notify.moe/anime/2IrecKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9f2e6aba8ac81f03",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.9104363636363635,
+    "arithmeticGeometricMean": 5.896080196694782,
+    "median": 5.818181818181818,
+    "hash": "9f2e6aba8ac81f03",
+    "lastUpdate": "2024-05-07"
+  }
+}

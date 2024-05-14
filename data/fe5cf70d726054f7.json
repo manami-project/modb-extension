@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/24",
+    "https://anilist.co/anime/48",
+    "https://anime-planet.com/anime/hack-sign",
+    "https://anisearch.com/anime/3491",
+    "https://kitsu.io/anime/30",
+    "https://livechart.me/anime/3828",
+    "https://myanimelist.net/anime/48",
+    "https://notify.moe/anime/xpIt5Fiig"
+  ],
+  "synopsis": {
+    "text": "Subaru, the leader of the Crimson Knights, and a group of diverse online players embark on a quest to unravel the mystery behind Tsukasa, a young wavemaster trapped in the immersive world of a popular MMORPG called The World. Tsukasa, who suffers from amnesia and is unable to log out, possesses unique abilities that disrupt the game and attract the suspicion of the Crimson Knights. As they delve deeper into the virtual realm, they discover that Tsukasa's fate is intertwined with a legendary artifact known as the Key of the Twilight. Along the way, Tsukasa befriends other players, including Bear, Mimiru, and BT, who help him navigate the challenges of The World and uncover the truth about his identity. With the real world and the virtual world colliding, Tsukasa and his allies must confront the dangers that lurk within the game and find a way to restore balance before it's too late.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe5cf70d726054f7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.892428945696509,
+    "arithmeticGeometricMean": 6.8869491658852136,
+    "median": 6.946999999999999,
+    "hash": "fe5cf70d726054f7",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8751",
+    "https://anilist.co/anime/10736",
+    "https://anime-planet.com/anime/pretty-cure-kara-minna-e-no-ouen-movie",
+    "https://anisearch.com/anime/7387",
+    "https://kitsu.io/anime/6324",
+    "https://livechart.me/anime/5744",
+    "https://myanimelist.net/anime/10736",
+    "https://notify.moe/anime/XRL4tKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b94743884bb90aa0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.749505433342168,
+    "arithmeticGeometricMean": 5.683435394394899,
+    "median": 6.06,
+    "hash": "b94743884bb90aa0",
+    "lastUpdate": "2024-05-09"
+  }
+}

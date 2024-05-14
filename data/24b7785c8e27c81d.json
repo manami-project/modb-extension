@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14844",
+    "https://anime-planet.com/anime/pinky-monkey-no-umareta-hi",
+    "https://kitsu.io/anime/10302",
+    "https://myanimelist.net/anime/29393",
+    "https://notify.moe/anime/eszUtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24b7785c8e27c81d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.354,
+    "arithmeticGeometricMean": 5.330521527376771,
+    "median": 5.055,
+    "hash": "24b7785c8e27c81d",
+    "lastUpdate": "2024-05-08"
+  }
+}

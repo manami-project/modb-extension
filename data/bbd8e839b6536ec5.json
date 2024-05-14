@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6769",
+    "https://anilist.co/anime/6676",
+    "https://anime-planet.com/anime/asura-cryin-2",
+    "https://anisearch.com/anime/5469",
+    "https://kitsu.io/anime/4660",
+    "https://livechart.me/anime/4011",
+    "https://myanimelist.net/anime/6676",
+    "https://notify.moe/anime/Vxx65KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bbd8e839b6536ec5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.310040294526901,
+    "arithmeticGeometricMean": 7.3089551220979425,
+    "median": 7.265625,
+    "hash": "bbd8e839b6536ec5",
+    "lastUpdate": "2024-05-08"
+  }
+}

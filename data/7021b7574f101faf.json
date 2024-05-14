@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7851",
+    "https://anime-planet.com/anime/hello-kitty-in-momotaro",
+    "https://anisearch.com/anime/7054",
+    "https://kitsu.io/anime/8999",
+    "https://myanimelist.net/anime/22447",
+    "https://notify.moe/anime/vrlbtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7021b7574f101faf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.437240816326531,
+    "arithmeticGeometricMean": 5.41325366613862,
+    "median": 4.94,
+    "hash": "7021b7574f101faf",
+    "lastUpdate": "2024-05-08"
+  }
+}

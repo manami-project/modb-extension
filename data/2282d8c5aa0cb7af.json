@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/118",
+    "https://anilist.co/anime/1734",
+    "https://anime-planet.com/anime/ajimu-kaigan-monogatari",
+    "https://anisearch.com/anime/15",
+    "https://kitsu.io/anime/1554",
+    "https://livechart.me/anime/5935",
+    "https://myanimelist.net/anime/1734",
+    "https://notify.moe/anime/8zOB5FmiR"
+  ],
+  "synopsis": {
+    "text": "Nakaido Hirosuke, a typical 17-year-old high school student, finds his mundane life taking an unexpected turn when he encounters the stunning Ajimu Yasuna at a train station. Smitten at first sight, Hirosuke struggles to confess his feelings, and Ajimu, too, remains uncertain of her own emotions. As they navigate the complexities of their budding relationship, they face various hurdles, including Ajimu's unresolved past and lingering feelings for an ex-boyfriend. Despite the initial awkwardness and misunderstandings, the pair finds themselves inexplicably drawn to each other, setting the stage for a heartwarming tale of love and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2282d8c5aa0cb7af",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.336280236770032,
+    "arithmeticGeometricMean": 6.330654055165579,
+    "median": 6.36,
+    "hash": "2282d8c5aa0cb7af",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/158620",
+    "https://anime-planet.com/anime/ran",
+    "https://kitsu.io/anime/47410",
+    "https://myanimelist.net/anime/57971"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3508721bbac7b5b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.722090909090909,
+    "arithmeticGeometricMean": 5.686111402059762,
+    "median": 5.722090909090909,
+    "hash": "d3508721bbac7b5b",
+    "lastUpdate": "2024-05-07"
+  }
+}

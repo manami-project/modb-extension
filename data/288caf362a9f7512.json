@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10599",
+    "https://anilist.co/anime/21015",
+    "https://anime-planet.com/anime/moonrakers",
+    "https://anisearch.com/anime/9604",
+    "https://kitsu.io/anime/8463",
+    "https://livechart.me/anime/8127",
+    "https://myanimelist.net/anime/23835",
+    "https://notify.moe/anime/Rqp0tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "288caf362a9f7512",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.5874078982242255,
+    "arithmeticGeometricMean": 5.580097998614983,
+    "median": 5.545454545454546,
+    "hash": "288caf362a9f7512",
+    "lastUpdate": "2024-05-09"
+  }
+}

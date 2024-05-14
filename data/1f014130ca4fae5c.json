@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104429",
+    "https://anime-planet.com/anime/maze-2012",
+    "https://anisearch.com/anime/12887",
+    "https://kitsu.io/anime/10201",
+    "https://myanimelist.net/anime/28653",
+    "https://notify.moe/anime/HHYypFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1f014130ca4fae5c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.9317671614100185,
+    "arithmeticGeometricMean": 4.924604635637371,
+    "median": 4.863636363636363,
+    "hash": "1f014130ca4fae5c",
+    "lastUpdate": "2024-05-06"
+  }
+}

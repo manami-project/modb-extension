@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/98186",
+    "https://anime-planet.com/anime/youjo-shenki",
+    "https://anisearch.com/anime/12421",
+    "https://kitsu.io/anime/13215",
+    "https://livechart.me/anime/2509",
+    "https://myanimelist.net/anime/34742",
+    "https://notify.moe/anime/kxyM2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8912feca98adfad",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.700794946550048,
+    "arithmeticGeometricMean": 6.69424983771812,
+    "median": 6.704,
+    "hash": "b8912feca98adfad",
+    "lastUpdate": "2024-05-10"
+  }
+}

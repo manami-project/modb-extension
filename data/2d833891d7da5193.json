@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136532",
+    "https://anime-planet.com/anime/ryokuoushoku-shakai-natsu-wo-ikiru",
+    "https://anisearch.com/anime/17878",
+    "https://kitsu.io/anime/47320",
+    "https://myanimelist.net/anime/42908"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2d833891d7da5193",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.346623376623376,
+    "arithmeticGeometricMean": 6.34430981147205,
+    "median": 6.253246753246753,
+    "hash": "2d833891d7da5193",
+    "lastUpdate": "2024-05-07"
+  }
+}

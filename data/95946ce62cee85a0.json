@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/344",
+    "https://anilist.co/anime/573",
+    "https://anime-planet.com/anime/saber-marionette-j",
+    "https://anisearch.com/anime/2154",
+    "https://kitsu.io/anime/530",
+    "https://livechart.me/anime/5001",
+    "https://myanimelist.net/anime/573",
+    "https://notify.moe/anime/I1UTcFimg"
+  ],
+  "synopsis": {
+    "text": "Due to an unforeseen catastrophe 300 years ago, the interstellar colonization vessel, Mesopotamia, crash-landed on Terra II, leaving only six male survivors who established the nation of Japoness. In this world, women are a distant memory, replaced by emotionless androids known as Marionettes. Otaru Mamiya, an ordinary teenager, finds himself in the dilapidated Japoness Pioneer Museum, where he stumbles upon a hibernation capsule containing an extraordinary Marionette named Lime. Unlike her counterparts, Lime possesses human emotions and a lively personality, which she attributes to her rare maiden circuit. Otaru's once mundane life becomes a whirlwind of excitement and emotion as he navigates the challenges that come with Lime's unique nature. Alongside Cherry and Bloodberry, two other Marionettes, Otaru must protect Terra II from the sinister Faust, who threatens to seize control of their beloved Japoness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "95946ce62cee85a0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.325706400742115,
+    "arithmeticGeometricMean": 7.323051997643436,
+    "median": 7.33,
+    "hash": "95946ce62cee85a0",
+    "lastUpdate": "2024-05-09"
+  }
+}

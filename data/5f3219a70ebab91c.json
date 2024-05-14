@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11330",
+    "https://anilist.co/anime/99217",
+    "https://anime-planet.com/anime/taiko-drum-master-15-shuunenkinen-short-animation",
+    "https://anisearch.com/anime/11136",
+    "https://kitsu.io/anime/11138",
+    "https://myanimelist.net/anime/31102",
+    "https://notify.moe/anime/XpJutFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5f3219a70ebab91c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.259035780545985,
+    "arithmeticGeometricMean": 5.2433166528006145,
+    "median": 5.2727272727272725,
+    "hash": "5f3219a70ebab91c",
+    "lastUpdate": "2024-05-08"
+  }
+}

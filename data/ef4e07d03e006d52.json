@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11024",
+    "https://anilist.co/anime/19233",
+    "https://anime-planet.com/anime/around",
+    "https://anisearch.com/anime/10133",
+    "https://kitsu.io/anime/8223",
+    "https://myanimelist.net/anime/19233",
+    "https://notify.moe/anime/DTpTpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef4e07d03e006d52",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.4914662072621265,
+    "arithmeticGeometricMean": 5.466605048237049,
+    "median": 5.7272727272727275,
+    "hash": "ef4e07d03e006d52",
+    "lastUpdate": "2024-05-08"
+  }
+}

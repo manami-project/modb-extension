@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121433",
+    "https://anime-planet.com/anime/kuro-nikuru-girls",
+    "https://anisearch.com/anime/16248",
+    "https://kitsu.io/anime/13173",
+    "https://myanimelist.net/anime/34764",
+    "https://notify.moe/anime/kmbGhKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a00ba9ec9aadb3cf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.7833580705009275,
+    "arithmeticGeometricMean": 4.776134839735673,
+    "median": 4.744897959183673,
+    "hash": "a00ba9ec9aadb3cf",
+    "lastUpdate": "2024-05-06"
+  }
+}

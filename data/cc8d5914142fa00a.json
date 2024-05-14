@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14345",
+    "https://anilist.co/anime/109347",
+    "https://anime-planet.com/anime/nobara",
+    "https://anisearch.com/anime/10523",
+    "https://kitsu.io/anime/10537",
+    "https://myanimelist.net/anime/29900",
+    "https://notify.moe/anime/ey6UtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc8d5914142fa00a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.878631725417439,
+    "arithmeticGeometricMean": 4.87205651036205,
+    "median": 4.818181818181818,
+    "hash": "cc8d5914142fa00a",
+    "lastUpdate": "2024-05-08"
+  }
+}

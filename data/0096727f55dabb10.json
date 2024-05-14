@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8718",
+    "https://anilist.co/anime/104436",
+    "https://anime-planet.com/anime/pretty-cure-splash-star-magic-doki-3d-theater",
+    "https://anisearch.com/anime/7363",
+    "https://kitsu.io/anime/9124",
+    "https://livechart.me/anime/6550",
+    "https://myanimelist.net/anime/26053",
+    "https://notify.moe/anime/GXNatFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0096727f55dabb10",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.9968746355685125,
+    "arithmeticGeometricMean": 5.977380267650953,
+    "median": 6.090909090909091,
+    "hash": "0096727f55dabb10",
+    "lastUpdate": "2024-05-09"
+  }
+}

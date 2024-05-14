@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6920",
+    "https://anilist.co/anime/10759",
+    "https://anime-planet.com/anime/kintarou",
+    "https://anisearch.com/anime/8719",
+    "https://kitsu.io/anime/6336",
+    "https://myanimelist.net/anime/10759",
+    "https://notify.moe/anime/DPPVtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "43a12c94b8734d9a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.67760667903525,
+    "arithmeticGeometricMean": 4.619931284267936,
+    "median": 4.909090909090909,
+    "hash": "43a12c94b8734d9a",
+    "lastUpdate": "2024-05-07"
+  }
+}

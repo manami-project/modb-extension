@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/114196",
+    "https://anime-planet.com/anime/days-of-urashimasakatasen-special",
+    "https://livechart.me/anime/9734",
+    "https://myanimelist.net/anime/40921"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "97bcc06ee54cc77a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.149212121212121,
+    "arithmeticGeometricMean": 6.131812439429446,
+    "median": 6.12,
+    "hash": "97bcc06ee54cc77a",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102306",
+    "https://anime-planet.com/anime/lite-human-gift",
+    "https://kitsu.io/anime/14063",
+    "https://myanimelist.net/anime/36072",
+    "https://notify.moe/anime/10tN2FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aa06f7c53f521177",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.958969696969697,
+    "arithmeticGeometricMean": 4.935730781051786,
+    "median": 5.07,
+    "hash": "aa06f7c53f521177",
+    "lastUpdate": "2024-05-06"
+  }
+}

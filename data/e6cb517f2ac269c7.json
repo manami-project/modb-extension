@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11837",
+    "https://anilist.co/anime/139884",
+    "https://anime-planet.com/anime/letchu-getchu-saru-getchu",
+    "https://anisearch.com/anime/11342",
+    "https://kitsu.io/anime/11259",
+    "https://myanimelist.net/anime/31054",
+    "https://notify.moe/anime/99ZrtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e6cb517f2ac269c7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.428760667903525,
+    "arithmeticGeometricMean": 5.376056886341582,
+    "median": 5.0,
+    "hash": "e6cb517f2ac269c7",
+    "lastUpdate": "2024-05-08"
+  }
+}

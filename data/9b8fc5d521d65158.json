@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13922",
+    "https://anilist.co/anime/102576",
+    "https://anime-planet.com/anime/wangu-xian-qiong-ii",
+    "https://anisearch.com/anime/14527",
+    "https://kitsu.io/anime/41157",
+    "https://livechart.me/anime/9288",
+    "https://myanimelist.net/anime/37294",
+    "https://notify.moe/anime/K9iBnNGiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b8fc5d521d65158",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.659969696969696,
+    "arithmeticGeometricMean": 6.639979054699344,
+    "median": 6.648181818181818,
+    "hash": "9b8fc5d521d65158",
+    "lastUpdate": "2024-05-10"
+  }
+}

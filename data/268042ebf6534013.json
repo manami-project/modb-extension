@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7492",
+    "https://anilist.co/anime/143296",
+    "https://anime-planet.com/anime/high-school-jingi",
+    "https://anisearch.com/anime/6218",
+    "https://kitsu.io/anime/9320",
+    "https://myanimelist.net/anime/24089",
+    "https://notify.moe/anime/IFifpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "268042ebf6534013",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.6883129251700675,
+    "arithmeticGeometricMean": 5.682237454163629,
+    "median": 5.809938775510204,
+    "hash": "268042ebf6534013",
+    "lastUpdate": "2024-05-08"
+  }
+}

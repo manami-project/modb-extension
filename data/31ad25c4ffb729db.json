@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1149",
+    "https://anilist.co/anime/2397",
+    "https://anime-planet.com/anime/digimon-adventure-movie-2-bokura-no-war-game",
+    "https://anisearch.com/anime/250",
+    "https://kitsu.io/anime/7827",
+    "https://livechart.me/anime/4234",
+    "https://myanimelist.net/anime/2397",
+    "https://notify.moe/anime/UF-ttFimR"
+  ],
+  "synopsis": {
+    "text": "Virus-type Digimon, a new threat, emerges from the depths of the internet, consuming data and causing chaos across Japan in the aftermath of the Adventure series. This menacing digital entity, capable of evolving as it devours more data, infiltrates crucial systems, including the American military. Taichi and Koushiro, sensing the impending danger, dispatch Agumon and Tentomon through the internet to confront this formidable adversary.\n\nAs the telephone networks fall prey to the virus and communication becomes a challenge, the duo seeks assistance from Yamato and Takeru. In a desperate attempt to thwart the rapidly growing menace, they must reunite and devise a strategy to halt the destruction. With Diaboromon manipulating military computers and targeting their hometown with missiles, the Digidestined face a daunting race against time to save their world once again. Can they outsmart the evil Digimon and prevent a catastrophe before it's too late?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "31ad25c4ffb729db",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.527021490414348,
+    "arithmeticGeometricMean": 7.5225375472039495,
+    "median": 7.685952380952381,
+    "hash": "31ad25c4ffb729db",
+    "lastUpdate": "2024-05-09"
+  }
+}

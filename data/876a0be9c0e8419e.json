@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/117222",
+    "https://anime-planet.com/anime/tsuki-no-buranko",
+    "https://myanimelist.net/anime/40905"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "876a0be9c0e8419e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.608181818181818,
+    "arithmeticGeometricMean": 5.567754715756052,
+    "median": 5.6,
+    "hash": "876a0be9c0e8419e",
+    "lastUpdate": "2024-05-07"
+  }
+}

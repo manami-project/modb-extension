@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7580",
+    "https://anilist.co/anime/104569",
+    "https://anime-planet.com/anime/trusty-ginjiro",
+    "https://anisearch.com/anime/5648",
+    "https://kitsu.io/anime/9398",
+    "https://myanimelist.net/anime/24489",
+    "https://notify.moe/anime/2rKBpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73f71ec8b089ff48",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.77388719851577,
+    "arithmeticGeometricMean": 5.750516089367246,
+    "median": 5.408163265306122,
+    "hash": "73f71ec8b089ff48",
+    "lastUpdate": "2024-05-08"
+  }
+}

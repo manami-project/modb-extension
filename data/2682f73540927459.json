@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12957",
+    "https://anilist.co/anime/98439",
+    "https://anime-planet.com/anime/mitsuboshi-colors",
+    "https://anisearch.com/anime/12381",
+    "https://kitsu.io/anime/13227",
+    "https://livechart.me/anime/2578",
+    "https://myanimelist.net/anime/35078",
+    "https://notify.moe/anime/sSQGhKmiR"
+  ],
+  "synopsis": {
+    "text": "At the heart of Tokyo's bustling Ueno district, a trio of spirited elementary school girls form the self-proclaimed justice organization, Colors. Comprised of the timid Yui Akamatsu, the boisterous Sacchan, and the video game enthusiast Kotoha, the group is dedicated to upholding peace and justice within their beloved park.\n\nHowever, their noble mission is more of a playful fantasy, as the Colors spend most of their time engaging in imaginative games and exploring their urban playground. Their secret base, a wooden hut nestled within the park, serves as the starting point for their daily adventures.\n\nThe girls' whimsical escapades are often facilitated by the kind-hearted Daigorou 'Pops' Kujiraoka, who owns a nearby store filled with trinkets that fuel the Colors' creativity. Yet, not everyone in Ueno shares the same enthusiasm for the group's antics. Saitou, a stern police officer, finds himself frequently entangled in the Colors' make-believe world, often cast as the villain in their games. Despite his reluctance, Saitou begrudgingly participates in their activities, adding an unexpected layer of excitement to their adventures.\n\nWhile the Colors may not be the city's actual guardians, their lively presence undeniably brings joy and laughter to everyone they encounter, making Ueno a brighter place to be.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2682f73540927459",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.339765876980162,
+    "arithmeticGeometricMean": 7.3380876351618785,
+    "median": 7.368356643356643,
+    "hash": "2682f73540927459",
+    "lastUpdate": "2024-05-09"
+  }
+}

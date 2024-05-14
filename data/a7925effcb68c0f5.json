@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13563",
+    "https://anilist.co/anime/121707",
+    "https://anime-planet.com/anime/hiragana-danshi-movie-jo",
+    "https://anisearch.com/anime/13568",
+    "https://kitsu.io/anime/41660",
+    "https://livechart.me/anime/6125",
+    "https://myanimelist.net/anime/36749"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a7925effcb68c0f5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.336363636363636,
+    "arithmeticGeometricMean": 6.291328280335365,
+    "median": 6.336363636363636,
+    "hash": "a7925effcb68c0f5",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3364",
+    "https://anilist.co/anime/6975",
+    "https://anime-planet.com/anime/koros-big-day-out",
+    "https://anisearch.com/anime/296",
+    "https://kitsu.io/anime/4815",
+    "https://livechart.me/anime/8608",
+    "https://myanimelist.net/anime/6975",
+    "https://notify.moe/anime/uLNgtKmiR"
+  ],
+  "synopsis": {
+    "text": "Ghibli Museum's exclusive short film introduces us to Koro, a young, adventurous puppy living in a quaint town with his loving family. One day, when his little mistress, Sawako, leaves for school, she accidentally leaves the gate ajar. Seizing the opportunity, Koro embarks on an exciting escapade through the streets of the town.\n\nAs he explores the world beyond his garden, Koro encounters various townsfolk, including a girl on a bicycle, kind-hearted owners of an old dog, and a delivery van driver. Along the way, he also narrowly escapes being run over by a car and faces the wrath of an alley cat.\n\nMeanwhile, Sawako and her father, upon discovering Koro's disappearance, embark on a desperate search for their beloved pet, plastering 'Lost' signs around the town.\n\nTired from his adventure, Koro eventually falls asleep under a delivery van, only to be transported closer to home. Upon sensing the familiar scent of his neighborhood, Koro leaps out of the truck and into the warm embrace of his relieved mistress. This heartwarming tale of a curious puppy's adventure and the love between a girl and her pet unfolds in just 15 enchanting minutes.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fad8783dc9beef6d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.296636982065554,
+    "arithmeticGeometricMean": 6.282562642664518,
+    "median": 6.552727272727273,
+    "hash": "fad8783dc9beef6d",
+    "lastUpdate": "2024-05-09"
+  }
+}

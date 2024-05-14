@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7703",
+    "https://anilist.co/anime/9032",
+    "https://anime-planet.com/anime/inazuma-eleven-saikyou-gundan-ogre-shuurai",
+    "https://anisearch.com/anime/6356",
+    "https://kitsu.io/anime/5580",
+    "https://livechart.me/anime/5271",
+    "https://myanimelist.net/anime/9032",
+    "https://notify.moe/anime/aJhWtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c8f9d238b376c0a4",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.1901861471861475,
+    "arithmeticGeometricMean": 7.183150050823281,
+    "median": 7.381818181818182,
+    "hash": "c8f9d238b376c0a4",
+    "lastUpdate": "2024-05-09"
+  }
+}

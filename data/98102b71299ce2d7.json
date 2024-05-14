@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10730",
+    "https://anilist.co/anime/9895",
+    "https://anime-planet.com/anime/the-bathroom",
+    "https://anisearch.com/anime/9818",
+    "https://kitsu.io/anime/5928",
+    "https://myanimelist.net/anime/9895",
+    "https://notify.moe/anime/cH9MpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "98102b71299ce2d7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.080948847071296,
+    "arithmeticGeometricMean": 4.041020954273036,
+    "median": 4.090909090909091,
+    "hash": "98102b71299ce2d7",
+    "lastUpdate": "2024-05-07"
+  }
+}

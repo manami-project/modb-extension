@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11777",
+    "https://anilist.co/anime/6491",
+    "https://anime-planet.com/anime/scandal",
+    "https://anisearch.com/anime/5765",
+    "https://kitsu.io/anime/4580",
+    "https://livechart.me/anime/6676",
+    "https://myanimelist.net/anime/6491",
+    "https://notify.moe/anime/l_VecKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0a087bc4012883e1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.238241717466208,
+    "arithmeticGeometricMean": 5.206516646593021,
+    "median": 5.28,
+    "hash": "0a087bc4012883e1",
+    "lastUpdate": "2024-05-09"
+  }
+}

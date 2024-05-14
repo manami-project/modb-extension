@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12854",
+    "https://anilist.co/anime/105444",
+    "https://anime-planet.com/anime/goichi-jiisan",
+    "https://anisearch.com/anime/12264",
+    "https://kitsu.io/anime/41595",
+    "https://myanimelist.net/anime/35749"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b9fb6c2f7ab1b2c8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.855789239332097,
+    "arithmeticGeometricMean": 4.833848712057716,
+    "median": 4.63,
+    "hash": "b9fb6c2f7ab1b2c8",
+    "lastUpdate": "2024-05-08"
+  }
+}

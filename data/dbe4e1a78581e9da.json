@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1698",
+    "https://anilist.co/anime/2582",
+    "https://anime-planet.com/anime/armored-trooper-votoms",
+    "https://anisearch.com/anime/2498",
+    "https://kitsu.io/anime/2347",
+    "https://livechart.me/anime/4892",
+    "https://myanimelist.net/anime/2582",
+    "https://notify.moe/anime/V1Ny5KmiR"
+  ],
+  "synopsis": {
+    "text": "Surviving a century of interstellar warfare, Armored Trooper Chirico Cuvie is thrust into a covert and illicit operation to pilfer military secrets from his own forces. Betrayed by his commanders and left for dead, Chirico narrowly escapes the cold grasp of space. Haunted by the vision of a captivating woman encased in an energy capsule, he embarks on a perilous journey to unveil the truth behind her identity and the treacherous schemes of his superiors.\n\nBranded a renegade and pursued by both the conspirators and military intelligence, Chirico seeks refuge in Uoodo City, a lawless sanctuary teeming with outlaws and fugitives. Amidst the chaos, he must rely on his combat prowess and unwavering determination to survive. As he delves deeper into the enigma surrounding the mysterious woman, Chirico's quest for justice threatens to expose the dark secrets of the Astragius Galaxy and upend the fragile balance of power.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dbe4e1a78581e9da",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.058176340666137,
+    "arithmeticGeometricMean": 7.009893225491875,
+    "median": 7.49,
+    "hash": "dbe4e1a78581e9da",
+    "lastUpdate": "2024-05-10"
+  }
+}

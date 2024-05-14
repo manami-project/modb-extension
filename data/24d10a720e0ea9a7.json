@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/111076",
+    "https://anime-planet.com/anime/kappa-no-kui-kuo-kua",
+    "https://kitsu.io/anime/43406",
+    "https://myanimelist.net/anime/39877"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24d10a720e0ea9a7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.23321212121212,
+    "arithmeticGeometricMean": 5.208560156180891,
+    "median": 5.22,
+    "hash": "24d10a720e0ea9a7",
+    "lastUpdate": "2024-05-07"
+  }
+}

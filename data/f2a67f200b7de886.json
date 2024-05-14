@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11186",
+    "https://anilist.co/anime/21140",
+    "https://anime-planet.com/anime/typhoon-noruda",
+    "https://anisearch.com/anime/10387",
+    "https://kitsu.io/anime/10869",
+    "https://livechart.me/anime/1509",
+    "https://myanimelist.net/anime/30585",
+    "https://notify.moe/anime/N0p_pKiiR"
+  ],
+  "synopsis": {
+    "text": "Shūichi Azuma, a dedicated baseball player, finds himself at odds with his best friend, Kenta Saijō, after making the sudden decision to quit the sport he's loved his entire life. This tumultuous event unfolds on the eve of their middle school's culture festival, set against the backdrop of a secluded island town. Amidst the escalating tension between the two friends, a mysterious girl named Noruda appears, her striking red eyes as enigmatic as the peculiar necklace she wears.\n\nAs the island braces for the onslaught of an approaching typhoon, Azuma witnesses Noruda standing atop an electrical tower, a sight that precedes a lightning strike that plunges the school into darkness. With the storm's intensity growing, Azuma, unwilling to remain in Saijō's company, rushes to the aid of the mysterious girl.\n\nThe students find themselves trapped, their personal conflicts momentarily forgotten as they grapple with the reality of the storm and the strange occurrences surrounding Noruda. As they strive to save themselves and potentially the world, Azuma and Saijō must confront their differences and unravel the mystery of the girl who arrived with the storm in TYPHOON NORUDA.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f2a67f200b7de886",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.3681083050775165,
+    "arithmeticGeometricMean": 6.360516506177988,
+    "median": 6.200909090909091,
+    "hash": "f2a67f200b7de886",
+    "lastUpdate": "2024-05-10"
+  }
+}

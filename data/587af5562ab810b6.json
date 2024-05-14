@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4880",
+    "https://anilist.co/anime/1735",
+    "https://anime-planet.com/anime/naruto-shippuden",
+    "https://anisearch.com/anime/3972",
+    "https://kitsu.io/anime/1555",
+    "https://livechart.me/anime/316",
+    "https://myanimelist.net/anime/1735",
+    "https://notify.moe/anime/97dB5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Orochimaru's looming threat and the desire to save his friend Sasuke propel Naruto Uzumaki to return to his home village of Konoha after two and a half years of intense training. As the sinister organization Akatsuki begins to execute their mysterious grand plan, Naruto and his friends must confront new enemies and challenges. With his unwavering determination to protect his friends and become Hokage, Naruto embarks on a series of action-packed adventures alongside his old and new comrades. As the danger escalates and the stakes grow higher, Naruto must rely on his improved abilities and the support of his friends to face the menacing forces that threaten the shinobi world. Join Naruto, Sakura, and the rest of Team Kakashi as they navigate the treacherous path towards their goals in this thrilling continuation of the Naruto saga.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "587af5562ab810b6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.195444961464547,
+    "arithmeticGeometricMean": 8.192250078518233,
+    "median": 8.287188009123494,
+    "hash": "587af5562ab810b6",
+    "lastUpdate": "2024-05-09"
+  }
+}

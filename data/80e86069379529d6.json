@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9014",
+    "https://anilist.co/anime/14381",
+    "https://anime-planet.com/anime/sore-ike-anpanman-yomigaere-bananajima",
+    "https://anisearch.com/anime/7638",
+    "https://kitsu.io/anime/7122",
+    "https://livechart.me/anime/11453",
+    "https://myanimelist.net/anime/14381",
+    "https://notify.moe/anime/iUVOtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80e86069379529d6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.396179591836734,
+    "arithmeticGeometricMean": 6.367146171531184,
+    "median": 6.0,
+    "hash": "80e86069379529d6",
+    "lastUpdate": "2024-05-10"
+  }
+}

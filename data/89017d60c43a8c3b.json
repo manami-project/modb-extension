@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6672",
+    "https://anilist.co/anime/6712",
+    "https://anime-planet.com/anime/natsu-no-arashi-akinaichuu",
+    "https://anisearch.com/anime/5484",
+    "https://kitsu.io/anime/4680",
+    "https://livechart.me/anime/5659",
+    "https://myanimelist.net/anime/6712",
+    "https://notify.moe/anime/k9fe5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89017d60c43a8c3b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.250748122625673,
+    "arithmeticGeometricMean": 7.2494070155709425,
+    "median": 7.3,
+    "hash": "89017d60c43a8c3b",
+    "lastUpdate": "2024-05-09"
+  }
+}

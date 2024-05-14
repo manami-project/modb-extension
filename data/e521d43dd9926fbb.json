@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15542",
+    "https://anilist.co/anime/129220",
+    "https://anime-planet.com/anime/taiyi-xianmo-lu-zhi-ling-fei-ji-2nd-season",
+    "https://anisearch.com/anime/16125",
+    "https://kitsu.io/anime/45284",
+    "https://myanimelist.net/anime/44634",
+    "https://notify.moe/anime/DEPxF9aMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e521d43dd9926fbb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.0,
+    "arithmeticGeometricMean": 6.0,
+    "median": 6.0,
+    "hash": "e521d43dd9926fbb",
+    "lastUpdate": "2024-05-08"
+  }
+}

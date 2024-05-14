@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2585",
+    "https://anilist.co/anime/7980",
+    "https://anime-planet.com/anime/shin-obake-no-q-tarou",
+    "https://anisearch.com/anime/500",
+    "https://kitsu.io/anime/5167",
+    "https://myanimelist.net/anime/7980",
+    "https://notify.moe/anime/_yEktKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0605840759470adc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.732045454545455,
+    "arithmeticGeometricMean": 5.701812546719195,
+    "median": 5.715,
+    "hash": "0605840759470adc",
+    "lastUpdate": "2024-05-08"
+  }
+}

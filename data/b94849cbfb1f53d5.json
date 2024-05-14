@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16699",
+    "https://anilist.co/anime/103354",
+    "https://anime-planet.com/anime/da-shi-jie",
+    "https://anisearch.com/anime/12674",
+    "https://kitsu.io/anime/41150",
+    "https://myanimelist.net/anime/37177",
+    "https://notify.moe/anime/WQTlnNMmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b94849cbfb1f53d5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.996229128014842,
+    "arithmeticGeometricMean": 5.988741835798195,
+    "median": 5.874090909090909,
+    "hash": "b94849cbfb1f53d5",
+    "lastUpdate": "2024-05-08"
+  }
+}

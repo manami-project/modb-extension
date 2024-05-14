@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3030",
+    "https://anilist.co/anime/936",
+    "https://anime-planet.com/anime/naruto-movie-2-legend-of-the-stone-of-gelel",
+    "https://anisearch.com/anime/2988",
+    "https://kitsu.io/anime/833",
+    "https://livechart.me/anime/3881",
+    "https://myanimelist.net/anime/936",
+    "https://notify.moe/anime/UM415KmiR"
+  ],
+  "synopsis": {
+    "text": "Shikamaru, Naruto, and Sakura embark on a seemingly simple mission to return a lost pet to its rightful home. However, their journey takes a perilous turn when they are ambushed by a formidable knight, Temujin, and his enigmatic troops. Amidst the chaos of the battle, the trio is separated, and Naruto finds himself locked in a high-stakes duel with Temujin. Their intense clash culminates in both combatants plummeting from a towering cliff.\n\nMeanwhile, Shikamaru stumbles upon a colossal moving fortress, wreaking havoc in its path. Driven by a need to understand the situation, he infiltrates the imposing structure. Inside, he uncovers a chilling sight that hints at a darker, more complex conflict brewing on the horizon. As the Konohagakure and Sunagakure ninjas unite to repel the invading armored warriors, they find themselves entangled in a battle that transcends mere territorial disputes, revealing a clash of ideologies and visions for an ideal world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d007e37dcb9b7a7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.8276973304473305,
+    "arithmeticGeometricMean": 6.822393573970324,
+    "median": 6.925,
+    "hash": "7d007e37dcb9b7a7",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8500",
+    "https://anisearch.com/anime/7176",
+    "https://kitsu.io/anime/11514",
+    "https://notify.moe/anime/mPpjpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92fe565cbf40d5a2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.241496598639455,
+    "arithmeticGeometricMean": 5.239507097447936,
+    "median": 5.224489795918367,
+    "hash": "92fe565cbf40d5a2",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/boku-no-aozora",
+    "https://kitsu.io/anime/11087",
+    "https://myanimelist.net/anime/31003",
+    "https://notify.moe/anime/t3dupKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3ad85c9b34bb387d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "3ad85c9b34bb387d",
+    "lastUpdate": "2024-05-07"
+  }
+}

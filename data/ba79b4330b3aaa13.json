@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11658",
+    "https://anilist.co/anime/103367",
+    "https://anime-planet.com/anime/requiem-2012",
+    "https://anisearch.com/anime/11207",
+    "https://kitsu.io/anime/11425",
+    "https://myanimelist.net/anime/31689",
+    "https://notify.moe/anime/Af39tFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ba79b4330b3aaa13",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.9911569926671966,
+    "arithmeticGeometricMean": 3.926285201603585,
+    "median": 4.090909090909091,
+    "hash": "ba79b4330b3aaa13",
+    "lastUpdate": "2024-05-08"
+  }
+}

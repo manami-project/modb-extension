@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15998",
+    "https://anilist.co/anime/128712",
+    "https://anime-planet.com/anime/the-detective-is-already-dead",
+    "https://anisearch.com/anime/15908",
+    "https://kitsu.io/anime/44022",
+    "https://livechart.me/anime/10355",
+    "https://myanimelist.net/anime/46471",
+    "https://notify.moe/anime/PaL6JbfGR"
+  ],
+  "synopsis": {
+    "text": "Though Kimihiko Kimizuka, a high school student, has always been a magnet for trouble, his life takes a dramatic turn when he becomes the assistant to the enigmatic and beautiful detective, Siesta. Together, they embark on thrilling, globe-trotting adventures, thwarting hijackings, and combating a secret organization. However, their partnership comes to a tragic end with Siesta's untimely death.\n\nIn an attempt to return to normalcy, Kimihiko resumes his mundane life as a student, but fate has other plans. He encounters a girl who bears a striking resemblance to Siesta, and a new case lands in his lap, threatening to disrupt his newly regained routine. This case not only stirs up old memories but also hints at a connection to his deceased partner and a global conspiracy. As Kimihiko delves deeper, he realizes that Siesta's legacy may not be as buried as he thought, and he might just be the one to uncover it.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef0c79efe270338f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.56048148632052,
+    "arithmeticGeometricMean": 6.549744907410104,
+    "median": 6.589636363636364,
+    "hash": "ef0c79efe270338f",
+    "lastUpdate": "2024-05-10"
+  }
+}

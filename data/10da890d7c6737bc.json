@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4444",
+    "https://anilist.co/anime/3004",
+    "https://anime-planet.com/anime/saint-beast-ikusen-no-hiru-to-yoru-hen",
+    "https://anisearch.com/anime/4402",
+    "https://kitsu.io/anime/2715",
+    "https://livechart.me/anime/7226",
+    "https://myanimelist.net/anime/3004",
+    "https://notify.moe/anime/L6LU5FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "10da890d7c6737bc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.050434667373444,
+    "arithmeticGeometricMean": 6.038662255851368,
+    "median": 6.0,
+    "hash": "10da890d7c6737bc",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102374",
+    "https://anime-planet.com/anime/pororo-the-little-penguin-2",
+    "https://anisearch.com/anime/11364",
+    "https://kitsu.io/anime/9544",
+    "https://myanimelist.net/anime/27451",
+    "https://notify.moe/anime/86jftFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "70577cd0106738a2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.649681818181818,
+    "arithmeticGeometricMean": 5.634480346644986,
+    "median": 5.516363636363636,
+    "hash": "70577cd0106738a2",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17208",
+    "https://anilist.co/anime/145545",
+    "https://anime-planet.com/anime/classroom-of-the-elite-2nd-season",
+    "https://anisearch.com/anime/17152",
+    "https://kitsu.io/anime/45925",
+    "https://livechart.me/anime/11092",
+    "https://myanimelist.net/anime/51096",
+    "https://notify.moe/anime/QfoYXABnR"
+  ],
+  "synopsis": {
+    "text": "Ryuuen Kakeru and Karuizawa Kei's brewing conflicts add fuel to the fire as the first-year students of Tokyo Metropolitan Advanced Nurturing High School brace themselves for another challenging special exam. The luxurious cruise liner, Speranza, offers a brief respite after their survival test on a deserted island, but the real battle lies ahead.\n\nIn this seemingly utopian high school, the meritocratic system pushes students to their limits. Kiyotaka Ayanokouji, a member of the underachieving D-class, forms an alliance with the ambitious Suzune Horikita, determined to rise above their current status. The upcoming exam, however, shuffles the deck, dividing students into eight groups named after the solar system's planets. With each group comprising members from all classes, the competition intensifies.\n\nThe administrators designate one member from each group as a \"VIP,\" and twice-daily discussions ensue to identify them. Students grapple with the decision to expose their VIP, weighing the potential benefits and consequences. With both individual and class points at stake, the stakes are higher than ever.\n\nAmidst this chaos, Ryuuen is hell-bent on outperforming every class by any means necessary, driven by resentment from the previous exam. Simultaneously, Karuizawa, a key member of Class D, struggles under the weight of her past, threatening to jeopardize their chances.\n\nIn this high-stakes game of strategy and manipulation, Kiyotaka must once again utilize his cunning and foresight to steer Class D towards victory. As enemy forces close in, ready to seize any opportunity to bring them down, the question remains: which class will emerge triumphant?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ac5db325cc6a7cab",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.13047414339729,
+    "arithmeticGeometricMean": 8.126428311136982,
+    "median": 8.261605293440738,
+    "hash": "ac5db325cc6a7cab",
+    "lastUpdate": "2024-05-10"
+  }
+}

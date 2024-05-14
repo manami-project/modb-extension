@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/the-binary-vector-fish",
+    "https://anisearch.com/anime/18881"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7122282eecf17d8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.74226530612245,
+    "arithmeticGeometricMean": 6.735849023446214,
+    "median": 6.74226530612245,
+    "hash": "d7122282eecf17d8",
+    "lastUpdate": "2024-05-07"
+  }
+}

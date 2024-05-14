@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9500",
+    "https://anilist.co/anime/18943",
+    "https://anime-planet.com/anime/shimajirou-to-fufu-no-daibouken-movie-sukue-nana-iro-no-hana",
+    "https://anisearch.com/anime/8185",
+    "https://kitsu.io/anime/9040",
+    "https://myanimelist.net/anime/18943",
+    "https://notify.moe/anime/w36xpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8ca3d717aee90e59",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.342769944341374,
+    "arithmeticGeometricMean": 6.3036510111665525,
+    "median": 6.531539888682746,
+    "hash": "8ca3d717aee90e59",
+    "lastUpdate": "2024-05-08"
+  }
+}

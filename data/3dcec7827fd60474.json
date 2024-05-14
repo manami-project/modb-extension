@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/omoi-greenlights-serenade",
+    "https://kitsu.io/anime/47304",
+    "https://myanimelist.net/anime/41308"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3dcec7827fd60474",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.237,
+    "arithmeticGeometricMean": 6.235800056160392,
+    "median": 6.237,
+    "hash": "3dcec7827fd60474",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8633",
+    "https://anime-planet.com/anime/bavi-stock-ii-the-revenge-of-eyesman-ai-no-kodou-no-kanata-ni"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "948b7723805baca6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.234,
+    "arithmeticGeometricMean": 5.180249671865004,
+    "median": 5.234,
+    "hash": "948b7723805baca6",
+    "lastUpdate": "2024-05-07"
+  }
+}

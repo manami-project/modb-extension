@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4346",
+    "https://anilist.co/anime/2235",
+    "https://anime-planet.com/anime/mizu-no-kotoba",
+    "https://anisearch.com/anime/3685",
+    "https://kitsu.io/anime/2026",
+    "https://livechart.me/anime/4316",
+    "https://myanimelist.net/anime/2235",
+    "https://notify.moe/anime/T_4PcFmmg"
+  ],
+  "synopsis": {
+    "text": "Among st the bustling atmosphere of a cozy cafe, a diverse group of patrons find solace in conversation and introspection. Two young women engage in a spirited exchange of rumors, while two gentlemen delve into a heated debate. A solitary bookworm seeks refuge in the pages of a captivating novel, and a heartbroken boy grapples with the aftermath of a recent breakup. The waitress, sensing his distress, initiates a dialogue and guides him towards an unassuming easel tucked away in the corner. As the evening unfolds, the cafe's inhabitants begin to discern peculiar occurrences, sparking curiosity and intrigue. Through a tapestry of human connections and shared experiences, the waitress imparts a profound lesson about the enduring nature of relationships, leaving a lasting impact on all present. In this quaint cafe, the boundaries of reality and imagination blur, inviting patrons to explore the extraordinary potential of human language and connection.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a194c99de39735a0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.65721144821565,
+    "arithmeticGeometricMean": 6.646718949605859,
+    "median": 6.713,
+    "hash": "a194c99de39735a0",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6735",
+    "https://anilist.co/anime/6828",
+    "https://anime-planet.com/anime/ohisama-to-kaeru",
+    "https://anisearch.com/anime/5680",
+    "https://kitsu.io/anime/4730",
+    "https://myanimelist.net/anime/6828",
+    "https://notify.moe/anime/z-9e5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a4c3b60e84b2342c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.343224489795918,
+    "arithmeticGeometricMean": 4.2924095601979895,
+    "median": 4.38,
+    "hash": "a4c3b60e84b2342c",
+    "lastUpdate": "2024-05-08"
+  }
+}

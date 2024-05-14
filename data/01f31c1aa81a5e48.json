@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9786",
+    "https://anilist.co/anime/18155",
+    "https://anime-planet.com/anime/line-town",
+    "https://anisearch.com/anime/8434",
+    "https://kitsu.io/anime/9020",
+    "https://livechart.me/anime/826",
+    "https://myanimelist.net/anime/18155",
+    "https://notify.moe/anime/G2jxtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "01f31c1aa81a5e48",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.261452319109462,
+    "arithmeticGeometricMean": 6.2386652118155626,
+    "median": 6.186,
+    "hash": "01f31c1aa81a5e48",
+    "lastUpdate": "2024-05-09"
+  }
+}

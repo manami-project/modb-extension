@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5",
+    "https://anilist.co/anime/397",
+    "https://anime-planet.com/anime/banner-of-the-stars-ii",
+    "https://anisearch.com/anime/772",
+    "https://kitsu.io/anime/364",
+    "https://livechart.me/anime/5589",
+    "https://myanimelist.net/anime/397",
+    "https://notify.moe/anime/aPj25Fiig"
+  ],
+  "synopsis": {
+    "text": "Abh's rapid expansion following the successful Operation Phantom Flame at Aptic Gate has led to a critical shortage of diplomats and administrators, prompting the appointment of Princess Lafiel and Jinto as ambassadors to the newly conquered planet Lobnas II. Their mission: establish a new government on the planet. However, Lobnas II is not your typical planet; it's a prison colony housing a million inmates, segregated into three sectors based on gender and sterilization status.\n\nAs tensions rise among the prisoners, a rebellion erupts, leaving Lafiel and Jinto caught in the crossfire. The situation worsens when an enemy fleet approaches, forcing Lafiel to abandon Jinto. Meanwhile, the Abh star force launches Operation Hunter, aiming to seek and destroy the remaining scattered forces of United Mankind.\n\nWith chaos ensuing on Lobnas II and an enemy fleet on the horizon, Lafiel and Jinto must navigate the treacherous waters of political unrest and warfare, where one wrong move could cost them their lives.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "757ba9a546ff844f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.869540816326531,
+    "arithmeticGeometricMean": 7.868332691555323,
+    "median": 7.8100000000000005,
+    "hash": "757ba9a546ff844f",
+    "lastUpdate": "2024-05-09"
+  }
+}

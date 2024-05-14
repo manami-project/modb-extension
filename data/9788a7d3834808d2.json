@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15122",
+    "https://anime-planet.com/anime/paxiu-de-huangying",
+    "https://anisearch.com/anime/15631",
+    "https://myanimelist.net/anime/43274"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9788a7d3834808d2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.4163061224489795,
+    "arithmeticGeometricMean": 5.325796982124802,
+    "median": 5.4163061224489795,
+    "hash": "9788a7d3834808d2",
+    "lastUpdate": "2024-05-08"
+  }
+}

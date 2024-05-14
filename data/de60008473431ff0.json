@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7866",
+    "https://anilist.co/anime/17983",
+    "https://anime-planet.com/anime/kero-kero-keroppi-no-christmas-eve-no-okurimono",
+    "https://anisearch.com/anime/7028",
+    "https://kitsu.io/anime/9015",
+    "https://myanimelist.net/anime/17983",
+    "https://notify.moe/anime/l_rbtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de60008473431ff0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.128056895485467,
+    "arithmeticGeometricMean": 5.089759605454525,
+    "median": 5.2272727272727275,
+    "hash": "de60008473431ff0",
+    "lastUpdate": "2024-05-08"
+  }
+}

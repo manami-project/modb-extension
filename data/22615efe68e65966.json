@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17609",
+    "https://anilist.co/anime/154392",
+    "https://anime-planet.com/anime/the-rose-of-versailles-movie",
+    "https://anisearch.com/anime/17656",
+    "https://kitsu.io/anime/46449",
+    "https://livechart.me/anime/11460",
+    "https://myanimelist.net/anime/52967",
+    "https://notify.moe/anime/uuU97wGVR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "22615efe68e65966",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "22615efe68e65966",
+    "lastUpdate": "2024-05-11"
+  }
+}

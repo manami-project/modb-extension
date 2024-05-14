@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18516",
+    "https://anilist.co/anime/175443",
+    "https://anime-planet.com/anime/honey-lemon-soda",
+    "https://anisearch.com/anime/19090",
+    "https://kitsu.io/anime/48587",
+    "https://livechart.me/anime/12545",
+    "https://myanimelist.net/anime/58271",
+    "https://notify.moe/anime/zLUApeoIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "64ce4cbffb65d9d1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "64ce4cbffb65d9d1",
+    "lastUpdate": "2024-05-11"
+  }
+}

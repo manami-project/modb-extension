@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15407",
+    "https://anilist.co/anime/116054",
+    "https://anime-planet.com/anime/noroi-no-one-piece",
+    "https://anisearch.com/anime/16328",
+    "https://kitsu.io/anime/43031",
+    "https://livechart.me/anime/11979",
+    "https://myanimelist.net/anime/41340"
+  ],
+  "synopsis": {
+    "text": "It'll make your heart race and keep you on the edge of your seat as you follow the intertwined tales of three young women: Yuuko, Kaori, and Michiyo. Each one grappling with their own personal struggles - be it longing for love, battling loneliness, or questioning their self-image - they find themselves united by an unexpected twist of fate. A stunning, rose-adorned yellow dress arrives in their lives, seemingly offering a solution to their woes. But as they don the enchanting garment in pursuit of their heart's desires, they soon discover that it might not be the innocent gift it appears to be. Prepare for a chilling journey as the dress's dark secret begins to unravel, revealing a sinister curse that will change their lives forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3cf1967b5ed26a3c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.038312925170068,
+    "arithmeticGeometricMean": 6.031607861540915,
+    "median": 6.019938775510204,
+    "hash": "3cf1967b5ed26a3c",
+    "lastUpdate": "2024-05-10"
+  }
+}

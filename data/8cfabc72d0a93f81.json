@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11964",
+    "https://anilist.co/anime/20454",
+    "https://anime-planet.com/anime/brave-witches",
+    "https://anisearch.com/anime/11164",
+    "https://kitsu.io/anime/11887",
+    "https://livechart.me/anime/276",
+    "https://myanimelist.net/anime/32866",
+    "https://notify.moe/anime/eAi6pFiig"
+  ],
+  "synopsis": {
+    "text": "From the chilling expanses of Orussia's skies to the war-torn landscapes of Europe, the 502nd Joint Fighter Wing, known as the Brave Witches, takes center stage in humanity's desperate struggle against the enigmatic Neuroi. These extraterrestrial adversaries, armed with formidable weaponry, have laid waste to countless nations and displaced innumerable lives. In response, the world's witches—young women gifted with magical abilities—have united to wield the powerful Striker Units, humanity's last hope against the Neuroi.\n\nFollowing the Allied Forces' triumphant victory over the Neuroi nest looming above the Republic of Gallia in September 1944, western Europe experiences a brief respite from the relentless onslaught. Seizing this opportunity, the Allied Forces set their sights on central and eastern Europe, with the 502nd Joint Fighter Wing at the vanguard. Based in Petersburg, these valiant witches prepare to face the impending challenges that lie ahead.\n\nAmong the Brave Witches, one member's unfortunate injury paves the way for Hikari Karibuchi, an ordinary girl with no extraordinary talents, to step up and fill her sister's role. Driven by her unwavering determination and the weight of her comrades' expectations, Hikari embarks on a perilous journey to prove her worth and etch her name in the annals of the Brave Witches.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8cfabc72d0a93f81",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.910068761595547,
+    "arithmeticGeometricMean": 6.907048515420956,
+    "median": 6.898,
+    "hash": "8cfabc72d0a93f81",
+    "lastUpdate": "2024-05-09"
+  }
+}

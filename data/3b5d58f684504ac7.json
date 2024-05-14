@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13367",
+    "https://anilist.co/anime/103453",
+    "https://anime-planet.com/anime/kodomo-no-kaitei-no-koto",
+    "https://anisearch.com/anime/10956",
+    "https://kitsu.io/anime/10404",
+    "https://myanimelist.net/anime/29908",
+    "https://notify.moe/anime/zVoUpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b5d58f684504ac7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.702247548369997,
+    "arithmeticGeometricMean": 4.667315244528337,
+    "median": 4.177551020408163,
+    "hash": "3b5d58f684504ac7",
+    "lastUpdate": "2024-05-08"
+  }
+}

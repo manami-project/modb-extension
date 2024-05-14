@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2276",
+    "https://anilist.co/anime/109942",
+    "https://anime-planet.com/anime/aesops-fables",
+    "https://anisearch.com/anime/2485",
+    "https://kitsu.io/anime/13196",
+    "https://myanimelist.net/anime/23763",
+    "https://notify.moe/anime/YffG2Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "972f6e63b1237490",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.311128014842301,
+    "arithmeticGeometricMean": 5.300239499042042,
+    "median": 5.136363636363637,
+    "hash": "972f6e63b1237490",
+    "lastUpdate": "2024-05-08"
+  }
+}

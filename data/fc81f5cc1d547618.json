@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1825",
+    "https://anilist.co/anime/2836",
+    "https://anime-planet.com/anime/chiisana-viking-vickie",
+    "https://anisearch.com/anime/3558",
+    "https://kitsu.io/anime/2590",
+    "https://livechart.me/anime/6576",
+    "https://myanimelist.net/anime/2836",
+    "https://notify.moe/anime/bwH8cKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc81f5cc1d547618",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.32820849898401,
+    "arithmeticGeometricMean": 6.31651447483772,
+    "median": 6.426,
+    "hash": "fc81f5cc1d547618",
+    "lastUpdate": "2024-05-09"
+  }
+}

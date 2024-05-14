@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17004",
+    "https://anilist.co/anime/140645",
+    "https://anime-planet.com/anime/fanren-xiu-xian-chuan-mo-dao-zheng-feng",
+    "https://anisearch.com/anime/16922",
+    "https://kitsu.io/anime/45491",
+    "https://myanimelist.net/anime/50207",
+    "https://notify.moe/anime/sAPSqGc7g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e048ffcb5e4e1f72",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.625112554112554,
+    "arithmeticGeometricMean": 7.6133389301658525,
+    "median": 7.776428571428571,
+    "hash": "e048ffcb5e4e1f72",
+    "lastUpdate": "2024-05-08"
+  }
+}

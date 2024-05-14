@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13178",
+    "https://anime-planet.com/anime/robot-trains",
+    "https://anisearch.com/anime/12484",
+    "https://myanimelist.net/anime/39691"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "49c527cb50a95f36",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "49c527cb50a95f36",
+    "lastUpdate": "2024-05-11"
+  }
+}

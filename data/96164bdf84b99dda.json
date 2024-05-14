@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9239",
+    "https://anilist.co/anime/16261",
+    "https://anime-planet.com/anime/arisa-good-luck",
+    "https://anisearch.com/anime/7898",
+    "https://kitsu.io/anime/7399",
+    "https://myanimelist.net/anime/16261",
+    "https://notify.moe/anime/hjJKpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "96164bdf84b99dda",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.494145772594753,
+    "arithmeticGeometricMean": 5.467964020701972,
+    "median": 5.44,
+    "hash": "96164bdf84b99dda",
+    "lastUpdate": "2024-05-08"
+  }
+}

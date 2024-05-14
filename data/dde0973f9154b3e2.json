@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16281",
+    "https://anilist.co/anime/120218",
+    "https://anime-planet.com/anime/perfect-world",
+    "https://anisearch.com/anime/18817",
+    "https://kitsu.io/anime/44400",
+    "https://livechart.me/anime/10601",
+    "https://myanimelist.net/anime/47405",
+    "https://notify.moe/anime/W5q5Q8EGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dde0973f9154b3e2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.701765173601908,
+    "arithmeticGeometricMean": 7.6943581792853895,
+    "median": 7.83,
+    "hash": "dde0973f9154b3e2",
+    "lastUpdate": "2024-05-10"
+  }
+}

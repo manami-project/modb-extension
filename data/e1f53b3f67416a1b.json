@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9287",
+    "https://anilist.co/anime/14833",
+    "https://anime-planet.com/anime/maoyu-archenemy-and-hero",
+    "https://anisearch.com/anime/7933",
+    "https://kitsu.io/anime/7174",
+    "https://livechart.me/anime/888",
+    "https://myanimelist.net/anime/14833",
+    "https://notify.moe/anime/s1oOtFiiR"
+  ],
+  "synopsis": {
+    "text": "Human ity's greatest champion, the Hero, has been battling the Demon race for 15 grueling years. Frustrated by the slow progress, he abandons his comrades and advances to the Demon Queen's castle, only to discover a captivating woman eager for his assistance. The Hero, initially reluctant, is swayed by her argument that the war has brought unity and prosperity to humanity, and its abrupt end could lead to widespread starvation and internal conflict. The Demon Queen presents a plan to bring lasting peace and prosperity to both realms, requiring the Hero's collaboration. Convinced, the Hero joins forces with the former enemy, embarking on a perilous journey to unite their worlds. As they navigate through treacherous politics and hidden agendas, their success could mean an end to war, while failure may brand them as traitors and lead to execution. Together, they strive to create a world where war is no longer a necessity for prosperity, challenging the status quo and those who benefit from the ongoing conflict.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e1f53b3f67416a1b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.334194522849285,
+    "arithmeticGeometricMean": 7.333176056308761,
+    "median": 7.371363636363636,
+    "hash": "e1f53b3f67416a1b",
+    "lastUpdate": "2024-05-09"
+  }
+}

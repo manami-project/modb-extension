@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9042",
+    "https://anilist.co/anime/14829",
+    "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya",
+    "https://anisearch.com/anime/7654",
+    "https://kitsu.io/anime/7173",
+    "https://livechart.me/anime/13",
+    "https://myanimelist.net/anime/14829",
+    "https://notify.moe/anime/xHTdpKmmg"
+  ],
+  "synopsis": {
+    "text": "Prisma Illya, or Illyasviel von Einzbern, is an ordinary schoolgirl who finds her mundane life turned upside down when a magical wand, Ruby, chooses her as its new master. Initially belonging to Rin Tohsaka, a skilled magus from the Mage's Association, Ruby seeks a new partner due to Rin's constant squabbles with her rival, Luviagelita Edelfelt.\n\nIllya, who harbors secret dreams of using magic to win her brother Shirou's affection, is reluctantly thrust into a world of mystical powers and dangerous artifacts. Ruby's mission, previously assigned to Rin, involves collecting the elusive Class Cards, powerful relics containing the essence of legendary Heroic Spirits.\n\nWith no magical training or knowledge, Illya must navigate this unfamiliar realm under Rin's supervision. Alongside Miyu, another schoolgirl chosen by the sentient wand Sapphire, Illya embarks on a thrilling adventure to gather the Class Cards.\n\nAs Illya juggles her everyday life with her new magical responsibilities, she uncovers hidden truths about her own mysterious past. Will Illya and her newfound friends manage to collect all the Class Cards, or will the challenges they face prove too overwhelming? Join Illya in her enchanting journey as she discovers the true power of friendship and magic.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4dd434aa27f9677b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.109269663757758,
+    "arithmeticGeometricMean": 7.107919944953669,
+    "median": 7.048271604938272,
+    "hash": "4dd434aa27f9677b",
+    "lastUpdate": "2024-05-09"
+  }
+}

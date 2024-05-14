@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8659",
+    "https://anilist.co/anime/11583",
+    "https://anime-planet.com/anime/the-world-god-only-knows-natsuiro-surprise",
+    "https://anisearch.com/anime/7423",
+    "https://kitsu.io/anime/6541",
+    "https://myanimelist.net/anime/11583",
+    "https://notify.moe/anime/BEaIpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33a979204c1e0407",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.2811171637486165,
+    "arithmeticGeometricMean": 6.269690376135855,
+    "median": 6.470588235294118,
+    "hash": "33a979204c1e0407",
+    "lastUpdate": "2024-05-08"
+  }
+}

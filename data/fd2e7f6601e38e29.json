@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1571",
+    "https://anilist.co/anime/1479",
+    "https://anime-planet.com/anime/city-hunter-death-of-the-vicious-criminal-ryo-saeba",
+    "https://anisearch.com/anime/1298",
+    "https://kitsu.io/anime/1325",
+    "https://livechart.me/anime/8416",
+    "https://myanimelist.net/anime/1479",
+    "https://notify.moe/anime/Vlva5Fmmg"
+  ],
+  "synopsis": {
+    "text": "Kaori's relief at finally landing a new client for City Hunter, Ryo Saeba, is short-lived as the assignment plunges them into a deadly whirlwind. The client, Sayaka Asagiri, a captivating news anchor from Mega City TV, is in grave danger after witnessing a murder. As the trio narrowly escapes a series of lethal attacks, they find themselves entangled in a sinister plot.\n\nRyo, Kaori, and Sayaka are thrust into a perilous game of cat and mouse when Mega City TV airs manipulated footage implicating Ryo in Sayaka's kidnapping and murder. With the police hot on their heels and a relentless stream of hired assassins on their trail, they must navigate the chaotic cityscape to unravel the truth behind these disturbing events.\n\nAs the stakes escalate, Ryo must confront the very organization that seeks to destroy him, while Kaori bravely challenges the mastermind behind the manipulation at Mega City TV. With danger lurking around every corner and the line between truth and deception blurred, Ryo, Kaori, and Sayaka must fight to clear their names and expose the deadly conspiracy at the heart of the city.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd2e7f6601e38e29",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.538020143122184,
+    "arithmeticGeometricMean": 7.53330823620294,
+    "median": 7.41,
+    "hash": "fd2e7f6601e38e29",
+    "lastUpdate": "2024-05-09"
+  }
+}

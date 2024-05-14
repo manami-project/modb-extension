@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16622",
+    "https://anilist.co/anime/104592",
+    "https://anime-planet.com/anime/mo-jing-lieren",
+    "https://kitsu.io/anime/12619",
+    "https://myanimelist.net/anime/33602",
+    "https://notify.moe/anime/zjDihKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb9280a5f0c11412",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.954545454545455,
+    "arithmeticGeometricMean": 4.9544411982585785,
+    "median": 4.954545454545455,
+    "hash": "eb9280a5f0c11412",
+    "lastUpdate": "2024-05-08"
+  }
+}

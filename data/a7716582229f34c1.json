@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127891",
+    "https://anime-planet.com/anime/superfluid",
+    "https://kitsu.io/anime/45080",
+    "https://myanimelist.net/anime/40105"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a7716582229f34c1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.086181818181818,
+    "arithmeticGeometricMean": 5.066071532220146,
+    "median": 4.82,
+    "hash": "a7716582229f34c1",
+    "lastUpdate": "2024-05-07"
+  }
+}

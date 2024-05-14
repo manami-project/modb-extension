@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2380",
+    "https://anilist.co/anime/815",
+    "https://anime-planet.com/anime/the-prince-of-tennis-movie-1-two-samurai-the-first-game",
+    "https://anisearch.com/anime/2382",
+    "https://kitsu.io/anime/722",
+    "https://livechart.me/anime/5764",
+    "https://myanimelist.net/anime/815",
+    "https://notify.moe/anime/HvBAcFiig"
+  ],
+  "synopsis": {
+    "text": "Sakurafubuki's luxury cruise sets sail with an exciting proposition for the Seigaku Tennis team: an exhibition match in exchange for a lavish getaway. However, the team soon realizes that the ship's opulence is merely a facade. As they uncover the owner's sinister plan to rig the matches for his gambling profits, the players are faced with a moral dilemma. Meanwhile, Ryoma Echizen is taken aback by the sudden appearance of Ryoga, who claims to be his older brother. With the odds stacked against them, the team must decide whether to submit to the owner's demands or risk it all to play with integrity. Amidst the high stakes and unexpected family drama, the Seigaku team must rely on their skills and camaraderie to navigate the treacherous waters. Will they emerge victorious or succumb to the pressure?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ed30ff3d013b60d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.024758253084784,
+    "arithmeticGeometricMean": 7.007360530726866,
+    "median": 7.111111111111111,
+    "hash": "6ed30ff3d013b60d",
+    "lastUpdate": "2024-05-10"
+  }
+}

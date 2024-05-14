@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115998",
+    "https://anime-planet.com/anime/yami-no-emaki",
+    "https://kitsu.io/anime/44993"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "896962ca4613ea92",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.545454545454545,
+    "arithmeticGeometricMean": 4.545454545454545,
+    "median": 4.545454545454545,
+    "hash": "896962ca4613ea92",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12253",
+    "https://anilist.co/anime/21865",
+    "https://anime-planet.com/anime/kaitou-tenshi-twin-angel-tv",
+    "https://anisearch.com/anime/11634",
+    "https://kitsu.io/anime/12295",
+    "https://livechart.me/anime/2238",
+    "https://myanimelist.net/anime/33532",
+    "https://notify.moe/anime/oE9ghFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe3fd888e7698d42",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.93563716045859,
+    "arithmeticGeometricMean": 5.912945526116553,
+    "median": 5.732560296846011,
+    "hash": "fe3fd888e7698d42",
+    "lastUpdate": "2024-05-10"
+  }
+}

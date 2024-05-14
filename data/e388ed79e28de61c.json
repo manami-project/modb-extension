@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1838",
+    "https://anilist.co/anime/2978",
+    "https://anime-planet.com/anime/new-getter-robo",
+    "https://anisearch.com/anime/3236",
+    "https://kitsu.io/anime/2693",
+    "https://livechart.me/anime/6214",
+    "https://myanimelist.net/anime/2978",
+    "https://notify.moe/anime/BS-UcKiig"
+  ],
+  "synopsis": {
+    "text": "Able-bodied warriors are humanity's last hope against the formidable Oni, demon-like creatures wreaking havoc on Earth. Enter Dr. Saotome, a brilliant scientist who engineers colossal robots imbued with the enigmatic Getter Rays, the sole power capable of vanquishing these malevolent beasts. Leading the charge is the mighty Getter Robo, a shape-shifting robot requiring three unique pilots to harness its full potential. Enter Ryoma Nagare, a skilled martial artist; Hayato Jin, a ruthless terrorist; and Benkei Musashibou, a gentle giant devoted to Buddhism. Together, this unlikely trio forms the Getter Team, united in their quest to eradicate the Oni threat and safeguard humanity's future.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e388ed79e28de61c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.233443060341021,
+    "arithmeticGeometricMean": 7.227514287941305,
+    "median": 7.45,
+    "hash": "e388ed79e28de61c",
+    "lastUpdate": "2024-05-09"
+  }
+}

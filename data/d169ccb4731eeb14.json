@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9710",
+    "https://anilist.co/anime/17086",
+    "https://anime-planet.com/anime/agigongryong-doolie-1988",
+    "https://anisearch.com/anime/6187",
+    "https://kitsu.io/anime/7577",
+    "https://myanimelist.net/anime/17086",
+    "https://notify.moe/anime/uP5ctKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d169ccb4731eeb14",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.49508719851577,
+    "arithmeticGeometricMean": 5.47389359026411,
+    "median": 5.0,
+    "hash": "d169ccb4731eeb14",
+    "lastUpdate": "2024-05-08"
+  }
+}

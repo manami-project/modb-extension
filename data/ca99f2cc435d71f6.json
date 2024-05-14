@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2381",
+    "https://anilist.co/anime/12613",
+    "https://anime-planet.com/anime/morizo-to-kikkoro",
+    "https://anisearch.com/anime/1695",
+    "https://kitsu.io/anime/6775",
+    "https://myanimelist.net/anime/12613",
+    "https://notify.moe/anime/P2PHtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca99f2cc435d71f6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.573769016697588,
+    "arithmeticGeometricMean": 5.538945698647221,
+    "median": 5.663265306122449,
+    "hash": "ca99f2cc435d71f6",
+    "lastUpdate": "2024-05-07"
+  }
+}

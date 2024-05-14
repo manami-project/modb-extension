@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12899",
+    "https://anilist.co/anime/98872",
+    "https://anime-planet.com/anime/marvel-future-avengers",
+    "https://anisearch.com/anime/12253",
+    "https://kitsu.io/anime/13624",
+    "https://livechart.me/anime/2721",
+    "https://myanimelist.net/anime/34975",
+    "https://notify.moe/anime/rAb4hFmig"
+  ],
+  "synopsis": {
+    "text": "Captain America, Iron Man, Hulk, Thor, and Wasp welcome a new generation of heroes under their tutelage when they rescue and recruit Makoto, Adi, and Chloe – young individuals gifted with extraordinary abilities due to a malevolent genetic experiment conducted by Hydra. As apprentices dubbed the 'Future Avengers,' the trio embarks on a journey filled with training, battles against villains, and personal growth, all while learning the true meaning of heroism from Earth's mightiest heroes. Join Makoto and his friends as they strive to become the heroes they were always destined to be.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3269b637bee0bb0c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.41687993639014,
+    "arithmeticGeometricMean": 5.377125788880363,
+    "median": 5.636363636363637,
+    "hash": "3269b637bee0bb0c",
+    "lastUpdate": "2024-05-09"
+  }
+}

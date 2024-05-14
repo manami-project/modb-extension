@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17844",
+    "https://anilist.co/anime/160865",
+    "https://anime-planet.com/anime/the-dog-and-the-boy",
+    "https://anisearch.com/anime/18168",
+    "https://kitsu.io/anime/47030",
+    "https://livechart.me/anime/11803",
+    "https://myanimelist.net/anime/54357",
+    "https://notify.moe/anime/daaVGPAVR"
+  ],
+  "synopsis": {
+    "text": "The anime short film, \"The Dog & The Boy,\" is a unique collaboration between Netflix Anime Creators' Base, WIT STUDIO, and AI character development company, rinna. In an innovative approach to address the labor shortage in the anime industry, the teams employed AI technology to generate all the background art, marking a significant leap in the realm of anime production.\n\nAt the heart of the story lies the poignant tale of a young boy and his unlikely companion, an abandoned robot dog. The duo embarks on a journey of friendship and growth, experiencing everyday adventures and forging an unbreakable bond. However, as the boy matures and war looms on the horizon, their bond is put to the test. The boy is called to serve, leaving his faithful robotic companion behind to await his return.\n\nDespite the AI-generated backgrounds, a human touch was still essential in refining the visuals, demonstrating a harmonious blend of technology and artistry. \"The Dog & The Boy\" is not just an experiment in anime production but also a touching narrative that explores the depths of friendship and the trials of growing up in a world fraught with challenges.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "42d76eae50eea3e5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.604554112554113,
+    "arithmeticGeometricMean": 5.5718059669170215,
+    "median": 5.57,
+    "hash": "42d76eae50eea3e5",
+    "lastUpdate": "2024-05-09"
+  }
+}

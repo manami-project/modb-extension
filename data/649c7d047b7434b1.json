@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13774",
+    "https://anilist.co/anime/101036",
+    "https://anime-planet.com/anime/gundam-build-divers",
+    "https://anisearch.com/anime/13305",
+    "https://kitsu.io/anime/40565",
+    "https://livechart.me/anime/3066",
+    "https://myanimelist.net/anime/37245",
+    "https://notify.moe/anime/gRHD2Fmig"
+  ],
+  "synopsis": {
+    "text": "Just imagine a virtual world where the thrill of building and battling with Gundam models, or Gunpla, comes to life in a game called Gunpla Battle Nexus Online (GBN). Middle-school friends Riku Mikami, Yukio Hidaka, and their classmate Momoka Yashiro embark on an exciting journey in this expansive digital universe as 'Divers.'\n\nIn this vast online landscape, they encounter a mysterious girl named Sarah, who possesses an extraordinary affinity for Gunpla. As they team up with her, they aspire to compete against renowned Divers like Riku's idol, Kyouya Kujo, the current champion. To make their mark, they must form a 'force' by joining with other skilled Divers.\n\nHowever, the game isn't without its challenges. Unscrupulous players known as Mass-Divers exploit unofficial tools called break decals, causing disruptions and rule violations. Riku and his friends must navigate these obstacles while honing their skills and forging new alliances.\n\nThrough a series of thrilling encounters and experiences, Riku and his friends not only construct and perfect their Gunpla but also build their own unique adventures in this dynamic virtual world. Will they rise to the top and fulfill Riku's dream of becoming a champion? Join them on their exhilarating journey to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "649c7d047b7434b1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.490011131725417,
+    "arithmeticGeometricMean": 6.47479872181,
+    "median": 6.551,
+    "hash": "649c7d047b7434b1",
+    "lastUpdate": "2024-05-09"
+  }
+}

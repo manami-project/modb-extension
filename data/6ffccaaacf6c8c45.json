@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16438",
+    "https://anilist.co/anime/132305",
+    "https://anime-planet.com/anime/xing-hai-qishi-part-ii",
+    "https://livechart.me/anime/10422",
+    "https://myanimelist.net/anime/51196"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ffccaaacf6c8c45",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.991272727272727,
+    "arithmeticGeometricMean": 6.988761965527409,
+    "median": 7.172,
+    "hash": "6ffccaaacf6c8c45",
+    "lastUpdate": "2024-05-10"
+  }
+}

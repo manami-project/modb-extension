@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13010",
+    "https://anilist.co/anime/103340",
+    "https://anime-planet.com/anime/kai-feng-qitan-zhege-baogong-bu-taixing",
+    "https://anisearch.com/anime/13118",
+    "https://kitsu.io/anime/40999",
+    "https://myanimelist.net/anime/36226",
+    "https://notify.moe/anime/VnCOhKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c2f53fd27e4b6c19",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.937361162646877,
+    "arithmeticGeometricMean": 5.926540353493835,
+    "median": 6.02,
+    "hash": "c2f53fd27e4b6c19",
+    "lastUpdate": "2024-05-08"
+  }
+}

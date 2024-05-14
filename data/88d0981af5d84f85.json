@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13098",
+    "https://anilist.co/anime/106154",
+    "https://anime-planet.com/anime/ghost-in-the-shell-sac-2045",
+    "https://anisearch.com/anime/14020",
+    "https://kitsu.io/anime/42036",
+    "https://livechart.me/anime/2664",
+    "https://myanimelist.net/anime/38799",
+    "https://notify.moe/anime/NrYRpzsmg"
+  ],
+  "synopsis": {
+    "text": "Production I.G and Kodansha have teamed up to bring a new anime adaptation of Masamune Shirow's Ghost in the Shell manga to life. Set in the year 2045, the world is in a perpetual state of conflict due to the rapid advancement of artificial intelligence following a global financial crisis known as the \"Synchronised Global Default.\" Governments harness AI as weapons, engaging in continuous warfare to maintain their economies. In this tumultuous landscape, full-body cyborg Major Motoko Kusanagi and her deputy Batou find themselves leaving Public Security Section 9 to become mercenaries.\n\nNavigating the remnants of America's West Coast, Kusanagi and her team employ their honed skills from their time at Section 9 to tackle various operations related to the ongoing proxy wars. However, their seemingly straightforward missions take a turn for the worse when they cross paths with a new breed of adversaries: \"Post-Humans.\" These cybernetically enhanced individuals possess extraordinary intelligence and physical abilities, pushing the boundaries of human potential.\n\nAs the emergence of Post-Humans creates a hidden conflict, a seemingly simple job of tracking down an arms dealer entangles Kusanagi's mercenary group, GHOST, in a complex web of events. In response to the escalating global threat, Public Security Section 9 reunites under Kusanagi's leadership. With their new mission to prevent worldwide chaos, Kusanagi and her reestablished team confront the Post-Human menace head-on, aiming to counter the ever-evolving cyber threats that plague their world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "88d0981af5d84f85",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.963771799628942,
+    "arithmeticGeometricMean": 6.958115897026001,
+    "median": 7.067272727272727,
+    "hash": "88d0981af5d84f85",
+    "lastUpdate": "2024-05-09"
+  }
+}

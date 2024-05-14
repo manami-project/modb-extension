@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13861",
+    "https://anilist.co/anime/103720",
+    "https://anime-planet.com/anime/kirin-the-noop",
+    "https://anisearch.com/anime/13582",
+    "https://kitsu.io/anime/40818",
+    "https://myanimelist.net/anime/35694",
+    "https://notify.moe/anime/XgIO2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "08797322d43e008f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.502539888682746,
+    "arithmeticGeometricMean": 4.347037317929362,
+    "median": 4.727272727272727,
+    "hash": "08797322d43e008f",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/8873",
+    "https://myanimelist.net/anime/19631"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41abb4d60a29cfc5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.586428571428572,
+    "arithmeticGeometricMean": 6.57894973902781,
+    "median": 6.586428571428572,
+    "hash": "41abb4d60a29cfc5",
+    "lastUpdate": "2024-05-07"
+  }
+}

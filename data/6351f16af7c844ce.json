@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2105",
+    "https://anime-planet.com/anime/hanitarou-desu",
+    "https://anisearch.com/anime/2351",
+    "https://kitsu.io/anime/40621",
+    "https://myanimelist.net/anime/34831",
+    "https://notify.moe/anime/nZoD2Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6351f16af7c844ce",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 1.7346938775510203,
+    "arithmeticGeometricMean": 1.7346938775510203,
+    "median": 1.7346938775510203,
+    "hash": "6351f16af7c844ce",
+    "lastUpdate": "2024-05-07"
+  }
+}

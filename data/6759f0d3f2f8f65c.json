@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12402",
+    "https://anilist.co/anime/102714",
+    "https://anime-planet.com/anime/poppin-party-star-beat-hoshinokodou-",
+    "https://anisearch.com/anime/11769",
+    "https://kitsu.io/anime/12665",
+    "https://myanimelist.net/anime/34252",
+    "https://notify.moe/anime/09TmhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6759f0d3f2f8f65c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.431538298436258,
+    "arithmeticGeometricMean": 6.421960069639239,
+    "median": 6.436,
+    "hash": "6759f0d3f2f8f65c",
+    "lastUpdate": "2024-05-08"
+  }
+}

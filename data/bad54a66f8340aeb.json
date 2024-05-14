@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10081",
+    "https://anilist.co/anime/129869",
+    "https://anime-planet.com/anime/kubbe-kort-animasjon",
+    "https://anisearch.com/anime/7907",
+    "https://kitsu.io/anime/12308",
+    "https://myanimelist.net/anime/33528",
+    "https://notify.moe/anime/hhqR2Kmig"
+  ],
+  "synopsis": {
+    "text": "Based on the picture book by Norwegian illustrator Åshild Kanstad Johnsen, \"Kubbe Makes a Museum\" follows the adventures of a young boy named Kubbe, who lives in the heart of a forest. Kubbe, whose name translates to \"log\" in Norwegian, spends his days exploring the natural world around him and collecting unique treasures.\n\nAfter gathering his findings, Kubbe meticulously sorts and labels each item before storing them in vibrant green boxes. With the wise counsel of his grandmother, Kubbe decides to transform his home into a museum, showcasing his impressive collection for all to see.\n\nThis charming adaptation of Johnsen Kubbe's picture book spans 24 episodes, with each story cleverly divided into 'prequel' and 'sequel' segments. The series invites viewers to join Kubbe on his daily escapades, fostering a sense of wonder and appreciation for the beauty of nature.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bad54a66f8340aeb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.401403525046382,
+    "arithmeticGeometricMean": 5.365263403501058,
+    "median": 5.090909090909091,
+    "hash": "bad54a66f8340aeb",
+    "lastUpdate": "2024-05-08"
+  }
+}

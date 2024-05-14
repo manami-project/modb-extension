@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/533",
+    "https://myanimelist.net/anime/2187"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bf146ed622764738",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.47530612244898,
+    "arithmeticGeometricMean": 4.371295748089871,
+    "median": 4.47530612244898,
+    "hash": "bf146ed622764738",
+    "lastUpdate": "2024-05-07"
+  }
+}

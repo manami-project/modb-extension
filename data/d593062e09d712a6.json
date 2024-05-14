@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2989",
+    "https://anilist.co/anime/2280",
+    "https://anime-planet.com/anime/tokyo-pig",
+    "https://anisearch.com/anime/2525",
+    "https://kitsu.io/anime/2065",
+    "https://myanimelist.net/anime/2280",
+    "https://notify.moe/anime/9lFPcFiig"
+  ],
+  "synopsis": {
+    "text": "And so begins the whimsical tale of Spencer, a third-grader with an extraordinary knack for turning his diary entries into reality! Amidst his fantastical creations, one stands out: Sunny Pig, a magical swine who escapes Spencer's attempts to erase him from existence. Together, this unlikely duo embarks on a series of bizarre adventures, from thwarting Spencer's dad's plans to whipping up peculiar dinners and even investigating the mysterious vanishing of a local weather reporter. Join Spencer and Sunny Pig as they navigate through the ups and downs of everyday life, sprinkled with a generous dose of the absurd and the extraordinary!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d593062e09d712a6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.693801749271137,
+    "arithmeticGeometricMean": 5.643239347469216,
+    "median": 5.818181818181818,
+    "hash": "d593062e09d712a6",
+    "lastUpdate": "2024-05-08"
+  }
+}

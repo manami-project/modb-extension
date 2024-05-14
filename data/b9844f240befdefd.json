@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140232",
+    "https://anime-planet.com/anime/yami-yami",
+    "https://kitsu.io/anime/43657",
+    "https://myanimelist.net/anime/43011"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b9844f240befdefd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.558181818181819,
+    "arithmeticGeometricMean": 5.519627600540037,
+    "median": 5.558181818181819,
+    "hash": "b9844f240befdefd",
+    "lastUpdate": "2024-05-07"
+  }
+}

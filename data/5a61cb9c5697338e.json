@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9118",
+    "https://anilist.co/anime/13359",
+    "https://anime-planet.com/anime/piststar",
+    "https://anisearch.com/anime/8250",
+    "https://kitsu.io/anime/6945",
+    "https://livechart.me/anime/6584",
+    "https://myanimelist.net/anime/13359",
+    "https://notify.moe/anime/Ir5DpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a61cb9c5697338e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.790195070235887,
+    "arithmeticGeometricMean": 4.74561825077159,
+    "median": 4.56,
+    "hash": "5a61cb9c5697338e",
+    "lastUpdate": "2024-05-09"
+  }
+}

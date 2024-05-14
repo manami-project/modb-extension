@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8694",
+    "https://anilist.co/anime/11743",
+    "https://anime-planet.com/anime/a-certain-magical-index-movie-the-miracle-of-endymion",
+    "https://anisearch.com/anime/7338",
+    "https://kitsu.io/anime/6583",
+    "https://livechart.me/anime/908",
+    "https://myanimelist.net/anime/11743",
+    "https://notify.moe/anime/5clIpKmiR"
+  ],
+  "synopsis": {
+    "text": "Arisa Meigo, a cheerful and talented singer, finds herself at the center of a brewing storm in the technologically advanced Academy City. As the city prepares for the completion of its groundbreaking space elevator, 'Endymion,' Arisa's extraordinary voice captures the attention of both the scientific and magical communities.\n\nHigh school student Touma Kamijou and his companion, Index, cross paths with Arisa, unaware that their new friendship will lead them into a labyrinth of intrigue and danger. As strange events unfold, they discover that Arisa is the key to a complex plot that threatens to ignite a war between the worlds of magic and science.\n\nThe appearance of Stiyl Magnus, a powerful magician, further complicates matters, signaling the involvement of the magical world. As the conflict escalates, Academy City's defenses, led by a female commander named Shutaura, are put to the test against the magical onslaught.\n\nIn this thrilling tale, Kamijo, Index, and their allies must navigate the intricate web of magic and science to protect Arisa and prevent a catastrophic war that could engulf the city and potentially the entire world. The fate of Academy City and its space elevator hang in the balance, as the battle between sorcery and science reaches new heights.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "014002ac8917c64f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.528717328365489,
+    "arithmeticGeometricMean": 7.527138338874458,
+    "median": 7.622755102040816,
+    "hash": "014002ac8917c64f",
+    "lastUpdate": "2024-05-10"
+  }
+}

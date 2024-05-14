@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136976",
+    "https://anime-planet.com/anime/minami-drop",
+    "https://kitsu.io/anime/48402",
+    "https://myanimelist.net/anime/49878"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9d2c6ff82747a157",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.0408484848484845,
+    "arithmeticGeometricMean": 7.037793498372107,
+    "median": 6.888,
+    "hash": "9d2c6ff82747a157",
+    "lastUpdate": "2024-05-07"
+  }
+}

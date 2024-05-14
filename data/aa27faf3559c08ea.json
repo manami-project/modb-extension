@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13886",
+    "https://anilist.co/anime/139035",
+    "https://anime-planet.com/anime/warai-kawasemi-ni-hanasu-na-yo",
+    "https://myanimelist.net/anime/37153"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aa27faf3559c08ea",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.206666666666666,
+    "arithmeticGeometricMean": 4.17069018274182,
+    "median": 4.0,
+    "hash": "aa27faf3559c08ea",
+    "lastUpdate": "2024-05-08"
+  }
+}

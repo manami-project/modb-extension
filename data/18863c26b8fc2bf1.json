@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/great3-higan",
+    "https://myanimelist.net/anime/37734"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "18863c26b8fc2bf1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.867,
+    "arithmeticGeometricMean": 5.860609462754028,
+    "median": 5.867,
+    "hash": "18863c26b8fc2bf1",
+    "lastUpdate": "2024-05-07"
+  }
+}

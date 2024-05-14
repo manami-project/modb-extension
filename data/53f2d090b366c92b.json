@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3655",
+    "https://anilist.co/anime/20568",
+    "https://anime-planet.com/anime/angels-feather",
+    "https://anisearch.com/anime/434",
+    "https://kitsu.io/anime/1475",
+    "https://livechart.me/anime/5874",
+    "https://myanimelist.net/anime/1640",
+    "https://notify.moe/anime/L23-cFmmR"
+  ],
+  "synopsis": {
+    "text": "Misonou Kai, a name that has haunted Hamura Shou for years, leads him to transfer to an all-boys school in search of his long-lost twin brother. As fate would have it, he finds Kai, but the reunion is far from what he had hoped for. Meanwhile, a parallel world called Winfield, once a peaceful kingdom ruled by white-winged royals, now stands on the brink of chaos, plagued by monsters and power struggles.\n\nWhen an unexpected earthquake transports Shou and his classmates to Winfield, they discover their hidden magical abilities and white wings. Shou's newfound powers are desperately needed to combat the dangerous creatures that roam the once serene kingdom. However, the presence of black-winged individuals with ulterior motives adds another layer of complexity to their mission.\n\nAs Shou navigates this new world, he must confront the harsh reality that his brother Kai has no recollection of their past together. Amidst the chaos of Winfield, friendships will be tested, and tragedies will unfold, revealing an unexpected connection between Earth and this magical realm. Will Shou be able to restore peace to Winfield and reclaim his bond with Kai? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "53f2d090b366c92b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.134629207527167,
+    "arithmeticGeometricMean": 5.122247276141041,
+    "median": 5.274,
+    "hash": "53f2d090b366c92b",
+    "lastUpdate": "2024-05-08"
+  }
+}

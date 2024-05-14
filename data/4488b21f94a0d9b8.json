@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1412",
+    "https://anilist.co/anime/2293",
+    "https://anime-planet.com/anime/guyver-out-of-control",
+    "https://anisearch.com/anime/2899",
+    "https://kitsu.io/anime/2078",
+    "https://livechart.me/anime/8468",
+    "https://myanimelist.net/anime/2293",
+    "https://notify.moe/anime/RBtP5Fimg"
+  ],
+  "synopsis": {
+    "text": "Lisker High School's ordinary student, Sho Fukamachi, finds his mundane life taking a dramatic turn when he stumbles upon a peculiar metallic object on his way home. In a split second, the object merges with Sho, transforming him into the powerful Guyver I, a superhuman mecha. As he grapples with his newfound abilities, he is thrust into a battle against the sinister Chronos Corporation and their bio-engineered creatures, the Zoanoids.\n\nIn this adaptation of the initial chapters of the Guyver manga, Sho's journey unfolds as he fights formidable foes like Vamore and a female Guyver 2. The narrative strays from the original by replacing Tetsuro with Sho's love interest, Mizuki, and Lisker with a female agent named Valcuria.\n\nAs Sho navigates through this perilous world, he must confront the harsh realities of his situation, including the brutal murder of his friends by the ruthless Chronos Corporation. With Mizuki's life hanging in the balance and the world on the brink of domination, Sho must harness the power of the Guyver to protect those he cares about and save humanity from the clutches of evil.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4488b21f94a0d9b8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.946025974025973,
+    "arithmeticGeometricMean": 5.933333728657888,
+    "median": 5.909090909090908,
+    "hash": "4488b21f94a0d9b8",
+    "lastUpdate": "2024-05-09"
+  }
+}

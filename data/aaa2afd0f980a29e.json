@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/aoku-tsuzuku-pass",
+    "https://anisearch.com/anime/13973",
+    "https://kitsu.io/anime/42691",
+    "https://myanimelist.net/anime/38554"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aaa2afd0f980a29e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.694408163265305,
+    "arithmeticGeometricMean": 5.687018566077752,
+    "median": 5.57,
+    "hash": "aaa2afd0f980a29e",
+    "lastUpdate": "2024-05-05"
+  }
+}

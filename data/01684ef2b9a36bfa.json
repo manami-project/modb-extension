@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/114418",
+    "https://anime-planet.com/anime/birthday",
+    "https://kitsu.io/anime/44474",
+    "https://myanimelist.net/anime/39088"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "01684ef2b9a36bfa",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.550969696969697,
+    "arithmeticGeometricMean": 5.54115226579907,
+    "median": 5.36,
+    "hash": "01684ef2b9a36bfa",
+    "lastUpdate": "2024-05-07"
+  }
+}

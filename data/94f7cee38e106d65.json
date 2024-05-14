@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8091",
+    "https://anilist.co/anime/9886",
+    "https://anime-planet.com/anime/ganbare-moudouken-serve",
+    "https://anisearch.com/anime/6645",
+    "https://kitsu.io/anime/5923",
+    "https://myanimelist.net/anime/9886",
+    "https://notify.moe/anime/tEuMpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "94f7cee38e106d65",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.3233803339517625,
+    "arithmeticGeometricMean": 5.265671941093385,
+    "median": 5.045454545454545,
+    "hash": "94f7cee38e106d65",
+    "lastUpdate": "2024-05-07"
+  }
+}

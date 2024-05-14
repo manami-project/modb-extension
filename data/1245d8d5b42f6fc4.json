@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8528",
+    "https://anilist.co/anime/10924",
+    "https://anime-planet.com/anime/queens-blade-ova",
+    "https://anisearch.com/anime/7208",
+    "https://kitsu.io/anime/6409",
+    "https://livechart.me/anime/5411",
+    "https://myanimelist.net/anime/10924",
+    "https://notify.moe/anime/RuRStFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1245d8d5b42f6fc4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.027615955473099,
+    "arithmeticGeometricMean": 5.997781853574831,
+    "median": 6.140454545454546,
+    "hash": "1245d8d5b42f6fc4",
+    "lastUpdate": "2024-05-09"
+  }
+}

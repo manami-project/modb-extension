@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12518",
+    "https://anilist.co/anime/111227",
+    "https://anime-planet.com/anime/shimajirou-to-niji-no-oasis",
+    "https://anisearch.com/anime/11906",
+    "https://kitsu.io/anime/12711",
+    "https://livechart.me/anime/2402",
+    "https://myanimelist.net/anime/34315",
+    "https://notify.moe/anime/isEi2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3f597fc08a8bc129",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.009393939393939,
+    "arithmeticGeometricMean": 5.975408481576376,
+    "median": 5.818181818181818,
+    "hash": "3f597fc08a8bc129",
+    "lastUpdate": "2024-05-09"
+  }
+}

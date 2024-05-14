@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16733",
+    "https://anilist.co/anime/139376",
+    "https://anime-planet.com/anime/joshikousei-to-mahou-no-note",
+    "https://anisearch.com/anime/16604",
+    "https://kitsu.io/anime/45221",
+    "https://livechart.me/anime/10796",
+    "https://myanimelist.net/anime/49851",
+    "https://notify.moe/anime/i6F0LmNnR"
+  ],
+  "synopsis": {
+    "text": "The tale revolves around Yuzuki Shidou, a high school sophomore grappling with the dilemma of discovering her life's purpose, while constantly pressured by her parents to hit the books. Out of the blue, a magical creature named Blublu-kun enters her life, offering guidance on how to find and pursue her dreams. As Yuzuki embarks on a journey of self-discovery, she learns the art of spreading joy to those around her, gradually unearthing clues that lead her closer to her own aspirations and shaping her vision for the future.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e92c7fa85e99c732",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.072356215213358,
+    "arithmeticGeometricMean": 6.069694973506008,
+    "median": 6.072356215213358,
+    "hash": "e92c7fa85e99c732",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14705",
+    "https://anime-planet.com/anime/rainbow-ruby",
+    "https://myanimelist.net/anime/41277"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8cc5e826c07c7ab3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "8cc5e826c07c7ab3",
+    "lastUpdate": "2024-05-11"
+  }
+}

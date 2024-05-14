@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15455",
+    "https://anilist.co/anime/116740",
+    "https://anime-planet.com/anime/100-nichikan-ikita-wani",
+    "https://anisearch.com/anime/15987",
+    "https://kitsu.io/anime/47402",
+    "https://livechart.me/anime/9850",
+    "https://myanimelist.net/anime/48352",
+    "https://notify.moe/anime/XKYE4XlMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e2dfdddf525a097d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.167996289424861,
+    "arithmeticGeometricMean": 6.164220775688426,
+    "median": 6.198265306122449,
+    "hash": "e2dfdddf525a097d",
+    "lastUpdate": "2024-05-08"
+  }
+}

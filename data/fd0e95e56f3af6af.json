@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10607",
+    "https://anilist.co/anime/110732",
+    "https://anime-planet.com/anime/space-battleship-yamato-2199-tsuikou-no-koukai",
+    "https://anisearch.com/anime/9629",
+    "https://kitsu.io/anime/8604",
+    "https://livechart.me/anime/10540",
+    "https://myanimelist.net/anime/23931",
+    "https://notify.moe/anime/mdm1pKmig"
+  ],
+  "synopsis": {
+    "text": "Space Battleship Yamato 2199 unfolds in the year 2199, where Earth is on the brink of extinction due to relentless attacks by the alien race, Gamilas. As the planet's surface is left ravaged, humanity retreats to underground cities, with scientists predicting only a year left before complete annihilation. In a desperate attempt to save Earth, the Earth Defense Force constructs the Space Battleship Yamato and assembles a crew, including young officers Susumu Kodai and Daisuke Shima, under the command of Captain Juuzou Okita.\n\nA glimmer of hope emerges when a mysterious message from the distant planet Iscandar promises a device capable of restoring Earth. The Yamato embarks on a perilous 148,000 light-year journey to Iscandar, facing not only the powerful Gamilas forces but also the ticking clock. The inexperienced crew must quickly master the ship's advanced technology and overcome countless challenges to complete their mission: save humanity before it's too late. The fate of Earth rests on the success of the Yamato's daring voyage across the cosmos.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd0e95e56f3af6af",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.121766763848397,
+    "arithmeticGeometricMean": 7.117497903885141,
+    "median": 7.06,
+    "hash": "fd0e95e56f3af6af",
+    "lastUpdate": "2024-05-10"
+  }
+}

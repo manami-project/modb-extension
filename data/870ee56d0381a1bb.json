@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15962",
+    "https://anilist.co/anime/130515",
+    "https://anime-planet.com/anime/dinosaur-biyori",
+    "https://anisearch.com/anime/15902",
+    "https://kitsu.io/anime/44217",
+    "https://livechart.me/anime/10310",
+    "https://myanimelist.net/anime/45618",
+    "https://notify.moe/anime/fyIG1HPGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "870ee56d0381a1bb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.970870500927644,
+    "arithmeticGeometricMean": 5.941846990566339,
+    "median": 5.545454545454546,
+    "hash": "870ee56d0381a1bb",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15980",
+    "https://anilist.co/anime/128400",
+    "https://anime-planet.com/anime/saiyuki-reload-zeroin",
+    "https://anisearch.com/anime/15942",
+    "https://kitsu.io/anime/44319",
+    "https://livechart.me/anime/10326",
+    "https://myanimelist.net/anime/45783",
+    "https://notify.moe/anime/c77V-CaMg"
+  ],
+  "synopsis": {
+    "text": "Hazel Grouse, a wandering priest with a mysterious power of resurrection, and his formidable bodyguard, Gaty Nene Hawk, cross paths with the Sanzou party, a group of warriors tasked with preventing the resurrection of the monstrous Gyumaoh. The Sanzou party, consisting of Son Goku, Genjo Sanzo, Sha Gojyo, and Cho Hakkai, have been traveling west to stop the revival of Gyumaoh, who was defeated by the war god Nataku Taishi and imprisoned in Houtou Castle centuries ago. However, the attempt to revive Gyumaoh has caused a wave of negative energy to spread across the land, driving the youkai to the brink of insanity and causing them to attack humans. As the Sanzou party and Hazel Grouse join forces to stop the resurrection of Gyumaoh, they must also uncover the truth behind Hazel's powers and confront Ukoku Sanzo, a figure from their past who lurks in the shadows. With intense personal drama and epic action, this story follows the bonds between four men as they fight to save humanity from violent slaughter.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b5be60202dd4ca32",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.501979591836735,
+    "arithmeticGeometricMean": 6.46009399850599,
+    "median": 6.742,
+    "hash": "b5be60202dd4ca32",
+    "lastUpdate": "2024-05-09"
+  }
+}

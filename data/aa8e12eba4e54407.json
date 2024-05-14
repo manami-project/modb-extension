@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13987",
+    "https://anilist.co/anime/162921",
+    "https://anime-planet.com/anime/sousei-no-aquarion-myth-of-emotions",
+    "https://anisearch.com/anime/18591",
+    "https://kitsu.io/anime/47225",
+    "https://livechart.me/anime/11880",
+    "https://myanimelist.net/anime/54769",
+    "https://notify.moe/anime/JtoD7nB4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aa8e12eba4e54407",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "aa8e12eba4e54407",
+    "lastUpdate": "2024-05-11"
+  }
+}

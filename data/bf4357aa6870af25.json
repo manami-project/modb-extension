@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1873",
+    "https://anilist.co/anime/7750",
+    "https://anime-planet.com/anime/digigirl-pop-strawberry-and-pop-mix-flavor",
+    "https://anisearch.com/anime/1114",
+    "https://kitsu.io/anime/5107",
+    "https://myanimelist.net/anime/7750",
+    "https://notify.moe/anime/1hhztFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bf4357aa6870af25",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.544052875695733,
+    "arithmeticGeometricMean": 4.367873186889556,
+    "median": 4.863636363636363,
+    "hash": "bf4357aa6870af25",
+    "lastUpdate": "2024-05-08"
+  }
+}

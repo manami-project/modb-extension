@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/balloon-nomad"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35380db9a97ac46f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.912,
+    "arithmeticGeometricMean": 6.912,
+    "median": 6.912,
+    "hash": "35380db9a97ac46f",
+    "lastUpdate": "2024-05-05"
+  }
+}

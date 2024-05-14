@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13117",
+    "https://anilist.co/anime/98631",
+    "https://anime-planet.com/anime/convenience-store-boy-friends",
+    "https://anisearch.com/anime/12423",
+    "https://kitsu.io/anime/13537",
+    "https://livechart.me/anime/2675",
+    "https://myanimelist.net/anime/35434",
+    "https://notify.moe/anime/6d44hFmmg"
+  ],
+  "synopsis": {
+    "text": "As spring unfolds, a group of high school students embark on their new academic journey. First-year students Haruki Mishima and Tōre Honda eagerly anticipate the adventures that lie ahead, while second-year student Natsu Asumi, having matured from his audacious first year, opts for solitude this time around. Meanwhile, third-year students Mikado Nakajima and Masamuna Sakurakoji keep a watchful, supportive eye on Natsu. Nasa Sanagi, the lone member of the cooking research club, diligently carries on with his club activities, determined to fulfill the task set by his advisor.\n\nAfter school hours, the students find themselves drawn to a nearby convenience store, each for their own reasons: to enjoy a well-deserved ice cream, to grab the latest gaming magazine, to buy cooking ingredients, or simply to meet friends and unwind. This humble store becomes a sanctuary of relaxation and camaraderie, a place where they can create shared memories. As time passes, the reasons that draw them to the store begin to evolve, hinting at budding romances and deepening friendships. Amidst the routine of school, clubs, and studying, the convenience store serves as a beacon of comfort and connection, its familiarity offering a fresh perspective with each visit.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb75705eab3260cb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.313183790058497,
+    "arithmeticGeometricMean": 6.305507583859375,
+    "median": 6.259,
+    "hash": "cb75705eab3260cb",
+    "lastUpdate": "2024-05-09"
+  }
+}

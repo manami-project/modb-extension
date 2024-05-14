@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18521",
+    "https://anilist.co/anime/175473",
+    "https://anime-planet.com/anime/duel-masters-lost-tsuioku-no-suishou",
+    "https://anisearch.com/anime/19112",
+    "https://kitsu.io/anime/48590",
+    "https://livechart.me/anime/12546",
+    "https://myanimelist.net/anime/58275"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a316d936b38dcaec",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "a316d936b38dcaec",
+    "lastUpdate": "2024-05-11"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3420",
+    "https://anilist.co/anime/1414",
+    "https://anime-planet.com/anime/lupin-the-3rd-special-17-angel-tactics",
+    "https://anisearch.com/anime/2",
+    "https://kitsu.io/anime/1267",
+    "https://livechart.me/anime/10645",
+    "https://myanimelist.net/anime/1414",
+    "https://notify.moe/anime/sbkacFmmg"
+  ],
+  "synopsis": {
+    "text": "Force to be reckoned with, Lupin and his crew find themselves in a perilous predicament after pilfering a mysterious alien artifact from the clandestine Area 51. Not only is the relentless Detective Zenigata hot on their trail, but they've also caught the attention of the Bloody Angels - a formidable all-female terrorist group with a deadly agenda. As Lupin's affinity for the fairer sex becomes a potential liability, he and his friends must navigate a treacherous game of cat-and-mouse, unraveling the secret behind the coveted treasure while evading the crosshairs of their ruthless pursuers. With danger closing in from all sides, can Lupin and his crew outwit their foes and emerge victorious in this high-stakes showdown?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8e4b8232516bf22b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.0044288364696525,
+    "arithmeticGeometricMean": 7.002631911948519,
+    "median": 6.93,
+    "hash": "8e4b8232516bf22b",
+    "lastUpdate": "2024-05-09"
+  }
+}

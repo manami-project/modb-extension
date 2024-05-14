@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17240",
+    "https://anilist.co/anime/146140",
+    "https://anime-planet.com/anime/bang-dream-girls-band-party-5th-anniversary-animation-circle-thanks-party",
+    "https://anisearch.com/anime/17190",
+    "https://kitsu.io/anime/45963",
+    "https://livechart.me/anime/11126",
+    "https://myanimelist.net/anime/51218"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b108cfca31f5eaa2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.546164325470447,
+    "arithmeticGeometricMean": 7.540066354728794,
+    "median": 7.72,
+    "hash": "b108cfca31f5eaa2",
+    "lastUpdate": "2024-05-08"
+  }
+}

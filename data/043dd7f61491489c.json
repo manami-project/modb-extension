@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4765",
+    "https://anilist.co/anime/2660",
+    "https://anime-planet.com/anime/doraemon-nobita-no-kekkon-zenya",
+    "https://anisearch.com/anime/3912",
+    "https://kitsu.io/anime/2424",
+    "https://livechart.me/anime/8895",
+    "https://myanimelist.net/anime/2660",
+    "https://notify.moe/anime/keby5Fmmg"
+  ],
+  "synopsis": {
+    "text": "While grappling with the uncertainty of his romantic future, Nobita, along with his trusted robotic cat, Doraemon, embarks on a thrilling journey to the future. Their mission: to uncover whether Nobita's destiny includes marrying his beloved Shizuka. However, a minor miscalculation lands them a day shy of the wedding. As they navigate the uncharted territory of the future, they stumble upon a lost cat, leading them on an unexpected adventure. Join Nobita and Doraemon as they traverse the complexities of time travel, lost pets, and the enduring pursuit of love. Will Nobita find the answers he seeks and secure his happily ever after with Shizuka? Only time will tell!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "043dd7f61491489c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.8306479370969155,
+    "arithmeticGeometricMean": 6.820293691464778,
+    "median": 7.090909090909091,
+    "hash": "043dd7f61491489c",
+    "lastUpdate": "2024-05-09"
+  }
+}

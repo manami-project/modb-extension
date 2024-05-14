@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11417",
+    "https://anilist.co/anime/6533",
+    "https://anime-planet.com/anime/asian-kung-fu-generation-atarashii-sekai",
+    "https://anisearch.com/anime/5488",
+    "https://kitsu.io/anime/4601",
+    "https://myanimelist.net/anime/6533",
+    "https://notify.moe/anime/vUv65KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "29da6c9af11e6b60",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.302488735754042,
+    "arithmeticGeometricMean": 6.288624354592166,
+    "median": 6.4,
+    "hash": "29da6c9af11e6b60",
+    "lastUpdate": "2024-05-07"
+  }
+}

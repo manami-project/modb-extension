@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18399",
+    "https://anilist.co/anime/170657",
+    "https://anime-planet.com/anime/jinyi-shen-jiang",
+    "https://myanimelist.net/anime/56579",
+    "https://notify.moe/anime/ZzA7ZRGIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e0d0c6c7aff5758f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.7272727272727275,
+    "arithmeticGeometricMean": 6.7272727272727275,
+    "median": 6.7272727272727275,
+    "hash": "e0d0c6c7aff5758f",
+    "lastUpdate": "2024-05-07"
+  }
+}

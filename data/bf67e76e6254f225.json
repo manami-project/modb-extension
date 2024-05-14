@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140600",
+    "https://anime-planet.com/anime/factory",
+    "https://kitsu.io/anime/47058"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bf67e76e6254f225",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "bf67e76e6254f225",
+    "lastUpdate": "2024-05-07"
+  }
+}

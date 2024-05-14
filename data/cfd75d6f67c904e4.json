@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7287",
+    "https://anilist.co/anime/8141",
+    "https://anime-planet.com/anime/konchuu-monogatari-mitsubachi-hutch-yuuki-no-melody",
+    "https://anisearch.com/anime/5941",
+    "https://kitsu.io/anime/5211",
+    "https://livechart.me/anime/11708",
+    "https://myanimelist.net/anime/8141",
+    "https://notify.moe/anime/ByrzpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cfd75d6f67c904e4",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.120936920222635,
+    "arithmeticGeometricMean": 6.090699101951012,
+    "median": 6.117810760667903,
+    "hash": "cfd75d6f67c904e4",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10073",
+    "https://anilist.co/anime/101974",
+    "https://anime-planet.com/anime/mai-zhu",
+    "https://anisearch.com/anime/9039",
+    "https://kitsu.io/anime/8691",
+    "https://livechart.me/anime/9697",
+    "https://myanimelist.net/anime/20713",
+    "https://notify.moe/anime/ww1JtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "04f918beca299c3e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.967029066171923,
+    "arithmeticGeometricMean": 4.9394115824493126,
+    "median": 4.82708719851577,
+    "hash": "04f918beca299c3e",
+    "lastUpdate": "2024-05-09"
+  }
+}

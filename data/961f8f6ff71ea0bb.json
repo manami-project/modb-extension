@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4131",
+    "https://anilist.co/anime/17469",
+    "https://anime-planet.com/anime/kouchuu-ouja-mushiking-greatest-champion-e-no-michi",
+    "https://anisearch.com/anime/1882",
+    "https://kitsu.io/anime/8927",
+    "https://myanimelist.net/anime/17469",
+    "https://notify.moe/anime/HjJxpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "961f8f6ff71ea0bb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.341680148423006,
+    "arithmeticGeometricMean": 5.285872281434084,
+    "median": 5.0,
+    "hash": "961f8f6ff71ea0bb",
+    "lastUpdate": "2024-05-07"
+  }
+}

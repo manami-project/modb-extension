@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11478",
+    "https://anilist.co/anime/10584",
+    "https://anime-planet.com/anime/denki-groove-mononoke-dance",
+    "https://anisearch.com/anime/11131",
+    "https://kitsu.io/anime/6252",
+    "https://notify.moe/anime/J6d4pKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "133997d745647ff2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.937833642547928,
+    "arithmeticGeometricMean": 4.893927768994362,
+    "median": 5.0,
+    "hash": "133997d745647ff2",
+    "lastUpdate": "2024-05-08"
+  }
+}

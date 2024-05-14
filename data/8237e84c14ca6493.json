@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6395",
+    "https://anilist.co/anime/5365",
+    "https://anime-planet.com/anime/the-house-of-small-cubes",
+    "https://anisearch.com/anime/5272",
+    "https://kitsu.io/anime/4073",
+    "https://livechart.me/anime/4088",
+    "https://myanimelist.net/anime/5365",
+    "https://notify.moe/anime/XeFC5FmiR"
+  ],
+  "synopsis": {
+    "text": "Living in a once-thriving town now swallowed by relentless waters, an elderly man finds solace in the solitude of his multi-layered home, constructed brick by brick to outpace the rising tides. His days revolve around simple pleasures: puffing on his pipe, savoring wine, watching television, and savoring self-caught fish. In the echoing silence, only photographs serve as a testament to a bygone era. When his cherished pipe slips into the aquatic abyss of his submerged home, he embarks on a nostalgic journey, donning rented scuba gear to reclaim his lost treasure. As he navigates through the sunken chambers, he is engulfed by a flood of memories, reminding him of the family and life he once cherished. This poignant tale, Tsumiki no Ie, underscores the enduring impact of time, illustrating how it can submerge the past while teaching us to forge ahead despite the tides of change.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8237e84c14ca6493",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.91316280148423,
+    "arithmeticGeometricMean": 7.911564981867682,
+    "median": 7.965,
+    "hash": "8237e84c14ca6493",
+    "lastUpdate": "2024-05-10"
+  }
+}

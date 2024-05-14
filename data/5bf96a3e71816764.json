@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7701",
+    "https://anilist.co/anime/113180",
+    "https://anime-planet.com/anime/be-bop-kaizokuban",
+    "https://anisearch.com/anime/5615",
+    "https://kitsu.io/anime/8964",
+    "https://myanimelist.net/anime/24087",
+    "https://notify.moe/anime/2tPbtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5bf96a3e71816764",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.3884285714285705,
+    "arithmeticGeometricMean": 5.37197348961645,
+    "median": 5.285,
+    "hash": "5bf96a3e71816764",
+    "lastUpdate": "2024-05-08"
+  }
+}

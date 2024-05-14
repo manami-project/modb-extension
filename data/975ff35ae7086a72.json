@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/153320",
+    "https://anime-planet.com/anime/meiyo-and-asmi-nani-yattemo-umaku-ikanai"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "975ff35ae7086a72",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.158272727272728,
+    "arithmeticGeometricMean": 7.155205487240413,
+    "median": 7.158272727272728,
+    "hash": "975ff35ae7086a72",
+    "lastUpdate": "2024-05-07"
+  }
+}

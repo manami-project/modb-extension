@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2222",
+    "https://anilist.co/anime/4250",
+    "https://anime-planet.com/anime/kore-ga-ufo-da-soratobu-enban",
+    "https://anisearch.com/anime/2907",
+    "https://kitsu.io/anime/3538",
+    "https://livechart.me/anime/12046",
+    "https://livechart.me/anime/7093",
+    "https://myanimelist.net/anime/4250",
+    "https://notify.moe/anime/CJJucKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4bd02e7b4cb8fd2b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.050240480607828,
+    "arithmeticGeometricMean": 5.031090536530748,
+    "median": 5.18,
+    "hash": "4bd02e7b4cb8fd2b",
+    "lastUpdate": "2024-05-09"
+  }
+}

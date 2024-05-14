@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11624",
+    "https://anilist.co/anime/103449",
+    "https://anime-planet.com/anime/ooioo-sol",
+    "https://kitsu.io/anime/11428",
+    "https://myanimelist.net/anime/31450",
+    "https://notify.moe/anime/zk69pFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "10be5d4b33233820",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.597163636363637,
+    "arithmeticGeometricMean": 4.562127788543906,
+    "median": 4.181818181818182,
+    "hash": "10be5d4b33233820",
+    "lastUpdate": "2024-05-08"
+  }
+}

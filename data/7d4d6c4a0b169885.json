@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6185",
+    "https://anilist.co/anime/5300",
+    "https://anime-planet.com/anime/natsumes-book-of-friends-season-2",
+    "https://anisearch.com/anime/5078",
+    "https://kitsu.io/anime/4044",
+    "https://livechart.me/anime/3401",
+    "https://myanimelist.net/anime/5300",
+    "https://notify.moe/anime/kINjcFimg"
+  ],
+  "synopsis": {
+    "text": "Nyanko-sensei and Natsume Takashi embark on a new set of adventures in \"Natsume's Book of Friends 2,\" a direct continuation of the first season. Natsume, a young boy with the unique ability to see spirits, has inherited the mysterious 'Book of Friends' from his late grandmother, Reiko. This book contains the names of spirits that Reiko had previously contracted, and it's now Natsume's mission to release them.\n\nThroughout their journey, Natsume and Nyanko-sensei encounter a variety of spirits, each with their own unique stories and challenges. Some are friendly, while others harbor ill intentions, either desiring the Book of Friends for themselves or seeking to harm Natsume. As Natsume navigates these complex relationships, he uncovers more about his grandmother's past and his own connection to the spiritual world.\n\nDespite the supernatural chaos, Natsume maintains a semblance of normalcy, living with the kind Fujiwara family and spending time with his school friends. However, his encounters with the spirits reveal the intricate and often precarious balance between the human and spirit realms. As Natsume delves deeper into the mystery of the Book of Friends, he must find a way to reconcile the needs of both worlds.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d4d6c4a0b169885",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.394114970230518,
+    "arithmeticGeometricMean": 8.393349991460992,
+    "median": 8.400821661998133,
+    "hash": "7d4d6c4a0b169885",
+    "lastUpdate": "2024-05-10"
+  }
+}

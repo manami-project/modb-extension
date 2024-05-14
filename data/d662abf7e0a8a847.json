@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12970",
+    "https://anilist.co/anime/8773",
+    "https://anime-planet.com/anime/nekko-kun",
+    "https://anisearch.com/anime/6745",
+    "https://kitsu.io/anime/5489",
+    "https://myanimelist.net/anime/8773",
+    "https://notify.moe/anime/E8kZpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d662abf7e0a8a847",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.771048855905998,
+    "arithmeticGeometricMean": 4.729215146056141,
+    "median": 4.863636363636363,
+    "hash": "d662abf7e0a8a847",
+    "lastUpdate": "2024-05-07"
+  }
+}

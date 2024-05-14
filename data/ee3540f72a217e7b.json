@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18624",
+    "https://anilist.co/anime/156103",
+    "https://anime-planet.com/anime/back-to-the-great-ming",
+    "https://myanimelist.net/anime/58551"
+  ],
+  "synopsis": {
+    "text": "Shaopeng, a high school student, finds himself in an unexpected journey when he wakes up from a history class nap to discover he's been transported to the ancient Danzhu Dynasty as Yang Lin, a struggling scholar. Initially, Yang Lin grapples with the unfamiliarities of ancient life, but his modern thinking soon leads to the creation of small inventions that earn him admiration from the villagers and a newfound sense of belonging.\n\nAmidst a backdrop of internal strife and external threats, Yang Lin witnesses the hardships of war and the people's suffering. Leveraging his wisdom and capabilities, he secures a position within the court, paving the way for the Danzhu Dynasty to combat corruption and defend against powerful enemies. By fostering scientific and technological advancements, Yang Lin guides the nation towards breaking free from superstition and becoming a formidable force.\n\nIn a separate tale, an unnamed protagonist faces an eternal cycle of torturous reincarnation due to a miscalculation by the underworld's 'Cops of death.' Desperate for a true end, he is instead forced to live countless lives that never last more than a year. Just as he reaches his breaking point, a new reincarnation unfolds with a surprising twist, hinting at a more intriguing turn of events.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee3540f72a217e7b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.6363636363636362,
+    "arithmeticGeometricMean": 3.6363636363636362,
+    "median": 3.6363636363636362,
+    "hash": "ee3540f72a217e7b",
+    "lastUpdate": "2024-05-13"
+  }
+}

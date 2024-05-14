@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6727",
+    "https://anilist.co/anime/6848",
+    "https://anime-planet.com/anime/doubutsu-mura-no-daisodou",
+    "https://anisearch.com/anime/5672",
+    "https://kitsu.io/anime/4749",
+    "https://myanimelist.net/anime/6848",
+    "https://notify.moe/anime/lRe65Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "83551ebc59b7ed2a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.030298966339783,
+    "arithmeticGeometricMean": 5.011043357073912,
+    "median": 4.98,
+    "hash": "83551ebc59b7ed2a",
+    "lastUpdate": "2024-05-08"
+  }
+}

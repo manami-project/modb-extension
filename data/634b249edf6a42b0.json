@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10858",
+    "https://anilist.co/anime/20875",
+    "https://anime-planet.com/anime/sword-gai-the-animation",
+    "https://anisearch.com/anime/9889",
+    "https://kitsu.io/anime/9730",
+    "https://livechart.me/anime/1180",
+    "https://myanimelist.net/anime/27783",
+    "https://notify.moe/anime/7oYYtKimR"
+  ],
+  "synopsis": {
+    "text": "Zsoltgewinn, a legendary sword with an insatiable thirst for blood, was once sealed away after its uncontrollable power led to the massacre of those who sought its aid. Years later, the Shoshidai, an organization that collects cursed artifacts, accidentally unleashes the sword's dark power once again. Meanwhile, a young boy named Gai is found abandoned in a forest, clutching the demonic sword Shiryū, by a kind-hearted swordsmith named Amon. After adopting Gai as his own, Amon teaches him the art of swordsmithing. However, a tragic accident during the forging of a sword results in Gai losing his right arm. In an attempt to save him, Amon transforms the cursed Shiryū into a prosthetic arm for Gai. Now, with a demonic sword as his arm, Gai must learn to control its power and use it to protect humanity from the rampaging Zsoltgewinn. With the fate of the world resting on his shoulders, Gai embarks on a journey to master the power within him and defeat the darkness that threatens to consume everything in its path.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "634b249edf6a42b0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.993158080015224,
+    "arithmeticGeometricMean": 5.979490887096708,
+    "median": 5.953090909090909,
+    "hash": "634b249edf6a42b0",
+    "lastUpdate": "2024-05-10"
+  }
+}

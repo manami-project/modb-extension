@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11691",
+    "https://anilist.co/anime/21422",
+    "https://anime-planet.com/anime/mahou-shoujo-nante-mouiidesukara",
+    "https://anisearch.com/anime/10837",
+    "https://kitsu.io/anime/11552",
+    "https://livechart.me/anime/1867",
+    "https://myanimelist.net/anime/31793",
+    "https://notify.moe/anime/L7-CpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "615b24ac74818454",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.09694198157732,
+    "arithmeticGeometricMean": 6.084024165871546,
+    "median": 6.025454545454545,
+    "hash": "615b24ac74818454",
+    "lastUpdate": "2024-05-09"
+  }
+}

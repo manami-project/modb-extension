@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/142172",
+    "https://anime-planet.com/anime/light-catcher",
+    "https://myanimelist.net/anime/50422"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2bbbed86e182e675",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.5009696969696975,
+    "arithmeticGeometricMean": 6.495553864638772,
+    "median": 6.41,
+    "hash": "2bbbed86e182e675",
+    "lastUpdate": "2024-05-07"
+  }
+}

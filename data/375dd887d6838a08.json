@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11076",
+    "https://anilist.co/anime/21134",
+    "https://anime-planet.com/anime/jewelpet-magical-change",
+    "https://anisearch.com/anime/10225",
+    "https://kitsu.io/anime/10597",
+    "https://livechart.me/anime/1406",
+    "https://myanimelist.net/anime/30030",
+    "https://notify.moe/anime/Cu4QtFmiR"
+  ],
+  "synopsis": {
+    "text": "Ruby, a charming Jewelpet with the appearance of a rabbit, embarks on an extraordinary mission alongside her loyal human companion, Airi Kirara, and an ensemble of fellow Jewelpets. Their objective is to restore the once-magnificent Jewel Castle, which has tragically plummeted from the heavens and crashed into the heart of a bustling town, a consequence of humanity's waning faith in magic. To reignite the spark of belief in magic among people, these Jewelpets take on human forms and descend to Earth, eager to learn more about the human experience. As they navigate through their newfound lives, they strive to remind humanity of the enchantment hidden within their world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "375dd887d6838a08",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.266265041081367,
+    "arithmeticGeometricMean": 6.1981529971302365,
+    "median": 6.821999999999999,
+    "hash": "375dd887d6838a08",
+    "lastUpdate": "2024-05-09"
+  }
+}

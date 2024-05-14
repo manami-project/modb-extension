@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/596",
+    "https://anilist.co/anime/2302",
+    "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-i",
+    "https://anisearch.com/anime/3388",
+    "https://kitsu.io/anime/2084",
+    "https://livechart.me/anime/7717",
+    "https://myanimelist.net/anime/2302",
+    "https://notify.moe/anime/Mp2PcKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0fdaaf12b5d254d1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.819483876667549,
+    "arithmeticGeometricMean": 5.795469962298878,
+    "median": 6.154,
+    "hash": "0fdaaf12b5d254d1",
+    "lastUpdate": "2024-05-09"
+  }
+}

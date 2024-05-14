@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7764",
+    "https://anilist.co/anime/2628",
+    "https://anime-planet.com/anime/the-doraemons-strange-sweets-strange",
+    "https://anisearch.com/anime/6385",
+    "https://kitsu.io/anime/2392",
+    "https://livechart.me/anime/8872",
+    "https://myanimelist.net/anime/2628",
+    "https://notify.moe/anime/282scFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4b460aaa7fe1c90",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.418508878876225,
+    "arithmeticGeometricMean": 6.38586791130423,
+    "median": 6.87,
+    "hash": "b4b460aaa7fe1c90",
+    "lastUpdate": "2024-05-10"
+  }
+}

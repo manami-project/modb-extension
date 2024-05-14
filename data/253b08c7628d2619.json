@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11565",
+    "https://anilist.co/anime/103439",
+    "https://anime-planet.com/anime/yume",
+    "https://anisearch.com/anime/11621",
+    "https://kitsu.io/anime/10451",
+    "https://myanimelist.net/anime/29932",
+    "https://notify.moe/anime/ODLUtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "253b08c7628d2619",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.306012721971905,
+    "arithmeticGeometricMean": 5.285194935166788,
+    "median": 5.040816326530611,
+    "hash": "253b08c7628d2619",
+    "lastUpdate": "2024-05-08"
+  }
+}

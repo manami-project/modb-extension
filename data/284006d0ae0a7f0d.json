@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11384",
+    "https://anilist.co/anime/102691",
+    "https://anime-planet.com/anime/tatamp",
+    "https://anisearch.com/anime/10162",
+    "https://kitsu.io/anime/8915",
+    "https://myanimelist.net/anime/25461",
+    "https://notify.moe/anime/qcAbtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "284006d0ae0a7f0d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.976732220160792,
+    "arithmeticGeometricMean": 4.934243257125958,
+    "median": 5.090909090909091,
+    "hash": "284006d0ae0a7f0d",
+    "lastUpdate": "2024-05-07"
+  }
+}

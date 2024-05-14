@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/114297",
+    "https://anime-planet.com/anime/viva-sherry-xmas-song",
+    "https://kitsu.io/anime/42752",
+    "https://myanimelist.net/anime/38905"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4bdd02b95a06a6e3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.494,
+    "arithmeticGeometricMean": 5.485916626278198,
+    "median": 5.45,
+    "hash": "4bdd02b95a06a6e3",
+    "lastUpdate": "2024-05-07"
+  }
+}

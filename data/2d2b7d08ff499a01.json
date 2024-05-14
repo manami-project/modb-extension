@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12010",
+    "https://anilist.co/anime/126878",
+    "https://anime-planet.com/anime/kushimitama-samurai",
+    "https://anisearch.com/anime/11266",
+    "https://kitsu.io/anime/12367",
+    "https://myanimelist.net/anime/33348",
+    "https://notify.moe/anime/nn4khFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2d2b7d08ff499a01",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.481196289424861,
+    "arithmeticGeometricMean": 5.4643231220679,
+    "median": 5.09,
+    "hash": "2d2b7d08ff499a01",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14786",
+    "https://anilist.co/anime/114317",
+    "https://anime-planet.com/anime/thunderbolt-fantasy-movie-2-bewitching-melody-of-the-west",
+    "https://kitsu.io/anime/43687",
+    "https://livechart.me/anime/9596",
+    "https://notify.moe/anime/uo0obmjWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "43d69224b9cb14c7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.638409090909091,
+    "arithmeticGeometricMean": 7.62964029484851,
+    "median": 7.595000000000001,
+    "hash": "43d69224b9cb14c7",
+    "lastUpdate": "2024-05-10"
+  }
+}

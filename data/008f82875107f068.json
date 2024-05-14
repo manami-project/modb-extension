@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118569",
+    "https://anime-planet.com/anime/elite-banana-banao",
+    "https://kitsu.io/anime/12587",
+    "https://myanimelist.net/anime/33986",
+    "https://notify.moe/anime/Ju7m2Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "008f82875107f068",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.315681818181818,
+    "arithmeticGeometricMean": 5.288405071490674,
+    "median": 5.359999999999999,
+    "hash": "008f82875107f068",
+    "lastUpdate": "2024-05-06"
+  }
+}

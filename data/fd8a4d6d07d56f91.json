@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8870",
+    "https://anilist.co/anime/12531",
+    "https://anime-planet.com/anime/kids-on-the-slope",
+    "https://anisearch.com/anime/7502",
+    "https://kitsu.io/anime/6760",
+    "https://livechart.me/anime/1129",
+    "https://myanimelist.net/anime/12531",
+    "https://notify.moe/anime/KbfHpKmmR"
+  ],
+  "synopsis": {
+    "text": "American culture seeps into the quaint seaside town of Sasebo, Nagasaki Prefecture, in the summer of 1966. Kaoru Nishimi, a shy and introverted first-year high school student, finds himself relocating from Yokosuka to Kyushu to live with relatives due to his father's naval career. No stranger to moving, Kaoru has long resigned himself to a life of solitude and academic achievement.\n\nHowever, Kaoru's world is turned upside down when he crosses paths with the rebellious and free-spirited Sentarou Kawabuchi, who introduces him to the captivating world of jazz music. As the two form an unlikely friendship, Kaoru also meets the kind-hearted Ritsuko Mukae, whose family owns a local record store. United by their shared love for jazz, the trio begins to jam together in the store's basement, with Kaoru rediscovering his passion for playing the piano.\n\nAs Kaoru breaks free from his self-imposed shell, he embarks on a journey of self-discovery, friendship, and love. Alongside enigmatic upperclassman Yurika and the charismatic Brother Jun, Kaoru learns that life is filled with diverse experiences waiting to be embraced. This heartwarming tale of adolescence, set against the backdrop of a changing Japan, invites viewers to join Kaoru and his friends as they navigate the thrilling world of jazz and find their own rhythm in life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd8a4d6d07d56f91",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.1871379926147,
+    "arithmeticGeometricMean": 8.185978848592569,
+    "median": 8.240909090909092,
+    "hash": "fd8a4d6d07d56f91",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21780",
+    "https://anime-planet.com/anime/re-zero-starting-break-time-from-zero",
+    "https://anisearch.com/anime/11408",
+    "https://kitsu.io/anime/12047",
+    "https://livechart.me/anime/3967",
+    "https://myanimelist.net/anime/33142",
+    "https://notify.moe/anime/Wx8etKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "893c943ecbdae4a1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.754478618383381,
+    "arithmeticGeometricMean": 6.751750092979624,
+    "median": 6.65,
+    "hash": "893c943ecbdae4a1",
+    "lastUpdate": "2024-05-06"
+  }
+}

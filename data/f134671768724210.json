@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6005",
+    "https://anilist.co/anime/4066",
+    "https://anime-planet.com/anime/tytania",
+    "https://anisearch.com/anime/4953",
+    "https://kitsu.io/anime/3442",
+    "https://livechart.me/anime/6646",
+    "https://myanimelist.net/anime/4066",
+    "https://notify.moe/anime/wiMX5KimR"
+  ],
+  "synopsis": {
+    "text": "Tytania’s iron grip on the Empire of Valdana, an empire spanning galaxies and built on fear and economic dominance, is challenged when an admiral from Euriya, Fan Hulic, orchestrates a surprising victory against a Tytanian duke's armada. This bold act of defiance sparks a chain reaction of rebellion and political intrigue, shaking the very foundations of the empire.\n\nAs ambitious members of the Tytania royalty seize the opportunity to settle old scores and vie for control, Fan Hulic finds himself a wanted man, traversing the cosmos in a desperate bid for survival. His journey introduces him to a diverse array of individuals, all united by a renewed hope of toppling the oppressive Tytania regime.\n\nWith the empire teetering on the brink of civil war and power up for grabs, Fan Hulic must outwit his formidable adversaries commanding entire worlds, transforming his initial victory into a beacon of hope for those yearning for freedom from Tytania's tyranny. In this high-stakes game of power and rebellion, one man's daring stand becomes the catalyst for a galaxy-wide uprising.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f134671768724210",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.628048767558972,
+    "arithmeticGeometricMean": 6.623464277235423,
+    "median": 6.752,
+    "hash": "f134671768724210",
+    "lastUpdate": "2024-05-10"
+  }
+}

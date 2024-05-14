@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18481",
+    "https://anilist.co/anime/166409",
+    "https://anime-planet.com/anime/the-land-of-miracles-3rd-season",
+    "https://kitsu.io/anime/47809",
+    "https://myanimelist.net/anime/55740",
+    "https://notify.moe/anime/CAn8wDgSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "185d9825badff328",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.9892121212121205,
+    "arithmeticGeometricMean": 7.981750766830951,
+    "median": 8.294,
+    "hash": "185d9825badff328",
+    "lastUpdate": "2024-05-08"
+  }
+}

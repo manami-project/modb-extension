@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10614",
+    "https://anilist.co/anime/102509",
+    "https://anime-planet.com/anime/oni-no-ko-to-yuki-usagi",
+    "https://anisearch.com/anime/9244",
+    "https://kitsu.io/anime/9513",
+    "https://myanimelist.net/anime/21163",
+    "https://notify.moe/anime/VrwfpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e685aba748e1d1d4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.585200989486704,
+    "arithmeticGeometricMean": 5.557707807714618,
+    "median": 5.795,
+    "hash": "e685aba748e1d1d4",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6605",
+    "https://anilist.co/anime/113137",
+    "https://anime-planet.com/anime/gebageba-showtime",
+    "https://anisearch.com/anime/11901",
+    "https://kitsu.io/anime/9273",
+    "https://myanimelist.net/anime/21525",
+    "https://notify.moe/anime/ZB9-tFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b359d0fb4407147",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.330575139146568,
+    "arithmeticGeometricMean": 4.174177202292948,
+    "median": 4.45,
+    "hash": "8b359d0fb4407147",
+    "lastUpdate": "2024-05-08"
+  }
+}

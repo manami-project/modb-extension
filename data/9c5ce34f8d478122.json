@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7342",
+    "https://anilist.co/anime/10435",
+    "https://anime-planet.com/anime/boyfriend",
+    "https://anisearch.com/anime/6043",
+    "https://kitsu.io/anime/6179",
+    "https://livechart.me/anime/12205",
+    "https://myanimelist.net/anime/10435",
+    "https://notify.moe/anime/kRz4pFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9c5ce34f8d478122",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.574265924551639,
+    "arithmeticGeometricMean": 5.5564968933851056,
+    "median": 5.330797773654917,
+    "hash": "9c5ce34f8d478122",
+    "lastUpdate": "2024-05-09"
+  }
+}

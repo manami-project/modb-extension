@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136451",
+    "https://anime-planet.com/anime/airi-miyakawa-sphere",
+    "https://myanimelist.net/anime/51058"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e98ff1df9250e299",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.680272727272728,
+    "arithmeticGeometricMean": 6.678365208099401,
+    "median": 6.680272727272728,
+    "hash": "e98ff1df9250e299",
+    "lastUpdate": "2024-05-07"
+  }
+}

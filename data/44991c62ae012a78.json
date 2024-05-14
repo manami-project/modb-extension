@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2698",
+    "https://anilist.co/anime/3287",
+    "https://anime-planet.com/anime/tenkuu-danzai-skelter-heaven",
+    "https://anisearch.com/anime/934",
+    "https://kitsu.io/anime/2910",
+    "https://livechart.me/anime/4550",
+    "https://myanimelist.net/anime/3287",
+    "https://notify.moe/anime/y7cQcFmiR"
+  ],
+  "synopsis": {
+    "text": "Defense Agency enlists the covert Alta Mira Agency to combat a mysterious, hostile entity that has appeared above futuristic Tokyo. The agency's mission is to train genetically engineered female humanoids to pilot mecha, known as Battle Soles, under the leadership of Funagai Otoya. He is tasked with selecting one of the girls for specialized training, which could potentially lead to self-sacrifice. As the battle against the alien force intensifies, Otoya's emotional connection with one of the pilots, Rin Ichikawa, may jeopardize the mission.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "44991c62ae012a78",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 2.7458472222222223,
+    "arithmeticGeometricMean": 2.610820360715464,
+    "median": 2.271818181818182,
+    "hash": "44991c62ae012a78",
+    "lastUpdate": "2024-05-10"
+  }
+}

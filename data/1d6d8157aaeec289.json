@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5298",
+    "https://anilist.co/anime/3931",
+    "https://anime-planet.com/anime/initial-d-battle-stage-2",
+    "https://anisearch.com/anime/4225",
+    "https://kitsu.io/anime/3358",
+    "https://livechart.me/anime/8273",
+    "https://myanimelist.net/anime/3931",
+    "https://notify.moe/anime/VCul5Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d6d8157aaeec289",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.5639633580705015,
+    "arithmeticGeometricMean": 7.556197302705277,
+    "median": 7.6899999999999995,
+    "hash": "1d6d8157aaeec289",
+    "lastUpdate": "2024-05-09"
+  }
+}

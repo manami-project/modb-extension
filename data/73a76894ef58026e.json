@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5811",
+    "https://anilist.co/anime/10369",
+    "https://anime-planet.com/anime/shougeki-shinsengumi",
+    "https://anisearch.com/anime/4790",
+    "https://kitsu.io/anime/6151",
+    "https://myanimelist.net/anime/10369",
+    "https://notify.moe/anime/LvCnpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73a76894ef58026e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.181099257884972,
+    "arithmeticGeometricMean": 4.137749784782009,
+    "median": 4.379545454545454,
+    "hash": "73a76894ef58026e",
+    "lastUpdate": "2024-05-08"
+  }
+}

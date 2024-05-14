@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/144",
+    "https://anilist.co/anime/249",
+    "https://anime-planet.com/anime/inuyasha",
+    "https://anisearch.com/anime/2581",
+    "https://kitsu.io/anime/224",
+    "https://livechart.me/anime/3684",
+    "https://myanimelist.net/anime/249",
+    "https://notify.moe/anime/Q3ShcFmiR"
+  ],
+  "synopsis": {
+    "text": "The story of InuYasha unfolds as Kagome Higurashi, an ordinary 15-year-old girl, is thrust into an extraordinary world when a demon drags her into her family's ancient well. Instead of plunging into the depths, she finds herself transported back in time to Japan's turbulent Sengoku period, where demons roam freely. Unbeknownst to her, Kagome carries within her the powerful Shikon Jewel, a gem capable of granting wishes and coveted by many malevolent forces.\n\nIn this perilous new world, Kagome crosses paths with Inuyasha, a half-demon with a complicated past and a grudge against a shrine maiden named Kikyou, who bears a striking resemblance to Kagome. Despite initial hostilities, the two form an uneasy alliance when the Shikon Jewel shatters during a battle, scattering its power-infused shards across feudal Japan.\n\nJoined by a motley crew of allies - the orphaned fox-demon Shippo, the wise monk Miroku, and the formidable demon slayer Sango - Kagome and Inuyasha embark on a treacherous journey to retrieve the shards and prevent them from falling into the wrong hands. As they navigate through the challenges and threats of this era, they must learn to set aside their differences and work together to restore the Shikon Jewel and protect the world from the evil that seeks its power.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cd1d277c4b181e6b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.661048996888898,
+    "arithmeticGeometricMean": 7.659567451878921,
+    "median": 7.760090909090909,
+    "hash": "cd1d277c4b181e6b",
+    "lastUpdate": "2024-05-09"
+  }
+}

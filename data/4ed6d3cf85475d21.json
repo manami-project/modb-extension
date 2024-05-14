@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7959",
+    "https://anilist.co/anime/7222",
+    "https://anime-planet.com/anime/macross-frontier-movie-2-the-wings-of-farewell",
+    "https://anisearch.com/anime/6513",
+    "https://kitsu.io/anime/4903",
+    "https://livechart.me/anime/4665",
+    "https://myanimelist.net/anime/7222",
+    "https://notify.moe/anime/0hfRtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ed6d3cf85475d21",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.84766883116883,
+    "arithmeticGeometricMean": 7.847089380817449,
+    "median": 7.866,
+    "hash": "4ed6d3cf85475d21",
+    "lastUpdate": "2024-05-09"
+  }
+}

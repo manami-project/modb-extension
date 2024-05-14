@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7216",
+    "https://anilist.co/anime/8189",
+    "https://anime-planet.com/anime/the-world-of-golden-eggs",
+    "https://anisearch.com/anime/5578",
+    "https://kitsu.io/anime/5235",
+    "https://myanimelist.net/anime/8189",
+    "https://notify.moe/anime/TCektKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b41d7268c7eea94",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.924966604823748,
+    "arithmeticGeometricMean": 5.908192883130669,
+    "median": 5.9818181818181815,
+    "hash": "9b41d7268c7eea94",
+    "lastUpdate": "2024-05-08"
+  }
+}

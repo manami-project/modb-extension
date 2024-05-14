@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/15993",
+    "https://anime-planet.com/anime/ginga-e-kickoff-special",
+    "https://anisearch.com/anime/8376",
+    "https://kitsu.io/anime/7354",
+    "https://myanimelist.net/anime/15993",
+    "https://notify.moe/anime/KPdKpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "202941ad510d78b2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.7391125541125545,
+    "arithmeticGeometricMean": 5.7066184918691505,
+    "median": 5.994545454545454,
+    "hash": "202941ad510d78b2",
+    "lastUpdate": "2024-05-06"
+  }
+}

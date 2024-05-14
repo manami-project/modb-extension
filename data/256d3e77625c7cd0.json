@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12265",
+    "https://anilist.co/anime/8081",
+    "https://anime-planet.com/anime/the-story-of-mr-sorry",
+    "https://anisearch.com/anime/6107",
+    "https://kitsu.io/anime/5190",
+    "https://myanimelist.net/anime/8081",
+    "https://notify.moe/anime/KglzpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "256d3e77625c7cd0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.879236681685661,
+    "arithmeticGeometricMean": 5.856187736591994,
+    "median": 5.68,
+    "hash": "256d3e77625c7cd0",
+    "lastUpdate": "2024-05-07"
+  }
+}

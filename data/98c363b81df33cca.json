@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5747",
+    "https://anilist.co/anime/3723",
+    "https://anime-planet.com/anime/adventures-of-the-little-koala",
+    "https://anisearch.com/anime/4122",
+    "https://kitsu.io/anime/3212",
+    "https://myanimelist.net/anime/3723",
+    "https://notify.moe/anime/zTFl5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "98c363b81df33cca",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.18056648113791,
+    "arithmeticGeometricMean": 5.132373647608011,
+    "median": 5.095454545454546,
+    "hash": "98c363b81df33cca",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15614",
+    "https://anilist.co/anime/119696",
+    "https://anime-planet.com/anime/cooking-with-valkyries-ii",
+    "https://anisearch.com/anime/15397",
+    "https://kitsu.io/anime/43364",
+    "https://livechart.me/anime/10014",
+    "https://myanimelist.net/anime/42206",
+    "https://notify.moe/anime/mtwwULZMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b3afe0b5b92b295c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.80334508348794,
+    "arithmeticGeometricMean": 6.777366546334994,
+    "median": 7.22,
+    "hash": "b3afe0b5b92b295c",
+    "lastUpdate": "2024-05-09"
+  }
+}

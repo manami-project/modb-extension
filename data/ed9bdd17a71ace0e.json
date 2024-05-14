@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5508",
+    "https://anilist.co/anime/3299",
+    "https://anime-planet.com/anime/h2o-footprints-in-the-sand",
+    "https://anisearch.com/anime/4551",
+    "https://kitsu.io/anime/2918",
+    "https://livechart.me/anime/3965",
+    "https://myanimelist.net/anime/3299",
+    "https://notify.moe/anime/jHtw5FmmR"
+  ],
+  "synopsis": {
+    "text": "As a young high school student, Takuma Hirose has already faced more adversity than most. Struck by the tragic suicide of his mother and inexplicably losing his sight, he becomes withdrawn and isolated. In an effort to help him heal, Takuma is sent to live with his uncle in a serene rural village.\n\nUpon enrolling in the local high school, Takuma encounters three unique girls who significantly impact his life. The first is Hayami Kohinata, a classmate ostracized by her peers for reasons shrouded in mystery. Despite her cold demeanor towards Takuma's friendship attempts, he remains determined to understand and help her.\n\nThe second is Hinata Kagura, an overly accommodating girl with a hidden agenda. Lastly, there's the enigmatic Otoha, who introduces herself as the \"spirit of the sound of time\" and is only perceptible to Takuma.\n\nAs Takuma navigates his new life in the village, he finds himself in the midst of unraveling sad secrets and helping those around him. With the temporary restoration of his sight by Otoha, Takuma uses his newfound vision to aid others and bring light to the darkness surrounding Hayami Kohinata. As he delves deeper into the mysteries of the village, Takuma's own healing journey unfolds.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ed9bdd17a71ace0e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.928704287775716,
+    "arithmeticGeometricMean": 6.924157978321307,
+    "median": 6.945,
+    "hash": "ed9bdd17a71ace0e",
+    "lastUpdate": "2024-05-09"
+  }
+}

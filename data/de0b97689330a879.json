@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7144",
+    "https://anime-planet.com/anime/kazoku-robinson-hyouryuuki-fushigi-na-shima-no-flone-specials",
+    "https://anisearch.com/anime/6133",
+    "https://kitsu.io/anime/9373",
+    "https://myanimelist.net/anime/24681",
+    "https://notify.moe/anime/8XHftFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de0b97689330a879",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.977469387755103,
+    "arithmeticGeometricMean": 5.942982470629862,
+    "median": 5.720408163265306,
+    "hash": "de0b97689330a879",
+    "lastUpdate": "2024-05-08"
+  }
+}

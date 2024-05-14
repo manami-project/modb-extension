@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11757",
+    "https://anilist.co/anime/131641",
+    "https://anime-planet.com/anime/shimajirou-to-ehon-no-kuni",
+    "https://anisearch.com/anime/11943",
+    "https://kitsu.io/anime/12415",
+    "https://livechart.me/anime/1908",
+    "https://myanimelist.net/anime/32014",
+    "https://notify.moe/anime/9RczhFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4d3382088638613",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.839878787878788,
+    "arithmeticGeometricMean": 5.803936842316036,
+    "median": 5.363636363636363,
+    "hash": "d4d3382088638613",
+    "lastUpdate": "2024-05-09"
+  }
+}

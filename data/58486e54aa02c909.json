@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113264",
+    "https://anime-planet.com/anime/cai-mogu",
+    "https://myanimelist.net/anime/43212"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "58486e54aa02c909",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.702181818181819,
+    "arithmeticGeometricMean": 5.651823258653298,
+    "median": 5.702181818181819,
+    "hash": "58486e54aa02c909",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104125",
+    "https://anime-planet.com/anime/onikiri-shoujo",
+    "https://kitsu.io/anime/11757",
+    "https://kitsu.io/anime/41808",
+    "https://myanimelist.net/anime/37547",
+    "https://notify.moe/anime/uaT3tKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1be51132ac29aa50",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.959090909090909,
+    "arithmeticGeometricMean": 4.95667062318527,
+    "median": 4.975,
+    "hash": "1be51132ac29aa50",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/20833",
+    "https://anime-planet.com/anime/teekyuu-4",
+    "https://anisearch.com/anime/9367",
+    "https://kitsu.io/anime/8906",
+    "https://livechart.me/anime/372",
+    "https://myanimelist.net/anime/26395",
+    "https://notify.moe/anime/ZSTxtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e6eae739928c4258",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.778590478399153,
+    "arithmeticGeometricMean": 6.773471204551942,
+    "median": 6.765625,
+    "hash": "e6eae739928c4258",
+    "lastUpdate": "2024-05-10"
+  }
+}

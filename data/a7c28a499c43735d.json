@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6608",
+    "https://anilist.co/anime/18341",
+    "https://anime-planet.com/anime/pro-yakyuu-wo-10-bai-tanoshiku-miru-houhou-part-2",
+    "https://anisearch.com/anime/8617",
+    "https://kitsu.io/anime/9929",
+    "https://myanimelist.net/anime/18341",
+    "https://notify.moe/anime/ExKPpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a7c28a499c43735d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.8828076685219544,
+    "arithmeticGeometricMean": 3.768503953643181,
+    "median": 4.454545454545454,
+    "hash": "a7c28a499c43735d",
+    "lastUpdate": "2024-05-08"
+  }
+}

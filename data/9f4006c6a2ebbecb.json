@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/one-small-step"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9f4006c6a2ebbecb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.788,
+    "arithmeticGeometricMean": 7.788,
+    "median": 7.788,
+    "hash": "9f4006c6a2ebbecb",
+    "lastUpdate": "2024-05-07"
+  }
+}

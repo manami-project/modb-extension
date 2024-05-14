@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/638",
+    "https://anilist.co/anime/250",
+    "https://anime-planet.com/anime/zatch-bell",
+    "https://anisearch.com/anime/1648",
+    "https://kitsu.io/anime/225",
+    "https://livechart.me/anime/4408",
+    "https://myanimelist.net/anime/250",
+    "https://notify.moe/anime/34Nh5Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4dbf7d607e02795c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.365836883016326,
+    "arithmeticGeometricMean": 7.363682457591121,
+    "median": 7.447733431879773,
+    "hash": "4dbf7d607e02795c",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8022",
+    "https://anilist.co/anime/10261",
+    "https://anime-planet.com/anime/toufu-kozou",
+    "https://anisearch.com/anime/6628",
+    "https://kitsu.io/anime/6105",
+    "https://myanimelist.net/anime/10261",
+    "https://notify.moe/anime/Wds7tFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "254fad1c30a42d65",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.73777798392084,
+    "arithmeticGeometricMean": 5.712930217358971,
+    "median": 5.647272727272727,
+    "hash": "254fad1c30a42d65",
+    "lastUpdate": "2024-05-07"
+  }
+}

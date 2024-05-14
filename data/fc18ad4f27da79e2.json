@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12298",
+    "https://anilist.co/anime/87487",
+    "https://anime-planet.com/anime/mobile-police-patlabor-reboot",
+    "https://anisearch.com/anime/11745",
+    "https://kitsu.io/anime/12470",
+    "https://livechart.me/anime/2266",
+    "https://myanimelist.net/anime/33741",
+    "https://notify.moe/anime/q1azhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc18ad4f27da79e2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.664356745295521,
+    "arithmeticGeometricMean": 6.661139455098929,
+    "median": 6.602,
+    "hash": "fc18ad4f27da79e2",
+    "lastUpdate": "2024-05-09"
+  }
+}

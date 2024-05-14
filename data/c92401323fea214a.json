@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2331",
+    "https://anilist.co/anime/3461",
+    "https://anime-planet.com/anime/ellcia",
+    "https://anisearch.com/anime/2474",
+    "https://kitsu.io/anime/3026",
+    "https://livechart.me/anime/6751",
+    "https://myanimelist.net/anime/3461",
+    "https://notify.moe/anime/XTUw5KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c92401323fea214a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.740793002915451,
+    "arithmeticGeometricMean": 5.718397095048895,
+    "median": 5.84,
+    "hash": "c92401323fea214a",
+    "lastUpdate": "2024-05-09"
+  }
+}

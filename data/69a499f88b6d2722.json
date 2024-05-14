@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5060",
+    "https://anilist.co/anime/1336",
+    "https://anime-planet.com/anime/the-guyver-bio-booster-armor-ii",
+    "https://anisearch.com/anime/3504",
+    "https://kitsu.io/anime/8124",
+    "https://livechart.me/anime/8772",
+    "https://myanimelist.net/anime/1336",
+    "https://notify.moe/anime/pYq2tKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "69a499f88b6d2722",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.756946903436699,
+    "arithmeticGeometricMean": 6.753505869529058,
+    "median": 6.636363636363637,
+    "hash": "69a499f88b6d2722",
+    "lastUpdate": "2024-05-09"
+  }
+}

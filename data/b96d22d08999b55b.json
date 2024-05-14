@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/288",
+    "https://anilist.co/anime/1453",
+    "https://anime-planet.com/anime/maison-ikkoku",
+    "https://anisearch.com/anime/2918",
+    "https://kitsu.io/anime/1303",
+    "https://livechart.me/anime/5230",
+    "https://myanimelist.net/anime/1453",
+    "https://notify.moe/anime/iwV-5FmiR"
+  ],
+  "synopsis": {
+    "text": "Clock Hill's Maison Ikkoku is a charming yet chaotic boarding house filled with eccentric tenants, including Yuusaku Godai, a 20-year-old college applicant struggling to pass his entrance exams. Frustrated by the constant partying and noise, Godai decides to move out, only to be stopped in his tracks by the arrival of the new building manager, the stunning Kyoko Otonashi. Smitten by her beauty and grace, Godai decides to stay and pursue his love for her.\n\nHowever, the path to love is never simple. Kyoko, a young widow, is still grieving the loss of her husband, and Godai must navigate the complexities of her heart while dealing with his own insecurities and the meddling of his fellow tenants. From the mysterious Yotsuya to the provocative Akemi and the seemingly alcoholic Ichinose, the residents of Maison Ikkoku never fail to keep things interesting.\n\nAs Godai and Kyoko's relationship develops, they face numerous challenges, including the arrival of wealthy tennis coach Shun Mitaka, who also sets his sights on Kyoko. Despite the obstacles, Godai remains determined to win Kyoko's heart and help her find happiness once more.\n\nFilled with a mix of humor, romance, and drama, Maison Ikkoku is a captivating tale of love, loss, and the power of perseverance in the face of adversity. Will Godai and Kyoko find their way to each other amidst the chaos of Maison Ikkoku? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b96d22d08999b55b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.975081632653062,
+    "arithmeticGeometricMean": 7.9744384624415,
+    "median": 7.977272727272727,
+    "hash": "b96d22d08999b55b",
+    "lastUpdate": "2024-05-09"
+  }
+}

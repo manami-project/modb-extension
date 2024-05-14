@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14826",
+    "https://anilist.co/anime/124472",
+    "https://anime-planet.com/anime/himote-house-ova",
+    "https://anisearch.com/anime/14362",
+    "https://kitsu.io/anime/42759",
+    "https://livechart.me/anime/9418",
+    "https://myanimelist.net/anime/39722",
+    "https://notify.moe/anime/-oePU9BMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "031d18186be0557d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.680759183673469,
+    "arithmeticGeometricMean": 5.654900735603922,
+    "median": 5.44,
+    "hash": "031d18186be0557d",
+    "lastUpdate": "2024-05-09"
+  }
+}

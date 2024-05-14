@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5818",
+    "https://anilist.co/anime/4028",
+    "https://anime-planet.com/anime/slayers-revolution",
+    "https://anisearch.com/anime/4849",
+    "https://kitsu.io/anime/3421",
+    "https://livechart.me/anime/5007",
+    "https://myanimelist.net/anime/4028",
+    "https://notify.moe/anime/i4kucFimR"
+  ],
+  "synopsis": {
+    "text": "Special Investigative Unit Inspector Wizer has Lina Inverse in his sights, but she's more focused on finding a new sword for her companion Gourry. In the kingdom of Luvinagard, Lina and Gourry cross paths with old friends Amelia and Zelgadis, but Wizer's peculiar behavior leaves Lina puzzled. Framed for crimes she didn't commit, including the destruction of mage tanks and pet theft, Lina must navigate her infamous reputation while trying to clear her name. As if that wasn't enough, a mysterious and destructive creature named Pokota is causing chaos, and Lina is taking the blame. With her powerful magic and the help of her friends, Lina sets out to uncover the truth behind Pokota's explosive tendencies and hopefully gain a new ally in the process. Join Lina and her crew for a fresh season of magical mayhem in \"The Slayers Revolution.\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc06bad147bf4122",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.277771451762524,
+    "arithmeticGeometricMean": 7.275698886299069,
+    "median": 7.245,
+    "hash": "bc06bad147bf4122",
+    "lastUpdate": "2024-05-10"
+  }
+}

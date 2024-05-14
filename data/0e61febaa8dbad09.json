@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18139",
+    "https://anilist.co/anime/156080",
+    "https://anime-planet.com/anime/rakshasa-street-3rd-season",
+    "https://kitsu.io/anime/47680",
+    "https://livechart.me/anime/12585",
+    "https://myanimelist.net/anime/55790",
+    "https://notify.moe/anime/S-1Q2DRSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e61febaa8dbad09",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.315575757575758,
+    "arithmeticGeometricMean": 7.314161917521195,
+    "median": 7.272727272727273,
+    "hash": "0e61febaa8dbad09",
+    "lastUpdate": "2024-05-10"
+  }
+}

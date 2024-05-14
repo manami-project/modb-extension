@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11239",
+    "https://anilist.co/anime/102513",
+    "https://anime-planet.com/anime/home-pato-the-movie",
+    "https://anisearch.com/anime/10579",
+    "https://kitsu.io/anime/10927",
+    "https://myanimelist.net/anime/30766",
+    "https://notify.moe/anime/nmEltKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5123ce7156cc12fb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.274675854757488,
+    "arithmeticGeometricMean": 5.23811497086315,
+    "median": 5.181818181818182,
+    "hash": "5123ce7156cc12fb",
+    "lastUpdate": "2024-05-08"
+  }
+}

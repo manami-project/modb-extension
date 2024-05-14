@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3162",
+    "https://anilist.co/anime/8753",
+    "https://anime-planet.com/anime/ultraman-kids-haha-wo-tazunete-3000-man-kounen",
+    "https://anisearch.com/anime/1680",
+    "https://kitsu.io/anime/5475",
+    "https://myanimelist.net/anime/8753",
+    "https://notify.moe/anime/mzgZpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "36f3a32550dd3f35",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.512269635126778,
+    "arithmeticGeometricMean": 5.493779959909673,
+    "median": 5.476808905380334,
+    "hash": "36f3a32550dd3f35",
+    "lastUpdate": "2024-05-08"
+  }
+}

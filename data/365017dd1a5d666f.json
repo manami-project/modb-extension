@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10768",
+    "https://anilist.co/anime/20807",
+    "https://anime-planet.com/anime/prison-school",
+    "https://anisearch.com/anime/9842",
+    "https://kitsu.io/anime/10734",
+    "https://livechart.me/anime/752",
+    "https://myanimelist.net/anime/30240",
+    "https://notify.moe/anime/8hQwpKmiR"
+  ],
+  "synopsis": {
+    "text": "Unable to resist the allure of the prestigious Hachimitsu Private Academy, a formerly all-girls institution nestled on the outskirts of Tokyo, five young men find themselves among the first male students to enroll. With a staggering ratio of 200 girls to every boy, Kiyoshi and his friends initially believe they've landed in paradise. However, their dreams of a heavenly high school experience are shattered when they encounter the cold, unforgiving reality of their new environment.\n\nThe girls of Hachimitsu Academy are less than welcoming, leaving the boys feeling isolated and desperate for interaction. In a misguided attempt to catch a glimpse of the girls' secret world, they engage in a daring act of voyeurism. Their ill-fated plan quickly unravels, and they find themselves at the mercy of the Underground Student Council, a secretive and sadistic group determined to maintain order and punish any misdeeds.\n\nSentenced to a month in the school's prison, the boys are subjected to a series of grueling tasks and the cruel whims of the dominating Meiko, the vice president of the Underground Student Council. As they navigate their newfound punishment, the boys must rely on their camaraderie and unwavering determination to survive the month and uncover the hidden agenda of the enigmatic Underground Student Council. In this unexpected twist of fate, the boys' high school experience becomes a thrilling, perilous journey that will test the limits of their friendship and resilience.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "365017dd1a5d666f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.566094366363741,
+    "arithmeticGeometricMean": 7.564948157654373,
+    "median": 7.592,
+    "hash": "365017dd1a5d666f",
+    "lastUpdate": "2024-05-09"
+  }
+}

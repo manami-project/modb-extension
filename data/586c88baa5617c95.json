@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1925",
+    "https://anilist.co/anime/2222",
+    "https://anime-planet.com/anime/dr-slump-arale-chan",
+    "https://anisearch.com/anime/2134",
+    "https://kitsu.io/anime/2013",
+    "https://livechart.me/anime/8828",
+    "https://myanimelist.net/anime/2222",
+    "https://notify.moe/anime/_nnPcKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "586c88baa5617c95",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.8121213888152665,
+    "arithmeticGeometricMean": 6.7922546125281995,
+    "median": 6.96,
+    "hash": "586c88baa5617c95",
+    "lastUpdate": "2024-05-09"
+  }
+}

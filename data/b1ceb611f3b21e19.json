@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16449",
+    "https://anilist.co/anime/155736",
+    "https://anime-planet.com/anime/uchuu-camper-chicchi",
+    "https://anisearch.com/anime/16788",
+    "https://kitsu.io/anime/46451",
+    "https://livechart.me/anime/11055",
+    "https://myanimelist.net/anime/51414"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b1ceb611f3b21e19",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.806954359925788,
+    "arithmeticGeometricMean": 5.7978439646844615,
+    "median": 5.58,
+    "hash": "b1ceb611f3b21e19",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13767",
+    "https://anilist.co/anime/101024",
+    "https://anime-planet.com/anime/radiant",
+    "https://anisearch.com/anime/13297",
+    "https://kitsu.io/anime/41099",
+    "https://livechart.me/anime/3064",
+    "https://myanimelist.net/anime/37202",
+    "https://notify.moe/anime/3_vK2Fimg"
+  ],
+  "synopsis": {
+    "text": "Merlin Academy-bound Seth, a young sorcerer from Pompo Hills, is on a quest to uncover the origins of the Nemesis, mysterious creatures that plummet from the sky, wreaking havoc and contaminating everything they touch. As an \"infected,\" Seth is one of the few who has survived contact with these monsters, gaining magical abilities in the process.\n\nDetermined to find the source of the Nemesis, known as the Radiant, Seth embarks on a journey across the world with a group of fellow sorcerers. Along the way, they face not only the relentless Nemesis but also the scrutiny of the Inquisition, an organization that views the infected with suspicion and fear.\n\nAs Seth's powers grow and he forms new alliances, he struggles to control his abilities and gain the trust of those around him. With the future of the world at stake, Seth's adventure is filled with danger, discovery, and the unwavering determination to bring peace to a world plagued by the Nemesis. Will Seth and his companions find the Radiant and put an end to the chaos, or will they succumb to the very monsters they seek to destroy? Join Seth on his epic journey and find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6741aba4ac0b1183",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.909886720422435,
+    "arithmeticGeometricMean": 6.905243272986934,
+    "median": 6.984999999999999,
+    "hash": "6741aba4ac0b1183",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2280",
+    "https://anilist.co/anime/148903",
+    "https://anime-planet.com/anime/papa-mama-bye-bye",
+    "https://anisearch.com/anime/1154",
+    "https://kitsu.io/anime/10002",
+    "https://myanimelist.net/anime/28073",
+    "https://notify.moe/anime/2jPPtFmig"
+  ],
+  "synopsis": {
+    "text": "One sunny day in a quaint Japanese town, three young neighbors—Kaori, a dungaree-clad tomboy, and her friends Ko and Yasu—stumble upon an injured pigeon. Taking it upon themselves to nurse the bird back to health, their peaceful lives are soon disrupted when a US Phantom jet roars overhead, plummeting to the ground near the boys' home. Drawing inspiration from the real-life event of the 1977 Yokohama F-4 crash, \"Papa Mama Bye Bye\" weaves a tale of friendship and unexpected turmoil, as the unannounced emergency landing shakes the tranquility of the town and stirs unrest among the Japanese civilians.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9571e3e9a029e2ca",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.139146567717996,
+    "arithmeticGeometricMean": 5.098529536979596,
+    "median": 5.0,
+    "hash": "9571e3e9a029e2ca",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6640",
+    "https://anilist.co/anime/6687",
+    "https://anime-planet.com/anime/chinyuuki-tarou-to-yukai-na-nakama-tachi",
+    "https://anisearch.com/anime/5467",
+    "https://kitsu.io/anime/4666",
+    "https://myanimelist.net/anime/6687",
+    "https://notify.moe/anime/9I-e5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9c59c14f4bd80ebf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.338404452690167,
+    "arithmeticGeometricMean": 5.325117277336977,
+    "median": 5.0,
+    "hash": "9c59c14f4bd80ebf",
+    "lastUpdate": "2024-05-08"
+  }
+}

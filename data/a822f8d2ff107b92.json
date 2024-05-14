@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14977",
+    "https://anilist.co/anime/110277",
+    "https://anime-planet.com/anime/attack-on-titan-the-final-season",
+    "https://anisearch.com/anime/14484",
+    "https://kitsu.io/anime/42422",
+    "https://livechart.me/anime/9491",
+    "https://myanimelist.net/anime/40028",
+    "https://notify.moe/anime/drmaMJIZg"
+  ],
+  "synopsis": {
+    "text": "And so, the stage is set for the epic finale of Attack on Titan, where the stakes are higher than ever before. Four years have passed since the Survey Corps made it to the shoreline, and now, the focus shifts to Marley's 'Warrior Candidates,' Falco Grice and Gabi Braun. These young warriors have been rigorously trained to inherit the power of the Titans and aid Marley in its mission to eradicate the Eldians on Paradis.\n\nBut just as the two cadets prepare for their next mission, their world is turned upside down by the arrival of Eren Yeager and the remaining members of the Survey Corps. With the truth about the Titans finally revealed, the Survey Corps embarks on a journey beyond the walls, setting the stage for a collision between two vastly different worlds.\n\nMeanwhile, Reiner is confronted with an unexpected encounter from his past, bringing chaos and terror in its wake. As the Scout Regiment grapples with the harsh realities of their victory and the high price they paid for it, they must prepare for the ultimate battle against their true adversary, who lies beyond the vast ocean.\n\nWith Eren's whereabouts unknown and tensions between Marleyans and Eldians reaching a boiling point, the fate of the Scout Regiment and the people of Paradis hangs in the balance. Will Eren return in time to prevent the war of all wars? Only time will tell in this heart-stopping conclusion to Attack on Titan.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a822f8d2ff107b92",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.732404723252937,
+    "arithmeticGeometricMean": 8.730691208466732,
+    "median": 8.788877551020407,
+    "hash": "a822f8d2ff107b92",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11486",
+    "https://anilist.co/anime/21344",
+    "https://anime-planet.com/anime/mini-vanguard-2",
+    "https://anisearch.com/anime/10803",
+    "https://kitsu.io/anime/11394",
+    "https://livechart.me/anime/1762",
+    "https://myanimelist.net/anime/31410",
+    "https://notify.moe/anime/pbU9tFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b27d8afaf2ad0971",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.769824860853433,
+    "arithmeticGeometricMean": 5.648976809167239,
+    "median": 6.12,
+    "hash": "b27d8afaf2ad0971",
+    "lastUpdate": "2024-05-09"
+  }
+}

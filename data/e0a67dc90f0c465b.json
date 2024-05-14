@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18461",
+    "https://anilist.co/anime/156079",
+    "https://anime-planet.com/anime/yi-shi-xie-jun",
+    "https://anisearch.com/anime/19230",
+    "https://kitsu.io/anime/48616",
+    "https://myanimelist.net/anime/57656",
+    "https://notify.moe/anime/-RsB8UcSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e0a67dc90f0c465b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.956588126159554,
+    "arithmeticGeometricMean": 6.949649704057879,
+    "median": 6.895176252319109,
+    "hash": "e0a67dc90f0c465b",
+    "lastUpdate": "2024-05-07"
+  }
+}

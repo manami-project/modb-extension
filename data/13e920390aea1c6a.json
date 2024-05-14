@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/13087",
+    "https://myanimelist.net/anime/36895"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "13e920390aea1c6a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.069183673469388,
+    "arithmeticGeometricMean": 6.0566538532546,
+    "median": 6.069183673469388,
+    "hash": "13e920390aea1c6a",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18471",
+    "https://anilist.co/anime/153478",
+    "https://anime-planet.com/anime/shi-fang-jian-sheng",
+    "https://kitsu.io/anime/47924",
+    "https://myanimelist.net/anime/55829",
+    "https://notify.moe/anime/PspW_DgIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3e177c50ef711747",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.15230303030303,
+    "arithmeticGeometricMean": 7.142952583621968,
+    "median": 7.090909090909091,
+    "hash": "3e177c50ef711747",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18082",
+    "https://anilist.co/anime/166522",
+    "https://anime-planet.com/anime/tis-time-for-torture-princess",
+    "https://anisearch.com/anime/18502",
+    "https://kitsu.io/anime/47656",
+    "https://livechart.me/anime/12221",
+    "https://myanimelist.net/anime/55774",
+    "https://notify.moe/anime/WnbKcg9Vg"
+  ],
+  "synopsis": {
+    "text": "Humans and demons are locked in a fierce war, and the future hangs in the balance when the courageous Princess is captured by the enemy and confined in a sinister dungeon. Alongside her sentient sword Excalibur, she faces an uncertain fate, threatened by the head of the Demon Inquisition who seeks to extract vital military secrets about her homeland. Despite her prominent military rank, the Princess has a weakness for scrumptious cuisine, often succumbing to bribes of tantalizing food, much to her sword's dismay. As the battle against the Demon King rages on, will the Princess's love for delectable treats jeopardize the fate of humanity? Can she resist the allure of mouthwatering dishes and safeguard her kingdom's secrets? The stakes have never been higher as the Demon Lord's army prepares to execute the Princess, putting her courage and willpower to the ultimate test.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2d761a9de9122486",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.039762987012987,
+    "arithmeticGeometricMean": 7.032803379175212,
+    "median": 7.132142857142856,
+    "hash": "2d761a9de9122486",
+    "lastUpdate": "2024-05-09"
+  }
+}

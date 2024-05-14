@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2129",
+    "https://anilist.co/anime/6625",
+    "https://anime-planet.com/anime/nono-chan",
+    "https://anisearch.com/anime/3097",
+    "https://kitsu.io/anime/4638",
+    "https://myanimelist.net/anime/6625",
+    "https://notify.moe/anime/oOT65Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2cee1c825bb00362",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.577754483611627,
+    "arithmeticGeometricMean": 5.558037184557017,
+    "median": 5.522263450834879,
+    "hash": "2cee1c825bb00362",
+    "lastUpdate": "2024-05-07"
+  }
+}

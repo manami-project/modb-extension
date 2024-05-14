@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8240",
+    "https://anilist.co/anime/10257",
+    "https://anime-planet.com/anime/pretty-rhythm-aurora-dream",
+    "https://anisearch.com/anime/6871",
+    "https://kitsu.io/anime/6101",
+    "https://livechart.me/anime/1542",
+    "https://myanimelist.net/anime/10257",
+    "https://notify.moe/anime/-PP7pFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b1fd55a9d518d5c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.133436920222634,
+    "arithmeticGeometricMean": 7.123592037439339,
+    "median": 7.372272727272727,
+    "hash": "5b1fd55a9d518d5c",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/120",
+    "https://anilist.co/anime/361",
+    "https://anime-planet.com/anime/memories-off",
+    "https://anisearch.com/anime/3468",
+    "https://kitsu.io/anime/328",
+    "https://livechart.me/anime/6597",
+    "https://myanimelist.net/anime/361",
+    "https://notify.moe/anime/GV825FimR"
+  ],
+  "synopsis": {
+    "text": "Tomoya Mikami, once a cheerful high school student, was left devastated after a tragic car accident claimed the life of his beloved girlfriend, Ayaka. Blaming himself for the incident, Tomoya's life took a drastic turn as he distanced himself from his friends and shut down his emotions. Haunted by dreams of Ayaka, he struggles to move on. However, destiny has other plans for him. As he encounters three potential romantic interests, Tomoya embarks on a journey to find love again while grappling with his past and the lingering memories of his lost love. Through these experiences, he seeks to find closure and learn to embrace happiness once more. But will he succeed, or will Ayaka's tragic fate continue to cast a shadow over his life? Join Tomoya in this emotional rollercoaster ride as he navigates the complexities of love, loss, and healing in Memories Off.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2787679b541480cb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.448810495626822,
+    "arithmeticGeometricMean": 5.420272840970597,
+    "median": 5.848,
+    "hash": "2787679b541480cb",
+    "lastUpdate": "2024-05-09"
+  }
+}

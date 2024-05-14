@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13382",
+    "https://anilist.co/anime/168551",
+    "https://anime-planet.com/anime/akisutozeneko",
+    "https://anisearch.com/anime/13264",
+    "https://kitsu.io/anime/40842",
+    "https://myanimelist.net/anime/35786",
+    "https://notify.moe/anime/yCvOhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "82544bdf36d7eb8a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.46862560296846,
+    "arithmeticGeometricMean": 4.419381821051211,
+    "median": 3.883673469387755,
+    "hash": "82544bdf36d7eb8a",
+    "lastUpdate": "2024-05-08"
+  }
+}

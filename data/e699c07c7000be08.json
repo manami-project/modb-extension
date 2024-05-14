@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/346",
+    "https://anilist.co/anime/1352",
+    "https://anime-planet.com/anime/cyber-city-oedo-808",
+    "https://anisearch.com/anime/3036",
+    "https://kitsu.io/anime/1207",
+    "https://livechart.me/anime/7635",
+    "https://myanimelist.net/anime/1352",
+    "https://notify.moe/anime/jNub5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Memories of the Past, The Decoy Program, and Crimson Media are three gripping episodes in the high-stakes world of Cyber City Oedo 808. In this futuristic society, the Cyber Police have devised a radical solution to combat escalating criminal activity: enlisting the aid of convicted felons. In exchange for their service, these criminals are offered the chance to reduce their life sentences. However, to ensure their cooperation, each convict is outfitted with a specialized collar that self-destructs if they fail to meet mission deadlines or attempt to remove the device.\n\nSengoku, Gogul, and Benten are three such convicts, tasked with perilous assignments that test their skills and determination. Sengoku must infiltrate the city's tallest skyscraper, now under the control of terrorists, to rescue 50,000 hostages and secure the central computer system. Gogul, investigating a murder, finds himself confronting a formidable military cyborg and crossing paths with a former accomplice. Benten is pitted against a deranged individual seeking the secret to immortality, leading him to a chilling confrontation with a supernatural entity.\n\nAs the clock ticks down on their collars, these unlikely heroes must navigate a dangerous world of high-tech crime and treachery. Each episode presents a thrilling race against time, as they struggle to complete their missions and secure their own survival. With the stakes this high, will they succeed in bringing their targets to justice, or will their pasts ultimately catch up with them? Only time will tell in Cyber City Oedo 808.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e699c07c7000be08",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.063391242355528,
+    "arithmeticGeometricMean": 7.058297486877743,
+    "median": 7.072390572390573,
+    "hash": "e699c07c7000be08",
+    "lastUpdate": "2024-05-09"
+  }
+}

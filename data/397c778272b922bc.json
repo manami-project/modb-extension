@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6519",
+    "https://anilist.co/anime/20199",
+    "https://anisearch.com/anime/5565",
+    "https://kitsu.io/anime/9272",
+    "https://myanimelist.net/anime/20199",
+    "https://notify.moe/anime/nArapFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "397c778272b922bc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.636363636363637,
+    "arithmeticGeometricMean": 4.629219758515446,
+    "median": 4.636363636363637,
+    "hash": "397c778272b922bc",
+    "lastUpdate": "2024-05-07"
+  }
+}

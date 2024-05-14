@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8243",
+    "https://anilist.co/anime/9924",
+    "https://anime-planet.com/anime/blessing-of-the-campanella-la-campanella-della-benedizione",
+    "https://anisearch.com/anime/6873",
+    "https://kitsu.io/anime/5942",
+    "https://livechart.me/anime/6120",
+    "https://myanimelist.net/anime/9924",
+    "https://notify.moe/anime/ovqMtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db61837421dbc9cd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.237866949377154,
+    "arithmeticGeometricMean": 6.228375144944518,
+    "median": 6.358,
+    "hash": "db61837421dbc9cd",
+    "lastUpdate": "2024-05-10"
+  }
+}

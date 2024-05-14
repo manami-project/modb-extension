@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11796",
+    "https://anilist.co/anime/99712",
+    "https://anime-planet.com/anime/ba-la-la-xiao-mo-xian-zhi-caihong-xin-shi",
+    "https://anisearch.com/anime/10401",
+    "https://kitsu.io/anime/10971",
+    "https://myanimelist.net/anime/30519",
+    "https://notify.moe/anime/l9X_tKiig"
+  ],
+  "synopsis": {
+    "text": "The Fairy Castle faces an unprecedented crisis following the defeat of the wicked goddess Gunala. Evil sorcerers have consumed the world's magical energy, causing the Rainbow Flower, the source of magical power, to wither. If the Rainbow Flower perishes, the Fairy Castle's world will be destroyed. The only hope lies in the legendary Rainbow Heart Stone, which can gather the essential energy and save the world.\n\nPrince YouLe, Sally, and their new ally XiaoQian embark on a mission to the human realm, where they must reunite with Maggie and Michelle to confront the evil forces once more. This thrilling adventure follows a live-action series from 2008.\n\nMeanwhile, Sara, the potential heir to the Fairy Castle, sets out on a journey to the human world in search of her missing mother. There, she encounters Maggie and Michelle, who are under the tutelage of Shirley the Fairy. As the rainbow above the Fairy Castle starts to fade, the castle itself is on the brink of destruction. Shirley, Maggie, and Michelle must find a way to save the castle, while Sara seeks to free her mother from Shaman Dragon's control and restore her senses before she causes irreparable damage.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "690fa6f0214669c9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.664009276437848,
+    "arithmeticGeometricMean": 5.637520128280627,
+    "median": 5.615027829313544,
+    "hash": "690fa6f0214669c9",
+    "lastUpdate": "2024-05-08"
+  }
+}

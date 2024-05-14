@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3309",
+    "https://anilist.co/anime/1316",
+    "https://anime-planet.com/anime/idaten-jump",
+    "https://anisearch.com/anime/187",
+    "https://kitsu.io/anime/1180",
+    "https://livechart.me/anime/7016",
+    "https://myanimelist.net/anime/1316",
+    "https://notify.moe/anime/QmUb5Kimg"
+  ],
+  "synopsis": {
+    "text": "He avily invested in the thrill of mountain bike racing, young Shou Yamato and his friends find their ordinary lives taking an extraordinary turn when a race against a rival team catapults them into a mysterious realm known as the X-Zone. In this strange new world, mountain bike racing is not just a sport, but a high-stakes competition known as the Idaten Battle. With unique rules, challenging terrains, and hidden powers within the bikes, these races are a far cry from the familiar tracks back home. The only way back is to triumph in these races, collecting emblems from defeated opponents. As Shou embarks on this perilous journey filled with conspiracies, he must not only test his biking skills to the limit but also unravel the hidden truths of the X-Zone. With the hopes of his friends resting on his shoulders, can Shou conquer the Idaten Battle and pave their way back home?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af4fedf1a0b375a4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.581830550401979,
+    "arithmeticGeometricMean": 6.538563539533516,
+    "median": 6.755606060606061,
+    "hash": "af4fedf1a0b375a4",
+    "lastUpdate": "2024-05-09"
+  }
+}

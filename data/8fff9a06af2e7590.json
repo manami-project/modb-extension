@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5050",
+    "https://anilist.co/anime/3854",
+    "https://anime-planet.com/anime/the-galaxy-railways-a-letter-from-the-abandoned-planet",
+    "https://anisearch.com/anime/891",
+    "https://kitsu.io/anime/3303",
+    "https://livechart.me/anime/7399",
+    "https://myanimelist.net/anime/3854",
+    "https://notify.moe/anime/-uEl5FmiR"
+  ],
+  "synopsis": {
+    "text": "This OVA of The Galaxy Railways follows the elite self-defense force of the galaxy's expansive railway system, the Sirius Platoon, as they embark on a daring rescue mission. The Galaxy Express 999, a train that traverses the cosmos, has crashed on the enigmatic and forbidden planet of Herise. On board are the beloved characters from Galaxy Express 999, including the kind-hearted ten-year-old Tetsuro, the enigmatic Maetel, and the stoic Conductor. With the ominous Herise Time Mystery, a rift in the fabric of time and space, looming, the Sirius Platoon must act quickly to save the passengers and unravel the unsettling events plaguing the galaxy's trains. Join the journey as the fate of the Galaxy Railways hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8fff9a06af2e7590",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.618388550225285,
+    "arithmeticGeometricMean": 6.5951698839213435,
+    "median": 6.76,
+    "hash": "8fff9a06af2e7590",
+    "lastUpdate": "2024-05-09"
+  }
+}

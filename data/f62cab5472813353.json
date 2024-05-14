@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1129",
+    "https://anilist.co/anime/893",
+    "https://anime-planet.com/anime/dragon-ball-movie-4-the-path-to-power",
+    "https://anisearch.com/anime/831",
+    "https://kitsu.io/anime/793",
+    "https://livechart.me/anime/4831",
+    "https://myanimelist.net/anime/893",
+    "https://notify.moe/anime/VteA5Fimg"
+  ],
+  "synopsis": {
+    "text": "Roshi, Bulma, and a young Goku embark on an adventure to find the legendary Dragon Balls in this reimagined tale of the Dragon Ball franchise's origins. Celebrating the series' 10th anniversary, \"Dragon Ball: The Path to Power\" brings a fresh take on how the trio first crossed paths and the challenges they faced. The story unfolds with the Red Ribbon Army hot on their trail, eager to claim the Dragon Balls for their own nefarious purposes. In this thrilling retelling, Goku's encounter with the army happens earlier than in the original series, adding a new twist to the classic saga. With GT-style animation, this film promises to captivate both new and longtime fans of the beloved anime.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f62cab5472813353",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.11929692331478,
+    "arithmeticGeometricMean": 7.1127072198773895,
+    "median": 7.155,
+    "hash": "f62cab5472813353",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9152",
+    "https://anilist.co/anime/13839",
+    "https://anime-planet.com/anime/detective-conan-excalibur-no-kiseki",
+    "https://anisearch.com/anime/8000",
+    "https://kitsu.io/anime/7045",
+    "https://livechart.me/anime/7755",
+    "https://myanimelist.net/anime/13839",
+    "https://notify.moe/anime/mJuvpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cf07b9d28e40e450",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.1105486497629355,
+    "arithmeticGeometricMean": 7.097033170663224,
+    "median": 7.132272727272727,
+    "hash": "cf07b9d28e40e450",
+    "lastUpdate": "2024-05-09"
+  }
+}

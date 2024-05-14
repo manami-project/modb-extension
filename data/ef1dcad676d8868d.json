@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103446",
+    "https://anime-planet.com/anime/such-a-good-place-to-die",
+    "https://kitsu.io/anime/13058",
+    "https://myanimelist.net/anime/34632",
+    "https://notify.moe/anime/4kmG2Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef1dcad676d8868d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.623090909090909,
+    "arithmeticGeometricMean": 5.614892387743923,
+    "median": 5.6431818181818185,
+    "hash": "ef1dcad676d8868d",
+    "lastUpdate": "2024-05-07"
+  }
+}

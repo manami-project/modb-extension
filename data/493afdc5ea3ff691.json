@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8319",
+    "https://anilist.co/anime/10397",
+    "https://anime-planet.com/anime/mashiroiro-symphony-the-color-of-lovers",
+    "https://anisearch.com/anime/7232",
+    "https://kitsu.io/anime/6165",
+    "https://livechart.me/anime/1195",
+    "https://myanimelist.net/anime/10397",
+    "https://notify.moe/anime/hAenpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "493afdc5ea3ff691",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.097399814471243,
+    "arithmeticGeometricMean": 7.096028904428968,
+    "median": 7.090999999999999,
+    "hash": "493afdc5ea3ff691",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6402",
+    "https://anilist.co/anime/6129",
+    "https://anime-planet.com/anime/umi-monogatari",
+    "https://anisearch.com/anime/5281",
+    "https://kitsu.io/anime/4439",
+    "https://livechart.me/anime/5076",
+    "https://myanimelist.net/anime/6129",
+    "https://notify.moe/anime/PD-qcKimR"
+  ],
+  "synopsis": {
+    "text": "Marin and Urin, two sisters from the depths of the ocean, dream of exploring the world above the water. One day, they discover a beautiful ring that has fallen into their underwater realm. Determined to return the ring, they embark on an adventure that leads them to an isolated island where they meet Kanon, a high school girl who has lost all interest in the ring, a gift from her ex-boyfriend. As Marin and Urin persist in their quest to return the ring, they inadvertently unleash an ancient evil that threatens both their world and Kanon's.\n\nIn a twist of fate, the two maidens from different realms—Marin, the Priestess of the Sea, and Kanon, the Priestess of the Sky—are destined to unite their powers to combat the looming darkness. As they navigate through their shared destiny, they must learn to work together to save their worlds from the impending doom. The journey of the sea maiden and the sky maiden promises a tale of courage, friendship, and the power of unity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6d0920511805fabc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.463601643254704,
+    "arithmeticGeometricMean": 6.456265087025276,
+    "median": 6.454545454545455,
+    "hash": "6d0920511805fabc",
+    "lastUpdate": "2024-05-10"
+  }
+}

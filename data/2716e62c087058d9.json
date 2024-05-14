@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/100176",
+    "https://anime-planet.com/anime/usakame-special",
+    "https://anisearch.com/anime/14787",
+    "https://kitsu.io/anime/13210",
+    "https://livechart.me/anime/6205",
+    "https://myanimelist.net/anime/34615",
+    "https://notify.moe/anime/gXEM2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2716e62c087058d9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.8910136054421764,
+    "arithmeticGeometricMean": 5.888721248538687,
+    "median": 5.86113172541744,
+    "hash": "2716e62c087058d9",
+    "lastUpdate": "2024-05-10"
+  }
+}

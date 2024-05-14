@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1482",
+    "https://anilist.co/anime/2792",
+    "https://anime-planet.com/anime/panzer-dragoon",
+    "https://anisearch.com/anime/143",
+    "https://kitsu.io/anime/2548",
+    "https://livechart.me/anime/7624",
+    "https://myanimelist.net/anime/2792",
+    "https://notify.moe/anime/eTZ85KimR"
+  ],
+  "synopsis": {
+    "text": "One fateful day, Kyle, a courageous hunter, finds himself thrust into a world of myth and legend when his beloved companion, Alita, is snatched away by a formidable black dragon. Dismissing the ancient tales of a Dark Tower and its slumbering dragon race as mere folklore, Kyle is forced to confront the terrifying reality of their existence. To save Alita from becoming the final piece in the Dark Tower's cataclysmic plan to annihilate the world, Kyle must forge an unlikely alliance with Blau, a powerful blue dragon. In a race against time, Kyle and Blau embark on a perilous journey to thwart the black dragon's nefarious intentions and rescue Alita before the world is consumed by darkness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f98c4eae81c55af9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.785035250463822,
+    "arithmeticGeometricMean": 3.7686803961089983,
+    "median": 3.6,
+    "hash": "f98c4eae81c55af9",
+    "lastUpdate": "2024-05-09"
+  }
+}

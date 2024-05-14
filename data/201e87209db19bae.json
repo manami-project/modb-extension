@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113574",
+    "https://anime-planet.com/anime/onigakure-yama-no-soba-no-hana",
+    "https://anisearch.com/anime/10625",
+    "https://kitsu.io/anime/10423",
+    "https://myanimelist.net/anime/29795",
+    "https://notify.moe/anime/VBJUpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "201e87209db19bae",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.670828200371058,
+    "arithmeticGeometricMean": 5.649983629852623,
+    "median": 5.0,
+    "hash": "201e87209db19bae",
+    "lastUpdate": "2024-05-06"
+  }
+}

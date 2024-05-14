@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13308",
+    "https://anime-planet.com/anime/shin-chan-ga-naita",
+    "https://anisearch.com/anime/12963",
+    "https://kitsu.io/anime/9586",
+    "https://myanimelist.net/anime/26223",
+    "https://notify.moe/anime/iMWLtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "673ca4d0d5a7fc66",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.36734693877551,
+    "arithmeticGeometricMean": 3.152675244645953,
+    "median": 3.36734693877551,
+    "hash": "673ca4d0d5a7fc66",
+    "lastUpdate": "2024-05-07"
+  }
+}

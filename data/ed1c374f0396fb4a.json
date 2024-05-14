@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8406",
+    "https://anilist.co/anime/10671",
+    "https://anime-planet.com/anime/morita-san-wa-mukuchi-tv",
+    "https://anisearch.com/anime/7083",
+    "https://kitsu.io/anime/6285",
+    "https://livechart.me/anime/1219",
+    "https://myanimelist.net/anime/10671",
+    "https://notify.moe/anime/88oVpKmig"
+  ],
+  "synopsis": {
+    "text": "Hana and Miki are two high school friends of Mayu Morita, a 16-year-old girl who is often misunderstood due to her reticent nature. Despite her quiet demeanor, Mayu's silence is not a reflection of her disinterest in conversation or lack of things to say. Rather, she tends to overthink before speaking, causing her to miss the opportunity to contribute to the discussion. As a result, her classmates often misinterpret her silence and direct eye contact.\n\nMayu's mother instilled in her the importance of maintaining eye contact and allowing others to finish their thoughts before responding. However, this advice proves challenging to follow in the lively and chatty environment of her high school friends. Nevertheless, Mayu enjoys a fulfilling school life with her friends, including the talkative Miki and the reserved Hana, as they help her navigate the complexities of high school together.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ed1c374f0396fb4a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.459437332508761,
+    "arithmeticGeometricMean": 6.4475358747587865,
+    "median": 6.419272727272728,
+    "hash": "ed1c374f0396fb4a",
+    "lastUpdate": "2024-05-09"
+  }
+}

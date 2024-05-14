@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12643",
+    "https://anilist.co/anime/102361",
+    "https://anime-planet.com/anime/cabbage-ufo",
+    "https://anisearch.com/anime/10702",
+    "https://kitsu.io/anime/10244",
+    "https://myanimelist.net/anime/29455",
+    "https://notify.moe/anime/oblspKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2977474f7cbcdbff",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.872473716759431,
+    "arithmeticGeometricMean": 4.856302008768532,
+    "median": 4.737727272727272,
+    "hash": "2977474f7cbcdbff",
+    "lastUpdate": "2024-05-07"
+  }
+}

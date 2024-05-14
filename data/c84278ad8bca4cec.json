@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143759",
+    "https://anime-planet.com/anime/raise-a-suilen-coruscate-dna",
+    "https://kitsu.io/anime/46040",
+    "https://myanimelist.net/anime/50735"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c84278ad8bca4cec",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.038181818181818,
+    "arithmeticGeometricMean": 7.034595196961178,
+    "median": 6.98,
+    "hash": "c84278ad8bca4cec",
+    "lastUpdate": "2024-05-07"
+  }
+}

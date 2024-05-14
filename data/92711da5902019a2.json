@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8550",
+    "https://anilist.co/anime/11061",
+    "https://anime-planet.com/anime/hunter-x-hunter-2011",
+    "https://anisearch.com/anime/7223",
+    "https://kitsu.io/anime/6448",
+    "https://livechart.me/anime/317",
+    "https://myanimelist.net/anime/11061",
+    "https://notify.moe/anime/0n4ItFiig"
+  ],
+  "synopsis": {
+    "text": "Together, Gon Freecss and his friends embark on a perilous journey to become Hunters, professionals who perform dangerous tasks such as capturing criminals and searching for lost treasures. Gon, a determined young boy, dreams of following in his father's footsteps and becoming a Hunter in order to find him. Alongside Gon are his fellow Hunter hopefuls: the vengeful Kurapika, the ambitious doctor-in-training Leorio, and the rebellious ex-assassin Killua. To achieve their dreams, they must pass the notorious Hunter Exam, a high-stakes test with a low success rate and a high probability of death. As they navigate through the challenges of the exam and the dangers of the world, they will learn what it truly means to be a Hunter and form unbreakable bonds with one another.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92711da5902019a2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.85830263082461,
+    "arithmeticGeometricMean": 8.857491210631496,
+    "median": 8.944243918474687,
+    "hash": "92711da5902019a2",
+    "lastUpdate": "2024-05-09"
+  }
+}

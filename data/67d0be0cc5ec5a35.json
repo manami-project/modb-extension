@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2172",
+    "https://anilist.co/anime/1020",
+    "https://anime-planet.com/anime/mirage-of-blaze-rebels-of-the-river-edge",
+    "https://anisearch.com/anime/3129",
+    "https://kitsu.io/anime/910",
+    "https://livechart.me/anime/7221",
+    "https://myanimelist.net/anime/1020",
+    "https://notify.moe/anime/wpJJcFimR"
+  ],
+  "synopsis": {
+    "text": "Akari, a high school student with a secret life as a reincarnated warrior from the Sengoku period, is tasked with investigating the resurgence of the Ikko sect in Kyoto. Alongside his vassal Haruie, Akari must track down Araki Murashige, a former member of the Ikko sect who has defected and is now seeking a powerful mandala made from the hair of deceased clansmen. But when Haruie realizes that Araki is the reincarnation of her past lover, she must choose between her duty to eliminate him and her feelings for him. Meanwhile, Akari must navigate his tumultuous relationship with fellow warrior Naoe as they work to keep the mandala out of the hands of their enemies. With internal conflicts and external threats looming, will Akari and his allies be able to succeed in their mission?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "67d0be0cc5ec5a35",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.627488470712961,
+    "arithmeticGeometricMean": 6.621029358870593,
+    "median": 6.81,
+    "hash": "67d0be0cc5ec5a35",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140356",
+    "https://anime-planet.com/anime/swing-by",
+    "https://anisearch.com/anime/13110",
+    "https://kitsu.io/anime/45327"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3d911e4dea9646b6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.530148423005565,
+    "arithmeticGeometricMean": 6.522751782192803,
+    "median": 6.530148423005565,
+    "hash": "3d911e4dea9646b6",
+    "lastUpdate": "2024-05-07"
+  }
+}

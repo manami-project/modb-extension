@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5126",
+    "https://anilist.co/anime/2584",
+    "https://anime-planet.com/anime/armored-trooper-votoms-big-battle",
+    "https://anisearch.com/anime/5152",
+    "https://kitsu.io/anime/2349",
+    "https://myanimelist.net/anime/2584",
+    "https://notify.moe/anime/pwHs5Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d61cbc0354e564f3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.314403922608004,
+    "arithmeticGeometricMean": 6.284816542942954,
+    "median": 6.704,
+    "hash": "d61cbc0354e564f3",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103124",
+    "https://anime-planet.com/anime/fuku-yo-koi",
+    "https://kitsu.io/anime/13362",
+    "https://notify.moe/anime/TUT7hKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "adcfe85e0a6c38df",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.727272727272727,
+    "arithmeticGeometricMean": 4.7233350619290055,
+    "median": 4.727272727272727,
+    "hash": "adcfe85e0a6c38df",
+    "lastUpdate": "2024-05-07"
+  }
+}

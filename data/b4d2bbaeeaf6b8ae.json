@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3514",
+    "https://anilist.co/anime/9812",
+    "https://anime-planet.com/anime/bit-the-cupid",
+    "https://anisearch.com/anime/1021",
+    "https://kitsu.io/anime/5883",
+    "https://myanimelist.net/anime/9812",
+    "https://notify.moe/anime/2-EMtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4d2bbaeeaf6b8ae",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.290661719233148,
+    "arithmeticGeometricMean": 5.2647341609099,
+    "median": 5.0,
+    "hash": "b4d2bbaeeaf6b8ae",
+    "lastUpdate": "2024-05-07"
+  }
+}

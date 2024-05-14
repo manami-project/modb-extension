@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12152",
+    "https://anilist.co/anime/126179",
+    "https://anime-planet.com/anime/ippou-nippon-mukashibanashi",
+    "https://anisearch.com/anime/11500",
+    "https://kitsu.io/anime/12285",
+    "https://myanimelist.net/anime/33387",
+    "https://notify.moe/anime/ZOuR2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "88be42ab0cca66e9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.9744588744588745,
+    "arithmeticGeometricMean": 4.936482803142847,
+    "median": 5.0,
+    "hash": "88be42ab0cca66e9",
+    "lastUpdate": "2024-05-08"
+  }
+}

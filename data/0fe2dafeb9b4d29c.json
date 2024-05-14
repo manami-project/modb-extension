@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/2043",
+    "https://anime-planet.com/anime/cats-eye",
+    "https://anisearch.com/anime/2213",
+    "https://kitsu.io/anime/1842",
+    "https://livechart.me/anime/5765",
+    "https://myanimelist.net/anime/2043",
+    "https://notify.moe/anime/vHALcFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0fe2dafeb9b4d29c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.214765615337043,
+    "arithmeticGeometricMean": 7.207862026548142,
+    "median": 7.220909090909091,
+    "hash": "0fe2dafeb9b4d29c",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6784",
+    "https://anilist.co/anime/6922",
+    "https://anime-planet.com/anime/fate-stay-night-unlimited-blade-works-movie",
+    "https://anisearch.com/anime/5288",
+    "https://kitsu.io/anime/4788",
+    "https://livechart.me/anime/3722",
+    "https://myanimelist.net/anime/6922",
+    "https://notify.moe/anime/h2GRtFimg"
+  ],
+  "synopsis": {
+    "text": "Holy Grail War looms in the seemingly ordinary Fuyuki City, where seven magi and their powerful, legendary servants engage in a secret and brutal battle for the ultimate prize: the Holy Grail, a relic said to grant any wish. Among the magi is Emiya Shirou, an orphaned high school student with dreams of becoming a superhero, who inadvertently summons the legendary female warrior Saber as his servant. As the war unfolds, Shirou and Saber form an uneasy alliance with fellow magus Rin Toosaka and her servant Archer, but tensions rise as hidden motives and conflicting ideals threaten to tear them apart. With the stakes higher than ever, Shirou and Saber must navigate the treacherous battlefield and face off against powerful foes, all while uncovering the truth about Shirou's destiny and the true nature of the Holy Grail War. Will they emerge victorious, or will they become just another casualty in this deadly game?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "94df2f3f39b97a06",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.4315805587817785,
+    "arithmeticGeometricMean": 7.43010400244695,
+    "median": 7.404999999999999,
+    "hash": "94df2f3f39b97a06",
+    "lastUpdate": "2024-05-09"
+  }
+}

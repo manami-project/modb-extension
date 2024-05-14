@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11965",
+    "https://anilist.co/anime/21679",
+    "https://anime-planet.com/anime/bungo-stray-dogs-2nd-season",
+    "https://anisearch.com/anime/11246",
+    "https://kitsu.io/anime/11882",
+    "https://livechart.me/anime/2056",
+    "https://myanimelist.net/anime/32867",
+    "https://notify.moe/anime/yuzetKmiR"
+  ],
+  "synopsis": {
+    "text": "Along the banks of a river, a young man named Nakajima Atsushi teeters on the brink of starvation, having been cast out from his orphanage. In a twist of fate, he saves a man named Dazai Osamu, who, along with his partner Kunikida, is part of a unique detective agency that tackles cases too perilous for the police or military. As they investigate a tiger that has mysteriously appeared in the area, Atsushi discovers a connection to the beast and finds himself drawn into the world of the Armed Detective Agency.\n\nAs the Port Mafia and the Guild vie for control of Yokohama City and the Armed Detective Agency, a three-way conflict looms on the horizon. Amidst the chaos, Atsushi and Akutagawa form unexpected alliances, while the ever-scheming Dazai continues to pull strings behind the scenes.\n\nOnce, three men from different walks of life – Osamu Dazai, Sakunosuke Oda, and Ango Sakaguchi – would gather at the Lupin Bar to unwind and enjoy each other's company. But one fateful night, Ango vanished, leaving behind only a photograph as a reminder of their camaraderie. Now, as a member of the Armed Detective Agency, Dazai faces the dual threat of the Port Mafia and the Guild, who both seek to undermine the agency's very existence.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f1d195f9f427b9a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.102875327723918,
+    "arithmeticGeometricMean": 8.098462906328532,
+    "median": 8.165,
+    "hash": "7f1d195f9f427b9a",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/bobobo-bo-bo-bobo-recap",
+    "https://anisearch.com/anime/10491",
+    "https://kitsu.io/anime/10676",
+    "https://myanimelist.net/anime/30143",
+    "https://notify.moe/anime/Po1QpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cba54fbca24ce9da",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.266760667903525,
+    "arithmeticGeometricMean": 6.244400929980567,
+    "median": 6.22,
+    "hash": "cba54fbca24ce9da",
+    "lastUpdate": "2024-05-06"
+  }
+}

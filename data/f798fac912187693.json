@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/6709",
+    "https://anime-planet.com/anime/ai-yori-aoshi-speaking-of-dreams",
+    "https://anisearch.com/anime/4001",
+    "https://kitsu.io/anime/4679",
+    "https://livechart.me/anime/6682",
+    "https://myanimelist.net/anime/6709",
+    "https://notify.moe/anime/rsBe5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f798fac912187693",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.705350580636295,
+    "arithmeticGeometricMean": 6.697401073988251,
+    "median": 6.8469999999999995,
+    "hash": "f798fac912187693",
+    "lastUpdate": "2024-05-05"
+  }
+}

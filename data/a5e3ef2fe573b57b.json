@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18187",
+    "https://anime-planet.com/anime/kizumonogatari-koyomi-vamp",
+    "https://anisearch.com/anime/18683",
+    "https://kitsu.io/anime/47927",
+    "https://livechart.me/anime/12323",
+    "https://myanimelist.net/anime/56609",
+    "https://notify.moe/anime/7PmmezmIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5e3ef2fe573b57b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.012938775510206,
+    "arithmeticGeometricMean": 7.977157643001322,
+    "median": 7.48,
+    "hash": "a5e3ef2fe573b57b",
+    "lastUpdate": "2024-05-09"
+  }
+}

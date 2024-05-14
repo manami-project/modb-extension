@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4648",
+    "https://anilist.co/anime/20085",
+    "https://anime-planet.com/anime/only-you-viva-cabaret-club",
+    "https://anisearch.com/anime/3769",
+    "https://kitsu.io/anime/9514",
+    "https://myanimelist.net/anime/20085",
+    "https://notify.moe/anime/u6QfpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de9a486615d545b9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.351267779839208,
+    "arithmeticGeometricMean": 5.329517092568181,
+    "median": 5.0,
+    "hash": "de9a486615d545b9",
+    "lastUpdate": "2024-05-08"
+  }
+}

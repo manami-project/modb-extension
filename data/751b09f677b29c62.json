@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4480",
+    "https://anilist.co/anime/3799",
+    "https://anime-planet.com/anime/speed",
+    "https://anisearch.com/anime/3885",
+    "https://kitsu.io/anime/3257",
+    "https://myanimelist.net/anime/3799",
+    "https://notify.moe/anime/8c1lcFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "751b09f677b29c62",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.380909090909091,
+    "arithmeticGeometricMean": 5.370331616252968,
+    "median": 5.44,
+    "hash": "751b09f677b29c62",
+    "lastUpdate": "2024-05-08"
+  }
+}

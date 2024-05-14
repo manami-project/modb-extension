@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5813",
+    "https://anilist.co/anime/5921",
+    "https://anime-planet.com/anime/utsunomiko",
+    "https://anisearch.com/anime/4787",
+    "https://kitsu.io/anime/4338",
+    "https://myanimelist.net/anime/5921",
+    "https://notify.moe/anime/7unq5Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "64f34e4d994e6e02",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.809648732220161,
+    "arithmeticGeometricMean": 5.778415073076206,
+    "median": 5.660946196660483,
+    "hash": "64f34e4d994e6e02",
+    "lastUpdate": "2024-05-08"
+  }
+}

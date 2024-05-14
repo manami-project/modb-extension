@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1858",
+    "https://anilist.co/anime/422",
+    "https://anime-planet.com/anime/stratos-4-ova",
+    "https://anisearch.com/anime/1472",
+    "https://kitsu.io/anime/386",
+    "https://livechart.me/anime/7493",
+    "https://myanimelist.net/anime/422",
+    "https://notify.moe/anime/AmzTcKimR"
+  ],
+  "synopsis": {
+    "text": "The four brave girls, Mikaze, Karin, Ayamo, and Shizuha, have returned to Earth after a thrilling space adventure, where they unexpectedly saved the planet from the colossal comet Nigel 87 while aboard the upgraded Stratos 4. As the comet swarm's onslaught has momentarily ceased, the girls have resumed their regular lives, balancing their time between rigorous training and part-time jobs at Shimojijima Base.\n\nHowever, their routine is disrupted by the arrival of two Comet Blasters, Chizuru Kubo and Annette Kerry, who present them with a startling video. Meanwhile, chaos brews at Orbital Station 7, which is grappling with severe complications. This two-episode OVA serves as a bridge between the first and second seasons, promising an intriguing blend of action and suspense.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d75ca6812652ba4a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.481593957063344,
+    "arithmeticGeometricMean": 6.467962779561685,
+    "median": 6.67,
+    "hash": "d75ca6812652ba4a",
+    "lastUpdate": "2024-05-10"
+  }
+}

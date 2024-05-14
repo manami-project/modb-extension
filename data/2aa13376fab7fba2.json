@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10098",
+    "https://anime-planet.com/anime/okaasan-no-yasashii-te",
+    "https://anisearch.com/anime/9174",
+    "https://kitsu.io/anime/11068",
+    "https://myanimelist.net/anime/30978",
+    "https://notify.moe/anime/RLHXtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2aa13376fab7fba2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "2aa13376fab7fba2",
+    "lastUpdate": "2024-05-07"
+  }
+}

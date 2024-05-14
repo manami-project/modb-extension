@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103979",
+    "https://anime-planet.com/anime/photodiary-87",
+    "https://kitsu.io/anime/11228",
+    "https://myanimelist.net/anime/31265",
+    "https://notify.moe/anime/Mp6XpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8d7858fd16440db",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.296363636363637,
+    "arithmeticGeometricMean": 5.271730116922684,
+    "median": 5.05,
+    "hash": "b8d7858fd16440db",
+    "lastUpdate": "2024-05-07"
+  }
+}

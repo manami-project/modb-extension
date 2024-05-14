@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5001",
+    "https://anilist.co/anime/3326",
+    "https://anime-planet.com/anime/franz-kafkas-a-country-doctor",
+    "https://anisearch.com/anime/4104",
+    "https://kitsu.io/anime/2938",
+    "https://livechart.me/anime/6538",
+    "https://myanimelist.net/anime/3326",
+    "https://notify.moe/anime/ejhwcKiiR"
+  ],
+  "synopsis": {
+    "text": "Kafka's haunting tale, \"A Country Doctor,\" is reimagined in this 20-minute anime by the daring and inventive Koji Yamamura, a previous Academy Award nominee. In the dead of winter, a doctor from a rural area receives an urgent call to treat a gravely ill young boy ten miles away. But with his horse frozen to death, the journey seems impossible until a mysterious stranger offers him otherworldly horses. As the doctor is transported to the patient's bedside, he becomes consumed by his personal troubles and resentment towards those he is duty-bound to heal. Unable to diagnose the boy's grotesque and life-threatening wound, the doctor faces ridicule from the villagers who demand miracles from him. Trapped in an endless journey, the doctor is stripped of everything in this surreal and thought-provoking exploration of society's expectations and the human psyche.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3ab467b4cbf673b1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.438085343228201,
+    "arithmeticGeometricMean": 6.43377967450978,
+    "median": 6.61,
+    "hash": "3ab467b4cbf673b1",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/aru-otoko-no-ikikata",
+    "https://anisearch.com/anime/14268",
+    "https://kitsu.io/anime/42789",
+    "https://myanimelist.net/anime/39027"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c5635217ea936bb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.359999999999999,
+    "arithmeticGeometricMean": 5.339306919504706,
+    "median": 5.25,
+    "hash": "5c5635217ea936bb",
+    "lastUpdate": "2024-05-05"
+  }
+}

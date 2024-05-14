@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8119",
+    "https://anilist.co/anime/9943",
+    "https://anime-planet.com/anime/ore-sama-kingdom",
+    "https://anisearch.com/anime/6659",
+    "https://kitsu.io/anime/5954",
+    "https://livechart.me/anime/6570",
+    "https://myanimelist.net/anime/9943",
+    "https://notify.moe/anime/qIR7pFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "14c29ea37937b686",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2883965014577266,
+    "arithmeticGeometricMean": 6.27351221272458,
+    "median": 6.25,
+    "hash": "14c29ea37937b686",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6931",
+    "https://anime-planet.com/anime/kaeru-wa-kaeru",
+    "https://anisearch.com/anime/11932",
+    "https://kitsu.io/anime/40770",
+    "https://myanimelist.net/anime/35491",
+    "https://notify.moe/anime/MVkO2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b7b4de666aff6e1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 2.6530612244897958,
+    "arithmeticGeometricMean": 2.6530612244897958,
+    "median": 2.6530612244897958,
+    "hash": "9b7b4de666aff6e1",
+    "lastUpdate": "2024-05-08"
+  }
+}

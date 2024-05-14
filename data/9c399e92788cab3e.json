@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11949",
+    "https://anilist.co/anime/98137",
+    "https://anime-planet.com/anime/mu-di",
+    "https://anisearch.com/anime/11305",
+    "https://kitsu.io/anime/11244",
+    "https://livechart.me/anime/8138",
+    "https://myanimelist.net/anime/30886",
+    "https://notify.moe/anime/O9z9pFmmg"
+  ],
+  "synopsis": {
+    "text": "The narrative revolves around a young, talented cow herder who possesses an uncanny knack for playing the flute. His constant companion is a devoted water buffalo. Haunted by a dream where he loses his buffalo, the boy's worst fears seem to come true when the buffalo refuses to budge from its hiding spot. In a bid to reunite with his beloved companion, the boy employs his flute-playing skills, crafting a melody that successfully draws the buffalo back to his side.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9c399e92788cab3e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.20418605883912,
+    "arithmeticGeometricMean": 6.193547622587542,
+    "median": 6.090909090909091,
+    "hash": "9c399e92788cab3e",
+    "lastUpdate": "2024-05-09"
+  }
+}

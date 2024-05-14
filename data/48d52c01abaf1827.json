@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10442",
+    "https://anilist.co/anime/20642",
+    "https://anime-planet.com/anime/kindaichi-shounen-no-jikenbo-returns",
+    "https://anisearch.com/anime/9455",
+    "https://kitsu.io/anime/8310",
+    "https://livechart.me/anime/440",
+    "https://myanimelist.net/anime/22817",
+    "https://notify.moe/anime/dZQTpFmig"
+  ],
+  "synopsis": {
+    "text": "Hajime Kindaichi, a seemingly ordinary high school student, transforms into an astute detective when faced with a challenging case. As the grandson of the renowned detective Kosuke Kindaichi, Hajime inherits his grandfather's exceptional deductive skills and an impressive IQ of 180. Alongside his childhood friend Miyuki Nanase, police inspector Isamu Kenmochi, and rival Kengo Akechi, Hajime navigates through complex mysteries, solving each one with his sharp intellect. In one such adventure, Hajime and Miyuki find themselves in Hong Kong for a fashion event, only for Miyuki to be kidnapped due to a case of mistaken identity. This unexpected turn of events leads Hajime into yet another intricate crime case, proving that no mystery is too difficult for the young detective to unravel.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "48d52c01abaf1827",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.099361317254174,
+    "arithmeticGeometricMean": 7.089874267446296,
+    "median": 7.132909090909091,
+    "hash": "48d52c01abaf1827",
+    "lastUpdate": "2024-05-09"
+  }
+}

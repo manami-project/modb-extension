@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10937",
+    "https://anilist.co/anime/20954",
+    "https://anime-planet.com/anime/a-silent-voice",
+    "https://anisearch.com/anime/9981",
+    "https://kitsu.io/anime/10028",
+    "https://livechart.me/anime/1296",
+    "https://myanimelist.net/anime/28851",
+    "https://notify.moe/anime/Zw_PpFimg"
+  ],
+  "synopsis": {
+    "text": "Katachi, a once lively and mischievous elementary school student, Shoya Ishida, finds himself in a whirlwind of change when a hearing-impaired girl, Shoko Nishimiya, joins his class. Shoya and his peers, oblivious to her challenges, subject Shoko to relentless bullying for their amusement. However, when the consequences of their actions fall solely on Shoya, he finds himself isolated and ostracized, becoming the new target of his classmates' torment.\n\nYears pass, and Shoya, now a high school student, remains haunted by his past actions. Plagued by guilt and regret, he embarks on a journey of self-discovery and redemption, learning sign language and working part-time to repay his mother for the financial burden caused by Shoko's damaged hearing aids.\n\nIn a twist of fate, Shoya and Shoko cross paths once again. Determined to make amends for his past mistakes, Shoya seeks forgiveness from Shoko. \"A Silent Voice\" unfolds as a poignant tale of regret, forgiveness, and the power of friendship, beautifully illustrating the trials and tribulations of adolescence. As Shoya navigates the complexities of redemption, he learns valuable lessons about empathy, understanding, and the true meaning of friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0c2ff5edbcb0b4a7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.856615464908812,
+    "arithmeticGeometricMean": 8.855242594255573,
+    "median": 8.941530612244897,
+    "hash": "0c2ff5edbcb0b4a7",
+    "lastUpdate": "2024-05-09"
+  }
+}

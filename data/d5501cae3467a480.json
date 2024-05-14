@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12783",
+    "https://anilist.co/anime/8669",
+    "https://anime-planet.com/anime/anokoro-no-namida-wa",
+    "https://anisearch.com/anime/6616",
+    "https://kitsu.io/anime/5431",
+    "https://livechart.me/anime/8642",
+    "https://myanimelist.net/anime/8669",
+    "https://notify.moe/anime/x3wmtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d5501cae3467a480",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.200882498453927,
+    "arithmeticGeometricMean": 5.183166341102775,
+    "median": 4.954545454545455,
+    "hash": "d5501cae3467a480",
+    "lastUpdate": "2024-05-08"
+  }
+}

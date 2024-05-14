@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15198",
+    "https://anilist.co/anime/112658",
+    "https://anime-planet.com/anime/lupin-the-3rd-special-28-prison-of-the-past",
+    "https://anisearch.com/anime/14876",
+    "https://kitsu.io/anime/42636",
+    "https://livechart.me/anime/9645",
+    "https://myanimelist.net/anime/40578"
+  ],
+  "synopsis": {
+    "text": "Can Lupin and his crew outwit the greatest thieves in the world and save a legendary gentleman thief from the impenetrable fortress of El Guille in the Kingdom of Dorrente? In this thrilling TV special, the Lupin gang embarks on a daring rescue mission, as they infiltrate the kingdom to free Finnegan Corbett, the 'Modern Day Robin Hood,' from execution. But they're not alone in their quest, as the world's most notorious thieves converge on Dorrente, each with their own agenda. With the stakes higher than ever, Lupin must use all his cunning and wit to uncover the kingdom's hidden secret and pull off the greatest heist of his career. Get ready for a comedic and action-packed adventure in this exciting installment of the Lupin III series.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6512eb46f42723f4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.173070500927643,
+    "arithmeticGeometricMean": 7.1682118676368605,
+    "median": 7.207727272727272,
+    "hash": "6512eb46f42723f4",
+    "lastUpdate": "2024-05-09"
+  }
+}

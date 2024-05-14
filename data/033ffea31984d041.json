@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4951",
+    "https://anime-planet.com/anime/manga-jinbutsushi",
+    "https://anisearch.com/anime/4053",
+    "https://kitsu.io/anime/9433",
+    "https://myanimelist.net/anime/23001",
+    "https://notify.moe/anime/RG0fpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "033ffea31984d041",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.7829999999999995,
+    "arithmeticGeometricMean": 5.756342679205306,
+    "median": 5.7829999999999995,
+    "hash": "033ffea31984d041",
+    "lastUpdate": "2024-05-08"
+  }
+}

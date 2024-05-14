@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7092",
+    "https://anilist.co/anime/6063",
+    "https://anime-planet.com/anime/penguin-no-mondai-movie-shiawase-no-aoi-tori-de-go-pen-nasai",
+    "https://anisearch.com/anime/5693",
+    "https://kitsu.io/anime/4405",
+    "https://myanimelist.net/anime/6063",
+    "https://notify.moe/anime/a3hqcKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1177558c4b3c5fe5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.05299938157081,
+    "arithmeticGeometricMean": 3.9431336214637867,
+    "median": 4.818181818181818,
+    "hash": "1177558c4b3c5fe5",
+    "lastUpdate": "2024-05-08"
+  }
+}

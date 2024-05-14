@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16447",
+    "https://anilist.co/anime/155910",
+    "https://anime-planet.com/anime/tenjin",
+    "https://anisearch.com/anime/16789",
+    "https://kitsu.io/anime/48407",
+    "https://livechart.me/anime/11053",
+    "https://myanimelist.net/anime/51412"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7acf0f7e053d0881",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.72639628942486,
+    "arithmeticGeometricMean": 5.708013785103057,
+    "median": 5.23,
+    "hash": "7acf0f7e053d0881",
+    "lastUpdate": "2024-05-10"
+  }
+}

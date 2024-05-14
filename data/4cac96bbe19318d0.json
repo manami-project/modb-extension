@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4243",
+    "https://anilist.co/anime/962",
+    "https://anime-planet.com/anime/aria-the-natural",
+    "https://anisearch.com/anime/3044",
+    "https://kitsu.io/anime/852",
+    "https://livechart.me/anime/4078",
+    "https://myanimelist.net/anime/962",
+    "https://notify.moe/anime/r6N1cKiig"
+  ],
+  "synopsis": {
+    "text": "Neo Venezia, a city of enchantment and wonder, is the backdrop for the aspirations of Akari Mizunashi and her friends, Aika and Alice. As they strive to become the most sought-after gondoliers, every day unfolds a new adventure and unearths hidden secrets. From the thrilling chaos of Carnevale to the tranquil beauty of sunsets, the friends explore the watery world of Aqua, even encountering ethereal spirits dwelling in its shadows. Despite hailing from rival companies, the trio's camaraderie remains unshaken as they learn the ropes of being top-notch tour guides. As they delve deeper into the heart of Neo Venezia, they uncover the mysteries that lend an enigmatic allure to this vibrant city. Prepare to embark on a journey filled with magic, friendship, and the promise of miracles in the making.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4cac96bbe19318d0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.118200573979593,
+    "arithmeticGeometricMean": 8.116246977755036,
+    "median": 8.198636363636364,
+    "hash": "4cac96bbe19318d0",
+    "lastUpdate": "2024-05-08"
+  }
+}

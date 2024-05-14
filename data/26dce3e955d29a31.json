@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10610",
+    "https://anilist.co/anime/20706",
+    "https://anime-planet.com/anime/sin-strange-plus",
+    "https://anisearch.com/anime/9630",
+    "https://kitsu.io/anime/8344",
+    "https://livechart.me/anime/502",
+    "https://myanimelist.net/anime/23433",
+    "https://notify.moe/anime/P3qotFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26dce3e955d29a31",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.090857761286333,
+    "arithmeticGeometricMean": 6.0695880726397355,
+    "median": 6.160454545454545,
+    "hash": "26dce3e955d29a31",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/opette",
+    "https://kitsu.io/anime/43490",
+    "https://myanimelist.net/anime/42601"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b53067b2158c419f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.989,
+    "arithmeticGeometricMean": 5.975920361329151,
+    "median": 5.989,
+    "hash": "b53067b2158c419f",
+    "lastUpdate": "2024-05-07"
+  }
+}

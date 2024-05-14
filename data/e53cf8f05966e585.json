@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/shingeki-no-kyojin-ten-360-taikan-theater",
+    "https://kitsu.io/anime/41550",
+    "https://livechart.me/anime/4696"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e53cf8f05966e585",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.731999999999999,
+    "arithmeticGeometricMean": 7.718810872992875,
+    "median": 7.731999999999999,
+    "hash": "e53cf8f05966e585",
+    "lastUpdate": "2024-05-10"
+  }
+}

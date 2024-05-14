@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2717",
+    "https://anilist.co/anime/2393",
+    "https://anime-planet.com/anime/doraemon-movie-24-nobita-and-the-strange-wind-rider",
+    "https://anisearch.com/anime/1167",
+    "https://kitsu.io/anime/2170",
+    "https://livechart.me/anime/8840",
+    "https://myanimelist.net/anime/2393",
+    "https://notify.moe/anime/S4YPcFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b88d33a0c42eac03",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.0868121521335805,
+    "arithmeticGeometricMean": 7.074389219214605,
+    "median": 7.336363636363637,
+    "hash": "b88d33a0c42eac03",
+    "lastUpdate": "2024-05-09"
+  }
+}

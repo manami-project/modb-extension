@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8792",
+    "https://anilist.co/anime/1593",
+    "https://anime-planet.com/anime/azumanga-web-daioh",
+    "https://anisearch.com/anime/4207",
+    "https://kitsu.io/anime/1433",
+    "https://livechart.me/anime/4609",
+    "https://myanimelist.net/anime/1593",
+    "https://notify.moe/anime/R1w-5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4396b37c892f173",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.513949443413729,
+    "arithmeticGeometricMean": 6.497077618029265,
+    "median": 6.673181818181819,
+    "hash": "d4396b37c892f173",
+    "lastUpdate": "2024-05-08"
+  }
+}

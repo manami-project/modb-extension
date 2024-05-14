@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104478",
+    "https://anime-planet.com/anime/lai-lai-lai-team-tengoku",
+    "https://kitsu.io/anime/13979",
+    "https://myanimelist.net/anime/36081",
+    "https://notify.moe/anime/oYiN2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ddd17612f03f21a1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.443409090909091,
+    "arithmeticGeometricMean": 5.437607318828449,
+    "median": 5.386818181818182,
+    "hash": "ddd17612f03f21a1",
+    "lastUpdate": "2024-05-07"
+  }
+}

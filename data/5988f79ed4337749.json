@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11313",
+    "https://anilist.co/anime/102625",
+    "https://anime-planet.com/anime/good-by-marilyn",
+    "https://anisearch.com/anime/10825",
+    "https://kitsu.io/anime/10392",
+    "https://myanimelist.net/anime/29619",
+    "https://notify.moe/anime/SLpUpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5988f79ed4337749",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.9798372647760405,
+    "arithmeticGeometricMean": 3.9499559323842086,
+    "median": 4.0,
+    "hash": "5988f79ed4337749",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2104",
+    "https://anilist.co/anime/4651",
+    "https://anime-planet.com/anime/yume-no-crayon-oukoku",
+    "https://anisearch.com/anime/995",
+    "https://kitsu.io/anime/3723",
+    "https://livechart.me/anime/8760",
+    "https://myanimelist.net/anime/4651",
+    "https://notify.moe/anime/G9m9cFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e636326db60d1cc3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.840681685661276,
+    "arithmeticGeometricMean": 6.814446335495585,
+    "median": 7.272727272727273,
+    "hash": "e636326db60d1cc3",
+    "lastUpdate": "2024-05-10"
+  }
+}

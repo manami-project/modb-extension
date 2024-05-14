@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14694",
+    "https://anilist.co/anime/108355",
+    "https://anime-planet.com/anime/armor-shop-for-ladies-and-gentlemen-flips-the-script",
+    "https://anisearch.com/anime/14375",
+    "https://kitsu.io/anime/42314",
+    "https://livechart.me/anime/9238",
+    "https://myanimelist.net/anime/39325",
+    "https://notify.moe/anime/Qq80FjWWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ea651d7b25451177",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.8197346938775505,
+    "arithmeticGeometricMean": 5.797170126294215,
+    "median": 5.715120593692022,
+    "hash": "ea651d7b25451177",
+    "lastUpdate": "2024-05-09"
+  }
+}

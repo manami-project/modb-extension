@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16043",
+    "https://anilist.co/anime/122516",
+    "https://anime-planet.com/anime/sweet-bite-mark",
+    "https://anisearch.com/anime/16112",
+    "https://kitsu.io/anime/47038",
+    "https://myanimelist.net/anime/44390",
+    "https://notify.moe/anime/qzzaMVbGR"
+  ],
+  "synopsis": {
+    "text": "This captivating tale unfolds in a realm dominated by vampires, where an aristocratic vampire prince finds himself inexplicably drawn to a humble human servant. Initially filled with disdain for one another, the independent and reserved human girl finds herself gradually warming up to the noble vampire, leading to an unexpected romance. As their bond deepens, they must navigate the complexities of societal hierarchy, prejudice, and forbidden love, potentially threatening the established order between vampires and humans. Will their love conquer all, or will they succumb to the pressures of their divided world?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "548704c5862ac3ad",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.619360190829577,
+    "arithmeticGeometricMean": 6.612837025468972,
+    "median": 6.636363636363637,
+    "hash": "548704c5862ac3ad",
+    "lastUpdate": "2024-05-08"
+  }
+}

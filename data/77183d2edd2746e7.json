@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13470",
+    "https://anilist.co/anime/103161",
+    "https://anime-planet.com/anime/aotu-shijie",
+    "https://anisearch.com/anime/12576",
+    "https://kitsu.io/anime/12740",
+    "https://livechart.me/anime/9367",
+    "https://myanimelist.net/anime/33704",
+    "https://notify.moe/anime/-M_i2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77183d2edd2746e7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.850089672232529,
+    "arithmeticGeometricMean": 5.7416327859231275,
+    "median": 6.053636363636364,
+    "hash": "77183d2edd2746e7",
+    "lastUpdate": "2024-05-08"
+  }
+}

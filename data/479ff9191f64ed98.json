@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4112",
+    "https://anilist.co/anime/590",
+    "https://anime-planet.com/anime/guardian-ninja-mamoru",
+    "https://anisearch.com/anime/1645",
+    "https://kitsu.io/anime/545",
+    "https://livechart.me/anime/5398",
+    "https://myanimelist.net/anime/590",
+    "https://notify.moe/anime/dq_o5FmiR"
+  ],
+  "synopsis": {
+    "text": "The unassuming and bespectacled Kagemori Mamoru, with his disheveled hair, hides a secret. He belongs to a lineage of skilled ninjas who have covertly guarded their neighbors, the Konnyaku family, for centuries. Mamoru has been a constant companion to Yuuna Konnyaku since kindergarten, safeguarding her from troubles that come her way. Whenever Yuuna finds herself in a predicament, Mamoru swiftly transforms into a proficient ninja, donning a traditional ninja suit to come to her aid. Despite their lifelong friendship, Yuuna remains oblivious to Mamoru's hidden identity and the reason behind his constant presence in her life. Will Mamoru be able to maintain his secret while ensuring Yuuna's safety? Join them in this exciting and humorous adventure as they navigate through everyday challenges and unexpected mishaps.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "479ff9191f64ed98",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.708642547928262,
+    "arithmeticGeometricMean": 6.693839484125476,
+    "median": 6.665,
+    "hash": "479ff9191f64ed98",
+    "lastUpdate": "2024-05-09"
+  }
+}

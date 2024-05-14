@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103348",
+    "https://anime-planet.com/anime/aioi-ai-oi",
+    "https://kitsu.io/anime/41280",
+    "https://myanimelist.net/anime/37854",
+    "https://notify.moe/anime/L6NRugVmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1928f5574415ce6d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.562454545454545,
+    "arithmeticGeometricMean": 4.524872619512281,
+    "median": 4.500909090909091,
+    "hash": "1928f5574415ce6d",
+    "lastUpdate": "2024-05-05"
+  }
+}

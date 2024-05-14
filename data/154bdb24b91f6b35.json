@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17086",
+    "https://anilist.co/anime/173956",
+    "https://anime-planet.com/anime/rhapsody",
+    "https://anisearch.com/anime/17048",
+    "https://livechart.me/anime/9543",
+    "https://myanimelist.net/anime/54727"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "154bdb24b91f6b35",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.003710575139147,
+    "arithmeticGeometricMean": 3.6426594785813453,
+    "median": 4.003710575139147,
+    "hash": "154bdb24b91f6b35",
+    "lastUpdate": "2024-05-09"
+  }
+}

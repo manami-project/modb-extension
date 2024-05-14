@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5976",
+    "https://anilist.co/anime/4548",
+    "https://anime-planet.com/anime/yozakura-quartet",
+    "https://anisearch.com/anime/4892",
+    "https://kitsu.io/anime/3675",
+    "https://livechart.me/anime/3871",
+    "https://myanimelist.net/anime/4548",
+    "https://notify.moe/anime/EU3u5FimR"
+  ],
+  "synopsis": {
+    "text": "In the heart of Sakurashin, a town where humans and demons coexist, the Hiizumi Life Counseling Office stands as a beacon of harmony. This unique team is composed of four extraordinary teenagers, each with their own supernatural abilities. Leading the group is Akina, a human with the unique power to banish harmful demons back to their realm through a process called \"tuning\". Alongside him is Hime, the beautiful 16-year-old youkai mayor of the town, who possesses incredible strength. Ao, a mind-reading, cat-eared youkai, and Kotoha, a half-youkai with the ability to summon objects by merely naming them, complete the quartet. Together, they navigate the challenges of maintaining peace between the two worlds, dealing with new residents and mysterious occurrences that threaten the delicate balance of their town. Despite the odds, this supernatural foursome is determined to protect their home and its inhabitants, proving that unity and understanding can triumph in a world where humans and demons walk side by side.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd2018e81f830892",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.842281339471817,
+    "arithmeticGeometricMean": 6.838410315100948,
+    "median": 6.791,
+    "hash": "bd2018e81f830892",
+    "lastUpdate": "2024-05-10"
+  }
+}

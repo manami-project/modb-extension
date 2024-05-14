@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115275",
+    "https://anime-planet.com/anime/kazoku-dekki",
+    "https://kitsu.io/anime/46112",
+    "https://myanimelist.net/anime/38643"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "271d8d0c4c7c4c8b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.413636363636364,
+    "arithmeticGeometricMean": 6.395207202726363,
+    "median": 6.413636363636364,
+    "hash": "271d8d0c4c7c4c8b",
+    "lastUpdate": "2024-05-06"
+  }
+}

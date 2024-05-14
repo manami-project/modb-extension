@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3094",
+    "https://anilist.co/anime/5287",
+    "https://anime-planet.com/anime/ippatsu-kanta-kun",
+    "https://anisearch.com/anime/1066",
+    "https://kitsu.io/anime/4034",
+    "https://myanimelist.net/anime/5287",
+    "https://notify.moe/anime/I9VjcFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3225f6466d43f676",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.4215819418676565,
+    "arithmeticGeometricMean": 5.374116860878856,
+    "median": 5.110909090909091,
+    "hash": "3225f6466d43f676",
+    "lastUpdate": "2024-05-08"
+  }
+}

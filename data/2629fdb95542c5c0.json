@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/142048",
+    "https://anime-planet.com/anime/people-1-mahou-no-uta",
+    "https://anisearch.com/anime/18114",
+    "https://kitsu.io/anime/45526",
+    "https://myanimelist.net/anime/52899"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2629fdb95542c5c0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.375973098330241,
+    "arithmeticGeometricMean": 6.369247287086757,
+    "median": 6.317272727272727,
+    "hash": "2629fdb95542c5c0",
+    "lastUpdate": "2024-05-07"
+  }
+}

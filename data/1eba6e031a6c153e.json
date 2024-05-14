@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/angel-beats-hells-kitchen",
+    "https://anisearch.com/anime/10510"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1eba6e031a6c153e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.436265306122449,
+    "arithmeticGeometricMean": 7.434786083022661,
+    "median": 7.436265306122449,
+    "hash": "1eba6e031a6c153e",
+    "lastUpdate": "2024-05-05"
+  }
+}

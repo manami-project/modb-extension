@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2049",
+    "https://anilist.co/anime/17719",
+    "https://anime-planet.com/anime/mahou-tsukai-sally-movie",
+    "https://anisearch.com/anime/1635",
+    "https://kitsu.io/anime/9424",
+    "https://livechart.me/anime/11704",
+    "https://myanimelist.net/anime/17719",
+    "https://notify.moe/anime/8gTfpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "341fd7a7d3dfb279",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.699718614718615,
+    "arithmeticGeometricMean": 5.688843176845179,
+    "median": 5.772727272727273,
+    "hash": "341fd7a7d3dfb279",
+    "lastUpdate": "2024-05-09"
+  }
+}

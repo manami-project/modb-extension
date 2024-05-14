@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108848",
+    "https://anime-planet.com/anime/pinocchio-p-kimi-ga-ikite-nakute-yokatta",
+    "https://kitsu.io/anime/42264",
+    "https://myanimelist.net/anime/55497"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "497f34e7802111cc",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.999454545454546,
+    "arithmeticGeometricMean": 6.9991557943131,
+    "median": 6.999454545454546,
+    "hash": "497f34e7802111cc",
+    "lastUpdate": "2024-05-07"
+  }
+}

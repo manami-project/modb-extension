@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12029",
+    "https://anilist.co/anime/104161",
+    "https://anime-planet.com/anime/tokyo-cosmo",
+    "https://anisearch.com/anime/11133",
+    "https://kitsu.io/anime/12548",
+    "https://myanimelist.net/anime/38290",
+    "https://notify.moe/anime/qu6z2FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3d6f4f1382a850a9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.777653326265571,
+    "arithmeticGeometricMean": 5.742491055306865,
+    "median": 5.818181818181818,
+    "hash": "3d6f4f1382a850a9",
+    "lastUpdate": "2024-05-07"
+  }
+}

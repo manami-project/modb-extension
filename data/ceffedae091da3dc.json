@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102076",
+    "https://anime-planet.com/anime/yasashii-kinyoubi",
+    "https://anisearch.com/anime/11845",
+    "https://kitsu.io/anime/9086",
+    "https://myanimelist.net/anime/22157",
+    "https://notify.moe/anime/JvGapKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ceffedae091da3dc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.392186765615337,
+    "arithmeticGeometricMean": 4.371563481699758,
+    "median": 4.228545454545454,
+    "hash": "ceffedae091da3dc",
+    "lastUpdate": "2024-05-06"
+  }
+}

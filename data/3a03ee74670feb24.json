@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/413",
+    "https://anilist.co/anime/321",
+    "https://anime-planet.com/anime/najica-blitz-tactics",
+    "https://anisearch.com/anime/1898",
+    "https://kitsu.io/anime/288",
+    "https://livechart.me/anime/7853",
+    "https://myanimelist.net/anime/321",
+    "https://notify.moe/anime/rh125Fimg"
+  ],
+  "synopsis": {
+    "text": "Though she is renowned as a perfumer with an extraordinary ability to distinguish scents, Najica Hiiragi's life is far from ordinary. By day, she builds her cosmetic empire, but by night, she serves as a secret agent, combating criminal elements worldwide. When a mission leads her to rescue Lila, a bioengineered android with hidden secrets, Najica is reluctantly paired with her new ally. As they embark on thrilling and perilous adventures to unravel the mysteries surrounding the origins of powerful androids, Najica and Lila must learn to trust each other and work together to face the challenges that lie ahead. With the fate of the world at stake, this dynamic duo is the only hope against the sinister forces threatening humanity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3a03ee74670feb24",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.820952027564273,
+    "arithmeticGeometricMean": 5.815783099545219,
+    "median": 5.909090909090908,
+    "hash": "3a03ee74670feb24",
+    "lastUpdate": "2024-05-09"
+  }
+}

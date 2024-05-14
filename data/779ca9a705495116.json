@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2488",
+    "https://anilist.co/anime/2600",
+    "https://anime-planet.com/anime/heavy-metal-l-gaim-ii-farewell-my-lovely-and-pentagona-doors",
+    "https://anisearch.com/anime/66",
+    "https://kitsu.io/anime/2364",
+    "https://livechart.me/anime/6882",
+    "https://myanimelist.net/anime/2600",
+    "https://notify.moe/anime/cwOs5Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "779ca9a705495116",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.458378478664193,
+    "arithmeticGeometricMean": 5.423448991805115,
+    "median": 5.402727272727272,
+    "hash": "779ca9a705495116",
+    "lastUpdate": "2024-05-09"
+  }
+}

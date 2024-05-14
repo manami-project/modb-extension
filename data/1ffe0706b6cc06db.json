@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12472",
+    "https://anilist.co/anime/97915",
+    "https://anime-planet.com/anime/osomatsu-san-ouma-de-kobanashi",
+    "https://anisearch.com/anime/12074",
+    "https://kitsu.io/anime/12720",
+    "https://livechart.me/anime/2368",
+    "https://myanimelist.net/anime/34238",
+    "https://notify.moe/anime/Sysm2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ffe0706b6cc06db",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.271803133374562,
+    "arithmeticGeometricMean": 7.266346221362695,
+    "median": 7.264363636363637,
+    "hash": "1ffe0706b6cc06db",
+    "lastUpdate": "2024-05-09"
+  }
+}

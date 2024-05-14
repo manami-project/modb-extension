@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14167",
+    "https://anilist.co/anime/102891",
+    "https://anime-planet.com/anime/the-deer-king",
+    "https://anisearch.com/anime/13702",
+    "https://kitsu.io/anime/41412",
+    "https://livechart.me/anime/3344",
+    "https://myanimelist.net/anime/38015",
+    "https://notify.moe/anime/fG59q3Dmg"
+  ],
+  "synopsis": {
+    "text": "Hossal, a brilliant doctor, and a former soldier turned slave, Van, find themselves united in a desperate quest for a cure against a deadly plague that threatens to consume the land. After a brutal war that left the Empire of Zol in control of the once-rival Aquafa, Van is enslaved in a salt mine, where he encounters Yuna, a young girl whose fate becomes entwined with his own. When a pack of wild dogs, carriers of the dreaded Black Wolf Fever, attacks the mine, Van and Yuna emerge as the only survivors, bitten but inexplicably immune.\n\nAs the disease begins to spread, Van and Yuna embark on a journey to seek refuge in the countryside. However, their plans for a peaceful life are shattered as they find themselves at the center of a battle against an enemy far more formidable than the Empire. With Hossal's help, Van must confront the secrets of the plague and unlock the key to its cure, all while protecting Yuna from the relentless forces that pursue them.\n\nIn a world ravaged by war and disease, Van and Yuna's unlikely alliance offers a glimmer of hope for humanity's survival. Their perilous journey will test the limits of their resilience and determination, as they strive to uncover the truth behind the deadly plague and save the land from its destructive grip.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "64097ec80f45c01a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.011489795918368,
+    "arithmeticGeometricMean": 6.992260661493698,
+    "median": 7.188454545454546,
+    "hash": "64097ec80f45c01a",
+    "lastUpdate": "2024-05-09"
+  }
+}

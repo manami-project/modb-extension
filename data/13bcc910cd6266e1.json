@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9740",
+    "https://anilist.co/anime/7247",
+    "https://anime-planet.com/anime/naked-wolves",
+    "https://anisearch.com/anime/5773",
+    "https://kitsu.io/anime/4910",
+    "https://myanimelist.net/anime/7247",
+    "https://notify.moe/anime/LcYRpFmig"
+  ],
+  "synopsis": {
+    "text": "In the world of sumo wrestling, one ambitious athlete named Mikoshiarashi embarks on a global quest to achieve the prestigious title of Yokozuna, the Grand Sumo Champion. This comedic animated series follows Mikoshiarashi as he journeys across continents, from North America to Europe, in pursuit of mastering the ultimate 48 sumo techniques. Along the way, he encounters a vibrant cast of characters who become friends, mentors, and allies in his mission. With unwavering determination and newfound skills, Mikoshiarashi sets his sights on defeating the formidable Tetsunishiki and claiming the top spot in the sumo world. Join Mikoshiarashi in this epic adventure filled with laughter, camaraderie, and high-stakes competition.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "13bcc910cd6266e1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.942803957946815,
+    "arithmeticGeometricMean": 4.924586034077311,
+    "median": 4.863636363636363,
+    "hash": "13bcc910cd6266e1",
+    "lastUpdate": "2024-05-08"
+  }
+}

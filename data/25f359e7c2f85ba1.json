@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7835",
+    "https://anime-planet.com/anime/hangyodon-no-parallel-daisakusen-kyouryuu-oukoku-wa-oosawagi",
+    "https://anisearch.com/anime/6507",
+    "https://kitsu.io/anime/10262",
+    "https://livechart.me/anime/12003",
+    "https://myanimelist.net/anime/29267",
+    "https://notify.moe/anime/vl9stFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "25f359e7c2f85ba1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.974489795918367,
+    "arithmeticGeometricMean": 4.974457090259733,
+    "median": 4.974489795918367,
+    "hash": "25f359e7c2f85ba1",
+    "lastUpdate": "2024-05-09"
+  }
+}

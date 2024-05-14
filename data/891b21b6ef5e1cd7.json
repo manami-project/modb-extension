@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6570",
+    "https://anilist.co/anime/6838",
+    "https://anime-planet.com/anime/dokubou-no-jidousha-ryokou",
+    "https://anisearch.com/anime/8603",
+    "https://kitsu.io/anime/4740",
+    "https://myanimelist.net/anime/6838",
+    "https://notify.moe/anime/k9C6cKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "891b21b6ef5e1cd7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.141095149748211,
+    "arithmeticGeometricMean": 4.088529605225706,
+    "median": 4.08,
+    "hash": "891b21b6ef5e1cd7",
+    "lastUpdate": "2024-05-08"
+  }
+}

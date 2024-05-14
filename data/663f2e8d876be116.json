@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/114924",
+    "https://anime-planet.com/anime/drops-of-life",
+    "https://kitsu.io/anime/45804"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "663f2e8d876be116",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.156727272727273,
+    "arithmeticGeometricMean": 6.141507674231671,
+    "median": 6.156727272727273,
+    "hash": "663f2e8d876be116",
+    "lastUpdate": "2024-05-06"
+  }
+}

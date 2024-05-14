@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14854",
+    "https://anilist.co/anime/108980",
+    "https://anime-planet.com/anime/jian-wang-3-xia-gan-yi-dan-shen-jianxin",
+    "https://anisearch.com/anime/13886",
+    "https://kitsu.io/anime/42513",
+    "https://livechart.me/anime/10067",
+    "https://myanimelist.net/anime/39419",
+    "https://notify.moe/anime/N3zWS4bGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "10df9f459e68cd80",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.114616697588126,
+    "arithmeticGeometricMean": 7.092519430649629,
+    "median": 6.74,
+    "hash": "10df9f459e68cd80",
+    "lastUpdate": "2024-05-09"
+  }
+}

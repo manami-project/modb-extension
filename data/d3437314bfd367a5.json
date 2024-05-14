@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9458",
+    "https://anilist.co/anime/15783",
+    "https://anime-planet.com/anime/lupin-the-3rd-special-24-touhou-kenbunroku-another-page",
+    "https://anisearch.com/anime/8118",
+    "https://kitsu.io/anime/7308",
+    "https://livechart.me/anime/1004",
+    "https://myanimelist.net/anime/15783",
+    "https://notify.moe/anime/xOMKpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3437314bfd367a5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.151515858291369,
+    "arithmeticGeometricMean": 7.1472030647568126,
+    "median": 7.024489795918367,
+    "hash": "d3437314bfd367a5",
+    "lastUpdate": "2024-05-09"
+  }
+}

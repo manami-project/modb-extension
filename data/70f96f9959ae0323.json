@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106506",
+    "https://anime-planet.com/anime/golden-douga-gekijou",
+    "https://anisearch.com/anime/14838",
+    "https://kitsu.io/anime/41320",
+    "https://livechart.me/anime/11542",
+    "https://livechart.me/anime/4738",
+    "https://myanimelist.net/anime/37755",
+    "https://notify.moe/anime/5ixo0Nvmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "70f96f9959ae0323",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.3001614100185535,
+    "arithmeticGeometricMean": 6.2848929067222095,
+    "median": 6.514,
+    "hash": "70f96f9959ae0323",
+    "lastUpdate": "2024-05-06"
+  }
+}

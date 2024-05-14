@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2815",
+    "https://anilist.co/anime/149",
+    "https://anime-planet.com/anime/loveless",
+    "https://anisearch.com/anime/3268",
+    "https://kitsu.io/anime/127",
+    "https://livechart.me/anime/4477",
+    "https://myanimelist.net/anime/149",
+    "https://notify.moe/anime/tUspcFimg"
+  ],
+  "synopsis": {
+    "text": "Soubi, a seasoned fighter, enters the life of a bereaved 12-year-old Ritsuka Aoyagi, who has recently lost his brother Seimei under enigmatic circumstances. Soubi reveals that he and Seimei were a formidable combat duo, with Soubi as the 'Fighter' and Seimei as the 'Sacrifice'. With Seimei's passing, Soubi now pledges his loyalty to Ritsuka, ready to serve as his protector. Ritsuka, grappling with the loss of his memories and the brutal murder of his brother, finds himself in a world of magic and intrigue. Driven by a desire to uncover the truth behind his brother's death, Ritsuka teams up with Soubi, even as he wrestles with existential questions about his own identity. Their journey leads them to confront the nefarious organization 'Seven Moons', believed to be responsible for Seimei's demise. As they delve deeper, Ritsuka must navigate the complexities of his new reality, where the line between love and duty often blurs.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a924ccbc48dad87d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.5928578100363815,
+    "arithmeticGeometricMean": 6.580281199428255,
+    "median": 6.767,
+    "hash": "a924ccbc48dad87d",
+    "lastUpdate": "2024-05-09"
+  }
+}

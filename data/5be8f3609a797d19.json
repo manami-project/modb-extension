@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1406",
+    "https://anilist.co/anime/2018",
+    "https://anime-planet.com/anime/laughing-target",
+    "https://anisearch.com/anime/2762",
+    "https://kitsu.io/anime/1817",
+    "https://livechart.me/anime/8218",
+    "https://myanimelist.net/anime/2018",
+    "https://notify.moe/anime/2xcLcFimR"
+  ],
+  "synopsis": {
+    "text": "Yuzuru, a typical high school student and captain of his school's archery team, is living his dream life with his beloved girlfriend, Satomi. Little does he remember his childhood promise to his cousin, Azusa, to be betrothed to her. But when Azusa's mother dies under mysterious circumstances, she arrives to claim Yuzuru as her own, reigniting their forgotten engagement. With Azusa's hidden powers and unwavering determination, Satomi's life hangs in the balance, and Yuzuru must confront the secrets of Azusa's past to protect his love. Will he unravel the dark truth in time, or succumb to the sinister forces that threaten their lives?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5be8f3609a797d19",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.147949112112378,
+    "arithmeticGeometricMean": 6.142257141636852,
+    "median": 6.11,
+    "hash": "5be8f3609a797d19",
+    "lastUpdate": "2024-05-10"
+  }
+}

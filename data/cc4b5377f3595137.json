@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21068",
+    "https://anime-planet.com/anime/durarara-x2-my-heart-is-in-the-pattern-of-a-hot-pot",
+    "https://anisearch.com/anime/10380",
+    "https://kitsu.io/anime/10707",
+    "https://livechart.me/anime/1420",
+    "https://myanimelist.net/anime/30191",
+    "https://notify.moe/anime/nEYQpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc4b5377f3595137",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.733112642459581,
+    "arithmeticGeometricMean": 7.732491923907832,
+    "median": 7.66,
+    "hash": "cc4b5377f3595137",
+    "lastUpdate": "2024-05-06"
+  }
+}

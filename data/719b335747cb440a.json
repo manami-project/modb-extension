@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127990",
+    "https://anime-planet.com/anime/mochi-wo-tsuku-yatsu"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "719b335747cb440a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.7272727272727275,
+    "arithmeticGeometricMean": 3.7272727272727275,
+    "median": 3.7272727272727275,
+    "hash": "719b335747cb440a",
+    "lastUpdate": "2024-05-06"
+  }
+}

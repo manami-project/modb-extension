@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14959",
+    "https://anilist.co/anime/109148",
+    "https://anime-planet.com/anime/li-shi",
+    "https://anisearch.com/anime/15435",
+    "https://kitsu.io/anime/43675",
+    "https://livechart.me/anime/9956",
+    "https://myanimelist.net/anime/39736",
+    "https://notify.moe/anime/n8JIvSRMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c4be4bac3ee002b8",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.0170144712430425,
+    "arithmeticGeometricMean": 5.997687492137664,
+    "median": 5.408163265306122,
+    "hash": "c4be4bac3ee002b8",
+    "lastUpdate": "2024-05-09"
+  }
+}

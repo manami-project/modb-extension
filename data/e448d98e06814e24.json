@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9893",
+    "https://anilist.co/anime/18767",
+    "https://anime-planet.com/anime/blazblue-alter-memory",
+    "https://anisearch.com/anime/4597",
+    "https://kitsu.io/anime/7722",
+    "https://livechart.me/anime/60",
+    "https://myanimelist.net/anime/18767",
+    "https://notify.moe/anime/MeWptFmmR"
+  ],
+  "synopsis": {
+    "text": "Ragna the Bloodedge, infamously known as the Grim Reaper, is the world's most wanted man in the year 2199. After a series of devastating magic wars, humanity is eagerly anticipating the dawn of a new century. However, Ragna's mysterious plot to destroy the system controlling the world threatens to shatter this hopeful future. As word spreads of his appearance in the 13th Hierarchical City of Kagutsuchi, a diverse group of powerful fighters converge on the city, each seeking to collect the highest bounty ever placed on a rebel's head. Unbeknownst to them, Ragna's actions are connected to the resurrection of the Black Beast, a monstrous creature that was once defeated by heroes wielding a powerful combination of magic and science. As the world teeters on the brink of destruction, these fighters must confront Ragna and uncover the truth behind his motivations. Will they be able to stop the Grim Reaper and save the world from the Black Beast once again?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e448d98e06814e24",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.146353758210901,
+    "arithmeticGeometricMean": 6.136437141127389,
+    "median": 6.098061224489795,
+    "hash": "e448d98e06814e24",
+    "lastUpdate": "2024-05-09"
+  }
+}

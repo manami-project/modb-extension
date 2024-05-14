@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/strawberry"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bfbd753dee2dc4a3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.15,
+    "arithmeticGeometricMean": 6.15,
+    "median": 6.15,
+    "hash": "bfbd753dee2dc4a3",
+    "lastUpdate": "2024-05-08"
+  }
+}

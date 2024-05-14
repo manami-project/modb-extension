@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148402",
+    "https://anime-planet.com/anime/hifukidake",
+    "https://kitsu.io/anime/45326",
+    "https://myanimelist.net/anime/50138"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d095eb7e66bb8d9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.0,
+    "arithmeticGeometricMean": 4.0,
+    "median": 4.0,
+    "hash": "4d095eb7e66bb8d9",
+    "lastUpdate": "2024-05-07"
+  }
+}

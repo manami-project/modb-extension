@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://anidb.net/anime/999",
+    "https://anilist.co/anime/8229",
+    "https://anime-planet.com/anime/on-chan-yume-power-daibouken",
+    "https://anisearch.com/anime/879",
+    "https://kitsu.io/anime/5254",
+    "https://myanimelist.net/anime/8229",
+    "https://notify.moe/anime/shiipKiig"
+  ],
+  "score": {
+    "arithmeticMean": 5.0148423005565865,
+    "arithmeticGeometricMean": 5.0098912007109355,
+    "median": 5.0,
+    "hash": "cf1b3c01a28c2238",
+    "lastUpdate": "2024-05-08"
+  }
+}

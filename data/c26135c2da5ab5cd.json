@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4457",
+    "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-i-the-broken-world"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c26135c2da5ab5cd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.182,
+    "arithmeticGeometricMean": 7.181972709422031,
+    "median": 7.182,
+    "hash": "c26135c2da5ab5cd",
+    "lastUpdate": "2024-05-08"
+  }
+}

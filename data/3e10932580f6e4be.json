@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5054",
+    "https://anilist.co/anime/4584",
+    "https://anime-planet.com/anime/topo-gigio",
+    "https://anisearch.com/anime/4151",
+    "https://kitsu.io/anime/3696",
+    "https://livechart.me/anime/12151",
+    "https://myanimelist.net/anime/4584",
+    "https://notify.moe/anime/jEg95FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3e10932580f6e4be",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.696183408428306,
+    "arithmeticGeometricMean": 5.6070509900967025,
+    "median": 6.0,
+    "hash": "3e10932580f6e4be",
+    "lastUpdate": "2024-05-10"
+  }
+}

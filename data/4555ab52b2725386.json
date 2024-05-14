@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13121",
+    "https://anilist.co/anime/103401",
+    "https://anime-planet.com/anime/da-wei-bei-ken-zhi-daomei-tegong-xiong",
+    "https://anisearch.com/anime/12436",
+    "https://kitsu.io/anime/13842",
+    "https://myanimelist.net/anime/35921",
+    "https://notify.moe/anime/REoS2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4555ab52b2725386",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.899745454545455,
+    "arithmeticGeometricMean": 4.865640830953977,
+    "median": 4.272727272727273,
+    "hash": "4555ab52b2725386",
+    "lastUpdate": "2024-05-07"
+  }
+}

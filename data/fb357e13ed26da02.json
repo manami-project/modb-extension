@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8989",
+    "https://anilist.co/anime/13089",
+    "https://anime-planet.com/anime/hana-to-mogura",
+    "https://anisearch.com/anime/7625",
+    "https://kitsu.io/anime/6880",
+    "https://myanimelist.net/anime/13089",
+    "https://notify.moe/anime/HkGvpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fb357e13ed26da02",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.581334746885767,
+    "arithmeticGeometricMean": 5.572010032318143,
+    "median": 5.5,
+    "hash": "fb357e13ed26da02",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137800",
+    "https://anime-planet.com/anime/marine-houshou-unison",
+    "https://kitsu.io/anime/44970",
+    "https://myanimelist.net/anime/49861"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "31aea5b9744210d4",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.266727272727273,
+    "arithmeticGeometricMean": 7.260774333590707,
+    "median": 7.356818181818182,
+    "hash": "31aea5b9744210d4",
+    "lastUpdate": "2024-05-07"
+  }
+}

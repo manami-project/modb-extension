@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/109192",
+    "https://anime-planet.com/anime/eve-this-world-to-you",
+    "https://kitsu.io/anime/42282",
+    "https://myanimelist.net/anime/39769"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d1195eb2825db5f2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.037590909090909,
+    "arithmeticGeometricMean": 7.036084586321671,
+    "median": 7.022454545454545,
+    "hash": "d1195eb2825db5f2",
+    "lastUpdate": "2024-05-07"
+  }
+}

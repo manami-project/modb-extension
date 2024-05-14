@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11072",
+    "https://anilist.co/anime/21052",
+    "https://anime-planet.com/anime/super-short-comics",
+    "https://anisearch.com/anime/10213",
+    "https://kitsu.io/anime/10588",
+    "https://livechart.me/anime/1405",
+    "https://myanimelist.net/anime/30013",
+    "https://notify.moe/anime/tsnwtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b04bc8a529f87346",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.956498453927025,
+    "arithmeticGeometricMean": 4.908489283469886,
+    "median": 5.045454545454545,
+    "hash": "b04bc8a529f87346",
+    "lastUpdate": "2024-05-10"
+  }
+}

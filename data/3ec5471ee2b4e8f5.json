@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13575",
+    "https://anilist.co/anime/121300",
+    "https://anime-planet.com/anime/qin-shi-mingyue-luo-shengtang-xia",
+    "https://anisearch.com/anime/14256",
+    "https://kitsu.io/anime/10557",
+    "https://myanimelist.net/anime/29937",
+    "https://notify.moe/anime/ZzmQpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3ec5471ee2b4e8f5",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.717272727272727,
+    "arithmeticGeometricMean": 5.701399069756233,
+    "median": 5.25,
+    "hash": "3ec5471ee2b4e8f5",
+    "lastUpdate": "2024-05-08"
+  }
+}

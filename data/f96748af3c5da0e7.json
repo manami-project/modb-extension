@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145907",
+    "https://anime-planet.com/anime/tooi-sekai-ni",
+    "https://myanimelist.net/anime/50100"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f96748af3c5da0e7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.624272727272727,
+    "arithmeticGeometricMean": 5.562610974794099,
+    "median": 5.624272727272727,
+    "hash": "f96748af3c5da0e7",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3676",
+    "https://anilist.co/anime/7245",
+    "https://anime-planet.com/anime/sekai-meisaku-douwa-series-wow-maerchen-oukoku",
+    "https://anisearch.com/anime/4815",
+    "https://kitsu.io/anime/4909",
+    "https://livechart.me/anime/8271",
+    "https://myanimelist.net/anime/7245",
+    "https://notify.moe/anime/CNLgtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "38495181cafcad6e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.874319727891158,
+    "arithmeticGeometricMean": 5.840940489213305,
+    "median": 5.54795918367347,
+    "hash": "38495181cafcad6e",
+    "lastUpdate": "2024-05-09"
+  }
+}

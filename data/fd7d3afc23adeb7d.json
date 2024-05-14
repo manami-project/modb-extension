@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3589",
+    "https://anilist.co/anime/10285",
+    "https://anime-planet.com/anime/manga-nippon-mukashibanashi-movie",
+    "https://anisearch.com/anime/547",
+    "https://kitsu.io/anime/6114",
+    "https://myanimelist.net/anime/10285",
+    "https://notify.moe/anime/6JUnpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd7d3afc23adeb7d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.628633271490415,
+    "arithmeticGeometricMean": 5.599633432210487,
+    "median": 5.385899814471243,
+    "hash": "fd7d3afc23adeb7d",
+    "lastUpdate": "2024-05-07"
+  }
+}

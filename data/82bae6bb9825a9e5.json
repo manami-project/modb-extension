@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8085",
+    "https://anilist.co/anime/9471",
+    "https://anime-planet.com/anime/baka-and-test-summon-the-beasts-ova",
+    "https://anisearch.com/anime/6634",
+    "https://kitsu.io/anime/5745",
+    "https://livechart.me/anime/3285",
+    "https://myanimelist.net/anime/9471",
+    "https://notify.moe/anime/CbZMpKimR"
+  ],
+  "synopsis": {
+    "text": "Mizuki's future at Fumizaki Academy hangs in the balance as the annual school festival approaches! Class 2-F, known for its less-than-stellar academic performance, springs into action to save their friend from being transferred and to finally upgrade their classroom equipment. The group decides to run a Chinese café, but they'll have to face fierce competition, unsavory rumors, and Mizuki's questionable culinary skills.\n\nOn the first day of the festival, Akihisa Yoshii dons a maid outfit to attract customers, but unexpected challenges arise in the form of dangerous dumplings and a kidnapping plot. Will these obstacles hinder their profits and Mizuki's chance to stay in Class 2-F?\n\nThe stakes are raised even higher on day two when the class must participate in the Summoner Tournament. If they triumph, they'll secure Mizuki's place in the class and obtain new desks. But with rival classes vying for the same prizes, Class 2-F will have to rely on their unique strengths and unbreakable camaraderie to emerge victorious.\n\nJoin the lovable underdogs of Class 2-F in this special OVA of Baka to Test to Shoukanjuu, as they navigate the chaotic school festival and strive to protect their friendship and improve their academic environment.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "82bae6bb9825a9e5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.535152927045784,
+    "arithmeticGeometricMean": 7.533704459419019,
+    "median": 7.555,
+    "hash": "82bae6bb9825a9e5",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/155775",
+    "https://anime-planet.com/anime/siegfeld-institute-of-music-junior-high-afuregu-aufregendes-leben",
+    "https://anisearch.com/anime/17764",
+    "https://myanimelist.net/anime/55400"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "564e10453276145c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.017187384044526,
+    "arithmeticGeometricMean": 7.017036353971879,
+    "median": 7.028,
+    "hash": "564e10453276145c",
+    "lastUpdate": "2024-05-05"
+  }
+}

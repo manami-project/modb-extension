@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17854",
+    "https://anilist.co/anime/156091",
+    "https://anime-planet.com/anime/my-cat-hates-me",
+    "https://kitsu.io/anime/47046",
+    "https://myanimelist.net/anime/54018",
+    "https://notify.moe/anime/EyiDJdT4R"
+  ],
+  "synopsis": {
+    "text": "Bazaar Black, the dog, and Huanghuang, the cat, find themselves in the unexpected care of a young, struggling manga artist seeking inspiration. Despite the chaos and mischief that the two pets often bring into his life, the artist finds solace and companionship in their presence. As the trio navigates through the absurd and hilarious situations that life throws at them, the artist discovers a newfound sense of love and family with his furry companions. Thus begins a noisy yet heartwarming journey filled with laughter, love, and inspiration.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "696b271e06d3d941",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.402272727272727,
+    "arithmeticGeometricMean": 6.402166027079792,
+    "median": 6.402272727272727,
+    "hash": "696b271e06d3d941",
+    "lastUpdate": "2024-05-07"
+  }
+}

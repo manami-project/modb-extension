@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11415",
+    "https://anilist.co/anime/106550",
+    "https://anime-planet.com/anime/tsuru-asa-ga-kuru-mae-ni-sasurai-version",
+    "https://anisearch.com/anime/6773",
+    "https://kitsu.io/anime/8602",
+    "https://myanimelist.net/anime/22411",
+    "https://notify.moe/anime/Ami1tKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e7b764bf96227b0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.503356480254439,
+    "arithmeticGeometricMean": 5.4835221208002976,
+    "median": 5.454545454545455,
+    "hash": "4e7b764bf96227b0",
+    "lastUpdate": "2024-05-08"
+  }
+}

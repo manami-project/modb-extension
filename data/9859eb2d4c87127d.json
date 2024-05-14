@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7559",
+    "https://anilist.co/anime/121838",
+    "https://anime-planet.com/anime/sore-ike-anpanman-lyrical-magical-mahou-no-gakkou",
+    "https://anisearch.com/anime/5336",
+    "https://kitsu.io/anime/9620",
+    "https://livechart.me/anime/11433",
+    "https://myanimelist.net/anime/22035",
+    "https://notify.moe/anime/pSSYtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9859eb2d4c87127d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.13947990105133,
+    "arithmeticGeometricMean": 5.024767900561252,
+    "median": 5.090909090909091,
+    "hash": "9859eb2d4c87127d",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15505",
+    "https://anilist.co/anime/117612",
+    "https://anime-planet.com/anime/how-a-realist-hero-rebuilt-the-kingdom",
+    "https://anisearch.com/anime/15183",
+    "https://kitsu.io/anime/43613",
+    "https://livechart.me/anime/9892",
+    "https://myanimelist.net/anime/41710",
+    "https://notify.moe/anime/Wsm5bJgMR"
+  ],
+  "synopsis": {
+    "text": "What starts as an ordinary day for Kazuya Souma, a solitary civil servant aspirant, takes an extraordinary turn when he finds himself transported to the Elfrieden Kingdom, a struggling realm in dire need of a hero. Instead of embarking on a typical hero's journey, Kazuya presents an innovative plan to revitalize the kingdom's faltering economy and military, impressing the king so much that he is promptly crowned the new monarch and betrothed to the princess.\n\nIn a world teeming with mythical creatures like dragons and elves, Kazuya chooses to navigate the complexities of governance and administrative reform, a path less trodden. To aid him in his mission, he gathers a team of talented individuals, each possessing unique abilities. As the 'Realist Hero,' Kazuya embarks on a mission to rebuild his kingdom, not through brute force or magical prowess, but through strategic planning and policy reform. Will his unconventional approach prove successful in restoring the kingdom to its former glory? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d5d8a48185ee2508",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.476215097402597,
+    "arithmeticGeometricMean": 7.472518415059338,
+    "median": 7.472613636363636,
+    "hash": "d5d8a48185ee2508",
+    "lastUpdate": "2024-05-09"
+  }
+}

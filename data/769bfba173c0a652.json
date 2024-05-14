@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4861",
+    "https://anilist.co/anime/1690",
+    "https://anime-planet.com/anime/bokurano",
+    "https://anisearch.com/anime/3986",
+    "https://kitsu.io/anime/1518",
+    "https://livechart.me/anime/3763",
+    "https://myanimelist.net/anime/1690",
+    "https://notify.moe/anime/4aGfcKiig"
+  ],
+  "synopsis": {
+    "text": "Zearth, a colossal mecha of black armor, becomes the unexpected responsibility of a group of unsuspecting children during their summer camp. While exploring a hidden cave by the beach, they stumble upon a high-tech hideout and its enigmatic occupant, Kokopelli. Claiming to be a game developer, he invites the children to test his latest creation: a game where they pilot Zearth to defend Earth from 15 alien invaders.\n\nEager for adventure, all but one of the children sign a contract, only to discover that the game is more real and terrifying than they ever imagined. The battles are no simulation, and the consequences of their actions become all too real. As they grapple with the horrors of war, they also face an even greater challenge: finding a way to stop the game before it's too late. With no option to cancel the contract, they must navigate the complexities of their new reality, confronting their fears and the stark truth about the energy source powering Zearth. In this high-stakes game, the children must rely on each other to survive, learning valuable lessons about friendship, sacrifice, and the true cost of victory.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "769bfba173c0a652",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.589794933461601,
+    "arithmeticGeometricMean": 7.589563387803975,
+    "median": 7.583571428571428,
+    "hash": "769bfba173c0a652",
+    "lastUpdate": "2024-05-09"
+  }
+}

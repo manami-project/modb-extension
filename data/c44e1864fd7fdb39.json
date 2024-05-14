@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/hello-kitty-no-cinderella-2001",
+    "https://kitsu.io/anime/10737",
+    "https://myanimelist.net/anime/30264",
+    "https://notify.moe/anime/vM_wtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c44e1864fd7fdb39",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.8693333333333335,
+    "arithmeticGeometricMean": 5.845841885492873,
+    "median": 5.79,
+    "hash": "c44e1864fd7fdb39",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/131598",
+    "https://anime-planet.com/anime/7-eleven-tokimeki-wa-sugusoba-ni",
+    "https://anisearch.com/anime/15923",
+    "https://kitsu.io/anime/45860",
+    "https://myanimelist.net/anime/48570"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "656d536c48c55946",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.116735621521336,
+    "arithmeticGeometricMean": 6.112502388139809,
+    "median": 6.166818181818181,
+    "hash": "656d536c48c55946",
+    "lastUpdate": "2024-05-07"
+  }
+}

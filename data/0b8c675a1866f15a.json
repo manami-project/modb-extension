@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16029",
+    "https://anilist.co/anime/129191",
+    "https://anime-planet.com/anime/the-strongest-sage-with-the-weakest-crest",
+    "https://anisearch.com/anime/15933",
+    "https://kitsu.io/anime/44025",
+    "https://livechart.me/anime/10375",
+    "https://myanimelist.net/anime/47161",
+    "https://notify.moe/anime/k5_-RoLGR"
+  ],
+  "synopsis": {
+    "text": "The most powerful sage in history, Mathias, finds himself limited by his magical crest and decides to reincarnate for a chance at true greatness. Reborn as a young boy with the perfect crest for magical combat, Mathias is dismayed to discover that the world he now inhabits has lost much of its magical knowledge, and his crest is considered the weakest. Despite this setback, Mathias is determined to prove his worth and reclaim his title as the world's strongest sage. As dark forces threaten to engulf the land, Mathias must draw upon his vast knowledge from his previous life to stand against the enemy and restore magic to its former glory. With the odds stacked against him, Mathias sets out to prove that the crest of failure is a title he will not accept. Will he be able to overcome the challenges that lie ahead and become the strongest sage once again? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b8c675a1866f15a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.5379163574520724,
+    "arithmeticGeometricMean": 6.529874636700735,
+    "median": 6.651515151515152,
+    "hash": "0b8c675a1866f15a",
+    "lastUpdate": "2024-05-09"
+  }
+}

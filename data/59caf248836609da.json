@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4623",
+    "https://anilist.co/anime/2566",
+    "https://anime-planet.com/anime/uchuujin-tanaka-tarou",
+    "https://anisearch.com/anime/3667",
+    "https://kitsu.io/anime/2331",
+    "https://myanimelist.net/anime/2566",
+    "https://notify.moe/anime/oD4scFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "59caf248836609da",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.711419294990724,
+    "arithmeticGeometricMean": 5.682865614700409,
+    "median": 5.897727272727273,
+    "hash": "59caf248836609da",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11230",
+    "https://anilist.co/anime/102294",
+    "https://anime-planet.com/anime/lao-fu-zi-shui-hu-chuan",
+    "https://anisearch.com/anime/10603",
+    "https://kitsu.io/anime/10646",
+    "https://myanimelist.net/anime/30096",
+    "https://notify.moe/anime/J_tQpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b5530fe024f5cf19",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.552415584415584,
+    "arithmeticGeometricMean": 5.517767089554815,
+    "median": 5.0,
+    "hash": "b5530fe024f5cf19",
+    "lastUpdate": "2024-05-08"
+  }
+}

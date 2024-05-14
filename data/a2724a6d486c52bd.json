@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6719",
+    "https://anilist.co/anime/6988",
+    "https://anime-planet.com/anime/doraemon-movie-30-nobitas-great-mermaid-naval-battle",
+    "https://anisearch.com/anime/5569",
+    "https://kitsu.io/anime/4824",
+    "https://livechart.me/anime/8208",
+    "https://myanimelist.net/anime/6988",
+    "https://notify.moe/anime/J8DRpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a2724a6d486c52bd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.049598098330241,
+    "arithmeticGeometricMean": 7.035335440017871,
+    "median": 7.175454545454546,
+    "hash": "a2724a6d486c52bd",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6777",
+    "https://anilist.co/anime/6582",
+    "https://anime-planet.com/anime/tentai-senshi-sunred-2",
+    "https://anisearch.com/anime/5579",
+    "https://kitsu.io/anime/4622",
+    "https://livechart.me/anime/6973",
+    "https://myanimelist.net/anime/6582",
+    "https://notify.moe/anime/WWt6cKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "362d52f48738bf96",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.520384132873928,
+    "arithmeticGeometricMean": 7.507983401785547,
+    "median": 7.83,
+    "hash": "362d52f48738bf96",
+    "lastUpdate": "2024-05-10"
+  }
+}

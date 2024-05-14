@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/784",
+    "https://anilist.co/anime/258",
+    "https://anime-planet.com/anime/lament-of-the-lamb",
+    "https://anisearch.com/anime/2502",
+    "https://kitsu.io/anime/233",
+    "https://livechart.me/anime/6087",
+    "https://myanimelist.net/anime/258",
+    "https://notify.moe/anime/lovhcFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7bdf1dd3d1d6a546",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.204445799098861,
+    "arithmeticGeometricMean": 6.19935801881521,
+    "median": 6.136,
+    "hash": "7bdf1dd3d1d6a546",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139283",
+    "https://anime-planet.com/anime/dats-showtime",
+    "https://anisearch.com/anime/17713",
+    "https://kitsu.io/anime/45481",
+    "https://myanimelist.net/anime/42584"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e37bbf42633bdb44",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.239298701298702,
+    "arithmeticGeometricMean": 6.23443788083982,
+    "median": 6.052597402597402,
+    "hash": "e37bbf42633bdb44",
+    "lastUpdate": "2024-05-07"
+  }
+}

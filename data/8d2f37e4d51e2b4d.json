@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/5421",
+    "https://anime-planet.com/anime/ark",
+    "https://anisearch.com/anime/16134",
+    "https://kitsu.io/anime/4096",
+    "https://myanimelist.net/anime/5421",
+    "https://notify.moe/anime/ebtC5Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8d2f37e4d51e2b4d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.252967841682128,
+    "arithmeticGeometricMean": 6.223858456989959,
+    "median": 6.291,
+    "hash": "8d2f37e4d51e2b4d",
+    "lastUpdate": "2024-05-05"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5509",
+    "https://anilist.co/anime/9348",
+    "https://anime-planet.com/anime/chibi-maruko-chan-watashi-no-suki-na-uta",
+    "https://anisearch.com/anime/4552",
+    "https://kitsu.io/anime/5695",
+    "https://livechart.me/anime/11113",
+    "https://myanimelist.net/anime/9348",
+    "https://notify.moe/anime/SACZtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "37ecb35fea44e600",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.880382189239333,
+    "arithmeticGeometricMean": 6.734918761672573,
+    "median": 7.668,
+    "hash": "37ecb35fea44e600",
+    "lastUpdate": "2024-05-09"
+  }
+}

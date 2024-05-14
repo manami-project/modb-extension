@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8983",
+    "https://anilist.co/anime/12623",
+    "https://anime-planet.com/anime/deco-27-egomama",
+    "https://anisearch.com/anime/7618",
+    "https://kitsu.io/anime/6776",
+    "https://myanimelist.net/anime/12623",
+    "https://notify.moe/anime/KxPHtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8af12b1111d835e4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.55779485820302,
+    "arithmeticGeometricMean": 6.541369271980617,
+    "median": 6.7272727272727275,
+    "hash": "8af12b1111d835e4",
+    "lastUpdate": "2024-05-07"
+  }
+}

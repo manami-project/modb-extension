@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10684",
+    "https://anilist.co/anime/20744",
+    "https://anime-planet.com/anime/gourmet-girl-graffiti",
+    "https://anisearch.com/anime/9688",
+    "https://kitsu.io/anime/8647",
+    "https://livechart.me/anime/616",
+    "https://myanimelist.net/anime/24629",
+    "https://notify.moe/anime/Auv1pKmmg"
+  ],
+  "synopsis": {
+    "text": "Tokyo-based middle school student, Ryou Machiko, finds herself living independently following the loss of her beloved grandmother. Despite her young age, Ryou has mastered the art of cooking, a skill she inherited from her grandmother. However, she begins to notice a lackluster taste in her dishes, despite their appealing appearance and aroma.\n\nWhen her second cousin, Kirin Morino, starts to stay with her on weekends to attend the same cram school, Ryou discovers a new secret ingredient to enhance her culinary creations: shared meals with loved ones. As Ryou's friend Shiina joins their gastronomic journey, the trio learns that the key to delicious food lies not only in its preparation but also in the company it is shared with.\n\nThroughout the series, Ryou continues to refine her culinary skills, whipping up a variety of dishes for her friends, neighbors, and anyone else who visits her apartment. \"Koufuku Graffiti\" is a heartwarming tale that intertwines the joys of cooking and the happiness that comes from sharing meals with those closest to us.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41be8d4464513c8d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.798290931290932,
+    "arithmeticGeometricMean": 6.794497219861682,
+    "median": 6.78405982905983,
+    "hash": "41be8d4464513c8d",
+    "lastUpdate": "2024-05-09"
+  }
+}

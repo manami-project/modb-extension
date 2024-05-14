@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4695",
+    "https://anilist.co/anime/13201",
+    "https://anime-planet.com/anime/monster-rancher-2",
+    "https://anisearch.com/anime/3829",
+    "https://kitsu.io/anime/6909",
+    "https://livechart.me/anime/5607",
+    "https://myanimelist.net/anime/13201",
+    "https://notify.moe/anime/bFNvtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fea094649ad63465",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.63815687487116,
+    "arithmeticGeometricMean": 6.627750626045556,
+    "median": 6.643777777777778,
+    "hash": "fea094649ad63465",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3056",
+    "https://anilist.co/anime/4742",
+    "https://anime-planet.com/anime/lets-dance-with-papa",
+    "https://anisearch.com/anime/1554",
+    "https://kitsu.io/anime/3771",
+    "https://livechart.me/anime/7081",
+    "https://myanimelist.net/anime/4742",
+    "https://notify.moe/anime/-9I95Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "28688a378dfa607f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.751147804576376,
+    "arithmeticGeometricMean": 5.724044192332456,
+    "median": 5.954545454545454,
+    "hash": "28688a378dfa607f",
+    "lastUpdate": "2024-05-09"
+  }
+}

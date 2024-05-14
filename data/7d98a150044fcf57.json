@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15269",
+    "https://anilist.co/anime/113363",
+    "https://anime-planet.com/anime/kaijuu-decode",
+    "https://anisearch.com/anime/15091",
+    "https://kitsu.io/anime/42725",
+    "https://livechart.me/anime/9675",
+    "https://myanimelist.net/anime/40717",
+    "https://notify.moe/anime/8MvGOKkMg"
+  ],
+  "synopsis": {
+    "text": "After the devastating event known as 'Skyfall', a once orbiting space colony plummeted to Earth, creating a massive crater and giving rise to a new breed of gene-mutated creatures known as Kaiju. In this dangerous habitat, an avatar named Ray ventures into the wreckage, seeking valuable artifacts amidst the rubble. During his search, he encounters a mysterious girl named Mil. Her presence in the crater raises questions about her true identity and intentions, leaving Ray to wonder if she is a fellow human or one of the enigmatic Kaiju.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d98a150044fcf57",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.7518552875695725,
+    "arithmeticGeometricMean": 5.751275474548548,
+    "median": 5.7518552875695725,
+    "hash": "7d98a150044fcf57",
+    "lastUpdate": "2024-05-09"
+  }
+}

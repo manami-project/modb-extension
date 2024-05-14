@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/124196",
+    "https://anime-planet.com/anime/king-gnu-prayer-x",
+    "https://myanimelist.net/anime/44086"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c3896368da8fe5b2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.449030303030303,
+    "arithmeticGeometricMean": 7.445151822045378,
+    "median": 7.348000000000001,
+    "hash": "c3896368da8fe5b2",
+    "lastUpdate": "2024-05-07"
+  }
+}

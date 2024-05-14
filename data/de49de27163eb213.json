@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6944",
+    "https://anilist.co/anime/10757",
+    "https://anime-planet.com/anime/shinsetsu-kachikachi-yama",
+    "https://anisearch.com/anime/689",
+    "https://kitsu.io/anime/11510",
+    "https://myanimelist.net/anime/31912",
+    "https://notify.moe/anime/vktjtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de49de27163eb213",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.163849456665782,
+    "arithmeticGeometricMean": 5.123379422535416,
+    "median": 4.95,
+    "hash": "de49de27163eb213",
+    "lastUpdate": "2024-05-08"
+  }
+}

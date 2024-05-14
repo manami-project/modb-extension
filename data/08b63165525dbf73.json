@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139511",
+    "https://anime-planet.com/anime/zutomayo-seigi",
+    "https://kitsu.io/anime/48385",
+    "https://myanimelist.net/anime/50007"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "08b63165525dbf73",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.641696969696969,
+    "arithmeticGeometricMean": 6.640360309348335,
+    "median": 6.526,
+    "hash": "08b63165525dbf73",
+    "lastUpdate": "2024-05-07"
+  }
+}

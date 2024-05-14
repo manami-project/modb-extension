@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143917",
+    "https://anime-planet.com/anime/peaky-p-key-wish-you-luck",
+    "https://kitsu.io/anime/47027",
+    "https://myanimelist.net/anime/51451"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bb3506dbefd4e334",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.033151515151515,
+    "arithmeticGeometricMean": 7.025695096837,
+    "median": 7.114,
+    "hash": "bb3506dbefd4e334",
+    "lastUpdate": "2024-05-07"
+  }
+}

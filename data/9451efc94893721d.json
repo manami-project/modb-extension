@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/7277",
+    "https://myanimelist.net/anime/11465"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9451efc94893721d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.524081632653061,
+    "arithmeticGeometricMean": 5.47686988285099,
+    "median": 5.524081632653061,
+    "hash": "9451efc94893721d",
+    "lastUpdate": "2024-05-07"
+  }
+}

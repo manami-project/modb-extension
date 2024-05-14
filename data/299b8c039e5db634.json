@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140618",
+    "https://anime-planet.com/anime/bonkei",
+    "https://anisearch.com/anime/12512",
+    "https://kitsu.io/anime/47055"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "299b8c039e5db634",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.878942486085343,
+    "arithmeticGeometricMean": 4.841712143848666,
+    "median": 4.878942486085343,
+    "hash": "299b8c039e5db634",
+    "lastUpdate": "2024-05-07"
+  }
+}

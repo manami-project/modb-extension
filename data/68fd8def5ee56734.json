@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/youjo-shenki-episode-0",
+    "https://anisearch.com/anime/12418",
+    "https://kitsu.io/anime/13222",
+    "https://livechart.me/anime/4405",
+    "https://myanimelist.net/anime/34723",
+    "https://notify.moe/anime/4F8M2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "68fd8def5ee56734",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.167493775375763,
+    "arithmeticGeometricMean": 6.15056736636167,
+    "median": 5.958,
+    "hash": "68fd8def5ee56734",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12350",
+    "https://anilist.co/anime/87526",
+    "https://anime-planet.com/anime/please-tell-me-galko-chan-ova",
+    "https://anisearch.com/anime/11731",
+    "https://kitsu.io/anime/12521",
+    "https://livechart.me/anime/2302",
+    "https://myanimelist.net/anime/33949",
+    "https://notify.moe/anime/relz2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0242bcc65db706d8",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.189326272933416,
+    "arithmeticGeometricMean": 7.186668398751044,
+    "median": 7.158256029684601,
+    "hash": "0242bcc65db706d8",
+    "lastUpdate": "2024-05-09"
+  }
+}

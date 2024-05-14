@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14733",
+    "https://anilist.co/anime/107984",
+    "https://anime-planet.com/anime/look-i-can-see-your-ears-2",
+    "https://anisearch.com/anime/14195",
+    "https://kitsu.io/anime/42158",
+    "https://livechart.me/anime/9247",
+    "https://myanimelist.net/anime/39380",
+    "https://notify.moe/anime/7YpN9d6iR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9a1647eff6648b52",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.443807977736549,
+    "arithmeticGeometricMean": 7.4301271217610925,
+    "median": 7.557272727272728,
+    "hash": "9a1647eff6648b52",
+    "lastUpdate": "2024-05-10"
+  }
+}

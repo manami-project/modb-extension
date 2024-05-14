@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12509",
+    "https://anilist.co/anime/99642",
+    "https://anime-planet.com/anime/pretty-cure-movie-dream-star",
+    "https://anisearch.com/anime/11888",
+    "https://kitsu.io/anime/13664",
+    "https://livechart.me/anime/2395",
+    "https://myanimelist.net/anime/34302",
+    "https://notify.moe/anime/GG842KmiR"
+  ],
+  "synopsis": {
+    "text": "And so begins a brand-new tale, unfolding in a world adorned with shimmering radiance and resplendent cherry blossoms. Here, the Precures encounter a solitary young girl, her name whispered as Sakura. Hailing from a realm beyond their own, Sakura seeks their aid against the nefarious Karasutengu, a crow-billed goblin with a sinister intent to pilfer the world's beauty.\n\nIn this ethereal landscape, the Precures unite, led by the spirited Usami Ichika, known in her transformed state as Cure Whip. Together with valiant allies from Go! Princess Precure and Mahou Tsukai Precure!, they embark on a daring rescue mission. The object of their quest? Sakura's cherished friend, a fox named Shizuku, who has fallen prey to the villainous Karasutengu's clutches.\n\nAs the cherry blossoms dance in the wind, the stage is set for a thrilling adventure. This spring, the Precures are called upon to protect beauty, friendship, and the bonds that tie us together. Will they succeed in this enchanting yet perilous world? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b0807fc6f56203a5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.962227758635922,
+    "arithmeticGeometricMean": 6.953912633144532,
+    "median": 7.11,
+    "hash": "b0807fc6f56203a5",
+    "lastUpdate": "2024-05-09"
+  }
+}

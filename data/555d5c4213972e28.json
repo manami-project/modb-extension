@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17598",
+    "https://anilist.co/anime/126439",
+    "https://anime-planet.com/anime/shan-hai-juelun",
+    "https://anisearch.com/anime/18229",
+    "https://kitsu.io/anime/46694",
+    "https://myanimelist.net/anime/51558"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "555d5c4213972e28",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.909090909090908,
+    "arithmeticGeometricMean": 5.909090909090908,
+    "median": 5.909090909090908,
+    "hash": "555d5c4213972e28",
+    "lastUpdate": "2024-05-08"
+  }
+}

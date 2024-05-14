@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5267",
+    "https://anilist.co/anime/18743",
+    "https://anime-planet.com/anime/money-wars-nerawareta-waterfront-keikaku",
+    "https://anisearch.com/anime/4340",
+    "https://kitsu.io/anime/9134",
+    "https://myanimelist.net/anime/18743",
+    "https://notify.moe/anime/PKO-tFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "03d6c7b9b8658db1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.253670995670996,
+    "arithmeticGeometricMean": 5.226989743303367,
+    "median": 5.314285714285714,
+    "hash": "03d6c7b9b8658db1",
+    "lastUpdate": "2024-05-07"
+  }
+}

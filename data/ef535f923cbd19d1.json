@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103346",
+    "https://anime-planet.com/anime/usaband",
+    "https://kitsu.io/anime/12854",
+    "https://myanimelist.net/anime/32639",
+    "https://notify.moe/anime/QCvZ2Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef535f923cbd19d1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.143318181818182,
+    "arithmeticGeometricMean": 5.136282182273177,
+    "median": 5.035,
+    "hash": "ef535f923cbd19d1",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16782",
+    "https://anilist.co/anime/114558",
+    "https://anime-planet.com/anime/qing-chi-hong-xiaodou-ba-di-san-ji",
+    "https://livechart.me/anime/10032",
+    "https://myanimelist.net/anime/41509",
+    "https://notify.moe/anime/727btSGGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb51c43ee3c9b37f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.346181818181819,
+    "arithmeticGeometricMean": 6.3262554556147,
+    "median": 6.346181818181819,
+    "hash": "cb51c43ee3c9b37f",
+    "lastUpdate": "2024-05-09"
+  }
+}

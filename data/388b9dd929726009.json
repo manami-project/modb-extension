@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8620",
+    "https://anilist.co/anime/11433",
+    "https://anime-planet.com/anime/waiting-in-the-summer",
+    "https://anisearch.com/anime/7266",
+    "https://kitsu.io/anime/6508",
+    "https://livechart.me/anime/1141",
+    "https://myanimelist.net/anime/11433",
+    "https://notify.moe/anime/KRTItKiiR"
+  ],
+  "synopsis": {
+    "text": "Ichika Takatsuki, a mysterious newcomer, captures Kaito Kirishima's attention when he encounters her after a puzzling incident involving a blue light and a near-fall from a bridge. Inspired by their new camera, Kaito and his friends seize the opportunity to create a film during their summer vacation, casting Ichika as the lead. As the group delves deeper into their filmmaking journey, they not only uncover the intricacies of movie production but also explore the evolving dynamics of their friendships. Amidst the excitement and challenges of their project, Kaito and Ichika find themselves drawn to one another, setting the stage for a summer filled with self-discovery, love, and cherished memories.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "388b9dd929726009",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.462106658630226,
+    "arithmeticGeometricMean": 7.4613579002460035,
+    "median": 7.4376530612244895,
+    "hash": "388b9dd929726009",
+    "lastUpdate": "2024-05-08"
+  }
+}

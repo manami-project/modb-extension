@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6956",
+    "https://anilist.co/anime/17467",
+    "https://anime-planet.com/anime/otoko-ippiki-gaki-daishou",
+    "https://anisearch.com/anime/5627",
+    "https://kitsu.io/anime/9172",
+    "https://livechart.me/anime/11678",
+    "https://myanimelist.net/anime/17467",
+    "https://notify.moe/anime/0rTatKimg"
+  ],
+  "synopsis": {
+    "text": "Weekly Shonen Jump's manga-turned-anime, Otoko Ippiki Gaki Daishou, follows the unconventional journey of junior high student Mankichi Togawa and his one-eyed ally, Ginji. With a relentless ambition to become Japan's top gang leader, the duo embarks on a series of thrilling escapades filled with trouble and action-packed fights. Aired Monday through Saturday, each 10-minute episode unravels the gripping tale of their quest for dominance in the world of gangs.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fa1b4b279be338da",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.735976994434138,
+    "arithmeticGeometricMean": 5.6740159661573735,
+    "median": 5.0,
+    "hash": "fa1b4b279be338da",
+    "lastUpdate": "2024-05-09"
+  }
+}

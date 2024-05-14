@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143287",
+    "https://anime-planet.com/anime/rick-and-morty-the-great-yokai-battle-of-akihabara",
+    "https://kitsu.io/anime/45317"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a7aff90bc89b0776",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.376818181818181,
+    "arithmeticGeometricMean": 6.376811369621343,
+    "median": 6.376818181818181,
+    "hash": "a7aff90bc89b0776",
+    "lastUpdate": "2024-05-07"
+  }
+}

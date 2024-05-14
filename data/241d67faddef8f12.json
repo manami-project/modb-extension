@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12841",
+    "https://anilist.co/anime/103417",
+    "https://anime-planet.com/anime/re-vale-no-doubt",
+    "https://anisearch.com/anime/12537",
+    "https://kitsu.io/anime/13536",
+    "https://myanimelist.net/anime/35654",
+    "https://notify.moe/anime/yVVV2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "241d67faddef8f12",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.958657301881792,
+    "arithmeticGeometricMean": 6.943252517885928,
+    "median": 7.181818181818182,
+    "hash": "241d67faddef8f12",
+    "lastUpdate": "2024-05-07"
+  }
+}

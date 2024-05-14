@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8932",
+    "https://anilist.co/anime/10936",
+    "https://anime-planet.com/anime/the-everyday-tales-of-a-cat-god-ohanami-ghostbusters",
+    "https://anisearch.com/anime/7587",
+    "https://kitsu.io/anime/6414",
+    "https://livechart.me/anime/5969",
+    "https://myanimelist.net/anime/10936",
+    "https://notify.moe/anime/LPkIpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b0eab496536a92d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.492262920752717,
+    "arithmeticGeometricMean": 6.483176152568554,
+    "median": 6.582,
+    "hash": "6b0eab496536a92d",
+    "lastUpdate": "2024-05-09"
+  }
+}

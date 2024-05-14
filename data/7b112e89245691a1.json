@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11408",
+    "https://anilist.co/anime/104076",
+    "https://anime-planet.com/anime/blue-room",
+    "https://anisearch.com/anime/6789",
+    "https://kitsu.io/anime/8625",
+    "https://myanimelist.net/anime/22415",
+    "https://notify.moe/anime/n9G1tFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7b112e89245691a1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.542128279883382,
+    "arithmeticGeometricMean": 4.486208887709263,
+    "median": 4.47,
+    "hash": "7b112e89245691a1",
+    "lastUpdate": "2024-05-07"
+  }
+}

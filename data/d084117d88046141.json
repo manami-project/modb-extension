@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4944",
+    "https://anilist.co/anime/6071",
+    "https://anime-planet.com/anime/11-piki-no-neko",
+    "https://anisearch.com/anime/3890",
+    "https://kitsu.io/anime/4411",
+    "https://myanimelist.net/anime/6071",
+    "https://notify.moe/anime/_UT35KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d084117d88046141",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.6303209647495365,
+    "arithmeticGeometricMean": 5.619492102474819,
+    "median": 5.613636363636363,
+    "hash": "d084117d88046141",
+    "lastUpdate": "2024-05-08"
+  }
+}

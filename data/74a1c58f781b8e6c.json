@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3962",
+    "https://anilist.co/anime/16454",
+    "https://anime-planet.com/anime/surf-side-high-school",
+    "https://anisearch.com/anime/2452",
+    "https://kitsu.io/anime/7431",
+    "https://myanimelist.net/anime/16454",
+    "https://notify.moe/anime/kmsFtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "74a1c58f781b8e6c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.2752009894867036,
+    "arithmeticGeometricMean": 3.1618399531180854,
+    "median": 4.0,
+    "hash": "74a1c58f781b8e6c",
+    "lastUpdate": "2024-05-07"
+  }
+}

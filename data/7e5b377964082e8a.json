@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12989",
+    "https://anilist.co/anime/98474",
+    "https://anime-planet.com/anime/high-and-low-g-sword",
+    "https://anisearch.com/anime/13926",
+    "https://kitsu.io/anime/13491",
+    "https://myanimelist.net/anime/35156",
+    "https://notify.moe/anime/4Den2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7e5b377964082e8a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.588875077303649,
+    "arithmeticGeometricMean": 4.580880258630517,
+    "median": 4.5227272727272725,
+    "hash": "7e5b377964082e8a",
+    "lastUpdate": "2024-05-07"
+  }
+}

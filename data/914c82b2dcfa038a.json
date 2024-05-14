@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169505",
+    "https://anime-planet.com/anime/off-stage",
+    "https://kitsu.io/anime/40840",
+    "https://myanimelist.net/anime/35783",
+    "https://notify.moe/anime/6LDO2FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "914c82b2dcfa038a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.203,
+    "arithmeticGeometricMean": 5.132265646526568,
+    "median": 5.203,
+    "hash": "914c82b2dcfa038a",
+    "lastUpdate": "2024-05-07"
+  }
+}

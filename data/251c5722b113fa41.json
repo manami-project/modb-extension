@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7198",
+    "https://anilist.co/anime/6830",
+    "https://anime-planet.com/anime/hinomaru-hatanosuke-inazuma-gumi-tobatsu-no-maki",
+    "https://anisearch.com/anime/5947",
+    "https://kitsu.io/anime/4732",
+    "https://myanimelist.net/anime/6830",
+    "https://notify.moe/anime/u_965FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "251c5722b113fa41",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.663259475218659,
+    "arithmeticGeometricMean": 4.624705604799849,
+    "median": 4.63,
+    "hash": "251c5722b113fa41",
+    "lastUpdate": "2024-05-08"
+  }
+}

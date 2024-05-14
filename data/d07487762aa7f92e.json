@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16736",
+    "https://anilist.co/anime/122039",
+    "https://anime-planet.com/anime/xiyou-ji-zhi-zaishi-yao-wang",
+    "https://anisearch.com/anime/15892",
+    "https://kitsu.io/anime/47116",
+    "https://myanimelist.net/anime/45654"
+  ],
+  "synopsis": {
+    "text": "Many eons ago, the first demon, Yuan Di, emerged amidst the Chaos and was revered as the Demon Primogenitor. In the present day, the mischievous Monkey King is released from his imprisonment by Tang Monk, who seeks his protection on a quest for Buddhist scriptures. Their journey takes a perilous turn when the Monkey King unintentionally unleashes an ancient demon king during a temple visit. Enraged by his long captivity, the demon king abducts Tang Monk and vows to wreak havoc upon the world. With only three days to save their master and prevent impending doom, the Monkey King and his disciples must confront the ancient demon king in an epic battle that will determine the fate of the world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d07487762aa7f92e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.9090426716141,
+    "arithmeticGeometricMean": 6.907366629939153,
+    "median": 6.840636363636364,
+    "hash": "d07487762aa7f92e",
+    "lastUpdate": "2024-05-08"
+  }
+}

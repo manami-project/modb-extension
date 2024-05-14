@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/715",
+    "https://anilist.co/anime/80",
+    "https://anime-planet.com/anime/mobile-suit-gundam",
+    "https://anisearch.com/anime/3329",
+    "https://kitsu.io/anime/59",
+    "https://livechart.me/anime/3938",
+    "https://myanimelist.net/anime/80",
+    "https://notify.moe/anime/aucpcKimR"
+  ],
+  "synopsis": {
+    "text": "Century 0079, humanity is embroiled in a devastating conflict. The Principality of Zeon, a renegade space colony, has initiated a war for independence against the Earth Federation, utilizing colossal humanoid machines called mobile suits to seize control of half the Earth's surface. In response, the Earth Federation develops its own mobile suit prototype, the Gundam, at a distant space colony. However, when Zeon forces launch a surprise attack on the colony, the Gundam falls into the hands of an unlikely hero - a young civilian named Amuro Ray.\n\nThrust into the heart of the conflict, Amuro finds himself piloting the Gundam against the skilled Zeon ace pilot, Char Aznable. As he navigates the perils of war, Amuro discovers his unique abilities as a Newtype, a new stage of human evolution. Joined by a diverse crew of civilians and cadets aboard the warship White Base, Amuro and his comrades embark on a journey that will change the course of the war and their own lives forever. In the face of adversity, this group of unlikely heroes rises to the challenge, determined to protect their home and the future of humanity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c65d53a9237cbb11",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.590175349087004,
+    "arithmeticGeometricMean": 7.585787661002234,
+    "median": 7.741578947368421,
+    "hash": "c65d53a9237cbb11",
+    "lastUpdate": "2024-05-09"
+  }
+}

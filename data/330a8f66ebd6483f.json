@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17164",
+    "https://anilist.co/anime/141899",
+    "https://anime-planet.com/anime/busted-darklord",
+    "https://anisearch.com/anime/17061",
+    "https://kitsu.io/anime/45775",
+    "https://myanimelist.net/anime/50411"
+  ],
+  "synopsis": {
+    "text": "The son of a formidable demon lord, Yu Renjie, is thrust into a perilous mission to secure his clan's survival and legitimacy. Enrolled in a prestigious Hero's Academy that only accepts the finest and most virtuous students, Renjie's objective is to acquire a coveted Hero's Certificate. However, the stakes are high, as unmasking his demonic heritage could lead to immediate execution by the academy's righteous knights. On his first day, Renjie discovers his personal information has been compromised, leaving him no choice but to adopt a female disguise to conceal his true identity. Brace yourself for a thrilling and comical adventure as Renjie navigates his way through this treacherous academic journey!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "330a8f66ebd6483f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.339372912801485,
+    "arithmeticGeometricMean": 6.309997033139296,
+    "median": 6.179591836734693,
+    "hash": "330a8f66ebd6483f",
+    "lastUpdate": "2024-05-08"
+  }
+}

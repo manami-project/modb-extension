@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6",
+    "https://anilist.co/anime/1124",
+    "https://anime-planet.com/anime/crest-of-the-stars-birth",
+    "https://anisearch.com/anime/3304",
+    "https://kitsu.io/anime/1008",
+    "https://livechart.me/anime/6910",
+    "https://myanimelist.net/anime/1124",
+    "https://notify.moe/anime/NBe15FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "63712c14ff3aa40a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.79361250993904,
+    "arithmeticGeometricMean": 6.766953533850393,
+    "median": 7.05,
+    "hash": "63712c14ff3aa40a",
+    "lastUpdate": "2024-05-09"
+  }
+}

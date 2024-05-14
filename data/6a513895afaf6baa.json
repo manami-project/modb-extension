@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/105929",
+    "https://anime-planet.com/anime/evisbeats-new-yoku",
+    "https://kitsu.io/anime/43475",
+    "https://myanimelist.net/anime/38500"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6a513895afaf6baa",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.641636363636363,
+    "arithmeticGeometricMean": 5.62906710918103,
+    "median": 5.46,
+    "hash": "6a513895afaf6baa",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18626",
+    "https://anime-planet.com/anime/garena-free-fire",
+    "https://livechart.me/anime/12657",
+    "https://myanimelist.net/anime/58849"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd64e642dc02eb31",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "bd64e642dc02eb31",
+    "lastUpdate": "2024-05-13"
+  }
+}

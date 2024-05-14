@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/120771",
+    "https://anime-planet.com/anime/manly-appetites-minegishi-loves-otsu",
+    "https://kitsu.io/anime/44975",
+    "https://myanimelist.net/anime/42044"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5908b3636a307097",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.368242424242425,
+    "arithmeticGeometricMean": 6.365801697570011,
+    "median": 6.2727272727272725,
+    "hash": "5908b3636a307097",
+    "lastUpdate": "2024-05-07"
+  }
+}

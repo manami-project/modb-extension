@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/8955",
+    "https://anime-planet.com/anime/orion",
+    "https://anisearch.com/anime/6818",
+    "https://kitsu.io/anime/5547",
+    "https://myanimelist.net/anime/8955",
+    "https://notify.moe/anime/z1dWtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5f17dfa2b714e9be",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.06617192331478,
+    "arithmeticGeometricMean": 3.9934141412395205,
+    "median": 4.545454545454545,
+    "hash": "5f17dfa2b714e9be",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103445",
+    "https://anime-planet.com/anime/origami-of-landscape",
+    "https://kitsu.io/anime/12972",
+    "https://myanimelist.net/anime/34633",
+    "https://notify.moe/anime/UwPW2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d757d8792af6be79",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.995,
+    "arithmeticGeometricMean": 4.971339003916615,
+    "median": 5.035,
+    "hash": "d757d8792af6be79",
+    "lastUpdate": "2024-05-07"
+  }
+}

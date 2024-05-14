@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9905",
+    "https://anilist.co/anime/18893",
+    "https://anime-planet.com/anime/aoki-hagane-no-arpeggio-ars-nova",
+    "https://anisearch.com/anime/4765",
+    "https://kitsu.io/anime/7769",
+    "https://livechart.me/anime/105",
+    "https://myanimelist.net/anime/18893",
+    "https://notify.moe/anime/JVKttFmmg"
+  ],
+  "synopsis": {
+    "text": "By 2039, the relentless march of global warming has left humanity reeling from rising sea levels and the loss of precious land. As if this wasn't enough, an enigmatic armada of warships, shrouded in mist and bristling with advanced weaponry, emerges from the depths of the oceans. Dubbed the Fleet of Fog, this formidable force wreaks havoc on the world's naval defenses, leaving humanity's fleets decimated and its trade routes crippled.\n\nFast forward 17 years, and the tides of fate bring together Gunzou Chihaya, a former marine academy student, and I-401, a rogue Fleet of Fog submarine with a humanoid avatar named Iona at its helm. In a surprising turn of events, Iona chooses to side with humanity, offering Chihaya and his friends a glimmer of hope in their struggle against the seemingly invincible Fleet of Fog.\n\nTogether, they form the Blue Steel, a daring group of privateers determined to challenge the Fleet of Fog's stranglehold on the seas. As they embark on this perilous journey, the fate of humanity rests in their hands. Will they succeed in turning the tide and reclaiming the oceans, or will they be swallowed by the mist, forever lost to the Fleet of Fog's unyielding might?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "16f7a86d61995da9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.328859746122524,
+    "arithmeticGeometricMean": 7.3276831021400355,
+    "median": 7.366734693877551,
+    "hash": "16f7a86d61995da9",
+    "lastUpdate": "2024-05-08"
+  }
+}

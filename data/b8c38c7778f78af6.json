@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14230",
+    "https://anilist.co/anime/103223",
+    "https://anime-planet.com/anime/bungo-stray-dogs-3rd-season",
+    "https://anisearch.com/anime/13766",
+    "https://kitsu.io/anime/41984",
+    "https://livechart.me/anime/3427",
+    "https://myanimelist.net/anime/38003",
+    "https://notify.moe/anime/gVOp2f-mR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8c38c7778f78af6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.116506550070138,
+    "arithmeticGeometricMean": 8.10959396662501,
+    "median": 8.23,
+    "hash": "b8c38c7778f78af6",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7901",
+    "https://anilist.co/anime/15525",
+    "https://anime-planet.com/anime/bokura-no-hero",
+    "https://anisearch.com/anime/6564",
+    "https://kitsu.io/anime/8876",
+    "https://myanimelist.net/anime/15525",
+    "https://notify.moe/anime/E7FxtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33cdd236a33745dc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.98843042671614,
+    "arithmeticGeometricMean": 4.96619647658953,
+    "median": 5.045454545454545,
+    "hash": "33cdd236a33745dc",
+    "lastUpdate": "2024-05-08"
+  }
+}

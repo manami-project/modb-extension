@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4408",
+    "https://anilist.co/anime/4737",
+    "https://anime-planet.com/anime/himitsukessha-taka-no-tsume",
+    "https://anisearch.com/anime/3606",
+    "https://kitsu.io/anime/3770",
+    "https://livechart.me/anime/7026",
+    "https://myanimelist.net/anime/4737",
+    "https://notify.moe/anime/w8I9cKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "674d51a912afbb7b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.379132962275819,
+    "arithmeticGeometricMean": 5.359981152612588,
+    "median": 5.337000000000001,
+    "hash": "674d51a912afbb7b",
+    "lastUpdate": "2024-05-09"
+  }
+}

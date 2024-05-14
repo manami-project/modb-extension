@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6940",
+    "https://anime-planet.com/anime/ari-to-kaeru",
+    "https://anisearch.com/anime/10585",
+    "https://myanimelist.net/anime/36701"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a301e1bdd3ba9637",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.967122448979591,
+    "arithmeticGeometricMean": 4.785770161721429,
+    "median": 4.967122448979591,
+    "hash": "a301e1bdd3ba9637",
+    "lastUpdate": "2024-05-07"
+  }
+}

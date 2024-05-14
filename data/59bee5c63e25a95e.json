@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/719",
+    "https://anilist.co/anime/86",
+    "https://anime-planet.com/anime/mobile-suit-gundam-zz",
+    "https://anisearch.com/anime/1602",
+    "https://kitsu.io/anime/65",
+    "https://livechart.me/anime/4683",
+    "https://myanimelist.net/anime/86",
+    "https://notify.moe/anime/IUppcFiig"
+  ],
+  "synopsis": {
+    "text": "Neo-Zeon, the remnants of the once formidable Axis Zeon, seizes the opportunity to rise to power in Universal Century 0088, as the Earth Federation and the Anti-Earth Union Group (AEUG) grapple with the aftermath of a devastating war. Led by the ambitious Newtype Haman Karn, Neo-Zeon sets its sights on conquering both Earth and the space colonies. Amidst this escalating conflict, the AEUG's flagship Argama finds refuge in the Side 1 colony Shangri-La for repairs.\n\nLiving in the colony is Judau Ashta, a resourceful 14-year-old junk dealer who is determined to provide for his younger sister's education. Stumbling upon an escape pod containing a former Titans pilot, Judau and his friends see an opportunity to steal a valuable mobile suit from the Argama. However, fate has other plans as they become entangled in a struggle against the encroaching Neo-Zeon forces.\n\nWith the Earth Federation's weakness exposed and the AEUG in dire need of reinforcements, Judau is entrusted with piloting the ZZ Gundam, the AEUG's latest mobile suit. As the battle to restore peace rages on, Judau and his friends find themselves traversing the vast expanse of space and Earth, becoming the first Gundam Team and the last hope against Neo-Zeon's tyranny.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "59bee5c63e25a95e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.6235672541743975,
+    "arithmeticGeometricMean": 6.61055827357641,
+    "median": 6.733636363636364,
+    "hash": "59bee5c63e25a95e",
+    "lastUpdate": "2024-05-09"
+  }
+}

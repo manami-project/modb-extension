@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12195",
+    "https://anilist.co/anime/102775",
+    "https://anime-planet.com/anime/nanocore",
+    "https://anisearch.com/anime/11512",
+    "https://kitsu.io/anime/12379",
+    "https://livechart.me/anime/8513",
+    "https://myanimelist.net/anime/33266",
+    "https://notify.moe/anime/0ESk2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "44e07a0153b49e95",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.766073593073593,
+    "arithmeticGeometricMean": 5.744564381973184,
+    "median": 5.621363636363636,
+    "hash": "44e07a0153b49e95",
+    "lastUpdate": "2024-05-09"
+  }
+}

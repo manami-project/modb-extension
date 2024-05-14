@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13141",
+    "https://anilist.co/anime/104932",
+    "https://anime-planet.com/anime/jealkb-makemagic",
+    "https://kitsu.io/anime/11717",
+    "https://myanimelist.net/anime/32346",
+    "https://notify.moe/anime/-7O3tFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9f125c9c267fca2f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.650727272727273,
+    "arithmeticGeometricMean": 5.632600873867922,
+    "median": 5.452272727272728,
+    "hash": "9f125c9c267fca2f",
+    "lastUpdate": "2024-05-08"
+  }
+}

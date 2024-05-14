@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13866",
+    "https://anime-planet.com/anime/sam-to-chip-no-wa-hachamecha-dai-race",
+    "https://anisearch.com/anime/14350",
+    "https://kitsu.io/anime/40660",
+    "https://myanimelist.net/anime/35033",
+    "https://notify.moe/anime/D_-v2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3b96973334d2f5c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.421244897959184,
+    "arithmeticGeometricMean": 5.3937059272782735,
+    "median": 5.184489795918367,
+    "hash": "f3b96973334d2f5c",
+    "lastUpdate": "2024-05-08"
+  }
+}

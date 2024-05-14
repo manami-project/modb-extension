@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7255",
+    "https://anilist.co/anime/7549",
+    "https://anime-planet.com/anime/quiz-magic-academy-the-original-animation-2",
+    "https://anisearch.com/anime/5840",
+    "https://kitsu.io/anime/5025",
+    "https://livechart.me/anime/7804",
+    "https://myanimelist.net/anime/7549",
+    "https://notify.moe/anime/RvZktKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e42ee359df1f686b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.804585740789824,
+    "arithmeticGeometricMean": 5.794778809788673,
+    "median": 5.857142857142857,
+    "hash": "e42ee359df1f686b",
+    "lastUpdate": "2024-05-09"
+  }
+}

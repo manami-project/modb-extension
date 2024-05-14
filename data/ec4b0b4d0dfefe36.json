@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3639",
+    "https://anilist.co/anime/2334",
+    "https://anime-planet.com/anime/the-three-musketeers-adventure-of-aramis",
+    "https://anisearch.com/anime/520",
+    "https://kitsu.io/anime/2114",
+    "https://myanimelist.net/anime/2334",
+    "https://notify.moe/anime/BF1PcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec4b0b4d0dfefe36",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.122518420355155,
+    "arithmeticGeometricMean": 6.1058927553626905,
+    "median": 6.37,
+    "hash": "ec4b0b4d0dfefe36",
+    "lastUpdate": "2024-05-08"
+  }
+}

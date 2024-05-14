@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/130283",
+    "https://anime-planet.com/anime/hatena-yume-ja-nai",
+    "https://kitsu.io/anime/48131",
+    "https://myanimelist.net/anime/55214"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77b3956b32541f1f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.362121212121212,
+    "arithmeticGeometricMean": 6.35811711258437,
+    "median": 6.53,
+    "hash": "77b3956b32541f1f",
+    "lastUpdate": "2024-05-07"
+  }
+}

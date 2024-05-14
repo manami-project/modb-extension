@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/ai-tenchi-muyo-recaps",
+    "https://anisearch.com/anime/10106",
+    "https://kitsu.io/anime/10064",
+    "https://myanimelist.net/anime/28531",
+    "https://notify.moe/anime/YtkstKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2f2adf42537a64f9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.269729128014842,
+    "arithmeticGeometricMean": 5.2655611567811755,
+    "median": 5.095918367346939,
+    "hash": "2f2adf42537a64f9",
+    "lastUpdate": "2024-05-05"
+  }
+}

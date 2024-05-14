@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4871",
+    "https://anilist.co/anime/2143",
+    "https://anime-planet.com/anime/saiyuki-reload-burial",
+    "https://anisearch.com/anime/3979",
+    "https://kitsu.io/anime/1940",
+    "https://livechart.me/anime/5790",
+    "https://myanimelist.net/anime/2143",
+    "https://notify.moe/anime/uSrLcFimg"
+  ],
+  "synopsis": {
+    "text": "Journey back in time to witness the untold beginnings of the legendary Saiyuki quartet and their epic adventure to the west. Prior to their unification, the lives of Sanzo, Goku, Gojyo, and Hakkai took vastly different paths.\n\nFollowing the tragic loss of his mentor, Sanzo embarks on a solitary quest to obtain the Seiten Sutra, leading him to the Palace of the Setting Sun after four arduous years. Haunted by nightmares and reluctant to accept his destiny as Genjo Sanzo, he heeds a mysterious call, ascending Mt. Gogyou. There, he encounters the enigmatic Son Goku, a celestial being exiled for five centuries, who inexplicably takes an interest in him.\n\nMeanwhile, Hakkai and Gojyo find themselves sharing a quiet existence, having already faced the judgement at the Palace of the Setting Sun. However, the unexpected arrival of an old acquaintance threatens to disrupt their newfound tranquility.\n\nIn this gripping prequel, explore the early days of the Saiyuki quartet, from Sanzo's initial trials alongside his master and Ukoku, to Goku and Sanzo's fateful first encounter, and Hakkai's life-altering decision to reside with Gojyo after facing the consequences of his past transgressions.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c38d829db2145e0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.628450039756161,
+    "arithmeticGeometricMean": 7.617662976134788,
+    "median": 7.693636363636363,
+    "hash": "3c38d829db2145e0",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/130780",
+    "https://anime-planet.com/anime/boku-to-sakana-no-monogatari",
+    "https://kitsu.io/anime/41705",
+    "https://myanimelist.net/anime/37010"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a64229518f4f9a62",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1899999999999995,
+    "arithmeticGeometricMean": 5.1206328410066835,
+    "median": 5.1899999999999995,
+    "hash": "a64229518f4f9a62",
+    "lastUpdate": "2024-05-07"
+  }
+}

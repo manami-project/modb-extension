@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14361",
+    "https://anilist.co/anime/116711",
+    "https://anime-planet.com/anime/ten",
+    "https://kitsu.io/anime/10500",
+    "https://myanimelist.net/anime/29669",
+    "https://notify.moe/anime/awuUtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8774a4141598ccc9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.552145454545455,
+    "arithmeticGeometricMean": 4.4786882563981925,
+    "median": 3.88,
+    "hash": "8774a4141598ccc9",
+    "lastUpdate": "2024-05-07"
+  }
+}

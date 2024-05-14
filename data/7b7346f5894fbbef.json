@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/150007",
+    "https://anime-planet.com/anime/ninja-bugei-chou-pilot",
+    "https://kitsu.io/anime/46322",
+    "https://livechart.me/anime/11676",
+    "https://myanimelist.net/anime/40302"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7b7346f5894fbbef",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.360181818181818,
+    "arithmeticGeometricMean": 5.336141382051881,
+    "median": 5.44,
+    "hash": "7b7346f5894fbbef",
+    "lastUpdate": "2024-05-09"
+  }
+}

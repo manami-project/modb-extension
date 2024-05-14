@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11089",
+    "https://anilist.co/anime/111941",
+    "https://anime-planet.com/anime/minikui-ahiru-no-ko",
+    "https://anisearch.com/anime/10426",
+    "https://kitsu.io/anime/13049",
+    "https://myanimelist.net/anime/34162",
+    "https://notify.moe/anime/SKRG2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d0b529eeb6bdac87",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.648785405071119,
+    "arithmeticGeometricMean": 5.632062224111981,
+    "median": 5.6899999999999995,
+    "hash": "d0b529eeb6bdac87",
+    "lastUpdate": "2024-05-08"
+  }
+}

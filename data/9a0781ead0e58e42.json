@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16633",
+    "https://anilist.co/anime/131994",
+    "https://anime-planet.com/anime/xiongshi-shaonian",
+    "https://anisearch.com/anime/16394",
+    "https://kitsu.io/anime/47811",
+    "https://myanimelist.net/anime/52769"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9a0781ead0e58e42",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.466818181818182,
+    "arithmeticGeometricMean": 7.466461700559051,
+    "median": 7.466818181818182,
+    "hash": "9a0781ead0e58e42",
+    "lastUpdate": "2024-05-08"
+  }
+}

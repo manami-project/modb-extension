@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115360",
+    "https://anime-planet.com/anime/kawa-wa-dare-no-mono",
+    "https://kitsu.io/anime/40943",
+    "https://myanimelist.net/anime/36403",
+    "https://notify.moe/anime/yVEO2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eda9a6318a759101",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.946181818181818,
+    "arithmeticGeometricMean": 5.931561946922555,
+    "median": 5.59,
+    "hash": "eda9a6318a759101",
+    "lastUpdate": "2024-05-06"
+  }
+}

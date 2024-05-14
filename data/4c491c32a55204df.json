@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12749",
+    "https://anilist.co/anime/8718",
+    "https://anime-planet.com/anime/itsumademo-tabibito",
+    "https://anisearch.com/anime/6695",
+    "https://kitsu.io/anime/5457",
+    "https://myanimelist.net/anime/8718",
+    "https://notify.moe/anime/vLjmtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c491c32a55204df",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.854857142857143,
+    "arithmeticGeometricMean": 4.845268016237566,
+    "median": 5.0,
+    "hash": "4c491c32a55204df",
+    "lastUpdate": "2024-05-08"
+  }
+}

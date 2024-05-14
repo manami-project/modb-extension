@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/the-witcher-nightmare-of-the-wolf",
+    "https://kitsu.io/anime/43730"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3305d726cd30fd73",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.960636363636364,
+    "arithmeticGeometricMean": 7.960627671838368,
+    "median": 7.960636363636364,
+    "hash": "3305d726cd30fd73",
+    "lastUpdate": "2024-05-07"
+  }
+}

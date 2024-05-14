@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11009",
+    "https://anilist.co/anime/21006",
+    "https://anime-planet.com/anime/the-eden-of-grisaia",
+    "https://anisearch.com/anime/10139",
+    "https://kitsu.io/anime/10155",
+    "https://livechart.me/anime/1351",
+    "https://myanimelist.net/anime/29095",
+    "https://notify.moe/anime/LaospFmiR"
+  ],
+  "synopsis": {
+    "text": "How much can a group of students achieve against powerful countries and organizations? This is the question that lies at the heart of Grisaia no Rukuen, the thrilling conclusion to the Grisaia trilogy. Picking up where Grisaia no Meikyuu left off, Yuuji Kazami finds himself accused of terrorism and in the custody of Ichigaya. Despite knowing his innocence, Ichigaya has plans for Yuuji that could change the course of international politics. But the girls of Mihama Academy won't let their beloved friend be used as a political pawn.\n\nAs the clock ticks down on Mihama Academy's closure due to financial issues, Amane, Makina, Sachi, Yumiko, and Michiru must confront their own pasts and the man who helped them find their purpose. With the reemergence of the terrorist Heath Oslo and the revelation of Yuuji's dark past, the girls must race against time to clear his name and save the school that brought them together.\n\nBut Yuuji's predicament is far more complicated than anyone could have imagined. As he becomes embroiled in a game of political chess revolving around a new, inconceivable system hidden within CIRS, the girls must rely on the help of a mysterious figure known only as Thanatos. Can they overcome insurmountable odds and save Yuuji from the shadows of his past? Only time will tell as the girls of Mihama Academy rise up to resist the forces that threaten to tear their world apart.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ec96d07ded870c7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.836806358685921,
+    "arithmeticGeometricMean": 7.8351125565486255,
+    "median": 7.817142857142857,
+    "hash": "6ec96d07ded870c7",
+    "lastUpdate": "2024-05-09"
+  }
+}

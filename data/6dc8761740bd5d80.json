@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14579",
+    "https://anilist.co/anime/106915",
+    "https://anime-planet.com/anime/manga-de-wakaru-fate-grand-order",
+    "https://anisearch.com/anime/14077",
+    "https://kitsu.io/anime/42099",
+    "https://livechart.me/anime/9276",
+    "https://myanimelist.net/anime/38958",
+    "https://notify.moe/anime/TbnmHYUig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6dc8761740bd5d80",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.251906771799628,
+    "arithmeticGeometricMean": 7.2395858015800805,
+    "median": 7.623181818181818,
+    "hash": "6dc8761740bd5d80",
+    "lastUpdate": "2024-05-09"
+  }
+}

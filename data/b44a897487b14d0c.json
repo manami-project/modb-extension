@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4710",
+    "https://anilist.co/anime/104327",
+    "https://anime-planet.com/anime/youkaiden-nekome-kozou",
+    "https://anisearch.com/anime/3845",
+    "https://kitsu.io/anime/9706",
+    "https://myanimelist.net/anime/23351",
+    "https://notify.moe/anime/TQ1YpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b44a897487b14d0c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.472104638218924,
+    "arithmeticGeometricMean": 5.446378670414641,
+    "median": 5.0,
+    "hash": "b44a897487b14d0c",
+    "lastUpdate": "2024-05-08"
+  }
+}

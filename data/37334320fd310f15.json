@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/burutabu-chan",
+    "https://kitsu.io/anime/12335",
+    "https://myanimelist.net/anime/32237",
+    "https://notify.moe/anime/3dikhKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "37334320fd310f15",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.003333333333334,
+    "arithmeticGeometricMean": 4.995796734734946,
+    "median": 5.0,
+    "hash": "37334320fd310f15",
+    "lastUpdate": "2024-05-07"
+  }
+}

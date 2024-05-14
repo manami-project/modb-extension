@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11651",
+    "https://anilist.co/anime/103159",
+    "https://anime-planet.com/anime/xiao-taiji",
+    "https://anisearch.com/anime/11960",
+    "https://kitsu.io/anime/11732",
+    "https://myanimelist.net/anime/31700",
+    "https://notify.moe/anime/4m5qtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "91cf72d1ffcf1b49",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.896722325293754,
+    "arithmeticGeometricMean": 4.817326701096004,
+    "median": 5.0,
+    "hash": "91cf72d1ffcf1b49",
+    "lastUpdate": "2024-05-08"
+  }
+}

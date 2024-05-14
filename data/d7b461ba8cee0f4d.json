@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/grimms-fairy-tale-classics"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7b461ba8cee0f4d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.302,
+    "arithmeticGeometricMean": 7.302,
+    "median": 7.302,
+    "hash": "d7b461ba8cee0f4d",
+    "lastUpdate": "2024-05-08"
+  }
+}

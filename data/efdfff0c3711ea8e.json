@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17724",
+    "https://anilist.co/anime/152636",
+    "https://anime-planet.com/anime/blue-archive-15-shuunen-kinen-short-animation",
+    "https://anisearch.com/anime/17554",
+    "https://livechart.me/anime/11668",
+    "https://myanimelist.net/anime/52420"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "efdfff0c3711ea8e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.921012987012986,
+    "arithmeticGeometricMean": 6.913003243196276,
+    "median": 6.92,
+    "hash": "efdfff0c3711ea8e",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6844",
+    "https://anilist.co/anime/7494",
+    "https://anime-planet.com/anime/usagi-to-kame",
+    "https://anisearch.com/anime/5998",
+    "https://kitsu.io/anime/4999",
+    "https://myanimelist.net/anime/7494",
+    "https://notify.moe/anime/jzRzpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd1f22384aa32c64",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2845528756957325,
+    "arithmeticGeometricMean": 5.255710603196435,
+    "median": 5.2727272727272725,
+    "hash": "dd1f22384aa32c64",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16674",
+    "https://anilist.co/anime/133869",
+    "https://anime-planet.com/anime/kuang-shenmo-zun",
+    "https://kitsu.io/anime/44603",
+    "https://livechart.me/anime/10602",
+    "https://myanimelist.net/anime/48942",
+    "https://notify.moe/anime/Cdx_K06MR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "646d191eb22be398",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.635090909090909,
+    "arithmeticGeometricMean": 6.629968694207165,
+    "median": 6.553181818181818,
+    "hash": "646d191eb22be398",
+    "lastUpdate": "2024-05-09"
+  }
+}

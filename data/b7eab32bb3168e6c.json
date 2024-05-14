@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/sofyruby",
+    "https://anisearch.com/anime/15506",
+    "https://myanimelist.net/anime/48256"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b7eab32bb3168e6c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.326530612244898,
+    "arithmeticGeometricMean": 6.326530612244898,
+    "median": 6.326530612244898,
+    "hash": "b7eab32bb3168e6c",
+    "lastUpdate": "2024-05-07"
+  }
+}

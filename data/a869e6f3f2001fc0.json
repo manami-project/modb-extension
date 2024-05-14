@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/696",
+    "https://anilist.co/anime/1861",
+    "https://anime-planet.com/anime/slam-dunk-movie-2",
+    "https://anisearch.com/anime/2407",
+    "https://kitsu.io/anime/1678",
+    "https://livechart.me/anime/5443",
+    "https://myanimelist.net/anime/1861",
+    "https://notify.moe/anime/kTwBcFimg"
+  ],
+  "synopsis": {
+    "text": "Will Shohoku or Tsukubu claim victory in the Inter-High Championships and secure their spot in the national tournament? The stakes are high as Shohoku's unconventional team, led by Anzai Sensei, faces off against Tsukubu's well-trained squad coached by Anzai's former student. Adding to the intense atmosphere, old acquaintances reunite on the court, with Shohoku's Akagi and Kogure facing off against their former classmate and Tsukubu's captain, Godai. Meanwhile, Sakuragi is determined to prove himself after being benched in the previous game, but will he be able to keep his cool when Tsukubu's center, Nango, vies for the attention of his crush, Haruko? The outcome of this thrilling match is anyone's guess, but one thing is certain: it's a game that fans of high-stakes basketball won't want to miss.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a869e6f3f2001fc0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.376661410018552,
+    "arithmeticGeometricMean": 7.371530101619718,
+    "median": 7.493,
+    "hash": "a869e6f3f2001fc0",
+    "lastUpdate": "2024-05-10"
+  }
+}

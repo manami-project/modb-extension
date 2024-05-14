@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12399",
+    "https://anilist.co/anime/103323",
+    "https://anime-planet.com/anime/legend-of-the-forest-2nd-movement",
+    "https://anisearch.com/anime/12878",
+    "https://kitsu.io/anime/11656",
+    "https://livechart.me/anime/8296",
+    "https://myanimelist.net/anime/32041",
+    "https://notify.moe/anime/Kqi3pFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8cf9366cfcc20a1e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.651616573902288,
+    "arithmeticGeometricMean": 6.638876704586349,
+    "median": 6.54,
+    "hash": "8cf9366cfcc20a1e",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127980",
+    "https://anime-planet.com/anime/nipple",
+    "https://kitsu.io/anime/45643",
+    "https://myanimelist.net/anime/52857"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a865f95153f6e43c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.305212121212121,
+    "arithmeticGeometricMean": 5.275843447931225,
+    "median": 5.26,
+    "hash": "a865f95153f6e43c",
+    "lastUpdate": "2024-05-06"
+  }
+}

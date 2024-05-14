@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/171825",
+    "https://anime-planet.com/anime/aiobahn-and-akari-nanawo-shiawase-ni-nante-naranaide",
+    "https://kitsu.io/anime/48330",
+    "https://myanimelist.net/anime/57361"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "339c38202f94e617",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.471727272727273,
+    "arithmeticGeometricMean": 7.471545391217529,
+    "median": 7.471727272727273,
+    "hash": "339c38202f94e617",
+    "lastUpdate": "2024-05-07"
+  }
+}

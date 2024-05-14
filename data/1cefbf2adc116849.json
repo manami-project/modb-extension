@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12389",
+    "https://anime-planet.com/anime/channel-55-2nd-season",
+    "https://kitsu.io/anime/10519",
+    "https://livechart.me/anime/8926",
+    "https://myanimelist.net/anime/29822",
+    "https://notify.moe/anime/fbj8tFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1cefbf2adc116849",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.7844999999999995,
+    "arithmeticGeometricMean": 4.726216953291331,
+    "median": 5.02,
+    "hash": "1cefbf2adc116849",
+    "lastUpdate": "2024-05-09"
+  }
+}

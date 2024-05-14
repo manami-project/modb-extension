@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5027",
+    "https://anilist.co/anime/8205",
+    "https://anime-planet.com/anime/norabbits-minutes",
+    "https://anisearch.com/anime/4149",
+    "https://kitsu.io/anime/5242",
+    "https://myanimelist.net/anime/8205",
+    "https://notify.moe/anime/8QgmpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4fab312dd14598ff",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.107745825602968,
+    "arithmeticGeometricMean": 5.0889848789201775,
+    "median": 5.181818181818182,
+    "hash": "4fab312dd14598ff",
+    "lastUpdate": "2024-05-08"
+  }
+}

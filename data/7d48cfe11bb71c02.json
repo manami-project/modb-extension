@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14224",
+    "https://anilist.co/anime/101878",
+    "https://anime-planet.com/anime/ling-yu-3rd-season",
+    "https://anisearch.com/anime/14138",
+    "https://kitsu.io/anime/14262",
+    "https://livechart.me/anime/9000",
+    "https://myanimelist.net/anime/36791",
+    "https://notify.moe/anime/Y37D2FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d48cfe11bb71c02",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.8691847336337135,
+    "arithmeticGeometricMean": 6.854877055050295,
+    "median": 6.5,
+    "hash": "7d48cfe11bb71c02",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6221",
+    "https://anilist.co/anime/10989",
+    "https://anime-planet.com/anime/stray-sheep-poe-no-chicchana-daibouken",
+    "https://anisearch.com/anime/4508",
+    "https://kitsu.io/anime/6432",
+    "https://myanimelist.net/anime/10989",
+    "https://notify.moe/anime/jCWSpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89d4b2126ffbf5d1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.5697320964749535,
+    "arithmeticGeometricMean": 5.53453368825426,
+    "median": 5.0,
+    "hash": "89d4b2126ffbf5d1",
+    "lastUpdate": "2024-05-08"
+  }
+}

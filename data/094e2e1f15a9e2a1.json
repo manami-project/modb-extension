@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/162547",
+    "https://anime-planet.com/anime/deco-27-mannequin",
+    "https://kitsu.io/anime/47145",
+    "https://myanimelist.net/anime/55342"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "094e2e1f15a9e2a1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.829999999999999,
+    "arithmeticGeometricMean": 6.8263191859155485,
+    "median": 7.0,
+    "hash": "094e2e1f15a9e2a1",
+    "lastUpdate": "2024-05-08"
+  }
+}

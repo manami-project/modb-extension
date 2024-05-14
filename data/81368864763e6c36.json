@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4350",
+    "https://anilist.co/anime/1219",
+    "https://anime-planet.com/anime/chokotto-sister",
+    "https://anisearch.com/anime/3591",
+    "https://kitsu.io/anime/1096",
+    "https://livechart.me/anime/5618",
+    "https://myanimelist.net/anime/1219",
+    "https://notify.moe/anime/vb5x5Fmmg"
+  ],
+  "synopsis": {
+    "text": "Choco, a unique gift from Santa, arrives in the life of college student Haruma Kawagoe, years after a Christmas wish made in the aftermath of his mother's miscarriage. Haruma, who had once prayed fervently for a little sister, finds his quiet life turned upside down as he takes on the responsibility of raising Choco, who has much to learn about the world. As they navigate life together, Choco, initially dependent on her brother and an instruction manual for guidance, begins to develop her own identity, leading to a heartwarming journey of growth and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81368864763e6c36",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.755049521906664,
+    "arithmeticGeometricMean": 6.7516122118880375,
+    "median": 6.8,
+    "hash": "81368864763e6c36",
+    "lastUpdate": "2024-05-09"
+  }
+}

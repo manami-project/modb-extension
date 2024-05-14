@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10348",
+    "https://anilist.co/anime/12341",
+    "https://anime-planet.com/anime/trip-trek",
+    "https://anisearch.com/anime/9449",
+    "https://kitsu.io/anime/6707",
+    "https://myanimelist.net/anime/12341",
+    "https://notify.moe/anime/I2cNpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c542fca95f833687",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.711007421150279,
+    "arithmeticGeometricMean": 4.627914826392831,
+    "median": 4.491818181818182,
+    "hash": "c542fca95f833687",
+    "lastUpdate": "2024-05-07"
+  }
+}

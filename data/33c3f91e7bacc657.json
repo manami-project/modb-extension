@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103745",
+    "https://anime-planet.com/anime/pink-jumon",
+    "https://kitsu.io/anime/14002",
+    "https://myanimelist.net/anime/36373",
+    "https://notify.moe/anime/557H2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33c3f91e7bacc657",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.226666666666667,
+    "arithmeticGeometricMean": 5.221883961857029,
+    "median": 5.0,
+    "hash": "33c3f91e7bacc657",
+    "lastUpdate": "2024-05-07"
+  }
+}

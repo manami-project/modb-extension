@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1315",
+    "https://anilist.co/anime/2793",
+    "https://anime-planet.com/anime/phoenix-2772",
+    "https://anisearch.com/anime/2487",
+    "https://kitsu.io/anime/2549",
+    "https://myanimelist.net/anime/2793",
+    "https://notify.moe/anime/xfZU5Fiig"
+  ],
+  "synopsis": {
+    "text": "Luckily for Godo, a young cadet born from a test tube and nurtured by robots in a dystopian future, his exceptional marksmanship skills earn him a unique mission: to capture the legendary Phoenix, a creature believed to hold the power to revive their dying planet. In this world where humans are bred for predetermined roles, Godo's compassion for living beings and robots alike sets him apart. As he embarks on his quest, he finds himself entangled in a forbidden love affair with Rena, the president's daughter, and at odds with her fiancé, Rock Holmes. After a failed attempt to elope, Godo is condemned to hard labor, only to be rescued by his loyal robotic companion Olga and Rena's alien pet, Pincho. Together, they embark on a thrilling cosmic journey, exploring the transformative power of selfless love and the true meaning of independence.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b750da37adca40e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.69205247813411,
+    "arithmeticGeometricMean": 6.687407820931631,
+    "median": 6.42,
+    "hash": "3b750da37adca40e",
+    "lastUpdate": "2024-05-08"
+  }
+}

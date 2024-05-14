@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2607",
+    "https://anilist.co/anime/4936",
+    "https://anime-planet.com/anime/ninja-hattori-kun",
+    "https://anisearch.com/anime/1971",
+    "https://kitsu.io/anime/3858",
+    "https://livechart.me/anime/6315",
+    "https://myanimelist.net/anime/4936",
+    "https://notify.moe/anime/GyAr5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c8431b32cd77736f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.775023345701917,
+    "arithmeticGeometricMean": 6.764088622938766,
+    "median": 6.972545454545454,
+    "hash": "c8431b32cd77736f",
+    "lastUpdate": "2024-05-09"
+  }
+}

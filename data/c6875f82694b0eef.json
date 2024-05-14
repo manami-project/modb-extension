@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11702",
+    "https://anilist.co/anime/102768",
+    "https://anime-planet.com/anime/zawazawa",
+    "https://anisearch.com/anime/11967",
+    "https://kitsu.io/anime/11679",
+    "https://myanimelist.net/anime/31832",
+    "https://notify.moe/anime/arn3tFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c6875f82694b0eef",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.7782346497040376,
+    "arithmeticGeometricMean": 4.739264516967379,
+    "median": 4.39,
+    "hash": "c6875f82694b0eef",
+    "lastUpdate": "2024-05-08"
+  }
+}

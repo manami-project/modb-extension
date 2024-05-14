@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/554",
+    "https://anilist.co/anime/1528",
+    "https://anime-planet.com/anime/battle-skipper-school",
+    "https://anisearch.com/anime/2779",
+    "https://kitsu.io/anime/1370",
+    "https://myanimelist.net/anime/1528",
+    "https://notify.moe/anime/LUTacKimR"
+  ],
+  "synopsis": {
+    "text": "Etiquette and mecha may not seem like a typical combination, but at St. Ignacio's School for Girls, they're a perfect match! New students Kanami Izaki, Shihoko Sakaki, and Saori Tachibana join the Etiquette Club, only to discover that it's a front for an elite fighting squad known as the Exstars. Piloting state-of-the-art mecha called Battle Skippers, these freshman girls fight crime and injustice to keep the world safe. Their main adversary is Sayaka, the beautiful yet evil president of the rival Debutante Club, who hatches bizarre schemes to create a Japan ruled exclusively by women. Can the Exstars, clad in their distinctive skimpy outfits, thwart Sayaka's plans and maintain order? Join the Exstars on their silly yet thrilling adventures as they navigate high school quarrels and satellite weaponry!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d56e41766b811499",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.871415319374504,
+    "arithmeticGeometricMean": 4.811706200327927,
+    "median": 4.85,
+    "hash": "d56e41766b811499",
+    "lastUpdate": "2024-05-08"
+  }
+}

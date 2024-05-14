@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16454",
+    "https://anilist.co/anime/131927",
+    "https://anime-planet.com/anime/washimo-9",
+    "https://anisearch.com/anime/16858",
+    "https://kitsu.io/anime/48045",
+    "https://livechart.me/anime/10479",
+    "https://myanimelist.net/anime/48539"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7f8888c58ad26e6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.254174397031541,
+    "arithmeticGeometricMean": 6.253965111179074,
+    "median": 6.254174397031541,
+    "hash": "d7f8888c58ad26e6",
+    "lastUpdate": "2024-05-10"
+  }
+}

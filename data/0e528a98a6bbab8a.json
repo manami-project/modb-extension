@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/158625",
+    "https://anime-planet.com/anime/accamer-saishin",
+    "https://anisearch.com/anime/16373",
+    "https://myanimelist.net/anime/55437"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e528a98a6bbab8a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.407050092764378,
+    "arithmeticGeometricMean": 6.397619188798053,
+    "median": 6.693877551020408,
+    "hash": "0e528a98a6bbab8a",
+    "lastUpdate": "2024-05-07"
+  }
+}

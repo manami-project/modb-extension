@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106546",
+    "https://anime-planet.com/anime/moonlit-night-opal",
+    "https://anisearch.com/anime/14999",
+    "https://kitsu.io/anime/13482",
+    "https://myanimelist.net/anime/38700",
+    "https://notify.moe/anime/agq72KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "50e380d92a9c6098",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.893461224489796,
+    "arithmeticGeometricMean": 4.823694051158838,
+    "median": 5.0,
+    "hash": "50e380d92a9c6098",
+    "lastUpdate": "2024-05-06"
+  }
+}

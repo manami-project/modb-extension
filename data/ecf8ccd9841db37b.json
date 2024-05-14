@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2397",
+    "https://anilist.co/anime/8108",
+    "https://anime-planet.com/anime/hamtaro-movie-3",
+    "https://anisearch.com/anime/2371",
+    "https://kitsu.io/anime/5197",
+    "https://myanimelist.net/anime/8108",
+    "https://notify.moe/anime/bzXztKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ecf8ccd9841db37b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.836175457195866,
+    "arithmeticGeometricMean": 5.794401071671141,
+    "median": 6.37,
+    "hash": "ecf8ccd9841db37b",
+    "lastUpdate": "2024-05-08"
+  }
+}

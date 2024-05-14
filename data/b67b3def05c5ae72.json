@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13492",
+    "https://anilist.co/anime/100179",
+    "https://anime-planet.com/anime/tada-never-falls-in-love",
+    "https://anisearch.com/anime/12864",
+    "https://kitsu.io/anime/13888",
+    "https://livechart.me/anime/2906",
+    "https://myanimelist.net/anime/36470",
+    "https://notify.moe/anime/IvEShKmig"
+  ],
+  "synopsis": {
+    "text": "Teresa Wagner, a lively and cheerful foreigner, stumbles upon Mitsuyoshi Tada, a high school student with dreams of becoming a photographer, while he's capturing the beauty of cherry blossoms. After helping her find her travel partner, Alexandra 'Alec' Magritte, Tada bids them farewell, only to find them as new transfer students in his class the next day. As they join Tada's photography club, filled with quirky and unique individuals, Tada's mundane high school life takes a vibrant turn. But as he spends more time with Teresa, he realizes that there's more to her than meets the eye, leading him to question his understanding of love and relationships.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b67b3def05c5ae72",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.529956206660614,
+    "arithmeticGeometricMean": 7.525230227182054,
+    "median": 7.637040816326531,
+    "hash": "b67b3def05c5ae72",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/100181",
+    "https://anime-planet.com/anime/digimon-adventure-tri-movie-6-future",
+    "https://kitsu.io/anime/11550",
+    "https://livechart.me/anime/2903",
+    "https://myanimelist.net/anime/36466",
+    "https://notify.moe/anime/KrbjpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f11028da3cfa74a6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.574464646464647,
+    "arithmeticGeometricMean": 7.56890874556964,
+    "median": 7.4658181818181815,
+    "hash": "f11028da3cfa74a6",
+    "lastUpdate": "2024-05-06"
+  }
+}

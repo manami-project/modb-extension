@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/robot-on-the-road",
+    "https://anisearch.com/anime/10798"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b3c2da9c1b1ee53",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.886775510204082,
+    "arithmeticGeometricMean": 6.886772421267192,
+    "median": 6.886775510204082,
+    "hash": "5b3c2da9c1b1ee53",
+    "lastUpdate": "2024-05-08"
+  }
+}

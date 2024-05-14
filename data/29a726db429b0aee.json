@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7024",
+    "https://anilist.co/anime/109330",
+    "https://anime-planet.com/anime/ari-to-hato-1959",
+    "https://anisearch.com/anime/5983",
+    "https://kitsu.io/anime/8960",
+    "https://myanimelist.net/anime/21765",
+    "https://notify.moe/anime/7qYbtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "29a726db429b0aee",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.935705009276437,
+    "arithmeticGeometricMean": 4.909718906099025,
+    "median": 4.785,
+    "hash": "29a726db429b0aee",
+    "lastUpdate": "2024-05-08"
+  }
+}

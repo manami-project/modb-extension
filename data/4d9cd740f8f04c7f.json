@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/5046",
+    "https://myanimelist.net/anime/5455"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d9cd740f8f04c7f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.625204081632653,
+    "arithmeticGeometricMean": 5.596232387304846,
+    "median": 5.625204081632653,
+    "hash": "4d9cd740f8f04c7f",
+    "lastUpdate": "2024-05-07"
+  }
+}

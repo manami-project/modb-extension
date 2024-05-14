@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8019",
+    "https://anilist.co/anime/8722",
+    "https://anime-planet.com/anime/ten-no-kawa",
+    "https://anisearch.com/anime/6347",
+    "https://kitsu.io/anime/5459",
+    "https://myanimelist.net/anime/8722",
+    "https://notify.moe/anime/jrCitFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ac725af581c4bfff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.423636893718526,
+    "arithmeticGeometricMean": 5.409086344256976,
+    "median": 5.37,
+    "hash": "ac725af581c4bfff",
+    "lastUpdate": "2024-05-08"
+  }
+}

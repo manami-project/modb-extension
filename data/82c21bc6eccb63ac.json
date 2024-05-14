@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18054",
+    "https://anilist.co/anime/165810",
+    "https://anime-planet.com/anime/the-prince-of-tennis-ii-u-17-world-cup-semifinal",
+    "https://anisearch.com/anime/18935",
+    "https://kitsu.io/anime/47585",
+    "https://livechart.me/anime/12081",
+    "https://myanimelist.net/anime/55570",
+    "https://notify.moe/anime/jSpJIH_VR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "82c21bc6eccb63ac",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "82c21bc6eccb63ac",
+    "lastUpdate": "2024-05-11"
+  }
+}

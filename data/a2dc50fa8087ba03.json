@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/256",
+    "https://anilist.co/anime/441",
+    "https://anime-planet.com/anime/revolutionary-girl-utena-the-adolescence-of-utena",
+    "https://anisearch.com/anime/1159",
+    "https://kitsu.io/anime/404",
+    "https://livechart.me/anime/4737",
+    "https://myanimelist.net/anime/441",
+    "https://notify.moe/anime/HZMo5KmmR"
+  ],
+  "synopsis": {
+    "text": "Himemiya Anthy, a girl with a mysterious power, is at the center of a series of duels at the prestigious Ohtori Academy. Utena Tenjou, a new student, finds herself drawn into these duels to protect Anthy and win her hand. The victor of these duels is said to gain the power to revolutionize the world, but the truth behind this power and the duels themselves is shrouded in secrecy. As Utena navigates these challenges, she is reunited with her childhood friend, Touga Kiryuu, who seems to hold the key to understanding the enigmatic nature of the duels and the academy itself. With the stakes high and the truth obscured, Utena must uncover the secrets of her past and the academy to protect her friends and forge her own future. This reimagining of the classic anime series presents familiar characters in a new light, focusing on Utena and Anthy's journey to overcome their past and discover the true meaning of heroism.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a2dc50fa8087ba03",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.451330705009276,
+    "arithmeticGeometricMean": 7.436305627644146,
+    "median": 7.6899999999999995,
+    "hash": "a2dc50fa8087ba03",
+    "lastUpdate": "2024-05-10"
+  }
+}

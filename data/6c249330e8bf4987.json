@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12586",
+    "https://anilist.co/anime/8719",
+    "https://anime-planet.com/anime/donna-donna",
+    "https://anisearch.com/anime/6349",
+    "https://kitsu.io/anime/5458",
+    "https://myanimelist.net/anime/8719",
+    "https://notify.moe/anime/zwCitFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6c249330e8bf4987",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.798312306740878,
+    "arithmeticGeometricMean": 4.768245206027849,
+    "median": 4.818181818181818,
+    "hash": "6c249330e8bf4987",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/124138",
+    "https://anime-planet.com/anime/demon-lord-petit-retry",
+    "https://anisearch.com/anime/15539",
+    "https://kitsu.io/anime/44325",
+    "https://myanimelist.net/anime/40749",
+    "https://notify.moe/anime/sSp5sc4GR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "31dc3dccc49e989d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.991035250463822,
+    "arithmeticGeometricMean": 5.990126728555896,
+    "median": 5.974,
+    "hash": "31dc3dccc49e989d",
+    "lastUpdate": "2024-05-07"
+  }
+}

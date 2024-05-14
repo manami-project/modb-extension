@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12495",
+    "https://anilist.co/anime/12935",
+    "https://anime-planet.com/anime/supercell-utakata-hanabi",
+    "https://anisearch.com/anime/8386",
+    "https://kitsu.io/anime/8743",
+    "https://myanimelist.net/anime/12935",
+    "https://notify.moe/anime/QZX1tKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4081d595228ee811",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.0235457195865365,
+    "arithmeticGeometricMean": 6.007480110413366,
+    "median": 6.322,
+    "hash": "4081d595228ee811",
+    "lastUpdate": "2024-05-08"
+  }
+}

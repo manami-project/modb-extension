@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13860",
+    "https://anilist.co/anime/103470",
+    "https://anime-planet.com/anime/project-hal",
+    "https://kitsu.io/anime/11664",
+    "https://myanimelist.net/anime/32385",
+    "https://notify.moe/anime/v8Z3pFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f58de4df45fdcfe2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.767333333333333,
+    "arithmeticGeometricMean": 5.746854726720163,
+    "median": 5.5649999999999995,
+    "hash": "f58de4df45fdcfe2",
+    "lastUpdate": "2024-05-08"
+  }
+}

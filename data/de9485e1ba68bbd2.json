@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21433",
+    "https://anime-planet.com/anime/urawa-no-usagi-chan-special",
+    "https://anisearch.com/anime/11754",
+    "https://kitsu.io/anime/11345",
+    "https://livechart.me/anime/6630",
+    "https://myanimelist.net/anime/31426",
+    "https://notify.moe/anime/XOT9tFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de9485e1ba68bbd2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.4621818181818185,
+    "arithmeticGeometricMean": 5.450050991522296,
+    "median": 5.5227272727272725,
+    "hash": "de9485e1ba68bbd2",
+    "lastUpdate": "2024-05-10"
+  }
+}

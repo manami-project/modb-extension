@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14614",
+    "https://anilist.co/anime/14781",
+    "https://anime-planet.com/anime/roboteuwang-sseonsyakeu",
+    "https://anisearch.com/anime/8533",
+    "https://kitsu.io/anime/7166",
+    "https://myanimelist.net/anime/14781",
+    "https://notify.moe/anime/O9tdpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4a4bf151f14da60",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.5779808286951145,
+    "arithmeticGeometricMean": 4.507625020351797,
+    "median": 4.460306122448979,
+    "hash": "d4a4bf151f14da60",
+    "lastUpdate": "2024-05-08"
+  }
+}

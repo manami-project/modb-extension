@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10066",
+    "https://anilist.co/anime/20514",
+    "https://anime-planet.com/anime/psycho-pass-the-movie",
+    "https://anisearch.com/anime/9098",
+    "https://kitsu.io/anime/7986",
+    "https://livechart.me/anime/218",
+    "https://myanimelist.net/anime/21339",
+    "https://notify.moe/anime/lGK2tFiiR"
+  ],
+  "synopsis": {
+    "text": "Shin’ya Kougami, a rogue enforcer, and Akane Tsunemori, a determined inspector, find themselves on a collision course with a man from their past, Shogo Makishima, who threatens the very foundation of their peacekeeping system. In 2116, Japan's successful Sibyl System is being exported to conflict zones worldwide, including the Southeast Asia Union (SEAUn). Shambhalafloat, a floating city in SEAUn, experiences a brief period of peace, but it's short-lived as terrorists infiltrate the Sibyl System and launch an attack on its core. Akane Tsunemori, now part of the Criminal Investigation Division, is dispatched to investigate the mysterious happenings in Shambhalafloat. As the truth about justice in this new land unfolds, Akane must confront her past and decide her future course of action. Will she be able to uphold justice in the face of a complex moral dilemma?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7452a9ef3d77a775",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.8013782436740655,
+    "arithmeticGeometricMean": 7.800184238780888,
+    "median": 7.843061224489796,
+    "hash": "7452a9ef3d77a775",
+    "lastUpdate": "2024-05-09"
+  }
+}

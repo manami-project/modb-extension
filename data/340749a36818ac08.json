@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9161",
+    "https://anime-planet.com/anime/saitama-bousou-saizensen-flag-shinimonogurui-no-seishun",
+    "https://anisearch.com/anime/7806",
+    "https://kitsu.io/anime/9562",
+    "https://myanimelist.net/anime/23593",
+    "https://notify.moe/anime/engLpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "340749a36818ac08",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.507142857142856,
+    "arithmeticGeometricMean": 5.495436303306724,
+    "median": 5.507142857142856,
+    "hash": "340749a36818ac08",
+    "lastUpdate": "2024-05-08"
+  }
+}

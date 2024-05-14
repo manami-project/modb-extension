@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/129839",
+    "https://anime-planet.com/anime/haiiro-no-saga",
+    "https://myanimelist.net/anime/43438"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a76784b5c05f9332",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.620060606060606,
+    "arithmeticGeometricMean": 6.618810808766579,
+    "median": 6.662,
+    "hash": "a76784b5c05f9332",
+    "lastUpdate": "2024-05-07"
+  }
+}

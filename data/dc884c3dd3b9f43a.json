@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/kenketsu",
+    "https://anisearch.com/anime/14376",
+    "https://kitsu.io/anime/44467",
+    "https://myanimelist.net/anime/39564"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc884c3dd3b9f43a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.74734693877551,
+    "arithmeticGeometricMean": 5.723829714612964,
+    "median": 5.88,
+    "hash": "dc884c3dd3b9f43a",
+    "lastUpdate": "2024-05-07"
+  }
+}

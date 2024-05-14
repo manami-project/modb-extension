@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/8346",
+    "https://myanimelist.net/anime/17537"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd2b8f2f6102beda",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0673469387755095,
+    "arithmeticGeometricMean": 6.045127743867743,
+    "median": 6.0673469387755095,
+    "hash": "bd2b8f2f6102beda",
+    "lastUpdate": "2024-05-07"
+  }
+}

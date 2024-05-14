@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/740",
+    "https://anilist.co/anime/1178",
+    "https://anime-planet.com/anime/detonator-orgun",
+    "https://anisearch.com/anime/1122",
+    "https://kitsu.io/anime/1058",
+    "https://livechart.me/anime/7293",
+    "https://myanimelist.net/anime/1178",
+    "https://notify.moe/anime/ly4bcKmiR"
+  ],
+  "synopsis": {
+    "text": "Battleships loom in the distance, signaling the imminent invasion of Earth by the ruthless Evoluders, an alien race bent on annihilating civilizations. Amidst this chaos, Tomoru Shindo, a university student with dreams of becoming a pilot and escaping the monotony of his structured life, finds himself entangled in a cosmic conflict.\n\nA chance encounter with the enigmatic Dr. Kanzaki propels Tomoru into a world beyond his wildest dreams. He discovers an uncanny psychic connection to Orgun, an Evoluder with a mysterious past and a link to Tomoru's own heritage. As the alien intelligence infiltrates his mind, Tomoru is thrust into an interstellar war, becoming Earth's last line of defense against the impending doom.\n\nWith Orgun's unearthly weapons and superhuman abilities at his disposal, Tomoru must navigate the complexities of his newfound powers and confront the horrific dreams that have plagued him. Alongside Michi, an Earth Defense Forces Intelligence Researcher, and I-Zack, a supercomputer, Tomoru races to unlock the secrets of Orgun's enigmatic armor and save humanity from the brink of destruction.\n\nAs the battle for Earth's survival rages on, Tomoru must come to terms with the reality that his life has forever changed. With the fate of the world resting on his shoulders, can Tomoru harness the power of Orgun and turn the tide against the Evoluders? The thrilling adventure of Tomoru Shindo and Orgun begins in this epic tale of courage, friendship, and the fight against impossible odds.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ddcd2655233c84a8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.283053273257354,
+    "arithmeticGeometricMean": 6.280566282996077,
+    "median": 6.23,
+    "hash": "ddcd2655233c84a8",
+    "lastUpdate": "2024-05-09"
+  }
+}

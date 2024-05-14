@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136310",
+    "https://anime-planet.com/anime/yoasobi-sangenshoku",
+    "https://anisearch.com/anime/16456",
+    "https://myanimelist.net/anime/49420"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d77fde189e99ea81",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.238812615955473,
+    "arithmeticGeometricMean": 7.237683674537029,
+    "median": 7.169897959183674,
+    "hash": "d77fde189e99ea81",
+    "lastUpdate": "2024-05-07"
+  }
+}

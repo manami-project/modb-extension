@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16491",
+    "https://anilist.co/anime/120231",
+    "https://anime-planet.com/anime/moshi-juexing-zhi-ruqin-2nd-season",
+    "https://kitsu.io/anime/44649",
+    "https://myanimelist.net/anime/45445"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0821e73e8c26fea8",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.636363636363637,
+    "arithmeticGeometricMean": 5.636363636363637,
+    "median": 5.636363636363637,
+    "hash": "0821e73e8c26fea8",
+    "lastUpdate": "2024-05-08"
+  }
+}

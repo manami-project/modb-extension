@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1126",
+    "https://anilist.co/anime/2503",
+    "https://anime-planet.com/anime/nangoku-shounen-papuwa-kun",
+    "https://anisearch.com/anime/2718",
+    "https://kitsu.io/anime/2271",
+    "https://livechart.me/anime/12310",
+    "https://myanimelist.net/anime/2503",
+    "https://notify.moe/anime/zB6P5Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef8da1b588ed785a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.874572665429807,
+    "arithmeticGeometricMean": 5.852500840224968,
+    "median": 5.567717996289424,
+    "hash": "ef8da1b588ed785a",
+    "lastUpdate": "2024-05-09"
+  }
+}

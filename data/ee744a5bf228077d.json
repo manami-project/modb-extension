@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16002",
+    "https://anilist.co/anime/128541",
+    "https://anime-planet.com/anime/jiu-ye-shen-chuan",
+    "https://kitsu.io/anime/43912",
+    "https://livechart.me/anime/10316",
+    "https://myanimelist.net/anime/45169",
+    "https://notify.moe/anime/cuw3K9-MR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee744a5bf228077d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.4100909090909095,
+    "arithmeticGeometricMean": 6.396390076340271,
+    "median": 6.4100909090909095,
+    "hash": "ee744a5bf228077d",
+    "lastUpdate": "2024-05-09"
+  }
+}

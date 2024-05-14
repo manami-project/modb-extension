@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2842",
+    "https://anilist.co/anime/475",
+    "https://anime-planet.com/anime/hotori-tada-saiwai-wo-koinegau",
+    "https://anisearch.com/anime/1731",
+    "https://kitsu.io/anime/437",
+    "https://myanimelist.net/anime/475",
+    "https://notify.moe/anime/RpDocKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce2af140e46f060a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.829261065465147,
+    "arithmeticGeometricMean": 6.822245499025863,
+    "median": 6.87,
+    "hash": "ce2af140e46f060a",
+    "lastUpdate": "2024-05-08"
+  }
+}

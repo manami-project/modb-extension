@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12471",
+    "https://anilist.co/anime/102160",
+    "https://anime-planet.com/anime/curly",
+    "https://anisearch.com/anime/12877",
+    "https://kitsu.io/anime/12572",
+    "https://livechart.me/anime/8959",
+    "https://myanimelist.net/anime/33534",
+    "https://notify.moe/anime/OwZihKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb656bc52e0a0284",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.3435782312925175,
+    "arithmeticGeometricMean": 5.332909715444951,
+    "median": 5.3100000000000005,
+    "hash": "cb656bc52e0a0284",
+    "lastUpdate": "2024-05-09"
+  }
+}

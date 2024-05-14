@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3551",
+    "https://anilist.co/anime/2199",
+    "https://anime-planet.com/anime/ringing-bell",
+    "https://anisearch.com/anime/3023",
+    "https://kitsu.io/anime/1990",
+    "https://livechart.me/anime/5575",
+    "https://myanimelist.net/anime/2199",
+    "https://notify.moe/anime/xHmEcKimR"
+  ],
+  "synopsis": {
+    "text": "Wolf King's Reign is a heart-wrenching tale of a young lamb named Chirin, who lives a serene life with his mother in a lush meadow. However, his world is shattered when a menacing wolf invades their peaceful haven and kills his mother. Overwhelmed with grief and a burning desire for vengeance, Chirin embarks on a perilous journey to transform himself into the very creature he loathes. To achieve his goal, he must venture beyond the safety of his home and confront the formidable Wolf King. As Chirin undergoes a metamorphosis, he must grapple with the consequences of his choices and the ultimate cost of revenge. Will Chirin's quest for vengeance consume him, or will he find a way to overcome his inner demons?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cf841c088a5c3693",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.9536782401272195,
+    "arithmeticGeometricMean": 6.9498647688940896,
+    "median": 6.992,
+    "hash": "cf841c088a5c3693",
+    "lastUpdate": "2024-05-09"
+  }
+}

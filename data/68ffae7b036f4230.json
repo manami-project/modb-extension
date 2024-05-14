@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12024",
+    "https://anilist.co/anime/121718",
+    "https://anime-planet.com/anime/asa-da-yo-kaishain",
+    "https://anisearch.com/anime/11248",
+    "https://kitsu.io/anime/12170",
+    "https://livechart.me/anime/2104",
+    "https://myanimelist.net/anime/33044",
+    "https://notify.moe/anime/I5DghKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "68ffae7b036f4230",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.34769449598021,
+    "arithmeticGeometricMean": 5.308244798772823,
+    "median": 5.285,
+    "hash": "68ffae7b036f4230",
+    "lastUpdate": "2024-05-08"
+  }
+}

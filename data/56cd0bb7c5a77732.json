@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5288",
+    "https://anilist.co/anime/11405",
+    "https://anime-planet.com/anime/skyers-5",
+    "https://anisearch.com/anime/4347",
+    "https://kitsu.io/anime/6505",
+    "https://livechart.me/anime/11643",
+    "https://myanimelist.net/anime/11405",
+    "https://notify.moe/anime/Da2SpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "56cd0bb7c5a77732",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.848494743351886,
+    "arithmeticGeometricMean": 4.723479789663897,
+    "median": 4.954545454545455,
+    "hash": "56cd0bb7c5a77732",
+    "lastUpdate": "2024-05-10"
+  }
+}

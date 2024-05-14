@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8174",
+    "https://anilist.co/anime/10115",
+    "https://anime-planet.com/anime/friends-mononoke-shima-no-naki",
+    "https://anisearch.com/anime/6717",
+    "https://kitsu.io/anime/6043",
+    "https://myanimelist.net/anime/10115",
+    "https://notify.moe/anime/httnpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c8e5bf68ec26db1e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.573095856524428,
+    "arithmeticGeometricMean": 6.569419862379733,
+    "median": 6.523469387755101,
+    "hash": "c8e5bf68ec26db1e",
+    "lastUpdate": "2024-05-07"
+  }
+}

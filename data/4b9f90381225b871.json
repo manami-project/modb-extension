@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/138257",
+    "https://anime-planet.com/anime/calpis-hakkou-monogatari",
+    "https://anisearch.com/anime/18573",
+    "https://kitsu.io/anime/41893",
+    "https://myanimelist.net/anime/38045",
+    "https://notify.moe/anime/NeI-pv0iR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4b9f90381225b871",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2149959183673475,
+    "arithmeticGeometricMean": 5.172719851285816,
+    "median": 4.72,
+    "hash": "4b9f90381225b871",
+    "lastUpdate": "2024-05-05"
+  }
+}

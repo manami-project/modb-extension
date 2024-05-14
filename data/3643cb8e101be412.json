@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15213",
+    "https://anilist.co/anime/140278",
+    "https://anime-planet.com/anime/baxian-yu-tiaozao",
+    "https://myanimelist.net/anime/43652"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3643cb8e101be412",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.0,
+    "arithmeticGeometricMean": 4.0,
+    "median": 4.0,
+    "hash": "3643cb8e101be412",
+    "lastUpdate": "2024-05-07"
+  }
+}

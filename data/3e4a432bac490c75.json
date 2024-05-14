@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10193",
+    "https://anilist.co/anime/100983",
+    "https://anime-planet.com/anime/hana-no-zundamaru",
+    "https://anisearch.com/anime/9152",
+    "https://kitsu.io/anime/8686",
+    "https://myanimelist.net/anime/20873",
+    "https://notify.moe/anime/oMJ1tKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3e4a432bac490c75",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.188837353123067,
+    "arithmeticGeometricMean": 5.176942992154287,
+    "median": 5.251818181818182,
+    "hash": "3e4a432bac490c75",
+    "lastUpdate": "2024-05-07"
+  }
+}

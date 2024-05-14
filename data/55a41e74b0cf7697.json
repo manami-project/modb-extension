@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9938",
+    "https://anilist.co/anime/121829",
+    "https://anime-planet.com/anime/sore-ike-anpanman-anpanman-to-oyakusoku",
+    "https://anisearch.com/anime/9060",
+    "https://kitsu.io/anime/9605",
+    "https://livechart.me/anime/11406",
+    "https://myanimelist.net/anime/21973",
+    "https://notify.moe/anime/R27YtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "55a41e74b0cf7697",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.769325912183055,
+    "arithmeticGeometricMean": 4.766963486942263,
+    "median": 4.818181818181818,
+    "hash": "55a41e74b0cf7697",
+    "lastUpdate": "2024-05-10"
+  }
+}

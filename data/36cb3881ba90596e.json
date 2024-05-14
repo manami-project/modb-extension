@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1912",
+    "https://anilist.co/anime/10562",
+    "https://anime-planet.com/anime/machine-hayabusa",
+    "https://anisearch.com/anime/2806",
+    "https://kitsu.io/anime/6241",
+    "https://myanimelist.net/anime/10562",
+    "https://notify.moe/anime/dtv4pKiig"
+  ],
+  "synopsis": {
+    "text": "At the heart of the international racing scene, a sinister organization known as Black Shadow wreaks havoc, employing ruthless tactics and orchestrating deadly accidents to secure victory and amass wealth. To combat this menace, the Saionji Racing Team, spearheaded by Dr. Saionji and a group of determined young racers, steps up to restore integrity and sportsmanship to the tarnished world of auto racing.\n\nEquipped with a cutting-edge racing machine, the Falcon, powered by the formidable Cavalier Engine, the Saionji team undergoes rigorous training to outmaneuver their nefarious adversaries. Ken Hayabusa, a skilled racer whose older brother fell victim to Black Shadow's treacherous schemes, becomes the team's main driver. Fueled by vengeance and a burning desire to bring justice to the racing world, Ken and his teammates challenge Black Shadow in a series of intense races.\n\nAs the rivalry between the Saionji Racing Team and Black Shadow escalates, the stakes become higher, with each race potentially determining the fate of the racing world. Will Ken Hayabusa and his teammates succeed in defeating the evil organization and restore honor to international motor racing, or will Black Shadow continue its reign of terror? The outcome rests on the performance of the Falcon and the courage of its drivers.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "36cb3881ba90596e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.378544836116265,
+    "arithmeticGeometricMean": 5.338131684800953,
+    "median": 5.6068181818181815,
+    "hash": "36cb3881ba90596e",
+    "lastUpdate": "2024-05-08"
+  }
+}

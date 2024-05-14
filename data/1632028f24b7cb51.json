@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13417",
+    "https://anilist.co/anime/100226",
+    "https://anime-planet.com/anime/evil-or-live",
+    "https://anisearch.com/anime/12810",
+    "https://kitsu.io/anime/13824",
+    "https://livechart.me/anime/2845",
+    "https://myanimelist.net/anime/36245",
+    "https://notify.moe/anime/VcpShKmmg"
+  ],
+  "synopsis": {
+    "text": "Facility to 'Guide the Misguided,' under the pretense of curing a peculiar illness plaguing the younger generation: internet addiction. Ensnared in this deceptive institution, Hibiki finds himself trapped in a prison-like environment, with no hope of escape. As despair threatens to consume him, how will Hibiki confront the torments of this unforgiving hell? In a world where loneliness, skepticism, and defiance drive the youth towards the solace of technology, can Hibiki break free from the chains of his addiction and reclaim his life?\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1632028f24b7cb51",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.620023708141975,
+    "arithmeticGeometricMean": 5.599168598000505,
+    "median": 5.627272727272727,
+    "hash": "1632028f24b7cb51",
+    "lastUpdate": "2024-05-09"
+  }
+}

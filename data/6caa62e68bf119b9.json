@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/5308",
+    "https://myanimelist.net/anime/8471"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6caa62e68bf119b9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.259081632653061,
+    "arithmeticGeometricMean": 5.258024845631832,
+    "median": 5.259081632653061,
+    "hash": "6caa62e68bf119b9",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3438",
+    "https://anilist.co/anime/17493",
+    "https://anime-planet.com/anime/ashita-genki-ni-nare-hanbun-no-satsumaimo",
+    "https://anisearch.com/anime/645",
+    "https://kitsu.io/anime/8508",
+    "https://myanimelist.net/anime/17493",
+    "https://notify.moe/anime/zMB0pKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc24720cc4bee49c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.916842300556587,
+    "arithmeticGeometricMean": 5.9038284116392505,
+    "median": 5.7272727272727275,
+    "hash": "bc24720cc4bee49c",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/bite-the-bullet",
+    "https://anisearch.com/anime/17093"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24a6dddd53060358",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.734183673469387,
+    "arithmeticGeometricMean": 6.73047837704007,
+    "median": 6.734183673469387,
+    "hash": "24a6dddd53060358",
+    "lastUpdate": "2024-05-07"
+  }
+}

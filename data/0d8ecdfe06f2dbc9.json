@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3532",
+    "https://anilist.co/anime/16245",
+    "https://anime-planet.com/anime/seikimatsu-leader-gaiden-takeshi",
+    "https://anisearch.com/anime/2113",
+    "https://kitsu.io/anime/7392",
+    "https://myanimelist.net/anime/16245",
+    "https://notify.moe/anime/FzJFtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0d8ecdfe06f2dbc9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.377632653061224,
+    "arithmeticGeometricMean": 5.3499502221707536,
+    "median": 5.0,
+    "hash": "0d8ecdfe06f2dbc9",
+    "lastUpdate": "2024-05-07"
+  }
+}

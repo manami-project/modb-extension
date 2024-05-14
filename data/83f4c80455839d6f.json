@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/168834",
+    "https://anime-planet.com/anime/woke",
+    "https://kitsu.io/anime/47958"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "83f4c80455839d6f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.454545454545454,
+    "arithmeticGeometricMean": 4.454545454545454,
+    "median": 4.454545454545454,
+    "hash": "83f4c80455839d6f",
+    "lastUpdate": "2024-05-07"
+  }
+}

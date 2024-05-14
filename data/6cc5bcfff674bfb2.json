@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21244",
+    "https://anime-planet.com/anime/haikyuu-movie-2-shousha-to-haisha",
+    "https://kitsu.io/anime/10847",
+    "https://livechart.me/anime/1452",
+    "https://myanimelist.net/anime/30364",
+    "https://notify.moe/anime/ruOltKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6cc5bcfff674bfb2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.000030303030302,
+    "arithmeticGeometricMean": 7.995149418662412,
+    "median": 8.035,
+    "hash": "6cc5bcfff674bfb2",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5624",
+    "https://anilist.co/anime/3514",
+    "https://anime-planet.com/anime/noramimi",
+    "https://anisearch.com/anime/4591",
+    "https://kitsu.io/anime/3065",
+    "https://livechart.me/anime/10075",
+    "https://myanimelist.net/anime/3514",
+    "https://notify.moe/anime/2sCw5Kimg"
+  ],
+  "synopsis": {
+    "text": "This anime takes us to a world where mascots are not merely promotional tools, but live and work alongside humans, often serving as babysitters for children. Special agencies train these mascots and help place them in families. The story revolves around Noramimi, a mascot at the Hello Kids branch office #59, who is tasked with stirring syrup as Kaminari Kozo (Lightning Kid). Despite his charming persona, Noramimi's oni (demon) lineage makes it difficult for him to find a family willing to adopt him, leaving him residing at the agency.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c929973ca200acec",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.5671935683364255,
+    "arithmeticGeometricMean": 5.540436094904821,
+    "median": 5.23,
+    "hash": "c929973ca200acec",
+    "lastUpdate": "2024-05-09"
+  }
+}

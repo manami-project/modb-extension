@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169834",
+    "https://anime-planet.com/anime/chicchana-photographer",
+    "https://myanimelist.net/anime/42787"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e2dce562e476a45b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.653636363636364,
+    "arithmeticGeometricMean": 5.615366408590769,
+    "median": 5.653636363636364,
+    "hash": "e2dce562e476a45b",
+    "lastUpdate": "2024-05-07"
+  }
+}

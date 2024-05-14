@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/176909",
+    "https://anime-planet.com/anime/yozakura-san-chi-no-minisakusen",
+    "https://anisearch.com/anime/19256",
+    "https://livechart.me/anime/12628",
+    "https://myanimelist.net/anime/58644"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "36b7b46a96210888",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.9100909090909095,
+    "arithmeticGeometricMean": 6.909785278233524,
+    "median": 6.9100909090909095,
+    "hash": "36b7b46a96210888",
+    "lastUpdate": "2024-05-13"
+  }
+}

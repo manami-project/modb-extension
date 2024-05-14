@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/3151",
+    "https://myanimelist.net/anime/1389"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ea7ed607f21f453",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.283163265306122,
+    "arithmeticGeometricMean": 5.247302997251216,
+    "median": 5.283163265306122,
+    "hash": "1ea7ed607f21f453",
+    "lastUpdate": "2024-05-08"
+  }
+}

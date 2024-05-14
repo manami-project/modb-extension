@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16923",
+    "https://anilist.co/anime/131477",
+    "https://anime-planet.com/anime/kanashiki-debu-neko-chan",
+    "https://anisearch.com/anime/16896",
+    "https://kitsu.io/anime/45223",
+    "https://livechart.me/anime/10703",
+    "https://myanimelist.net/anime/49431",
+    "https://notify.moe/anime/dbcDvjVng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ae5c9b2fcad60b3d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.210909090909091,
+    "arithmeticGeometricMean": 6.210875026379194,
+    "median": 6.210909090909091,
+    "hash": "ae5c9b2fcad60b3d",
+    "lastUpdate": "2024-05-09"
+  }
+}

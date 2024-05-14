@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12079",
+    "https://anilist.co/anime/21775",
+    "https://anime-planet.com/anime/rainbow-days-ova",
+    "https://anisearch.com/anime/11420",
+    "https://kitsu.io/anime/12054",
+    "https://livechart.me/anime/2158",
+    "https://myanimelist.net/anime/33181",
+    "https://notify.moe/anime/U8wetKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8e791c1a36e467a9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.925639146567717,
+    "arithmeticGeometricMean": 6.9159818745339745,
+    "median": 6.941090909090909,
+    "hash": "8e791c1a36e467a9",
+    "lastUpdate": "2024-05-09"
+  }
+}

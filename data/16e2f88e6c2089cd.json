@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103545",
+    "https://anime-planet.com/anime/kawaii-cook-san",
+    "https://anisearch.com/anime/8378",
+    "https://kitsu.io/anime/9371",
+    "https://myanimelist.net/anime/24807",
+    "https://notify.moe/anime/tfHfpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "16e2f88e6c2089cd",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.756674706246135,
+    "arithmeticGeometricMean": 4.688918152329466,
+    "median": 4.795,
+    "hash": "16e2f88e6c2089cd",
+    "lastUpdate": "2024-05-06"
+  }
+}

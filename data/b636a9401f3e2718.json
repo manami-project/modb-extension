@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7169",
+    "https://anime-planet.com/anime/kokka-wo-suku-e",
+    "https://anisearch.com/anime/9382",
+    "https://kitsu.io/anime/48519",
+    "https://myanimelist.net/anime/49251"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b636a9401f3e2718",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.571428571428571,
+    "arithmeticGeometricMean": 3.571428571428571,
+    "median": 3.571428571428571,
+    "hash": "b636a9401f3e2718",
+    "lastUpdate": "2024-05-08"
+  }
+}

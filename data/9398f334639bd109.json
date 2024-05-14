@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17634",
+    "https://anilist.co/anime/154924",
+    "https://anime-planet.com/anime/lupin-iii-vs-cats-eye",
+    "https://anisearch.com/anime/17714",
+    "https://kitsu.io/anime/46523",
+    "https://livechart.me/anime/11518",
+    "https://myanimelist.net/anime/53109",
+    "https://notify.moe/anime/QX8huiVVR"
+  ],
+  "synopsis": {
+    "text": "Prime phantom thief Lupin III and the enigmatic Cat's Eye sisters find themselves in a thrilling race against time to uncover a hidden secret from the past. The sisters, Hitomi, Rui, and Ai, are not just café owners but skilled cat burglars seeking clues to their missing father's whereabouts. The three paintings they're after, part of the 'Girl and the Flowers' series, hold the key to an unsolved mystery and are also the target of Lupin's latest heist. As both parties chase the same prize, they stir up chaos and excitement in the world of art theft. Amidst the glamour and danger, the story unfolds in a retro and stylish setting, commemorating the 50th anniversary of the Lupin III anime and the 40th anniversary of Cat's Eye. With the stakes high and the chase on, who will be the first to unlock the secret hidden within the paintings?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9398f334639bd109",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.00356586270872,
+    "arithmeticGeometricMean": 6.993960937678779,
+    "median": 6.866,
+    "hash": "9398f334639bd109",
+    "lastUpdate": "2024-05-09"
+  }
+}

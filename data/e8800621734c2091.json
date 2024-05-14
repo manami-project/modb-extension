@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103178",
+    "https://anime-planet.com/anime/ants-in-the-sky",
+    "https://kitsu.io/anime/45057"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e8800621734c2091",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.770909090909091,
+    "arithmeticGeometricMean": 4.752637127646473,
+    "median": 4.770909090909091,
+    "hash": "e8800621734c2091",
+    "lastUpdate": "2024-05-05"
+  }
+}

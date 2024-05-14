@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13119",
+    "https://anilist.co/anime/98632",
+    "https://anime-planet.com/anime/nui-nui-hinobori-san-kyoudai",
+    "https://anisearch.com/anime/12471",
+    "https://kitsu.io/anime/40758",
+    "https://livechart.me/anime/2676",
+    "https://myanimelist.net/anime/35443",
+    "https://notify.moe/anime/ls6vhFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d524d0724324a449",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.392504638218924,
+    "arithmeticGeometricMean": 5.357761156842668,
+    "median": 4.5,
+    "hash": "d524d0724324a449",
+    "lastUpdate": "2024-05-09"
+  }
+}

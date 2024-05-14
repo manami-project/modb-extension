@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10217",
+    "https://anilist.co/anime/104127",
+    "https://anime-planet.com/anime/mechano-scientific-attack-force",
+    "https://anisearch.com/anime/9033",
+    "https://kitsu.io/anime/9439",
+    "https://myanimelist.net/anime/24259",
+    "https://notify.moe/anime/LlABpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bac168c4cd89a714",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 3.621267779839208,
+    "arithmeticGeometricMean": 3.566731771036289,
+    "median": 3.227272727272727,
+    "hash": "bac168c4cd89a714",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10795",
+    "https://anilist.co/anime/20820",
+    "https://anime-planet.com/anime/magical-girl-lyrical-nanoha-vivid",
+    "https://anisearch.com/anime/9781",
+    "https://kitsu.io/anime/8687",
+    "https://livechart.me/anime/774",
+    "https://myanimelist.net/anime/25939",
+    "https://notify.moe/anime/vN11pFiiR"
+  ],
+  "synopsis": {
+    "text": "Sacred Heart, a powerful device, now belongs to Vivio Takamachi, a fourth-grader at St. Hilde Academy of Magic, four years after the JS incident. Adopted by Nanoha Takamachi, Vivio is the reincarnation of the Sankt Kaiser, Olivie Segbrecht, and has the ability to transform into her adult form. However, Vivio's peaceful life is disrupted when a mysterious fighter, Heidi E.S. Ingvalt, appears and targets her.\n\nAs it turns out, Heidi is actually Einhald Stratos, a middle school student who is also a descendant of an ancient Belkan ruler, Claus Ingvalt. Driven by a desire to prove her fighting abilities and protect others, Einhald challenges Vivio. Despite their rocky start, Vivio and Einhald form a strong bond, training together and entering a martial arts tournament, where they face various magical opponents.\n\nWith her friends by her side, Vivio embarks on a journey to learn more about her past life and hone her magical skills, all while honoring her promise to Nanoha not to use her powers for mischief. As they navigate the challenges of the tournament, Vivio and Einhald discover the true meaning of friendship and the strength that lies within them.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b3cf24f9190f443",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.781638600894905,
+    "arithmeticGeometricMean": 6.774474294127623,
+    "median": 6.776,
+    "hash": "0b3cf24f9190f443",
+    "lastUpdate": "2024-05-09"
+  }
+}

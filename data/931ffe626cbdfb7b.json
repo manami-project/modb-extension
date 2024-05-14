@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12721",
+    "https://anilist.co/anime/98077",
+    "https://anime-planet.com/anime/tomica-hyper-rescue-drive-head-kidou-kyuukyuu-keisatsu",
+    "https://anisearch.com/anime/12230",
+    "https://kitsu.io/anime/12913",
+    "https://livechart.me/anime/2507",
+    "https://myanimelist.net/anime/34741",
+    "https://notify.moe/anime/gZTZ2Kmig"
+  ],
+  "synopsis": {
+    "text": "Gou Kurumada, a talented grade schooler, and his fellow gifted peers join the mobile emergency police Hyper Rescue, a newly established government organization designed to combat disasters and crimes beyond human comprehension. The organization equips them with Drive Heads, advanced vehicles that transform from cars to humanoid walkers, capable of police, fire-fighting, and rescue operations. As they team up with adults, they race to the scene to safeguard humanity's peace and security, proving that age is no barrier when it comes to protecting the world. Join the adventure and witness the thrilling exploits of these young heroes as they strive to maintain order and save lives in a future just beyond our own.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "931ffe626cbdfb7b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.506946196660482,
+    "arithmeticGeometricMean": 5.480983258598524,
+    "median": 5.181818181818182,
+    "hash": "931ffe626cbdfb7b",
+    "lastUpdate": "2024-05-10"
+  }
+}

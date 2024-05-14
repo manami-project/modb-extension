@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11446",
+    "https://anilist.co/anime/103927",
+    "https://anime-planet.com/anime/nani-ga-dekiru-ka-na",
+    "https://anisearch.com/anime/11170",
+    "https://kitsu.io/anime/10829",
+    "https://myanimelist.net/anime/30398",
+    "https://notify.moe/anime/dtH_pFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec5eae520697ded9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.675534322820037,
+    "arithmeticGeometricMean": 4.6409013397595045,
+    "median": 4.46469387755102,
+    "hash": "ec5eae520697ded9",
+    "lastUpdate": "2024-05-08"
+  }
+}

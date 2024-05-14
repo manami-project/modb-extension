@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8338",
+    "https://anilist.co/anime/10465",
+    "https://anime-planet.com/anime/manyuu-hiken-chou",
+    "https://anisearch.com/anime/6959",
+    "https://kitsu.io/anime/6194",
+    "https://livechart.me/anime/1216",
+    "https://myanimelist.net/anime/10465",
+    "https://notify.moe/anime/WriVpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f753e8af7c91ffe6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.099645358143257,
+    "arithmeticGeometricMean": 6.084316961895541,
+    "median": 6.1,
+    "hash": "f753e8af7c91ffe6",
+    "lastUpdate": "2024-05-09"
+  }
+}

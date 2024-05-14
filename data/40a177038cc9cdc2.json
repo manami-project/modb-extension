@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2542",
+    "https://anilist.co/anime/996",
+    "https://anime-planet.com/anime/sailor-moon-sailor-stars",
+    "https://anisearch.com/anime/1927",
+    "https://kitsu.io/anime/886",
+    "https://livechart.me/anime/5112",
+    "https://myanimelist.net/anime/996",
+    "https://notify.moe/anime/Uwt1cFiiR"
+  ],
+  "synopsis": {
+    "text": "Of course, here's a new synopsis for the fifth and final season of \"Sailor Moon\":\n\nThe season kicks off with the return of Queen Nehelenia, seeking vengeance for her previous defeat at the hands of Serena. Meanwhile, the hottest boy band, Three Lights, joins Serena, Amy, and Mina at school, adding a new layer of excitement to their daily routine. However, the boys harbor a secret: they are Sailor Warriors, the Starlights, on a mission to find the \"Light of Hope\" to prevent Galaxia from absorbing the star crystals of all warriors, leading to the extinction of planets.\n\nSailor Moon is eager to help the newcomers, but the Outer Senshi - Saturn, Uranus, Neptune, and Pluto - are hesitant. As the solar system faces its greatest challenge, sacrifices must be made.\n\nThe season is divided into two arcs, with the first arc resolving conflicts from the previous season and reintroducing the Outer Senshi. The second arc follows the manga's plot, with Usagi bidding farewell to Mamoru, who is heading to America for his studies. In his absence, the Three Lights - Seiya, Taiki, and Yaten - arrive, and a new enemy, Galaxia, emerges, seeking to rule the galaxy by collecting the Star Seeds of humans.\n\nThree new Senshi, the Sailor Starlights, appear with their own reasons to stop Galaxia, but without Sailor Moon's assistance. As Usagi navigates high school life without Mamoru and deals with Seiya's growing interest in her, she must also determine if the Sailor Starlights are friends or foes.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "40a177038cc9cdc2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.588393320964749,
+    "arithmeticGeometricMean": 7.582088699972092,
+    "median": 7.664,
+    "hash": "40a177038cc9cdc2",
+    "lastUpdate": "2024-05-09"
+  }
+}

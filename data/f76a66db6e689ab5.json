@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/pinocchio-p-omocha-bot"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f76a66db6e689ab5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.338,
+    "arithmeticGeometricMean": 6.338,
+    "median": 6.338,
+    "hash": "f76a66db6e689ab5",
+    "lastUpdate": "2024-05-08"
+  }
+}

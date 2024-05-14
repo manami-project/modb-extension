@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16093",
+    "https://anilist.co/anime/131047",
+    "https://anime-planet.com/anime/baten-kaitos",
+    "https://anisearch.com/anime/15857",
+    "https://kitsu.io/anime/44533",
+    "https://myanimelist.net/anime/45595"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0231fc2d3e41cdc6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.819470129870131,
+    "arithmeticGeometricMean": 6.814014088116552,
+    "median": 6.75,
+    "hash": "0231fc2d3e41cdc6",
+    "lastUpdate": "2024-05-07"
+  }
+}

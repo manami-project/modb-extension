@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10326",
+    "https://anilist.co/anime/20519",
+    "https://anime-planet.com/anime/tamako-love-story",
+    "https://anisearch.com/anime/9312",
+    "https://kitsu.io/anime/8135",
+    "https://livechart.me/anime/227",
+    "https://myanimelist.net/anime/21647",
+    "https://notify.moe/anime/rSRTtKmmg"
+  ],
+  "synopsis": {
+    "text": "At the brink of their high school graduation, Tamako and her friends stand on the precipice of change. Amidst the whirlwind of emotions, Tamako's focus remains steadfast on her family's mochi shop, with no plans of venturing beyond the familiar. Meanwhile, Mochizou Ooji, harboring a deep affection for Tamako since their childhood, prepares to leave for a university in Tokyo. As the days dwindle down, Mochizou musters the courage to reveal his feelings to Tamako before their paths diverge. With friends and acquaintances from Usagi Shopping Street making appearances, this heartwarming tale of love and growth unfolds, as Tamako grapples with the reality of her friends moving on to new horizons while she remains anchored to her humble roots. Little does she know, a confession might just alter her perspective on her seemingly solitary future.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "34d1d708a511d8c1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.9768396809183315,
+    "arithmeticGeometricMean": 7.975738367929502,
+    "median": 7.977,
+    "hash": "34d1d708a511d8c1",
+    "lastUpdate": "2024-05-10"
+  }
+}

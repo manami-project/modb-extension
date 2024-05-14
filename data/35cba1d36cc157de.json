@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14337",
+    "https://anilist.co/anime/114440",
+    "https://anime-planet.com/anime/go-hiki-no-kozaru-tachi",
+    "https://anisearch.com/anime/10551",
+    "https://kitsu.io/anime/10543",
+    "https://myanimelist.net/anime/29918",
+    "https://notify.moe/anime/FHgQtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35cba1d36cc157de",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.841245516388374,
+    "arithmeticGeometricMean": 4.7910521705040665,
+    "median": 4.681818181818182,
+    "hash": "35cba1d36cc157de",
+    "lastUpdate": "2024-05-07"
+  }
+}

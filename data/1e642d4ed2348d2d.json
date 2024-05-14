@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13573",
+    "https://anilist.co/anime/100873",
+    "https://anime-planet.com/anime/working-buddies",
+    "https://anisearch.com/anime/12999",
+    "https://kitsu.io/anime/14161",
+    "https://livechart.me/anime/2970",
+    "https://myanimelist.net/anime/36784",
+    "https://notify.moe/anime/aIlNhFmig"
+  ],
+  "synopsis": {
+    "text": "These two feline college students, the lively calico Tapio Chatorazawa and the brooding Russian blue Kuehiko Roshihara, embark on a journey of self-discovery as they navigate through various part-time jobs. Despite their contrasting personalities, they form a unique bond while learning the value of hard work and the joy that comes with it. From delivering packages to washing windows on towering skyscrapers, these young cats explore the diverse world of work, encountering a colorful cast of customers and supervisors along the way. With each new job, they gain valuable life lessons and grow closer as friends, proving that even the most challenging tasks can be enjoyable when tackled together.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1e642d4ed2348d2d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.037996024383779,
+    "arithmeticGeometricMean": 6.023408632419604,
+    "median": 6.2727272727272725,
+    "hash": "1e642d4ed2348d2d",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5272",
+    "https://anilist.co/anime/19941",
+    "https://anime-planet.com/anime/kimu-no-juujika",
+    "https://anisearch.com/anime/4335",
+    "https://kitsu.io/anime/9387",
+    "https://myanimelist.net/anime/19941",
+    "https://notify.moe/anime/KJdBpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1cf7c57e86fc52db",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.872242424242425,
+    "arithmeticGeometricMean": 5.8286017491274205,
+    "median": 5.2727272727272725,
+    "hash": "1cf7c57e86fc52db",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113271",
+    "https://anime-planet.com/anime/tomato-confit",
+    "https://kitsu.io/anime/45198",
+    "https://myanimelist.net/anime/43704"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fdd9fe818559524e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.0790303030303035,
+    "arithmeticGeometricMean": 6.076571286246233,
+    "median": 5.909090909090908,
+    "hash": "fdd9fe818559524e",
+    "lastUpdate": "2024-05-07"
+  }
+}

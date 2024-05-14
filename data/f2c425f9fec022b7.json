@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/128390",
+    "https://anime-planet.com/anime/fire-force-mini-anime",
+    "https://anisearch.com/anime/16235",
+    "https://kitsu.io/anime/43921",
+    "https://livechart.me/anime/10323",
+    "https://myanimelist.net/anime/45999",
+    "https://notify.moe/anime/wRW3t8fMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f2c425f9fec022b7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.345251523986218,
+    "arithmeticGeometricMean": 6.310641575677157,
+    "median": 6.356,
+    "hash": "f2c425f9fec022b7",
+    "lastUpdate": "2024-05-06"
+  }
+}

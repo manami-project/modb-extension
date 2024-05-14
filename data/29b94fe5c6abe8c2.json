@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13524",
+    "https://anilist.co/anime/107346",
+    "https://anime-planet.com/anime/granblue-fantasy-the-animation-season-2",
+    "https://anisearch.com/anime/12914",
+    "https://kitsu.io/anime/14132",
+    "https://livechart.me/anime/2940",
+    "https://myanimelist.net/anime/36587",
+    "https://notify.moe/anime/5pEN2KiiR"
+  ],
+  "synopsis": {
+    "text": "Albion Citadel, a neutral territory, becomes the stage for a tense negotiation between Gran, captain of the Grandcypher airship, and General Furias of the Erste Empire. The crew, including Vyrn, Lyria, and their allies, seek a ceasefire while on their quest to find the elusive Island of the Astrals. Amidst the political tensions, they are welcomed by Vira Lillie, the current Lord Commander of Albion and a former acquaintance of Katalina Alize.\n\nAs the negotiations conclude, the crew is invited to a gala hosted by Vira. However, the Erste delegation's continued presence on the island raises suspicions among the Skyfarers. A shocking revelation emerges when they learn of a Primal Beast lurking on the island and a letter from Katalina announcing her resignation. Determined to unravel the truth, Gran sets off to find their former comrade, while Eugen and Rackam investigate the Empire's true intentions.\n\nWith their journey only halfway complete, Gran and his crew face new challenges and mysteries as they continue their skyward adventure. As they forge deeper bonds and confront the pursuing empire, the young boy and the enigmatic blue-haired girl, Lyria, remain resolute in their quest to reach the Island of the Astrals. The vast skies above hold countless adventures, and the crew of the Grandcypher is ready to embrace them all.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "29b94fe5c6abe8c2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.956933160824139,
+    "arithmeticGeometricMean": 6.949622929336005,
+    "median": 6.933636363636364,
+    "hash": "29b94fe5c6abe8c2",
+    "lastUpdate": "2024-05-09"
+  }
+}

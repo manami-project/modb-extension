@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15507",
+    "https://anilist.co/anime/131367",
+    "https://anime-planet.com/anime/jintai-no-survival",
+    "https://anisearch.com/anime/15345",
+    "https://livechart.me/anime/9893",
+    "https://myanimelist.net/anime/41734",
+    "https://notify.moe/anime/O3RlG66Zg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aabe3adc0ac38c48",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.167903525046382,
+    "arithmeticGeometricMean": 6.120433672583006,
+    "median": 6.167903525046382,
+    "hash": "aabe3adc0ac38c48",
+    "lastUpdate": "2024-05-09"
+  }
+}

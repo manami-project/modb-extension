@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7558",
+    "https://anilist.co/anime/9446",
+    "https://anime-planet.com/anime/sore-ike-anpanman-niji-no-pyramid",
+    "https://anisearch.com/anime/5335",
+    "https://kitsu.io/anime/5738",
+    "https://livechart.me/anime/11425",
+    "https://myanimelist.net/anime/9446",
+    "https://notify.moe/anime/4wmMtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4994f30299ee72e9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.715269016697588,
+    "arithmeticGeometricMean": 5.703199252491744,
+    "median": 5.7672727272727276,
+    "hash": "4994f30299ee72e9",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7117",
+    "https://anilist.co/anime/1525",
+    "https://anime-planet.com/anime/pokemon-raikou-the-legend-of-thunder",
+    "https://anisearch.com/anime/4466",
+    "https://kitsu.io/anime/1367",
+    "https://livechart.me/anime/5643",
+    "https://myanimelist.net/anime/1525",
+    "https://notify.moe/anime/rVT-5Kimg"
+  ],
+  "synopsis": {
+    "text": "Pokémon trainers Kenta and Marina, eager to test their honed skills, arrange a friendly duel at a Pokémon Center. Their battle is cut short by an unexpected thunderstorm and the arrival of nefarious Rocket Gang members, Bashou and Buson. The villains wield the Crystal System, a powerful tool that lures Electric-type Pokémon, with the intent to capture the legendary Raikou under the orders of their leader, Shiranui-hakase. As Kenta and Marina stumble upon this sinister plot, they join forces with fellow trainers Vincent and Eusine to protect Raikou and thwart the Rocket Gang's plans. This thrilling adventure unfolds in the first three episodes of \"Pokémon Chronicles.\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "31037d19bbcc0342",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.770990910157167,
+    "arithmeticGeometricMean": 6.759712299919311,
+    "median": 6.884545454545455,
+    "hash": "31037d19bbcc0342",
+    "lastUpdate": "2024-05-09"
+  }
+}

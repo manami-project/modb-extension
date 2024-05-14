@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8681",
+    "https://anilist.co/anime/11771",
+    "https://anime-planet.com/anime/kurokos-basketball",
+    "https://anisearch.com/anime/7314",
+    "https://kitsu.io/anime/6595",
+    "https://livechart.me/anime/1118",
+    "https://myanimelist.net/anime/11771",
+    "https://notify.moe/anime/cE9IpFiig"
+  ],
+  "synopsis": {
+    "text": "Basketball prodigy Taiga Kagami returns from America to join Seirin High School, where he encounters an unassuming teammate, Tetsuya Kuroko. Despite Kuroko's lack of presence and athletic prowess, Kagami discovers that he was once part of the legendary 'Generation of Miracles' basketball team from Teiko Middle School, which dominated the national scene for three consecutive years. As the secret sixth member, Kuroko used his inconspicuousness to orchestrate perfect passes and support his extraordinary teammates.\n\nNow, Kuroko and Kagami form a formidable duo, combining Kagami's natural talent and passion for the game with Kuroko's unique ability to remain unnoticed by opponents. Together, they strive to lead Seirin High to victory in the Interhigh championship, facing off against Kuroko's former teammates who have dispersed among rival schools. As they challenge these old adversaries, Kuroko and Kagami forge a powerful bond, with Kuroko vowing to be the shadow that supports Kagami's light. Seirin High's new dynamic pair aims to prove their strength and redefine their love for basketball in this thrilling journey to the top.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0538f44b8b2b878e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.108451789777684,
+    "arithmeticGeometricMean": 8.106902869032382,
+    "median": 8.0589797008547,
+    "hash": "0538f44b8b2b878e",
+    "lastUpdate": "2024-05-09"
+  }
+}

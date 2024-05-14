@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8914",
+    "https://anilist.co/anime/12685",
+    "https://anime-planet.com/anime/code-geass-nunnally-in-wonderland",
+    "https://anisearch.com/anime/7561",
+    "https://kitsu.io/anime/6791",
+    "https://livechart.me/anime/1064",
+    "https://myanimelist.net/anime/12685",
+    "https://notify.moe/anime/el8NtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "32e1aea29b496a49",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.2185580357142864,
+    "arithmeticGeometricMean": 6.199327252304864,
+    "median": 6.334375,
+    "hash": "32e1aea29b496a49",
+    "lastUpdate": "2024-05-09"
+  }
+}

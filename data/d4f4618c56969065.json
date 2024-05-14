@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/202",
+    "https://myanimelist.net/anime/1510"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4f4618c56969065",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.61204081632653,
+    "arithmeticGeometricMean": 5.595514800214333,
+    "median": 5.61204081632653,
+    "hash": "d4f4618c56969065",
+    "lastUpdate": "2024-05-07"
+  }
+}

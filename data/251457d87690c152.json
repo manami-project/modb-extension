@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2862",
+    "https://anilist.co/anime/503",
+    "https://anime-planet.com/anime/eien-no-aseria-spirit-of-eternity-sword",
+    "https://anisearch.com/anime/2839",
+    "https://kitsu.io/anime/462",
+    "https://myanimelist.net/anime/503",
+    "https://notify.moe/anime/fKtocFmmR"
+  ],
+  "synopsis": {
+    "text": "In a heartrending twist of fate, Yuuto Takamine's life takes a dramatic turn when he and his cherished younger stepsister, Kaori, are suddenly transported to the mystical realm of Phantasmagoria while visiting their parents' grave. This enigmatic world, teeming with spirits assuming human forms and locked in relentless conflict, presents a formidable challenge for the siblings.\n\nWhen the King of this realm seizes Kaori as a captive, Yuuto is left with no choice but to accept the monarch's decree – wield the divine sword \"Motome\" and defend the kingdom against its adversaries. The catch? Only a human hailing from another world can brandish this ethereal weapon.\n\nAs Yuuto embarks on this perilous quest to safeguard his beloved sister and bring peace to the war-torn kingdom, he finds unwavering support in the company of spirits – Aseria, Esperia, and Orpha – who are no strangers to the heat of battle. Will Yuuto triumph against all odds and reunite with Kaori, or will the tides of war consume them both? Only time will tell in this enthralling tale of courage, love, and resilience.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "251457d87690c152",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.317486173690255,
+    "arithmeticGeometricMean": 5.2914759608710344,
+    "median": 5.338,
+    "hash": "251457d87690c152",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7982",
+    "https://anilist.co/anime/9875",
+    "https://anime-planet.com/anime/anime-tenchou-x-touhou-project",
+    "https://anisearch.com/anime/6529",
+    "https://kitsu.io/anime/5914",
+    "https://livechart.me/anime/5970",
+    "https://myanimelist.net/anime/9875",
+    "https://notify.moe/anime/sAlMtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8fc2549158cb266a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.473006095944872,
+    "arithmeticGeometricMean": 6.45358811386141,
+    "median": 6.545454545454545,
+    "hash": "8fc2549158cb266a",
+    "lastUpdate": "2024-05-08"
+  }
+}

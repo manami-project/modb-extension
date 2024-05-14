@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6426",
+    "https://anilist.co/anime/5962",
+    "https://anime-planet.com/anime/beyblade-metal-fusion",
+    "https://anisearch.com/anime/5302",
+    "https://kitsu.io/anime/4365",
+    "https://livechart.me/anime/4548",
+    "https://myanimelist.net/anime/5962",
+    "https://notify.moe/anime/2xvq5Fmmg"
+  ],
+  "synopsis": {
+    "text": "Gingka, a fervent Beyblade enthusiast, embarks on a journey to hone his skills and find formidable opponents to become the ultimate Blader. Along the way, he encounters Kenta, a budding Blader, and saves him from the clutches of the notorious Face Hunters gang. Together with new allies, including Madoka, the daughter of a Beyblade repair store owner, Gingka battles against the sinister Dark Nebula organization, who seek to unleash an ancient and forbidden Beyblade to take over the world. As Gingka faces off against powerful foes, he discovers that the line between friend and enemy is blurred, and he must find the strength within himself to protect his world and the honor of Beyblade. With the fate of the world resting on his shoulders, Gingka must rise to the challenge and become the Blader he was destined to be.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0126ea9f6ccbad80",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.649811224489795,
+    "arithmeticGeometricMean": 6.639181093077583,
+    "median": 6.814285714285715,
+    "hash": "0126ea9f6ccbad80",
+    "lastUpdate": "2024-05-09"
+  }
+}

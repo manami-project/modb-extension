@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12631",
+    "https://anilist.co/anime/103933",
+    "https://anime-planet.com/anime/sense-honma-ni-honma",
+    "https://kitsu.io/anime/11927",
+    "https://myanimelist.net/anime/32583",
+    "https://notify.moe/anime/gONetKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "104d883fa4c5cbe3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.957854545454545,
+    "arithmeticGeometricMean": 4.930277825654014,
+    "median": 4.7272727272727275,
+    "hash": "104d883fa4c5cbe3",
+    "lastUpdate": "2024-05-08"
+  }
+}

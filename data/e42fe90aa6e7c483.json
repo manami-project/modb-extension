@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14857",
+    "https://anilist.co/anime/115238",
+    "https://anime-planet.com/anime/chokotto-anime-kemono-friends-3",
+    "https://anisearch.com/anime/14365",
+    "https://kitsu.io/anime/42617",
+    "https://livechart.me/anime/9408",
+    "https://myanimelist.net/anime/39653"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e42fe90aa6e7c483",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.7753343228200364,
+    "arithmeticGeometricMean": 5.767158134186962,
+    "median": 5.43,
+    "hash": "e42fe90aa6e7c483",
+    "lastUpdate": "2024-05-09"
+  }
+}

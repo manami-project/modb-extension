@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/6615",
+    "https://myanimelist.net/anime/9778"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c1e91a1f9f6bbbcc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.175408163265306,
+    "arithmeticGeometricMean": 5.123042765940875,
+    "median": 5.175408163265306,
+    "hash": "c1e91a1f9f6bbbcc",
+    "lastUpdate": "2024-05-07"
+  }
+}

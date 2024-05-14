@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15118",
+    "https://anilist.co/anime/129815",
+    "https://anime-planet.com/anime/ousu-no-bu-chan",
+    "https://anisearch.com/anime/14677",
+    "https://myanimelist.net/anime/40482"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "263a21f4922cd04b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.895024118738404,
+    "arithmeticGeometricMean": 5.860956647025013,
+    "median": 5.408163265306122,
+    "hash": "263a21f4922cd04b",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/tokyo-twins-athletic-tournament",
+    "https://kitsu.io/anime/12429",
+    "https://myanimelist.net/anime/33473",
+    "https://notify.moe/anime/QytzhFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc986fa9a2b37ffd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.42,
+    "arithmeticGeometricMean": 5.411848149753902,
+    "median": 5.42,
+    "hash": "bc986fa9a2b37ffd",
+    "lastUpdate": "2024-05-07"
+  }
+}

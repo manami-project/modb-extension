@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10956",
+    "https://anilist.co/anime/20480",
+    "https://anime-planet.com/anime/kimi-to-boku-2001",
+    "https://anisearch.com/anime/10221",
+    "https://kitsu.io/anime/8434",
+    "https://livechart.me/anime/6288",
+    "https://myanimelist.net/anime/20505",
+    "https://notify.moe/anime/HmF0pFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "502659f464777c69",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.508201784609947,
+    "arithmeticGeometricMean": 6.492375278092584,
+    "median": 6.666666666666667,
+    "hash": "502659f464777c69",
+    "lastUpdate": "2024-05-09"
+  }
+}

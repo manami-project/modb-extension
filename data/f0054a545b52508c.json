@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/168962",
+    "https://anime-planet.com/anime/nights-with-a-cat-x-gamera-rebirth-dai-kaijuu-gamenya-shuurai",
+    "https://kitsu.io/anime/47919"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f0054a545b52508c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.027,
+    "arithmeticGeometricMean": 7.026974064203667,
+    "median": 7.027,
+    "hash": "f0054a545b52508c",
+    "lastUpdate": "2024-05-07"
+  }
+}

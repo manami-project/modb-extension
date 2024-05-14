@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11199",
+    "https://anilist.co/anime/20477",
+    "https://anime-planet.com/anime/zeonic-front-mobile-suit-gundam-0079-indignation-of-zeon",
+    "https://anisearch.com/anime/10546",
+    "https://kitsu.io/anime/8784",
+    "https://livechart.me/anime/7540",
+    "https://myanimelist.net/anime/20667",
+    "https://notify.moe/anime/NXqJpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "348b4cf899c491e8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.826771799628942,
+    "arithmeticGeometricMean": 5.811184727180878,
+    "median": 5.7272727272727275,
+    "hash": "348b4cf899c491e8",
+    "lastUpdate": "2024-05-10"
+  }
+}

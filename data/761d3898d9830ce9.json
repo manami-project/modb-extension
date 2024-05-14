@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18561",
+    "https://anilist.co/anime/176311",
+    "https://anime-planet.com/anime/blue-exorcist-beyond-the-snow-saga",
+    "https://anisearch.com/anime/19134",
+    "https://kitsu.io/anime/48650",
+    "https://livechart.me/anime/12608",
+    "https://myanimelist.net/anime/58516",
+    "https://notify.moe/anime/bChUr_JIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "761d3898d9830ce9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "761d3898d9830ce9",
+    "lastUpdate": "2024-05-11"
+  }
+}

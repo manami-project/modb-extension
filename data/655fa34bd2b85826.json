@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16697",
+    "https://anilist.co/anime/124204",
+    "https://anime-planet.com/anime/ruguo-lishi-shi-yiqun-miao-5",
+    "https://myanimelist.net/anime/51153"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "655fa34bd2b85826",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.7272727272727275,
+    "arithmeticGeometricMean": 5.7272727272727275,
+    "median": 5.7272727272727275,
+    "hash": "655fa34bd2b85826",
+    "lastUpdate": "2024-05-08"
+  }
+}

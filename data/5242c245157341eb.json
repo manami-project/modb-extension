@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3535",
+    "https://anilist.co/anime/2737",
+    "https://anime-planet.com/anime/koryu-no-mimi",
+    "https://anisearch.com/anime/1756",
+    "https://kitsu.io/anime/2497",
+    "https://livechart.me/anime/7310",
+    "https://myanimelist.net/anime/2737",
+    "https://notify.moe/anime/WAry5FmmR"
+  ],
+  "synopsis": {
+    "text": "Kouryuu no Mimi, a powerful tool that grants its wielder immense fortune and charm, is passed down to the 45th leader of the Natsume family, Natsume Kiroemon. After his father's death, Natsume leaves his training at an Italian monastery to claim his birthright as the family leader and the power of Kouryuu no Mimi. Upon his return to Japan, he finds himself irresistibly drawn to Kanako, a member of the hostile Mina family. The Mina family, exploiting this vulnerability, relentlessly attacks Natsume and kidnaps Kanako. With the seal on Kouryuu's power unlocked, Natsume vows to rescue Kanako and exact vengeance on the Mina family.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5242c245157341eb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.868667373442883,
+    "arithmeticGeometricMean": 4.831773056185296,
+    "median": 4.73,
+    "hash": "5242c245157341eb",
+    "lastUpdate": "2024-05-09"
+  }
+}

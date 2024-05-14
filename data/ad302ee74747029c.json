@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103535",
+    "https://anime-planet.com/anime/meitantei-gordon",
+    "https://anisearch.com/anime/13341",
+    "https://kitsu.io/anime/12453",
+    "https://myanimelist.net/anime/33693",
+    "https://notify.moe/anime/-XAk2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ad302ee74747029c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.661403834260977,
+    "arithmeticGeometricMean": 4.555583140735087,
+    "median": 4.92,
+    "hash": "ad302ee74747029c",
+    "lastUpdate": "2024-05-06"
+  }
+}

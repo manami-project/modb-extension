@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/pokemon-xy-new-year-special",
+    "https://anisearch.com/anime/11662",
+    "https://kitsu.io/anime/8948",
+    "https://livechart.me/anime/5672",
+    "https://myanimelist.net/anime/21703",
+    "https://notify.moe/anime/-NfxtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da1c2966c940b635",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.352959554730983,
+    "arithmeticGeometricMean": 6.347343180693676,
+    "median": 6.214,
+    "hash": "da1c2966c940b635",
+    "lastUpdate": "2024-05-06"
+  }
+}

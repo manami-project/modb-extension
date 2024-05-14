@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13403",
+    "https://anilist.co/anime/99893",
+    "https://anime-planet.com/anime/tokimeki-restaurant-miracle-6-movie",
+    "https://anisearch.com/anime/12758",
+    "https://kitsu.io/anime/13982",
+    "https://livechart.me/anime/2840",
+    "https://myanimelist.net/anime/36204",
+    "https://notify.moe/anime/TRZN2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "38287e2046af52be",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.367234879406308,
+    "arithmeticGeometricMean": 6.316354596280548,
+    "median": 5.37,
+    "hash": "38287e2046af52be",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4066",
+    "https://anilist.co/anime/7452",
+    "https://anime-planet.com/anime/mini-moni-yaru-no-da-pyon",
+    "https://anisearch.com/anime/2595",
+    "https://kitsu.io/anime/4978",
+    "https://myanimelist.net/anime/7452",
+    "https://notify.moe/anime/BbCRpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "860d0665186050cb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.776935683364255,
+    "arithmeticGeometricMean": 4.755704533129456,
+    "median": 4.744897959183673,
+    "hash": "860d0665186050cb",
+    "lastUpdate": "2024-05-08"
+  }
+}

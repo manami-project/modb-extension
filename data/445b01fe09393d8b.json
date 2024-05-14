@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4555",
+    "https://anilist.co/anime/1592",
+    "https://anime-planet.com/anime/hataraki-man",
+    "https://anisearch.com/anime/3681",
+    "https://kitsu.io/anime/1432",
+    "https://livechart.me/anime/5649",
+    "https://myanimelist.net/anime/1592",
+    "https://notify.moe/anime/CcQ-5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "445b01fe09393d8b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.924252849191625,
+    "arithmeticGeometricMean": 6.921824569428334,
+    "median": 7.04,
+    "hash": "445b01fe09393d8b",
+    "lastUpdate": "2024-05-09"
+  }
+}

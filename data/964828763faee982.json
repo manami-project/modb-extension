@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3475",
+    "https://anilist.co/anime/1984",
+    "https://anime-planet.com/anime/memory",
+    "https://anisearch.com/anime/3541",
+    "https://kitsu.io/anime/1786",
+    "https://myanimelist.net/anime/1984",
+    "https://notify.moe/anime/2VNL5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "964828763faee982",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.88481579644845,
+    "arithmeticGeometricMean": 5.8716658093536935,
+    "median": 6.02,
+    "hash": "964828763faee982",
+    "lastUpdate": "2024-05-08"
+  }
+}

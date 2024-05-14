@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5731",
+    "https://anilist.co/anime/6994",
+    "https://anime-planet.com/anime/koneko-no-studio",
+    "https://anisearch.com/anime/4540",
+    "https://kitsu.io/anime/4828",
+    "https://myanimelist.net/anime/6994",
+    "https://notify.moe/anime/8NORtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e511239aa1d7cbd6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.055065995229261,
+    "arithmeticGeometricMean": 6.048682242297554,
+    "median": 6.08,
+    "hash": "e511239aa1d7cbd6",
+    "lastUpdate": "2024-05-08"
+  }
+}

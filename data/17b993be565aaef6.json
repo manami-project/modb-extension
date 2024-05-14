@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/427",
+    "https://anilist.co/anime/194",
+    "https://anime-planet.com/anime/macross-zero",
+    "https://anisearch.com/anime/2997",
+    "https://kitsu.io/anime/171",
+    "https://livechart.me/anime/5091",
+    "https://myanimelist.net/anime/194",
+    "https://notify.moe/anime/iq3pcFmmg"
+  ],
+  "synopsis": {
+    "text": "Taking place in a world where an alien battleship's crash landing has sparked a global conflict, Macross Zero unfolds a tale of war, ancient technology, and impending doom. The story follows Shin Kudo, a young ace pilot for the U.N. Spacy, who is shot down by an advanced Anti-U.N. fighter plane over the remote island of Mayan. As Shin recovers on this seemingly idyllic island, he becomes entangled in the lives of the natives, who follow a spiritual leader named Sara and live by a unique set of rules.\n\nThe island's peace is shattered when both the U.N. and Anti-U.N. forces take an interest in Mayan, as it harbors remnants of an ancient civilization known as the Proto-culture, whose technology bears a striking resemblance to the alien battleship's. As both factions race to uncover the secrets of this advanced technology, the island becomes a battleground, and the natives' lives are forever altered.\n\nAt the heart of the conflict lies an ancient legend of a Bird-Human, who is said to bring about destruction. As Shin and Sara become entwined in the struggle to control the island's powerful technology, they must confront the consequences of resurrecting the mythical Bird-Human, which could have dire repercussions for the world. Set a year before the arrival of the Zentraedi, Macross Zero chronicles the final days of the war between the U.N. Spacy and anti-U.N. factions, as they fight for control over the technology that could change the course of human history.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "17b993be565aaef6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.616859461966604,
+    "arithmeticGeometricMean": 7.614184020785685,
+    "median": 7.666,
+    "hash": "17b993be565aaef6",
+    "lastUpdate": "2024-05-09"
+  }
+}

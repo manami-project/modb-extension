@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3288",
+    "https://anilist.co/anime/5018",
+    "https://anime-planet.com/anime/piroppo",
+    "https://anisearch.com/anime/2307",
+    "https://kitsu.io/anime/3884",
+    "https://livechart.me/anime/8575",
+    "https://myanimelist.net/anime/5018",
+    "https://notify.moe/anime/lTBrcKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0eb213497d883e4d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.029079777365491,
+    "arithmeticGeometricMean": 5.01390870889702,
+    "median": 4.954545454545455,
+    "hash": "0eb213497d883e4d",
+    "lastUpdate": "2024-05-09"
+  }
+}

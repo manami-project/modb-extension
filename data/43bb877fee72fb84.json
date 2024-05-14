@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9027",
+    "https://anime-planet.com/anime/pa-pa-pa-the-movie-perman-tako-de-pon-ashi-wa-pon",
+    "https://anisearch.com/anime/7678",
+    "https://kitsu.io/anime/10426",
+    "https://myanimelist.net/anime/29611",
+    "https://notify.moe/anime/U6JUtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "43bb877fee72fb84",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.738132653061225,
+    "arithmeticGeometricMean": 6.734105095086568,
+    "median": 6.755,
+    "hash": "43bb877fee72fb84",
+    "lastUpdate": "2024-05-07"
+  }
+}

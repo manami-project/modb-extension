@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1906",
+    "https://anilist.co/anime/3388",
+    "https://anime-planet.com/anime/majokko-megu-chan",
+    "https://anisearch.com/anime/2419",
+    "https://kitsu.io/anime/2975",
+    "https://livechart.me/anime/7530",
+    "https://myanimelist.net/anime/3388",
+    "https://notify.moe/anime/RuxwcKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "693cb5f43382af9b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.231366021733369,
+    "arithmeticGeometricMean": 6.201868349078171,
+    "median": 6.1818181818181825,
+    "hash": "693cb5f43382af9b",
+    "lastUpdate": "2024-05-09"
+  }
+}

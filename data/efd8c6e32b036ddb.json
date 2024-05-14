@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13002",
+    "https://anilist.co/anime/8921",
+    "https://anime-planet.com/anime/believe",
+    "https://anisearch.com/anime/6751",
+    "https://kitsu.io/anime/5535",
+    "https://myanimelist.net/anime/8921",
+    "https://notify.moe/anime/s-NWpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "efd8c6e32b036ddb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.612949907235622,
+    "arithmeticGeometricMean": 5.597982364964015,
+    "median": 5.5,
+    "hash": "efd8c6e32b036ddb",
+    "lastUpdate": "2024-05-08"
+  }
+}

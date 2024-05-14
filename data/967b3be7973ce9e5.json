@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16746",
+    "https://anilist.co/anime/131664",
+    "https://anime-planet.com/anime/raccoon-town-in-the-phone",
+    "https://anisearch.com/anime/16470",
+    "https://kitsu.io/anime/44784",
+    "https://livechart.me/anime/10582",
+    "https://myanimelist.net/anime/48899"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "967b3be7973ce9e5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.545454545454546,
+    "arithmeticGeometricMean": 5.545454545454546,
+    "median": 5.545454545454546,
+    "hash": "967b3be7973ce9e5",
+    "lastUpdate": "2024-05-10"
+  }
+}

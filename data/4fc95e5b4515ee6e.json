@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126888",
+    "https://anime-planet.com/anime/god-eater-rezo-nantoka-gekijou-episode-ex",
+    "https://anisearch.com/anime/18818",
+    "https://kitsu.io/anime/42854",
+    "https://myanimelist.net/anime/38433"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4fc95e5b4515ee6e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.381130797773655,
+    "arithmeticGeometricMean": 5.362351904740753,
+    "median": 5.386363636363637,
+    "hash": "4fc95e5b4515ee6e",
+    "lastUpdate": "2024-05-06"
+  }
+}

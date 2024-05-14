@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1122",
+    "https://anilist.co/anime/709",
+    "https://anime-planet.com/anime/uninhabited-planet-survive",
+    "https://anisearch.com/anime/2605",
+    "https://kitsu.io/anime/643",
+    "https://livechart.me/anime/5113",
+    "https://myanimelist.net/anime/709",
+    "https://notify.moe/anime/CPHA5Kmig"
+  ],
+  "synopsis": {
+    "text": "Their new home was supposed to be among the stars, but fate had other plans. In the 22nd century, mankind has abandoned Earth and colonized space, where anti-gravity basketball and interplanetary travel are the norm. Luna, an orphan girl, earns a scholarship to the prestigious Soria Academy, only to find herself stranded on an unfamiliar planet after a school excursion goes horribly wrong. Along with her pet robot and six classmates, Luna must navigate this untamed world and fight for survival. As they struggle to adapt, they can't help but wonder if they are truly alone on this seemingly deserted planet, or if something lurks in the shadows, waiting to strike. With no guarantee of rescue, the group must come together and rely on each other to endure the challenges of their newfound home.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c5354e9a1c58eef",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.644801561533704,
+    "arithmeticGeometricMean": 7.644098379705399,
+    "median": 7.653181818181817,
+    "hash": "5c5354e9a1c58eef",
+    "lastUpdate": "2024-05-09"
+  }
+}

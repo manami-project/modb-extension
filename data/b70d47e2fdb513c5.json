@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103474",
+    "https://anime-planet.com/anime/imeruat-black-ocean",
+    "https://kitsu.io/anime/12208",
+    "https://myanimelist.net/anime/32811",
+    "https://notify.moe/anime/R1hRhKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b70d47e2fdb513c5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.196036363636364,
+    "arithmeticGeometricMean": 5.171463685541502,
+    "median": 4.78,
+    "hash": "b70d47e2fdb513c5",
+    "lastUpdate": "2024-05-06"
+  }
+}

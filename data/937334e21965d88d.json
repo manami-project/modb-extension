@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6082",
+    "https://anilist.co/anime/4705",
+    "https://anime-planet.com/anime/tengen-toppa-gurren-lagann-parallel-works",
+    "https://anisearch.com/anime/4949",
+    "https://kitsu.io/anime/3751",
+    "https://myanimelist.net/anime/4705",
+    "https://notify.moe/anime/sPn95KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "937334e21965d88d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.889675664113902,
+    "arithmeticGeometricMean": 6.883425459347112,
+    "median": 7.035087719298247,
+    "hash": "937334e21965d88d",
+    "lastUpdate": "2024-05-08"
+  }
+}

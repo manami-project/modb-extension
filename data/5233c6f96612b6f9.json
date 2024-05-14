@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103753",
+    "https://anime-planet.com/anime/consultation-room",
+    "https://anisearch.com/anime/12886",
+    "https://kitsu.io/anime/8319",
+    "https://livechart.me/anime/8835",
+    "https://myanimelist.net/anime/23059",
+    "https://notify.moe/anime/3Y_opKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5233c6f96612b6f9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.39021706864564,
+    "arithmeticGeometricMean": 4.292255773307516,
+    "median": 4.605,
+    "hash": "5233c6f96612b6f9",
+    "lastUpdate": "2024-05-10"
+  }
+}

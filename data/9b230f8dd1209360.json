@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7441",
+    "https://anilist.co/anime/8481",
+    "https://anime-planet.com/anime/bungaku-shoujo-memoire",
+    "https://anisearch.com/anime/6169",
+    "https://kitsu.io/anime/5352",
+    "https://livechart.me/anime/5640",
+    "https://myanimelist.net/anime/8481",
+    "https://notify.moe/anime/UBTmtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b230f8dd1209360",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.211313570882899,
+    "arithmeticGeometricMean": 7.20834252917085,
+    "median": 7.220000000000001,
+    "hash": "9b230f8dd1209360",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16605",
+    "https://anilist.co/anime/130447",
+    "https://anime-planet.com/anime/deviant-4th-season",
+    "https://kitsu.io/anime/44117",
+    "https://livechart.me/anime/10480",
+    "https://myanimelist.net/anime/48374",
+    "https://notify.moe/anime/HP5cGFTVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f69fecc74821fde5",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.139939393939393,
+    "arithmeticGeometricMean": 7.137208079045556,
+    "median": 7.181818181818182,
+    "hash": "f69fecc74821fde5",
+    "lastUpdate": "2024-05-13"
+  }
+}

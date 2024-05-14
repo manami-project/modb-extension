@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12316",
+    "https://anilist.co/anime/103664",
+    "https://anime-planet.com/anime/usamaru",
+    "https://anisearch.com/anime/11669",
+    "https://kitsu.io/anime/12750",
+    "https://livechart.me/anime/2298",
+    "https://myanimelist.net/anime/33787",
+    "https://notify.moe/anime/gGum2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b6d6e6a30ea5c6d0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.033357142857143,
+    "arithmeticGeometricMean": 4.976457077507581,
+    "median": 5.0,
+    "hash": "b6d6e6a30ea5c6d0",
+    "lastUpdate": "2024-05-10"
+  }
+}

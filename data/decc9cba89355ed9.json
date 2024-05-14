@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6539",
+    "https://anilist.co/anime/6528",
+    "https://anime-planet.com/anime/utsurun-desu",
+    "https://anisearch.com/anime/5397",
+    "https://kitsu.io/anime/4599",
+    "https://myanimelist.net/anime/6528",
+    "https://notify.moe/anime/aBDe5FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "decc9cba89355ed9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.708719851576994,
+    "arithmeticGeometricMean": 4.706309354579242,
+    "median": 4.636363636363637,
+    "hash": "decc9cba89355ed9",
+    "lastUpdate": "2024-05-07"
+  }
+}

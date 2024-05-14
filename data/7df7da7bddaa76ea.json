@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5809",
+    "https://anilist.co/anime/131382",
+    "https://anime-planet.com/anime/santa-claus-tsukamaeta",
+    "https://anisearch.com/anime/4785",
+    "https://kitsu.io/anime/10311",
+    "https://myanimelist.net/anime/29545",
+    "https://notify.moe/anime/K9mUtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7df7da7bddaa76ea",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.692007421150278,
+    "arithmeticGeometricMean": 4.676802135075015,
+    "median": 4.47,
+    "hash": "7df7da7bddaa76ea",
+    "lastUpdate": "2024-05-07"
+  }
+}

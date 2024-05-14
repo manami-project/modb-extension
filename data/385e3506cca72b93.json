@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/567",
+    "https://anilist.co/anime/537",
+    "https://anime-planet.com/anime/tekken-the-motion-picture",
+    "https://anisearch.com/anime/2459",
+    "https://kitsu.io/anime/496",
+    "https://livechart.me/anime/7890",
+    "https://myanimelist.net/anime/537",
+    "https://notify.moe/anime/O7-o5Kiig"
+  ],
+  "synopsis": {
+    "text": "Their skills win them fame; combat makes them legends. Enter the world of the Iron Fist Tournament, where fighters of unparalleled ability gather from around the globe to test their might in the gladiatorial arena. Based on the revolutionary fighting game series, Tekken, this incredible animated motion picture merges the stunning graphic style and dynamics of anime with the awesome rendering power of state-of-the-art computers.\n\nKazuya Mishima, a young man thrown off a cliff as a child, enters the King of Iron Fist Tournament to seek revenge from his father, multi-billionaire Heihachi Mishima. Meanwhile, WWWC operative Jun Kazama and Hong Kong detective Lei Wulong also enter the tournament to investigate Heihachi's illegal activities involving cloning and genetic engineering. Other skilled fighters are in it merely for the grand prize of $1 billion, oblivious to the true purpose of the tournament and the fate that awaits them.\n\nThe Mishima corporation, one of the richest conglomerates on the planet, is sponsoring a martial arts competition. The owner, legendary fighter Heihachi Mishima, promises both wealth and the title of King of Iron Fist to whoever can best the other competitors and finally defeat him. But money and fame are not the only factors drawing fighters to the competition, as Heihachi has made many enemies over time – including his son, Kazuya. Get ready for the ultimate adventure in this blood-drenched arena of the most incredible martial arts battle ever created.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "385e3506cca72b93",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.8500167859351535,
+    "arithmeticGeometricMean": 4.8311842777434375,
+    "median": 5.090909090909091,
+    "hash": "385e3506cca72b93",
+    "lastUpdate": "2024-05-10"
+  }
+}

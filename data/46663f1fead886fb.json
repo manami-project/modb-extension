@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/251",
+    "https://anilist.co/anime/274",
+    "https://anime-planet.com/anime/kiddy-grade",
+    "https://anisearch.com/anime/3042",
+    "https://kitsu.io/anime/249",
+    "https://livechart.me/anime/4267",
+    "https://myanimelist.net/anime/274",
+    "https://notify.moe/anime/6S5h5Fiig"
+  ],
+  "synopsis": {
+    "text": "To maintain order and peace in a distant future where humans have colonized various planets, the Galactic Organization of Trade and Tariffs (GOTT) was established. Among their ranks are two special agents, Éclair and Lumiere, who are part of the secret Encounter of Shadow-work (ES) unit. These agents, tasked with resolving economic disputes and combating interstellar crime, possess unique abilities: Éclair's incredible strength and lipstick whip, and Lumiere's unparalleled control over computers.\n\nAs Éclair and Lumiere traverse the cosmos in their high-speed space cruiser, La Muse, accompanied by their AI, Wirbelwind, and guardian robot, Donnerschlag, they begin to unveil a hidden agenda behind GOTT. With each mission they undertake, the pair starts to question the true intentions of the organization they serve and the very nature of the galaxy they protect.\n\nWhile working for the Federation of Planets, Éclair and Lumiere face challenges that put their skills to the test, such as escorting Auditor Armbrust on a mission to ease economic tensions between the planets Medeia and Faunus. As they confront the Faunus space fleet, the agents realize that the battles they face extend far beyond the economic disputes and that the future of the universe may hang in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46663f1fead886fb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.169,
+    "arithmeticGeometricMean": 7.164373237038481,
+    "median": 7.242727272727272,
+    "hash": "46663f1fead886fb",
+    "lastUpdate": "2024-05-09"
+  }
+}

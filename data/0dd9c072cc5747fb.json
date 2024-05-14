@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7539",
+    "https://anilist.co/anime/128021",
+    "https://anime-planet.com/anime/kaibutsu-kun-kaibutsu-land-e-no-shoutai",
+    "https://anisearch.com/anime/6250",
+    "https://kitsu.io/anime/9117",
+    "https://livechart.me/anime/12165",
+    "https://myanimelist.net/anime/22977",
+    "https://notify.moe/anime/Z3IatKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0dd9c072cc5747fb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.532268645640075,
+    "arithmeticGeometricMean": 5.497714406318799,
+    "median": 4.948979591836734,
+    "hash": "0dd9c072cc5747fb",
+    "lastUpdate": "2024-05-09"
+  }
+}

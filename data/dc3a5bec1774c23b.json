@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127306",
+    "https://anime-planet.com/anime/dance-to-life",
+    "https://kitsu.io/anime/44518"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc3a5bec1774c23b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.7197272727272725,
+    "arithmeticGeometricMean": 5.6586442831044845,
+    "median": 5.7197272727272725,
+    "hash": "dc3a5bec1774c23b",
+    "lastUpdate": "2024-05-07"
+  }
+}

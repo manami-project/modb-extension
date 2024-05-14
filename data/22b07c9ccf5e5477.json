@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2550",
+    "https://anilist.co/anime/5344",
+    "https://anime-planet.com/anime/time-bokan-series-itadakiman",
+    "https://anisearch.com/anime/305",
+    "https://kitsu.io/anime/4066",
+    "https://livechart.me/anime/6771",
+    "https://myanimelist.net/anime/5344",
+    "https://notify.moe/anime/ejdCcFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "22b07c9ccf5e5477",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.494264069264069,
+    "arithmeticGeometricMean": 5.457408269457994,
+    "median": 5.136363636363637,
+    "hash": "22b07c9ccf5e5477",
+    "lastUpdate": "2024-05-10"
+  }
+}

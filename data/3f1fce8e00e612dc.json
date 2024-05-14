@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10728",
+    "https://anilist.co/anime/107189",
+    "https://anime-planet.com/anime/bakumatsu-rock-mystery-onsen-kaijiken-ze-yo",
+    "https://anisearch.com/anime/9780",
+    "https://kitsu.io/anime/8660",
+    "https://livechart.me/anime/673",
+    "https://myanimelist.net/anime/25077",
+    "https://notify.moe/anime/Ft5JpFmiR"
+  ],
+  "synopsis": {
+    "text": "Unaired OVA episode from Bakumatsu Rock: Ultra Soul takes a dark turn when Ryouma and his friends visit a picturesque hot springs resort for a relaxing getaway. The tranquility is shattered by a murder at their inn, with the victim bearing an enigmatic '69' inked on their leg. As the group is drawn into the mystery, they must decipher the meaning behind this cryptic clue to unravel the truth and catch the culprit.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3f1fce8e00e612dc",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.067588656241718,
+    "arithmeticGeometricMean": 6.0493994354265315,
+    "median": 6.03,
+    "hash": "3f1fce8e00e612dc",
+    "lastUpdate": "2024-05-08"
+  }
+}

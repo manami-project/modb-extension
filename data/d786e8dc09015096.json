@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9793",
+    "https://anilist.co/anime/18109",
+    "https://anime-planet.com/anime/glass-no-kamen-desu-ga-the-movie-onna-spy-no-koi-murasaki-no-bara-wa-kiken-na-kaori",
+    "https://anisearch.com/anime/4598",
+    "https://kitsu.io/anime/7683",
+    "https://myanimelist.net/anime/18109",
+    "https://notify.moe/anime/IxX5pKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d786e8dc09015096",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.220935683364255,
+    "arithmeticGeometricMean": 5.2078512550813825,
+    "median": 5.090909090909091,
+    "hash": "d786e8dc09015096",
+    "lastUpdate": "2024-05-08"
+  }
+}

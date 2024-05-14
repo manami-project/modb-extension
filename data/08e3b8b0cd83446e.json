@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6973",
+    "https://anilist.co/anime/17457",
+    "https://anime-planet.com/anime/chingou-muchabee",
+    "https://anisearch.com/anime/3641",
+    "https://kitsu.io/anime/9230",
+    "https://livechart.me/anime/11929",
+    "https://myanimelist.net/anime/17457",
+    "https://notify.moe/anime/ZKyatKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "08e3b8b0cd83446e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.112463821892393,
+    "arithmeticGeometricMean": 5.0624360045104595,
+    "median": 4.909090909090909,
+    "hash": "08e3b8b0cd83446e",
+    "lastUpdate": "2024-05-09"
+  }
+}

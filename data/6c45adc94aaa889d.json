@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17040",
+    "https://anilist.co/anime/142769",
+    "https://anime-planet.com/anime/the-tunnel-to-summer-the-exit-of-goodbye",
+    "https://anisearch.com/anime/16926",
+    "https://kitsu.io/anime/45598",
+    "https://livechart.me/anime/10947",
+    "https://myanimelist.net/anime/50593",
+    "https://notify.moe/anime/o0CBumo7R"
+  ],
+  "synopsis": {
+    "text": "This anime follows the story of Kaoru Tohno, a young man with a troubled past and a longing for his lost sister, and Anzu Hanashiro, a new transfer student with a mysterious agenda. The two find themselves drawn to the enigmatic Urashima Tunnel, rumored to grant wishes at the cost of one's lifespan. As they navigate through the tunnel's strange and unpredictable effects, they must grapple with their own desires and the consequences of pursuing them. Set against the backdrop of a nostalgic summer in the countryside, this tale of longing, loss, and self-discovery promises to leave a lasting impression.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6c45adc94aaa889d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.833017934446505,
+    "arithmeticGeometricMean": 7.829031441836146,
+    "median": 7.984999999999999,
+    "hash": "6c45adc94aaa889d",
+    "lastUpdate": "2024-05-09"
+  }
+}

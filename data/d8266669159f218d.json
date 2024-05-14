@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/5100"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d8266669159f218d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.030612244897958,
+    "arithmeticGeometricMean": 4.030612244897958,
+    "median": 4.030612244897958,
+    "hash": "d8266669159f218d",
+    "lastUpdate": "2024-05-07"
+  }
+}

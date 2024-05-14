@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/179",
+    "https://anilist.co/anime/369",
+    "https://anime-planet.com/anime/boogiepop-phantom",
+    "https://anisearch.com/anime/1467",
+    "https://kitsu.io/anime/336",
+    "https://livechart.me/anime/3944",
+    "https://myanimelist.net/anime/369",
+    "https://notify.moe/anime/gWw25Fimg"
+  ],
+  "synopsis": {
+    "text": "There’s a whisper in the shadows, a chilling echo from five years ago when a wave of grisly murders swept through a Japanese city. Now, an eerie glow bathes the city, and with it comes a string of inexplicable disappearances, suicides, and murders. The culprit? Rumor has it that Boogiepop, the infamous angel of death, is back in town.\n\nIn the midst of this chaos, various high school students find their lives intertwining in the most unexpected ways. One girl chases the specter of her former crush, while another boy grapples with a power that threatens to sever his connection with reality. As these seemingly unrelated events unfold, one student, Nagi Kirima, stands resolute against the darkness, determined to unravel the truth behind the mysterious happenings.\n\nIs Boogiepop truly the harbinger of doom, or is there a more sinister force lurking in the shadows? As the city descends further into chaos, the line between fact and fiction blurs, leaving the students to question their safety and sanity. Will Nagi be able to uncover the truth before it's too late, or will she become the next victim of the urban legend known as Boogiepop?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "07d30fee95516359",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.136993117481597,
+    "arithmeticGeometricMean": 7.134448769978024,
+    "median": 7.145,
+    "hash": "07d30fee95516359",
+    "lastUpdate": "2024-05-09"
+  }
+}

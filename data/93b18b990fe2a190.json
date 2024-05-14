@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13000",
+    "https://anilist.co/anime/106220",
+    "https://anime-planet.com/anime/yura-yura-teikoku-utsukushii",
+    "https://anisearch.com/anime/14534",
+    "https://kitsu.io/anime/10798",
+    "https://myanimelist.net/anime/30429",
+    "https://notify.moe/anime/6VG_tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "93b18b990fe2a190",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.985964131106988,
+    "arithmeticGeometricMean": 3.846978675246293,
+    "median": 4.2695454545454545,
+    "hash": "93b18b990fe2a190",
+    "lastUpdate": "2024-05-07"
+  }
+}

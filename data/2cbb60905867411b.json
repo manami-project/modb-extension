@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4186",
+    "https://anilist.co/anime/9959",
+    "https://anime-planet.com/anime/raiyantsuuri-no-uta",
+    "https://anisearch.com/anime/2153",
+    "https://kitsu.io/anime/5966",
+    "https://myanimelist.net/anime/9959",
+    "https://notify.moe/anime/r8z7tFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2cbb60905867411b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.7949090909090915,
+    "arithmeticGeometricMean": 6.783993863794247,
+    "median": 6.454545454545455,
+    "hash": "2cbb60905867411b",
+    "lastUpdate": "2024-05-08"
+  }
+}

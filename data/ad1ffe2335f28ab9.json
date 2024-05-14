@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107257",
+    "https://anime-planet.com/anime/roughsketch-alice-in-voodooland",
+    "https://kitsu.io/anime/42784",
+    "https://myanimelist.net/anime/38906"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ad1ffe2335f28ab9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.053681818181818,
+    "arithmeticGeometricMean": 6.039798790308196,
+    "median": 5.816,
+    "hash": "ad1ffe2335f28ab9",
+    "lastUpdate": "2024-05-05"
+  }
+}

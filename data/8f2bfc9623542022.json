@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1969",
+    "https://anilist.co/anime/5647",
+    "https://anime-planet.com/anime/doukyuusei-2-special-sotsugyousei",
+    "https://anisearch.com/anime/1117",
+    "https://kitsu.io/anime/4220",
+    "https://myanimelist.net/anime/5647",
+    "https://notify.moe/anime/fYEjcFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f2bfc9623542022",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.409764643519745,
+    "arithmeticGeometricMean": 5.382871251148297,
+    "median": 5.0,
+    "hash": "8f2bfc9623542022",
+    "lastUpdate": "2024-05-07"
+  }
+}

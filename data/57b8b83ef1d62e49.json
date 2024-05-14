@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17078",
+    "https://anilist.co/anime/143085",
+    "https://anime-planet.com/anime/the-faraway-paladin-2nd-season",
+    "https://anisearch.com/anime/16958",
+    "https://kitsu.io/anime/45657",
+    "https://livechart.me/anime/10969",
+    "https://myanimelist.net/anime/50664",
+    "https://notify.moe/anime/PlTWEjT7g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "57b8b83ef1d62e49",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.619780032467532,
+    "arithmeticGeometricMean": 7.615819156950455,
+    "median": 7.71,
+    "hash": "57b8b83ef1d62e49",
+    "lastUpdate": "2024-05-09"
+  }
+}

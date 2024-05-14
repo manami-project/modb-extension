@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1734",
+    "https://anilist.co/anime/1069",
+    "https://anime-planet.com/anime/voltes-v",
+    "https://anisearch.com/anime/2097",
+    "https://kitsu.io/anime/956",
+    "https://livechart.me/anime/7800",
+    "https://myanimelist.net/anime/1069",
+    "https://notify.moe/anime/z9y15Kiig"
+  ],
+  "synopsis": {
+    "text": "Super ior forces from the malevolent Boazan Empire threaten Earth's very existence, but a prophetic defense plan is already in motion. Dr. Goh, a genius Boazanian outcast who sought refuge on Earth, collaborated with Earth's defense forces to create a formidable weapon: the Chodenji Machine Voltes Five. Now, Dr. Goh's three sons, Kenichi, Daihhiro, and Hiyoshi, along with General Oka's daughter Megumi and a former rodeo star, Mine Ippei, pilot the five-part robot to protect Earth from the invading horned aliens. As the second installment in Tadao Nagahama's Romance Super Robot Trilogy, Voltes V combines the power of its five vehicles to thwart the enemy's schemes and wields a mighty laser sword to vanquish their robotic forces. The fate of Earth rests in the hands of these brave young pilots and their incredible machine.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "74c82dcd5b4826e1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.786163265306122,
+    "arithmeticGeometricMean": 6.754515348715564,
+    "median": 6.996,
+    "hash": "74c82dcd5b4826e1",
+    "lastUpdate": "2024-05-09"
+  }
+}

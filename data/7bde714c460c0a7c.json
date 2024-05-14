@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1653",
+    "https://anilist.co/anime/234",
+    "https://anime-planet.com/anime/dan-doh",
+    "https://anisearch.com/anime/2161",
+    "https://kitsu.io/anime/209",
+    "https://livechart.me/anime/12209",
+    "https://myanimelist.net/anime/234",
+    "https://notify.moe/anime/IR725Fmmg"
+  ],
+  "synopsis": {
+    "text": "Mikiyasu, a former pro-golfer, witnesses the powerful swing of young Tadamichi \"Dandoh\" Aoba during a baseball game that accidentally damages the principal's prized potted plant. Recognizing his potential, Mikiyasu introduces Dandoh to the lucrative world of golf. Eager to win millions of yen and fulfill his heartfelt wish to bring his late mother back, Dandoh, alongside his friends Yuka and Kohei, embarks on a golfing adventure under the tutelage of Mikiyasu. As they compete in tournaments and strive for the national championship, Dandoh's determination, sportsmanship, and competitive spirit inspire those around him, forging new friendships and unforgettable experiences in this thrilling journey.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7bde714c460c0a7c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.370550755367082,
+    "arithmeticGeometricMean": 6.3474215967416,
+    "median": 6.83,
+    "hash": "7bde714c460c0a7c",
+    "lastUpdate": "2024-05-09"
+  }
+}

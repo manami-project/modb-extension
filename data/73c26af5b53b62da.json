@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121037",
+    "https://anime-planet.com/anime/lotus",
+    "https://kitsu.io/anime/44976",
+    "https://myanimelist.net/anime/42280"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73c26af5b53b62da",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.71030303030303,
+    "arithmeticGeometricMean": 5.686746573903937,
+    "median": 5.27,
+    "hash": "73c26af5b53b62da",
+    "lastUpdate": "2024-05-07"
+  }
+}

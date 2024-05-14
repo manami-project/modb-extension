@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1938",
+    "https://anilist.co/anime/17599",
+    "https://anime-planet.com/anime/konpora-kid",
+    "https://anisearch.com/anime/1222",
+    "https://kitsu.io/anime/9402",
+    "https://myanimelist.net/anime/17599",
+    "https://notify.moe/anime/4K5BtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a583d70441399767",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.640538033395177,
+    "arithmeticGeometricMean": 4.501656326937582,
+    "median": 4.454545454545455,
+    "hash": "a583d70441399767",
+    "lastUpdate": "2024-05-07"
+  }
+}

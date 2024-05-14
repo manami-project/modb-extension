@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11201",
+    "https://anilist.co/anime/21171",
+    "https://anime-planet.com/anime/long-riders",
+    "https://anisearch.com/anime/10538",
+    "https://kitsu.io/anime/10878",
+    "https://livechart.me/anime/1548",
+    "https://myanimelist.net/anime/30652",
+    "https://notify.moe/anime/b82_tFimR"
+  ],
+  "synopsis": {
+    "text": "Inspired by the simple charm of a folding bicycle, Ami Kurata, an unremarkable first-year college student, finds her world transformed as she dives headfirst into the exhilarating realm of long-distance cycling. With her savings spent on a bike of her own, Ami's newfound passion leads her to form Fortuna, a cycling team of five like-minded college students. Together, they embark on a thrilling journey, pushing their limits in pursuit of conquering the challenging 'brevet' known as 'Fresh.' As Ami and her friends navigate the highs and lows of cycling, they discover the joy of camaraderie, the beauty of scenic vistas, and the satisfaction of overcoming physical boundaries. Join Ami and Fortuna as they pedal their way through an unforgettable adventure on two wheels!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "727c4198bee15213",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.734675959378967,
+    "arithmeticGeometricMean": 6.729722809046609,
+    "median": 6.7010000000000005,
+    "hash": "727c4198bee15213",
+    "lastUpdate": "2024-05-09"
+  }
+}

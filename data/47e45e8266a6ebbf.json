@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5067",
+    "https://anilist.co/anime/3516",
+    "https://anime-planet.com/anime/hal-and-bons",
+    "https://anisearch.com/anime/3792",
+    "https://kitsu.io/anime/3067",
+    "https://myanimelist.net/anime/3516",
+    "https://notify.moe/anime/u6CwcKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47e45e8266a6ebbf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.80669758812616,
+    "arithmeticGeometricMean": 4.7690329279872605,
+    "median": 4.86,
+    "hash": "47e45e8266a6ebbf",
+    "lastUpdate": "2024-05-08"
+  }
+}

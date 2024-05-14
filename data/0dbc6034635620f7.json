@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/dog-days-recap",
+    "https://anisearch.com/anime/16187",
+    "https://kitsu.io/anime/10345",
+    "https://myanimelist.net/anime/29413",
+    "https://notify.moe/anime/55I8pKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0dbc6034635620f7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.827951020408163,
+    "arithmeticGeometricMean": 6.824938908283637,
+    "median": 6.592,
+    "hash": "0dbc6034635620f7",
+    "lastUpdate": "2024-05-06"
+  }
+}

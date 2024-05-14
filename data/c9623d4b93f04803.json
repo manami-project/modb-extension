@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/4247",
+    "https://myanimelist.net/anime/4494"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c9623d4b93f04803",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.368265306122449,
+    "arithmeticGeometricMean": 5.33501267933116,
+    "median": 5.368265306122449,
+    "hash": "c9623d4b93f04803",
+    "lastUpdate": "2024-05-07"
+  }
+}

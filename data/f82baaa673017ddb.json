@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10632",
+    "https://anilist.co/anime/19925",
+    "https://anime-planet.com/anime/ky-kei-jc-kuuki-chan",
+    "https://anisearch.com/anime/8925",
+    "https://kitsu.io/anime/7962",
+    "https://myanimelist.net/anime/19925",
+    "https://notify.moe/anime/LbS2pKiig"
+  ],
+  "synopsis": {
+    "text": "Joseki Betao, a new transfer student, is eager to make friends and fit in at his new middle school. His life takes an unexpected turn when he meets the enigmatic Kuuki Yominashi, a high school girl known for her unique 'KY' style and her inability to read the room. Together with the shy Osage, the trio forms an unlikely friendship that navigates the ups and downs of school life. From disrupting important conversations to staging a performance of Romeo and Juliet, the group learns about duty, human nature, and the importance of friendship in this contemporary tale of intersecting lives. Join Kuukichan and her friends as they embark on a journey of self-discovery and find their place in the world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f82baaa673017ddb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.399546779750862,
+    "arithmeticGeometricMean": 5.385202626130621,
+    "median": 5.095918367346939,
+    "hash": "f82baaa673017ddb",
+    "lastUpdate": "2024-05-08"
+  }
+}

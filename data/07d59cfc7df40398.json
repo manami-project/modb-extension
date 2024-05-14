@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5670",
+    "https://anilist.co/anime/3515",
+    "https://anime-planet.com/anime/saint-seiya-the-hades-chapter-elysion",
+    "https://anisearch.com/anime/4632",
+    "https://kitsu.io/anime/3066",
+    "https://livechart.me/anime/5772",
+    "https://myanimelist.net/anime/3515",
+    "https://notify.moe/anime/7uCwcFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "07d59cfc7df40398",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.451613481756339,
+    "arithmeticGeometricMean": 7.447405915395778,
+    "median": 7.633333333333333,
+    "hash": "07d59cfc7df40398",
+    "lastUpdate": "2024-05-09"
+  }
+}

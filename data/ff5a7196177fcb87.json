@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13856",
+    "https://anilist.co/anime/103776",
+    "https://anime-planet.com/anime/otoboke-beaver-ikezu",
+    "https://anisearch.com/anime/13453",
+    "https://kitsu.io/anime/13702",
+    "https://myanimelist.net/anime/36050",
+    "https://notify.moe/anime/up94hFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ff5a7196177fcb87",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.346639279088259,
+    "arithmeticGeometricMean": 5.292314975854971,
+    "median": 5.71,
+    "hash": "ff5a7196177fcb87",
+    "lastUpdate": "2024-05-08"
+  }
+}

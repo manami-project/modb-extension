@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136248",
+    "https://anime-planet.com/anime/the-devil-between-my-fingers",
+    "https://kitsu.io/anime/47646",
+    "https://myanimelist.net/anime/43419"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "56f42ef63b89a18d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.442060606060605,
+    "arithmeticGeometricMean": 5.4198905863102675,
+    "median": 5.07,
+    "hash": "56f42ef63b89a18d",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14793",
+    "https://anilist.co/anime/108726",
+    "https://anime-planet.com/anime/ojamajo-doremi-owarai-gekijou",
+    "https://anisearch.com/anime/14296",
+    "https://kitsu.io/anime/42537",
+    "https://livechart.me/anime/9389",
+    "https://myanimelist.net/anime/39588"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e9eb98e8b92cfffb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.4892498453927026,
+    "arithmeticGeometricMean": 6.475987170008819,
+    "median": 6.584090909090909,
+    "hash": "e9eb98e8b92cfffb",
+    "lastUpdate": "2024-05-09"
+  }
+}

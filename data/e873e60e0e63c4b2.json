@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8287",
+    "https://anilist.co/anime/10187",
+    "https://anime-planet.com/anime/hen-zemi-tv",
+    "https://anisearch.com/anime/6908",
+    "https://kitsu.io/anime/6067",
+    "https://livechart.me/anime/1527",
+    "https://myanimelist.net/anime/10187",
+    "https://notify.moe/anime/rsJ7pKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e873e60e0e63c4b2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.341756493506493,
+    "arithmeticGeometricMean": 6.328401871432364,
+    "median": 6.342272727272728,
+    "hash": "e873e60e0e63c4b2",
+    "lastUpdate": "2024-05-09"
+  }
+}

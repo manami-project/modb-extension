@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15333",
+    "https://anilist.co/anime/114233",
+    "https://anime-planet.com/anime/gundam-build-divers-rerise-2nd-season",
+    "https://anisearch.com/anime/14846",
+    "https://kitsu.io/anime/43144",
+    "https://livechart.me/anime/9744",
+    "https://myanimelist.net/anime/40942",
+    "https://notify.moe/anime/5qa51x8ZR"
+  ],
+  "synopsis": {
+    "text": "Build Divers reunite in the upgraded Gunpla Battle Nexus Online (GBN), now offering sensory feedback for an even more immersive experience. Hiroto, a lone mercenary; Kazami, an independent and admiring Diver; May, a mysterious Gunpla enthusiast; and Parviz, a shy novice, find themselves drawn together as a new team in this boundless digital world. As they navigate through personal motivations and challenges, they embark on a super-experience that transcends the limits of GBN.\n\nIn the second half of \"Gundam Build Divers Re:Rise,\" the battle against the One-Eye army intensifies after the discovery of their origin on Eldora's moon. The resistance is nearly wiped out, and Hiroto and his companions learn that Eldora is not part of the game world, putting their lives at risk. Despite their fears, the team decides to continue aiding Eldora's inhabitants alongside Mei. As they search for glowing sand to summon Divers, they encounter new allies and face off against formidable foes.\n\nThe BUILD DiVERS' understanding of GBN is shattered when a massive beam of light is fired from Eldora's moon, forcing them to confront the real-world consequences of their actions. With Earth and Eldora's fates hanging in the balance, Hiroto and his teammates must protect what they hold dear. As they fight against the One-Eyed army, Hiroto is forced to confront his past and uncover the shocking secrets hidden within GBN.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "520c592a509042a5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.162312847866419,
+    "arithmeticGeometricMean": 7.143404645470847,
+    "median": 7.509387755102041,
+    "hash": "520c592a509042a5",
+    "lastUpdate": "2024-05-09"
+  }
+}

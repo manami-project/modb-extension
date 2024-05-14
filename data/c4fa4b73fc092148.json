@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6333",
+    "https://anilist.co/anime/5189",
+    "https://anime-planet.com/anime/chou-tokkyuu-hikarian",
+    "https://anisearch.com/anime/5097",
+    "https://kitsu.io/anime/3970",
+    "https://myanimelist.net/anime/5189",
+    "https://notify.moe/anime/my6rcKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c4fa4b73fc092148",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.8297217068645635,
+    "arithmeticGeometricMean": 4.644019312020865,
+    "median": 5.181818181818182,
+    "hash": "c4fa4b73fc092148",
+    "lastUpdate": "2024-05-08"
+  }
+}

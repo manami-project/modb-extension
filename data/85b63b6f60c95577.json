@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1142",
+    "https://anilist.co/anime/892",
+    "https://anime-planet.com/anime/dragon-ball-movie-3-mystical-adventure",
+    "https://anisearch.com/anime/245",
+    "https://kitsu.io/anime/792",
+    "https://livechart.me/anime/4815",
+    "https://myanimelist.net/anime/892",
+    "https://notify.moe/anime/ENeA5KimR"
+  ],
+  "synopsis": {
+    "text": "Bora and his son Upa, Bulma, Yamcha, Puar, Oolong, and the Red Ribbon Army are all in a race to collect the seven mystical Dragon Balls, legendary artifacts that can grant any wish to the one who possesses them all. Meanwhile, Goku and Krillin, fresh from their training under Master Roshi, are eager to test their skills at the World Martial Arts Tournament, which is being hosted by the young Emperor Chiaotzu. However, the Crane Hermit and his brother Tao Pai Pai have sinister plans for the Dragon Balls, and the tournament may be in jeopardy as a web of intrigue unfolds in the kingdom. With the fate of the Dragon Balls and the outcome of the tournament hanging in the balance, Goku and his friends must navigate a dangerous world of power-hungry villains and treacherous allies. Can they emerge victorious and claim the ultimate prize, or will they fall victim to the schemes of those who seek to use the Dragon Balls for their own nefarious purposes? The adventure begins now!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85b63b6f60c95577",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.740267625231911,
+    "arithmeticGeometricMean": 6.732012617846943,
+    "median": 6.878,
+    "hash": "85b63b6f60c95577",
+    "lastUpdate": "2024-05-09"
+  }
+}

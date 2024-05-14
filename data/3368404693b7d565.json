@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9970",
+    "https://anilist.co/anime/19587",
+    "https://anime-planet.com/anime/kaiketsu-zorori-movie-2-mamoru-ze-kyouryuu-no-tamago",
+    "https://anisearch.com/anime/9076",
+    "https://kitsu.io/anime/9011",
+    "https://livechart.me/anime/278",
+    "https://myanimelist.net/anime/19587",
+    "https://notify.moe/anime/kc9xpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3368404693b7d565",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.871789981447124,
+    "arithmeticGeometricMean": 5.840251801782582,
+    "median": 5.0,
+    "hash": "3368404693b7d565",
+    "lastUpdate": "2024-05-09"
+  }
+}

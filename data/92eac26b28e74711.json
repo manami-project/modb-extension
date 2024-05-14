@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/4023",
+    "https://anime-planet.com/anime/hello-kittys-paradise",
+    "https://anisearch.com/anime/5463",
+    "https://kitsu.io/anime/3416",
+    "https://livechart.me/anime/6821",
+    "https://myanimelist.net/anime/4023",
+    "https://notify.moe/anime/SLRucFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92eac26b28e74711",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.069186971758399,
+    "arithmeticGeometricMean": 5.91999334549982,
+    "median": 6.573,
+    "hash": "92eac26b28e74711",
+    "lastUpdate": "2024-05-06"
+  }
+}

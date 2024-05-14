@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/904",
+    "https://anime-planet.com/anime/the-big-o",
+    "https://anisearch.com/anime/1022"
+  ],
+  "synopsis": {
+    "text": "It's been four decades since a catastrophic event, known as 'The Event', wiped out the memories of Paradigm City's inhabitants and left the city in ruins. As the citizens struggle to rebuild their lives and regain their lost past, they rely on the assistance of negotiator Roger Smith. Equipped with his colossal robot, Big O, and supported by his android companion Dorothy and mechanically gifted butler Norman, Roger takes on the responsibility of safeguarding the city and its people from the dangers that lurk in the shadows. As fragments of their forgotten past begin to resurface, Roger and his team must confront the challenges that come with uncovering the truth about Paradigm City and its mysterious history. Join Roger Smith and his allies as they navigate the complexities of a city without a past and strive to protect its future.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "93dea6e0c84e631a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.0141496598639455,
+    "arithmeticGeometricMean": 7.013208842451076,
+    "median": 7.0,
+    "hash": "93dea6e0c84e631a",
+    "lastUpdate": "2024-05-08"
+  }
+}

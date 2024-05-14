@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17932",
+    "https://anilist.co/anime/169826",
+    "https://anime-planet.com/anime/bakugan-legends",
+    "https://anisearch.com/anime/18340",
+    "https://kitsu.io/anime/48053",
+    "https://livechart.me/anime/11851",
+    "https://myanimelist.net/anime/54637"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc1daafb2b45e503",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.628315398886828,
+    "arithmeticGeometricMean": 6.615394767687571,
+    "median": 6.779181818181818,
+    "hash": "fc1daafb2b45e503",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/159455",
+    "https://anime-planet.com/anime/delivery-kitten-unyan",
+    "https://kitsu.io/anime/47681",
+    "https://myanimelist.net/anime/54330"
+  ],
+  "synopsis": {
+    "text": "This delightful tale follows Unyan, a young, enthusiastic kitten from Cat Island, embarking on his first delivery job. As he marvels at the dancing soap bubbles and indulges in sweet candy, his delivery bag slips away. Realizing his mistake, Unyan sets off on a thrilling chase to retrieve the bag. Amidst the adventure, the story beautifully captures the bond between the innocent, playful kitten and the caring adults who watch over him, making for a heartwarming watch.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f4016b8bab6270af",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.642787878787878,
+    "arithmeticGeometricMean": 6.638649591141556,
+    "median": 6.636363636363637,
+    "hash": "f4016b8bab6270af",
+    "lastUpdate": "2024-05-07"
+  }
+}

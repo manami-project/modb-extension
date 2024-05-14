@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/330",
+    "https://anilist.co/anime/302",
+    "https://anime-planet.com/anime/future-boy-conan",
+    "https://anisearch.com/anime/39",
+    "https://kitsu.io/anime/276",
+    "https://livechart.me/anime/5267",
+    "https://myanimelist.net/anime/302",
+    "https://notify.moe/anime/3Z0hcFmig"
+  ],
+  "synopsis": {
+    "text": "Incredible adversity and the indomitable human spirit set the stage for \"Future Boy Conan,\" an anime that unfolds in a post-apocalyptic world ravaged by an ultra-magnetic weapon that surpassed the destructive power of nuclear arms. The earth's axis shifted, triggering colossal earthquakes and tidal waves that wiped out civilization, leaving only a few scattered islands habitable.\n\nAmidst this desolation, a beacon of hope emerges in the form of Conan, a young boy born on Remnant Island, a sanctuary for a group of refugees who narrowly escaped the cataclysmic events that unfolded in July 2008. Raised by his adopted grandfather, Conan's worldview is irrevocably altered when he encounters Lana, a mysterious girl who finds herself stranded on the island's shores.\n\nLana's presence is not without consequence, as she is pursued by the technologically advanced nation of Industria, which seeks to exploit her connection to her grandfather, Dr. Lao, for their nefarious purposes. When Lana is captured by Industria's formidable pilot, Monsley, Conan is compelled to embark on a daring rescue mission, marking the beginning of an extraordinary adventure that will shape the destiny of the world.\n\nThis captivating tale, inspired by Alexander Key's novel \"The Incredible Tide,\" masterfully weaves themes of survival, friendship, and courage in the face of overwhelming odds, as Conan navigates a world teetering on the brink of ruin and strives to protect those he holds dear.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af459f709ea1dbf2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.943503979103602,
+    "arithmeticGeometricMean": 7.941242103347121,
+    "median": 7.964545454545454,
+    "hash": "af459f709ea1dbf2",
+    "lastUpdate": "2024-05-09"
+  }
+}

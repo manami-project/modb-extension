@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9502",
+    "https://anilist.co/anime/17933",
+    "https://anime-planet.com/anime/pyuu-to-fuku-jaguar",
+    "https://anisearch.com/anime/8289",
+    "https://kitsu.io/anime/8804",
+    "https://myanimelist.net/anime/17933",
+    "https://notify.moe/anime/6YkxtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc1a66bb6b8d293f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.40638961038961,
+    "arithmeticGeometricMean": 5.340666297994757,
+    "median": 5.045454545454545,
+    "hash": "dc1a66bb6b8d293f",
+    "lastUpdate": "2024-05-07"
+  }
+}

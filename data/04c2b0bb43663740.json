@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126647",
+    "https://anime-planet.com/anime/donyatsu-specials",
+    "https://anisearch.com/anime/11577",
+    "https://kitsu.io/anime/9249",
+    "https://myanimelist.net/anime/26079",
+    "https://notify.moe/anime/R8Q-tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "04c2b0bb43663740",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1525454545454545,
+    "arithmeticGeometricMean": 5.1122713833126525,
+    "median": 5.295,
+    "hash": "04c2b0bb43663740",
+    "lastUpdate": "2024-05-06"
+  }
+}

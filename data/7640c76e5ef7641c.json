@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1865",
+    "https://anilist.co/anime/4639",
+    "https://anime-planet.com/anime/gosenzo-sama-banbanzai",
+    "https://anisearch.com/anime/1993",
+    "https://kitsu.io/anime/3718",
+    "https://livechart.me/anime/6501",
+    "https://myanimelist.net/anime/4639",
+    "https://notify.moe/anime/T0ir5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7640c76e5ef7641c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.076086403392526,
+    "arithmeticGeometricMean": 7.063685393290424,
+    "median": 7.206,
+    "hash": "7640c76e5ef7641c",
+    "lastUpdate": "2024-05-09"
+  }
+}

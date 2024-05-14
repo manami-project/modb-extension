@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4895",
+    "https://anilist.co/anime/1878",
+    "https://anime-planet.com/anime/emily-of-new-moon",
+    "https://anisearch.com/anime/4014",
+    "https://kitsu.io/anime/1690",
+    "https://livechart.me/anime/7327",
+    "https://myanimelist.net/anime/1878",
+    "https://notify.moe/anime/ImuBcKmiR"
+  ],
+  "synopsis": {
+    "text": "Emily Starr, a young orphan with a vivid imagination and a knack for writing, finds herself uprooted from her familiar surroundings and sent to live with her distant relatives on Prince Edward Island after her beloved father's passing. New Moon, her new home, is inhabited by her stern Aunt Elizabeth, kind-hearted Aunt Laura, and Cousin Jimmy. As Emily navigates through her new life, she encounters a mix of joy and sorrow while attempting to win over her reluctant family members. With her trusty feline companion and a handful of new friends – the strong-willed Ilse, the creative Teddy, and the devoted Perry – Emily embarks on a journey of self-discovery, growth, and friendship, all while learning to adapt to the strict upbringing and unfamiliar environment that surrounds her.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce279de12d4c11a2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.190093559501723,
+    "arithmeticGeometricMean": 7.185520155217773,
+    "median": 7.125,
+    "hash": "ce279de12d4c11a2",
+    "lastUpdate": "2024-05-09"
+  }
+}

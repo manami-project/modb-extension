@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10570",
+    "https://anilist.co/anime/21061",
+    "https://anime-planet.com/anime/passage-of-time-tokyo-station",
+    "https://anisearch.com/anime/9626",
+    "https://kitsu.io/anime/8479",
+    "https://livechart.me/anime/5543",
+    "https://myanimelist.net/anime/23439",
+    "https://notify.moe/anime/y00AtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47ee1a61ce56e289",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.386585210707659,
+    "arithmeticGeometricMean": 6.383719569083292,
+    "median": 6.454545454545455,
+    "hash": "47ee1a61ce56e289",
+    "lastUpdate": "2024-05-10"
+  }
+}

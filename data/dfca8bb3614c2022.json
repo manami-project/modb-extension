@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6808",
+    "https://anilist.co/anime/4927",
+    "https://anime-planet.com/anime/tomoe-ga-yuku",
+    "https://anisearch.com/anime/5623",
+    "https://kitsu.io/anime/3852",
+    "https://livechart.me/anime/6979",
+    "https://myanimelist.net/anime/4927",
+    "https://notify.moe/anime/y3T95Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dfca8bb3614c2022",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.352605353829843,
+    "arithmeticGeometricMean": 5.313762608107392,
+    "median": 5.090909090909091,
+    "hash": "dfca8bb3614c2022",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6029",
+    "https://anilist.co/anime/7419",
+    "https://anime-planet.com/anime/wrestler-gundan-seisenshi-robin-jr",
+    "https://anisearch.com/anime/4999",
+    "https://kitsu.io/anime/4965",
+    "https://myanimelist.net/anime/7419",
+    "https://notify.moe/anime/yrXgpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "634f4e0d32e36d1d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.7297464440321577,
+    "arithmeticGeometricMean": 3.5530483399471007,
+    "median": 4.454545454545454,
+    "hash": "634f4e0d32e36d1d",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4179",
+    "https://anilist.co/anime/17117",
+    "https://anime-planet.com/anime/aoi-kioku-manmou-kaitaku-to-shounen-tachi",
+    "https://anisearch.com/anime/3545",
+    "https://kitsu.io/anime/7587",
+    "https://myanimelist.net/anime/17117",
+    "https://notify.moe/anime/7epcpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fb5624669241ecf1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.831549165120594,
+    "arithmeticGeometricMean": 5.800127967766489,
+    "median": 5.665,
+    "hash": "fb5624669241ecf1",
+    "lastUpdate": "2024-05-08"
+  }
+}

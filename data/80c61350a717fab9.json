@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17548",
+    "https://anilist.co/anime/122509",
+    "https://anime-planet.com/anime/jade-dynasty",
+    "https://anisearch.com/anime/17756",
+    "https://kitsu.io/anime/46821",
+    "https://livechart.me/anime/11608",
+    "https://myanimelist.net/anime/49759",
+    "https://notify.moe/anime/tpWDvX1IR"
+  ],
+  "synopsis": {
+    "text": "Kongsang Mountain. Alongside his senior, Lu Xueqi, they face perilous situations, leading them to cross paths with Biyao, a mysterious woman from the Demon Sect. As they forge an unlikely alliance, new threats loom on the horizon, promising a future filled with challenges and uncertainty.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80c61350a717fab9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.5345076066790355,
+    "arithmeticGeometricMean": 7.521708966428325,
+    "median": 7.42,
+    "hash": "80c61350a717fab9",
+    "lastUpdate": "2024-05-10"
+  }
+}

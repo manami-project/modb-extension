@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2291",
+    "https://anilist.co/anime/2558",
+    "https://anime-planet.com/anime/little-women-ii-jos-boys",
+    "https://anisearch.com/anime/534",
+    "https://kitsu.io/anime/2323",
+    "https://livechart.me/anime/12129",
+    "https://myanimelist.net/anime/2558",
+    "https://notify.moe/anime/AGny5FiiR"
+  ],
+  "synopsis": {
+    "text": "They say Nan Harding is a handful, but not everyone agrees. At the school run by Mrs. Jo and her husband, Mr. Bhaer, Nan is just one of many unique students, each with their own quirks and stories. Based on Louisa May Alcott's \"Little Men,\" this anime follows the adventures and misadventures of the students at Plumfield farm, where orphaned children come to live and learn.\n\nJo March, now grown up and married, is determined to provide a nurturing environment for all the children, no matter how strong-willed they may be. When Nan arrives, rumored to have driven away her previous tutor, Jo sees it as a challenge rather than a problem. With Jo's encouragement, Nan and the other children - including Nat, a talented violinist, and Dan, a streetwise wanderer - learn to navigate the ups and downs of life.\n\nFrom Nan's rivalry with Tommy to Stuffy's insatiable sweet tooth, there's never a dull moment at Plumfield. But no matter what mischief the children get up to, Jo is always there to defend and support them. Join Nan, Jo, and the rest of the Plumfield gang as they experience the joys and sorrows of growing up together.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "843f97457ef5d770",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.075593073593073,
+    "arithmeticGeometricMean": 7.066532361901732,
+    "median": 7.07,
+    "hash": "843f97457ef5d770",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103766",
+    "https://anime-planet.com/anime/lite-hunger",
+    "https://kitsu.io/anime/13809",
+    "https://myanimelist.net/anime/36070",
+    "https://notify.moe/anime/90KShKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ade5ddce8a7c2970",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.219863636363637,
+    "arithmeticGeometricMean": 5.203357601008696,
+    "median": 5.075,
+    "hash": "ade5ddce8a7c2970",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7284",
+    "https://anilist.co/anime/20075",
+    "https://anime-planet.com/anime/obocchama-kun",
+    "https://anisearch.com/anime/5921",
+    "https://kitsu.io/anime/9501",
+    "https://livechart.me/anime/10465",
+    "https://myanimelist.net/anime/20075",
+    "https://notify.moe/anime/_pUBpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "00e3fa8a42390d2d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.156192949907236,
+    "arithmeticGeometricMean": 5.096097220866199,
+    "median": 5.2272727272727275,
+    "hash": "00e3fa8a42390d2d",
+    "lastUpdate": "2024-05-09"
+  }
+}

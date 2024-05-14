@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8110",
+    "https://anilist.co/anime/11087",
+    "https://anime-planet.com/anime/awake",
+    "https://anisearch.com/anime/7285",
+    "https://kitsu.io/anime/6455",
+    "https://myanimelist.net/anime/11087",
+    "https://notify.moe/anime/HnSIpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9561b0e1d999200e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.183431751921548,
+    "arithmeticGeometricMean": 5.162012121346683,
+    "median": 5.0,
+    "hash": "9561b0e1d999200e",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10314",
+    "https://anilist.co/anime/15021",
+    "https://anime-planet.com/anime/yuki-no-taiyou-pilot",
+    "https://anisearch.com/anime/9405",
+    "https://kitsu.io/anime/7198",
+    "https://livechart.me/anime/6399",
+    "https://myanimelist.net/anime/15021",
+    "https://notify.moe/anime/DMaOpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f318364ca1023b99",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.624739199575934,
+    "arithmeticGeometricMean": 5.621014208946455,
+    "median": 5.47,
+    "hash": "f318364ca1023b99",
+    "lastUpdate": "2024-05-10"
+  }
+}

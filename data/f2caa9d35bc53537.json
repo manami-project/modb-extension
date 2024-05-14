@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1791",
+    "https://anilist.co/anime/2948",
+    "https://anime-planet.com/anime/motto-ojamajo-doremi-movie-kaeru-seki-no-himitsu",
+    "https://anisearch.com/anime/1106",
+    "https://kitsu.io/anime/2669",
+    "https://livechart.me/anime/6859",
+    "https://myanimelist.net/anime/2948",
+    "https://notify.moe/anime/85A8cKmmR"
+  ],
+  "synopsis": {
+    "text": "Mountain ous vistas and a mysterious folklore set the stage for the enchanting adventure of five young witches in the Motto Ojamajo Doremi movie. Doremi, Aiko, Hazuki, Onpu, and Momoko embark on a journey to Doremi's grandpa's quaint countryside abode, where they uncover the enigmatic tale of the frog stone. This magical artifact serves as a poignant reminder of a heartbroken woman named Mayuri, who tragically ended her life in the river after learning of her beloved Zenjuro's death.\n\nAs the children explore the area surrounding Fukuyama Mountain, they are drawn to the Frog Stone, despite the adults' warnings to avoid the mountain during the forthcoming evening of the smiling moon. The children's curiosity and determination to uncover the truth behind the local legend lead them to rediscover Aiko's affection for Doremi's grandpa and unveil a hidden piece of the magical kingdom's past.\n\nAs the night unfolds, the rumors surrounding Fukuyama Mountain prove to be more than just hearsay, and the five young witches find themselves entangled in a captivating web of love, loss, and magic. Join Doremi and her friends as they delve into the heart of this ancient tale and uncover the secrets that lie within the frog stone.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f2caa9d35bc53537",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.271549606855729,
+    "arithmeticGeometricMean": 7.257718702923733,
+    "median": 7.27,
+    "hash": "f2caa9d35bc53537",
+    "lastUpdate": "2024-05-09"
+  }
+}

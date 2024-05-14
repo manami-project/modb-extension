@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4027",
+    "https://anilist.co/anime/2056",
+    "https://anime-planet.com/anime/cosmo-police-justy",
+    "https://anisearch.com/anime/1402",
+    "https://kitsu.io/anime/1855",
+    "https://myanimelist.net/anime/2056",
+    "https://notify.moe/anime/GCJYcKiig"
+  ],
+  "synopsis": {
+    "text": "Cosmo Policeman Justy Kaizard stands as a beacon of hope in a future where humanity has colonized the galaxy. As a powerful esper, he uses his psychic abilities to combat the growing threat of criminal espers who wield their powers for nefarious purposes. However, his formidable reputation makes him a prime target for these criminals, who conspire to eliminate him.\n\nJusty's life takes a dramatic turn when he defeats the notorious Magnum Vega, and adopts his daughter, Astaris, as his sister. Despite her father's defeat, Astaris retains the mind of a child due to her memories being locked away. Tragically, she becomes a pawn in the hands of Magnum Vega's vengeful gang, who seek to use her as a weapon against Justy.\n\nAs the leader of the criminal espers ominously declares, there's only one way to kill the most powerful esper in the galaxy. With the stakes higher than ever, Justy must embark on his most challenging mission yet: to rescue his beloved sister from the clutches of his enemies and thwart their sinister plans.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "858df8ac4c618411",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.232268751656507,
+    "arithmeticGeometricMean": 5.205058170869382,
+    "median": 5.3,
+    "hash": "858df8ac4c618411",
+    "lastUpdate": "2024-05-08"
+  }
+}

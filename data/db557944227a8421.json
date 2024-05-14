@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10597",
+    "https://anilist.co/anime/109011",
+    "https://anime-planet.com/anime/carino-coni",
+    "https://anisearch.com/anime/9602",
+    "https://kitsu.io/anime/9080",
+    "https://myanimelist.net/anime/23721",
+    "https://notify.moe/anime/cbZatFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db557944227a8421",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.6619517625231905,
+    "arithmeticGeometricMean": 5.644918869933596,
+    "median": 5.7518552875695725,
+    "hash": "db557944227a8421",
+    "lastUpdate": "2024-05-07"
+  }
+}

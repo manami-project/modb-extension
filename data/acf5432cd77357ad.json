@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12768",
+    "https://anilist.co/anime/140143",
+    "https://anime-planet.com/anime/sowa-sowa-calendar",
+    "https://kitsu.io/anime/11504",
+    "https://myanimelist.net/anime/32074",
+    "https://notify.moe/anime/kdcCtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "acf5432cd77357ad",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.894318181818182,
+    "arithmeticGeometricMean": 4.88221014980838,
+    "median": 4.863636363636363,
+    "hash": "acf5432cd77357ad",
+    "lastUpdate": "2024-05-07"
+  }
+}

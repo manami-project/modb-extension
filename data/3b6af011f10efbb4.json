@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/147810",
+    "https://anime-planet.com/anime/kinnikuman-no-koutsuu-anzen",
+    "https://kitsu.io/anime/47037",
+    "https://myanimelist.net/anime/39310"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b6af011f10efbb4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.086818181818181,
+    "arithmeticGeometricMean": 6.0652421682573445,
+    "median": 6.086818181818181,
+    "hash": "3b6af011f10efbb4",
+    "lastUpdate": "2024-05-07"
+  }
+}

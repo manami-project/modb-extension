@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18279",
+    "https://anilist.co/anime/170620",
+    "https://anime-planet.com/anime/play-play-pleiades-x-kage-jitsu-collaboration-anime",
+    "https://anisearch.com/anime/18825",
+    "https://kitsu.io/anime/48197",
+    "https://livechart.me/anime/12390",
+    "https://myanimelist.net/anime/57034",
+    "https://notify.moe/anime/on3fQccSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2f0f6abee7f8d448",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.024600958565244,
+    "arithmeticGeometricMean": 7.00608028419906,
+    "median": 7.177,
+    "hash": "2f0f6abee7f8d448",
+    "lastUpdate": "2024-05-09"
+  }
+}

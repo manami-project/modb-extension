@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14187",
+    "https://anilist.co/anime/102978",
+    "https://anime-planet.com/anime/space-battleship-tiramisu-zwei",
+    "https://anisearch.com/anime/13716",
+    "https://kitsu.io/anime/41926",
+    "https://livechart.me/anime/3360",
+    "https://myanimelist.net/anime/37988",
+    "https://notify.moe/anime/dGREyaoig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f0152c13198f5b45",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.4544670686456405,
+    "arithmeticGeometricMean": 6.441006338906306,
+    "median": 6.476727272727272,
+    "hash": "f0152c13198f5b45",
+    "lastUpdate": "2024-05-10"
+  }
+}

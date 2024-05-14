@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/177",
+    "https://anilist.co/anime/180",
+    "https://anime-planet.com/anime/vandread",
+    "https://anisearch.com/anime/2814",
+    "https://kitsu.io/anime/157",
+    "https://livechart.me/anime/3994",
+    "https://myanimelist.net/anime/180",
+    "https://notify.moe/anime/4Qrp5Kmig"
+  ],
+  "synopsis": {
+    "text": "The galaxy is a battleground for the sexes in Vandread, where men and women inhabit separate planets and engage in a bitter, unending war. Hibiki Tokai, a third-class laborer on the male-dominated planet Taraak, dreams of building his own mecha but is stuck constructing war machines for the ongoing conflict. Frustrated with his mundane life and relentless teasing from his coworkers, Hibiki seizes an opportunity to steal a mech, only to find himself in the midst of a fierce space battle against the female-dominated planet Mejere.\n\nAs the battle intensifies, a botched attack creates a massive wormhole that engulfs both the Taraakian Vanguard and the Mejeran pirate ships. Stranded far from their home planets, the men and women aboard the starships must confront their prejudices and learn to cooperate if they hope to survive and find their way back home. With time running out and a mysterious crystal weapon linking their destinies, the crew members must navigate their sexual differences and raging hormones while facing a deadly common enemy that threatens their very existence. Join Hibiki on this thrilling adventure that explores the complexities of gender and the power of unity in the face of adversity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4716df510962cd7c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.280027520098948,
+    "arithmeticGeometricMean": 7.277834408224385,
+    "median": 7.2838979591836726,
+    "hash": "4716df510962cd7c",
+    "lastUpdate": "2024-05-10"
+  }
+}

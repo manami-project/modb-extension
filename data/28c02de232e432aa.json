@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5444",
+    "https://anilist.co/anime/2597",
+    "https://anime-planet.com/anime/detective-conan-a-challenge-from-agasa",
+    "https://anisearch.com/anime/4382",
+    "https://kitsu.io/anime/2361",
+    "https://livechart.me/anime/6098",
+    "https://myanimelist.net/anime/2597",
+    "https://notify.moe/anime/g5dycFimg"
+  ],
+  "synopsis": {
+    "text": "Ai, Ayumi, Mitsuhiko, Genta, and Conan, collectively known as the Detective Boys, find themselves in a race against time when their mentor, Professor Agasa, is kidnapped. Initially, they believe Agasa has set up an elaborate puzzle for them to solve, but the game turns sinister when they realize he's genuinely in danger. With only the clues scattered around Agasa's house and various city locations, Conan takes the lead, using his exceptional deduction skills to navigate the ransom plot and find Agasa before it's too late. Will they be able to rescue their beloved professor and turn the tables on the kidnappers? Join the Detective Boys in this thrilling anime adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "28c02de232e432aa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.253068387961244,
+    "arithmeticGeometricMean": 7.243071591145563,
+    "median": 7.292727272727273,
+    "hash": "28c02de232e432aa",
+    "lastUpdate": "2024-05-09"
+  }
+}

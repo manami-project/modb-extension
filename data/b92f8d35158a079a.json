@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4960",
+    "https://anilist.co/anime/6730",
+    "https://anime-planet.com/anime/tonde-mon-pe",
+    "https://anisearch.com/anime/4061",
+    "https://kitsu.io/anime/4688",
+    "https://myanimelist.net/anime/6730",
+    "https://notify.moe/anime/x3Y65Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b92f8d35158a079a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.012181818181818,
+    "arithmeticGeometricMean": 5.977854395196786,
+    "median": 5.916363636363636,
+    "hash": "b92f8d35158a079a",
+    "lastUpdate": "2024-05-08"
+  }
+}

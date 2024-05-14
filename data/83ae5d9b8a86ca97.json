@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107340",
+    "https://anime-planet.com/anime/magical-girl-lyrical-nanoha-picture-drama",
+    "https://kitsu.io/anime/41334",
+    "https://myanimelist.net/anime/35501",
+    "https://notify.moe/anime/PIQ6fovmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "83ae5d9b8a86ca97",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.938121212121213,
+    "arithmeticGeometricMean": 5.934515251857764,
+    "median": 5.84,
+    "hash": "83ae5d9b8a86ca97",
+    "lastUpdate": "2024-05-07"
+  }
+}

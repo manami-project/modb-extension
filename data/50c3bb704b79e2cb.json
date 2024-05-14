@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118566",
+    "https://anime-planet.com/anime/claris-gravity",
+    "https://kitsu.io/anime/13486",
+    "https://myanimelist.net/anime/35264",
+    "https://notify.moe/anime/C03nhFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "50c3bb704b79e2cb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.732136363636364,
+    "arithmeticGeometricMean": 5.72918048206603,
+    "median": 5.737,
+    "hash": "50c3bb704b79e2cb",
+    "lastUpdate": "2024-05-06"
+  }
+}

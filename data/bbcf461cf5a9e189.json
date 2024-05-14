@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12115",
+    "https://anilist.co/anime/115188",
+    "https://anime-planet.com/anime/chobitto-zukan",
+    "https://anisearch.com/anime/11472",
+    "https://kitsu.io/anime/12284",
+    "https://livechart.me/anime/2183",
+    "https://myanimelist.net/anime/33262",
+    "https://notify.moe/anime/wnuRhKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bbcf461cf5a9e189",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.5107878787878795,
+    "arithmeticGeometricMean": 5.468950197013027,
+    "median": 5.0,
+    "hash": "bbcf461cf5a9e189",
+    "lastUpdate": "2024-05-09"
+  }
+}

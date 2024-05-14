@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5300",
+    "https://anilist.co/anime/17423",
+    "https://anime-planet.com/anime/pink-lady-monogatari-eikou-no-tenshi-tachi",
+    "https://anisearch.com/anime/4355",
+    "https://kitsu.io/anime/9535",
+    "https://myanimelist.net/anime/17423",
+    "https://notify.moe/anime/FxrftKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "14f5849bfef52752",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.402597402597403,
+    "arithmeticGeometricMean": 4.380484590730603,
+    "median": 4.636363636363637,
+    "hash": "14f5849bfef52752",
+    "lastUpdate": "2024-05-08"
+  }
+}

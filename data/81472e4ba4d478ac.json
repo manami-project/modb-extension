@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4897",
+    "https://anilist.co/anime/2251",
+    "https://anime-planet.com/anime/baccano",
+    "https://anisearch.com/anime/4016",
+    "https://kitsu.io/anime/2039",
+    "https://livechart.me/anime/3601",
+    "https://myanimelist.net/anime/2251",
+    "https://notify.moe/anime/1LHE5Fmmg"
+  ],
+  "synopsis": {
+    "text": "Isaac and Miria, two cheerful thieves, embark on a journey aboard the luxurious transcontinental train, Flying Pussyfoot, unaware of the chaos and bloodshed that await them in 1930s Chicago. Meanwhile, in the bustling streets of New York, a ruthless scientist, Szilard, and his reluctant assistant, Ennis, scour the city for missing vials of an elixir that grants immortality. Amidst the escalating power struggle between rival mafia factions, the lives of these seemingly unrelated individuals intertwine in unexpected ways.\n\nSet against the backdrop of the Prohibition Era, Baccano! weaves a complex web of intrigue, connecting characters from diverse backgrounds, including alchemists, FBI agents, street gangs, and even the mafia. The story harks back to 1711, when a group of alchemists sought eternal life through a mysterious potion, only to have their ranks decimated and scattered across the globe. Centuries later, these immortals reunite, each with their own hidden ambitions and agendas.\n\nAs the immortals' paths cross, they must confront the true cost of eternal life. Baccano! masterfully intertwines multiple storylines, spanning time and space, to create a grand tapestry of intrigue, deception, and survival. At the heart of it all, the kind-hearted Isaac and Miria forge lifelong bonds and set off a chain of events that will forever change the lives of those they encounter.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81472e4ba4d478ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.284345321735252,
+    "arithmeticGeometricMean": 8.284089784299896,
+    "median": 8.315000000000001,
+    "hash": "81472e4ba4d478ac",
+    "lastUpdate": "2024-05-08"
+  }
+}

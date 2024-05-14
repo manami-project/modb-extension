@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13463",
+    "https://anilist.co/anime/103965",
+    "https://anime-planet.com/anime/zhu-zhu-xia-movie-2-yong-chuang-juren-dao",
+    "https://anisearch.com/anime/13391",
+    "https://myanimelist.net/anime/38133"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7e5d6f376e165158",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.2751403834260975,
+    "arithmeticGeometricMean": 3.980874683114399,
+    "median": 4.272727272727273,
+    "hash": "7e5d6f376e165158",
+    "lastUpdate": "2024-05-08"
+  }
+}

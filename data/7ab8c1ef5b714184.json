@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12321",
+    "https://anilist.co/anime/21896",
+    "https://anime-planet.com/anime/teekyuu-8",
+    "https://anisearch.com/anime/11683",
+    "https://kitsu.io/anime/12473",
+    "https://livechart.me/anime/2275",
+    "https://myanimelist.net/anime/33811",
+    "https://notify.moe/anime/ngBzhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ab8c1ef5b714184",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.755058750773037,
+    "arithmeticGeometricMean": 6.7483062160540035,
+    "median": 6.784545454545455,
+    "hash": "7ab8c1ef5b714184",
+    "lastUpdate": "2024-05-10"
+  }
+}

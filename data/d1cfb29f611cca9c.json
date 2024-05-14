@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10390",
+    "https://anilist.co/anime/102299",
+    "https://anime-planet.com/anime/matryoshka-monotonous-purgatory",
+    "https://anisearch.com/anime/9445",
+    "https://kitsu.io/anime/8859",
+    "https://myanimelist.net/anime/25641",
+    "https://notify.moe/anime/buNxpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d1cfb29f611cca9c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.201139676649881,
+    "arithmeticGeometricMean": 6.193827844236458,
+    "median": 6.23,
+    "hash": "d1cfb29f611cca9c",
+    "lastUpdate": "2024-05-08"
+  }
+}

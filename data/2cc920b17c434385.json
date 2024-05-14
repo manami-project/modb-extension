@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/2003",
+    "https://myanimelist.net/anime/1791"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2cc920b17c434385",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.775204081632653,
+    "arithmeticGeometricMean": 4.736560469274759,
+    "median": 4.775204081632653,
+    "hash": "2cc920b17c434385",
+    "lastUpdate": "2024-05-05"
+  }
+}

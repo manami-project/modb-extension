@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7001",
+    "https://anilist.co/anime/7174",
+    "https://anime-planet.com/anime/usaru-san",
+    "https://anisearch.com/anime/5723",
+    "https://kitsu.io/anime/4892",
+    "https://myanimelist.net/anime/7174",
+    "https://notify.moe/anime/S4-RpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8c68c041b8b5beb2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.5104219454015375,
+    "arithmeticGeometricMean": 5.477305310875494,
+    "median": 5.818181818181818,
+    "hash": "8c68c041b8b5beb2",
+    "lastUpdate": "2024-05-07"
+  }
+}

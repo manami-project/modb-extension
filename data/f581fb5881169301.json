@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7778",
+    "https://anime-planet.com/anime/hello-kitty-no-shirayuki-hime",
+    "https://anisearch.com/anime/6395",
+    "https://kitsu.io/anime/9313",
+    "https://myanimelist.net/anime/17951",
+    "https://notify.moe/anime/K0zBtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f581fb5881169301",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.408408163265305,
+    "arithmeticGeometricMean": 5.391551908430173,
+    "median": 4.94,
+    "hash": "f581fb5881169301",
+    "lastUpdate": "2024-05-08"
+  }
+}

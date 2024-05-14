@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12482",
+    "https://anilist.co/anime/97731",
+    "https://anime-planet.com/anime/shelter",
+    "https://anisearch.com/anime/11871",
+    "https://kitsu.io/anime/12668",
+    "https://livechart.me/anime/2372",
+    "https://myanimelist.net/anime/34240",
+    "https://notify.moe/anime/kdAm2Kimg"
+  ],
+  "synopsis": {
+    "text": "Day in and day out, Rin, a 17-year-old girl, finds herself in a futuristic virtual reality, where she holds the power to shape her world with just a tablet. Her existence is a solitary one, yet filled with the endless possibilities of her own creation. But as she continues to build her perfect realities, she remains oblivious to the truth behind her existence and the reason for her perpetual solitude. As she navigates through her self-made utopias, Rin's journey uncovers the enigmatic reality of her life within the simulation. Will she uncover the secrets that lie beyond her virtual haven? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b152274fff015608",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.20379637576366,
+    "arithmeticGeometricMean": 8.201164935701982,
+    "median": 8.273367346938777,
+    "hash": "b152274fff015608",
+    "lastUpdate": "2024-05-09"
+  }
+}

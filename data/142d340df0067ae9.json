@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/852",
+    "https://anilist.co/anime/1567",
+    "https://anime-planet.com/anime/saint-tail",
+    "https://anisearch.com/anime/382",
+    "https://kitsu.io/anime/1407",
+    "https://livechart.me/anime/6552",
+    "https://myanimelist.net/anime/1567",
+    "https://notify.moe/anime/LpYacFmig"
+  ],
+  "synopsis": {
+    "text": "She may seem like an ordinary 14-year-old student at St. Paulia School, but Meimi Haneoka leads a thrilling double life as the enigmatic phantom thief, Saint Tail! By day, she struggles with math and excels in sports, but when night falls, Meimi becomes a modern-day Robin Hood, stealing from thieves to return items to their rightful owners. Guided by her friend and nun-in-training, Seira Mimori, Saint Tail's noble intentions often place her at odds with the law.\n\nDetermined to unmask the elusive thief is Meimi's classmate, Daiki Asuka Jr., who has made it his personal mission to catch Saint Tail in the act. Despite her growing affection for Asuka, Meimi can't help but relish the exhilarating game of cat and mouse that unfolds between them. As Saint Tail, she leaves clues to her planned heists, giving Asuka a fair chance to capture her.\n\nWith no real magical powers, Meimi relies on her wit, agility, and a few clever magic tricks to outsmart her enemies and complete her daring escapades. As she navigates the challenges of her secret life, Meimi finds herself drawn deeper into a world of thievery, adventure, and budding romance. Will she be able to keep her identity hidden from Asuka, or will he finally uncover the truth behind the mysterious Saint Tail? Join Meimi on her thrilling journey as she balances her life as a student and a phantom thief in this enchanting tale of young love and righteous mischief.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "142d340df0067ae9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.596615425390937,
+    "arithmeticGeometricMean": 7.589004536036056,
+    "median": 7.57,
+    "hash": "142d340df0067ae9",
+    "lastUpdate": "2024-05-09"
+  }
+}

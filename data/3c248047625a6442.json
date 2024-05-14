@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12555",
+    "https://anilist.co/anime/99112",
+    "https://anime-planet.com/anime/chuuko-video-ya-no-onna-tenin-x",
+    "https://anisearch.com/anime/12875",
+    "https://kitsu.io/anime/12804",
+    "https://myanimelist.net/anime/34409",
+    "https://notify.moe/anime/AJZWhKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c248047625a6442",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.057923933209647,
+    "arithmeticGeometricMean": 5.030993008258673,
+    "median": 4.97,
+    "hash": "3c248047625a6442",
+    "lastUpdate": "2024-05-08"
+  }
+}

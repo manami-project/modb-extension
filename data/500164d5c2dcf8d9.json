@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11745",
+    "https://anilist.co/anime/21461",
+    "https://anime-planet.com/anime/the-reflection",
+    "https://anisearch.com/anime/12145",
+    "https://kitsu.io/anime/11473",
+    "https://livechart.me/anime/1900",
+    "https://myanimelist.net/anime/34449",
+    "https://notify.moe/anime/7gNjpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "500164d5c2dcf8d9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.09475871178511,
+    "arithmeticGeometricMean": 5.062144419495098,
+    "median": 4.7451020408163265,
+    "hash": "500164d5c2dcf8d9",
+    "lastUpdate": "2024-05-10"
+  }
+}

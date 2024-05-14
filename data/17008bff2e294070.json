@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126167",
+    "https://anime-planet.com/anime/nihonbashi-city-dressing-for-tokyo-2020",
+    "https://anisearch.com/anime/12515",
+    "https://kitsu.io/anime/43207",
+    "https://myanimelist.net/anime/41298"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "17008bff2e294070",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.167909090909091,
+    "arithmeticGeometricMean": 6.157329798895756,
+    "median": 6.1468181818181815,
+    "hash": "17008bff2e294070",
+    "lastUpdate": "2024-05-06"
+  }
+}

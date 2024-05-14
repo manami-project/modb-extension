@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16623",
+    "https://anilist.co/anime/104594",
+    "https://anime-planet.com/anime/mo-jing-lieren-2nd-season",
+    "https://kitsu.io/anime/12620",
+    "https://myanimelist.net/anime/33603",
+    "https://notify.moe/anime/CRdihKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "49fcbf853baaf6aa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.5,
+    "arithmeticGeometricMean": 4.486057160575206,
+    "median": 4.5,
+    "hash": "49fcbf853baaf6aa",
+    "lastUpdate": "2024-05-08"
+  }
+}

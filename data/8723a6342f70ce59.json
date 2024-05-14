@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1597",
+    "https://anilist.co/anime/4524",
+    "https://anisearch.com/anime/1158",
+    "https://kitsu.io/anime/3663",
+    "https://livechart.me/anime/9059",
+    "https://myanimelist.net/anime/4524",
+    "https://notify.moe/anime/L5ju5FmmR"
+  ],
+  "synopsis": {
+    "text": "Dreamcast game's Shenmue is brought to life in Shenmue: the Movie, offering a cinematic experience that delves into the events of the first game. Set in 1986 in Yokosuka, Japan, the story follows Ryo Hazuki, an ordinary young man whose life is forever altered by the arrival of sinister strangers. A man clad in a dark green Chinese costume, accompanied by two menacing thugs, invades the Hazuki household and engages Ryo's father, Iwao, in a brutal duel. Ryo attempts to intervene, but is overpowered and taken hostage. The intruder demands a mysterious mirror, and Iwao, seeing no escape, reveals its location. The mirror is taken, and Iwao is defeated, leaving Ryo to witness his father's final breath. The man responsible, Di Lan, bears a chilling dragon emblem on his back, and Ryo learns of his father's involvement in a deadly past. Driven by revenge and a quest for answers, Ryo embarks on a journey to unravel the mystery behind his father's death and bring Di Lan to justice.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8723a6342f70ce59",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.797810760667904,
+    "arithmeticGeometricMean": 5.785258720794781,
+    "median": 5.737727272727273,
+    "hash": "8723a6342f70ce59",
+    "lastUpdate": "2024-05-09"
+  }
+}

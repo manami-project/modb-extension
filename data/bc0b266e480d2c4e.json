@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12590",
+    "https://anilist.co/anime/132511",
+    "https://anime-planet.com/anime/hello-jadoo",
+    "https://anisearch.com/anime/15576"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc0b266e480d2c4e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.935363636363636,
+    "arithmeticGeometricMean": 5.916796576402249,
+    "median": 5.935363636363636,
+    "hash": "bc0b266e480d2c4e",
+    "lastUpdate": "2024-05-07"
+  }
+}

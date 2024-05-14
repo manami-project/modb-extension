@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2093",
+    "https://anilist.co/anime/7436",
+    "https://anime-planet.com/anime/dragon-quest-dai-no-daibouken-tachiagare-avan-no-shito",
+    "https://anisearch.com/anime/2764",
+    "https://kitsu.io/anime/4971",
+    "https://livechart.me/anime/7311",
+    "https://myanimelist.net/anime/7436",
+    "https://notify.moe/anime/uP9RtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a6c0a107b204655",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.693114056012015,
+    "arithmeticGeometricMean": 6.688777161293771,
+    "median": 6.60204081632653,
+    "hash": "8a6c0a107b204655",
+    "lastUpdate": "2024-05-09"
+  }
+}

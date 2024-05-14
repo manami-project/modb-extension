@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/7633",
+    "https://anime-planet.com/anime/ari-no-seikatsu",
+    "https://kitsu.io/anime/5062",
+    "https://myanimelist.net/anime/7633",
+    "https://notify.moe/anime/PzNzpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0673519a2f43b26d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.431212121212121,
+    "arithmeticGeometricMean": 5.379192907250867,
+    "median": 5.0,
+    "hash": "0673519a2f43b26d",
+    "lastUpdate": "2024-05-05"
+  }
+}

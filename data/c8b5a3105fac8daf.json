@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/101999",
+    "https://anime-planet.com/anime/kurokos-basketball-last-game-ng-shuu",
+    "https://anisearch.com/anime/13876",
+    "https://kitsu.io/anime/41585",
+    "https://livechart.me/anime/5396",
+    "https://myanimelist.net/anime/35658"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c8b5a3105fac8daf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.667752009894866,
+    "arithmeticGeometricMean": 7.664175793119777,
+    "median": 7.673181818181818,
+    "hash": "c8b5a3105fac8daf",
+    "lastUpdate": "2024-05-06"
+  }
+}

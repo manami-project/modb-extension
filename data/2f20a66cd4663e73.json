@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/170508",
+    "https://anime-planet.com/anime/the-maomao-diaries",
+    "https://anisearch.com/anime/18803",
+    "https://kitsu.io/anime/48183",
+    "https://livechart.me/anime/12379",
+    "https://myanimelist.net/anime/56975",
+    "https://notify.moe/anime/qZa6wccIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2f20a66cd4663e73",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.471605936920223,
+    "arithmeticGeometricMean": 6.445573800129576,
+    "median": 6.5469387755102035,
+    "hash": "2f20a66cd4663e73",
+    "lastUpdate": "2024-05-06"
+  }
+}

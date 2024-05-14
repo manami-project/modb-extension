@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/imarine-project-marine-mirage-mmd",
+    "https://anisearch.com/anime/14168",
+    "https://kitsu.io/anime/47502",
+    "https://myanimelist.net/anime/39393"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bfb719c1bb97ed55",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.676748299319729,
+    "arithmeticGeometricMean": 5.660445872342002,
+    "median": 5.73,
+    "hash": "bfb719c1bb97ed55",
+    "lastUpdate": "2024-05-07"
+  }
+}

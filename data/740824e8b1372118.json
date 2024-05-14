@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6687",
+    "https://anilist.co/anime/8563",
+    "https://anime-planet.com/anime/chikyuu-monogatari-telepath-2500",
+    "https://anisearch.com/anime/5640",
+    "https://kitsu.io/anime/5392",
+    "https://myanimelist.net/anime/8563",
+    "https://notify.moe/anime/eFYipFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "740824e8b1372118",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.804058132343847,
+    "arithmeticGeometricMean": 5.774582387694807,
+    "median": 5.425,
+    "hash": "740824e8b1372118",
+    "lastUpdate": "2024-05-07"
+  }
+}

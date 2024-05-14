@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/979",
+    "https://anilist.co/anime/121",
+    "https://anime-planet.com/anime/fullmetal-alchemist",
+    "https://anisearch.com/anime/2519",
+    "https://kitsu.io/anime/100",
+    "https://livechart.me/anime/3406",
+    "https://myanimelist.net/anime/121",
+    "https://notify.moe/anime/iMat5FmmR"
+  ],
+  "synopsis": {
+    "text": "Edward Elric, a gifted alchemist, and his brother Alphonse embark on a perilous quest to recover their original bodies after a tragic alchemic experiment leaves them physically mutilated. In a world where alchemy is bound by the law of equivalent exchange - to gain something, one must sacrifice something of equal value - the brothers attempt to defy this rule with dire consequences. Edward loses two limbs, and Alphonse's soul is confined to a suit of armor. As they navigate a land dominated by a seemingly fair military regime, the brothers uncover darker truths and more formidable challenges. Their search for the mythical Philosopher's Stone, which promises the power to bypass alchemy's governing laws, becomes increasingly fraught with danger. Together, they must confront not only the sinister forces that seek the stone but also the grim realities of their own desperate quest.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "42466ecf89d2c19e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.271243642490665,
+    "arithmeticGeometricMean": 8.270208912886723,
+    "median": 8.296883660871757,
+    "hash": "42466ecf89d2c19e",
+    "lastUpdate": "2024-05-09"
+  }
+}

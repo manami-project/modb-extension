@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1415",
+    "https://anilist.co/anime/1580",
+    "https://anime-planet.com/anime/madara",
+    "https://anisearch.com/anime/328",
+    "https://kitsu.io/anime/1420",
+    "https://myanimelist.net/anime/1580",
+    "https://notify.moe/anime/l8s-cFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9469e8845b83a59c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.204264510999204,
+    "arithmeticGeometricMean": 6.194590243956678,
+    "median": 6.01,
+    "hash": "9469e8845b83a59c",
+    "lastUpdate": "2024-05-08"
+  }
+}

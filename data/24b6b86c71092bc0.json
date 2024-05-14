@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18312",
+    "https://anilist.co/anime/171144",
+    "https://anime-planet.com/anime/meiji-gekken-1874",
+    "https://anisearch.com/anime/18922",
+    "https://kitsu.io/anime/48392",
+    "https://livechart.me/anime/12451",
+    "https://myanimelist.net/anime/57502",
+    "https://notify.moe/anime/98nDlavIg"
+  ],
+  "synopsis": {
+    "text": "It's 1874 in Tokyo, and Shizuma Origasa, a former samurai turned rickshaw driver, is on a relentless quest to find his missing fiancée, Sumie Kanomata, who disappeared during the Boshin War. After inadvertently preventing an assassination attempt on a high-ranking official, Shizuma finds himself entangled with the local police force and embroiled in a dangerous conspiracy aiming to overthrow the government. Meanwhile, the Moriya yakuza clan, with ties to the mastermind behind the plot, welcomes a skilled one-eyed swordsman, Kyoushirou Shuragami, who seeks personal gain amidst the chaos. As Shizuma navigates the complex web of power struggles and betrayals, he will cross paths with Kyoushirou, leading to a series of fateful and ironic encounters that will alter their destinies forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24b6b86c71092bc0",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.769905380333952,
+    "arithmeticGeometricMean": 6.7557174331423,
+    "median": 6.7512727272727275,
+    "hash": "24b6b86c71092bc0",
+    "lastUpdate": "2024-05-09"
+  }
+}

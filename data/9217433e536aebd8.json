@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6604",
+    "https://anilist.co/anime/15141",
+    "https://anime-planet.com/anime/yukiwatari",
+    "https://anisearch.com/anime/4696",
+    "https://kitsu.io/anime/7223",
+    "https://myanimelist.net/anime/15141",
+    "https://notify.moe/anime/dnyOpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9217433e536aebd8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.928232529375387,
+    "arithmeticGeometricMean": 5.90915081228322,
+    "median": 5.916697588126159,
+    "hash": "9217433e536aebd8",
+    "lastUpdate": "2024-05-07"
+  }
+}

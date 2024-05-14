@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3081",
+    "https://anilist.co/anime/2882",
+    "https://anime-planet.com/anime/superbook",
+    "https://anisearch.com/anime/335",
+    "https://kitsu.io/anime/2619",
+    "https://livechart.me/anime/12153",
+    "https://livechart.me/anime/7447",
+    "https://myanimelist.net/anime/2882",
+    "https://notify.moe/anime/iHd8cFiiR"
+  ],
+  "synopsis": {
+    "text": "Christian’s attic harbors a secret, an ancient book called the Superbook, waiting to be discovered by him and his friend Ri. Upon opening it, the children and their toy robot, Gizmo, are whisked away to the distant past, where they witness incredible stories from the Old Testament unfold before their eyes. Sho Azuka, another young boy, stumbles upon the same magical Bible, which sends him, his friend Azusa Yamato, and his robot Zenmaijikake back in time to experience the early events of the Old Testament firsthand.\n\nChris and Joy, two ordinary children, lead ordinary lives until they find the Superbook, which transports them and their robot companion to witness the creation of Noah's Ark, the origins of Mother's Day, and the epic confrontation between David and Goliath. These children, each with their own unique companions, journey through time to experience the awe-inspiring stories of the Old Testament, from Jonah's encounter with a whale to Moses parting the Red Sea. The Superbook opens a window into the past, allowing these young adventurers to learn valuable lessons and live thrilling stories that will stay with them forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a38c5aa36eef8ae4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.625849456665784,
+    "arithmeticGeometricMean": 5.5999744580871536,
+    "median": 5.636363636363637,
+    "hash": "a38c5aa36eef8ae4",
+    "lastUpdate": "2024-05-08"
+  }
+}

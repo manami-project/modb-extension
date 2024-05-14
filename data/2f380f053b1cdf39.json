@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4106",
+    "https://anilist.co/anime/15937",
+    "https://anime-planet.com/anime/monster-farm-5-circus-caravan",
+    "https://anisearch.com/anime/1411",
+    "https://kitsu.io/anime/7344",
+    "https://myanimelist.net/anime/15937",
+    "https://notify.moe/anime/7OvKpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2f380f053b1cdf39",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.419078717201166,
+    "arithmeticGeometricMean": 5.389323066163048,
+    "median": 5.1,
+    "hash": "2f380f053b1cdf39",
+    "lastUpdate": "2024-05-07"
+  }
+}

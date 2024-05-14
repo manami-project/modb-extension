@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2018",
+    "https://anilist.co/anime/6202",
+    "https://anime-planet.com/anime/daisetsusan-no-yuusha-kibaou",
+    "https://anisearch.com/anime/2973",
+    "https://kitsu.io/anime/4472",
+    "https://myanimelist.net/anime/6202",
+    "https://notify.moe/anime/4ly3cKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "294cf41d3e303da4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.151931972789115,
+    "arithmeticGeometricMean": 6.13510316033171,
+    "median": 6.124795918367347,
+    "hash": "294cf41d3e303da4",
+    "lastUpdate": "2024-05-08"
+  }
+}

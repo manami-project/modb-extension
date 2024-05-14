@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6685",
+    "https://anilist.co/anime/6205",
+    "https://anime-planet.com/anime/kampfer",
+    "https://anisearch.com/anime/5307",
+    "https://kitsu.io/anime/4474",
+    "https://livechart.me/anime/3361",
+    "https://myanimelist.net/anime/6205",
+    "https://notify.moe/anime/8Z8qcKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "64876894caf7934e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.433951590737305,
+    "arithmeticGeometricMean": 6.431296849687383,
+    "median": 6.432921390778533,
+    "hash": "64876894caf7934e",
+    "lastUpdate": "2024-05-09"
+  }
+}

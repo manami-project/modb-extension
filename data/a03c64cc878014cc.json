@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4771",
+    "https://anilist.co/anime/2606",
+    "https://anime-planet.com/anime/digimon-savers-movie-digimon-savers-ultimate-power-burst-mode-invoke",
+    "https://anisearch.com/anime/3911",
+    "https://kitsu.io/anime/2370",
+    "https://livechart.me/anime/5834",
+    "https://myanimelist.net/anime/2606",
+    "https://notify.moe/anime/KsKy5Fimg"
+  ],
+  "synopsis": {
+    "text": "Digital monsters Agumon, Gaomon, and Lalamon are humanity's last line of defense against an enigmatic enemy that has plunged the world into a deep slumber using toxic thorns. With most humans ensnared in cocoons, these three Digimon must rise to the challenge and defeat their formidable foe, Argomon. Enraged by the devastation he believes humans have caused, Argomon seeks to dominate both the Earth and the Digital World.\n\nGuided by Rhythm, a young girl they've saved, the trio faces a daunting task: confronting Argomon's overwhelming power. However, their inability to evolve leaves them at a significant disadvantage. As they embark on this perilous journey, Rhythm must learn the unbreakable bond between a Digimon and a human's heart, and together, they must find a way to vanquish Argomon and save humanity from the brink of extinction. Can our heroes prevail against seemingly insurmountable odds?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a03c64cc878014cc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.294939835674531,
+    "arithmeticGeometricMean": 6.289809433415097,
+    "median": 6.5,
+    "hash": "a03c64cc878014cc",
+    "lastUpdate": "2024-05-09"
+  }
+}

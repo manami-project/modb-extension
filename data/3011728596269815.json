@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169023",
+    "https://anime-planet.com/anime/grey-zone",
+    "https://kitsu.io/anime/47124"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3011728596269815",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.6363636363636362,
+    "arithmeticGeometricMean": 3.6363636363636362,
+    "median": 3.6363636363636362,
+    "hash": "3011728596269815",
+    "lastUpdate": "2024-05-07"
+  }
+}

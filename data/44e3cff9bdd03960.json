@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3057",
+    "https://anilist.co/anime/3835",
+    "https://anime-planet.com/anime/ai-no-gakkou-cuore-monogatari",
+    "https://anisearch.com/anime/3283",
+    "https://kitsu.io/anime/3287",
+    "https://livechart.me/anime/8005",
+    "https://myanimelist.net/anime/3835",
+    "https://notify.moe/anime/d8Bl5Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "44e3cff9bdd03960",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.122517006802721,
+    "arithmeticGeometricMean": 6.115755740528632,
+    "median": 6.0,
+    "hash": "44e3cff9bdd03960",
+    "lastUpdate": "2024-05-08"
+  }
+}

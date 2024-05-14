@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17143",
+    "https://anilist.co/anime/144144",
+    "https://anime-planet.com/anime/kaina-of-the-great-snow-sea",
+    "https://anisearch.com/anime/17037",
+    "https://kitsu.io/anime/45787",
+    "https://livechart.me/anime/11037",
+    "https://myanimelist.net/anime/50864",
+    "https://notify.moe/anime/KlzfamanR"
+  ],
+  "synopsis": {
+    "text": "Trees towering above the sky and a world submerged in an endless sea of snow are the only remnants of a once thriving civilization. Humanity clings to survival, residing either in the lush canopy of the colossal trees or on the icy surface below. Kaina, a young resident of the canopy, spots mysterious lights dancing on the snow sea, which fuels his curiosity and hope for a world beyond. Meanwhile, on the snow sea, Princess Ririha and her companions embark on a perilous journey to the canopy, seeking the wisdom of a legendary sage to save their kingdom from a devastating water crisis.\n\nWhen their paths cross, Kaina and Ririha's fateful encounter ignites a series of events that will forever alter the destiny of their world. As they navigate through the challenges of their hostile environment and the looming threat of the technologically advanced nation of Valghia, they discover the strength in their unity and the unyielding determination to save their people. Together, they embark on a journey that transcends the boundaries of their world, proving that hope can indeed flourish even in the most desolate of places.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "14d718a3e4c06906",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.956987940630797,
+    "arithmeticGeometricMean": 6.948598475468257,
+    "median": 6.952727272727273,
+    "hash": "14d718a3e4c06906",
+    "lastUpdate": "2024-05-09"
+  }
+}

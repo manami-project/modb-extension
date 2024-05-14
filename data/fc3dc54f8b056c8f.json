@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8188",
+    "https://anilist.co/anime/19745",
+    "https://anime-planet.com/anime/naniwa-yuukyouden-chou-gokudou-yoru-no-bat-wa-manrui-hen",
+    "https://anisearch.com/anime/11380",
+    "https://kitsu.io/anime/9479",
+    "https://myanimelist.net/anime/19745",
+    "https://notify.moe/anime/ZyYBtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc3dc54f8b056c8f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.381570810142239,
+    "arithmeticGeometricMean": 5.361576460114436,
+    "median": 5.0,
+    "hash": "fc3dc54f8b056c8f",
+    "lastUpdate": "2024-05-07"
+  }
+}

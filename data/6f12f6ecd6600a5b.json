@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17923",
+    "https://anilist.co/anime/162717",
+    "https://anime-planet.com/anime/youtunya",
+    "https://anisearch.com/anime/18355",
+    "https://kitsu.io/anime/47559",
+    "https://livechart.me/anime/11887",
+    "https://myanimelist.net/anime/54781",
+    "https://notify.moe/anime/8AW6gIf4R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f12f6ecd6600a5b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.051678107606679,
+    "arithmeticGeometricMean": 6.049224084385679,
+    "median": 6.040090909090909,
+    "hash": "6f12f6ecd6600a5b",
+    "lastUpdate": "2024-05-10"
+  }
+}

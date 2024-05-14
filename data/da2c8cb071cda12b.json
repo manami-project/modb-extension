@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1304",
+    "https://anilist.co/anime/1160",
+    "https://anime-planet.com/anime/gundress",
+    "https://anisearch.com/anime/2264",
+    "https://kitsu.io/anime/1041",
+    "https://livechart.me/anime/8604",
+    "https://myanimelist.net/anime/1160",
+    "https://notify.moe/anime/mcGb5Kimg"
+  ],
+  "synopsis": {
+    "text": "Ali Jaheeve Hassan, a notorious crime lord, holds the key to dismantling a global terror network in the bustling Bayside City of 2100. As Japan's primary international port, the city faces an ever-growing threat from ruthless terrorists. In response, the Angel Arms Company, a private security firm led by former policewoman Takako, is enlisted to protect Hassan and utilize their state-of-the-art armored combat suits, known as Landmates.\n\nWhen the mayor falls victim to an assassination, the stakes are raised even higher for the Angel Arms team. As they struggle to keep Hassan alive, they must also confront their own personal demons. Alisa, one of the team members, finds herself torn between her loyalty to the Angel Arms Company and her past romance with the very enemy they're fighting.\n\nAs the terrorists escalate their attacks with advanced military weaponry, the Angel Arms Company faces an uphill battle. With the city's future hanging in the balance, Alisa must make a difficult choice: embrace her past love or stand firm with her team and protect Bayside City. The stage is set for a thrilling showdown between the Angel Arms Company and the terrorists, with the fate of the city resting in their hands.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da2c8cb071cda12b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.560409753511794,
+    "arithmeticGeometricMean": 5.5402914109746595,
+    "median": 5.5,
+    "hash": "da2c8cb071cda12b",
+    "lastUpdate": "2024-05-09"
+  }
+}

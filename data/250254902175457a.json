@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14339",
+    "https://anilist.co/anime/104073",
+    "https://anime-planet.com/anime/sono-toki-kanojo-wa",
+    "https://anisearch.com/anime/13848",
+    "https://kitsu.io/anime/41960",
+    "https://livechart.me/anime/3493",
+    "https://myanimelist.net/anime/38251",
+    "https://notify.moe/anime/45faiv0mR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "250254902175457a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.513708256029686,
+    "arithmeticGeometricMean": 5.485136938197527,
+    "median": 5.347272727272728,
+    "hash": "250254902175457a",
+    "lastUpdate": "2024-05-10"
+  }
+}

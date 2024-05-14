@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14370",
+    "https://anilist.co/anime/104082",
+    "https://anime-planet.com/anime/the-sprites-of-floria",
+    "https://anisearch.com/anime/13856",
+    "https://kitsu.io/anime/41967",
+    "https://livechart.me/anime/9037",
+    "https://myanimelist.net/anime/38469",
+    "https://notify.moe/anime/fiKTI_0ig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f2eb6b46f53ecbe",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1979542362399505,
+    "arithmeticGeometricMean": 5.174642226157545,
+    "median": 5.125454545454545,
+    "hash": "6f2eb6b46f53ecbe",
+    "lastUpdate": "2024-05-09"
+  }
+}

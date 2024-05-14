@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2361",
+    "https://anilist.co/anime/2987",
+    "https://anime-planet.com/anime/ginga-hyouryuu-vifam",
+    "https://anisearch.com/anime/1890",
+    "https://kitsu.io/anime/2701",
+    "https://livechart.me/anime/7186",
+    "https://myanimelist.net/anime/2987",
+    "https://notify.moe/anime/6iBUcKimg"
+  ],
+  "synopsis": {
+    "text": "In the distant future of AD 2058, a peaceful colony on Clayad, the third planet of the Ypserlon system, finds itself under a sudden and brutal alien invasion. Light years away from Earth, the terrified residents are forced to flee, resulting in chaos and separation. Thirteen children, ranging from ages 4 to 15, find themselves isolated from their families and aboard the training spaceship Janous.\n\nAs the adults on the Janous make sacrifices to protect the young survivors, the children become increasingly involved in the struggle against the mysterious alien race. Their journey takes them to Belwick, the fourth planet in the system, only to find it already embroiled in war. With no other choice, the children must rely on their courage and resourcefulness to navigate the dangers of space and find their way back to Earth.\n\nThis gripping tale of survival and determination follows the young cast as they strive to understand their enigmatic foes and overcome seemingly insurmountable odds in their quest to return home.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f4b1c1e3e8dcc622",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.775602968460111,
+    "arithmeticGeometricMean": 6.74482131152653,
+    "median": 7.08,
+    "hash": "f4b1c1e3e8dcc622",
+    "lastUpdate": "2024-05-09"
+  }
+}

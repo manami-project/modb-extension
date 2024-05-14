@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/46",
+    "https://anilist.co/anime/800",
+    "https://anime-planet.com/anime/niea-under-7",
+    "https://anisearch.com/anime/1611",
+    "https://kitsu.io/anime/714",
+    "https://livechart.me/anime/4891",
+    "https://myanimelist.net/anime/800",
+    "https://notify.moe/anime/rlxA5FmiR"
+  ],
+  "synopsis": {
+    "text": "As we dive into the 21st century, Earth has become a shared territory for humans and extraterrestrial beings. In the quiet town of Enohana, a hardworking and impoverished student, Mayuko Chigasaki, finds her life turned upside down when she becomes an unwilling roommate to NieA, an alien of the lowest caste, referred to as 'Under Seven'.\n\nMayuko's life is a relentless cycle of juggling multiple part-time jobs, studying tirelessly, and scraping together a living in her humble apartment above a bathhouse. Her already stressful existence is further complicated by NieA, who casually squats in Mayuko's closet, constructing makeshift flying saucers from scraps, consuming Mayuko's limited food supplies, and contributing nothing to their cohabitation.\n\nDespite the challenges of living with an alien, Mayuko's problems extend beyond her peculiar roommate. Her workplace, a local spa, teeters on the brink of bankruptcy, and her alien-obsessed friend, Chiaki, is infatuated with NieA, adding another layer of complexity to Mayuko's life.\n\nMeanwhile, the colossal wrecked alien mothership remains a constant backdrop, a stark reminder of the unusual circumstances that have become the norm in this era of interspecies coexistence. As Mayuko and NieA navigate their peculiar living arrangement, they create an odd yet captivating dynamic that transcends the boundaries of their respective worlds.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "796e6255e22eb015",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.722847601378214,
+    "arithmeticGeometricMean": 6.7190516265709235,
+    "median": 6.818181818181818,
+    "hash": "796e6255e22eb015",
+    "lastUpdate": "2024-05-09"
+  }
+}

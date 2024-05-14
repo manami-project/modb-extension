@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18458",
+    "https://anilist.co/anime/153499",
+    "https://anime-planet.com/anime/throne-of-seal-2nd-season",
+    "https://anisearch.com/anime/18246",
+    "https://kitsu.io/anime/46552",
+    "https://myanimelist.net/anime/52684"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d80e4ceaadaf8a4b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.538710575139145,
+    "arithmeticGeometricMean": 8.53605700578776,
+    "median": 8.657421150278292,
+    "hash": "d80e4ceaadaf8a4b",
+    "lastUpdate": "2024-05-08"
+  }
+}

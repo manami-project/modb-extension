@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7706",
+    "https://anisearch.com/anime/4666"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7c72db7155ff6997",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.765,
+    "arithmeticGeometricMean": 3.701848277964792,
+    "median": 3.765,
+    "hash": "7c72db7155ff6997",
+    "lastUpdate": "2024-05-08"
+  }
+}

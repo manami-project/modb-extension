@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16269",
+    "https://anilist.co/anime/114112",
+    "https://anime-planet.com/anime/mi-bao-zhi-guo",
+    "https://anisearch.com/anime/16374",
+    "https://kitsu.io/anime/44415",
+    "https://livechart.me/anime/10560",
+    "https://myanimelist.net/anime/42178",
+    "https://notify.moe/anime/2sEko5DMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d160ff55abf86036",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.505545454545454,
+    "arithmeticGeometricMean": 5.484364921855835,
+    "median": 5.699090909090909,
+    "hash": "d160ff55abf86036",
+    "lastUpdate": "2024-05-09"
+  }
+}

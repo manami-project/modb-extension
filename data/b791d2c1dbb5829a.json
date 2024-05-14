@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/230",
+    "https://anilist.co/anime/527",
+    "https://anime-planet.com/anime/pokemon",
+    "https://anisearch.com/anime/3139",
+    "https://kitsu.io/anime/486",
+    "https://livechart.me/anime/3702",
+    "https://myanimelist.net/anime/527",
+    "https://notify.moe/anime/sv1ocKimg"
+  ],
+  "score": {
+    "arithmeticMean": 6.934238569759454,
+    "arithmeticGeometricMean": 6.904124786460246,
+    "median": 7.402093425605537,
+    "hash": "b791d2c1dbb5829a",
+    "lastUpdate": "2024-05-09"
+  }
+}

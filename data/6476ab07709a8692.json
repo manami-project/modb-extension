@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3399",
+    "https://anilist.co/anime/2120",
+    "https://anime-planet.com/anime/captain-tsubasa-asu-ni-mukatte-hashire",
+    "https://anisearch.com/anime/3466",
+    "https://kitsu.io/anime/1917",
+    "https://livechart.me/anime/6608",
+    "https://myanimelist.net/anime/2120",
+    "https://notify.moe/anime/iCwY5Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6476ab07709a8692",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.469804929764114,
+    "arithmeticGeometricMean": 6.449852617860864,
+    "median": 6.686,
+    "hash": "6476ab07709a8692",
+    "lastUpdate": "2024-05-09"
+  }
+}

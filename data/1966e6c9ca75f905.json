@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17639",
+    "https://anilist.co/anime/154969",
+    "https://anime-planet.com/anime/uniteup",
+    "https://anisearch.com/anime/17740",
+    "https://kitsu.io/anime/46526",
+    "https://livechart.me/anime/11521",
+    "https://myanimelist.net/anime/53132",
+    "https://notify.moe/anime/FxV2lV44R"
+  ],
+  "synopsis": {
+    "text": "Their journey to stardom begins when Akira Kiyose, a high school student with a passion for singing, is discovered by the talent agency sMiLea Production. Singing under the online pseudonym 'KIKUNOYU,' Akira's life takes a dramatic turn when he is scouted by the very agency established by the legendary idol duo, AneLa.\n\nJoined by fellow scouted talents Banri Naoe and Chihiro Isuzugawa, the trio forms an idol group named Protostar. Together, they embark on an exciting adventure in the world of music, training under the watchful eyes of their legendary predecessors.\n\nAs Protostar prepares for their debut, they find themselves surrounded by a competitive landscape filled with other aspiring idol groups like Legit and Jaxx Jaxx. With determination and dreams in their hearts, these young idols strive to make their mark in the entertainment industry, captivating audiences with their unique talents and undeniable charm.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1966e6c9ca75f905",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.479564935064936,
+    "arithmeticGeometricMean": 6.356171452299449,
+    "median": 7.128454545454545,
+    "hash": "1966e6c9ca75f905",
+    "lastUpdate": "2024-05-10"
+  }
+}

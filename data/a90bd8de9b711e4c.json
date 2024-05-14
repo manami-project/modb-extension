@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9297",
+    "https://anilist.co/anime/112145",
+    "https://anime-planet.com/anime/usagi-no-mofy",
+    "https://anime-planet.com/anime/usagi-no-mofy-2012",
+    "https://anisearch.com/anime/7943",
+    "https://kitsu.io/anime/9950",
+    "https://myanimelist.net/anime/21713",
+    "https://notify.moe/anime/oGhPtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a90bd8de9b711e4c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.752943722943722,
+    "arithmeticGeometricMean": 5.732331543190757,
+    "median": 5.739285714285714,
+    "hash": "a90bd8de9b711e4c",
+    "lastUpdate": "2024-05-07"
+  }
+}

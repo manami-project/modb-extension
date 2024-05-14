@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8807",
+    "https://anilist.co/anime/17471",
+    "https://anime-planet.com/anime/yanase-takashi-maerchen-gekijou",
+    "https://anisearch.com/anime/7481",
+    "https://kitsu.io/anime/9700",
+    "https://myanimelist.net/anime/17471",
+    "https://notify.moe/anime/6zJYtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e4be0db0fa5f92e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.290661719233148,
+    "arithmeticGeometricMean": 5.2647341609099,
+    "median": 5.0,
+    "hash": "9e4be0db0fa5f92e",
+    "lastUpdate": "2024-05-08"
+  }
+}

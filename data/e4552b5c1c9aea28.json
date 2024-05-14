@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14830",
+    "https://anilist.co/anime/9952",
+    "https://anime-planet.com/anime/weiqi-shaonian",
+    "https://anisearch.com/anime/17459",
+    "https://kitsu.io/anime/5961",
+    "https://livechart.me/anime/11220",
+    "https://myanimelist.net/anime/9952",
+    "https://notify.moe/anime/XGznpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e4552b5c1c9aea28",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.557575757575758,
+    "arithmeticGeometricMean": 5.541676067561419,
+    "median": 5.2727272727272725,
+    "hash": "e4552b5c1c9aea28",
+    "lastUpdate": "2024-05-10"
+  }
+}

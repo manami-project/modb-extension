@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11458",
+    "https://anilist.co/anime/137895",
+    "https://anime-planet.com/anime/mirai-koushi-harima-sacla",
+    "https://anisearch.com/anime/9261",
+    "https://kitsu.io/anime/8435",
+    "https://myanimelist.net/anime/21471",
+    "https://notify.moe/anime/k4K0tFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e8e965d34034722",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.533077657036841,
+    "arithmeticGeometricMean": 5.511963171984899,
+    "median": 5.62,
+    "hash": "4e8e965d34034722",
+    "lastUpdate": "2024-05-07"
+  }
+}

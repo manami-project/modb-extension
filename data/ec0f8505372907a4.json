@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1686",
+    "https://anilist.co/anime/1537",
+    "https://anime-planet.com/anime/genshi-shounen-ryuu",
+    "https://anisearch.com/anime/2364",
+    "https://kitsu.io/anime/1378",
+    "https://livechart.me/anime/11753",
+    "https://myanimelist.net/anime/1537",
+    "https://notify.moe/anime/0NJ-5Fimg"
+  ],
+  "synopsis": {
+    "text": "Tyrannosaurus and tribes coexist in a world reminiscent of prehistoric times. In this world, Ryuu, a baby with an unusual skin color, is born into a tribe that shuns him for his difference. The tribe attempts to sacrifice him to a fearsome Tyrannosaurus named Shirano, but a benevolent monkey intervenes and raises Ryuu as her own. Meanwhile, Ryuu's biological mother embarks on a quest to find her lost son.\n\nYears later, Ryuu encounters Ran, a young woman who was sold to Ryuu's original tribe. The tribe's animosity towards Ryuu resurfaces, leading to a failed sacrifice attempt. Tragically, Shirano massacres the tribe and Ryuu's adoptive mother. With a heavy heart, Ryuu and Ran set out on a perilous journey to find Ryuu's mother and Ran's missing brother, Don.\n\nThroughout their adventure, Ryuu and his companions face formidable challenges, including a battle against the very Tyrannosaurus that has brought Ryuu so much pain. United by their shared goal and unbreakable bond, they press on, determined to find their loved ones and overcome the obstacles that stand in their way.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec0f8505372907a4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.234216626910505,
+    "arithmeticGeometricMean": 6.223324846043524,
+    "median": 6.106122448979591,
+    "hash": "ec0f8505372907a4",
+    "lastUpdate": "2024-05-09"
+  }
+}

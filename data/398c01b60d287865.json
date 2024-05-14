@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3124",
+    "https://anilist.co/anime/4183",
+    "https://anime-planet.com/anime/uchuu-taitei-god-sigma",
+    "https://anisearch.com/anime/1576",
+    "https://kitsu.io/anime/3507",
+    "https://myanimelist.net/anime/4183",
+    "https://notify.moe/anime/MX5XcFimR"
+  ],
+  "synopsis": {
+    "text": "Energy scarcity looms over Earth in the year 2050, until a groundbreaking discovery in Trinity City promises to revolutionize the world's energy supply. The Trinity energy, a powerful new source developed by a brilliant scientist, attracts the attention of the Elda, an alien empire hailing from the future. In their timeline, the Elda's home planet was invaded by Earth, leading to their defeat at the hands of the Trinity Energy's overwhelming power.\n\nDetermined to seize the Trinity energy before it can be used against them, the Elda launch a surprise attack on Earth's space colony on Jupiter's moon, Io. As the Elda forces occupy Io and march towards Trinity City with their Cosmosauruses, humanity's last line of defense emerges in the form of God Sigma, a mighty robot powered by the Trinity energy.\n\nLed by the skilled martial artist Toshiya Dan, alongside his friends and fellow pilots, God Sigma wields a formidable sword to protect Earth and the Trinity energy. As the battle for Io intensifies, Toshiya and his team embark on a long and arduous journey to reclaim their homeland and safeguard the future of both Earth and the Elda.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "398c01b60d287865",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.763251082251082,
+    "arithmeticGeometricMean": 5.732861043866556,
+    "median": 5.448181818181818,
+    "hash": "398c01b60d287865",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14293",
+    "https://anilist.co/anime/104213",
+    "https://anime-planet.com/anime/osomatsu-san-the-movie",
+    "https://anisearch.com/anime/13841",
+    "https://kitsu.io/anime/41993",
+    "https://livechart.me/anime/3468",
+    "https://myanimelist.net/anime/38201",
+    "https://notify.moe/anime/6I6LhYYiR"
+  ],
+  "synopsis": {
+    "text": "Osomatsu-san The Movie, the latest installment in the Mr. Osomatsu franchise, takes the sextuplets on an unexpected journey following a high school class reunion. As they encounter their former classmates who have become successful adults, the brothers find themselves feeling disheartened and questioning their own lack of accomplishments. In an attempt to escape their feelings of inadequacy, they turn to alcohol and eventually pass out. Upon awakening, they find themselves in a strange world of memories, where they must confront their embarrassing past selves and uncover the source of one brother's deepest regret. As they navigate this unstable world, the sextuplets must race against time to make things right and find their way back to reality. Will they be able to overcome their past mistakes and find a new sense of purpose, or will they remain trapped in their regrets forever? Only time will tell in this exciting new adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "66b55ead62c787e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.822477272727272,
+    "arithmeticGeometricMean": 7.815934701191727,
+    "median": 7.8945454545454545,
+    "hash": "66b55ead62c787e6",
+    "lastUpdate": "2024-05-09"
+  }
+}

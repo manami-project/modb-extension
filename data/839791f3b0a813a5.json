@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11826",
+    "https://anilist.co/anime/21528",
+    "https://anime-planet.com/anime/ketsuekigata-kun-4",
+    "https://anisearch.com/anime/11027",
+    "https://kitsu.io/anime/11648",
+    "https://livechart.me/anime/1950",
+    "https://myanimelist.net/anime/32274",
+    "https://notify.moe/anime/N8kqpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "839791f3b0a813a5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.78245534057779,
+    "arithmeticGeometricMean": 5.756365058491686,
+    "median": 6.086,
+    "hash": "839791f3b0a813a5",
+    "lastUpdate": "2024-05-09"
+  }
+}

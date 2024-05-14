@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17801",
+    "https://anilist.co/anime/159483",
+    "https://anime-planet.com/anime/turkey",
+    "https://anisearch.com/anime/17997",
+    "https://kitsu.io/anime/46926",
+    "https://livechart.me/anime/11762",
+    "https://myanimelist.net/anime/54028",
+    "https://notify.moe/anime/AQklZwtVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "df59d0ea330ef975",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "df59d0ea330ef975",
+    "lastUpdate": "2024-05-11"
+  }
+}

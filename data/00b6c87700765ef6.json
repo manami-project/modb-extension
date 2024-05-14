@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7356",
+    "https://anilist.co/anime/8146",
+    "https://anime-planet.com/anime/gegege-no-kitarou-daikaijuu",
+    "https://anisearch.com/anime/5598",
+    "https://kitsu.io/anime/5216",
+    "https://livechart.me/anime/7981",
+    "https://myanimelist.net/anime/8146",
+    "https://notify.moe/anime/EhjztKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "00b6c87700765ef6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.156668963689372,
+    "arithmeticGeometricMean": 6.130095085185586,
+    "median": 6.2727272727272725,
+    "hash": "00b6c87700765ef6",
+    "lastUpdate": "2024-05-09"
+  }
+}

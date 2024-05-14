@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/152308",
+    "https://anime-planet.com/anime/nornis-abyssal-zone",
+    "https://anisearch.com/anime/17869",
+    "https://kitsu.io/anime/48115",
+    "https://myanimelist.net/anime/55336"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "922bb7f020519bb3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.8864192949907235,
+    "arithmeticGeometricMean": 6.880311263647389,
+    "median": 7.0600000000000005,
+    "hash": "922bb7f020519bb3",
+    "lastUpdate": "2024-05-05"
+  }
+}

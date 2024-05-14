@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6602",
+    "https://anilist.co/anime/11093",
+    "https://anime-planet.com/anime/ziggy-soreyuke-rr-band",
+    "https://anisearch.com/anime/9197",
+    "https://kitsu.io/anime/6456",
+    "https://myanimelist.net/anime/11093",
+    "https://notify.moe/anime/_vSIpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "57ee2ab358c85640",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.624137291280149,
+    "arithmeticGeometricMean": 5.614825654708746,
+    "median": 5.618636363636364,
+    "hash": "57ee2ab358c85640",
+    "lastUpdate": "2024-05-08"
+  }
+}

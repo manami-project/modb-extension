@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8824",
+    "https://anilist.co/anime/12187",
+    "https://anime-planet.com/anime/carnival-phantasm-ex-season",
+    "https://anisearch.com/anime/7475",
+    "https://kitsu.io/anime/6685",
+    "https://livechart.me/anime/4064",
+    "https://myanimelist.net/anime/12187",
+    "https://notify.moe/anime/IRvNpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c5c27cd6f27c78a8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.408241977599121,
+    "arithmeticGeometricMean": 7.405088565384436,
+    "median": 7.516727272727273,
+    "hash": "c5c27cd6f27c78a8",
+    "lastUpdate": "2024-05-09"
+  }
+}

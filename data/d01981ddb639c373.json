@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/12239",
+    "https://anime-planet.com/anime/manyuu-hiken-chou-picture-drama",
+    "https://anisearch.com/anime/7754",
+    "https://kitsu.io/anime/6693",
+    "https://livechart.me/anime/5895",
+    "https://notify.moe/anime/1ddNpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d01981ddb639c373",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.070308719851576,
+    "arithmeticGeometricMean": 5.037530410665408,
+    "median": 4.25,
+    "hash": "d01981ddb639c373",
+    "lastUpdate": "2024-05-06"
+  }
+}

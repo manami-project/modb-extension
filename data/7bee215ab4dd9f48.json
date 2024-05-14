@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106554",
+    "https://anime-planet.com/anime/shiina",
+    "https://anisearch.com/anime/12994",
+    "https://kitsu.io/anime/45692"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7bee215ab4dd9f48",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.01530612244898,
+    "arithmeticGeometricMean": 4.966378067856079,
+    "median": 5.01530612244898,
+    "hash": "7bee215ab4dd9f48",
+    "lastUpdate": "2024-05-06"
+  }
+}

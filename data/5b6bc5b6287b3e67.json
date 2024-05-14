@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4549",
+    "https://anilist.co/anime/1482",
+    "https://anime-planet.com/anime/dgrayman",
+    "https://anisearch.com/anime/3678",
+    "https://kitsu.io/anime/1328",
+    "https://livechart.me/anime/3629",
+    "https://myanimelist.net/anime/1482",
+    "https://notify.moe/anime/97da5Kmig"
+  ],
+  "synopsis": {
+    "text": "Exorcists of the Black Order stand as humanity's last hope against the sinister Akuma, mechanical monstrosities forged from the souls of the deceased by the enigmatic Millennium Earl. At the close of the 19th century, young Allen Walker finds himself among the ranks of these Exorcists, armed with a divine power known as Innocence. Embedded within his left arm, this power manifests as an anti-Akuma weapon, while his cursed eye grants him the ability to perceive the tormented souls trapped within the Akuma.\n\nAs an Exorcist, Allen and his comrades face the daunting task of thwarting the Millennium Earl's cataclysmic scheme, which threatens to obliterate the world and all its inhabitants. With the future of humanity hanging in the balance, Allen must harness the power of Innocence and confront the malevolent forces that seek to destroy all that he holds dear. In this perilous journey, Allen and his fellow Exorcists must gather the scattered fragments of Innocence and put an end to the Millennium Earl's reign of terror.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b6bc5b6287b3e67",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.845657395653635,
+    "arithmeticGeometricMean": 7.844366871588447,
+    "median": 7.809090909090909,
+    "hash": "5b6bc5b6287b3e67",
+    "lastUpdate": "2024-05-09"
+  }
+}

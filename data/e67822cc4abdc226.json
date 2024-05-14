@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6233",
+    "https://anilist.co/anime/9531",
+    "https://anime-planet.com/anime/tezuka-osamu-monogatari-boku-wa-son-gokuu",
+    "https://anisearch.com/anime/5165",
+    "https://kitsu.io/anime/5777",
+    "https://livechart.me/anime/6671",
+    "https://myanimelist.net/anime/9531",
+    "https://notify.moe/anime/n8SMpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e67822cc4abdc226",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.213613040021203,
+    "arithmeticGeometricMean": 6.191785230201349,
+    "median": 6.06,
+    "hash": "e67822cc4abdc226",
+    "lastUpdate": "2024-05-10"
+  }
+}

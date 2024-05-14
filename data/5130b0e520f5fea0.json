@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1342",
+    "https://anilist.co/anime/927",
+    "https://anime-planet.com/anime/transformers-energon",
+    "https://anisearch.com/anime/1539",
+    "https://kitsu.io/anime/825",
+    "https://livechart.me/anime/7425",
+    "https://myanimelist.net/anime/927",
+    "https://notify.moe/anime/CsM15Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5130b0e520f5fea0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.616570368407102,
+    "arithmeticGeometricMean": 5.578048103315789,
+    "median": 5.91,
+    "hash": "5130b0e520f5fea0",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5531",
+    "https://anilist.co/anime/3407",
+    "https://anime-planet.com/anime/blassreiter",
+    "https://anisearch.com/anime/4620",
+    "https://kitsu.io/anime/2989",
+    "https://livechart.me/anime/4202",
+    "https://myanimelist.net/anime/3407",
+    "https://notify.moe/anime/I7Bw5KimR"
+  ],
+  "synopsis": {
+    "text": "Despite the chaos and destruction unleashed by biomechanical creatures known as Amalgams in a dystopian Germany, hope emerges in the form of Joseph Jobson, a unique Amalgam with the ability to control his powers. These creatures, born from human corpses, possess the terrifying ability to merge with technology and wreak havoc on society. To combat this threat, the Xenogenesis Assault Team (XAT) is formed, with the mission to protect the citizens and research the mysterious origins of these beings.\n\nAmong the Amalgams, a new breed of human-turned-Amalgams arises, some of whom use their powers for good while others seek to further spread chaos. Joseph, now transformed into the powerful Blassreiter, finds himself both an ally and a target for XAT. As he navigates this treacherous landscape, Joseph must elude the organization, forge new alliances, and confront his own past to uncover the truth behind the Amalgam conflict and save humanity from the brink of destruction.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2d6f99d5401de8d7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.662130940488084,
+    "arithmeticGeometricMean": 6.654383419445482,
+    "median": 6.587727272727273,
+    "hash": "2d6f99d5401de8d7",
+    "lastUpdate": "2024-05-09"
+  }
+}

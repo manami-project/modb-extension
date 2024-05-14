@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169036",
+    "https://anime-planet.com/anime/ofuro-no-uta",
+    "https://myanimelist.net/anime/52508"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bccdaac283021884",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.252090909090909,
+    "arithmeticGeometricMean": 5.151842507695242,
+    "median": 5.252090909090909,
+    "hash": "bccdaac283021884",
+    "lastUpdate": "2024-05-07"
+  }
+}

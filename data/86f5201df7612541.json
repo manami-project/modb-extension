@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7483",
+    "https://anilist.co/anime/8246",
+    "https://anime-planet.com/anime/naruto-shippuden-movie-4-the-lost-tower",
+    "https://anisearch.com/anime/6206",
+    "https://kitsu.io/anime/5266",
+    "https://livechart.me/anime/3859",
+    "https://myanimelist.net/anime/8246",
+    "https://notify.moe/anime/xRMmtFmmg"
+  ],
+  "synopsis": {
+    "text": "Konoha's elite ninja team, consisting of Naruto Uzumaki, Sakura Haruno, Sai, and their leader Yamato, are tasked with apprehending the rogue ninja Mukade, who is after the ancient chakra source, Ryuumyaku, hidden beneath the Rouran ruins. Despite their best efforts, Mukade manages to release the sealed power, resulting in a powerful energy burst that transports Naruto back in time to the glorious kingdom of Rouran, 20 years in the past.\n\nIn this unfamiliar yet majestic realm, Naruto encounters the young and innocent queen, Saara, and three Konohagakure ninjas on a classified mission. To his surprise, he learns that Mukade has already infiltrated the royal court, disguised as Anrokuzan, the queen's most trusted minister. In order to thwart Mukade's sinister plans and return to his own time, Naruto must protect Queen Saara and uncover the truth about the city, all while working alongside the future Fourth Hokage. Can Naruto save the past and secure his future in this thrilling adventure?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "86f5201df7612541",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.327538529102507,
+    "arithmeticGeometricMean": 7.322428391557051,
+    "median": 7.504924060751399,
+    "hash": "86f5201df7612541",
+    "lastUpdate": "2024-05-09"
+  }
+}

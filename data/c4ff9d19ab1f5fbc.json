@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12459",
+    "https://anilist.co/anime/120074",
+    "https://anisearch.com/anime/11868",
+    "https://kitsu.io/anime/12743",
+    "https://livechart.me/anime/2370",
+    "https://myanimelist.net/anime/34207",
+    "https://notify.moe/anime/7c_ihFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c4ff9d19ab1f5fbc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.9162028447742734,
+    "arithmeticGeometricMean": 3.8775893600551843,
+    "median": 3.6363636363636362,
+    "hash": "c4ff9d19ab1f5fbc",
+    "lastUpdate": "2024-05-09"
+  }
+}

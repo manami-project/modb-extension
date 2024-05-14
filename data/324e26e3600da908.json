@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10103",
+    "https://anilist.co/anime/121654",
+    "https://anime-planet.com/anime/yume-no-tsuzuki",
+    "https://anisearch.com/anime/9128",
+    "https://kitsu.io/anime/9712",
+    "https://myanimelist.net/anime/26097",
+    "https://notify.moe/anime/T1xYpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "324e26e3600da908",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0482374768089056,
+    "arithmeticGeometricMean": 4.995519063171466,
+    "median": 5.0,
+    "hash": "324e26e3600da908",
+    "lastUpdate": "2024-05-08"
+  }
+}

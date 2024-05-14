@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18156",
+    "https://anilist.co/anime/168194",
+    "https://anime-planet.com/anime/sengoku-youko",
+    "https://anisearch.com/anime/18602",
+    "https://kitsu.io/anime/47891",
+    "https://livechart.me/anime/12272",
+    "https://myanimelist.net/anime/56242",
+    "https://notify.moe/anime/1RpsK9e4g"
+  ],
+  "synopsis": {
+    "text": "The anime follows the journey of two step-siblings, Youko Tama and Jinka Sendou, who traverse through a war-torn, sengoku-era Japan. Despite their human appearance, they belong to the Katawara, a race of monster-like beings that often clash with humans. Tama, unlike her brother, holds a deep affection for humans and aims to bridge the gap between the two factions, while Jinka harbors a deep-seated animosity towards them. Accompanying them is Shinsuke Hyoudou, a timid swordsman seeking to strengthen his character under the influence of the battle-hardened siblings. As they journey together, they uncover a sinister plot threatening both humans and Katawara alike, vowing to thwart it even if it means confronting an entire army of warriors. Their adventures promise encounters with diverse individuals, breathtaking landscapes, and legendary battles.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1e2a0b0306f526d6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.106523191094619,
+    "arithmeticGeometricMean": 7.10065016038672,
+    "median": 7.250092764378478,
+    "hash": "1e2a0b0306f526d6",
+    "lastUpdate": "2024-05-09"
+  }
+}

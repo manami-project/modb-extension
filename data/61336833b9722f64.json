@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103587",
+    "https://anime-planet.com/anime/tomoko-oshima-tadaima",
+    "https://kitsu.io/anime/41559",
+    "https://myanimelist.net/anime/35324"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "61336833b9722f64",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.815212121212121,
+    "arithmeticGeometricMean": 5.807435142830743,
+    "median": 5.69,
+    "hash": "61336833b9722f64",
+    "lastUpdate": "2024-05-07"
+  }
+}

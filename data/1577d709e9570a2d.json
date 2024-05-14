@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17459",
+    "https://anilist.co/anime/150970",
+    "https://anime-planet.com/anime/cardfight-vanguard-overdress-5th-season",
+    "https://anisearch.com/anime/17916",
+    "https://kitsu.io/anime/46186",
+    "https://livechart.me/anime/11255",
+    "https://myanimelist.net/anime/52079",
+    "https://notify.moe/anime/P41wuKqng"
+  ],
+  "synopsis": {
+    "text": "The world of Vanguard has been revolutionized by the Uniformers, an AI-driven app that promises to make anyone the strongest player. However, this new era of high-level gameplay comes at a cost: the loss of individuality and creativity in cardfights. As the Uniformers continue to dominate tournaments and challenge old-school players, a group of friends led by Yu-yu Kondo must fight to preserve the joy and uniqueness of the game they love.\n\nYu-yu and his allies face a formidable lineup of opponents, including the cunning Masanori, the enigmatic Shirogane, the skilled Halona, and the reigning champion Sophie. Meanwhile, Jinki seeks to create the ultimate fight in honor of his brother's memory. With the odds against them, Yu-yu and his friends must use their wits and their passion for Vanguard to reject the Uniformers' vision of a monotonous, AI-controlled future.\n\nAs the Uniformers' influence spreads, even Yu-yu's school routine is disrupted. When his friend Megumi is targeted by the Uniformers, Yu-yu finds himself in a duel with Jinki and realizes the true extent of the AI's sinister power. With Team Daybreak under fire from traitors and enemies alike, Yu-yu and his friends must stand together to resist the Uniformers' takeover and protect the heart of Vanguard. Can they succeed in preserving the game's individuality and enjoyment, or will they be swallowed up by the relentless march of AI-driven uniformity?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1577d709e9570a2d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.553841372912801,
+    "arithmeticGeometricMean": 6.5485742573395385,
+    "median": 6.684090909090909,
+    "hash": "1577d709e9570a2d",
+    "lastUpdate": "2024-05-09"
+  }
+}

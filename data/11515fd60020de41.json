@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10829",
+    "https://anilist.co/anime/20864",
+    "https://anime-planet.com/anime/ganbare-lulu-lolo-2nd-season",
+    "https://anisearch.com/anime/9863",
+    "https://kitsu.io/anime/9170",
+    "https://livechart.me/anime/807",
+    "https://myanimelist.net/anime/26163",
+    "https://notify.moe/anime/Lao-pFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "11515fd60020de41",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.38201762523191,
+    "arithmeticGeometricMean": 5.358598264851967,
+    "median": 4.974489795918367,
+    "hash": "11515fd60020de41",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17319",
+    "https://anilist.co/anime/160173",
+    "https://anime-planet.com/anime/gunma-chan-season-2",
+    "https://anisearch.com/anime/18471",
+    "https://livechart.me/anime/11184",
+    "https://myanimelist.net/anime/54216",
+    "https://notify.moe/anime/Z0BMv324R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e297c4a850df24ce",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.588662956091528,
+    "arithmeticGeometricMean": 6.577284113265289,
+    "median": 6.612,
+    "hash": "e297c4a850df24ce",
+    "lastUpdate": "2024-05-09"
+  }
+}

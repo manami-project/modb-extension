@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11383",
+    "https://anilist.co/anime/19219",
+    "https://anime-planet.com/anime/modern-no2",
+    "https://anisearch.com/anime/10171",
+    "https://kitsu.io/anime/8222",
+    "https://myanimelist.net/anime/19219",
+    "https://notify.moe/anime/MKpopKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "71715852ed4108d7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.315924905026946,
+    "arithmeticGeometricMean": 5.267020218365747,
+    "median": 5.37,
+    "hash": "71715852ed4108d7",
+    "lastUpdate": "2024-05-08"
+  }
+}

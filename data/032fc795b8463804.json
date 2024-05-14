@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13822",
+    "https://anilist.co/anime/128977",
+    "https://anime-planet.com/anime/turning-mecard-w-2nd-season",
+    "https://anisearch.com/anime/13559",
+    "https://kitsu.io/anime/40585",
+    "https://myanimelist.net/anime/35543",
+    "https://notify.moe/anime/8-dvhFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "032fc795b8463804",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.101704638218924,
+    "arithmeticGeometricMean": 6.04955490999479,
+    "median": 5.545454545454546,
+    "hash": "032fc795b8463804",
+    "lastUpdate": "2024-05-08"
+  }
+}

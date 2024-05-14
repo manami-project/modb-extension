@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13140",
+    "https://anime-planet.com/anime/wienners-shangri-la",
+    "https://kitsu.io/anime/12575",
+    "https://myanimelist.net/anime/33906",
+    "https://notify.moe/anime/CGMihFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2fcc6a9009a502b2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.496,
+    "arithmeticGeometricMean": 4.456158788763397,
+    "median": 4.38,
+    "hash": "2fcc6a9009a502b2",
+    "lastUpdate": "2024-05-08"
+  }
+}

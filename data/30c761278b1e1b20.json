@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5092",
+    "https://anime-planet.com/anime/oraa-guzura-dado",
+    "https://anisearch.com/anime/4191",
+    "https://kitsu.io/anime/13192",
+    "https://myanimelist.net/anime/21539",
+    "https://notify.moe/anime/MvBG2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "30c761278b1e1b20",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.595632653061225,
+    "arithmeticGeometricMean": 5.5700424977924685,
+    "median": 5.0,
+    "hash": "30c761278b1e1b20",
+    "lastUpdate": "2024-05-08"
+  }
+}

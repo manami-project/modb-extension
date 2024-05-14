@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/75",
+    "https://myanimelist.net/anime/823"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8355862965f4845e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.834795918367346,
+    "arithmeticGeometricMean": 5.821550890920634,
+    "median": 5.834795918367346,
+    "hash": "8355862965f4845e",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3609",
+    "https://anilist.co/anime/3683",
+    "https://anime-planet.com/anime/kabatotto",
+    "https://anisearch.com/anime/859",
+    "https://kitsu.io/anime/3192",
+    "https://myanimelist.net/anime/3683",
+    "https://notify.moe/anime/2wNl5Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ccb899be230d9db",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.358637600494743,
+    "arithmeticGeometricMean": 5.335426789491272,
+    "median": 4.96,
+    "hash": "5ccb899be230d9db",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11902",
+    "https://anilist.co/anime/21611",
+    "https://anime-planet.com/anime/endride",
+    "https://anisearch.com/anime/11096",
+    "https://kitsu.io/anime/11807",
+    "https://livechart.me/anime/2012",
+    "https://myanimelist.net/anime/32608",
+    "https://notify.moe/anime/b4yqpFmmR"
+  ],
+  "synopsis": {
+    "text": "Endra, a mystical realm hidden beneath the Earth's surface, is illuminated by the radiant Adamas and adorned with vibrant, seven-colored bands that traverse the skies. In this extraordinary world, 15-year-old Shun Asanaga, an optimistic and lively middle school student from the 'Land Above,' finds himself transported after discovering and touching a peculiar crystal at his father's scientific research company.\n\nIn Endra, Shun encounters Prince Emilio, who has recently turned 16 and is filled with resentment towards the reigning King Deruzain. Determined to claim vengeance and the throne, Emilio's attempt is thwarted by his inferior strength, leading to his capture and imprisonment. Just as Emilio's hope wanes, Shun appears through a distorted wall in his cell.\n\nNow, two young individuals from vastly different worlds must join forces to achieve their goals: Shun, yearning to return home, and Emilio, driven to reclaim his birthright and exact revenge. The future that awaits these two young heroes is uncertain, but together, they will strive to overcome the challenges in the enchanting world of Endra.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2697a3013f9527ba",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.626503000387146,
+    "arithmeticGeometricMean": 5.608996339191015,
+    "median": 5.609285714285714,
+    "hash": "2697a3013f9527ba",
+    "lastUpdate": "2024-05-09"
+  }
+}

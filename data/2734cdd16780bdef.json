@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16391",
+    "https://anilist.co/anime/117573",
+    "https://anime-planet.com/anime/the-island-of-siliang",
+    "https://anisearch.com/anime/16457",
+    "https://kitsu.io/anime/44762",
+    "https://livechart.me/anime/9950",
+    "https://myanimelist.net/anime/41918",
+    "https://notify.moe/anime/6RZWmVxMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2734cdd16780bdef",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.720544712430427,
+    "arithmeticGeometricMean": 7.695318297491239,
+    "median": 7.04,
+    "hash": "2734cdd16780bdef",
+    "lastUpdate": "2024-05-09"
+  }
+}

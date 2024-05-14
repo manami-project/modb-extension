@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/8689",
+    "https://anime-planet.com/anime/born-by-myself",
+    "https://anisearch.com/anime/14779",
+    "https://kitsu.io/anime/5444",
+    "https://myanimelist.net/anime/8689",
+    "https://notify.moe/anime/cquitKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3f81c6053d7246fb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.3452813852813854,
+    "arithmeticGeometricMean": 3.325101300430645,
+    "median": 3.1404545454545456,
+    "hash": "3f81c6053d7246fb",
+    "lastUpdate": "2024-05-06"
+  }
+}

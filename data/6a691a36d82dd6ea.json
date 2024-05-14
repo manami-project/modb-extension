@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9369",
+    "https://anilist.co/anime/8783",
+    "https://anime-planet.com/anime/nezha-nao-hai",
+    "https://anisearch.com/anime/8243",
+    "https://kitsu.io/anime/5494",
+    "https://myanimelist.net/anime/8783",
+    "https://notify.moe/anime/JciZpKmmR"
+  ],
+  "synopsis": {
+    "text": "Has the epic fantasy novel Fengshen Bang come to life in the 1979 Chinese animated film, Prince Nezha's Triumph Against Dragon King! Screened at the 1980 Cannes Film Festival and shown internationally in cinemas, this tale of the warrior deity Nezha has since been released on DVD under various titles.\n\nBorn from a lotus flower after a gestation period of 3.5 years, Nezha, the son of Lady Yin and General Li Jing, enters the world with the ability to walk and talk. Under the tutelage of the immortal Taiyi Zhenren, Nezha grows into a formidable force.\n\nHowever, the Dragon Kings of the Four Seas, once peaceful, have turned cruel and destructive, causing chaos and destruction across China. Ignoring the people's pleas for rain, the East Sea Dragon King Ao Guang sends his minion Ye Sha to capture children for his consumption. When Ye Sha seizes one of Nezha's friends, Nezha confronts him and injures him severely.\n\nInfuriated, Ao Guang sends his third son, Ao Bing, who is killed by Nezha. The confrontations between Nezha and Ao Guang escalate, with the Dragon Kings wreaking havoc on the people through storms, floods, and natural disasters.\n\nTo end the suffering, Nezha takes his father's sword and commits suicide, only to be reborn with the help of his master and new weapons and abilities. In a final showdown, Nezha breaks into Ao Guang's underwater palace and emerges triumphant against the Dragon Kings.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6a691a36d82dd6ea",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.270209647495363,
+    "arithmeticGeometricMean": 6.264491347218031,
+    "median": 6.299628942486086,
+    "hash": "6a691a36d82dd6ea",
+    "lastUpdate": "2024-05-08"
+  }
+}

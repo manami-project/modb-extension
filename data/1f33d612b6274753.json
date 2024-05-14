@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16411",
+    "https://anilist.co/anime/136297",
+    "https://anime-planet.com/anime/ciel-mado-wo-akete",
+    "https://anisearch.com/anime/16471",
+    "https://kitsu.io/anime/44857",
+    "https://myanimelist.net/anime/51605"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1f33d612b6274753",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.059005565862708,
+    "arithmeticGeometricMean": 7.053815335899731,
+    "median": 6.89,
+    "hash": "1f33d612b6274753",
+    "lastUpdate": "2024-05-08"
+  }
+}

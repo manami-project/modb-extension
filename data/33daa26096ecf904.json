@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10641",
+    "https://anilist.co/anime/103708",
+    "https://anime-planet.com/anime/shin-seikimatsu-yatsuto-no-souguu",
+    "https://anisearch.com/anime/9988",
+    "https://kitsu.io/anime/9131",
+    "https://myanimelist.net/anime/22657",
+    "https://notify.moe/anime/PuDapKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33daa26096ecf904",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.36025974025974,
+    "arithmeticGeometricMean": 5.348364935398589,
+    "median": 5.375,
+    "hash": "33daa26096ecf904",
+    "lastUpdate": "2024-05-07"
+  }
+}

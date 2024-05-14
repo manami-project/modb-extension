@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103993",
+    "https://anime-planet.com/anime/i-think-youre-a-little-confused",
+    "https://kitsu.io/anime/44793",
+    "https://myanimelist.net/anime/44776"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7359e741407cbc84",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.8884848484848495,
+    "arithmeticGeometricMean": 5.882274673916906,
+    "median": 5.69,
+    "hash": "7359e741407cbc84",
+    "lastUpdate": "2024-05-07"
+  }
+}

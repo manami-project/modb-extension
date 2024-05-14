@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/165056",
+    "https://anime-planet.com/anime/vinland-saga-season-2-same-old-story",
+    "https://anisearch.com/anime/18596",
+    "https://kitsu.io/anime/47444",
+    "https://myanimelist.net/anime/55272"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b6cf97b485600ac6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.017130241187384,
+    "arithmeticGeometricMean": 7.012063928492229,
+    "median": 6.854,
+    "hash": "b6cf97b485600ac6",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/467",
+    "https://anilist.co/anime/1456",
+    "https://anime-planet.com/anime/licensed-by-royal",
+    "https://anisearch.com/anime/3463",
+    "https://kitsu.io/anime/1306",
+    "https://livechart.me/anime/7851",
+    "https://myanimelist.net/anime/1456",
+    "https://notify.moe/anime/dISa5Fmmg"
+  ],
+  "synopsis": {
+    "text": "This thrilling anime takes us to the secluded kingdom of Ishtar, nestled near England, where the queen has granted licenses to various private agencies to tackle the monarchy's challenges. Among these, Cloud 7 stands out, led by the dynamic duo Row Rickenbacker and Jack Hofner, known as L/R. Their mission? To handle the most dangerous and crucial tasks, from halting the smuggling of artifacts to thwarting bomb attacks and eliminating deadly snipers. However, their skills are truly put to the test when they're assigned to protect Noelle, a candidate for the 15 Year Princesse contest. What seems like a routine job quickly spirals into a complex web of bombings, corruption, and murder, involving all of Cloud 7.\n\nEquipped with a range of special supplies, from cars to cigarettes, L/R navigates through their 'impossible missions' with Jack's suave demeanor and Rowe's rebellious attitude. Their tasks are diverse, from restoring a lost princess to her throne to racing against time to find treasure within ancient ruins. Yet, their biggest challenge lies in unmasking a mysterious terrorist known only as Angel. Despite the constant question of who is L and who is R, this duo's unique partnership is the key to their success in protecting the people of Ishtar.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b85dafe4f147ea5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.136570898489266,
+    "arithmeticGeometricMean": 6.119870778429926,
+    "median": 6.28,
+    "hash": "5b85dafe4f147ea5",
+    "lastUpdate": "2024-05-09"
+  }
+}

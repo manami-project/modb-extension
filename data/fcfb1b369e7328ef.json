@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102455",
+    "https://anime-planet.com/anime/sketch",
+    "https://kitsu.io/anime/41346",
+    "https://myanimelist.net/anime/37930",
+    "https://notify.moe/anime/v9VESCviR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fcfb1b369e7328ef",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.503636363636364,
+    "arithmeticGeometricMean": 5.4825086082428935,
+    "median": 5.572272727272727,
+    "hash": "fcfb1b369e7328ef",
+    "lastUpdate": "2024-05-07"
+  }
+}

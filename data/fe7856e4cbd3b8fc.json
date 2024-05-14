@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1808",
+    "https://anilist.co/anime/2760",
+    "https://anime-planet.com/anime/space-runaway-ideon-contact",
+    "https://anisearch.com/anime/870",
+    "https://kitsu.io/anime/2520",
+    "https://livechart.me/anime/6122",
+    "https://myanimelist.net/anime/2760",
+    "https://notify.moe/anime/bY6ycKiiR"
+  ],
+  "synopsis": {
+    "text": "The anime \"Space Runaway Ideon: Contact\" is a cinematic recapitulation of the first 32 episodes of the original series, chronicling humanity's quest for knowledge that leads them to the distant planet Solo. On this uncharted world, they unearth the remnants of an ancient alien civilization, including a formidable warship and a three-part super robot known as Ideon. As they delve deeper into the ruins, they awaken the wrath of the Buff Clan, a powerful alien race in relentless pursuit of 'Id', the enigmatic energy source that fuels Ideon. In a desperate bid to defend themselves, a group of earthlings, led by Cosmo Yuuki, Kasha Imhof, and Bes Jordan, combine the three parts of Ideon to form a colossal robot, sparking a series of intense battles against the Buff Clan. As the conflict escalates, the survivors embark on a perilous journey aboard the Solo Ship, with the Buff Clan hot on their heels, determined to seize the mysterious power of Ideon.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe7856e4cbd3b8fc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.893791677710046,
+    "arithmeticGeometricMean": 5.880141011827287,
+    "median": 6.090909090909091,
+    "hash": "fe7856e4cbd3b8fc",
+    "lastUpdate": "2024-05-09"
+  }
+}

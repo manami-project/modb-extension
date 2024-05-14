@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106538",
+    "https://anime-planet.com/anime/see-ya-mr-banno",
+    "https://anisearch.com/anime/14997",
+    "https://kitsu.io/anime/45895",
+    "https://myanimelist.net/anime/53082"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1962ef24f3124523",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.049165120593692,
+    "arithmeticGeometricMean": 2.8983116760965717,
+    "median": 3.049165120593692,
+    "hash": "1962ef24f3124523",
+    "lastUpdate": "2024-05-06"
+  }
+}

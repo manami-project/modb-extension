@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7291",
+    "https://anilist.co/anime/7720",
+    "https://anime-planet.com/anime/big-windup-2",
+    "https://anisearch.com/anime/5950",
+    "https://kitsu.io/anime/5095",
+    "https://livechart.me/anime/5397",
+    "https://myanimelist.net/anime/7720",
+    "https://notify.moe/anime/t9czpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "40630ac7cfc2f97d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.892595138055223,
+    "arithmeticGeometricMean": 7.89159240056612,
+    "median": 7.926176470588235,
+    "hash": "40630ac7cfc2f97d",
+    "lastUpdate": "2024-05-09"
+  }
+}

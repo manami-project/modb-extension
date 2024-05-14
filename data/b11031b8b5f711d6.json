@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17979",
+    "https://anilist.co/anime/163542",
+    "https://anime-planet.com/anime/spy-classroom-2nd-season",
+    "https://anisearch.com/anime/18337",
+    "https://kitsu.io/anime/47288",
+    "https://livechart.me/anime/11948",
+    "https://myanimelist.net/anime/54947",
+    "https://notify.moe/anime/LNye0_L4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b11031b8b5f711d6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.048885435992579,
+    "arithmeticGeometricMean": 7.033692105423874,
+    "median": 7.226632653061224,
+    "hash": "b11031b8b5f711d6",
+    "lastUpdate": "2024-05-10"
+  }
+}

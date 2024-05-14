@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/105",
+    "https://anilist.co/anime/208",
+    "https://anime-planet.com/anime/read-or-die",
+    "https://anisearch.com/anime/1322",
+    "https://kitsu.io/anime/184",
+    "https://livechart.me/anime/4027",
+    "https://myanimelist.net/anime/208",
+    "https://notify.moe/anime/bNk25KiiR"
+  ],
+  "synopsis": {
+    "text": "Japanese substitute teacher Yomiko Readman harbors a secret life as a special agent for the British Library, known by her codename, 'The Paper.' Her unique ability to control and transform paper into anything she desires makes her a formidable force in the world of secret agents. Along with her partner, the captivating Nancy Makuhari, or 'Miss Deep,' Yomiko embarks on global missions to secure rare literary treasures and protect the world from malevolent forces.\n\nIn their latest adventure, Yomiko and Miss Deep race to obtain lost Beethoven manuscripts, which hold the key to a sinister plot. The IJIN Army, comprised of reincarnated historical figures, seeks to harness the power of Beethoven's lost Death Symphony, a tune that drives anyone who hears it to suicide. With the IJIN Army planning to broadcast the deadly melody worldwide, Yomiko and her fellow agents must rely on their unique abilities and resourcefulness to thwart their nefarious scheme and save humanity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c067d316bc389df9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.624796536796536,
+    "arithmeticGeometricMean": 7.6225640702368285,
+    "median": 7.686666666666667,
+    "hash": "c067d316bc389df9",
+    "lastUpdate": "2024-05-09"
+  }
+}

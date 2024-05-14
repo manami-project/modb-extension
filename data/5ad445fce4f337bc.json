@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2695",
+    "https://anilist.co/anime/345",
+    "https://anime-planet.com/anime/emma-a-victorian-romance",
+    "https://anisearch.com/anime/1086",
+    "https://kitsu.io/anime/312",
+    "https://livechart.me/anime/4358",
+    "https://myanimelist.net/anime/345",
+    "https://notify.moe/anime/KtYhcFmig"
+  ],
+  "synopsis": {
+    "text": "Stownar—Emma has grown to love her work and has long since accepted her place in society. But when she crosses paths with William Jones, the eldest son of a wealthy family and a member of the gentry, her world is turned upside down. William, who is visiting his former governess, is immediately captivated by Emma's beauty, kindness, and hardworking spirit. As they fall in love, they must navigate the rigid class lines and societal conventions of 19th-century London that threaten to tear them apart. With the odds stacked against them, can Emma and William's love conquer all and break free from the constraints of their social standing? Only time will tell if their love can overcome the obstacles that lie ahead.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ad445fce4f337bc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.569079416615132,
+    "arithmeticGeometricMean": 7.566694013699664,
+    "median": 7.633181818181818,
+    "hash": "5ad445fce4f337bc",
+    "lastUpdate": "2024-05-09"
+  }
+}

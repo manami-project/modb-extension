@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/183",
+    "https://anilist.co/anime/2362",
+    "https://anime-planet.com/anime/run-dim",
+    "https://anisearch.com/anime/2572",
+    "https://kitsu.io/anime/2140",
+    "https://livechart.me/anime/7865",
+    "https://myanimelist.net/anime/2362",
+    "https://notify.moe/anime/1fbP5Fiig"
+  ],
+  "synopsis": {
+    "text": "Doota Kang, Mira Yu, Kanna, and Kazuto are four young pilots caught in a battle for Earth's future in the year 2050. As global warming has submerged much of Japan and crippled its economy, the government has formed JESAS, a military foundation with a hidden agenda to control the country. JESAS uses advanced robotic weaponry, piloted by individuals with a unique ability called Accurate Intuition, to launch nuclear waste into space. However, their actions have sparked a conflict with Green Frontier, a global organization dedicated to saving the planet. As these two factions clash, the fate of Earth hangs in the balance, and the decisions made by these four young pilots will determine the outcome through their love, friendship, and dedication to their cause.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8216cee58d916806",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.528936301793444,
+    "arithmeticGeometricMean": 4.4662014534257075,
+    "median": 4.73,
+    "hash": "8216cee58d916806",
+    "lastUpdate": "2024-05-09"
+  }
+}

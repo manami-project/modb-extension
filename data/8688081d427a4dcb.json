@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7329",
+    "https://anilist.co/anime/107010",
+    "https://anime-planet.com/anime/dororonpa",
+    "https://anisearch.com/anime/6039",
+    "https://kitsu.io/anime/9250",
+    "https://myanimelist.net/anime/24663",
+    "https://notify.moe/anime/EuQatFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8688081d427a4dcb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.21643413729128,
+    "arithmeticGeometricMean": 6.18927727483081,
+    "median": 5.7272727272727275,
+    "hash": "8688081d427a4dcb",
+    "lastUpdate": "2024-05-08"
+  }
+}

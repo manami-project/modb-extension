@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2645",
+    "https://anilist.co/anime/780",
+    "https://anime-planet.com/anime/detective-conan-the-fourteenth-target",
+    "https://anisearch.com/anime/2591",
+    "https://kitsu.io/anime/697",
+    "https://livechart.me/anime/4783",
+    "https://myanimelist.net/anime/780",
+    "https://notify.moe/anime/9gA05Fmmg"
+  ],
+  "synopsis": {
+    "text": "Jo Murakami, a vengeful card dealer, has been released from prison and is on a rampage, targeting individuals connected to renowned detective Kogoro Mouri. As the victims bear names related to playing cards and are assaulted in a specific order, Conan and Mouri must unravel the mystery behind the attacks before they escalate into murders. Meanwhile, Ran, Mouri's daughter, grapples with haunting memories of her mother's death ten years ago, an event that is somehow linked to the current case. As the stakes grow higher, Conan and the police must race against time to decipher the culprit's motives and bring them to justice, while uncovering the truth behind a tragic incident from the past.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb41889f3eff61fd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.793148000023337,
+    "arithmeticGeometricMean": 7.79227417158751,
+    "median": 7.80409090909091,
+    "hash": "eb41889f3eff61fd",
+    "lastUpdate": "2024-05-09"
+  }
+}

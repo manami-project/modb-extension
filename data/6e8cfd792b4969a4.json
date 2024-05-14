@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9973",
+    "https://anilist.co/anime/20462",
+    "https://anime-planet.com/anime/chaika-the-coffin-princess",
+    "https://anisearch.com/anime/9080",
+    "https://kitsu.io/anime/8008",
+    "https://livechart.me/anime/237",
+    "https://myanimelist.net/anime/20853",
+    "https://notify.moe/anime/JGohpFimR"
+  ],
+  "synopsis": {
+    "text": "Empire of Gaz, once a land of terror under the iron-fisted rule of the Taboo Emperor, Arthur Gaz, now lies in peace, five years after his defeat at the hands of the Eight Heroes. Yet, for Toru Acura, a former saboteur, the tranquility of the post-war era proves challenging as he struggles to find purpose in a world that no longer requires his combat skills.\n\nA fateful encounter with the enigmatic Chaika Trabant, a young sorceress bearing a coffin and a mysterious past, sets Toru on an unexpected journey. Chaika's quest to gather the scattered remains of her father, the late Emperor Gaz, becomes Toru's new purpose, as he and his adoptive sister, Akari, join her on a perilous adventure across the continent.\n\nHowever, the Council of Six Nations, the alliance that once opposed the Gaz Empire, now seeks to capture Chaika, the daughter of the tyrannical emperor. Albéric Gillette and his men from the Kleeman Agency are dispatched to apprehend her, turning Chaika's quest into a race against time and a battle against formidable adversaries.\n\nUnaware of the dangerous truths that lie ahead, the unlikely trio embarks on their journey, leaving behind the peaceful world they once knew. As Toru and Akari aid Chaika in her mission, they must navigate the delicate balance between honoring Chaika's wishes and preserving the fragile peace that the continent has only just begun to enjoy.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6e8cfd792b4969a4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.299088455802742,
+    "arithmeticGeometricMean": 7.298142394849168,
+    "median": 7.363551020408163,
+    "hash": "6e8cfd792b4969a4",
+    "lastUpdate": "2024-05-09"
+  }
+}

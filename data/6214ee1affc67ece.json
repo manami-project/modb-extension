@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9262",
+    "https://anilist.co/anime/104087",
+    "https://anime-planet.com/anime/domerica-the-monster",
+    "https://anisearch.com/anime/8082",
+    "https://kitsu.io/anime/8471",
+    "https://myanimelist.net/anime/24045",
+    "https://notify.moe/anime/AZT0tFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6214ee1affc67ece",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.276523191094619,
+    "arithmeticGeometricMean": 5.255543222974341,
+    "median": 4.95,
+    "hash": "6214ee1affc67ece",
+    "lastUpdate": "2024-05-08"
+  }
+}

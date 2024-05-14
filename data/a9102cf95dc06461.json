@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/114524",
+    "https://anime-planet.com/anime/here-and-there",
+    "https://kitsu.io/anime/45054"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a9102cf95dc06461",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "a9102cf95dc06461",
+    "lastUpdate": "2024-05-07"
+  }
+}

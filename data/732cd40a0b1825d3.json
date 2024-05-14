@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/96",
+    "https://anilist.co/anime/7",
+    "https://anime-planet.com/anime/witch-hunter-robin",
+    "https://anisearch.com/anime/3343",
+    "https://kitsu.io/anime/4",
+    "https://livechart.me/anime/4120",
+    "https://myanimelist.net/anime/7",
+    "https://notify.moe/anime/y1zt5KimR"
+  ],
+  "synopsis": {
+    "text": "Its mission shrouded in secrecy, the Solomon's Witch Management Organization, STN, is the world's leading force in managing witches and their extraordinary abilities, from ESP to mind control. As the number of witches and the misuse of their powers escalates in Japan, the STN-J division faces an uphill battle. Following the untimely death of one of their own, the team is joined by Robin, a young and powerful craft user hailing from Italy. Tasked with capturing witches alive to unravel the mysteries behind their origins, Robin and her enigmatic partner, Amon, must navigate the challenges of their mission and the secrets that lie ahead. As the newest member of STN-J, Robin's true potential and the path before her remain uncertain, but one thing is clear: she is destined to play a crucial role in the battle against the rising tide of witchcraft.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "732cd40a0b1825d3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.167119543989846,
+    "arithmeticGeometricMean": 7.161930153055289,
+    "median": 7.205,
+    "hash": "732cd40a0b1825d3",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2294",
+    "https://anilist.co/anime/1638",
+    "https://anime-planet.com/anime/the-adventures-of-peter-pan",
+    "https://anisearch.com/anime/696",
+    "https://kitsu.io/anime/1473",
+    "https://livechart.me/anime/12131",
+    "https://myanimelist.net/anime/1638",
+    "https://notify.moe/anime/pd3-5Fimg"
+  ],
+  "synopsis": {
+    "text": "Pan, a boy who refuses to grow up, whisks Wendy and her two younger brothers away from their mundane London life to the magical realm of Neverland. In this land of eternal youth, the siblings encounter a vibrant cast of characters, including mischievous fairies, captivating mermaids, and Native Americans. As Wendy assumes a maternal role, she must navigate thrilling escapades, such as battling fearsome pirates and embarking on a treasure hunt with a stolen pirate map. Among these adventures, the children join forces with the Lost Boys to confront the nefarious Captain Hook and his crew, as well as a grumpy old crocodile. With each day filled with excitement and wonder, Wendy, John, and Michael will create unforgettable memories in the enchanting world of Neverland.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6cca67221496d094",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.25744765438643,
+    "arithmeticGeometricMean": 6.243750940608303,
+    "median": 6.4,
+    "hash": "6cca67221496d094",
+    "lastUpdate": "2024-05-09"
+  }
+}

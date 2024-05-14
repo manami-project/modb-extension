@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103166",
+    "https://anime-planet.com/anime/urameshi-denwa",
+    "https://anisearch.com/anime/10631",
+    "https://kitsu.io/anime/10444",
+    "https://myanimelist.net/anime/29800",
+    "https://notify.moe/anime/wDBUpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca83f15af3914f56",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.114823747680891,
+    "arithmeticGeometricMean": 5.088740904149945,
+    "median": 4.636363636363637,
+    "hash": "ca83f15af3914f56",
+    "lastUpdate": "2024-05-06"
+  }
+}

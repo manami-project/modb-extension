@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9299",
+    "https://anisearch.com/anime/7939"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "78aa2eb175269f37",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.133265306122449,
+    "arithmeticGeometricMean": 7.132960435853496,
+    "median": 7.133265306122449,
+    "hash": "78aa2eb175269f37",
+    "lastUpdate": "2024-05-07"
+  }
+}

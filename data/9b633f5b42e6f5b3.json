@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/110265",
+    "https://anime-planet.com/anime/persona-5-the-animation-a-magical-valentines-day",
+    "https://anisearch.com/anime/14638",
+    "https://kitsu.io/anime/43338"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b633f5b42e6f5b3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.104254174397031,
+    "arithmeticGeometricMean": 7.102554047484538,
+    "median": 6.9990000000000006,
+    "hash": "9b633f5b42e6f5b3",
+    "lastUpdate": "2024-05-07"
+  }
+}

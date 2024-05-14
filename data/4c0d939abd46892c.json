@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18205",
+    "https://anilist.co/anime/169441",
+    "https://anime-planet.com/anime/my-happy-marriage-2nd-season",
+    "https://anisearch.com/anime/18701",
+    "https://kitsu.io/anime/47969",
+    "https://livechart.me/anime/12338",
+    "https://myanimelist.net/anime/56701",
+    "https://notify.moe/anime/ROvxx9mSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c0d939abd46892c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 10.0,
+    "arithmeticGeometricMean": 10.0,
+    "median": 10.0,
+    "hash": "4c0d939abd46892c",
+    "lastUpdate": "2024-05-10"
+  }
+}

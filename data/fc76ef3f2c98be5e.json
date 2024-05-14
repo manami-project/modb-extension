@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18342",
+    "https://anilist.co/anime/174705",
+    "https://anime-planet.com/anime/zhenwu-dianfeng-3rd-season",
+    "https://myanimelist.net/anime/57351",
+    "https://notify.moe/anime/gR8NBE5Ig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc76ef3f2c98be5e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.704818181818181,
+    "arithmeticGeometricMean": 7.701038844111369,
+    "median": 7.704818181818181,
+    "hash": "fc76ef3f2c98be5e",
+    "lastUpdate": "2024-05-07"
+  }
+}

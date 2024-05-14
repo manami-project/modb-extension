@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7983",
+    "https://anilist.co/anime/10114",
+    "https://anime-planet.com/anime/nintama-rantarou-movie-2-ninjutsu-gakuen-zenin-shutsudou-no-dan",
+    "https://anisearch.com/anime/6528",
+    "https://kitsu.io/anime/6042",
+    "https://livechart.me/anime/11555",
+    "https://myanimelist.net/anime/10114",
+    "https://notify.moe/anime/2Dp7pFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9abe023aae19e51e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.231739641311069,
+    "arithmeticGeometricMean": 6.200165876386158,
+    "median": 6.298673469387754,
+    "hash": "9abe023aae19e51e",
+    "lastUpdate": "2024-05-09"
+  }
+}

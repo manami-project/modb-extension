@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10373",
+    "https://anilist.co/anime/20590",
+    "https://anime-planet.com/anime/rage-of-bahamut-genesis",
+    "https://anisearch.com/anime/9317",
+    "https://kitsu.io/anime/8195",
+    "https://livechart.me/anime/387",
+    "https://myanimelist.net/anime/21843",
+    "https://notify.moe/anime/ueDopFmiR"
+  ],
+  "synopsis": {
+    "text": "Bahamut, a formidable dragon with black and silver wings, once threatened the enchanted realm of Mistarcia, a world where humans, gods, and demons coexist. To prevent the dragon's catastrophic rampage, the three factions united and managed to seal Bahamut's power into a key, which was then divided into two halves. The gods safeguarded one half, while the demons protected the other, ensuring Bahamut's eternal imprisonment.\n\nFor two millennia, Mistarcia thrived in tranquility, until a daring human woman stole the gods' half of the key, putting the world's delicate peace at risk. Amira, a mysterious woman holding one half of the key, crosses paths with Favaro Leone, a self-serving bounty hunter who becomes entangled in the escalating conflict between gods and demons.\n\nBased on the popular digital card game, Rage of Bahamut: Genesis chronicles the thrilling journey of an unlikely group of heroes who must navigate their own path amidst the impending chaos, as they face the imminent resurgence of the legendary dragon Bahamut.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "234319894a119393",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.6030899546202875,
+    "arithmeticGeometricMean": 7.601817956931589,
+    "median": 7.648181818181818,
+    "hash": "234319894a119393",
+    "lastUpdate": "2024-05-10"
+  }
+}

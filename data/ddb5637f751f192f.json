@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15911",
+    "https://anilist.co/anime/132679",
+    "https://anime-planet.com/anime/idol-land-pripara",
+    "https://anisearch.com/anime/15807",
+    "https://kitsu.io/anime/45784",
+    "https://livechart.me/anime/10251",
+    "https://myanimelist.net/anime/44376",
+    "https://notify.moe/anime/cdT4v3zng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ddb5637f751f192f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.630397773654917,
+    "arithmeticGeometricMean": 7.628667542058892,
+    "median": 7.59,
+    "hash": "ddb5637f751f192f",
+    "lastUpdate": "2024-05-09"
+  }
+}

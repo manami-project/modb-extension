@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3096",
+    "https://anilist.co/anime/4856",
+    "https://anime-planet.com/anime/fuma-no-kojirou-fuma-hanran-hen",
+    "https://anisearch.com/anime/1249",
+    "https://kitsu.io/anime/3828",
+    "https://livechart.me/anime/12413",
+    "https://myanimelist.net/anime/4856",
+    "https://notify.moe/anime/o1595Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d430ff8f16aea2eb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.188732838589981,
+    "arithmeticGeometricMean": 6.182494394524448,
+    "median": 6.075,
+    "hash": "d430ff8f16aea2eb",
+    "lastUpdate": "2024-05-09"
+  }
+}

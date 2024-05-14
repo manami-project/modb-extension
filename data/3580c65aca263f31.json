@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103536",
+    "https://anime-planet.com/anime/arakure-junichi-no-namida",
+    "https://anisearch.com/anime/13331",
+    "https://kitsu.io/anime/12269",
+    "https://myanimelist.net/anime/33282",
+    "https://notify.moe/anime/jJUg2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3580c65aca263f31",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.471231292517007,
+    "arithmeticGeometricMean": 4.438042075106442,
+    "median": 4.414,
+    "hash": "3580c65aca263f31",
+    "lastUpdate": "2024-05-05"
+  }
+}

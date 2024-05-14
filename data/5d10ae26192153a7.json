@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103715",
+    "https://anime-planet.com/anime/go-samurai",
+    "https://anisearch.com/anime/10183",
+    "https://kitsu.io/anime/12343",
+    "https://myanimelist.net/anime/31505",
+    "https://notify.moe/anime/TdZkhFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5d10ae26192153a7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.779090909090908,
+    "arithmeticGeometricMean": 5.7620214721844825,
+    "median": 5.549999999999999,
+    "hash": "5d10ae26192153a7",
+    "lastUpdate": "2024-05-06"
+  }
+}

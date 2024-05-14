@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2364",
+    "https://anilist.co/anime/9388",
+    "https://anime-planet.com/anime/ginga-hyouryuu-vifam-atsumatta-13-nin",
+    "https://anisearch.com/anime/61",
+    "https://kitsu.io/anime/5714",
+    "https://livechart.me/anime/7446",
+    "https://notify.moe/anime/bZRMtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9c939342f5046da8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.12778293135436,
+    "arithmeticGeometricMean": 5.120568102713873,
+    "median": 4.954545454545455,
+    "hash": "9c939342f5046da8",
+    "lastUpdate": "2024-05-09"
+  }
+}

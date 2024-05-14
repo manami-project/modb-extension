@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1667",
+    "https://anilist.co/anime/713",
+    "https://anime-planet.com/anime/air-movie",
+    "https://anisearch.com/anime/1644",
+    "https://kitsu.io/anime/80",
+    "https://livechart.me/anime/3573",
+    "https://myanimelist.net/anime/713",
+    "https://notify.moe/anime/K4Ap5Fiig"
+  ],
+  "synopsis": {
+    "text": "Misuzu's cheerful demeanor hides a delicate secret: she is afflicted with an enigmatic illness. Her quest to unravel her lineage's history leads her to the poignant legend of Princess Kanna, a winged maiden imprisoned in a castle centuries ago due to the fear she instilled in the world. Kanna's only solace came in the form of love, but this love was cruel and brought her closer to death. Misuzu's path crosses with Yukito, a wandering performer and descendant of Ryuuya, the soldier who once loved Kanna. Yukito, burdened by his past, seeks the mythical Girl with Wings to free her from an eternal curse. As Misuzu and Yukito's lives intertwine, they must navigate their growing feelings for each other while confronting the ancient curse that binds Kanna. Will Yukito find the courage to break the curse and free the winged girl, or will he choose to leave, forever altering the course of their intertwined destinies?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a6fd11fb39f99eb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.109496813094738,
+    "arithmeticGeometricMean": 7.104827543085469,
+    "median": 7.231,
+    "hash": "5a6fd11fb39f99eb",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/120207",
+    "https://anime-planet.com/anime/nijiiro-love-letter",
+    "https://myanimelist.net/anime/42792"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "489fa8c1bf848272",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.403818181818181,
+    "arithmeticGeometricMean": 5.353170284508623,
+    "median": 5.403818181818181,
+    "hash": "489fa8c1bf848272",
+    "lastUpdate": "2024-05-07"
+  }
+}

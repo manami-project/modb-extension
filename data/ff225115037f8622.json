@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/15893",
+    "https://anime-planet.com/anime/crash",
+    "https://anisearch.com/anime/8596",
+    "https://kitsu.io/anime/7334",
+    "https://livechart.me/anime/7179",
+    "https://myanimelist.net/anime/15893",
+    "https://notify.moe/anime/o8SKpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ff225115037f8622",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.369188620902906,
+    "arithmeticGeometricMean": 5.341546472627371,
+    "median": 5.536020408163266,
+    "hash": "ff225115037f8622",
+    "lastUpdate": "2024-05-06"
+  }
+}

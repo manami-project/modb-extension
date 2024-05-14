@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10880",
+    "https://anilist.co/anime/8533",
+    "https://anime-planet.com/anime/shadow-of-the-cherry-blossoms",
+    "https://anisearch.com/anime/10204",
+    "https://kitsu.io/anime/5377",
+    "https://myanimelist.net/anime/8533",
+    "https://notify.moe/anime/lv-mpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7afe666cee7faf6f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.811140206732043,
+    "arithmeticGeometricMean": 5.79645190656678,
+    "median": 5.818181818181818,
+    "hash": "7afe666cee7faf6f",
+    "lastUpdate": "2024-05-08"
+  }
+}

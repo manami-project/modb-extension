@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17565",
+    "https://anilist.co/anime/153554",
+    "https://anime-planet.com/anime/danjo-no-yuujou-wa-seiritsu-suru-iya-shinai",
+    "https://anisearch.com/anime/17597",
+    "https://kitsu.io/anime/46334",
+    "https://livechart.me/anime/11364",
+    "https://myanimelist.net/anime/52709",
+    "https://notify.moe/anime/Ul1mUTCVR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b46e5c9c504da2a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "6b46e5c9c504da2a",
+    "lastUpdate": "2024-05-11"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14577",
+    "https://anilist.co/anime/102658",
+    "https://anime-planet.com/anime/dragon-nest-throne-of-elves",
+    "https://anisearch.com/anime/11354",
+    "https://kitsu.io/anime/11740",
+    "https://livechart.me/anime/6070",
+    "https://myanimelist.net/anime/31678",
+    "https://notify.moe/anime/Je5qtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "827ad729d3a3c788",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.323998409753512,
+    "arithmeticGeometricMean": 7.312857821932234,
+    "median": 7.25,
+    "hash": "827ad729d3a3c788",
+    "lastUpdate": "2024-05-09"
+  }
+}

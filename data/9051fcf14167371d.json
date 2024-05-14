@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140224",
+    "https://anime-planet.com/anime/minna-no-uta-piano",
+    "https://kitsu.io/anime/42756",
+    "https://myanimelist.net/anime/38309"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9051fcf14167371d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.268,
+    "arithmeticGeometricMean": 5.190271330899216,
+    "median": 5.268,
+    "hash": "9051fcf14167371d",
+    "lastUpdate": "2024-05-07"
+  }
+}

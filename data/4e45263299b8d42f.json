@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17578",
+    "https://anilist.co/anime/153906",
+    "https://anime-planet.com/anime/tekken-bloodline",
+    "https://anisearch.com/anime/17622",
+    "https://kitsu.io/anime/45985",
+    "https://livechart.me/anime/11359",
+    "https://myanimelist.net/anime/51347",
+    "https://notify.moe/anime/BXQZVWG4R"
+  ],
+  "synopsis": {
+    "text": "Kazama-Style Traditional Martial Arts, a powerful self-defense technique, was instilled in Jin Kazama by his mother Jun at a tender age. Despite their peaceful existence on a secluded island, their tranquility is shattered by the arrival of a malevolent demon, Ogre, whose vicious attack leaves Jun dead and Jin devastated. Unable to protect his mother, Jin vows vengeance and embarks on a journey to find his estranged grandfather, Heihachi Mishima. Initially met with skepticism, Jin eventually earns Heihachi's trust, who begins training him to face the Ogre. As Jin's rage and determination fuel his transformation into a formidable fighter, he prepares for the ultimate showdown against the demon in the King of Iron Fist Tournament.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e45263299b8d42f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.766940630797773,
+    "arithmeticGeometricMean": 6.751389685676818,
+    "median": 6.738126159554731,
+    "hash": "4e45263299b8d42f",
+    "lastUpdate": "2024-05-10"
+  }
+}

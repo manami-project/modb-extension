@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/gangsta-recap",
+    "https://anisearch.com/anime/10727",
+    "https://kitsu.io/anime/11361",
+    "https://myanimelist.net/anime/31561",
+    "https://notify.moe/anime/rGbrtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "23e1a369a98478ea",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.266522077922078,
+    "arithmeticGeometricMean": 6.264733865494898,
+    "median": 6.271428571428571,
+    "hash": "23e1a369a98478ea",
+    "lastUpdate": "2024-05-06"
+  }
+}

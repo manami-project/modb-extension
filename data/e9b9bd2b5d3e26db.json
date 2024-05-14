@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7444",
+    "https://anilist.co/anime/8490",
+    "https://anime-planet.com/anime/digimon-adventure-3d-digimon-grand-prix",
+    "https://anisearch.com/anime/6170",
+    "https://kitsu.io/anime/5355",
+    "https://livechart.me/anime/5704",
+    "https://myanimelist.net/anime/8490",
+    "https://notify.moe/anime/Xi0mpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e9b9bd2b5d3e26db",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.651582825337927,
+    "arithmeticGeometricMean": 5.6275232727244955,
+    "median": 5.7,
+    "hash": "e9b9bd2b5d3e26db",
+    "lastUpdate": "2024-05-09"
+  }
+}

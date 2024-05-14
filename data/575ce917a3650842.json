@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/5434",
+    "https://myanimelist.net/anime/6691"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "575ce917a3650842",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.185612244897959,
+    "arithmeticGeometricMean": 5.152585353427534,
+    "median": 5.185612244897959,
+    "hash": "575ce917a3650842",
+    "lastUpdate": "2024-05-07"
+  }
+}

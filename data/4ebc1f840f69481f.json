@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2433",
+    "https://anilist.co/anime/2285",
+    "https://anime-planet.com/anime/dice",
+    "https://anisearch.com/anime/1987",
+    "https://kitsu.io/anime/2070",
+    "https://livechart.me/anime/8237",
+    "https://myanimelist.net/anime/2285",
+    "https://notify.moe/anime/OA5P5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ebc1f840f69481f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.88152928703949,
+    "arithmeticGeometricMean": 5.841191972235311,
+    "median": 6.090909090909091,
+    "hash": "4ebc1f840f69481f",
+    "lastUpdate": "2024-05-09"
+  }
+}

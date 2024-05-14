@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3581",
+    "https://anilist.co/anime/12165",
+    "https://anime-planet.com/anime/niji-no-kanata-e-shoujo-diana-monogatari",
+    "https://anisearch.com/anime/2606",
+    "https://kitsu.io/anime/6681",
+    "https://myanimelist.net/anime/12165",
+    "https://notify.moe/anime/QhNHpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ae0d8ff8af99a0f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.9743296227581935,
+    "arithmeticGeometricMean": 4.961274667972587,
+    "median": 4.909090909090909,
+    "hash": "7ae0d8ff8af99a0f",
+    "lastUpdate": "2024-05-07"
+  }
+}

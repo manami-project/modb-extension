@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12353",
+    "https://anilist.co/anime/160196",
+    "https://anime-planet.com/anime/roku-no-sekai",
+    "https://anisearch.com/anime/11831",
+    "https://kitsu.io/anime/14127",
+    "https://myanimelist.net/anime/38049",
+    "https://notify.moe/anime/ZfYH2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "22125cb01e67363d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.050699443413729,
+    "arithmeticGeometricMean": 5.008112590303273,
+    "median": 4.679489795918367,
+    "hash": "22125cb01e67363d",
+    "lastUpdate": "2024-05-08"
+  }
+}

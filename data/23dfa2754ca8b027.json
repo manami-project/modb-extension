@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://kitsu.io/anime/42440",
+    "https://myanimelist.net/anime/40034"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "23dfa2754ca8b027",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.500909090909092,
+    "arithmeticGeometricMean": 6.4887817888115915,
+    "median": 6.500909090909092,
+    "hash": "23dfa2754ca8b027",
+    "lastUpdate": "2024-05-07"
+  }
+}

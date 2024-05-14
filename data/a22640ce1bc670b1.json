@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14424",
+    "https://anilist.co/anime/102933",
+    "https://anime-planet.com/anime/inazuma-eleven-reloaded-soccer-no-henkaku",
+    "https://anisearch.com/anime/13948",
+    "https://kitsu.io/anime/41364",
+    "https://livechart.me/anime/5663",
+    "https://myanimelist.net/anime/37814",
+    "https://notify.moe/anime/ii8kaCDmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a22640ce1bc670b1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.694897959183673,
+    "arithmeticGeometricMean": 6.68275818841368,
+    "median": 6.99,
+    "hash": "a22640ce1bc670b1",
+    "lastUpdate": "2024-05-09"
+  }
+}

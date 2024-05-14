@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12829",
+    "https://anilist.co/anime/169822",
+    "https://anime-planet.com/anime/hawaiian-rockn-roll",
+    "https://anisearch.com/anime/12120",
+    "https://kitsu.io/anime/12014",
+    "https://myanimelist.net/anime/33059",
+    "https://notify.moe/anime/_--epFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "269845ac2d5822b0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.067468645640075,
+    "arithmeticGeometricMean": 5.029412841539659,
+    "median": 4.636363636363637,
+    "hash": "269845ac2d5822b0",
+    "lastUpdate": "2024-05-08"
+  }
+}

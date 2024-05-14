@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8043",
+    "https://anilist.co/anime/6505",
+    "https://anime-planet.com/anime/there-she-is",
+    "https://anisearch.com/anime/6594",
+    "https://kitsu.io/anime/4585",
+    "https://livechart.me/anime/5198",
+    "https://myanimelist.net/anime/6505",
+    "https://notify.moe/anime/DEIecKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7c399dc2bdeb5fa3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.653679241393526,
+    "arithmeticGeometricMean": 7.650683333303706,
+    "median": 7.74,
+    "hash": "7c399dc2bdeb5fa3",
+    "lastUpdate": "2024-05-10"
+  }
+}

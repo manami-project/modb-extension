@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/553",
+    "https://anilist.co/anime/293",
+    "https://anime-planet.com/anime/di-gi-charat",
+    "https://anisearch.com/anime/3272",
+    "https://kitsu.io/anime/268",
+    "https://livechart.me/anime/6074",
+    "https://myanimelist.net/anime/293",
+    "https://notify.moe/anime/rkTh5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Gema, Puchiko, and the ambitious Dejiko, a cat-eared alien princess from the planet Di Gi Charat, find themselves stranded on Earth with no money and a dream of becoming superstars. Stumbling upon a job opportunity at Gamers, a popular anime store in Akihabara, the trio eagerly accepts the manager's offer to work there in exchange for a place to live. However, Dejiko's aspirations for stardom are challenged by her rival and coworker, Rabi~en~Rose, who is equally determined to claim the spotlight. As they navigate the chaotic world of retail and encounter eccentric customers, Dejiko and her friends embark on a series of bizarre and hilarious adventures, discovering that life on Earth is anything but ordinary.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b28129d20a747881",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.502232509742714,
+    "arithmeticGeometricMean": 6.490210650130561,
+    "median": 6.669312169312168,
+    "hash": "b28129d20a747881",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17141",
+    "https://anilist.co/anime/144779",
+    "https://anime-planet.com/anime/yamato-yo-towa-ni-rebel-3199",
+    "https://anisearch.com/anime/17116",
+    "https://kitsu.io/anime/45839",
+    "https://livechart.me/anime/11036",
+    "https://myanimelist.net/anime/50855"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "05cc6308714477a2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "05cc6308714477a2",
+    "lastUpdate": "2024-05-11"
+  }
+}

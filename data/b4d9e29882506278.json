@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anilist.co/anime/99718",
+    "https://anime-planet.com/anime/kiitaros-youkai-picture-diary-special",
+    "https://anisearch.com/anime/18087",
+    "https://kitsu.io/anime/13462",
+    "https://livechart.me/anime/2343",
+    "https://livechart.me/anime/5181",
+    "https://myanimelist.net/anime/34999",
+    "https://notify.moe/anime/m8_nhFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4d9e29882506278",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.63218022793533,
+    "arithmeticGeometricMean": 6.620321222848732,
+    "median": 6.424,
+    "hash": "b4d9e29882506278",
+    "lastUpdate": "2024-05-06"
+  }
+}

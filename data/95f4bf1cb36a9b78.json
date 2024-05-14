@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13634",
+    "https://anilist.co/anime/100811",
+    "https://anime-planet.com/anime/aishen-qiaokeli-ing-ii",
+    "https://anisearch.com/anime/13090",
+    "https://kitsu.io/anime/14147",
+    "https://livechart.me/anime/5942",
+    "https://myanimelist.net/anime/36848",
+    "https://notify.moe/anime/M08HhKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "95f4bf1cb36a9b78",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.324545918367347,
+    "arithmeticGeometricMean": 7.319946872029554,
+    "median": 7.383183673469388,
+    "hash": "95f4bf1cb36a9b78",
+    "lastUpdate": "2024-05-08"
+  }
+}

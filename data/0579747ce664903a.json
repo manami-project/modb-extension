@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1918",
+    "https://anilist.co/anime/8707",
+    "https://anime-planet.com/anime/wakusei-robo-danguard-a-tai-konchuu-robot-gundan",
+    "https://anisearch.com/anime/2477",
+    "https://kitsu.io/anime/5451",
+    "https://myanimelist.net/anime/8707",
+    "https://notify.moe/anime/or9itFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0579747ce664903a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2593092145949285,
+    "arithmeticGeometricMean": 5.220140229116362,
+    "median": 5.02,
+    "hash": "0579747ce664903a",
+    "lastUpdate": "2024-05-08"
+  }
+}

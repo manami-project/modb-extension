@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11344",
+    "https://anilist.co/anime/21250",
+    "https://anime-planet.com/anime/classicaloid",
+    "https://anisearch.com/anime/10534",
+    "https://kitsu.io/anime/11172",
+    "https://livechart.me/anime/1701",
+    "https://myanimelist.net/anime/31157",
+    "https://notify.moe/anime/MSEXpFmig"
+  ],
+  "synopsis": {
+    "text": "While attempting to revitalize their small town through music, high school students Kanae and Sousuke encounter peculiar versions of Beethoven and Mozart, who refer to themselves as ClassicaLoids. These enigmatic beings generate an extraordinary power through their unique blend of classical and contemporary music, known as 'mujik.' As a result, stars cascade from the sky, and colossal robots emerge, causing chaos in their daily lives. As more ClassicaLoids like Bach, Chopin, and Schubert arrive, the town struggles to cope with the influx of their combined creative energies. Meanwhile, an ominous figure named Johann Sebastian Bach lurks in the shadows, scheming to exploit the power of Musik for his own mysterious intentions. Can Kanae and Sousuke navigate this tumultuous world of music and mayhem, or will their town crumble under the weight of these extraordinary musical geniuses?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81c0ccb2db58abf5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.955390177283034,
+    "arithmeticGeometricMean": 5.927991509833561,
+    "median": 6.016,
+    "hash": "81c0ccb2db58abf5",
+    "lastUpdate": "2024-05-09"
+  }
+}

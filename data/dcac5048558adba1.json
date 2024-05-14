@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/133849",
+    "https://anime-planet.com/anime/ensemble-stars-5th-anniversary-animation-pv",
+    "https://anisearch.com/anime/18801",
+    "https://kitsu.io/anime/46284",
+    "https://myanimelist.net/anime/49060"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dcac5048558adba1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.316884044526901,
+    "arithmeticGeometricMean": 7.312651855328022,
+    "median": 7.386727272727272,
+    "hash": "dcac5048558adba1",
+    "lastUpdate": "2024-05-06"
+  }
+}

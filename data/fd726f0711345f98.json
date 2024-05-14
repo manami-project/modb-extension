@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9698",
+    "https://anilist.co/anime/11569",
+    "https://anime-planet.com/anime/pretty-cure-all-stars-dx-the-dance-live-miracle-dance-stage-e-youkoso",
+    "https://anisearch.com/anime/8570",
+    "https://kitsu.io/anime/6538",
+    "https://livechart.me/anime/6611",
+    "https://myanimelist.net/anime/11569",
+    "https://notify.moe/anime/BV-StFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd726f0711345f98",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.590603410195247,
+    "arithmeticGeometricMean": 6.573831440615266,
+    "median": 6.818181818181818,
+    "hash": "fd726f0711345f98",
+    "lastUpdate": "2024-05-09"
+  }
+}

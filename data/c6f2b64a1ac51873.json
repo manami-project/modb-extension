@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4703",
+    "https://anilist.co/anime/8359",
+    "https://anime-planet.com/anime/crayon-shin-chan-movie-4-henderland-no-daibouken",
+    "https://anisearch.com/anime/3841",
+    "https://kitsu.io/anime/5308",
+    "https://livechart.me/anime/8624",
+    "https://myanimelist.net/anime/8359",
+    "https://notify.moe/anime/G6HitFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c6f2b64a1ac51873",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.11850185528757,
+    "arithmeticGeometricMean": 7.109966084739897,
+    "median": 7.261363636363637,
+    "hash": "c6f2b64a1ac51873",
+    "lastUpdate": "2024-05-09"
+  }
+}

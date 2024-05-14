@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18557",
+    "https://anilist.co/anime/176287",
+    "https://anime-planet.com/anime/baki-hanma-vs-kengan-ashura",
+    "https://anisearch.com/anime/19153",
+    "https://kitsu.io/anime/48646",
+    "https://livechart.me/anime/12605",
+    "https://myanimelist.net/anime/58510",
+    "https://notify.moe/anime/N0neKU1IR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b57b44ce22c5d20",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "6b57b44ce22c5d20",
+    "lastUpdate": "2024-05-11"
+  }
+}

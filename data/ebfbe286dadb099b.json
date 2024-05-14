@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/10693",
+    "https://anime-planet.com/anime/appleseed-xiii-remix-movie-2-ouranos",
+    "https://kitsu.io/anime/6298",
+    "https://livechart.me/anime/6982",
+    "https://myanimelist.net/anime/10693",
+    "https://notify.moe/anime/KA1VtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ebfbe286dadb099b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.542872727272727,
+    "arithmeticGeometricMean": 6.536835511639292,
+    "median": 6.28,
+    "hash": "ebfbe286dadb099b",
+    "lastUpdate": "2024-05-05"
+  }
+}

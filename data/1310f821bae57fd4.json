@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4556",
+    "https://anilist.co/anime/1602",
+    "https://anime-planet.com/anime/strain-strategic-armored-infantry",
+    "https://anisearch.com/anime/3682",
+    "https://kitsu.io/anime/1442",
+    "https://livechart.me/anime/5689",
+    "https://myanimelist.net/anime/1602",
+    "https://notify.moe/anime/jY_a5Fimg"
+  ],
+  "synopsis": {
+    "text": "To reunite with her beloved brother, Ralph, who was sent on a mission 130 light-years away, Sara Werec enrolls in a military academy to become a skilled Strain pilot. In this distant future, humanity is divided into two warring factions, Union and Deague, with Strains forming the backbone of Union's military. After an unexpected attack on her planet by Deague forces, Sara is shocked to discover her brother among the enemy ranks, responsible for the destruction of her life and military career.\n\nDetermined to uncover the truth behind her brother's sudden allegiance shift, Sara joins a new military unit under a different identity. As she struggles to come to terms with her past and the ghosts that haunt her, Sara must face an arduous journey filled with sacrifices. With her unwavering resolve to find her brother and understand his actions, she must navigate the complexities of war and the secrets it holds. The fate of Sara and her brother lies in the balance, as they confront each other on the battlefield and unravel the mysteries surrounding their bond.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1310f821bae57fd4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.0940349854227405,
+    "arithmeticGeometricMean": 7.09199424952486,
+    "median": 7.086,
+    "hash": "1310f821bae57fd4",
+    "lastUpdate": "2024-05-10"
+  }
+}

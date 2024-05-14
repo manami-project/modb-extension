@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18219",
+    "https://anilist.co/anime/169754",
+    "https://anime-planet.com/anime/detective-conan-movie-27-the-million-dollar-pentagram",
+    "https://anisearch.com/anime/18731",
+    "https://kitsu.io/anime/48018",
+    "https://livechart.me/anime/12355",
+    "https://myanimelist.net/anime/56785",
+    "https://notify.moe/anime/U8qPxpvIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b112cc64944dd105",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.09090909090909,
+    "arithmeticGeometricMean": 8.09090909090909,
+    "median": 8.09090909090909,
+    "hash": "b112cc64944dd105",
+    "lastUpdate": "2024-05-09"
+  }
+}

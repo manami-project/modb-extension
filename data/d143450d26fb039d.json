@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13112",
+    "https://anime-planet.com/anime/heungbuwa-nolbu",
+    "https://anisearch.com/anime/12414",
+    "https://myanimelist.net/anime/51245"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d143450d26fb039d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.571428571428571,
+    "arithmeticGeometricMean": 3.571428571428571,
+    "median": 3.571428571428571,
+    "hash": "d143450d26fb039d",
+    "lastUpdate": "2024-05-08"
+  }
+}

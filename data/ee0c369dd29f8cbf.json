@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14371",
+    "https://anilist.co/anime/99995",
+    "https://anime-planet.com/anime/pingu-in-the-city-2018",
+    "https://anisearch.com/anime/13871",
+    "https://kitsu.io/anime/41981",
+    "https://livechart.me/anime/3498",
+    "https://myanimelist.net/anime/38262",
+    "https://notify.moe/anime/GNU22f-mR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee0c369dd29f8cbf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.962487012987013,
+    "arithmeticGeometricMean": 6.9532909204567055,
+    "median": 6.792857142857143,
+    "hash": "ee0c369dd29f8cbf",
+    "lastUpdate": "2024-05-09"
+  }
+}

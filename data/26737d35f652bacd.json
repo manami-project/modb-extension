@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14747",
+    "https://anilist.co/anime/108357",
+    "https://anime-planet.com/anime/vampire-in-the-garden",
+    "https://anisearch.com/anime/14246",
+    "https://kitsu.io/anime/42188",
+    "https://livechart.me/anime/9270",
+    "https://myanimelist.net/anime/39518",
+    "https://notify.moe/anime/vvcd6nxGg"
+  ],
+  "synopsis": {
+    "text": "During a relentless winter, the emergence of near-immortal vampires disrupted the balance of power, pushing humanity to the brink of extinction. To survive, humans fortified themselves within a walled city, waging a seemingly endless war against their supernatural foes. Momo, a human soldier, and Fine, the vampire queen, find themselves in an unlikely alliance when they bond over their shared love for music and a mutual desire to escape the conflict. Defying the norms of their respective societies, they embark on a perilous journey in search of a fabled sanctuary called \"Eden,\" where vampires and humans are rumored to coexist peacefully. As they traverse a world fraught with danger, they must elude both human and vampire adversaries who seek to thwart their mission. Despite the odds, Momo and Fine remain steadfast in their quest, united by their shared dream of harmony and the transcendent power of music.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26737d35f652bacd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.346850133992992,
+    "arithmeticGeometricMean": 7.335770213872059,
+    "median": 7.454925788497217,
+    "hash": "26737d35f652bacd",
+    "lastUpdate": "2024-05-10"
+  }
+}

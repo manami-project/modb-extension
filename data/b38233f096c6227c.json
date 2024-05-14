@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5106",
+    "https://anilist.co/anime/2746",
+    "https://anime-planet.com/anime/vexille",
+    "https://anisearch.com/anime/4228",
+    "https://kitsu.io/anime/2506",
+    "https://livechart.me/anime/5237",
+    "https://myanimelist.net/anime/2746",
+    "https://notify.moe/anime/x8CycKmig"
+  ],
+  "synopsis": {
+    "text": "Nations worldwide witnessed an unprecedented boom in robotics technology during the early 21st century, with Japan's Daiwa Heavy Industries leading the charge. However, as the boundaries between man and machine began to blur, global apprehensions led the United Nations to impose a strict ban on further robotics research in 2067. In response to this unilateral decision, Japan withdrew from the UN and the international community, shrouding itself in a self-imposed, impenetrable electromagnetic barrier.\n\nTen years later, in 2077, the only connection between Japan and the rest of the world is through Daiwa's monopoly on the global robotics market. Suspicions arise when SWORD, a special unit of the US Navy, discovers evidence suggesting that Japan has been covertly developing banned technologies using the RACE network. SWORD deploys a team of special agents, led by the seasoned operative Vexille, to infiltrate Japan and uncover the truth.\n\nUpon entering the isolated nation, Vexille stumbles upon a shocking revelation: Japan's disregard for the UN's ban has led to catastrophic consequences for its citizens and potentially the entire world. As Vexille delves deeper, she encounters a rebellious faction and learns about the enigmatic Maria, who becomes her ally. With the fate of the world hanging in the balance, Vexille must expose the truth behind Japan's clandestine activities and prevent a global disaster. Will she succeed in her mission, or will the secrets of Japan's isolation remain forever hidden?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b38233f096c6227c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.653990458521071,
+    "arithmeticGeometricMean": 6.64760347927917,
+    "median": 6.85,
+    "hash": "b38233f096c6227c",
+    "lastUpdate": "2024-05-10"
+  }
+}

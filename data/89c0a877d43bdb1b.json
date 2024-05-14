@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/564",
+    "https://anilist.co/anime/832",
+    "https://anime-planet.com/anime/platinumhugen-ordian",
+    "https://anisearch.com/anime/2203",
+    "https://kitsu.io/anime/737",
+    "https://livechart.me/anime/6760",
+    "https://myanimelist.net/anime/832",
+    "https://notify.moe/anime/IrYA5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89c0a877d43bdb1b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.63526371587596,
+    "arithmeticGeometricMean": 5.607658140019119,
+    "median": 5.76,
+    "hash": "89c0a877d43bdb1b",
+    "lastUpdate": "2024-05-09"
+  }
+}

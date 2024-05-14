@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7788",
+    "https://anime-planet.com/anime/hello-kitty-no-yume-dorobou",
+    "https://anisearch.com/anime/6400",
+    "https://kitsu.io/anime/9858",
+    "https://myanimelist.net/anime/22461",
+    "https://notify.moe/anime/C9ZPpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d93baef2c7b43423",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.8200408163265305,
+    "arithmeticGeometricMean": 5.7969524071137695,
+    "median": 5.6390816326530615,
+    "hash": "d93baef2c7b43423",
+    "lastUpdate": "2024-05-08"
+  }
+}

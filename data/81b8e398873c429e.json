@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140368",
+    "https://anime-planet.com/anime/machibouke",
+    "https://kitsu.io/anime/14033",
+    "https://myanimelist.net/anime/36821",
+    "https://notify.moe/anime/DaDN2Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81b8e398873c429e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.198121212121212,
+    "arithmeticGeometricMean": 5.120367637185795,
+    "median": 5.29,
+    "hash": "81b8e398873c429e",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4176",
+    "https://anilist.co/anime/910",
+    "https://anime-planet.com/anime/himawari",
+    "https://anisearch.com/anime/951",
+    "https://kitsu.io/anime/810",
+    "https://livechart.me/anime/5493",
+    "https://myanimelist.net/anime/910",
+    "https://notify.moe/anime/N2m15Fiig"
+  ],
+  "synopsis": {
+    "text": "Ever since a mysterious ninja rescued her from a plane crash, Himawari Hinata has been determined to follow in her savior's footsteps and become a skilled kunoichi. Her journey leads her to the prestigious Shinobi Gakuen, a school dedicated to training female ninjas. On her first day, she encounters Hayato Madenokoji, a new teacher who is far from your typical ninja. With no special skills or traits, Hayato is teaching at the school to pay off a debt. Despite his lack of ninja prowess, Himawari notices a familiar mark on his neck, matching the one her savior bore. Believing it to be fate, she becomes determined to learn from him and protect him, while navigating the challenges of her ninja training. As they face skepticism from fellow students and staff, will Himawari's unwavering determination help her become the ninja she aspires to be, and uncover the truth behind Hayato's mysterious mark?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "826f0476b761a609",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.216447389345348,
+    "arithmeticGeometricMean": 6.213745494364798,
+    "median": 6.25,
+    "hash": "826f0476b761a609",
+    "lastUpdate": "2024-05-09"
+  }
+}

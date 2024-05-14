@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15910",
+    "https://anilist.co/anime/126830",
+    "https://anime-planet.com/anime/code-geass-dakkan-no-roze",
+    "https://anisearch.com/anime/15951",
+    "https://kitsu.io/anime/43855",
+    "https://livechart.me/anime/10250",
+    "https://myanimelist.net/anime/56835",
+    "https://notify.moe/anime/QVxZZ90Mg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5234768eed567e85",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.681818181818182,
+    "arithmeticGeometricMean": 8.631417380967218,
+    "median": 8.681818181818182,
+    "hash": "5234768eed567e85",
+    "lastUpdate": "2024-05-09"
+  }
+}

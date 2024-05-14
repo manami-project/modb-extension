@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/116325",
+    "https://anime-planet.com/anime/yorushika-kumo-to-yuurei",
+    "https://anisearch.com/anime/18197",
+    "https://kitsu.io/anime/43452",
+    "https://myanimelist.net/anime/41179"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a0fe2a545c511648",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.325426716141002,
+    "arithmeticGeometricMean": 6.293943550136677,
+    "median": 6.54,
+    "hash": "a0fe2a545c511648",
+    "lastUpdate": "2024-05-07"
+  }
+}

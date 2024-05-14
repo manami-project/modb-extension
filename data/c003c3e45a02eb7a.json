@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15371",
+    "https://anisearch.com/anime/15449"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c003c3e45a02eb7a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.442551020408163,
+    "arithmeticGeometricMean": 4.415755058522552,
+    "median": 4.442551020408163,
+    "hash": "c003c3e45a02eb7a",
+    "lastUpdate": "2024-05-07"
+  }
+}

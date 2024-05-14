@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4167",
+    "https://anilist.co/anime/1092",
+    "https://anime-planet.com/anime/mobile-suit-gundam-iii-encounters-in-space",
+    "https://anisearch.com/anime/581",
+    "https://kitsu.io/anime/977",
+    "https://livechart.me/anime/5947",
+    "https://myanimelist.net/anime/1092",
+    "https://notify.moe/anime/GRXJ5Kiig"
+  ],
+  "synopsis": {
+    "text": "Earth Federation and the Principality of Zeon are on the brink of their final confrontation, as the One Year War nears its end. Amuro Ray, a seasoned Gundam pilot and a Newtype, finds himself in the midst of a battle that transcends the physical realm. As he delves deeper into his psychic abilities, he encounters the enigmatic Lalah Sune, a fellow Newtype who holds the key to unlocking their shared potential.\n\nAmuro's archrival, Char Aznable, reemerges with a hidden agenda, fueling their rivalry to new heights. As they clash, the true enemy lurking in the shadows becomes apparent: the Zabi family. Amidst the chaos of war, Amuro and Char engage in a psychic duel that will determine the fate of the universe.\n\nThe White Base, with Amuro and his comrades aboard, faces relentless pursuit from Char's Zanzibar. As they navigate the perils of space, they become entangled in a series of adventures that test their resolve. The looming question remains: will the Earth Federation triumph, or will the Principality of Zeon claim victory? And in this battle of Newtypes, who will emerge as the ultimate victor – Amuro or Char? The stage is set for a climactic showdown that will change the course of the Universal Century.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0422aacf5a6d4bf7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.456050092764379,
+    "arithmeticGeometricMean": 7.450118709315718,
+    "median": 7.591,
+    "hash": "0422aacf5a6d4bf7",
+    "lastUpdate": "2024-05-09"
+  }
+}

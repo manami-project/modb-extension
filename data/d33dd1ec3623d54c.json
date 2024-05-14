@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/193",
+    "https://anilist.co/anime/149939",
+    "https://anisearch.com/anime/282"
+  ],
+  "synopsis": {
+    "text": "He aded by the unconventional Saotome family, this anime follows the chaotic life of Ranma, a martial artist who, along with his father Genma, carries a peculiar curse. After falling into enchanted springs in China, Ranma transforms into a girl when doused with cold water, while Genma becomes a panda. The only way to reverse the transformation is with hot water. \n\nAs if this wasn't complicated enough, Ranma's father arranges a marriage between him and Akane Tendou, the youngest daughter of a prestigious dojo family, without their consent. The engagement is meant to secure the future of the Tendou dojo, but both Ranma and Akane are far from thrilled with the arrangement. \n\nRanma's life becomes even more complicated when he attracts the attention of numerous rivals and admirers, including Shampoo, a Chinese Amazon warrior who, after losing to Ranma's male form, proposes to him due to her tribe's customs. To make matters worse, Shampoo also carries a curse that turns her into a cat when splashed with cold water. \n\nWith unexpected transformations, unwanted engagements, and a host of eccentric characters, this anime promises a whirlwind of comedic chaos and action-packed martial arts.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d33dd1ec3623d54c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.564359925788497,
+    "arithmeticGeometricMean": 7.562461829149037,
+    "median": 7.63,
+    "hash": "d33dd1ec3623d54c",
+    "lastUpdate": "2024-05-08"
+  }
+}

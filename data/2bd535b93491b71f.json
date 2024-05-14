@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/kusatsu-eki-kara",
+    "https://anisearch.com/anime/17547",
+    "https://kitsu.io/anime/48709",
+    "https://myanimelist.net/anime/53501"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2bd535b93491b71f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.071081632653061,
+    "arithmeticGeometricMean": 6.052917283012576,
+    "median": 6.071081632653061,
+    "hash": "2bd535b93491b71f",
+    "lastUpdate": "2024-05-07"
+  }
+}

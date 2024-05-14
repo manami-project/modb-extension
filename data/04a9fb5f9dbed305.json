@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14646",
+    "https://anilist.co/anime/107617",
+    "https://anime-planet.com/anime/ling-feng-zhe",
+    "https://anisearch.com/anime/14145",
+    "https://kitsu.io/anime/42145",
+    "https://livechart.me/anime/9272",
+    "https://myanimelist.net/anime/39022",
+    "https://notify.moe/anime/Xpaapdemg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "04a9fb5f9dbed305",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.9624908560826935,
+    "arithmeticGeometricMean": 5.923640159396416,
+    "median": 6.09,
+    "hash": "04a9fb5f9dbed305",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/125203",
+    "https://anime-planet.com/anime/watashi-no-nyanko",
+    "https://myanimelist.net/anime/42903"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "533d0b1a0fdcdae0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.341363636363637,
+    "arithmeticGeometricMean": 5.28722992697917,
+    "median": 5.341363636363637,
+    "hash": "533d0b1a0fdcdae0",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/640",
+    "https://anilist.co/anime/167",
+    "https://anime-planet.com/anime/scrapped-princess",
+    "https://anisearch.com/anime/248",
+    "https://kitsu.io/anime/145",
+    "https://livechart.me/anime/4005",
+    "https://myanimelist.net/anime/167",
+    "https://notify.moe/anime/Pylp5FimR"
+  ],
+  "synopsis": {
+    "text": "Born into royalty, Pacifica Casull's life was destined for greatness, but a dark prophecy overshadowed her existence. Labeled as the \"Scrapped Princess,\" Pacifica was foretold to bring about the world's destruction on her 16th birthday. To prevent the cataclysm, the newborn was cast off a cliff, but fate had other plans. Adopted by a loving family, Pacifica now traverses the realm with her devoted siblings, Shannon and Raquel, who have vowed to protect her from the relentless forces seeking her demise.\n\nAs Pacifica's 16th birthday looms ever closer, the trio faces constant peril from the powerful Church of Mauser, sorcerers, and warriors, all intent on fulfilling the prophecy. With Shannon's masterful swordplay and Raquel's formidable magic, they strive to keep Pacifica safe, forging alliances and battling enemies along the way. As the truth behind the prophecy and Pacifica's true nature begins to unravel, the siblings must confront their destiny and decide if one girl's life is worth the world's salvation.\n\nIn a world where the odds are stacked against her, Pacifica and her loyal siblings embark on a journey filled with danger, discovery, and the ultimate test of their unbreakable bond. Will they be able to defy fate and protect Pacifica, or will they succumb to the overwhelming forces that seek her destruction? Only time will tell as the Scrapped Princess approaches her 16th birthday and the world braces for the impending catastrophe.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ca170ccbefb8c48",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.474828403078403,
+    "arithmeticGeometricMean": 7.473171731856519,
+    "median": 7.407962962962962,
+    "hash": "5ca170ccbefb8c48",
+    "lastUpdate": "2024-05-09"
+  }
+}

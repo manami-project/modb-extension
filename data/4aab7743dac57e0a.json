@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103718",
+    "https://anime-planet.com/anime/oh-96-kku",
+    "https://kitsu.io/anime/13947",
+    "https://myanimelist.net/anime/35980",
+    "https://notify.moe/anime/0h3ShFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4aab7743dac57e0a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.377363636363636,
+    "arithmeticGeometricMean": 5.352427102749063,
+    "median": 5.2,
+    "hash": "4aab7743dac57e0a",
+    "lastUpdate": "2024-05-08"
+  }
+}

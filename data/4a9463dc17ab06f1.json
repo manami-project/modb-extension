@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15524",
+    "https://anime-planet.com/anime/kaijuu-step-wandabada-2nd-season",
+    "https://anisearch.com/anime/15605",
+    "https://kitsu.io/anime/43548",
+    "https://livechart.me/anime/10140",
+    "https://myanimelist.net/anime/41813"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4a9463dc17ab06f1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "4a9463dc17ab06f1",
+    "lastUpdate": "2024-05-11"
+  }
+}

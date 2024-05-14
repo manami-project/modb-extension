@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7692",
+    "https://anilist.co/anime/126071",
+    "https://anime-planet.com/anime/kougyou-aika-volley-boys",
+    "https://anisearch.com/anime/5646",
+    "https://kitsu.io/anime/9405",
+    "https://myanimelist.net/anime/24159",
+    "https://notify.moe/anime/5P5ftFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f367f36d841c0359",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.314517254174397,
+    "arithmeticGeometricMean": 5.287157063713695,
+    "median": 4.80204081632653,
+    "hash": "f367f36d841c0359",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/117913",
+    "https://anime-planet.com/anime/honeyworks-tokyo-autumn-session",
+    "https://anisearch.com/anime/15257",
+    "https://kitsu.io/anime/42988",
+    "https://myanimelist.net/anime/41132"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "01b09db06e6fd967",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.5500037105751385,
+    "arithmeticGeometricMean": 7.549718018803462,
+    "median": 7.51,
+    "hash": "01b09db06e6fd967",
+    "lastUpdate": "2024-05-07"
+  }
+}

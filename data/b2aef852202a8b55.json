@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7075",
+    "https://anilist.co/anime/2831",
+    "https://anime-planet.com/anime/nobodys-boy-remi-movie",
+    "https://anisearch.com/anime/5897",
+    "https://kitsu.io/anime/2585",
+    "https://livechart.me/anime/7025",
+    "https://myanimelist.net/anime/2831",
+    "https://notify.moe/anime/jmH8cFmig"
+  ],
+  "synopsis": {
+    "text": "Eight-year-old Remi, living a blissful life in a serene French village with his mother, finds his world turned upside down when his absentee father, Jerome, returns home. Desperate for money and no longer able to support the family, Jerome reveals a hidden truth: Remi is adopted. In a heart-wrenching turn of events, Remi is sold to Vitalis, a wandering street performer, and his troupe of animal entertainers. As Remi embarks on a journey across the country, searching for his birth parents, he encounters the harsh realities of life, experiencing loss, betrayal, and abuse. Despite these hardships, Remi remains steadfast in his pursuit of happiness and a place to call home in this poignant tale of resilience, friendship, and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b2aef852202a8b55",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.338894248608534,
+    "arithmeticGeometricMean": 6.318673180231347,
+    "median": 6.595,
+    "hash": "b2aef852202a8b55",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15294",
+    "https://anilist.co/anime/113692",
+    "https://anime-planet.com/anime/seitokai-yakuindomo-movie-2",
+    "https://anisearch.com/anime/15058",
+    "https://kitsu.io/anime/44497",
+    "https://livechart.me/anime/9704",
+    "https://myanimelist.net/anime/40814",
+    "https://notify.moe/anime/Y8N2vh8Zg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9835afb44382889d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.655504174397031,
+    "arithmeticGeometricMean": 7.654055348533446,
+    "median": 7.755,
+    "hash": "9835afb44382889d",
+    "lastUpdate": "2024-05-09"
+  }
+}

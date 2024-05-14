@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16397",
+    "https://anilist.co/anime/134107",
+    "https://anime-planet.com/anime/wushang-shen-di-2nd-season",
+    "https://anisearch.com/anime/18433",
+    "https://kitsu.io/anime/44593",
+    "https://livechart.me/anime/10603",
+    "https://myanimelist.net/anime/48956",
+    "https://notify.moe/anime/aU0ic06Gg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c461da40d707c729",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.098636363636364,
+    "arithmeticGeometricMean": 7.080973648727873,
+    "median": 7.217272727272727,
+    "hash": "c461da40d707c729",
+    "lastUpdate": "2024-05-10"
+  }
+}

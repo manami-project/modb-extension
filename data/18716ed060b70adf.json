@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3642",
+    "https://anilist.co/anime/19995",
+    "https://anime-planet.com/anime/king-kong-00-1-7-tom-thumb",
+    "https://anisearch.com/anime/2388",
+    "https://kitsu.io/anime/9388",
+    "https://livechart.me/anime/11648",
+    "https://myanimelist.net/anime/19995",
+    "https://notify.moe/anime/7YdftFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "18716ed060b70adf",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 3.727152133580705,
+    "arithmeticGeometricMean": 3.691885217038462,
+    "median": 3.3981818181818184,
+    "hash": "18716ed060b70adf",
+    "lastUpdate": "2024-05-09"
+  }
+}

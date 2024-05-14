@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8984",
+    "https://anime-planet.com/anime/deco-27-renkyori-enai",
+    "https://anisearch.com/anime/7617",
+    "https://kitsu.io/anime/8871",
+    "https://myanimelist.net/anime/13153",
+    "https://notify.moe/anime/D1OxtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26b6730aacb27686",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.953007421150279,
+    "arithmeticGeometricMean": 5.935817754366207,
+    "median": 6.0102040816326525,
+    "hash": "26b6730aacb27686",
+    "lastUpdate": "2024-05-08"
+  }
+}

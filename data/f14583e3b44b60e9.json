@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/987",
+    "https://anime-planet.com/anime/dragon-ball-gt-a-heros-legacy",
+    "https://anisearch.com/anime/1825",
+    "https://kitsu.io/anime/877",
+    "https://livechart.me/anime/4470",
+    "https://myanimelist.net/anime/987",
+    "https://notify.moe/anime/4xc1cFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f14583e3b44b60e9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.5874200224439035,
+    "arithmeticGeometricMean": 6.571522140860631,
+    "median": 6.67,
+    "hash": "f14583e3b44b60e9",
+    "lastUpdate": "2024-05-06"
+  }
+}

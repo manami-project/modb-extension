@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140866",
+    "https://anime-planet.com/anime/aimer-nemuri-no-mori",
+    "https://kitsu.io/anime/43439",
+    "https://myanimelist.net/anime/42433"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4a4a1cae312da12c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.366848484848485,
+    "arithmeticGeometricMean": 6.366228622429262,
+    "median": 6.454545454545455,
+    "hash": "4a4a1cae312da12c",
+    "lastUpdate": "2024-05-07"
+  }
+}

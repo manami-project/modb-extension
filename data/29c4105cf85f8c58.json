@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15987",
+    "https://anilist.co/anime/128545",
+    "https://anime-planet.com/anime/the-aquatope-on-white-sand",
+    "https://anisearch.com/anime/15894",
+    "https://kitsu.io/anime/44116",
+    "https://livechart.me/anime/10347",
+    "https://myanimelist.net/anime/46093",
+    "https://notify.moe/anime/YE_SL7BGg"
+  ],
+  "synopsis": {
+    "text": "Gamagama Aquarium, a small, struggling institution in Okinawa, is on the brink of closure. Kukuru Misakino, an 18-year-old high school student and part-time acting director, is determined to save her grandfather's aquarium and restore its former glory. One day, she encounters Fuuka Miyazawa, a former idol who has left her dreams behind in Tokyo and sought refuge in Okinawa. Fuuka, captivated by the aquarium's unique charm, pleads for a job, hoping to find a place where she belongs. Despite Fuuka's lack of experience, Kukuru accepts her, and together, they embark on a mission to save the aquarium from shutting down forever. As they navigate through the challenges, they discover friendships, confront their dreams and reality, and forge bonds amidst conflicts. This summer, the aquarium is about to embark on a glimmering, new chapter filled with hope, determination, and a touch of magic.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "29c4105cf85f8c58",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.534509160482374,
+    "arithmeticGeometricMean": 7.531854373030993,
+    "median": 7.578977272727273,
+    "hash": "29c4105cf85f8c58",
+    "lastUpdate": "2024-05-10"
+  }
+}

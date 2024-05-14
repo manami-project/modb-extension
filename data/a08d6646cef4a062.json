@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12548",
+    "https://anilist.co/anime/97985",
+    "https://anime-planet.com/anime/koro-sensei-quest",
+    "https://anisearch.com/anime/12085",
+    "https://kitsu.io/anime/12923",
+    "https://livechart.me/anime/2415",
+    "https://myanimelist.net/anime/34389",
+    "https://notify.moe/anime/M2AWhFmig"
+  ],
+  "synopsis": {
+    "text": "Kunugigaoka Magic School's Class 3-E is back with a magical twist in this exciting spin-off of Ansatsu Kyoushitsu! This time, the beloved students are on a mission to defeat their homeroom teacher, the Demon King Koro-sensei. Equipped with newly acquired skills in swordsmanship and sorcery, the chibi heroes embark on a thrilling and comedic adventure filled with challenging trials and perilous situations. Joined by the three most powerful warriors—Karma Akabane, Itona Horibe, and Ritsu—the mission to defeat the Demon King becomes an insurmountable task as they face competition from other adversaries. Follow Nagisa Shiota and the rest of Class 3-E in this enchanting quest filled with laughter, magic, and the ultimate challenge!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a08d6646cef4a062",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.130377551020409,
+    "arithmeticGeometricMean": 7.127042931147145,
+    "median": 7.17,
+    "hash": "a08d6646cef4a062",
+    "lastUpdate": "2024-05-09"
+  }
+}

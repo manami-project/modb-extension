@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11122",
+    "https://anilist.co/anime/21086",
+    "https://anime-planet.com/anime/venus-project-climax",
+    "https://anisearch.com/anime/10256",
+    "https://kitsu.io/anime/10739",
+    "https://livechart.me/anime/1428",
+    "https://myanimelist.net/anime/30251",
+    "https://notify.moe/anime/VH_QtKiiR"
+  ],
+  "synopsis": {
+    "text": "The stage is set in a future Japan, where technological advancements in data devices and video technology have given birth to an innovative form of entertainment — Formula Venus (F-V). This electrifying competition sees top idols lock horns in live performances, harnessing their willpower, honed skills, and wealth of experience. The narrative unfolds the dramatic journey of the girls in the Venus Project as they strive to reach the pinnacle, navigating through challenging battles, fueled by passion and camaraderie. Brace yourself for a unique blend of 2D and 3D as the actual voice actresses also engage in a series of live challenges, mirroring their animated counterparts' quest for the coveted title of New Idol Princess.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5fdd31db6af8b613",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.217305551591266,
+    "arithmeticGeometricMean": 5.209122066822373,
+    "median": 5.181818181818182,
+    "hash": "5fdd31db6af8b613",
+    "lastUpdate": "2024-05-10"
+  }
+}

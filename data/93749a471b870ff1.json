@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1365",
+    "https://anilist.co/anime/2085",
+    "https://anime-planet.com/anime/ng-knight-lamune-and-40-ex-biku-biku-triangle-ai-no-arashi-daisakusen",
+    "https://anisearch.com/anime/2404",
+    "https://kitsu.io/anime/1884",
+    "https://livechart.me/anime/12024",
+    "https://myanimelist.net/anime/2085",
+    "https://notify.moe/anime/EhYL5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "93749a471b870ff1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.564838589981448,
+    "arithmeticGeometricMean": 6.5380309606491815,
+    "median": 6.784,
+    "hash": "93749a471b870ff1",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11919",
+    "https://anilist.co/anime/174843",
+    "https://anime-planet.com/anime/sore-ike-anpanman-omocha-no-hoshi-no-nanda-to-runda",
+    "https://anisearch.com/anime/11284",
+    "https://kitsu.io/anime/11821",
+    "https://livechart.me/anime/2026",
+    "https://myanimelist.net/anime/32676",
+    "https://notify.moe/anime/fCug2Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "835f4ad02155bbc6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.374090909090909,
+    "arithmeticGeometricMean": 6.341973163503054,
+    "median": 6.533181818181818,
+    "hash": "835f4ad02155bbc6",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103172",
+    "https://anime-planet.com/anime/the-vesper-mutters",
+    "https://kitsu.io/anime/44663"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "61303c09c74a1aa1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.816454545454546,
+    "arithmeticGeometricMean": 4.788934485322507,
+    "median": 4.816454545454546,
+    "hash": "61303c09c74a1aa1",
+    "lastUpdate": "2024-05-07"
+  }
+}

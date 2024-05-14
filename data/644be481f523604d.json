@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2263",
+    "https://anilist.co/anime/1711",
+    "https://anime-planet.com/anime/ryuusei-sentai-musumet",
+    "https://anisearch.com/anime/2855",
+    "https://kitsu.io/anime/1536",
+    "https://myanimelist.net/anime/1711",
+    "https://notify.moe/anime/FFSfcFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "644be481f523604d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.4943132785581765,
+    "arithmeticGeometricMean": 6.488986797342382,
+    "median": 6.45,
+    "hash": "644be481f523604d",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/the-peak",
+    "https://anisearch.com/anime/16113",
+    "https://myanimelist.net/anime/40570"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80eb2c9fbde07d6c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.234843537414966,
+    "arithmeticGeometricMean": 6.229195979360199,
+    "median": 6.326530612244898,
+    "hash": "80eb2c9fbde07d6c",
+    "lastUpdate": "2024-05-07"
+  }
+}

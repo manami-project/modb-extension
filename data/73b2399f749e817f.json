@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/10020",
+    "https://anime-planet.com/anime/oreimo-specials",
+    "https://anisearch.com/anime/6974",
+    "https://kitsu.io/anime/5998",
+    "https://livechart.me/anime/3252",
+    "https://myanimelist.net/anime/10020",
+    "https://notify.moe/anime/KpVnpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73b2399f749e817f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.474080854897181,
+    "arithmeticGeometricMean": 7.473410852891101,
+    "median": 7.45,
+    "hash": "73b2399f749e817f",
+    "lastUpdate": "2024-05-06"
+  }
+}

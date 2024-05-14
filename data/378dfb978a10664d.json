@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9143",
+    "https://anilist.co/anime/18489",
+    "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-3-moon-castle-the-space-adventure",
+    "https://anisearch.com/anime/7992",
+    "https://kitsu.io/anime/9694",
+    "https://myanimelist.net/anime/18489",
+    "https://notify.moe/anime/qdALtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "378dfb978a10664d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.935924551638838,
+    "arithmeticGeometricMean": 4.839134458417038,
+    "median": 5.275,
+    "hash": "378dfb978a10664d",
+    "lastUpdate": "2024-05-07"
+  }
+}

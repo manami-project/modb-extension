@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5274",
+    "https://anilist.co/anime/2924",
+    "https://anime-planet.com/anime/ef-a-tale-of-memories",
+    "https://anisearch.com/anime/4331",
+    "https://kitsu.io/anime/2649",
+    "https://livechart.me/anime/3648",
+    "https://myanimelist.net/anime/2924",
+    "https://notify.moe/anime/EDh8cFiiR"
+  ],
+  "synopsis": {
+    "text": "Otawa High School student Hiro Hirono, an aspiring manga artist, has his life turned upside down on Christmas Eve when a girl named Miyako Miyamura steals his bike to chase after a thief. After finding her unconscious and his bike ruined, they spend the evening together, marking the beginning of a blossoming relationship. However, Hiro's childhood friend Kei Shindou, who harbors feelings for him, becomes jealous and a love triangle ensues.\n\nMeanwhile, Renji Asou, a boy who dreams of becoming a knight in shining armor for a girl, meets Chihiro Shindou, Kei's twin sister, at an abandoned train station. Despite her shy demeanor, they become friends and decide to write a novel together. However, Renji learns that Chihiro suffers from a memory disorder that only allows her to remember the last 13 hours, putting his chivalrous ideals to the test as he helps her pursue her dream.\n\nAs these young lives intertwine, they navigate the complexities of love, friendship, and personal growth, with each character facing their own challenges and learning valuable lessons along the way.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77094e72b5211f2e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.891559884559884,
+    "arithmeticGeometricMean": 7.890590341528766,
+    "median": 7.9030000000000005,
+    "hash": "77094e72b5211f2e",
+    "lastUpdate": "2024-05-09"
+  }
+}

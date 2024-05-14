@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11909",
+    "https://anilist.co/anime/87478",
+    "https://anime-planet.com/anime/tama-and-friends-uchi-no-tama-shirimasen-ka",
+    "https://anisearch.com/anime/11281",
+    "https://kitsu.io/anime/12653",
+    "https://livechart.me/anime/2017",
+    "https://myanimelist.net/anime/32663",
+    "https://notify.moe/anime/bJ2m2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1a661288f5e15bbd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.919171799628943,
+    "arithmeticGeometricMean": 5.879495587432489,
+    "median": 5.0,
+    "hash": "1a661288f5e15bbd",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/601",
+    "https://anilist.co/anime/2459",
+    "https://anime-planet.com/anime/maison-ikkoku-shipwrecked-on-ikkoku-island",
+    "https://anisearch.com/anime/561",
+    "https://kitsu.io/anime/2233",
+    "https://livechart.me/anime/7111",
+    "https://myanimelist.net/anime/2459",
+    "https://notify.moe/anime/TflP5FimR"
+  ],
+  "synopsis": {
+    "text": "What begins as a summer afternoon filled with beer and reminiscence for Yotsuya and Ichinose, quickly turns into a tale of misadventure and chaos. The tenants of Ikkoku, along with their tennis teacher Mitaka, once planned a party on Mitaka's new boat. However, the wild antics of the tenants lead to an unexpected shipwreck, leaving them stranded on a deserted island.\n\nWhile some, like Hanae, Yotsuya, and Akemi, are content to pass the time with alcohol and pranks, others like Shun and Yusaku see this as an opportunity to impress Kyoko with their fishing skills. As the group navigates their new island life, one can't help but wonder if they'll ever escape this desolate place or if they're destined to live out their days amidst beach fires and endless schnapps. Regardless, one thing's for sure: their usual mischief and shenanigans won't be stopping anytime soon.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eaf92d9acb2a3dc2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.660092234296315,
+    "arithmeticGeometricMean": 6.651906396107451,
+    "median": 6.7272727272727275,
+    "hash": "eaf92d9acb2a3dc2",
+    "lastUpdate": "2024-05-09"
+  }
+}

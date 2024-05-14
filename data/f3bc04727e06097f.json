@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2863",
+    "https://anilist.co/anime/3010",
+    "https://anime-planet.com/anime/the-legend-of-zorro",
+    "https://anisearch.com/anime/1796",
+    "https://kitsu.io/anime/2721",
+    "https://livechart.me/anime/8248",
+    "https://myanimelist.net/anime/3010",
+    "https://notify.moe/anime/PsP85Fimg"
+  ],
+  "synopsis": {
+    "text": "In the heart of 19th century California, a Spanish colony plagued by the oppressive rule of a self-indulgent aristocracy, a beacon of hope emerges from the shadows. Diego Vega, a seemingly lackadaisical nobleman, conceals his true identity as the daring and chivalrous hero, Zorro. Armed with unparalleled swordsmanship and a steadfast determination to defend the downtrodden, Zorro challenges the ruthless regime while maintaining his anonymity.\n\nDiego's life takes an unexpected turn when he becomes the guardian of Bernard, a spirited 9-year-old orphan. Upon discovering Diego's secret, Bernard transforms into 'Little Zorro', Zorro's pint-sized sidekick, eager to aid in the crusade against injustice.\n\nLolita, Diego's 17-year-old sweetheart, remains oblivious to his dual life. Captivated by Zorro's bravery, she yearns for a partner who embodies such courage. Diego's challenge intensifies as he strives to win Lolita's affection while safeguarding his secret identity.\n\nJoining the duo in their adventures are a diverse cast of characters, including Sergeant Garcia, a food enthusiast with a formidable physique; Figaro, Little Zorro's adventurous puppy with a penchant for masks; Tornado, Zorro's loyal white steed; and Tackle, a lethargic hound.\n\nAs Zorro, Diego navigates the treacherous landscape of love and war, fighting to restore justice and win the heart of his beloved. Will he succeed in his mission while keeping his identity under wraps? Only time",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3bc04727e06097f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.835802809435463,
+    "arithmeticGeometricMean": 6.826574876940848,
+    "median": 6.94,
+    "hash": "f3bc04727e06097f",
+    "lastUpdate": "2024-05-09"
+  }
+}

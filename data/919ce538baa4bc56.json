@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12279",
+    "https://anime-planet.com/anime/nenbutsu-monogatari",
+    "https://anisearch.com/anime/11974",
+    "https://kitsu.io/anime/13405",
+    "https://myanimelist.net/anime/34924",
+    "https://notify.moe/anime/YuB7hKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "919ce538baa4bc56",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "919ce538baa4bc56",
+    "lastUpdate": "2024-05-08"
+  }
+}

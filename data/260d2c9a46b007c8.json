@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16303",
+    "https://anime-planet.com/anime/crayon-shin-chan-hoshizora-to-gakkou-no-nanafushigi-da-zo",
+    "https://anime-planet.com/anime/crayon-shin-chan-planetarium-ban-hoshizora-to-gakkou-no-nana-fushigi-da-zo",
+    "https://anisearch.com/anime/18554",
+    "https://myanimelist.net/anime/53970"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "260d2c9a46b007c8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "260d2c9a46b007c8",
+    "lastUpdate": "2024-05-11"
+  }
+}

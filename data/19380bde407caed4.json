@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103297",
+    "https://anime-planet.com/anime/larva",
+    "https://anisearch.com/anime/11334"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "19380bde407caed4",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.088961038961039,
+    "arithmeticGeometricMean": 5.02275900202328,
+    "median": 5.545454545454546,
+    "hash": "19380bde407caed4",
+    "lastUpdate": "2024-05-07"
+  }
+}

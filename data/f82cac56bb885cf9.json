@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12280",
+    "https://anilist.co/anime/21876",
+    "https://anime-planet.com/anime/nazotokine",
+    "https://anisearch.com/anime/11608",
+    "https://kitsu.io/anime/12448",
+    "https://livechart.me/anime/2258",
+    "https://myanimelist.net/anime/33690",
+    "https://notify.moe/anime/uG0zhKmig"
+  ],
+  "synopsis": {
+    "text": "Ami Tokine, a dedicated secretary to the CEO of the advertising agency TEN2, has a secret life as an otaku and tokusatsu enthusiast, known only to her closest friends at work. While preparing a conference room for a meeting with a renowned animation company, Ami is enveloped in a mysterious light and transported to a parallel dimension known as Quizun.\n\nIn Quizun, Ami encounters Hacchin, an enigmatic, floating pig-like creature who presents her with a series of puzzles she must solve to escape. Recognizing Ami's exceptional problem-solving abilities, Hacchin transforms her outfit to unlock her full reasoning potential and bestows upon her the power to uncover the truth.\n\nAs Ami solves each puzzle, she releases a crystal called a Q-Stone, which Hacchin eagerly collects. With her newfound abilities, Ami must navigate the unpredictable nature of her sudden visits to Quizun, often accompanied by unsuspecting coworkers. Embracing her unique situation, Ami vows to tackle each challenge head-on, determined to \"solve the riddles, then think about them!\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f82cac56bb885cf9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.947704249601075,
+    "arithmeticGeometricMean": 4.904771287279769,
+    "median": 4.700371057513914,
+    "hash": "f82cac56bb885cf9",
+    "lastUpdate": "2024-05-09"
+  }
+}

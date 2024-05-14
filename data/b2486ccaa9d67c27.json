@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4298",
+    "https://anilist.co/anime/8464",
+    "https://anime-planet.com/anime/pantsu-no-ana-mambo-de-ganbo",
+    "https://anisearch.com/anime/6205",
+    "https://kitsu.io/anime/5345",
+    "https://myanimelist.net/anime/8464",
+    "https://notify.moe/anime/IPhipFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b2486ccaa9d67c27",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.283448537856701,
+    "arithmeticGeometricMean": 4.216945928774003,
+    "median": 4.090909090909091,
+    "hash": "b2486ccaa9d67c27",
+    "lastUpdate": "2024-05-08"
+  }
+}

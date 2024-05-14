@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16708",
+    "https://anime-planet.com/anime/oni-thunder-gods-tale",
+    "https://kitsu.io/anime/42742",
+    "https://myanimelist.net/anime/53432"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d6902cc2ae7d5722",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.041999999999999,
+    "arithmeticGeometricMean": 7.0346287263891165,
+    "median": 7.01,
+    "hash": "d6902cc2ae7d5722",
+    "lastUpdate": "2024-05-08"
+  }
+}

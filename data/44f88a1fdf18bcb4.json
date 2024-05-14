@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14801",
+    "https://anilist.co/anime/108725",
+    "https://anime-planet.com/anime/the-promised-neverland-2nd-season",
+    "https://anisearch.com/anime/14315",
+    "https://kitsu.io/anime/42220",
+    "https://livechart.me/anime/9395",
+    "https://myanimelist.net/anime/39617",
+    "https://notify.moe/anime/Npmh05emg"
+  ],
+  "synopsis": {
+    "text": "Field House, a seemingly idyllic orphanage, becomes a nightmare for fifteen children who dare to seek freedom. Beyond its walls, they discover a world filled with unseen flora, fauna, and formidable demons. Despite the harsh realities of their new environment, these brave children refuse to surrender. Guided by a cryptic message from a mysterious figure named Minerva and a pen left behind by their friend Norman, they embark on a perilous journey to find a safe haven. Driven by a promise, they must return to the orphanage to save those they left behind, turning their escape into a battle for survival and a quest for a true home.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "44f88a1fdf18bcb4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.113639960723167,
+    "arithmeticGeometricMean": 6.100066271192912,
+    "median": 6.394,
+    "hash": "44f88a1fdf18bcb4",
+    "lastUpdate": "2024-05-10"
+  }
+}

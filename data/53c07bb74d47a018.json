@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6626",
+    "https://anilist.co/anime/8548",
+    "https://anime-planet.com/anime/dr-slump-arale-chan-hoyoyo-tasuketa-same-ni-tsurerarete",
+    "https://anisearch.com/anime/5657",
+    "https://kitsu.io/anime/5384",
+    "https://livechart.me/anime/10995",
+    "https://myanimelist.net/anime/8548",
+    "https://notify.moe/anime/tSBmpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "53c07bb74d47a018",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.133470447919427,
+    "arithmeticGeometricMean": 6.112647182463995,
+    "median": 6.090909090909091,
+    "hash": "53c07bb74d47a018",
+    "lastUpdate": "2024-05-09"
+  }
+}

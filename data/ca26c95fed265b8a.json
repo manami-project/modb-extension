@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4319",
+    "https://anilist.co/anime/3659",
+    "https://anime-planet.com/anime/majime-ni-fumajime-kaiketsu-zorori-nazo-no-otakara-daisakusen",
+    "https://anisearch.com/anime/4908",
+    "https://kitsu.io/anime/3175",
+    "https://livechart.me/anime/11553",
+    "https://myanimelist.net/anime/3659",
+    "https://notify.moe/anime/V94lcKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca26c95fed265b8a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.695351267779839,
+    "arithmeticGeometricMean": 5.654677982074186,
+    "median": 5.785,
+    "hash": "ca26c95fed265b8a",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7631",
+    "https://anilist.co/anime/17443",
+    "https://anime-planet.com/anime/kyojin-no-hoshi-movie-2-ike-ike-hyuuma",
+    "https://anisearch.com/anime/6307",
+    "https://kitsu.io/anime/9415",
+    "https://livechart.me/anime/11655",
+    "https://myanimelist.net/anime/17443",
+    "https://notify.moe/anime/OjpBpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "54a8832fc769cb2b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.717468645640074,
+    "arithmeticGeometricMean": 5.684476960210031,
+    "median": 5.0,
+    "hash": "54a8832fc769cb2b",
+    "lastUpdate": "2024-05-09"
+  }
+}

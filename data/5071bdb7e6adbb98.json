@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13139",
+    "https://anilist.co/anime/103315",
+    "https://anime-planet.com/anime/shinsei-kamattechan-st-marie-antoinette",
+    "https://kitsu.io/anime/10532",
+    "https://myanimelist.net/anime/29871",
+    "https://notify.moe/anime/5WeUtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5071bdb7e6adbb98",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.773090909090908,
+    "arithmeticGeometricMean": 4.709008048891079,
+    "median": 4.5649999999999995,
+    "hash": "5071bdb7e6adbb98",
+    "lastUpdate": "2024-05-07"
+  }
+}

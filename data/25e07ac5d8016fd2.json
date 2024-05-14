@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1218",
+    "https://anilist.co/anime/431",
+    "https://anime-planet.com/anime/howls-moving-castle",
+    "https://anisearch.com/anime/156",
+    "https://kitsu.io/anime/395",
+    "https://livechart.me/anime/3086",
+    "https://myanimelist.net/anime/431",
+    "https://notify.moe/anime/CpmTcFmig"
+  ],
+  "synopsis": {
+    "text": "Moving castles, talking flames, and a curse to break! Sophie, a young hatmaker, finds her mundane life turned upside down when she crosses paths with the infamous wizard Howl. Envious of their encounter, the vindictive Witch of the Waste casts a spell on Sophie, transforming her into an old woman. To break the curse, Sophie embarks on an extraordinary adventure to seek out Howl's magical moving castle. Inside, she discovers a world of enchanted scarecrows, powerful fire demons, and the charming but mysterious Howl himself. As Sophie navigates this mystical realm, she forms unexpected friendships, uncovers hidden secrets, and just might find the key to restoring her youth. Join Sophie in this enchanting tale of bravery, love, and self-discovery, set against the backdrop of a magical world at war.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "25e07ac5d8016fd2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.460431241270419,
+    "arithmeticGeometricMean": 8.459228297592702,
+    "median": 8.403997692354405,
+    "hash": "25e07ac5d8016fd2",
+    "lastUpdate": "2024-05-09"
+  }
+}

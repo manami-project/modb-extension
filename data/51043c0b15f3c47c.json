@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/518",
+    "https://anilist.co/anime/266",
+    "https://anime-planet.com/anime/gunparade-march",
+    "https://anisearch.com/anime/141",
+    "https://kitsu.io/anime/241",
+    "https://livechart.me/anime/5864",
+    "https://myanimelist.net/anime/266",
+    "https://notify.moe/anime/YYOhcFimR"
+  ],
+  "synopsis": {
+    "text": "Defense against alien invaders has become a global effort since their emergence in 1945, marking the end of the Pacific War. These enigmatic creatures, known as Genjuu, possess a lethal odor that corrodes human flesh, rendering conventional weapons useless and further endangering Earth. Fifty years into this relentless conflict, the Japanese government resorts to enlisting young individuals, such as Atsushi Hayami and his high school classmates, to form Unit 5121. Armed with cutting-edge HWT humanoid combat machines and the powerful PBE bomb, these courageous teenagers face the trials of war, love, and friendship as they strive to protect humanity and survive the onslaught of these otherworldly beasts. Among them is the enigmatic transfer student, Mai Shibamura, a skilled mecha pilot with a mysterious connection to the Genjuu. As they confront their destiny, Atsushi and his friends must unravel the secrets of the war and their new ally.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "51043c0b15f3c47c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.743460376358335,
+    "arithmeticGeometricMean": 6.739622326578809,
+    "median": 6.77,
+    "hash": "51043c0b15f3c47c",
+    "lastUpdate": "2024-05-09"
+  }
+}

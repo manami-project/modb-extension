@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13588",
+    "https://anilist.co/anime/100296",
+    "https://anime-planet.com/anime/wo-de-tian-jie-nuyou",
+    "https://anisearch.com/anime/13025",
+    "https://kitsu.io/anime/14022",
+    "https://livechart.me/anime/5451",
+    "https://myanimelist.net/anime/36455",
+    "https://notify.moe/anime/9kNH2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "796975e28626e7a1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.650154916512058,
+    "arithmeticGeometricMean": 6.640149692855534,
+    "median": 6.591,
+    "hash": "796975e28626e7a1",
+    "lastUpdate": "2024-05-10"
+  }
+}

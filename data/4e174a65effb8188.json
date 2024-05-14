@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18600",
+    "https://anilist.co/anime/177159",
+    "https://anime-planet.com/anime/momentary-lily",
+    "https://anisearch.com/anime/19236",
+    "https://kitsu.io/anime/48840",
+    "https://livechart.me/anime/12643",
+    "https://myanimelist.net/anime/58739",
+    "https://notify.moe/anime/3tsYfpfSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e174a65effb8188",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "4e174a65effb8188",
+    "lastUpdate": "2024-05-13"
+  }
+}

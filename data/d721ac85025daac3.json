@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9381",
+    "https://anilist.co/anime/15279",
+    "https://anime-planet.com/anime/kira-kira-5th-anniversary-live-anime-kick-start-generation",
+    "https://anisearch.com/anime/8017",
+    "https://kitsu.io/anime/7235",
+    "https://livechart.me/anime/7648",
+    "https://myanimelist.net/anime/15279",
+    "https://notify.moe/anime/hVwOpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d721ac85025daac3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.289137556321229,
+    "arithmeticGeometricMean": 6.271633153146981,
+    "median": 6.35,
+    "hash": "d721ac85025daac3",
+    "lastUpdate": "2024-05-09"
+  }
+}

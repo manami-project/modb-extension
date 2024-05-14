@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9089",
+    "https://anilist.co/anime/13465",
+    "https://anime-planet.com/anime/little-charo-touhoku-hen",
+    "https://anisearch.com/anime/7734",
+    "https://kitsu.io/anime/6973",
+    "https://livechart.me/anime/11029",
+    "https://myanimelist.net/anime/13465",
+    "https://notify.moe/anime/16ADtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f4286393c330d33e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.6389696969696965,
+    "arithmeticGeometricMean": 5.609508439631878,
+    "median": 5.090909090909091,
+    "hash": "f4286393c330d33e",
+    "lastUpdate": "2024-05-09"
+  }
+}

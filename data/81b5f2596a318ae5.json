@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/101904",
+    "https://anime-planet.com/anime/moving-colors",
+    "https://kitsu.io/anime/12266",
+    "https://myanimelist.net/anime/33449",
+    "https://notify.moe/anime/w0yR2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81b5f2596a318ae5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.3513636363636365,
+    "arithmeticGeometricMean": 5.337752836124715,
+    "median": 5.487727272727273,
+    "hash": "81b5f2596a318ae5",
+    "lastUpdate": "2024-05-07"
+  }
+}

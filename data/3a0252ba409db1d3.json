@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104432",
+    "https://anime-planet.com/anime/bug-burger",
+    "https://anisearch.com/anime/13002",
+    "https://kitsu.io/anime/13287",
+    "https://notify.moe/anime/lOn7hFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3a0252ba409db1d3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.0948858998144715,
+    "arithmeticGeometricMean": 4.011592404752817,
+    "median": 4.519363636363637,
+    "hash": "3a0252ba409db1d3",
+    "lastUpdate": "2024-05-06"
+  }
+}

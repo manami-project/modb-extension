@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/116567",
+    "https://anime-planet.com/anime/flue-alphabed-in"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c69d12b5a624f808",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.873909090909091,
+    "arithmeticGeometricMean": 5.853433635538226,
+    "median": 5.873909090909091,
+    "hash": "c69d12b5a624f808",
+    "lastUpdate": "2024-05-07"
+  }
+}

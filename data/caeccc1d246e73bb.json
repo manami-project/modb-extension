@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18524",
+    "https://anilist.co/anime/166439",
+    "https://anime-planet.com/anime/bai-jia-jue-zhi-jianghu-gui-shi-lu",
+    "https://myanimelist.net/anime/58295",
+    "https://notify.moe/anime/1nInPjJSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "caeccc1d246e73bb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0,
+    "arithmeticGeometricMean": 6.0,
+    "median": 6.0,
+    "hash": "caeccc1d246e73bb",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15658",
+    "https://anilist.co/anime/119665",
+    "https://anime-planet.com/anime/buddy-complex-daremo-shiranai-ashita-e",
+    "https://anisearch.com/anime/15653",
+    "https://kitsu.io/anime/11262",
+    "https://livechart.me/anime/7852",
+    "https://myanimelist.net/anime/31105",
+    "https://notify.moe/anime/fOM9tFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c6af1e2ffeaf9563",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.828314868804665,
+    "arithmeticGeometricMean": 6.8048523408486545,
+    "median": 6.878,
+    "hash": "c6af1e2ffeaf9563",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15754",
+    "https://anilist.co/anime/126271",
+    "https://anime-planet.com/anime/awajishima-no-shichifukujin",
+    "https://anisearch.com/anime/15607",
+    "https://livechart.me/anime/10176",
+    "https://myanimelist.net/anime/42998"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "766eda70737e9160",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.87109090909091,
+    "arithmeticGeometricMean": 5.823401249617289,
+    "median": 5.87109090909091,
+    "hash": "766eda70737e9160",
+    "lastUpdate": "2024-05-08"
+  }
+}

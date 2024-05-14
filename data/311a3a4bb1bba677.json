@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/837",
+    "https://anilist.co/anime/62",
+    "https://anime-planet.com/anime/da-capo",
+    "https://anisearch.com/anime/3482",
+    "https://kitsu.io/anime/43",
+    "https://livechart.me/anime/4192",
+    "https://myanimelist.net/anime/62",
+    "https://notify.moe/anime/iavt5KmmR"
+  ],
+  "synopsis": {
+    "text": "Yoshino Sakura returns to the enchanting island of Hatsunejima, where cherry blossoms bloom perpetually, and dreams intertwine with reality. After six years in America, she's back to fulfill a childhood promise made to her cousin, Asakura Jun'ichi. Unbeknownst to many, Jun'ichi possesses a unique ability: he can see other people's dreams and create sweets out of thin air.\n\nJun'ichi shares a close bond with his adopted sister, Nemu, and together they navigate the magical world around them. Attending Kazami Academy, their circle of friends includes a budding J-pop idol, Kotori, and the quirky Mizukoshi sisters, Moe and Mako.\n\nAs Sakura's return stirs up old emotions and resurfaces long-forgotten promises, Jun'ichi's once peaceful life is disrupted. The line between dreams and reality blurs, and the lives of everyone around him are set on a course for change. Amidst the chaos, Jun'ichi must confront his feelings for the girls in his life and unravel the mysteries of the island, where love, magic, and dreams intertwine.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "311a3a4bb1bba677",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.822002575691785,
+    "arithmeticGeometricMean": 6.817164892118411,
+    "median": 6.7582978723404254,
+    "hash": "311a3a4bb1bba677",
+    "lastUpdate": "2024-05-09"
+  }
+}

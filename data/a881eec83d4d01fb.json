@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8138",
+    "https://anilist.co/anime/10260",
+    "https://anime-planet.com/anime/the-legend-of-heroes-trails-in-the-sky",
+    "https://anisearch.com/anime/6671",
+    "https://kitsu.io/anime/6104",
+    "https://livechart.me/anime/2744",
+    "https://myanimelist.net/anime/10260",
+    "https://notify.moe/anime/Ony7tKmmg"
+  ],
+  "synopsis": {
+    "text": "Revolution ized by the mysterious Orbment technology, the world has seen unprecedented advancements, leading to the creation of airships and other marvels that have become integral to daily life. However, this progress has also sparked a power struggle among the most formidable nations, each vying for global dominance with their Orbment-based weaponry. Amidst this tension, the Bracer's Guild, an international organization committed to maintaining peace and safeguarding civilians, takes center stage.\n\nIn the small yet resilient Liberl Kingdom, nestled in the southwest corner of the Zemulia Continent, two young Bracers, Estelle and Joshua Bright, find themselves at the heart of a brewing storm. Raised by their single father, Cassius Bright, in the city of Rolent, the siblings have grown up hearing tales of the devastating Erebonian invasion that nearly decimated their homeland a decade ago.\n\nAs they follow in their father's footsteps and join the Bracer's Guild, history seems poised to repeat itself. When Cassius' airship inexplicably vanishes, Estelle and Joshua embark on a daring mission to find it and rescue their father. Their journey, however, leads them to cross paths with the enigmatic organization Ouroboros, whose actions threaten the very foundation of Liberl. With Joshua pursuing Ouroboros alone, Estelle, joined by fellow guild members Klose, Olivier, and Scherazard, sets out to unravel the truth and protect their kingdom from the looming chaos.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a881eec83d4d01fb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.372390670553935,
+    "arithmeticGeometricMean": 6.3683417772742,
+    "median": 6.2727272727272725,
+    "hash": "a881eec83d4d01fb",
+    "lastUpdate": "2024-05-09"
+  }
+}

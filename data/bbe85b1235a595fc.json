@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5356",
+    "https://anilist.co/anime/2986",
+    "https://anime-planet.com/anime/bamboo-blade",
+    "https://anisearch.com/anime/4394",
+    "https://kitsu.io/anime/2700",
+    "https://livechart.me/anime/4134",
+    "https://myanimelist.net/anime/2986",
+    "https://notify.moe/anime/Sj-85Kmmg"
+  ],
+  "synopsis": {
+    "text": "Since time immemorial, the ancient martial art of kendo has captivated the hearts of many, and for one high school instructor, it has become his lifeline. Kojirou, a dedicated yet penniless kendo teacher at Muroe High School, finds himself entangled in a high-stakes wager with his former upperclassman and rival. The challenge: to assemble and train a formidable all-female kendo team capable of besting his senpai's own squad. The reward: a year's worth of free meals, a tantalizing prospect for the cash-strapped instructor.\n\nWith the clock ticking, Kojirou embarks on a quest to recruit skilled and passionate kendo practitioners, but fate seems to conspire against him. Not only is he grappling with a scarcity of potential team members, but he must also navigate the eccentricities of his students and confront his own waning enthusiasm for the sport he once cherished.\n\nAs Kojirou delves deeper into the world of kendo and the lives of his students, he begins to rediscover the essence of what it means to be a teacher and the true spirit of the martial art he holds dear. With the odds stacked against him, can Kojirou rise to the occasion and claim the tantalizing prize that lies within his grasp, or will he crumble under the weight of his own ambitions? Only time will tell, as the stage is set for a thrilling showdown that will test the mettle of both teacher and students alike.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bbe85b1235a595fc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.394788626056483,
+    "arithmeticGeometricMean": 7.393259254047344,
+    "median": 7.321,
+    "hash": "bbe85b1235a595fc",
+    "lastUpdate": "2024-05-08"
+  }
+}

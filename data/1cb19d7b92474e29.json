@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3323",
+    "https://anilist.co/anime/560",
+    "https://anime-planet.com/anime/fafner-right-of-left",
+    "https://anisearch.com/anime/833",
+    "https://kitsu.io/anime/517",
+    "https://livechart.me/anime/4866",
+    "https://myanimelist.net/anime/560",
+    "https://notify.moe/anime/iNPo5Kmig"
+  ],
+  "synopsis": {
+    "text": "Plan et Earth is on the brink of annihilation, threatened by a formidable enemy known as Festum. In response, a secret mission is launched, code-named Plan L, to safeguard humanity's last bastion of hope - Tatsumiyajima Island. Two ordinary teenagers, Yumi and Ryou, find themselves thrust into an extraordinary role as they are chosen to pilot colossal combat robots, the Fafner TSX models, in a desperate bid to protect their home.\n\nJoining forces with six other young pilots, Yumi and Ryou form an elite team entrusted with the fate of mankind. However, the mission proves to be more perilous than anticipated, as the weapons they wield against Festum have devastating side effects, gradually eroding their bodies. To make matters worse, the enemy possesses telepathic abilities, making it impossible to divulge mission details, even among the team members.\n\nDespite the overwhelming odds, the team remains steadfast in their resolve, drawing upon their courage and faith to persevere. As they engage in a high-stakes battle against Festum, the young pilots must also confront the harsh realities of their mission, striving to preserve not only the peace of their island but also their own lives. Will they emerge victorious and secure a future for humanity, or will they succumb to the relentless onslaught of their enemy? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1cb19d7b92474e29",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.449862708719851,
+    "arithmeticGeometricMean": 7.447099216846392,
+    "median": 7.37,
+    "hash": "1cb19d7b92474e29",
+    "lastUpdate": "2024-05-10"
+  }
+}

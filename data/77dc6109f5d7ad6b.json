@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/164193",
+    "https://anime-planet.com/anime/akari-nanawo-kien-romance",
+    "https://kitsu.io/anime/47337",
+    "https://myanimelist.net/anime/55183"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77dc6109f5d7ad6b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.352060606060607,
+    "arithmeticGeometricMean": 7.34738497026418,
+    "median": 7.328,
+    "hash": "77dc6109f5d7ad6b",
+    "lastUpdate": "2024-05-07"
+  }
+}

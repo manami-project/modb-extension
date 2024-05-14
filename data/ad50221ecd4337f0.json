@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15730",
+    "https://anilist.co/anime/125870",
+    "https://anime-planet.com/anime/dont-call-us-a-junk-game",
+    "https://anisearch.com/anime/15608",
+    "https://kitsu.io/anime/43710",
+    "https://livechart.me/anime/10153",
+    "https://myanimelist.net/anime/42946",
+    "https://notify.moe/anime/jJL1msFGg"
+  ],
+  "synopsis": {
+    "text": "So, you think you've played bad games? Welcome to the world of \"Kusoge,\" an RPG infamous for its bizarre mechanics and lackluster design. But when our protagonist, Lidays, decides to take matters into his own hands and rewrite the game's narrative, things get a little...chaotic. As Lidays and his fellow characters attempt to navigate their new storyline, one misstep could spell disaster for their already-struggling game world. Can they pull it together and save \"Kusoge\" from total ruin, or will their blunders lead to an epic game over? Only one way to find out—let the adventure begin!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ad50221ecd4337f0",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.398214506581853,
+    "arithmeticGeometricMean": 5.384991346973193,
+    "median": 5.34,
+    "hash": "ad50221ecd4337f0",
+    "lastUpdate": "2024-05-09"
+  }
+}

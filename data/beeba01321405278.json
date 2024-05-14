@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2976",
+    "https://anilist.co/anime/18567",
+    "https://anime-planet.com/anime/taiman-blues-ladies-hen-mayumi",
+    "https://anisearch.com/anime/88",
+    "https://kitsu.io/anime/9652",
+    "https://myanimelist.net/anime/18567",
+    "https://notify.moe/anime/NSFYtKmig"
+  ],
+  "synopsis": {
+    "text": "Through a series of challenging circumstances, 15-year-old Mayumi finds herself navigating the unfamiliar and gritty streets of Osaka. Following her parents' divorce and subsequent remarriage, she is uprooted from her previous life and thrust into a world where she must adapt quickly. Fortunately, she crosses paths with Noriko, a resilient and resourceful local who takes Mayumi under her wing.\n\nNoriko, employed at a petrol station, introduces Mayumi to Big Bear and his formidable biker gang. Inspired by their camaraderie and the thrill of motorcycling, the two young women form their own all-female biker gang, the Eight Angels. However, their foray into this male-dominated territory is met with hostility and resistance from the established gangs.\n\nDespite the challenges, Mayumi and Noriko remain undeterred, drawing strength from their friendship and shared passion for motorcycling. Their journey is a testament to their resilience and determination in the face of adversity, making for an engaging and inspiring tale.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "beeba01321405278",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.78769387755102,
+    "arithmeticGeometricMean": 5.75107408808156,
+    "median": 5.254081632653061,
+    "hash": "beeba01321405278",
+    "lastUpdate": "2024-05-08"
+  }
+}

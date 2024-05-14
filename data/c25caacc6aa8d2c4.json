@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15216",
+    "https://anilist.co/anime/112667",
+    "https://anime-planet.com/anime/our-last-crusade-or-the-rise-of-a-new-world",
+    "https://anisearch.com/anime/14698",
+    "https://kitsu.io/anime/42638",
+    "https://livechart.me/anime/9651",
+    "https://myanimelist.net/anime/40595",
+    "https://notify.moe/anime/bTOCCkwZg"
+  ],
+  "synopsis": {
+    "text": "Lou nged in a world where Astral power is wielded by mages, the technologically advanced Empire and the Nebulis Sovereignty, a sanctuary for mages, have been locked in a century-long conflict. When Iska, a prodigious knight, is released from prison to hunt down the notorious 'Ice Calamity Witch,' he finds himself face-to-face with Aliceliese 'Alice' Lou Nebulis XI, the witch herself. Despite their initial orders to eliminate each other, they discover shared aspirations for peace and a mutual respect that blossoms into something more profound. As the two nations continue their relentless war, Iska and Alice must navigate their burgeoning bond amidst the chaos, all while striving to end the conflict that has plagued their world for so long.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c25caacc6aa8d2c4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.899643975772127,
+    "arithmeticGeometricMean": 6.893172901186103,
+    "median": 6.944117647058824,
+    "hash": "c25caacc6aa8d2c4",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/106",
+    "https://anilist.co/anime/66",
+    "https://anime-planet.com/anime/azumanga-daioh",
+    "https://anisearch.com/anime/2305",
+    "https://kitsu.io/anime/47",
+    "https://livechart.me/anime/3682",
+    "https://myanimelist.net/anime/66",
+    "https://notify.moe/anime/f5dt5Fimg"
+  ],
+  "synopsis": {
+    "text": "Ten-year-old Chiyo Mihama, an academic prodigy with a love for plush dolls and cooking, finds herself navigating the wild world of high school alongside her eccentric classmates and an unconventional teacher in \"Azumanga Daioh.\" Joining Chiyo is Tomo, an energetic tomboy who often acts before she thinks; Koyomi, Tomo's best friend with a short temper; Sakaki, a tall and athletic girl with a gentle personality and a secret obsession with cats; Ayumu, a transfer student with a head full of clouds; and Kagura, a competitive athlete.\n\nWith their quirky homeroom teacher, Yukari Tanizaki, who is known for her unusual behavior like hijacking students' bikes, the girls experience the ups and downs of high school life. Each day brings new adventures, filled with laughter, absurdity, and even touching moments that highlight the fleeting nature of youth. From school festivals to encounters with peculiar teachers and a strange mascot, the girls' diverse personalities collide and combine in the most unexpected and hilarious ways. Through it all, they form a strong bond of friendship that carries them through their high school years and beyond.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c2cf02d9089576b0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.942885907379355,
+    "arithmeticGeometricMean": 7.941710387475415,
+    "median": 7.974515800203873,
+    "hash": "c2cf02d9089576b0",
+    "lastUpdate": "2024-05-08"
+  }
+}

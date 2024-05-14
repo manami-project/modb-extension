@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13368",
+    "https://anilist.co/anime/102616",
+    "https://anime-planet.com/anime/kono-mayonnaise-wa-yuru-sugiru",
+    "https://anisearch.com/anime/10999",
+    "https://kitsu.io/anime/10723",
+    "https://myanimelist.net/anime/30212",
+    "https://notify.moe/anime/8z8QtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35584b7df2b79e5f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.340788762258151,
+    "arithmeticGeometricMean": 4.288784608454592,
+    "median": 4.07,
+    "hash": "35584b7df2b79e5f",
+    "lastUpdate": "2024-05-07"
+  }
+}

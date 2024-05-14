@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6928",
+    "https://anime-planet.com/anime/ari-to-hato",
+    "https://anisearch.com/anime/8691",
+    "https://kitsu.io/anime/8958",
+    "https://myanimelist.net/anime/21761",
+    "https://notify.moe/anime/7ELbtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8aac25b8b5c92502",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.0561224489795915,
+    "arithmeticGeometricMean": 4.000253396454777,
+    "median": 4.0561224489795915,
+    "hash": "8aac25b8b5c92502",
+    "lastUpdate": "2024-05-07"
+  }
+}

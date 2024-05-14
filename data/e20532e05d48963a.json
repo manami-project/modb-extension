@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/130053",
+    "https://anime-planet.com/anime/little-nemo-adventures-in-slumberland-pilot",
+    "https://myanimelist.net/anime/49117"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e20532e05d48963a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2696969696969695,
+    "arithmeticGeometricMean": 6.265354290473229,
+    "median": 6.19,
+    "hash": "e20532e05d48963a",
+    "lastUpdate": "2024-05-07"
+  }
+}

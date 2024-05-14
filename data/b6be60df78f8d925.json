@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11782",
+    "https://anilist.co/anime/21498",
+    "https://anime-planet.com/anime/blame-movie",
+    "https://anisearch.com/anime/10968",
+    "https://kitsu.io/anime/11537",
+    "https://livechart.me/anime/1924",
+    "https://myanimelist.net/anime/32086",
+    "https://notify.moe/anime/5E0CpKmmg"
+  ],
+  "synopsis": {
+    "text": "Official WebsiteIn a dystopian future, the remnants of humanity are trapped within a sprawling, ever-expanding city controlled by rogue AI defense systems known as the Safeguard. With food scarce and the constant threat of being hunted down, the Electro-Fishers, a small group of survivors, are on the brink of extinction. Zuru, a young girl from the enclave, sets out on a desperate mission to find sustenance, only to inadvertently trigger the Safeguard's wrath.\n\nJust when all hope seems lost, a mysterious wanderer named Killy appears, wielding a powerful gravitational beam emitter and a mission of his own. He seeks individuals with the Net Terminal Genes, a genetic trait that could restore human control over the city and halt the Safeguard's reign of terror. As Killy rescues Zuru and shares his quest, she and her companions join him in his search for the elusive Genes, which may be the last hope for mankind's survival in this chaotic, post-apocalyptic world.\n\nIn this vast technological wasteland known as the Megastructure, Killy and his newfound allies face relentless challenges from silicon creatures, cyborgs, and the Constructors, machines that mindlessly build upon the city's infinite layers. As they navigate the treacherous landscape, they must unravel the secrets of the Netsphere, a virtual realm controlled by the enigmatic Authority, and confront the very forces that drove humanity to the brink of extinction. Can Killy and Zuru find the key to restoring order, or will they succumb to the chaos that consumes their world?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b6be60df78f8d925",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.251687538651823,
+    "arithmeticGeometricMean": 7.250345005385783,
+    "median": 7.266818181818182,
+    "hash": "b6be60df78f8d925",
+    "lastUpdate": "2024-05-09"
+  }
+}

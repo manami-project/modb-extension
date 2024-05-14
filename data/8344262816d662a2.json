@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13132",
+    "https://anilist.co/anime/102303",
+    "https://anime-planet.com/anime/prof-sakamoto-samurai",
+    "https://kitsu.io/anime/13197",
+    "https://myanimelist.net/anime/32847",
+    "https://notify.moe/anime/BUfG2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8344262816d662a2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.134327272727273,
+    "arithmeticGeometricMean": 5.079077561127415,
+    "median": 4.91,
+    "hash": "8344262816d662a2",
+    "lastUpdate": "2024-05-08"
+  }
+}

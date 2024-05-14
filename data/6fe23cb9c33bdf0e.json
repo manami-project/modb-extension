@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/426",
+    "https://anilist.co/anime/2225",
+    "https://anime-planet.com/anime/heidi",
+    "https://anisearch.com/anime/2573",
+    "https://kitsu.io/anime/2016",
+    "https://livechart.me/anime/5334",
+    "https://myanimelist.net/anime/2225",
+    "https://notify.moe/anime/a17PcFmmg"
+  ],
+  "synopsis": {
+    "text": "Soon after the tragic loss of her parents, Heidi, a young girl of five, finds herself under the reluctant guardianship of her Aunt Dete. But when Dete secures a job overseas, she leaves Heidi in the care of her estranged grandfather, the Alm-Uncle, a recluse feared by the villagers. Nestled in the serene mountains, Heidi's life takes a turn for the better as she befriends Peter, an 11-year-old orphaned goatherd, and learns to cherish the simple joys of countryside living. However, Heidi's newfound happiness is disrupted when her aunt returns and whisks her away to the city. Tasked with keeping the wealthy merchant's daughter, Clara, company and learning to read and write, Heidi struggles to adapt to the unfamiliar urban environment. As she grapples with the challenges of city life and her longing for the mountains, Heidi's unwavering spirit and kindness touch the lives of those around her, leaving a lasting impact on Clara and her grandfather.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6fe23cb9c33bdf0e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.995501391465677,
+    "arithmeticGeometricMean": 6.981149231395151,
+    "median": 7.136818181818182,
+    "hash": "6fe23cb9c33bdf0e",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18595",
+    "https://anilist.co/anime/177494",
+    "https://anime-planet.com/anime/yong-sheng-zhi-qizhuang-shanhe",
+    "https://kitsu.io/anime/48811",
+    "https://myanimelist.net/anime/58448"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "482a453fa1d93767",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.545454545454545,
+    "arithmeticGeometricMean": 6.545454545454545,
+    "median": 6.545454545454545,
+    "hash": "482a453fa1d93767",
+    "lastUpdate": "2024-05-13"
+  }
+}

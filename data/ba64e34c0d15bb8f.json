@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2315",
+    "https://anilist.co/anime/8155",
+    "https://anime-planet.com/anime/gegege-no-kitarou-gekitotsu-ijigen-youkai-no-daihanran",
+    "https://anisearch.com/anime/1752",
+    "https://kitsu.io/anime/5220",
+    "https://myanimelist.net/anime/8155",
+    "https://notify.moe/anime/D3jzpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ba64e34c0d15bb8f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.108361162646877,
+    "arithmeticGeometricMean": 6.091013372921803,
+    "median": 6.3182653061224485,
+    "hash": "ba64e34c0d15bb8f",
+    "lastUpdate": "2024-05-08"
+  }
+}

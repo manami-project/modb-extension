@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16301",
+    "https://anime-planet.com/anime/detective-conan-the-burning-galactic-railway",
+    "https://anisearch.com/anime/16761",
+    "https://myanimelist.net/anime/42476"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a30f26496bcf76c1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.932095238095237,
+    "arithmeticGeometricMean": 6.908520861464949,
+    "median": 6.79,
+    "hash": "a30f26496bcf76c1",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108243",
+    "https://anime-planet.com/anime/yoshiharu-abe-shiroi-niji",
+    "https://myanimelist.net/anime/39181"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "764d21f8f423c0ae",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.978121212121212,
+    "arithmeticGeometricMean": 5.972776547153736,
+    "median": 5.82,
+    "hash": "764d21f8f423c0ae",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113849",
+    "https://anime-planet.com/anime/kimi-no-tonari-ni-itai-kara",
+    "https://myanimelist.net/anime/40509"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6528466adf662f99",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.088121212121212,
+    "arithmeticGeometricMean": 6.080259462216337,
+    "median": 5.94,
+    "hash": "6528466adf662f99",
+    "lastUpdate": "2024-05-07"
+  }
+}

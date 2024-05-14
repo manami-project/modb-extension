@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11576",
+    "https://anilist.co/anime/21227",
+    "https://anime-planet.com/anime/lovely-movie-lovely-muuuuuuuco-2",
+    "https://anisearch.com/anime/10597",
+    "https://kitsu.io/anime/9897",
+    "https://myanimelist.net/anime/23901",
+    "https://notify.moe/anime/9ONEtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5a81f49ccb3de00",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.624923191094619,
+    "arithmeticGeometricMean": 5.587053649486529,
+    "median": 4.948979591836734,
+    "hash": "e5a81f49ccb3de00",
+    "lastUpdate": "2024-05-08"
+  }
+}

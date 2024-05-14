@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18321",
+    "https://anilist.co/anime/171545",
+    "https://anime-planet.com/anime/a-terrified-teacher-at-ghoul-school",
+    "https://anisearch.com/anime/18936",
+    "https://kitsu.io/anime/48314",
+    "https://livechart.me/anime/12456",
+    "https://myanimelist.net/anime/57533",
+    "https://notify.moe/anime/cFd9DwvIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "55ac8a3eaf782fd1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "55ac8a3eaf782fd1",
+    "lastUpdate": "2024-05-11"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/628",
+    "https://anilist.co/anime/1964",
+    "https://anime-planet.com/anime/sakura-wars-ecole-de-paris",
+    "https://anisearch.com/anime/3445",
+    "https://kitsu.io/anime/1769",
+    "https://livechart.me/anime/7583",
+    "https://myanimelist.net/anime/1964",
+    "https://notify.moe/anime/69nL5KmmR"
+  ],
+  "synopsis": {
+    "text": "Japanese trainer Ichiro Ogami arrives in Paris in 1926 to assemble a unique, all-female team called the Paris Assault Force, based in a secret nightclub, Les Chattes Noires. Erika Fontaine, a cheerful yet clumsy girl with strong spiritual powers, is the first member. Soon, she's joined by four other spiritually gifted girls, each with diverse backgrounds: a nun, a thief, a noble, and a circus performer. Together, they pilot steam-powered mechanical suits to protect Paris from monsters. Despite their differences and personal challenges, can they unite as a team and defend their beloved city against the looming darkness? The Paris Floral Assault Division is ready to face the enemy and safeguard their city.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a237c2c1d6546141",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.194118385016345,
+    "arithmeticGeometricMean": 6.175118089878475,
+    "median": 6.29,
+    "hash": "a237c2c1d6546141",
+    "lastUpdate": "2024-05-09"
+  }
+}

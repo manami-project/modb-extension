@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6995",
+    "https://anilist.co/anime/9318",
+    "https://anime-planet.com/anime/samero",
+    "https://anisearch.com/anime/6005",
+    "https://kitsu.io/anime/5671",
+    "https://myanimelist.net/anime/9318",
+    "https://notify.moe/anime/v6_WtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f2c9073e66fb9116",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.378852195423624,
+    "arithmeticGeometricMean": 4.357831017574066,
+    "median": 4.4,
+    "hash": "f2c9073e66fb9116",
+    "lastUpdate": "2024-05-08"
+  }
+}

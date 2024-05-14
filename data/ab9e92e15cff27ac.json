@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14861",
+    "https://anilist.co/anime/112032",
+    "https://anime-planet.com/anime/kuiba-yao-xia-zhuan",
+    "https://kitsu.io/anime/41200",
+    "https://myanimelist.net/anime/37187",
+    "https://notify.moe/anime/c0NRFmMmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ab9e92e15cff27ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "ab9e92e15cff27ac",
+    "lastUpdate": "2024-05-08"
+  }
+}

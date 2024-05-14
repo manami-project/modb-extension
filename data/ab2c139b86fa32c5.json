@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/519",
+    "https://anilist.co/anime/1762",
+    "https://anime-planet.com/anime/the-heroic-legend-of-arslan-1991",
+    "https://anisearch.com/anime/1995",
+    "https://kitsu.io/anime/1582",
+    "https://livechart.me/anime/5160",
+    "https://myanimelist.net/anime/1762",
+    "https://notify.moe/anime/oQpBcFmiR"
+  ],
+  "synopsis": {
+    "text": "Andragoras' heir, Prince Arslan, finds himself on a perilous journey to reclaim his rightful throne in the kingdom of Pars after his homeland is overrun by the Lusitanian forces. The young prince, who had always yearned for a nobler world despite the harsh realities of poverty and slavery surrounding him, is forced to mature quickly in the face of war.\n\nBetrayed from within and outmatched by dark sorcery, Arslan and his loyal general, Daryun, embark on a mission to assemble an extraordinary group of allies, each with their unique skills and strengths. Among them are Farangis, a warrior priestess with the ability to communicate with souls, Gieve, a cunning minstrel with a knack for trickery, and Narsus, a master tactician whose strategic prowess is unparalleled.\n\nAs Arslan and his growing army of loyal followers secure victory after victory, they uncover startling secrets about the Pars/Lusitanian war, including the true identity of the mysterious Silver Mask, who led the Lusitanians to victory. Despite facing enemies who despise him for his lineage, Arslan remains steadfast in his quest, driven by his compassionate heart and unwavering belief in a better world.\n\nWith the odds stacked against them, this unlikely group of heroes must overcome insurmountable challenges to defeat the 300,000-strong Lusitanian army and restore Arslan to his rightful place on the throne of Pars. Will they succeed, or will the kingdom of Pars remain under Lusitanian rule forever? Only time will tell in this epic tale of courage, loyalty, and the unbreakable human spirit.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ab2c139b86fa32c5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.8052403922608,
+    "arithmeticGeometricMean": 6.7995501269179615,
+    "median": 6.7272727272727275,
+    "hash": "ab2c139b86fa32c5",
+    "lastUpdate": "2024-05-08"
+  }
+}

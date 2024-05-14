@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/353",
+    "https://anilist.co/anime/958",
+    "https://anime-planet.com/anime/heat-guy-j",
+    "https://anisearch.com/anime/3071",
+    "https://kitsu.io/anime/848",
+    "https://livechart.me/anime/5773",
+    "https://myanimelist.net/anime/958",
+    "https://notify.moe/anime/3tHJcKmiR"
+  ],
+  "synopsis": {
+    "text": "Escaflowne's creators bring you a gripping, futuristic tale set in the sprawling metropolis of Judoh, where the line between right and wrong blurs. After the untimely demise of his father, Claire Leonelli assumes command of the notorious Mafia faction, Vampire. To maintain order and curb criminal activities, the city's Bureau of Urban Safety enlists the help of Special Services Division agent Daisuke Aurora and his enigmatic android partner, J.\n\nIn a city where androids are forbidden, J's true identity remains concealed. However, when the heat of battle intensifies, J reveals his mechanical prowess amidst clouds of scorching steam. Together, Daisuke and J relentlessly pursue the most dangerous criminals, leaving them with nowhere to hide.\n\nAs the underworld experiences a seismic shift, Daisuke and J must navigate the treacherous landscape of power-hungry gang leaders vying for dominance. Amidst the chaos, a previously insignificant politician rises to prominence, raising questions about their mysterious backers. Meanwhile, the enigmatic Celestials watch Judoh from above, their involvement and intentions shrouded in mystery.\n\nWith secrets lurking in Daisuke's past and hidden within J's memory, the duo must unravel the complex web of intrigue that threatens to consume Judoh. Will they succeed in their mission to protect the city, or will the dark forces prevail? Join Daisuke and J on their thrilling adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3043b406efb5a657",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.9456899019347995,
+    "arithmeticGeometricMean": 6.94230374680936,
+    "median": 6.882,
+    "hash": "3043b406efb5a657",
+    "lastUpdate": "2024-05-09"
+  }
+}

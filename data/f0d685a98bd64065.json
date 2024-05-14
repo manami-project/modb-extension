@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5975",
+    "https://anilist.co/anime/4654",
+    "https://anime-planet.com/anime/a-certain-magical-index",
+    "https://anisearch.com/anime/4946",
+    "https://kitsu.io/anime/3725",
+    "https://livechart.me/anime/3325",
+    "https://myanimelist.net/anime/4654",
+    "https://notify.moe/anime/_6ir5Fmig"
+  ],
+  "synopsis": {
+    "text": "She athed in the heart of Academy City, a metropolis teeming with scientifically gifted students and nestled to the west of Tokyo, resides Touma Kamijou, the bearer of an enigmatic power - the Imagine Breaker. This unique ability, housed in his right hand, can neutralize all forms of supernatural energies, be they magical, psychic, or divine. However, it appears that his power also extends to repelling good fortune, leaving him with a perpetual streak of bad luck.\n\nOne day, Touma's mundane life takes a dramatic turn when he stumbles upon a mysterious young girl precariously dangling from his balcony railing. The girl, Index, is revealed to be a nun from the Church of England, and her mind serves as the repository for the Index-Librorum-Prohibitorum - a forbidden collection of 103,000 magical texts. As a result, she finds herself pursued by dangerous factions seeking to acquire the knowledge she harbors.\n\nAs Touma becomes entangled in the secret world of science and magic, he finds himself at the epicenter of conflicts involving magicians and science-based espers within Academy City. Despite his misfortune, Touma resolves to protect Index and his friends, even as he uncovers unsettling truths about those he holds dear. As powerful magicians and espers turn their attention towards him, Touma must navigate the treacherous landscape of Academy City and the secrets it holds, all while safeguarding the precious life of Index.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f0d685a98bd64065",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.454521721346767,
+    "arithmeticGeometricMean": 7.453911268428076,
+    "median": 7.425000000000001,
+    "hash": "f0d685a98bd64065",
+    "lastUpdate": "2024-05-10"
+  }
+}

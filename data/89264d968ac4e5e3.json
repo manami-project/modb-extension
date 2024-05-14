@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4949",
+    "https://anilist.co/anime/19121",
+    "https://anime-planet.com/anime/doctor-chichibuyama",
+    "https://anisearch.com/anime/4051",
+    "https://kitsu.io/anime/7802",
+    "https://myanimelist.net/anime/19121",
+    "https://notify.moe/anime/jbTttKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89264d968ac4e5e3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.84052319109462,
+    "arithmeticGeometricMean": 4.832140327583562,
+    "median": 4.43,
+    "hash": "89264d968ac4e5e3",
+    "lastUpdate": "2024-05-08"
+  }
+}

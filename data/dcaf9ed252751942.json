@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/811",
+    "https://anilist.co/anime/9817",
+    "https://anime-planet.com/anime/mcdull-gushi",
+    "https://anisearch.com/anime/1486",
+    "https://kitsu.io/anime/5884",
+    "https://myanimelist.net/anime/9817",
+    "https://notify.moe/anime/vyPGtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dcaf9ed252751942",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.806040816326531,
+    "arithmeticGeometricMean": 5.791541317034064,
+    "median": 5.28,
+    "hash": "dcaf9ed252751942",
+    "lastUpdate": "2024-05-08"
+  }
+}

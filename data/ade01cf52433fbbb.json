@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7804",
+    "https://anime-planet.com/anime/ahiru-no-pekkle-no-ahiru-no-drakestail",
+    "https://anisearch.com/anime/6412",
+    "https://kitsu.io/anime/8496",
+    "https://myanimelist.net/anime/22571",
+    "https://notify.moe/anime/TAb0tFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ade01cf52433fbbb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.396744897959183,
+    "arithmeticGeometricMean": 5.387218473959778,
+    "median": 5.285,
+    "hash": "ade01cf52433fbbb",
+    "lastUpdate": "2024-05-07"
+  }
+}

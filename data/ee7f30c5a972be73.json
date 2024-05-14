@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1119",
+    "https://anilist.co/anime/5760",
+    "https://anime-planet.com/anime/dororo",
+    "https://anisearch.com/anime/837",
+    "https://kitsu.io/anime/4266",
+    "https://livechart.me/anime/7688",
+    "https://myanimelist.net/anime/5760",
+    "https://notify.moe/anime/ATrCcFiig"
+  ],
+  "synopsis": {
+    "text": "Will ing to conquer Japan, the merciless Daigo Kagemitsu strikes a dark deal with 48 demons, offering his unborn child's body parts in exchange for supreme power. Born incomplete and immediately discarded into a river, the infant miraculously survives. Now a determined young man, Hyakkimaru embarks on a mission to reclaim his 48 stolen body parts by vanquishing the demons who possess them. Armed with prosthetic limbs concealing deadly blades, he crosses paths with Dororo, a tenacious young thief who insists on joining his quest. Together with a loyal puppy, Nota, they journey through a war-ravaged Japan, confronting both human cruelty and demonic malevolence as Hyakkimaru seeks to restore his body and find peace.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee7f30c5a972be73",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.102907556728986,
+    "arithmeticGeometricMean": 7.095595324925747,
+    "median": 7.154999999999999,
+    "hash": "ee7f30c5a972be73",
+    "lastUpdate": "2024-05-09"
+  }
+}

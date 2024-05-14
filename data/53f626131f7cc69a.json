@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8303",
+    "https://anilist.co/anime/10405",
+    "https://anime-planet.com/anime/xi-avant",
+    "https://anisearch.com/anime/6930",
+    "https://kitsu.io/anime/6166",
+    "https://livechart.me/anime/6267",
+    "https://myanimelist.net/anime/10405",
+    "https://notify.moe/anime/rE6npFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "53f626131f7cc69a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.882637158759608,
+    "arithmeticGeometricMean": 5.870109643603843,
+    "median": 6.0,
+    "hash": "53f626131f7cc69a",
+    "lastUpdate": "2024-05-10"
+  }
+}

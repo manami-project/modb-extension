@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2002",
+    "https://anilist.co/anime/101",
+    "https://anime-planet.com/anime/air",
+    "https://anisearch.com/anime/110",
+    "https://kitsu.io/anime/7660",
+    "https://livechart.me/anime/3572",
+    "https://myanimelist.net/anime/101",
+    "https://notify.moe/anime/yXE5pFmiR"
+  ],
+  "synopsis": {
+    "text": "On a quest to find the mythical \"Winged Maiden\" bound to the sky centuries ago, Yukito Kunisaki, a traveling puppeteer, arrives in a serene coastal town. As he performs his puppet shows to earn a living, he encounters Misuzu, an enigmatic girl who quickly befriends him. Initially planning a short stay, Yukito's journey takes an unexpected turn when Misuzu invites him to live with her.\n\nAs he becomes more involved with the town's residents and their personal struggles, Yukito decides to put his search for the Winged Maiden on hold. The legend of the Winged Maiden, passed down through generations in his family, prophesizes that a descendant will one day alter her tragic fate. As Yukito forms a deep bond with Misuzu and the town, he begins to question if the Winged Maiden might be closer than he ever imagined.\n\nThe story of \"Air\" unravels a thousand-year-old tale woven into the fabric of Yukito and Misuzu's unique friendship, leaving viewers captivated by the intricate connections between past and present.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "66c69e8090fbb429",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.3367419543575005,
+    "arithmeticGeometricMean": 7.335838047038512,
+    "median": 7.299183673469388,
+    "hash": "66c69e8090fbb429",
+    "lastUpdate": "2024-05-08"
+  }
+}

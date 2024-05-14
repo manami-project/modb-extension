@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9095",
+    "https://anilist.co/anime/18773",
+    "https://anime-planet.com/anime/kuwagata-tsumami",
+    "https://anisearch.com/anime/7938",
+    "https://kitsu.io/anime/8880",
+    "https://myanimelist.net/anime/18773",
+    "https://notify.moe/anime/CBKxtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b179fac4353fd7a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.108843537414966,
+    "arithmeticGeometricMean": 5.064487785546025,
+    "median": 5.0,
+    "hash": "0b179fac4353fd7a",
+    "lastUpdate": "2024-05-08"
+  }
+}

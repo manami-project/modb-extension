@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8345",
+    "https://anilist.co/anime/12993",
+    "https://anime-planet.com/anime/sono-mukou-no-mukougawa",
+    "https://anisearch.com/anime/6971",
+    "https://kitsu.io/anime/6864",
+    "https://myanimelist.net/anime/12993",
+    "https://notify.moe/anime/LpmvtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0679d6802e5df760",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.545588656241717,
+    "arithmeticGeometricMean": 5.516956582011641,
+    "median": 5.454545454545455,
+    "hash": "0679d6802e5df760",
+    "lastUpdate": "2024-05-08"
+  }
+}

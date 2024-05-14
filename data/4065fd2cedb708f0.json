@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13128",
+    "https://anilist.co/anime/119920",
+    "https://anime-planet.com/anime/kiyakiya",
+    "https://kitsu.io/anime/12823",
+    "https://myanimelist.net/anime/34286",
+    "https://notify.moe/anime/omVWhKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4065fd2cedb708f0",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.6692,
+    "arithmeticGeometricMean": 5.645493338619302,
+    "median": 5.0,
+    "hash": "4065fd2cedb708f0",
+    "lastUpdate": "2024-05-08"
+  }
+}

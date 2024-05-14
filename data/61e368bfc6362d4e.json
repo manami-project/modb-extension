@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/730",
+    "https://anilist.co/anime/2042",
+    "https://anime-planet.com/anime/five-star-stories",
+    "https://anisearch.com/anime/34",
+    "https://kitsu.io/anime/1841",
+    "https://livechart.me/anime/5763",
+    "https://myanimelist.net/anime/2042",
+    "https://notify.moe/anime/AZ0LcFmig"
+  ],
+  "synopsis": {
+    "text": "Emperor Amaterasu, disguised as a young mecha designer named Ladios Sopp, embarks on a mission to rescue two unique Fatimas, Lachesis and Clotho, in the expansive Joker Star System. The Joker System, composed of four solar systems, is teeming with countless nations and inhabitants. In this vast cosmic arena, knights known as Headdliners command colossal mecha called Mortar Headds, with the aid of Fatimas, androids with human-like appearances and capabilities.\n\nLadios Sopp's quest is not merely a rescue mission, but also a personal journey to reunite with Lachesis, a Fatima from his past. As he navigates through the complex political landscape of the Joker System, he encounters allies and adversaries, all while grappling with his growing affection for Lachesis. The battle for supremacy among the nations intensifies, with the rare, emotionally-aware Fatimas at the heart of the conflict. In this epic saga, the lines between humans and androids blur, and the fate of the galaxy hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "61e368bfc6362d4e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.483024648820567,
+    "arithmeticGeometricMean": 6.478029084566853,
+    "median": 6.488,
+    "hash": "61e368bfc6362d4e",
+    "lastUpdate": "2024-05-09"
+  }
+}

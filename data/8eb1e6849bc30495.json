@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14057",
+    "https://anilist.co/anime/102379",
+    "https://anime-planet.com/anime/pride",
+    "https://anisearch.com/anime/16983",
+    "https://kitsu.io/anime/12833",
+    "https://myanimelist.net/anime/34118",
+    "https://notify.moe/anime/PcIW2FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8eb1e6849bc30495",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.273531642960214,
+    "arithmeticGeometricMean": 5.251465731125339,
+    "median": 5.166363636363636,
+    "hash": "8eb1e6849bc30495",
+    "lastUpdate": "2024-05-08"
+  }
+}

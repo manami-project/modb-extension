@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5810",
+    "https://anime-planet.com/anime/sensuikan-ni-koi-wo-shita-kujira-no-hanashi",
+    "https://anisearch.com/anime/4786",
+    "https://kitsu.io/anime/9575",
+    "https://myanimelist.net/anime/25329",
+    "https://notify.moe/anime/AQzYtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9da872b3dfded95d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.122448979591836,
+    "arithmeticGeometricMean": 6.0704528257091965,
+    "median": 6.122448979591836,
+    "hash": "9da872b3dfded95d",
+    "lastUpdate": "2024-05-07"
+  }
+}

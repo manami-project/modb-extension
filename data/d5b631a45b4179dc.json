@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7057",
+    "https://anilist.co/anime/126321",
+    "https://anime-planet.com/anime/peach-command-shin-momotarou-densetsu",
+    "https://anisearch.com/anime/5892",
+    "https://kitsu.io/anime/12396",
+    "https://myanimelist.net/anime/33310",
+    "https://notify.moe/anime/2Lvk2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d5b631a45b4179dc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.373290352504638,
+    "arithmeticGeometricMean": 5.3473476261050115,
+    "median": 4.974489795918367,
+    "hash": "d5b631a45b4179dc",
+    "lastUpdate": "2024-05-08"
+  }
+}

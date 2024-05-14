@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7745",
+    "https://anime-planet.com/anime/sore-ike-anpanman-otanjoubi-series",
+    "https://anisearch.com/anime/6365",
+    "https://kitsu.io/anime/9624",
+    "https://livechart.me/anime/11444",
+    "https://myanimelist.net/anime/27373",
+    "https://notify.moe/anime/gQILtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "faba9efd02b20c06",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.547632653061224,
+    "arithmeticGeometricMean": 6.497327187170052,
+    "median": 7.244897959183673,
+    "hash": "faba9efd02b20c06",
+    "lastUpdate": "2024-05-10"
+  }
+}

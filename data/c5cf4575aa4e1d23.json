@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11445",
+    "https://anilist.co/anime/104131",
+    "https://anime-planet.com/anime/mori-no-kuma-san",
+    "https://anisearch.com/anime/11078",
+    "https://kitsu.io/anime/10826",
+    "https://myanimelist.net/anime/30397",
+    "https://notify.moe/anime/9kHlpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c5cf4575aa4e1d23",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.937875077303649,
+    "arithmeticGeometricMean": 4.921238695986791,
+    "median": 4.712727272727273,
+    "hash": "c5cf4575aa4e1d23",
+    "lastUpdate": "2024-05-08"
+  }
+}

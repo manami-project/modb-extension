@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11125",
+    "https://anilist.co/anime/8661",
+    "https://anime-planet.com/anime/chim-chim-cher-ee",
+    "https://anisearch.com/anime/6292",
+    "https://kitsu.io/anime/5425",
+    "https://myanimelist.net/anime/8661",
+    "https://notify.moe/anime/3GQipKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "15b23842229e1a95",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.598967399946992,
+    "arithmeticGeometricMean": 4.553019821378979,
+    "median": 4.545454545454545,
+    "hash": "15b23842229e1a95",
+    "lastUpdate": "2024-05-08"
+  }
+}

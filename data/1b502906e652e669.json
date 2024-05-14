@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3574",
+    "https://anilist.co/anime/934",
+    "https://anime-planet.com/anime/when-they-cry-higurashi",
+    "https://anisearch.com/anime/1931",
+    "https://kitsu.io/anime/831",
+    "https://livechart.me/anime/3604",
+    "https://myanimelist.net/anime/934",
+    "https://notify.moe/anime/qB7J5FimR"
+  ],
+  "synopsis": {
+    "text": "It’s 1983, and Maebara Keiichi, a typical high school student, finds himself in the tranquil, rural village of Hinamizawa. As he acclimates to his new environment, he quickly forms a tight-knit bond with a group of local schoolgirls, including Rena Ryuuguu, Mion Sonozaki, Satoko Houjou, and Rika Furude. Together, they spend countless summer afternoons enjoying each other's company, and Keiichi even joins the school's only club, led by his new friends.\n\nHowever, this serene façade shatters when Keiichi stumbles upon the village's dark secret: a chilling cycle of unsolved murders and disappearances that have plagued Hinamizawa for years, all connected to the annual Watanagashi Festival and the local deity, Oyashiro. As Keiichi delves deeper into the mystery, his friends' silence and evasiveness fuel his growing suspicion and paranoia.\n\nAs the festival approaches, Keiichi's life takes a sinister turn, and he becomes entangled in a twisted web of fear, madness, and death. Will he be able to uncover the truth behind these horrifying events, or will the nightmare that is Hinamizawa consume him? The tale unfolds in a series of gripping arcs, revealing the shocking truth behind the village's dark legacy.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1b502906e652e669",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.977604380202156,
+    "arithmeticGeometricMean": 7.976760964518861,
+    "median": 7.961595628415302,
+    "hash": "1b502906e652e669",
+    "lastUpdate": "2024-05-09"
+  }
+}

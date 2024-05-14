@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14216",
+    "https://anime-planet.com/anime/hawaiian-conu",
+    "https://anisearch.com/anime/13957",
+    "https://myanimelist.net/anime/38008"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9baf0c5f89fd7cf5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.599265306122449,
+    "arithmeticGeometricMean": 6.596445903133496,
+    "median": 6.599265306122449,
+    "hash": "9baf0c5f89fd7cf5",
+    "lastUpdate": "2024-05-07"
+  }
+}

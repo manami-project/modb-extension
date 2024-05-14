@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12540",
+    "https://anilist.co/anime/169031",
+    "https://anime-planet.com/anime/persia-no-komoriuta-watashi-no-hana",
+    "https://kitsu.io/anime/10301",
+    "https://myanimelist.net/anime/29177",
+    "https://notify.moe/anime/mfz8pKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d51c2189eb143d15",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.124472727272727,
+    "arithmeticGeometricMean": 5.085713300051013,
+    "median": 4.636363636363637,
+    "hash": "d51c2189eb143d15",
+    "lastUpdate": "2024-05-08"
+  }
+}

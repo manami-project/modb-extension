@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5085",
+    "https://anilist.co/anime/2176",
+    "https://anime-planet.com/anime/kiddy-grade-ignition",
+    "https://anisearch.com/anime/4184",
+    "https://kitsu.io/anime/1971",
+    "https://livechart.me/anime/10243",
+    "https://myanimelist.net/anime/2176",
+    "https://notify.moe/anime/DjRE5Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7db0675a7060d7fd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.6858127043025,
+    "arithmeticGeometricMean": 6.673216883322827,
+    "median": 6.8,
+    "hash": "7db0675a7060d7fd",
+    "lastUpdate": "2024-05-09"
+  }
+}

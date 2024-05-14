@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/720",
+    "https://anilist.co/anime/87",
+    "https://anime-planet.com/anime/mobile-suit-gundam-chars-counterattack",
+    "https://anisearch.com/anime/394",
+    "https://kitsu.io/anime/66",
+    "https://livechart.me/anime/4944",
+    "https://myanimelist.net/anime/87",
+    "https://notify.moe/anime/nett5Kimg"
+  ],
+  "synopsis": {
+    "text": "Earth's fate hangs in the balance in U.C. 0093, as the notorious Char Aznable resurfaces to lead the Neo Zeon army in a new war against the Earth Federation. Determined to create a nuclear winter and force humanity to colonize space, Char threatens to unleash the devastating power of the Axis asteroid. Standing in his way is his arch-nemesis and legendary Gundam pilot, Amuro Ray, who, armed with the powerful Nu Gundam, must thwart Char's apocalyptic ambitions. As the final battle between these two rivals unfolds, Amuro must confront his own inner turmoil, caught between his desire for vengeance, his duty to protect Earth, and the love that binds him to his fellow comrades in the Federation. The stage is set for an epic showdown that will determine the future of humanity in this thrilling conclusion to the original Mobile Suit Gundam series.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3aa30866b35f6299",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.490273345701917,
+    "arithmeticGeometricMean": 7.488324456959474,
+    "median": 7.612181818181818,
+    "hash": "3aa30866b35f6299",
+    "lastUpdate": "2024-05-09"
+  }
+}

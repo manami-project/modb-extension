@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/the-present",
+    "https://myanimelist.net/anime/53046"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db8ae62e8f267e06",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.928,
+    "arithmeticGeometricMean": 6.928,
+    "median": 6.928,
+    "hash": "db8ae62e8f267e06",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12075",
+    "https://anilist.co/anime/102912",
+    "https://anime-planet.com/anime/shinran-shounin-to-ousha-jou-no-higeki",
+    "https://anisearch.com/anime/11837",
+    "https://kitsu.io/anime/13403",
+    "https://myanimelist.net/anime/34926",
+    "https://notify.moe/anime/GBf72FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "403c75b296879189",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.727272727272727,
+    "arithmeticGeometricMean": 4.7233350619290055,
+    "median": 4.727272727272727,
+    "hash": "403c75b296879189",
+    "lastUpdate": "2024-05-07"
+  }
+}

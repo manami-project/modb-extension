@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12669",
+    "https://anilist.co/anime/103986",
+    "https://anime-planet.com/anime/makkuramori-no-uta",
+    "https://anisearch.com/anime/6815",
+    "https://kitsu.io/anime/8848",
+    "https://myanimelist.net/anime/21715",
+    "https://notify.moe/anime/ghSxpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e28551dbf16fd7f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.565190034455341,
+    "arithmeticGeometricMean": 5.5399901146972415,
+    "median": 5.545454545454546,
+    "hash": "0e28551dbf16fd7f",
+    "lastUpdate": "2024-05-07"
+  }
+}

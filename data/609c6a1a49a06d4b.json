@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16681",
+    "https://anilist.co/anime/139212",
+    "https://anime-planet.com/anime/cardfight-vanguard-overdress-3rd-season",
+    "https://anisearch.com/anime/16722",
+    "https://kitsu.io/anime/45214",
+    "https://livechart.me/anime/10786",
+    "https://myanimelist.net/anime/49819",
+    "https://notify.moe/anime/yiME0BIng"
+  ],
+  "synopsis": {
+    "text": "Haneyama, a young girl with a natural talent for card games, finds herself in an unexpected adventure when she stumbles upon Team Blackout at an amusement park. Led by the skilled Yu-yu Kondo, the team is preparing for the Deluxe tournament, an event that aims to crown the ultimate champion by bringing together both official tournament players and underground fighters who compete for flags.\n\nFour months after the Nagoya Castle battle, Yu-yu and his friends receive an invitation to this prestigious tournament. They will be facing off against new challengers from will+Dress, such as the former U20 world champion Michiru Hazama and the student council president of Yu-yu's school, Raika Koshiba.\n\nAs the tournament progresses, it becomes clear that the road to the finals will be a difficult one for Team Blackout. With the preliminary round already presenting its own set of challenges, will Yu-yu and his team be able to emerge victorious and claim the title of the strongest fighters? Only time will tell as they continue to compete in the thrilling Deluxe tournament.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "609c6a1a49a06d4b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.332424489795918,
+    "arithmeticGeometricMean": 6.302174363061086,
+    "median": 6.106122448979591,
+    "hash": "609c6a1a49a06d4b",
+    "lastUpdate": "2024-05-09"
+  }
+}

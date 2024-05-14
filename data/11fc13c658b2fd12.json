@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145611",
+    "https://anime-planet.com/anime/purple-river-yincang-hudong-ju",
+    "https://kitsu.io/anime/45958",
+    "https://myanimelist.net/anime/51197"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "11fc13c658b2fd12",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.695,
+    "arithmeticGeometricMean": 6.6915240701631555,
+    "median": 6.695,
+    "hash": "11fc13c658b2fd12",
+    "lastUpdate": "2024-05-07"
+  }
+}

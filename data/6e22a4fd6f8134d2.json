@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15755",
+    "https://anilist.co/anime/121799",
+    "https://anime-planet.com/anime/anime-kapibarasan",
+    "https://anisearch.com/anime/15444",
+    "https://kitsu.io/anime/43431",
+    "https://livechart.me/anime/10080",
+    "https://myanimelist.net/anime/42514",
+    "https://notify.moe/anime/O0G1JhIGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6e22a4fd6f8134d2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.496467532467533,
+    "arithmeticGeometricMean": 6.480208876404594,
+    "median": 6.454545454545455,
+    "hash": "6e22a4fd6f8134d2",
+    "lastUpdate": "2024-05-08"
+  }
+}

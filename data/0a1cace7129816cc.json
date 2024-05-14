@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10896",
+    "https://anilist.co/anime/20947",
+    "https://kitsu.io/anime/10012",
+    "https://livechart.me/anime/1412",
+    "https://myanimelist.net/anime/28149",
+    "https://notify.moe/anime/fvUPtKiiR"
+  ],
+  "synopsis": {
+    "text": "Memoirs from the Japanese animation world come to life in the 'Japan Anima(tor)'s Exhibition' - a unique digital series presented by Studio Khara and Dwango. This vibrant collection of short films transcends genres, featuring original projects, spin-offs, promotional films, music videos, and VJ films, all crafted with love and energy by a diverse group of talented directors.\n\nThis collaborative series serves as a platform for nurturing new animators and pushing the boundaries of creative film production within a limited period and budget. By showcasing a variety of standalone anime shorts, it offers a glimpse into the future of the industry, highlighting rising talents, cutting-edge techniques, and experimental aesthetic designs.\n\nFrom \"The Dragon Dentist\" to \"Cassette Girl,\" each episode presents a unique narrative and visual style, offering an engaging and immersive experience for viewers. With 35 episodes in total, including the special two-part episode #20, this series is a testament to the limitless possibilities of anime. Dive into this extraordinary exhibition and witness the evolution of storytelling in the world of Japanese animation.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0a1cace7129816cc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.4292050130939025,
+    "arithmeticGeometricMean": 7.42823085983529,
+    "median": 7.383978675645341,
+    "hash": "0a1cace7129816cc",
+    "lastUpdate": "2024-05-09"
+  }
+}

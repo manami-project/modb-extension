@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8158",
+    "https://anilist.co/anime/9793",
+    "https://anime-planet.com/anime/senjou-no-valkyria-3-tagatame-no-juusou",
+    "https://anisearch.com/anime/6686",
+    "https://kitsu.io/anime/5871",
+    "https://livechart.me/anime/5559",
+    "https://myanimelist.net/anime/9793",
+    "https://notify.moe/anime/izYMpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "290656f1690e54ae",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.180754836999735,
+    "arithmeticGeometricMean": 7.177796380017334,
+    "median": 7.26,
+    "hash": "290656f1690e54ae",
+    "lastUpdate": "2024-05-09"
+  }
+}

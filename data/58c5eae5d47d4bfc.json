@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4259",
+    "https://anilist.co/anime/3828",
+    "https://anime-planet.com/anime/maegami-tarou",
+    "https://anisearch.com/anime/2775",
+    "https://kitsu.io/anime/3282",
+    "https://livechart.me/anime/12047",
+    "https://myanimelist.net/anime/3828",
+    "https://notify.moe/anime/ASBlcFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "58c5eae5d47d4bfc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.580926716141002,
+    "arithmeticGeometricMean": 5.549060191475365,
+    "median": 5.136363636363637,
+    "hash": "58c5eae5d47d4bfc",
+    "lastUpdate": "2024-05-09"
+  }
+}

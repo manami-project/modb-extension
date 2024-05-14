@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16687",
+    "https://anilist.co/anime/131239",
+    "https://anime-planet.com/anime/luo-xiaohei-zhan-ji-zhongsheng-zhi-men",
+    "https://kitsu.io/anime/46695",
+    "https://myanimelist.net/anime/48791",
+    "https://notify.moe/anime/1wOu52CMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6a601c44d80f2498",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.229163636363635,
+    "arithmeticGeometricMean": 7.210829200676379,
+    "median": 6.75,
+    "hash": "6a601c44d80f2498",
+    "lastUpdate": "2024-05-08"
+  }
+}

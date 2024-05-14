@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8557",
+    "https://anilist.co/anime/11705",
+    "https://anime-planet.com/anime/dragon-age-dawn-of-the-seeker",
+    "https://anisearch.com/anime/7323",
+    "https://kitsu.io/anime/6571",
+    "https://livechart.me/anime/5883",
+    "https://myanimelist.net/anime/11705",
+    "https://notify.moe/anime/4_8ItFiig"
+  ],
+  "synopsis": {
+    "text": "Cassandra, a daring and impulsive Seeker, is a member of the Chantry's most elite order, tasked with maintaining order in a world plagued by dark magic and chaos. The Chantry, led by the Divine, seeks to control the Mages and their clandestine groups through the Templar warriors. However, when the Templars fall short, the Seekers step in.\n\nAccused of treason, Cassandra finds herself in a race against time to clear her name and expose a sinister plot threatening the Chantry's very core. Her mission to rescue a young elf girl, Avexis, from a group of rogue mages takes an unexpected turn when they are ambushed, and Avexis is kidnapped once again. Cassandra's partner, Byron, pays the ultimate price, leaving Cassandra with the haunting reminder that vengeance is not the solution.\n\nAs Cassandra forms an unlikely alliance with Regalyan, a mage claiming to be Byron's contact, they uncover a conspiracy that could shake the Church's highest echelons. Framed for a murder they didn't commit, Cassandra and Regalyan must navigate a dangerous world of Templars and mages to prevent catastrophe and prove their innocence. With the stakes higher than ever, Cassandra must confront her inner demons and find the strength to restore order to the realm.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "01c3db140f41e6e8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.072947256824807,
+    "arithmeticGeometricMean": 6.067814243645938,
+    "median": 6.07,
+    "hash": "01c3db140f41e6e8",
+    "lastUpdate": "2024-05-09"
+  }
+}

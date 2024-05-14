@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/697",
+    "https://anilist.co/anime/2498",
+    "https://anime-planet.com/anime/slam-dunk-movie-3",
+    "https://anisearch.com/anime/3384",
+    "https://kitsu.io/anime/2267",
+    "https://livechart.me/anime/5654",
+    "https://myanimelist.net/anime/2498",
+    "https://notify.moe/anime/2keEcFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "715bffef94e343a6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.5149743351886205,
+    "arithmeticGeometricMean": 7.505143527627908,
+    "median": 7.517,
+    "hash": "715bffef94e343a6",
+    "lastUpdate": "2024-05-10"
+  }
+}

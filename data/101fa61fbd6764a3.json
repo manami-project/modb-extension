@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18194",
+    "https://anilist.co/anime/169295",
+    "https://anime-planet.com/anime/bang-dream-ave-mujica",
+    "https://anisearch.com/anime/18698",
+    "https://kitsu.io/anime/47943",
+    "https://livechart.me/anime/12328",
+    "https://myanimelist.net/anime/56653",
+    "https://notify.moe/anime/HincHoiSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "101fa61fbd6764a3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "101fa61fbd6764a3",
+    "lastUpdate": "2024-05-11"
+  }
+}

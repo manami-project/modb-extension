@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1221",
+    "https://anilist.co/anime/1338",
+    "https://anime-planet.com/anime/tokyo-revelation",
+    "https://anisearch.com/anime/165",
+    "https://kitsu.io/anime/1193",
+    "https://livechart.me/anime/9156",
+    "https://myanimelist.net/anime/1338",
+    "https://notify.moe/anime/CAQxcKmmg"
+  ],
+  "synopsis": {
+    "text": "That the bustling streets of Tokyo are being plagued by malevolent demons, preying on unsuspecting citizens, is no secret. Meanwhile, Akito Kobayashi, a former pariah turned computer enthusiast, returns to his local high school with a sinister plan. Armed with a unique computer program and magnetite, the life essence of humans, he intends to summon the most formidable demon, Ose, to wipe out humanity.\n\nStanding in his path are Kojiro Soma, a childhood acquaintance, and two spiritual ninjas, Takehiko Kuki and Marika Kusaka, who have been safeguarding the gods for centuries. Kojiro, unbeknownst to himself, possesses the power to thwart this impending doom, but first, he must confront his inner demons and embrace his destiny.\n\nAs the city descends into chaos, and friends become targets of demonic forces, Kojiro and his allies must harness their metaphysical abilities to vanquish Akito's menacing scheme. Failure is not an option, as the fate of their loved ones and humanity hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ff3db57dc92f992",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2742602703419035,
+    "arithmeticGeometricMean": 5.258897117145041,
+    "median": 5.17,
+    "hash": "7ff3db57dc92f992",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1534",
+    "https://anilist.co/anime/1495",
+    "https://anime-planet.com/anime/maetel-legend",
+    "https://anisearch.com/anime/172",
+    "https://kitsu.io/anime/1341",
+    "https://livechart.me/anime/10498",
+    "https://myanimelist.net/anime/1495",
+    "https://notify.moe/anime/3G5a5Fmig"
+  ],
+  "synopsis": {
+    "text": "He aded by Queen La Andromeda Prometheum, the inhabitants of the icy planet La Metalle cling to life under an artificial sun that is on the brink of extinction. Desperate to save her people, the queen endorses Hardgear's transformation process, turning everyone into machines to survive the inhospitable environment. However, the queen's daughters, Emeraldas and Maetel, stand firm in their resistance to this mechanization, choosing to remain human in the face of adversity. As the evil scientist tightens his grip, the sisters must decide whether to sacrifice their humanity to save their dying world or defy their mother and fight for their freedom. In this gripping tale, Maetel, one of Matsumoto's most enigmatic creations, takes center stage as she navigates the treacherous path between survival and preserving the essence of what it means to be human.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee4124d689870309",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.53479459316194,
+    "arithmeticGeometricMean": 6.530765254374878,
+    "median": 6.454545454545455,
+    "hash": "ee4124d689870309",
+    "lastUpdate": "2024-05-09"
+  }
+}

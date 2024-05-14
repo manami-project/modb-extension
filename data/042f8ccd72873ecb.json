@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6981",
+    "https://anilist.co/anime/7771",
+    "https://anime-planet.com/anime/chiisana-jumbo",
+    "https://anisearch.com/anime/3637",
+    "https://kitsu.io/anime/5116",
+    "https://myanimelist.net/anime/7771",
+    "https://notify.moe/anime/iCTzpKimg"
+  ],
+  "synopsis": {
+    "text": "Baloo, a young elephant trainer, and his beloved white elephant, Jumbo, embark on an unexpected journey when they find themselves washed ashore on the enchanting Beautiful Island, a hidden paradise brimming with delectable food, cheerful creatures, and a benevolent ruler known as The King. As Baloo and Jumbo quickly forge friendships with the island's inhabitants, their tranquil existence is disrupted by a looming conflict between two neighboring islands.\n\nThis colorful and meticulously animated musical is the first anime feature produced by Sanrio, based on a story by Yanase Takashi. While it shares the same roots as Takashi's The Bell of Chirin, Jumbo offers a stark contrast in style, exuding a light-hearted and cartoonish charm that belies its serious underlying themes. Fans of Takashi's earlier work, The Kindly Lion (1970), will appreciate the film's unique blend of vivid animation and a bold dramatic form.\n\nJumbo is a delightful cinematic experience that will captivate both children and animation enthusiasts alike, providing an engaging and thought-provoking tale set against the backdrop of a seemingly idyllic island paradise on the brink of war.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "042f8ccd72873ecb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.538642459581236,
+    "arithmeticGeometricMean": 5.513646030017806,
+    "median": 5.545454545454546,
+    "hash": "042f8ccd72873ecb",
+    "lastUpdate": "2024-05-07"
+  }
+}

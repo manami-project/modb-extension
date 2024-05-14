@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18343",
+    "https://anilist.co/anime/172258",
+    "https://anime-planet.com/anime/the-100-girlfriends-who-really-really-really-really-really-love-you-season-2",
+    "https://anisearch.com/anime/18980",
+    "https://kitsu.io/anime/48348",
+    "https://livechart.me/anime/12476",
+    "https://myanimelist.net/anime/57616",
+    "https://notify.moe/anime/TzlDgBOSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fbc92293d3a93302",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.408163265306122,
+    "arithmeticGeometricMean": 5.408163265306122,
+    "median": 5.408163265306122,
+    "hash": "fbc92293d3a93302",
+    "lastUpdate": "2024-05-09"
+  }
+}

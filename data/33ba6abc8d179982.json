@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13950",
+    "https://anilist.co/anime/101410",
+    "https://anime-planet.com/anime/quanzhi-gaoshou-tebie-pian",
+    "https://anisearch.com/anime/13595",
+    "https://kitsu.io/anime/41158",
+    "https://livechart.me/anime/3248",
+    "https://myanimelist.net/anime/37078",
+    "https://notify.moe/anime/9Ejynbiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33ba6abc8d179982",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.092449392583932,
+    "arithmeticGeometricMean": 8.090732674533477,
+    "median": 8.105454545454545,
+    "hash": "33ba6abc8d179982",
+    "lastUpdate": "2024-05-09"
+  }
+}

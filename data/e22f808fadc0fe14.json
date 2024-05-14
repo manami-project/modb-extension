@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14242",
+    "https://anilist.co/anime/104989",
+    "https://anime-planet.com/anime/cinderella-nine",
+    "https://anisearch.com/anime/13778",
+    "https://kitsu.io/anime/42144",
+    "https://livechart.me/anime/3443",
+    "https://myanimelist.net/anime/38091",
+    "https://notify.moe/anime/bs3-qlqmg"
+  ],
+  "synopsis": {
+    "text": "Municipal High School's baseball club is a distant memory, until Tsubasa Arihara steps onto the scene. With a deep-seated love for the sport, she takes it upon herself to establish a Girls' Baseball Club. The team is a motley crew of novices, returnees, and those seeking new challenges, all bound by their shared enthusiasm for baseball. As they navigate through the ups and downs of adolescence, they find themselves clashing, reconciling, and supporting each other through it all. Meanwhile, an unnamed former baseball prodigy, scarred by an injury and vowing never to play again, finds himself in the same high school. Tsubasa's infectious passion reignites his dormant love for the game, leading him to manage the girls' team and set their sights on the prestigious high school nationals at Koshien. Brace yourself for a summer brimming with camaraderie, rivalry, and the thrill of baseball!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e22f808fadc0fe14",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.23098051948052,
+    "arithmeticGeometricMean": 6.218542008383079,
+    "median": 6.162,
+    "hash": "e22f808fadc0fe14",
+    "lastUpdate": "2024-05-09"
+  }
+}

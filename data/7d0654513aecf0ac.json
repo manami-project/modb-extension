@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8375",
+    "https://anilist.co/anime/10681",
+    "https://anime-planet.com/anime/blood-c-the-last-dark",
+    "https://anisearch.com/anime/7003",
+    "https://kitsu.io/anime/6288",
+    "https://livechart.me/anime/933",
+    "https://myanimelist.net/anime/10681",
+    "https://notify.moe/anime/wHA4pFimg"
+  ],
+  "synopsis": {
+    "text": "With the city of Tokyo under the iron grip of Fumito Nanahara and his secret organization, 'Tower', a group of young rebels known as SIRRUT take a stand against the oppressive Youth Ordinance Bill and the horrifying human experimentation happening behind the scenes. As they delve deeper into the digital world to expose the truth, they find themselves face-to-face with monstrous creatures unleashed upon the subway. In the midst of chaos, a young blade-wielding warrior named Saya emerges as humanity's last hope against these nightmarish beings. Haunted by her past and driven by vengeance, Saya joins forces with SIRRUT to bring down Fumito and 'Tower'. As the final battle unfolds, can Saya's thirst for revenge finally be quenched, or will she fall victim to the very darkness she seeks to destroy?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d0654513aecf0ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.137652429637232,
+    "arithmeticGeometricMean": 7.134278079306625,
+    "median": 7.2219999999999995,
+    "hash": "7d0654513aecf0ac",
+    "lastUpdate": "2024-05-09"
+  }
+}

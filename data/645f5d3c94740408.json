@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2021",
+    "https://anilist.co/anime/5829",
+    "https://anime-planet.com/anime/blocker-corps",
+    "https://anisearch.com/anime/1456",
+    "https://kitsu.io/anime/4292",
+    "https://livechart.me/anime/6999",
+    "https://myanimelist.net/anime/5829",
+    "https://notify.moe/anime/a86jcFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "645f5d3c94740408",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.299134817563389,
+    "arithmeticGeometricMean": 5.231072368914876,
+    "median": 5.291363636363636,
+    "hash": "645f5d3c94740408",
+    "lastUpdate": "2024-05-09"
+  }
+}

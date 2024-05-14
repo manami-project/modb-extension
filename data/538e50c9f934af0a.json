@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8381",
+    "https://anilist.co/anime/10507",
+    "https://anime-planet.com/anime/inazuma-eleven-go",
+    "https://anisearch.com/anime/7041",
+    "https://kitsu.io/anime/6213",
+    "https://livechart.me/anime/1532",
+    "https://myanimelist.net/anime/10507",
+    "https://notify.moe/anime/68nVpKimR"
+  ],
+  "synopsis": {
+    "text": "Fifth Sector, a shadowy organization, has seized control over youth soccer in Japan, draining the once vibrant Raimon Jr. High of its passion for the sport. Enter Tenma Matsukaze, a first-year student and soccer enthusiast with impressive dribbling skills. Ten years have passed since Raimon's triumph at the prestigious Football Frontier International tournament, but the school's soccer spirit has faded under the oppressive influence of Fifth Sector.\n\nDetermined to restore Raimon's love for soccer, Tenma joins the school's soccer team, only to discover that the once-renowned club is now a mere puppet in the hands of Fifth Sector. The organization dictates the outcome of matches, leaving teams devoid of the thrill and excitement that once defined the beautiful game.\n\nWith the help of a former Raimon player and a group known as the Resistance, Tenma and his teammates embark on a courageous mission to challenge the tyranny of Fifth Sector. Their goal: to rekindle the passion for soccer and restore the integrity of the game they hold dear. Witness the thrilling journey of Inazuma Eleven Go as they fight against the odds to bring back the true essence of soccer!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "538e50c9f934af0a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.95537370301656,
+    "arithmeticGeometricMean": 6.950385754859203,
+    "median": 7.050454545454546,
+    "hash": "538e50c9f934af0a",
+    "lastUpdate": "2024-05-09"
+  }
+}

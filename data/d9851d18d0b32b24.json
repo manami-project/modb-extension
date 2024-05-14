@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126318",
+    "https://anime-planet.com/anime/the-adventures-of-the-little-prince-specials",
+    "https://anisearch.com/anime/17562",
+    "https://kitsu.io/anime/13207",
+    "https://myanimelist.net/anime/34014",
+    "https://notify.moe/anime/ZMEG2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d9851d18d0b32b24",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.2272727272727275,
+    "arithmeticGeometricMean": 5.224800910691198,
+    "median": 5.2272727272727275,
+    "hash": "d9851d18d0b32b24",
+    "lastUpdate": "2024-05-06"
+  }
+}

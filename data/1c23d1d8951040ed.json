@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11627",
+    "https://anilist.co/anime/103533",
+    "https://anime-planet.com/anime/kappa-no-ude",
+    "https://anisearch.com/anime/11958",
+    "https://kitsu.io/anime/11797",
+    "https://myanimelist.net/anime/31506",
+    "https://notify.moe/anime/EALqpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c23d1d8951040ed",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.763995052566481,
+    "arithmeticGeometricMean": 4.68617804650564,
+    "median": 5.045454545454545,
+    "hash": "1c23d1d8951040ed",
+    "lastUpdate": "2024-05-08"
+  }
+}

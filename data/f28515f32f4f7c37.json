@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/556",
+    "https://anilist.co/anime/116",
+    "https://anime-planet.com/anime/el-hazard-the-wanderers",
+    "https://anisearch.com/anime/3348",
+    "https://kitsu.io/anime/95",
+    "https://livechart.me/anime/8216",
+    "https://myanimelist.net/anime/116",
+    "https://notify.moe/anime/T5xpcFmmg"
+  ],
+  "synopsis": {
+    "text": "Katsuhiko Jinnai, fueled by a one-sided rivalry with his fellow Shinonome High School student Makoto Mizuhara, sabotages Makoto's latest scientific experiment. The resulting explosion catapults Makoto, Jinnai, Jinnai's sister Nanami, and their teacher Masamichi Fujisawa into a fantastical world known as El Hazard.\n\nIn El Hazard, Makoto and Fujisawa find themselves in the Kingdom of Roshtaria, where they quickly form an alliance with the princess, Rune Venus. Meanwhile, Jinnai aligns himself with the Bugrom, a race of giant insects intent on dominating El Hazard. Nanami, on the other hand, must fend for herself in the harsh desert environment.\n\nAs Makoto navigates this new world filled with magnificent sights and dangerous enemies, he becomes embroiled in a series of adventures involving the Holy Priestesses, the demon god Ifurita, and the relentless Bugrom. All the while, he remains determined to find a way back home to Earth.\n\nIn this thrilling anime, Makoto and his companions must rely on their wits, courage, and a dash of luck to survive in El Hazard and, ultimately, find their way back to their own world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f28515f32f4f7c37",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.76544553405778,
+    "arithmeticGeometricMean": 6.761890249666404,
+    "median": 6.818181818181818,
+    "hash": "f28515f32f4f7c37",
+    "lastUpdate": "2024-05-10"
+  }
+}

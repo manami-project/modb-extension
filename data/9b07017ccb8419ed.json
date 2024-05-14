@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4672",
+    "https://anilist.co/anime/2701",
+    "https://anime-planet.com/anime/little-susie-and-marvy",
+    "https://anisearch.com/anime/3810",
+    "https://kitsu.io/anime/2463",
+    "https://myanimelist.net/anime/2701",
+    "https://notify.moe/anime/bGUycFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b07017ccb8419ed",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.139146567717996,
+    "arithmeticGeometricMean": 5.098529536979596,
+    "median": 5.0,
+    "hash": "9b07017ccb8419ed",
+    "lastUpdate": "2024-05-08"
+  }
+}

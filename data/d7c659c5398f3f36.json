@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10998",
+    "https://anilist.co/anime/20999",
+    "https://anime-planet.com/anime/wooser-no-sono-higurashi-3",
+    "https://anisearch.com/anime/10104",
+    "https://kitsu.io/anime/10138",
+    "https://livechart.me/anime/1346",
+    "https://myanimelist.net/anime/29017",
+    "https://notify.moe/anime/bHpypFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7c659c5398f3f36",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.228397075713403,
+    "arithmeticGeometricMean": 6.207229875248783,
+    "median": 6.54,
+    "hash": "d7c659c5398f3f36",
+    "lastUpdate": "2024-05-10"
+  }
+}

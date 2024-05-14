@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11705",
+    "https://anilist.co/anime/103932",
+    "https://anime-planet.com/anime/anthology-with-cranes",
+    "https://anisearch.com/anime/11660",
+    "https://kitsu.io/anime/11674",
+    "https://myanimelist.net/anime/31760",
+    "https://notify.moe/anime/9H7qpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd7eaba989c6ad49",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.054918632388019,
+    "arithmeticGeometricMean": 5.026879132450743,
+    "median": 5.0,
+    "hash": "dd7eaba989c6ad49",
+    "lastUpdate": "2024-05-08"
+  }
+}

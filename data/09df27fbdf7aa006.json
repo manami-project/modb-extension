@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12092",
+    "https://anilist.co/anime/97953",
+    "https://anime-planet.com/anime/onizushi",
+    "https://anisearch.com/anime/11424",
+    "https://kitsu.io/anime/12178",
+    "https://livechart.me/anime/10235",
+    "https://myanimelist.net/anime/33213",
+    "https://notify.moe/anime/MKdghKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09df27fbdf7aa006",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.311549165120593,
+    "arithmeticGeometricMean": 5.2960203505605605,
+    "median": 5.07,
+    "hash": "09df27fbdf7aa006",
+    "lastUpdate": "2024-05-09"
+  }
+}

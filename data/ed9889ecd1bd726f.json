@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104361",
+    "https://anime-planet.com/anime/amaryllis",
+    "https://kitsu.io/anime/40859",
+    "https://myanimelist.net/anime/36056",
+    "https://notify.moe/anime/7kcOhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ed9889ecd1bd726f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.129272727272727,
+    "arithmeticGeometricMean": 5.093493245869622,
+    "median": 4.93,
+    "hash": "ed9889ecd1bd726f",
+    "lastUpdate": "2024-05-05"
+  }
+}

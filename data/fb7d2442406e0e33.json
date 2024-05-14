@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16097",
+    "https://anilist.co/anime/124230",
+    "https://anime-planet.com/anime/girls-frontline-chibi-theater-2",
+    "https://anisearch.com/anime/16173",
+    "https://kitsu.io/anime/42946",
+    "https://livechart.me/anime/10286",
+    "https://myanimelist.net/anime/42949",
+    "https://notify.moe/anime/x8sbRyFMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fb7d2442406e0e33",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.95824935064935,
+    "arithmeticGeometricMean": 5.867337564867097,
+    "median": 5.38,
+    "hash": "fb7d2442406e0e33",
+    "lastUpdate": "2024-05-09"
+  }
+}

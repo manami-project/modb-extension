@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/7429",
+    "https://myanimelist.net/anime/12059"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a30843498599784a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.206938775510204,
+    "arithmeticGeometricMean": 5.202227837420062,
+    "median": 5.206938775510204,
+    "hash": "a30843498599784a",
+    "lastUpdate": "2024-05-07"
+  }
+}

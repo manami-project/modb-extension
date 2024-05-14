@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/1003",
+    "https://anime-planet.com/anime/ah-my-goddess-tv-specials",
+    "https://anisearch.com/anime/9476",
+    "https://kitsu.io/anime/893",
+    "https://livechart.me/anime/5114",
+    "https://myanimelist.net/anime/1003",
+    "https://notify.moe/anime/nl21cFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b144f7f5838165ea",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.597073946461701,
+    "arithmeticGeometricMean": 7.596472608355012,
+    "median": 7.612244897959183,
+    "hash": "b144f7f5838165ea",
+    "lastUpdate": "2024-05-05"
+  }
+}

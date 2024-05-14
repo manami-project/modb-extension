@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10598",
+    "https://anilist.co/anime/20704",
+    "https://anime-planet.com/anime/anti-magic-academy-the-35th-test-platoon",
+    "https://anisearch.com/anime/9603",
+    "https://kitsu.io/anime/8669",
+    "https://livechart.me/anime/528",
+    "https://myanimelist.net/anime/24133",
+    "https://notify.moe/anime/v3pJpFiig"
+  ],
+  "synopsis": {
+    "text": "Herectics Inquisitors are the protectors of a world where magic wielders are on the brink of extinction and firearms have overpowered sorcery. The AntiMagic Academy trains these Inquisitors, dividing them into squads to foster teamwork. Among these squads, the 35th Test Platoon, or the 'Small Fry Platoon,' is notorious for its low rank and underperforming members. The squad's captain, Takeru Kusanagi, is a sword-wielder in a gun-dominated world, making him an oddity among his peers.\n\nThe arrival of Ouka Ootori, an elite pistol master with a rebellious streak, shakes up the squad's dynamics. Ouka, who has already qualified for witch-hunts, is forced to join the 35th Test Platoon as a punishment for breaking rules and killing a witch. Her strong opinions and clashes with the clumsy captain Takeru create tension within the group.\n\nDespite their differences, the eclectic team must learn to work together to prove their worth and climb the ranks at the AntiMagic Academy. With numerous challenges ahead, they will have ample opportunities to demonstrate their abilities and learn from their past mistakes. The question remains: can they put aside their differences and form a cohesive team capable of more than they seem?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c0bf5ea74fe1c3f8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.851495675827149,
+    "arithmeticGeometricMean": 6.848513657647776,
+    "median": 6.88969387755102,
+    "hash": "c0bf5ea74fe1c3f8",
+    "lastUpdate": "2024-05-10"
+  }
+}

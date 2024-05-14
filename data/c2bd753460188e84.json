@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16177",
+    "https://anilist.co/anime/131681",
+    "https://anime-planet.com/anime/attack-on-titan-the-final-season-part-ii",
+    "https://anisearch.com/anime/16103",
+    "https://kitsu.io/anime/44240",
+    "https://livechart.me/anime/10487",
+    "https://myanimelist.net/anime/48583",
+    "https://notify.moe/anime/g9nvf6wMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c2bd753460188e84",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.653987824675324,
+    "arithmeticGeometricMean": 8.65162616708058,
+    "median": 8.745000000000001,
+    "hash": "c2bd753460188e84",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/171444",
+    "https://anime-planet.com/anime/mirai-koushi-harima-sacla-nex-ray",
+    "https://anisearch.com/anime/13312",
+    "https://kitsu.io/anime/42695",
+    "https://myanimelist.net/anime/39056"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f0e17119098382f3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.5063256029684595,
+    "arithmeticGeometricMean": 5.495863542734766,
+    "median": 5.623181818181818,
+    "hash": "f0e17119098382f3",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12667",
+    "https://anilist.co/anime/104349",
+    "https://anime-planet.com/anime/shiawase-no-uta",
+    "https://anisearch.com/anime/11721",
+    "https://kitsu.io/anime/10634",
+    "https://myanimelist.net/anime/30081",
+    "https://notify.moe/anime/3McQpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd76738495550526",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.8946201961304,
+    "arithmeticGeometricMean": 4.843532097916958,
+    "median": 4.489795918367346,
+    "hash": "dd76738495550526",
+    "lastUpdate": "2024-05-08"
+  }
+}

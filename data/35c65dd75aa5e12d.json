@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115011",
+    "https://anime-planet.com/anime/break-ups",
+    "https://anisearch.com/anime/8833",
+    "https://kitsu.io/anime/8245",
+    "https://notify.moe/anime/R1TTtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35c65dd75aa5e12d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.603786394557822,
+    "arithmeticGeometricMean": 6.6008582817709485,
+    "median": 6.363636363636363,
+    "hash": "35c65dd75aa5e12d",
+    "lastUpdate": "2024-05-06"
+  }
+}

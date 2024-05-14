@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3979",
+    "https://anilist.co/anime/17487",
+    "https://anime-planet.com/anime/tantei-shounen-kageman",
+    "https://anisearch.com/anime/268",
+    "https://kitsu.io/anime/8367",
+    "https://myanimelist.net/anime/17487",
+    "https://notify.moe/anime/z9z0pFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a901c354553b0115",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.909090909090909,
+    "arithmeticGeometricMean": 4.90866998855742,
+    "median": 4.909090909090909,
+    "hash": "a901c354553b0115",
+    "lastUpdate": "2024-05-08"
+  }
+}

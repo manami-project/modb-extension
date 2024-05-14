@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115520",
+    "https://anime-planet.com/anime/awaiting",
+    "https://kitsu.io/anime/45063"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9309c18991720246",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.454545454545454,
+    "arithmeticGeometricMean": 4.454545454545454,
+    "median": 4.454545454545454,
+    "hash": "9309c18991720246",
+    "lastUpdate": "2024-05-05"
+  }
+}

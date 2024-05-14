@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7203",
+    "https://anilist.co/anime/9858",
+    "https://anime-planet.com/anime/bakusou-kyoudai-lets-and-go-wgp-bousou-mini-yonku-daitsuiseki",
+    "https://anisearch.com/anime/5881",
+    "https://kitsu.io/anime/5905",
+    "https://livechart.me/anime/10932",
+    "https://myanimelist.net/anime/9858",
+    "https://notify.moe/anime/fmQMtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "903584883c90037a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.011412138881527,
+    "arithmeticGeometricMean": 5.956665414750648,
+    "median": 6.090909090909091,
+    "hash": "903584883c90037a",
+    "lastUpdate": "2024-05-08"
+  }
+}

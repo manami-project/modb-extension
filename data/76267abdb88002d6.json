@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12209",
+    "https://anilist.co/anime/19209",
+    "https://anime-planet.com/anime/devour-dinner",
+    "https://anisearch.com/anime/12035",
+    "https://kitsu.io/anime/8218",
+    "https://myanimelist.net/anime/19209",
+    "https://notify.moe/anime/A6cotFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "76267abdb88002d6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.115667108401802,
+    "arithmeticGeometricMean": 5.0498303560641,
+    "median": 5.34,
+    "hash": "76267abdb88002d6",
+    "lastUpdate": "2024-05-08"
+  }
+}

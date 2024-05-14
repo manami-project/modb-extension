@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/neon-genesis-impacts",
+    "https://anisearch.com/anime/10766"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ee0a86cd1ba858a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.390081632653062,
+    "arithmeticGeometricMean": 6.389819078746747,
+    "median": 6.390081632653062,
+    "hash": "5ee0a86cd1ba858a",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5388",
+    "https://anilist.co/anime/6031",
+    "https://anime-planet.com/anime/osu-karate-bu",
+    "https://anisearch.com/anime/4422",
+    "https://kitsu.io/anime/4392",
+    "https://myanimelist.net/anime/6031",
+    "https://notify.moe/anime/Imt3cKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "647c94b3ea9279cb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.505028889477869,
+    "arithmeticGeometricMean": 6.492394360028167,
+    "median": 6.454545454545455,
+    "hash": "647c94b3ea9279cb",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15638",
+    "https://anilist.co/anime/115845",
+    "https://anime-planet.com/anime/wuxian-shaonu-48",
+    "https://anisearch.com/anime/14577",
+    "https://kitsu.io/anime/43400",
+    "https://livechart.me/anime/9954",
+    "https://myanimelist.net/anime/41913",
+    "https://notify.moe/anime/Ue6c9gkMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2afd0fd6849cf9b5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.355181818181818,
+    "arithmeticGeometricMean": 6.334774064013281,
+    "median": 6.355181818181818,
+    "hash": "2afd0fd6849cf9b5",
+    "lastUpdate": "2024-05-10"
+  }
+}

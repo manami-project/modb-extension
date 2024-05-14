@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5059",
+    "https://anilist.co/anime/6771",
+    "https://anime-planet.com/anime/mock-and-sweet",
+    "https://anisearch.com/anime/3730",
+    "https://kitsu.io/anime/4707",
+    "https://myanimelist.net/anime/6771",
+    "https://notify.moe/anime/rgQe5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "90d53d11b21bacae",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2800531849103285,
+    "arithmeticGeometricMean": 5.213185195273659,
+    "median": 5.136363636363637,
+    "hash": "90d53d11b21bacae",
+    "lastUpdate": "2024-05-08"
+  }
+}

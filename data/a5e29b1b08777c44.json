@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7048",
+    "https://anilist.co/anime/131519",
+    "https://anime-planet.com/anime/mellow",
+    "https://anisearch.com/anime/10384",
+    "https://kitsu.io/anime/9442",
+    "https://myanimelist.net/anime/27559",
+    "https://notify.moe/anime/041fpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5e29b1b08777c44",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.441027210884354,
+    "arithmeticGeometricMean": 5.421047836647061,
+    "median": 5.204081632653061,
+    "hash": "a5e29b1b08777c44",
+    "lastUpdate": "2024-05-07"
+  }
+}

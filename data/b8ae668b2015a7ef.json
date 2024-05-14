@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9719",
+    "https://anilist.co/anime/17655",
+    "https://anime-planet.com/anime/mobile-suit-gundam-age-memory-of-eden",
+    "https://anisearch.com/anime/8509",
+    "https://kitsu.io/anime/7689",
+    "https://livechart.me/anime/51",
+    "https://myanimelist.net/anime/17655",
+    "https://notify.moe/anime/up95tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8ae668b2015a7ef",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.221231380864034,
+    "arithmeticGeometricMean": 6.199642924022227,
+    "median": 6.704,
+    "hash": "b8ae668b2015a7ef",
+    "lastUpdate": "2024-05-09"
+  }
+}

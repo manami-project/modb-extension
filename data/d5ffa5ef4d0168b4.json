@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/160205",
+    "https://anime-planet.com/anime/insomniacs-after-school-special-animation-pv",
+    "https://anisearch.com/anime/16728",
+    "https://kitsu.io/anime/46995",
+    "https://myanimelist.net/anime/52822"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d5ffa5ef4d0168b4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.665502782931355,
+    "arithmeticGeometricMean": 6.66314271569812,
+    "median": 6.558,
+    "hash": "d5ffa5ef4d0168b4",
+    "lastUpdate": "2024-05-06"
+  }
+}

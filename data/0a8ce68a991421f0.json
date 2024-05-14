@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136854",
+    "https://anime-planet.com/anime/people-in-the-box-kaitai-shita-inu-no-blues",
+    "https://kitsu.io/anime/43668",
+    "https://myanimelist.net/anime/43293"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0a8ce68a991421f0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.0790303030303035,
+    "arithmeticGeometricMean": 6.073164496248498,
+    "median": 5.909090909090908,
+    "hash": "0a8ce68a991421f0",
+    "lastUpdate": "2024-05-07"
+  }
+}

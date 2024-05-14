@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3051",
+    "https://anilist.co/anime/7160",
+    "https://anime-planet.com/anime/yoroshiku-mechadock",
+    "https://anisearch.com/anime/940",
+    "https://kitsu.io/anime/4886",
+    "https://livechart.me/anime/9105",
+    "https://myanimelist.net/anime/7160",
+    "https://notify.moe/anime/3bxRpKimR"
+  ],
+  "synopsis": {
+    "text": "Kazami Jun, a skilled mechanic, leads the team at Mecha Doc, a renowned car tuning shop in Tokyo. Known as the 'mechanical doctors,' they specialize in transforming ordinary vehicles into high-performance machines. Their crowning achievement is Mechadock, a formidable racing car that has evolved from a humble economy car. Capable of conquering any terrain, Mechadock is a testament to Mecha Doc's expertise. However, if you're thinking of testing your street racing skills near their headquarters, be prepared for a driving lesson from Jun himself that you won't soon forget.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2582906e74263bcd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.309030479724357,
+    "arithmeticGeometricMean": 6.277832815160167,
+    "median": 6.545454545454545,
+    "hash": "2582906e74263bcd",
+    "lastUpdate": "2024-05-10"
+  }
+}

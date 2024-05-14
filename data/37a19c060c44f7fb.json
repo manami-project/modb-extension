@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1894",
+    "https://anilist.co/anime/3838",
+    "https://anime-planet.com/anime/himitsu-no-akko-chan-2",
+    "https://anisearch.com/anime/1031",
+    "https://kitsu.io/anime/3290",
+    "https://livechart.me/anime/12123",
+    "https://myanimelist.net/anime/3838",
+    "https://notify.moe/anime/hGLlcFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "37a19c060c44f7fb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.418371675943104,
+    "arithmeticGeometricMean": 6.394445306582195,
+    "median": 6.592115027829314,
+    "hash": "37a19c060c44f7fb",
+    "lastUpdate": "2024-05-09"
+  }
+}

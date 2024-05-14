@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7165",
+    "https://anime-planet.com/anime/captain-1980",
+    "https://anisearch.com/anime/5912",
+    "https://kitsu.io/anime/13187",
+    "https://livechart.me/anime/11315",
+    "https://myanimelist.net/anime/27915",
+    "https://notify.moe/anime/60-M2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b9ed05492c45b8cf",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.623559183673469,
+    "arithmeticGeometricMean": 5.592328923877527,
+    "median": 5.18,
+    "hash": "b9ed05492c45b8cf",
+    "lastUpdate": "2024-05-09"
+  }
+}

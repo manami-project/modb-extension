@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10005",
+    "https://anilist.co/anime/19825",
+    "https://anime-planet.com/anime/battle-spirits-saikyou-ginga-ultimate-zero",
+    "https://anisearch.com/anime/8909",
+    "https://kitsu.io/anime/7977",
+    "https://livechart.me/anime/208",
+    "https://myanimelist.net/anime/19825",
+    "https://notify.moe/anime/DYv2tKmiR"
+  ],
+  "synopsis": {
+    "text": "It is the era of Battle Spirits, where powerful cards are scattered across the cosmos, drawing adventurers known as 'Card Questers' into epic battles. Rei, a flamboyant and ambitious Card Quester, embarks on a journey to collect the strongest cards in the galaxy. Joined by his loyal companions - the mini dragon Mugen, a culinary robot named Salt, and the April siblings Laila and Rikuto - Rei transforms into the mighty Zero on the battlefield, utilizing various colors and Ultimate cards to defeat his adversaries.\n\nAs Rei and his friends search for the legendary Ultimate Battle Spirits card, they encounter diverse characters and settle disputes throughout the galaxy. Along the way, they clash with the nefarious Guild, a powerful organization determined to control space and claim the Ultimate Battle Spirits for themselves. With Rei's self-proclaimed status as the Number One Star at stake, he must confront the Guild and uncover the secrets of his own past in order to protect the fate of the universe.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e036955d90a23b1f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.000542804134641,
+    "arithmeticGeometricMean": 5.970889617266193,
+    "median": 6.1818181818181825,
+    "hash": "e036955d90a23b1f",
+    "lastUpdate": "2024-05-09"
+  }
+}

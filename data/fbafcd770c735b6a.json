@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8756",
+    "https://anilist.co/anime/11869",
+    "https://anime-planet.com/anime/bloody-night",
+    "https://anisearch.com/anime/7410",
+    "https://kitsu.io/anime/6622",
+    "https://livechart.me/anime/7339",
+    "https://myanimelist.net/anime/11869",
+    "https://notify.moe/anime/UcRNpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fbafcd770c735b6a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.9028425361486585,
+    "arithmeticGeometricMean": 3.8828746997618526,
+    "median": 4.090909090909091,
+    "hash": "fbafcd770c735b6a",
+    "lastUpdate": "2024-05-09"
+  }
+}

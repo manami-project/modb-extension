@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16291",
+    "https://anilist.co/anime/120324",
+    "https://anime-planet.com/anime/bai-gui-youeryuan-3rd-season",
+    "https://anisearch.com/anime/15447",
+    "https://kitsu.io/anime/43378",
+    "https://livechart.me/anime/10710",
+    "https://myanimelist.net/anime/42445"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24d0a07d363c0478",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.420540507111935,
+    "arithmeticGeometricMean": 6.412367090240657,
+    "median": 6.326530612244898,
+    "hash": "24d0a07d363c0478",
+    "lastUpdate": "2024-05-08"
+  }
+}

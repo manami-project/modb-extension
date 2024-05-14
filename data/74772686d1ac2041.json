@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3608",
+    "https://anilist.co/anime/9795",
+    "https://anime-planet.com/anime/atashinchi-movie",
+    "https://anisearch.com/anime/1293",
+    "https://kitsu.io/anime/5873",
+    "https://livechart.me/anime/12496",
+    "https://myanimelist.net/anime/9795",
+    "https://notify.moe/anime/QOLGpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "74772686d1ac2041",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.242956709956709,
+    "arithmeticGeometricMean": 6.219752032632286,
+    "median": 6.27987012987013,
+    "hash": "74772686d1ac2041",
+    "lastUpdate": "2024-05-08"
+  }
+}

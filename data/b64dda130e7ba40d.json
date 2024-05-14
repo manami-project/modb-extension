@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13814",
+    "https://anilist.co/anime/102234",
+    "https://anime-planet.com/anime/tu-xia-chuanqi",
+    "https://anisearch.com/anime/9725",
+    "https://kitsu.io/anime/12432",
+    "https://myanimelist.net/anime/32889",
+    "https://notify.moe/anime/GWhk2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b64dda130e7ba40d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.059751391465677,
+    "arithmeticGeometricMean": 5.02782694717314,
+    "median": 5.158163265306122,
+    "hash": "b64dda130e7ba40d",
+    "lastUpdate": "2024-05-08"
+  }
+}

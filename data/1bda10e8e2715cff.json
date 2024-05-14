@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6157",
+    "https://anilist.co/anime/5235",
+    "https://anime-planet.com/anime/live-on-cardliver-kakeru",
+    "https://anisearch.com/anime/5070",
+    "https://kitsu.io/anime/4004",
+    "https://myanimelist.net/anime/5235",
+    "https://notify.moe/anime/cMZj5Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1bda10e8e2715cff",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.878760667903525,
+    "arithmeticGeometricMean": 5.838632617507232,
+    "median": 6.0,
+    "hash": "1bda10e8e2715cff",
+    "lastUpdate": "2024-05-07"
+  }
+}

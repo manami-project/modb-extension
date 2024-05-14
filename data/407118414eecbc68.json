@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5251",
+    "https://anilist.co/anime/5992",
+    "https://anime-planet.com/anime/tsuyoshi-shikkari-shinasai",
+    "https://anisearch.com/anime/4319",
+    "https://kitsu.io/anime/4375",
+    "https://livechart.me/anime/7643",
+    "https://myanimelist.net/anime/5992",
+    "https://notify.moe/anime/yjOq5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "407118414eecbc68",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.839561091969256,
+    "arithmeticGeometricMean": 6.8272061916558435,
+    "median": 7.0,
+    "hash": "407118414eecbc68",
+    "lastUpdate": "2024-05-10"
+  }
+}

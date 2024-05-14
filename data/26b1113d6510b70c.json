@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15139",
+    "https://anilist.co/anime/112454",
+    "https://anime-planet.com/anime/ano-hi-no-kokoro-wo-toraete",
+    "https://anisearch.com/anime/14702",
+    "https://kitsu.io/anime/43673",
+    "https://livechart.me/anime/9636",
+    "https://myanimelist.net/anime/40517"
+  ],
+  "score": {
+    "arithmeticMean": 6.211609771181199,
+    "arithmeticGeometricMean": 6.206743873706294,
+    "median": 6.112454545454545,
+    "hash": "26b1113d6510b70c",
+    "lastUpdate": "2024-05-08"
+  }
+}

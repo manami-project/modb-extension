@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1807",
+    "https://anilist.co/anime/930",
+    "https://anime-planet.com/anime/space-runaway-ideon",
+    "https://anisearch.com/anime/946",
+    "https://kitsu.io/anime/828",
+    "https://livechart.me/anime/5423",
+    "https://myanimelist.net/anime/930",
+    "https://notify.moe/anime/14n15Kmmg"
+  ],
+  "synopsis": {
+    "text": "In the year 2300, humanity's thirst for knowledge propels them to the distant planet Solo, nestled within the Andromeda galaxy. Here, they unearth the enigmatic remnants of an extinct alien civilization, among which lies the Ideon, a colossal three-part robot. Unbeknownst to them, the Buff Clan, an extraterrestrial race, is also in pursuit of Ideon, the source of a legendary power known as Ide.\n\nAs Karala Ajiba, the Buff Clan's princess, descends upon Solo, a ruthless assault ensues, forcing Cosmo Yuki, Kasha Imhof, and Bes Jordan to commandeer the Ideon. In the ensuing chaos, the human colony is obliterated, and the survivors, including the Buff Princess, flee aboard a newly discovered spaceship.\n\nAs they endeavor to return to Earth, the relentless Buff Clan remains in hot pursuit, determined to reclaim their princess and seize the Ideon. With the Ideon as their only defense, the human survivors must decipher the true extent of its power before it's too late. Their journey becomes a desperate race against time, as they strive to unlock the secrets of the Ideon and find peace amidst the stars.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "df1465a5846d183a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.7373755632122965,
+    "arithmeticGeometricMean": 6.728842385566493,
+    "median": 6.732,
+    "hash": "df1465a5846d183a",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://kitsu.io/anime/43270",
+    "https://livechart.me/anime/8226"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "629037b3825a86c3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.75,
+    "arithmeticGeometricMean": 7.75,
+    "median": 7.75,
+    "hash": "629037b3825a86c3",
+    "lastUpdate": "2024-05-10"
+  }
+}

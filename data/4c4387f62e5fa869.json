@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5925",
+    "https://anilist.co/anime/4394",
+    "https://anime-planet.com/anime/norakuro-gochou",
+    "https://anisearch.com/anime/4890",
+    "https://kitsu.io/anime/3590",
+    "https://myanimelist.net/anime/4394",
+    "https://notify.moe/anime/6cEX5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c4387f62e5fa869",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.040606413994169,
+    "arithmeticGeometricMean": 5.018713439674561,
+    "median": 5.0,
+    "hash": "4c4387f62e5fa869",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12691",
+    "https://anilist.co/anime/98034",
+    "https://anime-planet.com/anime/the-disastrous-life-of-saiki-k-2nd-season",
+    "https://anisearch.com/anime/12617",
+    "https://kitsu.io/anime/13477",
+    "https://livechart.me/anime/2491",
+    "https://myanimelist.net/anime/34612",
+    "https://notify.moe/anime/oRC72FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "342f4c942898529a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.425874803767663,
+    "arithmeticGeometricMean": 8.425229261986367,
+    "median": 8.397272727272728,
+    "hash": "342f4c942898529a",
+    "lastUpdate": "2024-05-09"
+  }
+}

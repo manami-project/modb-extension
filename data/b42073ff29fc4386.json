@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2228",
+    "https://anilist.co/anime/5515",
+    "https://anime-planet.com/anime/wakusei-robo-danguard-a-uchuu-daikaisen",
+    "https://anisearch.com/anime/1557",
+    "https://kitsu.io/anime/4131",
+    "https://myanimelist.net/anime/5515",
+    "https://notify.moe/anime/dx1CcKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b42073ff29fc4386",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.209398268398268,
+    "arithmeticGeometricMean": 5.177383088433703,
+    "median": 5.140909090909091,
+    "hash": "b42073ff29fc4386",
+    "lastUpdate": "2024-05-07"
+  }
+}

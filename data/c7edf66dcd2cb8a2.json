@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14164",
+    "https://anilist.co/anime/109203",
+    "https://anime-planet.com/anime/yuukai-anna",
+    "https://anisearch.com/anime/13690",
+    "https://kitsu.io/anime/41880",
+    "https://livechart.me/anime/7608",
+    "https://myanimelist.net/anime/38017",
+    "https://notify.moe/anime/i2e_wdAmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c7edf66dcd2cb8a2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.089801749271137,
+    "arithmeticGeometricMean": 5.05454571435216,
+    "median": 4.636363636363637,
+    "hash": "c7edf66dcd2cb8a2",
+    "lastUpdate": "2024-05-10"
+  }
+}

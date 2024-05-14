@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6540",
+    "https://anilist.co/anime/6714",
+    "https://anime-planet.com/anime/dragon-ball-z-atsumare-goku-world",
+    "https://anisearch.com/anime/11462",
+    "https://kitsu.io/anime/4682",
+    "https://livechart.me/anime/6390",
+    "https://myanimelist.net/anime/6714",
+    "https://notify.moe/anime/aGLe5Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2d0da1e0a7f7ac4f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.432717532467533,
+    "arithmeticGeometricMean": 6.415879959089138,
+    "median": 6.487727272727273,
+    "hash": "2d0da1e0a7f7ac4f",
+    "lastUpdate": "2024-05-09"
+  }
+}

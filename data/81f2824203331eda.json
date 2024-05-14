@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14304",
+    "https://anilist.co/anime/102657",
+    "https://anime-planet.com/anime/dragon-nest-warriors-dawn",
+    "https://anisearch.com/anime/9774",
+    "https://kitsu.io/anime/9820",
+    "https://livechart.me/anime/6763",
+    "https://myanimelist.net/anime/27825",
+    "https://notify.moe/anime/Pv6LtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81f2824203331eda",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.184864033925258,
+    "arithmeticGeometricMean": 7.165965436801934,
+    "median": 7.127272727272728,
+    "hash": "81f2824203331eda",
+    "lastUpdate": "2024-05-09"
+  }
+}

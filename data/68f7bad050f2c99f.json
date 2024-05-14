@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/896",
+    "https://anilist.co/anime/147",
+    "https://anime-planet.com/anime/rumbling-hearts",
+    "https://anisearch.com/anime/1316",
+    "https://kitsu.io/anime/125",
+    "https://livechart.me/anime/3575",
+    "https://myanimelist.net/anime/147",
+    "https://notify.moe/anime/PcytcFmiR"
+  ],
+  "synopsis": {
+    "text": "Hayase Mitsuki, Suzumiya Haruka, and Narumi Takayuki were once inseparable friends, brought together by Haruka's crush on Takayuki. When Haruka confesses her love to Takayuki, he accepts, not wanting to hurt her feelings. As their relationship deepens, Takayuki and Mitsuki begin to develop feelings for each other, leading to a complicated love triangle. However, a tragic accident shatters their happiness, leaving one of them in a coma for three years. Upon awakening, the friends must confront the aftermath of the tragedy and navigate the complexities of their relationships. This poignant drama explores the consequences of choices made for love and the enduring bonds of friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "68f7bad050f2c99f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.422440012368583,
+    "arithmeticGeometricMean": 7.418032793681437,
+    "median": 7.283272727272728,
+    "hash": "68f7bad050f2c99f",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16105",
+    "https://anilist.co/anime/150201",
+    "https://anime-planet.com/anime/ojamajo-doremi-honobono-gekijou",
+    "https://myanimelist.net/anime/50848"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2cfc0cd53a7261c0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.968606060606061,
+    "arithmeticGeometricMean": 6.967755230965611,
+    "median": 6.904,
+    "hash": "2cfc0cd53a7261c0",
+    "lastUpdate": "2024-05-08"
+  }
+}

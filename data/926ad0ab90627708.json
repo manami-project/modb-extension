@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9722",
+    "https://anilist.co/anime/17549",
+    "https://anime-planet.com/anime/non-non-biyori",
+    "https://anisearch.com/anime/8390",
+    "https://kitsu.io/anime/7711",
+    "https://livechart.me/anime/93",
+    "https://myanimelist.net/anime/17549",
+    "https://notify.moe/anime/CGzppFiig"
+  ],
+  "synopsis": {
+    "text": "Natsumi, Komari, Renge, and Suguru welcome Hotaru Ichijo into their quaint, rural Asahigaoka Branch School, where the bustling city life of Tokyo is a distant memory. As the newest member of this close-knit group of just five students, Hotaru embraces the peaceful countryside living, despite the stark contrast to her previous urban lifestyle.\n\nWith a 20-minute bicycle ride to the nearest comic shop and a video store ten train stations away, Hotaru's new life is a far cry from the conveniences of Tokyo. However, the charm of her new friends and the serene atmosphere of the village make it an easy place to call home.\n\nAs she navigates the unique challenges and adventures of rural life, Hotaru discovers that the simple pleasures of friendship and the warmth of a close-knit community are more than enough to fill her heart. Through the changing seasons and the timeless traditions of the countryside, Hotaru learns that \"home\" is not defined by location, but by the people who make it special.\n\nJoin Hotaru and her friends in NON NON BIYORI as they explore the beauty of rural Japan and the bonds that bring them together.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "926ad0ab90627708",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.921080960504386,
+    "arithmeticGeometricMean": 7.920387363413794,
+    "median": 7.955381355932204,
+    "hash": "926ad0ab90627708",
+    "lastUpdate": "2024-05-09"
+  }
+}

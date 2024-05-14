@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169382",
+    "https://anime-planet.com/anime/empty-hands",
+    "https://kitsu.io/anime/48022"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "385fa8c6db3c83ca",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.272727272727273,
+    "arithmeticGeometricMean": 4.272727272727273,
+    "median": 4.272727272727273,
+    "hash": "385fa8c6db3c83ca",
+    "lastUpdate": "2024-05-07"
+  }
+}

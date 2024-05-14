@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10600",
+    "https://anilist.co/anime/99111",
+    "https://anime-planet.com/anime/meisou-underworld",
+    "https://anisearch.com/anime/9605",
+    "https://kitsu.io/anime/8464",
+    "https://livechart.me/anime/8838",
+    "https://myanimelist.net/anime/23837",
+    "https://notify.moe/anime/Mm2AtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d9222f858133c9b5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.575410018552875,
+    "arithmeticGeometricMean": 5.56219732059232,
+    "median": 5.708,
+    "hash": "d9222f858133c9b5",
+    "lastUpdate": "2024-05-09"
+  }
+}

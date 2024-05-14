@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16173",
+    "https://anilist.co/anime/132055",
+    "https://anime-planet.com/anime/uta-no-prince-sama-maji-love-starish-tours",
+    "https://anisearch.com/anime/16169",
+    "https://kitsu.io/anime/44421",
+    "https://livechart.me/anime/10493",
+    "https://myanimelist.net/anime/48573",
+    "https://notify.moe/anime/Pj3Zfiang"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "708704369f7b8619",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.149150278293135,
+    "arithmeticGeometricMean": 7.133197625223071,
+    "median": 7.216818181818182,
+    "hash": "708704369f7b8619",
+    "lastUpdate": "2024-05-10"
+  }
+}

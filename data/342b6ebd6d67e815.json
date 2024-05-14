@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15499",
+    "https://anilist.co/anime/117556",
+    "https://anime-planet.com/anime/aria-the-crepuscolo",
+    "https://anisearch.com/anime/15177",
+    "https://kitsu.io/anime/43481",
+    "https://livechart.me/anime/9888",
+    "https://myanimelist.net/anime/41674",
+    "https://notify.moe/anime/opJeT4qWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "342b6ebd6d67e815",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.953674264510999,
+    "arithmeticGeometricMean": 7.951028359402134,
+    "median": 8.014545454545454,
+    "hash": "342b6ebd6d67e815",
+    "lastUpdate": "2024-05-08"
+  }
+}

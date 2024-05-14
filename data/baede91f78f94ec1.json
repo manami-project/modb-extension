@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/703",
+    "https://anilist.co/anime/1416",
+    "https://anime-planet.com/anime/lupin-the-3rd-dead-or-alive",
+    "https://anisearch.com/anime/1643",
+    "https://kitsu.io/anime/1269",
+    "https://livechart.me/anime/7462",
+    "https://myanimelist.net/anime/1416",
+    "https://notify.moe/anime/ulk-cFiig"
+  ],
+  "synopsis": {
+    "text": "Inspector Zenigata and a fiery blonde officer, Oleander, are hot on the trail of the notorious master thief Lupin and his partners, Jigen and Goemon, as they embark on a daring quest to uncover the hidden treasure of Drifting Island, a mysterious island guarded by a deadly security system known as the Nanomachine. Lupin goes undercover as a prison warden in the Zufu Republic to gather information about the treasure's location, but when his presence is discovered, a $1 million bounty is placed on his head, attracting a band of ruthless bounty hunters. With the corrupt police chief and the ruthless dictator General Headhunter also standing in their way, Lupin and his gang must use all of their cunning and skill to outwit their enemies and claim the treasure. Will they be able to make it out alive, or will the treacherous Drifting Island be their final resting place?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "baede91f78f94ec1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.2397042141531935,
+    "arithmeticGeometricMean": 7.2371477990690165,
+    "median": 7.19,
+    "hash": "baede91f78f94ec1",
+    "lastUpdate": "2024-05-09"
+  }
+}

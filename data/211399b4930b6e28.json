@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7434",
+    "https://anilist.co/anime/6902",
+    "https://anime-planet.com/anime/romance-of-the-three-kingdoms-2010",
+    "https://anisearch.com/anime/5376",
+    "https://kitsu.io/anime/4780",
+    "https://livechart.me/anime/9095",
+    "https://myanimelist.net/anime/6902",
+    "https://notify.moe/anime/d0ZgpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "211399b4930b6e28",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.309283858998145,
+    "arithmeticGeometricMean": 6.268990352279347,
+    "median": 6.73,
+    "hash": "211399b4930b6e28",
+    "lastUpdate": "2024-05-09"
+  }
+}

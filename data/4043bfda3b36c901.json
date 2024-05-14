@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15972",
+    "https://anilist.co/anime/122654",
+    "https://anime-planet.com/anime/legendary-overlord-2nd-season",
+    "https://anisearch.com/anime/17309",
+    "https://kitsu.io/anime/44085",
+    "https://livechart.me/anime/10409",
+    "https://myanimelist.net/anime/45599",
+    "https://notify.moe/anime/cYSPg9LGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4043bfda3b36c901",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.822323232323232,
+    "arithmeticGeometricMean": 7.782828947190879,
+    "median": 7.696969696969697,
+    "hash": "4043bfda3b36c901",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12215",
+    "https://anilist.co/anime/114436",
+    "https://anime-planet.com/anime/tensai-banpaku-opening-animation",
+    "https://anisearch.com/anime/12359",
+    "https://kitsu.io/anime/10323",
+    "https://myanimelist.net/anime/29173",
+    "https://notify.moe/anime/5KMUtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b9f1059e4c854599",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.0243622228112015,
+    "arithmeticGeometricMean": 4.972934478892787,
+    "median": 5.18,
+    "hash": "b9f1059e4c854599",
+    "lastUpdate": "2024-05-08"
+  }
+}

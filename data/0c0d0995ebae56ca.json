@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13753",
+    "https://anilist.co/anime/101002",
+    "https://anime-planet.com/anime/crossing-time",
+    "https://anisearch.com/anime/13272",
+    "https://kitsu.io/anime/41086",
+    "https://livechart.me/anime/3058",
+    "https://myanimelist.net/anime/37188",
+    "https://notify.moe/anime/q4HKhKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0c0d0995ebae56ca",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.485809725158562,
+    "arithmeticGeometricMean": 6.481252222732744,
+    "median": 6.381818181818181,
+    "hash": "0c0d0995ebae56ca",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1615",
+    "https://anilist.co/anime/3882",
+    "https://anime-planet.com/anime/cybernetics-guardian",
+    "https://anisearch.com/anime/1371",
+    "https://kitsu.io/anime/3322",
+    "https://livechart.me/anime/7805",
+    "https://myanimelist.net/anime/3882",
+    "https://notify.moe/anime/ldQlcFmiR"
+  ],
+  "synopsis": {
+    "text": "Machine-human fusion, a new energy source, has propelled advancements in cybernetic medicine, yet the sprawling metropolis of Cyber-Wood remains plagued by crime and violence, particularly in its notorious slum, Cancer. A researcher, John Stalker, is chosen to test an innovative, peace-promoting armor that harnesses spiritual energy. However, a rival scientist seizes this opportunity to test his own lethal creation, the Genocyber Killing Machine, and settle a personal score.\n\nDuring the test, a sinister cult with intentions of resurrecting the God of Darkness, sees John as the perfect vessel. A freak accident ensues, transforming John into Saldo, a cybernetic beast powered by malevolence and wickedness. As John's girlfriend and a seasoned cop embark on a mission to rescue him, they are left aghast when they discover that the man they seek has become an embodiment of evil. Amidst the chaos, the Central Guard Company is tasked with restoring order in the slums, as the city's fate hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "418d57c7cb342856",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.185651736019083,
+    "arithmeticGeometricMean": 5.174215966041867,
+    "median": 5.216,
+    "hash": "418d57c7cb342856",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7569",
+    "https://anilist.co/anime/8726",
+    "https://anime-planet.com/anime/and-yet-the-town-moves",
+    "https://anisearch.com/anime/6255",
+    "https://kitsu.io/anime/5462",
+    "https://livechart.me/anime/4074",
+    "https://myanimelist.net/anime/8726",
+    "https://notify.moe/anime/fH3itKiig"
+  ],
+  "synopsis": {
+    "text": "Arashiyama, a high school girl with a penchant for mysteries and a reputation for her fiery temper, finds herself working at a struggling maid café in her local shopping district. The café, far from the typical maid café experience, is frequented only by a handful of customers, including Sanada, Arashiyama's classmate who harbors a secret affection for her.\n\nWhen Arashiyama's clever friend Tatsuno joins the café's staff, she brings with her a wealth of knowledge about maid cafés and a secret crush on Sanada. Together, the trio navigates the chaotic world of adolescence, filled with unrequited love, comedic mishaps, and the constant struggle to attract more customers to their lackluster café.\n\nDespite the café's humble offerings and Arashiyama's less-than-graceful attempts to balance school, work, and her personal life, the group manages to create a series of hilarious and heartwarming everyday adventures. Will Arashiyama and her friends be able to transform the café into a successful establishment, or will their antics lead to even more chaos? Only time will tell in the wild and unpredictable world of Sore Machi.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5786d0ebd3bb2ed7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.369094155844156,
+    "arithmeticGeometricMean": 7.366799801540236,
+    "median": 7.415,
+    "hash": "5786d0ebd3bb2ed7",
+    "lastUpdate": "2024-05-10"
+  }
+}

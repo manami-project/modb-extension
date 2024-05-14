@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118857",
+    "https://anime-planet.com/anime/eve-inochi-no-tabekata",
+    "https://anisearch.com/anime/16051",
+    "https://kitsu.io/anime/43427",
+    "https://myanimelist.net/anime/42076"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b9b67cfda6871fe",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.7578820037105745,
+    "arithmeticGeometricMean": 7.753723981237189,
+    "median": 7.81,
+    "hash": "5b9b67cfda6871fe",
+    "lastUpdate": "2024-05-06"
+  }
+}

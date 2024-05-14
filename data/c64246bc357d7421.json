@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/131572",
+    "https://anime-planet.com/anime/popolocrois-monogatari-pilot",
+    "https://kitsu.io/anime/43356",
+    "https://myanimelist.net/anime/40078"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c64246bc357d7421",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.170848484848484,
+    "arithmeticGeometricMean": 6.151919250009679,
+    "median": 5.95,
+    "hash": "c64246bc357d7421",
+    "lastUpdate": "2024-05-07"
+  }
+}

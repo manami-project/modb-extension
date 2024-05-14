@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18338",
+    "https://anilist.co/anime/137747",
+    "https://anime-planet.com/anime/zhen-dao-ge-2nd-season",
+    "https://kitsu.io/anime/45612",
+    "https://myanimelist.net/anime/57468"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "779b3f90c62dfe1d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.272727272727273,
+    "arithmeticGeometricMean": 7.272727272727273,
+    "median": 7.272727272727273,
+    "hash": "779b3f90c62dfe1d",
+    "lastUpdate": "2024-05-07"
+  }
+}

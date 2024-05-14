@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8389",
+    "https://anilist.co/anime/10850",
+    "https://anime-planet.com/anime/seibu-tetsudou-ekiin-tako-chan",
+    "https://anisearch.com/anime/7040",
+    "https://kitsu.io/anime/6382",
+    "https://myanimelist.net/anime/10850",
+    "https://notify.moe/anime/0Vj4pKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ca439ddf60a0005",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.675849350649351,
+    "arithmeticGeometricMean": 4.614758905072351,
+    "median": 3.9,
+    "hash": "4ca439ddf60a0005",
+    "lastUpdate": "2024-05-08"
+  }
+}

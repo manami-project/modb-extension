@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3185",
+    "https://anilist.co/anime/1374",
+    "https://anime-planet.com/anime/guyver-the-bioboosted-armor-2005",
+    "https://anisearch.com/anime/3048",
+    "https://kitsu.io/anime/1228",
+    "https://livechart.me/anime/7541",
+    "https://myanimelist.net/anime/1374",
+    "https://notify.moe/anime/NiqxcFmmR"
+  ],
+  "synopsis": {
+    "text": "Unbeknownst to the everyday world, a sinister organization known as the Chronos Corporation has been secretly manipulating the course of human history, developing bio-engineered monsters known as Zoanoids to do their bidding. When an ordinary high school student, Sho Fukamachi, stumbles upon one of the Corporation's most powerful and coveted creations, the Guyver Unit, his life takes a dramatic turn. The Guyver Unit merges with Sho, transforming him into a formidable biotech-armored warrior, the Guyver.\n\nAs the Chronos Corporation becomes hellbent on retrieving their lost technology, Sho finds himself hunted by a relentless onslaught of Zoanoids. With no other choice, he must harness the extraordinary powers of the Guyver to protect his friends, family, and the world from the dark forces that lurk in the shadows. Along the way, Sho uncovers the hidden truth behind the origins of humanity, the Guyver Units, and the mysterious Creators who set everything in motion.\n\nIn this desperate battle for survival, Sho will learn that he is not alone in his fight against the Chronos Corporation. As he delves deeper into the secrets behind the Guyver Units and their connection to his own species, Sho must confront the reality of his newfound power and the responsibility it carries. The fate of the world rests in the hands of this unlikely hero, and the Guyver may be the only thing standing between humanity and total annihilation.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d615e145aba44bc4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.948786288541391,
+    "arithmeticGeometricMean": 6.942700979655762,
+    "median": 7.21,
+    "hash": "d615e145aba44bc4",
+    "lastUpdate": "2024-05-09"
+  }
+}

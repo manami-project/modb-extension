@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12893",
+    "https://anilist.co/anime/103522",
+    "https://anime-planet.com/anime/towel-story",
+    "https://kitsu.io/anime/13046",
+    "https://myanimelist.net/anime/33941",
+    "https://notify.moe/anime/U6eZ2FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ec03196cc6ebf02",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.884654545454545,
+    "arithmeticGeometricMean": 5.878727599914744,
+    "median": 5.7272727272727275,
+    "hash": "7ec03196cc6ebf02",
+    "lastUpdate": "2024-05-08"
+  }
+}

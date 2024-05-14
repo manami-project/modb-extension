@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15014",
+    "https://anilist.co/anime/113469",
+    "https://anime-planet.com/anime/rebirth",
+    "https://anisearch.com/anime/14865",
+    "https://kitsu.io/anime/42886",
+    "https://livechart.me/anime/9603",
+    "https://myanimelist.net/anime/40129",
+    "https://notify.moe/anime/vW4MDj0Zg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "36bdf26de49141c0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.7798982242247545,
+    "arithmeticGeometricMean": 5.760416844145507,
+    "median": 5.83,
+    "hash": "36bdf26de49141c0",
+    "lastUpdate": "2024-05-09"
+  }
+}

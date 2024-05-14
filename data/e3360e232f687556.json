@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11243",
+    "https://anime-planet.com/anime/jin-ken-mamoru-kun-to-ayumi-chan-sekai-wo-shiawase-ni",
+    "https://anisearch.com/anime/10663",
+    "https://kitsu.io/anime/10991",
+    "https://myanimelist.net/anime/30761",
+    "https://notify.moe/anime/Ciq_tKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e3360e232f687556",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.826530612244898,
+    "arithmeticGeometricMean": 3.7337746583909674,
+    "median": 3.826530612244898,
+    "hash": "e3360e232f687556",
+    "lastUpdate": "2024-05-08"
+  }
+}

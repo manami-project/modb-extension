@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15452",
+    "https://anilist.co/anime/103691",
+    "https://anime-planet.com/anime/tian-yu",
+    "https://kitsu.io/anime/41308",
+    "https://myanimelist.net/anime/37888",
+    "https://notify.moe/anime/XC3CNNDmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b38bbeab4c9745bc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.063863636363637,
+    "arithmeticGeometricMean": 6.04863878477386,
+    "median": 5.805,
+    "hash": "b38bbeab4c9745bc",
+    "lastUpdate": "2024-05-08"
+  }
+}

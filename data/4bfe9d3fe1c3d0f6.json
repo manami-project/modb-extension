@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9932",
+    "https://anilist.co/anime/18983",
+    "https://anime-planet.com/anime/yuuto-kun-ga-iku",
+    "https://anisearch.com/anime/8711",
+    "https://kitsu.io/anime/9714",
+    "https://livechart.me/anime/7862",
+    "https://myanimelist.net/anime/18983",
+    "https://notify.moe/anime/2wxYpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4bfe9d3fe1c3d0f6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.023757575757576,
+    "arithmeticGeometricMean": 4.965730381271858,
+    "median": 5.0,
+    "hash": "4bfe9d3fe1c3d0f6",
+    "lastUpdate": "2024-05-10"
+  }
+}

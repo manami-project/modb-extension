@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9577",
+    "https://anilist.co/anime/134473",
+    "https://anime-planet.com/anime/poppen-sensei-to-kaerazu-no-numa",
+    "https://anisearch.com/anime/8281",
+    "https://kitsu.io/anime/10834",
+    "https://myanimelist.net/anime/30360",
+    "https://notify.moe/anime/JkD_tFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b263d884f968603e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.529703153988868,
+    "arithmeticGeometricMean": 4.523855368022623,
+    "median": 4.498181818181818,
+    "hash": "b263d884f968603e",
+    "lastUpdate": "2024-05-08"
+  }
+}

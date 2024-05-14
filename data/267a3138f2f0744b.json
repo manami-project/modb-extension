@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127979",
+    "https://anime-planet.com/anime/greedy-steady",
+    "https://kitsu.io/anime/45152",
+    "https://myanimelist.net/anime/52858"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "267a3138f2f0744b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.655181818181818,
+    "arithmeticGeometricMean": 5.608821216336075,
+    "median": 5.655181818181818,
+    "hash": "267a3138f2f0744b",
+    "lastUpdate": "2024-05-07"
+  }
+}

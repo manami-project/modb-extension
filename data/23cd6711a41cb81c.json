@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/868",
+    "https://anilist.co/anime/744",
+    "https://anime-planet.com/anime/trouble-chocolate",
+    "https://anisearch.com/anime/1313",
+    "https://kitsu.io/anime/667",
+    "https://livechart.me/anime/6156",
+    "https://myanimelist.net/anime/744",
+    "https://notify.moe/anime/0XF05FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "23cd6711a41cb81c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.217210707659688,
+    "arithmeticGeometricMean": 6.205243748622481,
+    "median": 6.204,
+    "hash": "23cd6711a41cb81c",
+    "lastUpdate": "2024-05-10"
+  }
+}

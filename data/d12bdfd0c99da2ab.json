@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8762",
+    "https://anilist.co/anime/12001",
+    "https://anime-planet.com/anime/one-piece-3d-gekisou-trap-coaster",
+    "https://anisearch.com/anime/7388",
+    "https://kitsu.io/anime/6641",
+    "https://livechart.me/anime/5544",
+    "https://myanimelist.net/anime/12001",
+    "https://notify.moe/anime/PZWHtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d12bdfd0c99da2ab",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.720166654773798,
+    "arithmeticGeometricMean": 6.709783605023627,
+    "median": 6.698,
+    "hash": "d12bdfd0c99da2ab",
+    "lastUpdate": "2024-05-09"
+  }
+}

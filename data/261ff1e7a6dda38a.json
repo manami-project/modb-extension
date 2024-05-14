@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2975",
+    "https://anilist.co/anime/18569",
+    "https://anime-planet.com/anime/taiman-blues-shimizu-naoto-hen",
+    "https://anisearch.com/anime/1629",
+    "https://kitsu.io/anime/9653",
+    "https://myanimelist.net/anime/18569",
+    "https://notify.moe/anime/CdKYpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "261ff1e7a6dda38a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.5125918367346936,
+    "arithmeticGeometricMean": 5.467855429726801,
+    "median": 5.09,
+    "hash": "261ff1e7a6dda38a",
+    "lastUpdate": "2024-05-08"
+  }
+}

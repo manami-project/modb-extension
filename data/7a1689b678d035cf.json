@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1058",
+    "https://anilist.co/anime/3101",
+    "https://anime-planet.com/anime/f-zero-falcon-densetsu",
+    "https://anisearch.com/anime/1741",
+    "https://kitsu.io/anime/2795",
+    "https://myanimelist.net/anime/3101",
+    "https://notify.moe/anime/O2q85Fiig"
+  ],
+  "synopsis": {
+    "text": "Wheeler, a former police detective turned high-speed racer, is thrust into a world 150 years in the future after a near-fatal car accident during a pursuit of the notorious criminal, Zoda. Revived by Jody Summer and Dr. Stewart, Wheeler joins the Elite Mobile Task Force, a team of racers determined to keep the prize money of the popular F-Zero races out of the hands of the nefarious Dark Million Organization, led by Black Shadow and Deathborn.\n\nIn the year 2201, the universe is gripped by the thrill of F-Zero races, where pilots from all corners of the galaxy compete for the title of the fastest driver and the enormous cash prize. However, the stakes are raised when the Dark Million Organization enters the scene, vying for the prize money to fund their evil deeds. Among the racers, Ryu Suzaku, also known as Rick Wheeler, and the enigmatic Captain Falcon are the most popular.\n\nRyu, who was once a police detective in 2051, was put into artificial coldsleep after a mission gone wrong left him critically injured. Now, in 2201, he is revived and given a new life by the military forces, working secretly for the Milky Way Police to capture the criminal organization that seeks to gain control of the F-Zero Grand Prix money. With Zoda, the criminal responsible for his accident, now revived and participating in the races, Ryu must confront his past while racing for his future.\n\nJoin Ryu, Captain Falcon, and the Elite Mobile Task Force as they race to bring down the Dark Million Organization and secure the future of the galaxy!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7a1689b678d035cf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.357439438112906,
+    "arithmeticGeometricMean": 6.303821375107315,
+    "median": 6.51,
+    "hash": "7a1689b678d035cf",
+    "lastUpdate": "2024-05-07"
+  }
+}

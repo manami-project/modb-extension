@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1462",
+    "https://anilist.co/anime/3625",
+    "https://anime-planet.com/anime/battle-royal-high-school",
+    "https://anisearch.com/anime/106",
+    "https://kitsu.io/anime/3149",
+    "https://livechart.me/anime/6709",
+    "https://myanimelist.net/anime/3625",
+    "https://notify.moe/anime/JTGl5FmiR"
+  ],
+  "synopsis": {
+    "text": "Now enter the world of Battle Royal High School, where ordinary student Hyoudou Riki dons a tiger mask for kung-fu battles, fitting right in with the school's eccentricities. Little does Riki know, his mundane life takes a dramatic turn as he shares an uncanny resemblance with Byoudo, the Master of the Dark Realm. When a dimensional gate unexpectedly opens, the two worlds collide, and chaos ensues.\n\nAs the malevolent Fairy Master manipulates Byoudo into attempting to conquer our world, Riki finds himself semi-possessed by his dark counterpart. The classmates he once knew are now grotesque, lustful monsters, and the situation worsens as a zealous exorcist and the heroic Zankan of the Space-Time Police are drawn to the inter-dimensional pandemonium.\n\nRiki's life becomes a battle for survival as he faces rival demons, demon hunter samurai, and interplanetary police forces, transforming the once-normal school into a war zone. The stakes are high, and Riki must confront the evil forces threatening his world, as failure means losing not just his life, but everything he holds dear.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "25cabbc321fcf5d7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.473398886827459,
+    "arithmeticGeometricMean": 5.462501382496529,
+    "median": 5.6,
+    "hash": "25cabbc321fcf5d7",
+    "lastUpdate": "2024-05-08"
+  }
+}

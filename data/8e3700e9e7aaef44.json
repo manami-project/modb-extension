@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8310",
+    "https://anilist.co/anime/9935",
+    "https://anime-planet.com/anime/chocolat-no-mahou",
+    "https://anisearch.com/anime/6932",
+    "https://kitsu.io/anime/5948",
+    "https://livechart.me/anime/5427",
+    "https://myanimelist.net/anime/9935",
+    "https://notify.moe/anime/9H6GtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8e3700e9e7aaef44",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.151619931089319,
+    "arithmeticGeometricMean": 6.146264626964305,
+    "median": 6.0,
+    "hash": "8e3700e9e7aaef44",
+    "lastUpdate": "2024-05-09"
+  }
+}

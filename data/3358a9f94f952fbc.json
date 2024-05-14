@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/suteki-na-okurimono",
+    "https://anisearch.com/anime/17676",
+    "https://kitsu.io/anime/45734",
+    "https://myanimelist.net/anime/50640"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3358a9f94f952fbc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.200721088435373,
+    "arithmeticGeometricMean": 6.184601987135823,
+    "median": 6.25,
+    "hash": "3358a9f94f952fbc",
+    "lastUpdate": "2024-05-07"
+  }
+}

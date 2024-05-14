@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14948",
+    "https://anilist.co/anime/109911",
+    "https://anime-planet.com/anime/ultraman-2nd-season",
+    "https://anisearch.com/anime/14439",
+    "https://kitsu.io/anime/42384",
+    "https://livechart.me/anime/9465",
+    "https://myanimelist.net/anime/39935",
+    "https://notify.moe/anime/oKOLqkwZR"
+  ],
+  "synopsis": {
+    "text": "Several years after the original Ultraman defended Earth from alien invaders and disappeared, a new generation of heroes emerges. Shinjiro, the son of the legendary Giant of Light, discovers he possesses unique abilities and learns the truth about his father's identity. As new extraterrestrial threats loom, Shinjiro takes up the mantle of Ultraman to protect the planet.\n\nMeanwhile, a mysterious global event causes the disappearance of countless people, including Shinjiro's friend Rena. Freelance journalist Kotaro Higashi finds himself caught in the crossfire between the alien terrorist group Dark Star and the SSSP while investigating the incident. Dark Star demands half of Earth or the sacrifice of half its population, leaving humanity in despair.\n\nIn a climactic showdown, the Golden Fortress wreaks havoc on the city, forcing Ultraman to join forces with Seven, Taro, Zoffy, Jack, and Ace. The united Ultraman brotherhood stands together against the alien threat, fighting to save Earth and its people from the looming darkness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ac504c57d544bee",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.826379008746356,
+    "arithmeticGeometricMean": 6.8149102490341775,
+    "median": 6.818181818181818,
+    "hash": "6ac504c57d544bee",
+    "lastUpdate": "2024-05-10"
+  }
+}

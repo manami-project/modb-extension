@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15082",
+    "https://anilist.co/anime/128738",
+    "https://anime-planet.com/anime/zannen-na-ikimono-no-jiten-2019",
+    "https://anisearch.com/anime/15982",
+    "https://livechart.me/anime/9549",
+    "https://myanimelist.net/anime/44026"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5867bd30ef9a1270",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.572356215213358,
+    "arithmeticGeometricMean": 5.546690768740256,
+    "median": 5.572356215213358,
+    "hash": "5867bd30ef9a1270",
+    "lastUpdate": "2024-05-10"
+  }
+}

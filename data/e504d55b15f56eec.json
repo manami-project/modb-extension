@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15732",
+    "https://anilist.co/anime/124132",
+    "https://anime-planet.com/anime/natsumes-book-of-friends-movie-2",
+    "https://anisearch.com/anime/15600",
+    "https://kitsu.io/anime/44338",
+    "https://livechart.me/anime/10155",
+    "https://myanimelist.net/anime/42894",
+    "https://notify.moe/anime/lIpDtLdGR"
+  ],
+  "synopsis": {
+    "text": "Ayashiki Raihousha and Ishi Okoshi are two captivating tales from a beloved manga, brought to life in this anime adaptation. In Ishi Okoshi, Natsume, on a quest to find Nyanko-sensei, stumbles upon Mitsumi, a small and timid youkai entrusted with the task of awakening the divine youkai Iwatetsu from its slumber. Touched by Mitsumi's determination, Natsume decides to help him, but they are not the only ones vying for the divine being's power.\n\nIn Ayashiki Raihousha, Natsume's friend Tanuma is visited by a mysterious stranger who, unbeknownst to Tanuma, is a youkai in disguise. Despite Natsume's concerns, Tanuma enjoys the daily conversations with the stranger, who claims to mean no harm. However, Tanuma's health begins to deteriorate, leading Natsume to delve deeper into the true intentions of the youkai and its connection to Tanuma.\n\nJoin Natsume in these two thrilling adventures as he navigates the complex world of youkai, uncovers hidden truths, and forms new bonds. With time running out and the stakes high, will Natsume be able to protect his friends and unravel the mysteries that surround them? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e504d55b15f56eec",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.995,
+    "arithmeticGeometricMean": 7.992945711502739,
+    "median": 8.114090909090908,
+    "hash": "e504d55b15f56eec",
+    "lastUpdate": "2024-05-09"
+  }
+}

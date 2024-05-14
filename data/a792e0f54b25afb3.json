@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136642",
+    "https://anime-planet.com/anime/taiban",
+    "https://livechart.me/anime/10544",
+    "https://myanimelist.net/anime/48645"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a792e0f54b25afb3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.005181818181818,
+    "arithmeticGeometricMean": 5.999512234365132,
+    "median": 6.005181818181818,
+    "hash": "a792e0f54b25afb3",
+    "lastUpdate": "2024-05-10"
+  }
+}

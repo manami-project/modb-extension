@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17194",
+    "https://anilist.co/anime/145063",
+    "https://anime-planet.com/anime/kawaru-machi-kawareru-machi",
+    "https://anisearch.com/anime/17086",
+    "https://kitsu.io/anime/46776",
+    "https://myanimelist.net/anime/51008"
+  ],
+  "synopsis": {
+    "text": "Ishinomori Manga Museum has released an animated short, \"Kawaru Machi, Kawareru Machi, Ishinomaki feat. Jun,\" directed by Takuya Inaba and inspired by Shotaro Ishinomori's semi-autobiographical and wordless manga, \"Jun: Shotaro no Fantasy World.\" The short is a tribute to Ishinomori's hometown of Ishinomaki, which is still recovering from the devastating Tohoku earthquake and tsunami of March 2011.\n\nThe anime is a hand-drawn art animation, with no dialogue, only music and sound effects, making it accessible to people of all ages and nationalities. The story follows Jun, a character based on Ishinomori himself, as he navigates through the recovery of Ishinomaki City. The anime superimposes Jun's journey over the city's ongoing rebuilding efforts, conveying a message of hope and resilience in the face of adversity.\n\nThe anime is a visual representation of Ishinomaki's recovery, with Jun's growth symbolizing the idea that even in difficult situations, dreams can come true if one does not give up. The anime is a heartwarming tribute to the city's strength and determination, as well as a testament to the power of art to inspire and heal.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c620eeb102e1ce90",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.331742486085344,
+    "arithmeticGeometricMean": 6.325587982814452,
+    "median": 6.3,
+    "hash": "c620eeb102e1ce90",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9325",
+    "https://anilist.co/anime/7415",
+    "https://anime-planet.com/anime/mukougaoka-chisato-was-only-gazing",
+    "https://anisearch.com/anime/6105",
+    "https://kitsu.io/anime/4963",
+    "https://myanimelist.net/anime/7415",
+    "https://notify.moe/anime/FYXgpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1421ca90e33857e9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.749297111052213,
+    "arithmeticGeometricMean": 5.727661673235569,
+    "median": 6.06,
+    "hash": "1421ca90e33857e9",
+    "lastUpdate": "2024-05-08"
+  }
+}

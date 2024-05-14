@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6739",
+    "https://anilist.co/anime/6833",
+    "https://anime-planet.com/anime/ninjutsu-hinotama-kozou-edo-no-maki",
+    "https://anisearch.com/anime/5684",
+    "https://kitsu.io/anime/4735",
+    "https://livechart.me/anime/7539",
+    "https://myanimelist.net/anime/6833",
+    "https://notify.moe/anime/KZjecKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb014d79ced506b9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.9246016432547046,
+    "arithmeticGeometricMean": 3.878101615160215,
+    "median": 3.909090909090909,
+    "hash": "cb014d79ced506b9",
+    "lastUpdate": "2024-05-09"
+  }
+}

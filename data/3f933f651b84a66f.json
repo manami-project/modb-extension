@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13653",
+    "https://anilist.co/anime/102055",
+    "https://anime-planet.com/anime/mu-wang-zhi-wang-han-tie-dou",
+    "https://anisearch.com/anime/13196",
+    "https://kitsu.io/anime/41344",
+    "https://myanimelist.net/anime/37928",
+    "https://notify.moe/anime/fg2gICDig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3f933f651b84a66f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.63969696969697,
+    "arithmeticGeometricMean": 6.616361299886822,
+    "median": 6.25,
+    "hash": "3f933f651b84a66f",
+    "lastUpdate": "2024-05-08"
+  }
+}

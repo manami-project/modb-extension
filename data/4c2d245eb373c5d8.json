@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169384",
+    "https://anime-planet.com/anime/fate-grand-order-fujimaru-ritsuka-wa-wakaranai-year-end-special",
+    "https://anisearch.com/anime/18514",
+    "https://kitsu.io/anime/47594",
+    "https://livechart.me/anime/12430",
+    "https://myanimelist.net/anime/54976"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c2d245eb373c5d8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.086487012987013,
+    "arithmeticGeometricMean": 7.077757201508166,
+    "median": 6.896545454545455,
+    "hash": "4c2d245eb373c5d8",
+    "lastUpdate": "2024-05-06"
+  }
+}

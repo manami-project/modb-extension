@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13076",
+    "https://anilist.co/anime/104097",
+    "https://anime-planet.com/anime/ame-no-bus-stop-hen",
+    "https://kitsu.io/anime/12067",
+    "https://myanimelist.net/anime/32778",
+    "https://notify.moe/anime/F9X6tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e13b68b7f6c4c18a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.588981818181818,
+    "arithmeticGeometricMean": 4.55584167039836,
+    "median": 4.090909090909091,
+    "hash": "e13b68b7f6c4c18a",
+    "lastUpdate": "2024-05-08"
+  }
+}

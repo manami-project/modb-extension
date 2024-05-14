@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13716",
+    "https://anime-planet.com/anime/sentai-hero-sukiyaki-force-gunma-no-heiwa-wo-negau-season-e-mata",
+    "https://anisearch.com/anime/13209",
+    "https://livechart.me/anime/3039",
+    "https://myanimelist.net/anime/37054"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "473af1e8e460871a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.690265306122449,
+    "arithmeticGeometricMean": 6.685316872492569,
+    "median": 6.690265306122449,
+    "hash": "473af1e8e460871a",
+    "lastUpdate": "2024-05-09"
+  }
+}

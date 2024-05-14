@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2528",
+    "https://anilist.co/anime/3031",
+    "https://anime-planet.com/anime/digimon-frontier-movie-revival-of-ancient-digimon",
+    "https://anisearch.com/anime/440",
+    "https://kitsu.io/anime/2737",
+    "https://livechart.me/anime/5655",
+    "https://myanimelist.net/anime/3031",
+    "https://notify.moe/anime/QQ8U5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9a76f4c8b927f6f9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.644811616954474,
+    "arithmeticGeometricMean": 6.634481431078933,
+    "median": 6.733636363636364,
+    "hash": "9a76f4c8b927f6f9",
+    "lastUpdate": "2024-05-09"
+  }
+}

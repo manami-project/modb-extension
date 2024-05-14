@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2556",
+    "https://anilist.co/anime/2491",
+    "https://anime-planet.com/anime/touch-sebangou-no-nai-ace",
+    "https://anisearch.com/anime/1479",
+    "https://kitsu.io/anime/2261",
+    "https://myanimelist.net/anime/2491",
+    "https://notify.moe/anime/HSqEcKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db96b73d49947975",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.605080660835763,
+    "arithmeticGeometricMean": 6.593941243282898,
+    "median": 6.69,
+    "hash": "db96b73d49947975",
+    "lastUpdate": "2024-05-08"
+  }
+}

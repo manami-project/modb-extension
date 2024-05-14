@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1639",
+    "https://anilist.co/anime/2061",
+    "https://anime-planet.com/anime/gall-force-2-destruction",
+    "https://anisearch.com/anime/1362",
+    "https://kitsu.io/anime/1860",
+    "https://livechart.me/anime/7520",
+    "https://myanimelist.net/anime/2061",
+    "https://notify.moe/anime/d1xLcKiig"
+  ],
+  "synopsis": {
+    "text": "Solenoid and Paranoid forces have been locked in a relentless war for centuries, resulting in the devastating loss of both their home planets due to the deployment of planet-destroying weapons. In the midst of this chaos, a Solenoid cruiser discovers Lufy, a once-formidable warrior, drifting helplessly in space. Revived and given a second chance at life, Lufy's faith and resolve as a fighter are tested when she is confronted with events that challenge her beliefs. As the last hope for both races, Lufy and the crew set course for the final Solenoid stronghold in the ninth solar system, which has miraculously survived the destruction. With the fate of both species hanging in the balance, Lufy must find the strength to prevent the end of the world and seek vengeance for her lost comrades and the last remnants of her people.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2439a50571595ee7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.269533527696793,
+    "arithmeticGeometricMean": 6.256275742450332,
+    "median": 6.38,
+    "hash": "2439a50571595ee7",
+    "lastUpdate": "2024-05-09"
+  }
+}

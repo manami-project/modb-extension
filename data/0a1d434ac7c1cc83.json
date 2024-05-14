@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4140",
+    "https://anilist.co/anime/13449",
+    "https://anime-planet.com/anime/shippu-iron-leaguer-ova",
+    "https://anisearch.com/anime/280",
+    "https://kitsu.io/anime/6968",
+    "https://myanimelist.net/anime/13449",
+    "https://notify.moe/anime/p5ADpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0a1d434ac7c1cc83",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.7454508348794056,
+    "arithmeticGeometricMean": 5.715061173687951,
+    "median": 5.825454545454545,
+    "hash": "0a1d434ac7c1cc83",
+    "lastUpdate": "2024-05-08"
+  }
+}

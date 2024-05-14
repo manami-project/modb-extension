@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/416",
+    "https://anilist.co/anime/58",
+    "https://anime-planet.com/anime/blue-gender",
+    "https://anisearch.com/anime/2217",
+    "https://kitsu.io/anime/39",
+    "https://livechart.me/anime/4124",
+    "https://myanimelist.net/anime/58",
+    "https://notify.moe/anime/yuNtcKmig"
+  ],
+  "synopsis": {
+    "text": "Earth, 2031. A chilling reality unfolds as humans are no longer the dominant species. In their place, monstrous, insect-like creatures known as the Blue have claimed the planet as their own, ruthlessly hunting down the remnants of humanity. This is the terrifying world that Yuji Kaido awakens to after spending decades in cryogenic sleep, a victim of the incurable B-Cell disease. As a 'Sleeper,' Yuji was meant to wait for a cure, but instead, he finds himself thrust into a nightmarish battle for survival. Joined by a team of soldiers from Second Earth, a space station sanctuary for humans, Yuji must navigate the horrors of a war-torn planet. As they strive to reach the safety of Second Earth, Yuji and his companions face a daunting question: can they reclaim their home without losing their humanity in the process? The fate of Earth rests in their hands.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "93a39cc5bb36b8e3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.052567745279931,
+    "arithmeticGeometricMean": 7.050427554318444,
+    "median": 6.990588235294117,
+    "hash": "93a39cc5bb36b8e3",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/ghost-stories-recaps",
+    "https://anisearch.com/anime/10951",
+    "https://kitsu.io/anime/8695",
+    "https://livechart.me/anime/8314",
+    "https://myanimelist.net/anime/22055",
+    "https://notify.moe/anime/XdxJpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "890cca8239620eb8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.126608905380334,
+    "arithmeticGeometricMean": 6.122901464640549,
+    "median": 5.875,
+    "hash": "890cca8239620eb8",
+    "lastUpdate": "2024-05-06"
+  }
+}

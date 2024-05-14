@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127244",
+    "https://anime-planet.com/anime/keita-sano-mad-love",
+    "https://myanimelist.net/anime/48967"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85ac8fd3364db86d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.306121212121212,
+    "arithmeticGeometricMean": 5.293168605759275,
+    "median": 5.38,
+    "hash": "85ac8fd3364db86d",
+    "lastUpdate": "2024-05-07"
+  }
+}

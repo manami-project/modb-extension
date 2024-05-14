@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12417",
+    "https://anilist.co/anime/97642",
+    "https://anime-planet.com/anime/the-eccentric-family-2",
+    "https://anisearch.com/anime/11766",
+    "https://kitsu.io/anime/12551",
+    "https://livechart.me/anime/2334",
+    "https://myanimelist.net/anime/34076",
+    "https://notify.moe/anime/YDRm2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2eddde6836b886db",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.9478912496233916,
+    "arithmeticGeometricMean": 7.946317739526879,
+    "median": 8.074542735042735,
+    "hash": "2eddde6836b886db",
+    "lastUpdate": "2024-05-10"
+  }
+}

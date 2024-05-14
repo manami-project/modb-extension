@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7377",
+    "https://anilist.co/anime/8092",
+    "https://anime-planet.com/anime/bakumatsu-no-spasibo",
+    "https://anisearch.com/anime/6072",
+    "https://kitsu.io/anime/5192",
+    "https://livechart.me/anime/8619",
+    "https://myanimelist.net/anime/8092",
+    "https://notify.moe/anime/zOlztFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a065ac4be0526d81",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.366887445887445,
+    "arithmeticGeometricMean": 6.339401810106953,
+    "median": 6.42,
+    "hash": "a065ac4be0526d81",
+    "lastUpdate": "2024-05-08"
+  }
+}

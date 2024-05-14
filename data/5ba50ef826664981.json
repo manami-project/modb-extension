@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/737",
+    "https://anilist.co/anime/621",
+    "https://anime-planet.com/anime/nightwalker-the-midnight-detective",
+    "https://anisearch.com/anime/2109",
+    "https://kitsu.io/anime/576",
+    "https://livechart.me/anime/5472",
+    "https://myanimelist.net/anime/621",
+    "https://notify.moe/anime/n1eTcFmig"
+  ],
+  "synopsis": {
+    "text": "He walks the streets of Tokyo, a private detective with a secret as old as time itself - Shido Tatsuhiko is a vampire. With no recollection of his human past, he now dedicates his immortal life to protecting humans from the Nightbreed, malevolent creatures that prey on the innocent. Alongside his trusted allies - Yayoi Matsunaga, a government agent; Riho Yamazaki, a resilient orphaned teenager; and Guni, a quirky little green imp, Shido faces off against the Nightbreed while wrestling with his own dark past. As the vampire Cain, who transformed him, lurks in the shadows, Shido must navigate the treacherous world of the supernatural, all while maintaining his human facade and safeguarding those he holds dear. In a world where darkness intertwines with the mundane, can Shido uphold his self-imposed mission and protect both his humanity and the city he calls home?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ba50ef826664981",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.623545189504372,
+    "arithmeticGeometricMean": 6.618247539227827,
+    "median": 6.636363636363637,
+    "hash": "5ba50ef826664981",
+    "lastUpdate": "2024-05-09"
+  }
+}

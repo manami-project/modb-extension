@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8146",
+    "https://anime-planet.com/anime/death-note-rewrite-1-visions-of-a-god",
+    "https://anisearch.com/anime/4441"
+  ],
+  "synopsis": {
+    "text": "It is in the realm of Shinigami that a curious deity approaches Ryuk to learn about the human world. Instead, Ryuk recounts the intriguing tale of a brilliant young man named Light Yagami and his formidable adversary, L. This retelling, known as \"Death Note: Relight - Visions of a God,\" offers a condensed version of the original series, with updated dialogue and a few new scenes.\n\nLight Yagami, an exceptionally intelligent high school student, finds himself disenchanted with the world around him. His mundane life takes a dramatic turn when he discovers the Death Note, a mysterious book that possesses the power to kill anyone whose name is written within its pages. With the Death Note in his possession, Light embarks on a mission to eradicate evil from the world, positioning himself as a divine figure.\n\nHowever, his crusade does not go unnoticed. A mysterious detective known only as 'L' emerges as a formidable opponent, vowing to put an end to Light's self-proclaimed divine reign. As these two intellectual titans clash, a deadly game of cat and mouse unfolds, leaving only room for one victor. Who will emerge triumphant from this battle of wits?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fde15485b3b5e5a4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.2377142857142855,
+    "arithmeticGeometricMean": 7.229837164315872,
+    "median": 7.23,
+    "hash": "fde15485b3b5e5a4",
+    "lastUpdate": "2024-05-07"
+  }
+}

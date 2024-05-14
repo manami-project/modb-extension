@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1646",
+    "https://anilist.co/anime/2623",
+    "https://anime-planet.com/anime/the-dog-of-flanders-movie",
+    "https://anisearch.com/anime/553",
+    "https://kitsu.io/anime/2387",
+    "https://livechart.me/anime/5171",
+    "https://myanimelist.net/anime/2623",
+    "https://notify.moe/anime/Cihs5FmmR"
+  ],
+  "synopsis": {
+    "text": "Inu the Dog of Flanders, set in the picturesque Flanders countryside of 19th-century Belgium, is a heartwarming tale of unwavering loyalty and friendship between a young boy named Nello and his devoted dog, Patrash. Nello, an orphaned aspiring artist, lives with his ailing grandfather, who struggles to make ends meet by selling milk in the nearby town. Despite their meager existence, Nello finds solace in his passion for painting, inspired by the great Peter Paul Rubens.\n\nOne fateful day, Nello encounters a mistreated dog and, unable to leave him behind, convinces his grandfather to buy him. Though it adds to their financial burden, Nello and Patrash become inseparable, and together they face life's trials and tribulations. Nello's friendship with Alois, the kind-hearted daughter of their landlord, further enriches his life. However, when Alois is sent away to school, Nello becomes more determined than ever to pursue his dreams of becoming a painter, entering a prestigious art contest that could reunite him with his dear friend.\n\nThrough stunning animation that combines traditional and computer-aided techniques, Inu the Dog of Flanders captures the natural beauty of the Belgian countryside and the enduring bond between Nello and Patrash. This timeless story, which has captivated audiences for over 130 years, was even immortalized with a statue dedicated to the beloved duo in 1985 by the local Belgian government. Join Nello and Patrash as they navigate the ups and downs of life together, proving that true friendship knows no bounds.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4665a6570bb7171",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.651792207792207,
+    "arithmeticGeometricMean": 7.65064005953779,
+    "median": 7.7,
+    "hash": "d4665a6570bb7171",
+    "lastUpdate": "2024-05-09"
+  }
+}

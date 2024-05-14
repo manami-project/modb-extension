@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/943",
+    "https://anilist.co/anime/970",
+    "https://anime-planet.com/anime/romance-of-the-three-kingdoms",
+    "https://anisearch.com/anime/2468",
+    "https://kitsu.io/anime/860",
+    "https://livechart.me/anime/8211",
+    "https://myanimelist.net/anime/970",
+    "https://notify.moe/anime/bOd15FimR"
+  ],
+  "synopsis": {
+    "text": "Yu pled in the throes of chaos and corruption, 184 A.D. China witnesses the downfall of the once-mighty Han dynasty. Amidst the turmoil, Liu Bei, an unassuming straw mat weaver from the Hebei countryside, finds himself in the midst of a grand destiny. Discovering his lineage as a descendant of the former emperor, Liu Bei embarks on a mission to restore peace and justice to the crumbling kingdom.\n\nJoined by two formidable warriors, Guan Yu and Zhang Fei, Liu Bei forges unbreakable bonds of brotherhood and shared purpose. Together, they strive to create a righteous kingdom that will stand as a beacon of hope for the oppressed citizens of China. This captivating anime, inspired by the timeless Chinese epic 'The Romance of the Three Kingdoms,' recounts their heroic journey from the Yellow Turban Rebellion to the aftermath of the Battle of Chi Bi.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd193c83ade4459f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.802884177047441,
+    "arithmeticGeometricMean": 6.789734380988624,
+    "median": 7.0,
+    "hash": "dd193c83ade4459f",
+    "lastUpdate": "2024-05-10"
+  }
+}

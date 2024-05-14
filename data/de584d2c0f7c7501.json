@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/110639",
+    "https://anime-planet.com/anime/toho-cinemas-x-pokemon-go",
+    "https://anisearch.com/anime/17733",
+    "https://kitsu.io/anime/14103",
+    "https://livechart.me/anime/8540",
+    "https://myanimelist.net/anime/36836",
+    "https://notify.moe/anime/mExN2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de584d2c0f7c7501",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.613177489177489,
+    "arithmeticGeometricMean": 5.553774364471899,
+    "median": 5.547000000000001,
+    "hash": "de584d2c0f7c7501",
+    "lastUpdate": "2024-05-10"
+  }
+}

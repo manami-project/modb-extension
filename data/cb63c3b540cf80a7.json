@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2237",
+    "https://anilist.co/anime/5131",
+    "https://anime-planet.com/anime/groizer-x",
+    "https://anisearch.com/anime/1776",
+    "https://kitsu.io/anime/3941",
+    "https://livechart.me/anime/7820",
+    "https://myanimelist.net/anime/5131",
+    "https://notify.moe/anime/ED9r5FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb63c3b540cf80a7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.2719585652442795,
+    "arithmeticGeometricMean": 5.154685751312403,
+    "median": 5.773181818181818,
+    "hash": "cb63c3b540cf80a7",
+    "lastUpdate": "2024-05-09"
+  }
+}

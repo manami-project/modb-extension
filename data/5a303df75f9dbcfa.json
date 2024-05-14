@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137041",
+    "https://anime-planet.com/anime/naga-hamaraja",
+    "https://kitsu.io/anime/14139",
+    "https://myanimelist.net/anime/36676",
+    "https://notify.moe/anime/4dyHhFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a303df75f9dbcfa",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.524,
+    "arithmeticGeometricMean": 4.508745304424197,
+    "median": 4.51,
+    "hash": "5a303df75f9dbcfa",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169526",
+    "https://anime-planet.com/anime/rent-a-girlfriend-season-3-x-halca-collab-mini-animation"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fa207ec498a90d2d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.100727272727273,
+    "arithmeticGeometricMean": 6.088059534698039,
+    "median": 6.100727272727273,
+    "hash": "fa207ec498a90d2d",
+    "lastUpdate": "2024-05-07"
+  }
+}

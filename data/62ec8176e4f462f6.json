@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10727",
+    "https://anilist.co/anime/20726",
+    "https://anime-planet.com/anime/ai-tenchi-muyo",
+    "https://anisearch.com/anime/9760",
+    "https://kitsu.io/anime/8580",
+    "https://livechart.me/anime/594",
+    "https://myanimelist.net/anime/24699",
+    "https://notify.moe/anime/gqq0pKimg"
+  ],
+  "synopsis": {
+    "text": "Washu's latest escapades have plunged the world into chaos, and it's up to Tenchi Masaki to set things right! To accomplish this mission, Tenchi takes on the unexpected role of an undercover teacher at an all-girls school. However, his mission is anything but straightforward, as he finds himself entangled in a conflict between the student council and the science club. To make matters worse, Tenchi's penchant for attracting trouble follows him, making his task even more challenging. Will Tenchi be able to balance his duties as a teacher, navigate the school's internal conflicts, and restore order to the universe? Join him on this thrilling and unpredictable adventure!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "62ec8176e4f462f6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.045221270326312,
+    "arithmeticGeometricMean": 6.0317450489102615,
+    "median": 5.925133689839572,
+    "hash": "62ec8176e4f462f6",
+    "lastUpdate": "2024-05-08"
+  }
+}

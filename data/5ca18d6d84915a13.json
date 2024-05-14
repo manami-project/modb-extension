@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9931",
+    "https://anilist.co/anime/19151",
+    "https://anime-planet.com/anime/walkure-romanze",
+    "https://anisearch.com/anime/8836",
+    "https://kitsu.io/anime/7849",
+    "https://livechart.me/anime/71",
+    "https://myanimelist.net/anime/19151",
+    "https://notify.moe/anime/GdyttFmmR"
+  ],
+  "synopsis": {
+    "text": "The stage is set at the prestigious Winford Academy, nestled in the quaint town of Helen's Hill, where the thrilling sport of jousting comes to life. Here, aspiring knights hone their equestrian skills and push their limits in the quest for glory. Among them is Takahiro Mizuno, a former junior jousting champion who once harbored dreams of knighthood. However, a debilitating injury forces him to trade his lance for the role of a begleiter, an assistant to knights.\n\nDespite his change in role, Takahiro's exceptional animal handling skills and past jousting experience make him a sought-after begleiter among the academy's maiden knights. Yet, he remains steadfast in his refusal to accept their offers, preferring to maintain a low profile.\n\nThe monotony of Takahiro's life takes a dramatic turn when his friend, Mio Kisaski, finds herself in an unusual predicament. Despite her lack of knightly training, she is challenged to a jousting duel. In a show of loyalty and friendship, Takahiro steps up to become her temporary begleiter. Little does he know, this decision marks the beginning of an enduring partnership as Mio enters the annual jousting tournament.\n\nJoin Takahiro and Mio in their captivating journey as they navigate the trials and triumphs of jousting, painting a vivid picture of courage, friendship, and determination. Will they emerge victorious against all odds? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ca18d6d84915a13",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.338052294187689,
+    "arithmeticGeometricMean": 6.3326691077835084,
+    "median": 6.309081632653061,
+    "hash": "5ca18d6d84915a13",
+    "lastUpdate": "2024-05-10"
+  }
+}

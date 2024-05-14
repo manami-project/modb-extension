@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11432",
+    "https://anilist.co/anime/103316",
+    "https://anime-planet.com/anime/watashi-no-kao",
+    "https://anisearch.com/anime/10169",
+    "https://kitsu.io/anime/10219",
+    "https://livechart.me/anime/7183",
+    "https://myanimelist.net/anime/28843",
+    "https://notify.moe/anime/2VsspKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9cc11a269640d6a4",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 3.784897075713402,
+    "arithmeticGeometricMean": 3.744687077153103,
+    "median": 3.8181818181818183,
+    "hash": "9cc11a269640d6a4",
+    "lastUpdate": "2024-05-10"
+  }
+}

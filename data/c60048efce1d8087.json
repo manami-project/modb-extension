@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1498",
+    "https://anilist.co/anime/2565",
+    "https://anime-planet.com/anime/jungle-taitei-susume-leo",
+    "https://anisearch.com/anime/1317",
+    "https://kitsu.io/anime/2330",
+    "https://livechart.me/anime/8854",
+    "https://myanimelist.net/anime/2565",
+    "https://notify.moe/anime/P74ycFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c60048efce1d8087",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.9701812880996545,
+    "arithmeticGeometricMean": 5.937743815016343,
+    "median": 6.0,
+    "hash": "c60048efce1d8087",
+    "lastUpdate": "2024-05-09"
+  }
+}

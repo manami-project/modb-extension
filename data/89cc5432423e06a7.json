@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9281",
+    "https://anilist.co/anime/14563",
+    "https://anime-planet.com/anime/maji-de-otaku-na-english-ribbon-chan-eigo-de-tatakau-mahou-shoujo",
+    "https://anisearch.com/anime/7977",
+    "https://kitsu.io/anime/7137",
+    "https://livechart.me/anime/5686",
+    "https://myanimelist.net/anime/14563",
+    "https://notify.moe/anime/iTDOtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89cc5432423e06a7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.104524604647054,
+    "arithmeticGeometricMean": 5.088347436114085,
+    "median": 5.181818181818182,
+    "hash": "89cc5432423e06a7",
+    "lastUpdate": "2024-05-09"
+  }
+}

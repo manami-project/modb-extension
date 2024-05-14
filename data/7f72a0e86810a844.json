@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/146131",
+    "https://anime-planet.com/anime/raise-a-suilen-repaint",
+    "https://anisearch.com/anime/17179",
+    "https://myanimelist.net/anime/51087"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f72a0e86810a844",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.798541743970316,
+    "arithmeticGeometricMean": 6.792571050652148,
+    "median": 6.752,
+    "hash": "7f72a0e86810a844",
+    "lastUpdate": "2024-05-07"
+  }
+}

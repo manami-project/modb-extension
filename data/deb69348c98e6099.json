@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12038",
+    "https://anilist.co/anime/122922",
+    "https://anime-planet.com/anime/drifters-special-edition",
+    "https://anisearch.com/anime/11279",
+    "https://kitsu.io/anime/12087",
+    "https://livechart.me/anime/2118",
+    "https://myanimelist.net/anime/33032",
+    "https://notify.moe/anime/wx3epKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "deb69348c98e6099",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.621536864697003,
+    "arithmeticGeometricMean": 7.620424049601031,
+    "median": 7.6,
+    "hash": "deb69348c98e6099",
+    "lastUpdate": "2024-05-09"
+  }
+}

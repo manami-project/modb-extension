@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/239",
+    "https://anilist.co/anime/20",
+    "https://anime-planet.com/anime/naruto",
+    "https://anisearch.com/anime/2788",
+    "https://kitsu.io/anime/11",
+    "https://livechart.me/anime/3585",
+    "https://myanimelist.net/anime/20",
+    "https://notify.moe/anime/Pjip5Kmmg"
+  ],
+  "score": {
+    "arithmeticMean": 7.921765613362892,
+    "arithmeticGeometricMean": 7.919542189631847,
+    "median": 8.021,
+    "hash": "271e916d18d741bd",
+    "lastUpdate": "2024-05-09"
+  }
+}

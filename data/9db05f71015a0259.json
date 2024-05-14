@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169047",
+    "https://anime-planet.com/anime/tooi-sora",
+    "https://kitsu.io/anime/46418",
+    "https://myanimelist.net/anime/42646"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9db05f71015a0259",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.726181818181819,
+    "arithmeticGeometricMean": 5.673728786687677,
+    "median": 5.726181818181819,
+    "hash": "9db05f71015a0259",
+    "lastUpdate": "2024-05-07"
+  }
+}

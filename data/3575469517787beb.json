@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12793",
+    "https://anilist.co/anime/174841",
+    "https://anime-planet.com/anime/sore-ike-anpanman-buruburu-no-takarasagashi-daibouken",
+    "https://anisearch.com/anime/12255",
+    "https://kitsu.io/anime/40630",
+    "https://livechart.me/anime/2540",
+    "https://myanimelist.net/anime/34871",
+    "https://notify.moe/anime/q7AvhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3575469517787beb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.915272727272727,
+    "arithmeticGeometricMean": 6.907588113947784,
+    "median": 6.915272727272727,
+    "hash": "3575469517787beb",
+    "lastUpdate": "2024-05-10"
+  }
+}

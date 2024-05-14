@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8172",
+    "https://anilist.co/anime/10017",
+    "https://anime-planet.com/anime/dragon-ball-plan-to-destroy-the-saiyajin",
+    "https://anisearch.com/anime/6962",
+    "https://kitsu.io/anime/5997",
+    "https://livechart.me/anime/4998",
+    "https://myanimelist.net/anime/10017",
+    "https://notify.moe/anime/w4V7pFiig"
+  ],
+  "synopsis": {
+    "text": "Goku, Vegeta, and their fellow warriors face a new threat in the form of Dr. Lychee, the last surviving member of the Tuffle race, who seeks vengeance on the remaining Saiyans for the destruction of his people. Armed with a powerful machine that emits a deadly gas known as Destron, Dr. Lychee plans to wipe out all life on Earth. With only 72 hours to find and stop the machine, Goku, Vegeta, Trunks, Gohan, and Piccolo must race against time to save the planet from destruction. As they battle against the clock, they also face old enemies who have mysteriously returned. This thrilling OVA, remade for the PlayStation 3 and Xbox 360 game Dragon Ball: Raging Blast 2, promises action-packed adventure and high stakes for our heroes.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7aaee44ed7de6708",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.715814471243043,
+    "arithmeticGeometricMean": 6.708531122069203,
+    "median": 6.68,
+    "hash": "7aaee44ed7de6708",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11961",
+    "https://anilist.co/anime/103318",
+    "https://anime-planet.com/anime/lemon-home-animation-theater",
+    "https://anisearch.com/anime/9105",
+    "https://kitsu.io/anime/10796",
+    "https://myanimelist.net/anime/30367",
+    "https://notify.moe/anime/J3W_tKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b9100526312a022b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.876464351974556,
+    "arithmeticGeometricMean": 4.856736450429331,
+    "median": 4.84,
+    "hash": "b9100526312a022b",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15007",
+    "https://anilist.co/anime/114442",
+    "https://anime-planet.com/anime/tenchi-muyo-ryo-ohki-5",
+    "https://anisearch.com/anime/14681",
+    "https://kitsu.io/anime/42491",
+    "https://livechart.me/anime/9516",
+    "https://myanimelist.net/anime/40097",
+    "https://notify.moe/anime/uO7O9EQZg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0887c879a4cf2b6d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.875858998144714,
+    "arithmeticGeometricMean": 6.868471973759205,
+    "median": 6.914285714285713,
+    "hash": "0887c879a4cf2b6d",
+    "lastUpdate": "2024-05-10"
+  }
+}

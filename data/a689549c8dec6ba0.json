@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13360",
+    "https://anilist.co/anime/101126",
+    "https://anime-planet.com/anime/macross-delta-movie-gekijou-no-walkure",
+    "https://anisearch.com/anime/12718",
+    "https://kitsu.io/anime/14151",
+    "https://livechart.me/anime/2826",
+    "https://myanimelist.net/anime/36077",
+    "https://notify.moe/anime/YCUHhKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a689549c8dec6ba0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.600302146832759,
+    "arithmeticGeometricMean": 6.582562311107166,
+    "median": 6.909090909090909,
+    "hash": "a689549c8dec6ba0",
+    "lastUpdate": "2024-05-09"
+  }
+}

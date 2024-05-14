@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13373",
+    "https://anilist.co/anime/103434",
+    "https://anime-planet.com/anime/zenchuu-maite",
+    "https://anisearch.com/anime/10993",
+    "https://kitsu.io/anime/10722",
+    "https://myanimelist.net/anime/30211",
+    "https://notify.moe/anime/NjyQtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9f773e6c7b1e441f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.9547940630797775,
+    "arithmeticGeometricMean": 3.9066520994570486,
+    "median": 3.42,
+    "hash": "9f773e6c7b1e441f",
+    "lastUpdate": "2024-05-08"
+  }
+}

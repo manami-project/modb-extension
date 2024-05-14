@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14377",
+    "https://anilist.co/anime/121186",
+    "https://anime-planet.com/anime/jiyi-u-pan",
+    "https://anisearch.com/anime/13900",
+    "https://myanimelist.net/anime/41942"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bf4bc09bd1daf9b8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.909090909090909,
+    "arithmeticGeometricMean": 4.909090909090909,
+    "median": 4.909090909090909,
+    "hash": "bf4bc09bd1daf9b8",
+    "lastUpdate": "2024-05-08"
+  }
+}

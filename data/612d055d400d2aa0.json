@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121044",
+    "https://anime-planet.com/anime/yellow-fish",
+    "https://kitsu.io/anime/44964",
+    "https://myanimelist.net/anime/42277"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "612d055d400d2aa0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.454121212121212,
+    "arithmeticGeometricMean": 5.42629280811881,
+    "median": 5.2,
+    "hash": "612d055d400d2aa0",
+    "lastUpdate": "2024-05-07"
+  }
+}

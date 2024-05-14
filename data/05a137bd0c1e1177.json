@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6874",
+    "https://anilist.co/anime/7528",
+    "https://anime-planet.com/anime/kujira-1952",
+    "https://anisearch.com/anime/5964",
+    "https://kitsu.io/anime/5018",
+    "https://myanimelist.net/anime/7528",
+    "https://notify.moe/anime/p5iztFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "05a137bd0c1e1177",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.147048325823836,
+    "arithmeticGeometricMean": 5.129259536409836,
+    "median": 4.99,
+    "hash": "05a137bd0c1e1177",
+    "lastUpdate": "2024-05-07"
+  }
+}

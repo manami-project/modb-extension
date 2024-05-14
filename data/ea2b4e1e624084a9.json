@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6357",
+    "https://anilist.co/anime/19167",
+    "https://anime-planet.com/anime/senbon-matsubara",
+    "https://anisearch.com/anime/4588",
+    "https://kitsu.io/anime/9573",
+    "https://myanimelist.net/anime/19167",
+    "https://notify.moe/anime/x1kLtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ea2b4e1e624084a9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.787815213358071,
+    "arithmeticGeometricMean": 5.755082498001919,
+    "median": 5.0,
+    "hash": "ea2b4e1e624084a9",
+    "lastUpdate": "2024-05-08"
+  }
+}

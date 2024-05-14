@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16089",
+    "https://anilist.co/anime/132417",
+    "https://anime-planet.com/anime/bessatsu-kamen-rider-saber-tanpen-katsudou-manga-shuu",
+    "https://livechart.me/anime/10547",
+    "https://myanimelist.net/anime/47425"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0fa910612df5592a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.027363636363637,
+    "arithmeticGeometricMean": 6.003626476644596,
+    "median": 6.027363636363637,
+    "hash": "0fa910612df5592a",
+    "lastUpdate": "2024-05-09"
+  }
+}

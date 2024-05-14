@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11606",
+    "https://anilist.co/anime/21366",
+    "https://anime-planet.com/anime/march-comes-in-like-a-lion",
+    "https://anisearch.com/anime/10792",
+    "https://kitsu.io/anime/11380",
+    "https://livechart.me/anime/1835",
+    "https://myanimelist.net/anime/31646",
+    "https://notify.moe/anime/9qLrpFmiR"
+  ],
+  "synopsis": {
+    "text": "Burdened by a solitary existence and the weight of professional Shogi, 17-year-old Rei Kiriyama grapples with emotional immaturity and personal demons. Orphaned at a young age and alienated from his adoptive family, Rei seeks solace in his Tokyo apartment, but his life takes an unexpected turn when he encounters the warm-hearted Kawamoto sisters - Akari, Hinata, and Momo.\n\nLiving under the same roof as their grandfather, the sisters welcome Rei into their humble abode with open arms, providing him with the affection and care he has long been deprived of. As he frequently visits and interacts with the Kawamoto family, Rei begins to experience a sense of belonging that was absent from his foster home.\n\nHowever, Rei's professional Shogi career hangs in the balance, as the immense pressure from the community and his adoptive family causes his performance to waver. Struggling to maintain his mental and emotional well-being, Rei must navigate the complexities of his relationships and confront his inner turmoil in order to grow as a person and a Shogi player. This is a poignant tale of resilience, human connection, and the pursuit of happiness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c2070f1b9e965bd0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.214612563656214,
+    "arithmeticGeometricMean": 8.21365175108297,
+    "median": 8.247201646090534,
+    "hash": "c2070f1b9e965bd0",
+    "lastUpdate": "2024-05-08"
+  }
+}

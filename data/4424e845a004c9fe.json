@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2048",
+    "https://anilist.co/anime/3873",
+    "https://anime-planet.com/anime/honey-honey",
+    "https://anisearch.com/anime/1318",
+    "https://kitsu.io/anime/3313",
+    "https://myanimelist.net/anime/3873",
+    "https://notify.moe/anime/lV8_5Fiig"
+  ],
+  "score": {
+    "arithmeticMean": 5.457025974025974,
+    "arithmeticGeometricMean": 5.404901899115278,
+    "median": 5.7263636363636365,
+    "hash": "4424e845a004c9fe",
+    "lastUpdate": "2024-05-07"
+  }
+}

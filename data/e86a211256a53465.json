@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3088",
+    "https://anilist.co/anime/12243",
+    "https://anime-planet.com/anime/game-center-arashi",
+    "https://anisearch.com/anime/1087",
+    "https://kitsu.io/anime/6694",
+    "https://livechart.me/anime/10984",
+    "https://myanimelist.net/anime/12243",
+    "https://notify.moe/anime/ModNtFimR"
+  ],
+  "synopsis": {
+    "text": "The anime \"Game Center Arashi\" follows the gaming adventures of Arashi Ishino, a young boy with an unquenchable passion for video games. Arashi spends every waking moment at the local arcades, determined to conquer each game and outscore his competitors. Among his rivals are Satoru Daimonji and Ishii, who challenge him at every turn. Arashi's signature move involves unleashing a top that spins so rapidly it ignites both the top and his hands. Upon release, the turbo-charged spin transforms ordinary buttons into turbo buttons, granting him a significant edge. Recognizable by his bucktooth grin and hat emblazoned with \"Arashi\" and a sprited alien, Arashi's ultimate goal is to outplay and outlast his opponents. Will he emerge victorious in this thrilling, high-stakes gaming world?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e86a211256a53465",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.8653611626468765,
+    "arithmeticGeometricMean": 5.833383195851664,
+    "median": 5.845083487940631,
+    "hash": "e86a211256a53465",
+    "lastUpdate": "2024-05-09"
+  }
+}

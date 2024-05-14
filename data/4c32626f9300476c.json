@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2510",
+    "https://anilist.co/anime/541",
+    "https://anime-planet.com/anime/tenchi-muyo-ryo-ohki-3",
+    "https://anisearch.com/anime/2754",
+    "https://kitsu.io/anime/500",
+    "https://livechart.me/anime/5721",
+    "https://myanimelist.net/anime/541",
+    "https://notify.moe/anime/-Y-TcFmmR"
+  ],
+  "synopsis": {
+    "text": "Family secrets, unexpected fiancées, and intergalactic intrigue abound as Tenchi Masaki's life takes a series of dramatic turns. The enigmatic Lady Tokimi sends the formidable warrior Z to Earth to investigate Tenchi's ties to Washu and Tsunami. However, Z's intentions might not be as straightforward as they seem, as he stirs up trouble for Tenchi despite orders not to harm him. Meanwhile, Tenchi's father and grandfather believe it's time for him to delve deeper into his Jurian lineage. As if that weren't enough, new female arrivals at the Masaki household disrupt the delicate balance, further fueling the competition for Tenchi's affections. Among these newcomers is Noike, a woman claiming to be Tenchi's betrothed, turning his world upside down. As Tenchi grapples with his past and the complexities of his present, he must navigate the challenges that come with his newfound royal heritage and the chaos that follows in its wake.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c32626f9300476c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.4950766852195425,
+    "arithmeticGeometricMean": 7.493301299621956,
+    "median": 7.491818181818182,
+    "hash": "4c32626f9300476c",
+    "lastUpdate": "2024-05-10"
+  }
+}

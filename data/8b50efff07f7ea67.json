@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/119402",
+    "https://anime-planet.com/anime/chou-futsuu-toshi-kashiwa-densetsu",
+    "https://anisearch.com/anime/15568",
+    "https://kitsu.io/anime/43574",
+    "https://livechart.me/anime/9992",
+    "https://myanimelist.net/anime/42054"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b50efff07f7ea67",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.77708719851577,
+    "arithmeticGeometricMean": 5.761882039936004,
+    "median": 5.75826530612245,
+    "hash": "8b50efff07f7ea67",
+    "lastUpdate": "2024-05-06"
+  }
+}

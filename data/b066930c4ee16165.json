@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12515",
+    "https://anime-planet.com/anime/tamagotchi-movie-3-himitsu-no-otodake-daisakusen",
+    "https://anisearch.com/anime/12306",
+    "https://kitsu.io/anime/12845",
+    "https://livechart.me/anime/2398",
+    "https://myanimelist.net/anime/34310",
+    "https://notify.moe/anime/SjNZhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b066930c4ee16165",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.385931972789115,
+    "arithmeticGeometricMean": 5.347711759006063,
+    "median": 5.0,
+    "hash": "b066930c4ee16165",
+    "lastUpdate": "2024-05-10"
+  }
+}

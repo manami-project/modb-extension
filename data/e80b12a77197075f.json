@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3515",
+    "https://anilist.co/anime/5904",
+    "https://anime-planet.com/anime/b-b-fish",
+    "https://anisearch.com/anime/2563",
+    "https://kitsu.io/anime/4329",
+    "https://myanimelist.net/anime/5904",
+    "https://notify.moe/anime/AoM35Fimg"
+  ],
+  "synopsis": {
+    "text": "Blue Butterfly Fish, a creature of legend, is the elusive target for Ushio, a gifted freediver with an uncanny ability to manipulate and breathe underwater. Alongside his friends, including his childhood companion Sara, Ushio embarks on an adventure to a tropical paradise, where the fabled fish is rumored to appear on a midsummer night. As they dive into the crystal-clear waters, they cross paths with Ayuuru, a local girl who seems to share Ushio's unique abilities and might hold the key to finding the legendary fish. Will Ushio and his friends unravel the mystery of the Blue Butterfly Fish? Join them in their thrilling underwater quest, filled with unexpected encounters and breathtaking discoveries.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e80b12a77197075f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.61509886032335,
+    "arithmeticGeometricMean": 4.589049191387306,
+    "median": 4.79,
+    "hash": "e80b12a77197075f",
+    "lastUpdate": "2024-05-08"
+  }
+}

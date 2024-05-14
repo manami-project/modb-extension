@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107529",
+    "https://anime-planet.com/anime/japanese-chess",
+    "https://kitsu.io/anime/45585"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c46b1242dd3c3b08",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.818181818181818,
+    "arithmeticGeometricMean": 4.818181818181818,
+    "median": 4.818181818181818,
+    "hash": "c46b1242dd3c3b08",
+    "lastUpdate": "2024-05-06"
+  }
+}

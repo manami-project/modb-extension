@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18493",
+    "https://anilist.co/anime/174788",
+    "https://anime-planet.com/anime/look-back",
+    "https://anisearch.com/anime/19071",
+    "https://kitsu.io/anime/48541",
+    "https://livechart.me/anime/12529",
+    "https://myanimelist.net/anime/58125",
+    "https://notify.moe/anime/SjQ5f_TIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0fcb6fbc6c8068d2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "0fcb6fbc6c8068d2",
+    "lastUpdate": "2024-05-11"
+  }
+}

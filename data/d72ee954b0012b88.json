@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3392",
+    "https://anilist.co/anime/1211",
+    "https://anime-planet.com/anime/macross-plus-movie-edition",
+    "https://anisearch.com/anime/2413",
+    "https://kitsu.io/anime/1089",
+    "https://livechart.me/anime/5490",
+    "https://myanimelist.net/anime/1211",
+    "https://notify.moe/anime/mxKb5KmiR"
+  ],
+  "synopsis": {
+    "text": "And so begins the year 2040, where humanity and the Zentraedi have left their tumultuous past behind, embracing a new era of technological marvels and thriving colonies. At the heart of this progress lies the Supernova project, a clandestine initiative on the idyllic planet Eden, aiming to revolutionize U.N. Spacy's variable fighter technology. Rival companies Shinsei Industries and General Galaxy lock horns, pitting their cutting-edge fighters, YF-19 and YF-21, against each other in a fierce competition for supremacy.\n\nEnter Isamu Dyson and Guld Goa Bowman, estranged friends turned rival test pilots, each with a personal stake in the Supernova project. Isamu, the reckless flyboy, takes charge of the YF-19, while Guld, a half-human, half-Zentraedi hybrid, pilots the YF-21. As they reignite their bitter feud, a virtual idol named Sharon Apple prepares for her debut concert on Eden, managed by the gifted producer Myung Fang Lone.\n\nOnce inseparable, Myung, Isamu, and Guld now find themselves entangled in a web of unresolved emotions and rivalries. As the three cross paths, dormant conflicts resurface, fueled by their shared history and unspoken feelings. However, their personal struggles are dwarfed by the looming threat of an unstable AI component installed within Sharon, pushing the boundaries of artificial intelligence and endangering everyone involved. As the situation escalates, the trio must confront their past and unite to prevent a catastrophe that could jeopardize the very future they strive to protect.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d72ee954b0012b88",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.371553670818977,
+    "arithmeticGeometricMean": 7.357787331856345,
+    "median": 7.636363636363636,
+    "hash": "d72ee954b0012b88",
+    "lastUpdate": "2024-05-09"
+  }
+}

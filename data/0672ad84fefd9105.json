@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4322",
+    "https://anilist.co/anime/3336",
+    "https://anime-planet.com/anime/open-your-mind",
+    "https://anisearch.com/anime/4035",
+    "https://kitsu.io/anime/2945",
+    "https://myanimelist.net/anime/3336",
+    "https://notify.moe/anime/dEowcFimg"
+  ],
+  "synopsis": {
+    "text": "Each act of \"Open Your Mind,\" a captivating musical drama, unveils the celestial journey of life's extraterrestrial origins as six divine beings descend from outer space. These ethereal entities govern the six elements of the godai philosophy: Earth, Water, Fire, Wind (kaze), Sky, and Consciousness (Awakening). As they traverse through water (Sho-ho), air (Hyakkin), and land (Ku-nu), these deities evolve and shape the planet's terrain, creating a breathtaking spectacle of change.\n\nDirected by Oshii Mamoru, this IMAX-like theme theater experience combines live-action footage with CGI animation, immersing viewers in a world where fantasy and technology merge to create stunning visuals. Join this advanced civilization as they explore an alien planet, and witness the harmonious coexistence of its extraordinary creatures with their surroundings. Prepare to be enchanted by the unique score and mesmerizing imagery as you embark on this extraordinary voyage through the elements.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0672ad84fefd9105",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.341894513649615,
+    "arithmeticGeometricMean": 5.3145024441192525,
+    "median": 5.545454545454546,
+    "hash": "0672ad84fefd9105",
+    "lastUpdate": "2024-05-07"
+  }
+}

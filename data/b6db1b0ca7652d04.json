@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12617",
+    "https://anilist.co/anime/98090",
+    "https://anime-planet.com/anime/kochinpa-dainiki",
+    "https://anisearch.com/anime/12136",
+    "https://kitsu.io/anime/12825",
+    "https://livechart.me/anime/2452",
+    "https://myanimelist.net/anime/34503",
+    "https://notify.moe/anime/1dVZhKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b6db1b0ca7652d04",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.7340400212032865,
+    "arithmeticGeometricMean": 4.700297699762443,
+    "median": 4.636734693877551,
+    "hash": "b6db1b0ca7652d04",
+    "lastUpdate": "2024-05-09"
+  }
+}

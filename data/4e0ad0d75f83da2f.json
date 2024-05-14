@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8453",
+    "https://anilist.co/anime/10511",
+    "https://anime-planet.com/anime/toyama-kankou-anime-project",
+    "https://anisearch.com/anime/9163",
+    "https://kitsu.io/anime/6215",
+    "https://myanimelist.net/anime/10511",
+    "https://notify.moe/anime/AzVVpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e0ad0d75f83da2f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.089184733633713,
+    "arithmeticGeometricMean": 5.042948469338188,
+    "median": 5.096,
+    "hash": "4e0ad0d75f83da2f",
+    "lastUpdate": "2024-05-08"
+  }
+}

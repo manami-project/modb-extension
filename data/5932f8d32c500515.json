@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3158",
+    "https://anilist.co/anime/4074",
+    "https://anime-planet.com/anime/call-of-the-wild-howl-buck",
+    "https://anisearch.com/anime/1863",
+    "https://kitsu.io/anime/3449",
+    "https://livechart.me/anime/8065",
+    "https://myanimelist.net/anime/4074",
+    "https://notify.moe/anime/leMXcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5932f8d32c500515",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.822155844155844,
+    "arithmeticGeometricMean": 5.791042627721617,
+    "median": 5.53,
+    "hash": "5932f8d32c500515",
+    "lastUpdate": "2024-05-08"
+  }
+}

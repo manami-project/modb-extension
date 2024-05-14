@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/718",
+    "https://anilist.co/anime/85",
+    "https://anime-planet.com/anime/mobile-suit-zeta-gundam",
+    "https://anisearch.com/anime/1959",
+    "https://kitsu.io/anime/64",
+    "https://livechart.me/anime/4659",
+    "https://myanimelist.net/anime/85",
+    "https://notify.moe/anime/-att5Fmmg"
+  ],
+  "synopsis": {
+    "text": "Titans, an elite military force of the Earth Federation, are causing unrest in the space colonies in Universal Century 0087, seven years after the One Year War. The Anti-Earth Union Group (AEUG) rises to challenge the Titans' tyranny and protect the colonies' citizens. Kamille Bidan, a young resident of Green Noa colony, finds himself entangled in the escalating conflict when he encounters the Titans' latest weapon, the Gundam Mk-II. After clashing with a group of Titans, Kamille seizes the opportunity to escape in the Gundam Mk-II, discovering his hidden potential as a Newtype and becoming an unexpected ally to the AEUG in their fight against the Titans' oppression. As the new war looms, Kamille's piloting skills and determination might be the key to turning the tide in this interstellar struggle.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0633617956b9ed6c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.583370398398593,
+    "arithmeticGeometricMean": 7.57712666526892,
+    "median": 7.6899999999999995,
+    "hash": "0633617956b9ed6c",
+    "lastUpdate": "2024-05-09"
+  }
+}

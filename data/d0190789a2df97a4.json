@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4781",
+    "https://anilist.co/anime/1695",
+    "https://anime-planet.com/anime/les-miserables-shoujo-cosette",
+    "https://anisearch.com/anime/3922",
+    "https://kitsu.io/anime/1523",
+    "https://livechart.me/anime/5626",
+    "https://myanimelist.net/anime/1695",
+    "https://notify.moe/anime/EA7BcKmiR"
+  ],
+  "synopsis": {
+    "text": "France in the early 19th century is a challenging place for Fantine, a single mother, and her young daughter, Cosette. Desperate for work and a place to call home, they are constantly met with rejection due to societal prejudices against single mothers. When Fantine is lured by the promise of prosperity in the city, she leaves Cosette in the care of the Thenardiers, who reveal their true colors once Fantine is gone. Instead of providing care, they subject Cosette to harsh labor and exploitation. Meanwhile, Fantine dreams of the day when she can reunite with her daughter. In the midst of these trials, a kind mayor steps into the picture, determined to bring about change for children and families. One fateful night, Cosette encounters Jean Valjean, a man of honor who recognizes her plight and rescues her from the Thenardiers. Under his protection, Cosette experiences a new life filled with hope and promise. Inspired by her own rescue, she vows to help others and heal the nation from the ravages of poverty and suffering left by the French Revolution.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d0190789a2df97a4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.746061224489796,
+    "arithmeticGeometricMean": 7.743216816663769,
+    "median": 7.845454545454546,
+    "hash": "d0190789a2df97a4",
+    "lastUpdate": "2024-05-09"
+  }
+}

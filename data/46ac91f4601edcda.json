@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7175",
+    "https://anilist.co/anime/124434",
+    "https://anime-planet.com/anime/hello-kitty-ringo-no-mori-no-mystery",
+    "https://anisearch.com/anime/5885",
+    "https://kitsu.io/anime/9002",
+    "https://livechart.me/anime/12085",
+    "https://myanimelist.net/anime/22439",
+    "https://notify.moe/anime/rHubpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46ac91f4601edcda",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.401177489177489,
+    "arithmeticGeometricMean": 5.317303994638251,
+    "median": 5.465,
+    "hash": "46ac91f4601edcda",
+    "lastUpdate": "2024-05-09"
+  }
+}

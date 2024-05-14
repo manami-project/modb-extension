@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9140",
+    "https://anilist.co/anime/6616",
+    "https://anime-planet.com/anime/coffee-samurai",
+    "https://anisearch.com/anime/5445",
+    "https://kitsu.io/anime/4635",
+    "https://livechart.me/anime/8770",
+    "https://notify.moe/anime/1RT6cKimR"
+  ],
+  "synopsis": {
+    "text": "Hemi, a contemporary college student in Seoul, finds herself in an unconventional love story with Jin, a samurai from the Sengoku era reincarnated as a coffee vending machine. Jin, once a formidable swordsman, wished for an indestructible steel body in his next life following his defeat at the hands of assassins. His wish was granted, albeit in an unexpected form, leading him to roam the streets and engage in battles with enigmatic adversaries. Amidst these peculiar circumstances, Jin and Hemi's paths cross, sparking an unusual bond. As they navigate through their unique relationship, they must also confront the challenges posed by Jin's mysterious foes, raising the question: Can love blossom between a woman and a man who transforms into a beverage dispenser at will?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0dec670671cd10c1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.470507421150278,
+    "arithmeticGeometricMean": 5.4444325367806865,
+    "median": 5.492,
+    "hash": "0dec670671cd10c1",
+    "lastUpdate": "2024-05-09"
+  }
+}

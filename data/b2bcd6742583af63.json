@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/bts-we-are-bulletproof-the-eternal",
+    "https://anisearch.com/anime/15731",
+    "https://kitsu.io/anime/45662",
+    "https://myanimelist.net/anime/42199"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b2bcd6742583af63",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.873469387755101,
+    "arithmeticGeometricMean": 6.824039928852528,
+    "median": 6.38,
+    "hash": "b2bcd6742583af63",
+    "lastUpdate": "2024-05-07"
+  }
+}

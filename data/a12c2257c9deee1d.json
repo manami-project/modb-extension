@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127887",
+    "https://anime-planet.com/anime/collapse-zen",
+    "https://kitsu.io/anime/45083",
+    "https://myanimelist.net/anime/40106"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a12c2257c9deee1d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.910606060606061,
+    "arithmeticGeometricMean": 4.891021537290667,
+    "median": 4.85,
+    "hash": "a12c2257c9deee1d",
+    "lastUpdate": "2024-05-07"
+  }
+}

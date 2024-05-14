@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/123147",
+    "https://anime-planet.com/anime/tian-shu-qi-tan",
+    "https://anisearch.com/anime/15404",
+    "https://kitsu.io/anime/41754",
+    "https://myanimelist.net/anime/37228"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca6cd6500691ace2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0,
+    "arithmeticGeometricMean": 6.0,
+    "median": 6.0,
+    "hash": "ca6cd6500691ace2",
+    "lastUpdate": "2024-05-07"
+  }
+}

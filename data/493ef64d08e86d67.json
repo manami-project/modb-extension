@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15957",
+    "https://anilist.co/anime/128369",
+    "https://anime-planet.com/anime/gloomy-the-naughty-grizzly",
+    "https://anisearch.com/anime/15863",
+    "https://kitsu.io/anime/44213",
+    "https://livechart.me/anime/10300",
+    "https://myanimelist.net/anime/45587",
+    "https://notify.moe/anime/v-MoMxwMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "493ef64d08e86d67",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.119565089672232,
+    "arithmeticGeometricMean": 5.048718629876953,
+    "median": 5.129684601113173,
+    "hash": "493ef64d08e86d67",
+    "lastUpdate": "2024-05-09"
+  }
+}

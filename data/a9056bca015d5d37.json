@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4364",
+    "https://anilist.co/anime/102643",
+    "https://anime-planet.com/anime/hong-haier-juezhan-huoyanshan",
+    "https://anisearch.com/anime/12024",
+    "https://kitsu.io/anime/12937",
+    "https://myanimelist.net/anime/33465",
+    "https://notify.moe/anime/uVbW2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a9056bca015d5d37",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.79174322820037,
+    "arithmeticGeometricMean": 5.754822909967999,
+    "median": 5.0,
+    "hash": "a9056bca015d5d37",
+    "lastUpdate": "2024-05-08"
+  }
+}

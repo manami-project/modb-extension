@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5248",
+    "https://anilist.co/anime/9881",
+    "https://anime-planet.com/anime/chou-supercar-gattiger",
+    "https://anisearch.com/anime/3934",
+    "https://kitsu.io/anime/5918",
+    "https://myanimelist.net/anime/9881",
+    "https://notify.moe/anime/vmuMtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4377a879431ae6a7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.169919604205318,
+    "arithmeticGeometricMean": 5.07982396760202,
+    "median": 4.863636363636363,
+    "hash": "4377a879431ae6a7",
+    "lastUpdate": "2024-05-08"
+  }
+}

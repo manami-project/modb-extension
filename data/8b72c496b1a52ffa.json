@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103357",
+    "https://anime-planet.com/anime/mukidashi-no-mitsuko",
+    "https://anisearch.com/anime/13342",
+    "https://kitsu.io/anime/12454",
+    "https://myanimelist.net/anime/33694",
+    "https://notify.moe/anime/be0k2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b72c496b1a52ffa",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.802007421150279,
+    "arithmeticGeometricMean": 4.785455692342824,
+    "median": 4.636363636363637,
+    "hash": "8b72c496b1a52ffa",
+    "lastUpdate": "2024-05-06"
+  }
+}

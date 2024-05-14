@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8074",
+    "https://anilist.co/anime/9979",
+    "https://anime-planet.com/anime/pretty-cure-all-stars-dx-3-mirai-ni-todoke-sekai-wo-tsunagu-niji-iro-no-hana",
+    "https://anisearch.com/anime/6603",
+    "https://kitsu.io/anime/5977",
+    "https://livechart.me/anime/5603",
+    "https://myanimelist.net/anime/9979",
+    "https://notify.moe/anime/QnWnpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6057efd12c930f79",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.3302369467267425,
+    "arithmeticGeometricMean": 7.320190518289949,
+    "median": 7.454545454545454,
+    "hash": "6057efd12c930f79",
+    "lastUpdate": "2024-05-09"
+  }
+}

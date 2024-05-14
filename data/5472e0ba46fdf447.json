@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7789",
+    "https://anime-planet.com/anime/kero-kero-keroppi-no-robin-hood",
+    "https://anisearch.com/anime/2314",
+    "https://kitsu.io/anime/9379",
+    "https://myanimelist.net/anime/17987",
+    "https://notify.moe/anime/3xvfpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5472e0ba46fdf447",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.179722448979591,
+    "arithmeticGeometricMean": 5.133440571727106,
+    "median": 4.33,
+    "hash": "5472e0ba46fdf447",
+    "lastUpdate": "2024-05-08"
+  }
+}

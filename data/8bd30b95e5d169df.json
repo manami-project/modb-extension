@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3093",
+    "https://anilist.co/anime/20081",
+    "https://anime-planet.com/anime/ijiwaru-baa-san-1996",
+    "https://anisearch.com/anime/1494",
+    "https://kitsu.io/anime/9337",
+    "https://livechart.me/anime/11745",
+    "https://myanimelist.net/anime/20081",
+    "https://notify.moe/anime/RpMftFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8bd30b95e5d169df",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.456355287569574,
+    "arithmeticGeometricMean": 4.21837781103711,
+    "median": 4.636363636363637,
+    "hash": "8bd30b95e5d169df",
+    "lastUpdate": "2024-05-09"
+  }
+}

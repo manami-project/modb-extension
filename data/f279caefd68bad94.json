@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17901",
+    "https://anilist.co/anime/159728",
+    "https://anime-planet.com/anime/detarame-na-sekai-no-melodrama",
+    "https://anisearch.com/anime/17998",
+    "https://kitsu.io/anime/47249",
+    "https://livechart.me/anime/11884",
+    "https://myanimelist.net/anime/54810"
+  ],
+  "score": {
+    "arithmeticMean": 6.418191465677181,
+    "arithmeticGeometricMean": 6.409568380306053,
+    "median": 6.19,
+    "hash": "f279caefd68bad94",
+    "lastUpdate": "2024-05-09"
+  }
+}

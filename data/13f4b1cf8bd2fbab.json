@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10116",
+    "https://anime-planet.com/anime/tabidachi-no-hi-ni",
+    "https://anisearch.com/anime/9153",
+    "https://kitsu.io/anime/9650",
+    "https://myanimelist.net/anime/26219",
+    "https://notify.moe/anime/oedLtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "13f4b1cf8bd2fbab",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "13f4b1cf8bd2fbab",
+    "lastUpdate": "2024-05-08"
+  }
+}

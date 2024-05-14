@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169051",
+    "https://anime-planet.com/anime/ichiban-kirei-na-hoshi",
+    "https://kitsu.io/anime/42737",
+    "https://myanimelist.net/anime/38306"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "96c8cf8ca2016404",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.482818181818182,
+    "arithmeticGeometricMean": 5.424943653095145,
+    "median": 5.482818181818182,
+    "hash": "96c8cf8ca2016404",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2337",
+    "https://anilist.co/anime/2118",
+    "https://anime-planet.com/anime/captain-tsubasa-europe-daikessen",
+    "https://anisearch.com/anime/2257",
+    "https://kitsu.io/anime/1915",
+    "https://livechart.me/anime/7222",
+    "https://myanimelist.net/anime/2118",
+    "https://notify.moe/anime/4BQL5Kimg"
+  ],
+  "synopsis": {
+    "text": "Captain Tsubasa's first movie culminates in an electrifying soccer match between the best of Europe and Japan's finest young players, marking the grand finale of the initial TV series. As the Japanese team sets foot on European soil, they're confronted with formidable opponents boasting skills and prowess they've never before encountered. The match kicks off with a spectacular goal by Japan's Tachibana brothers, showcasing their unique 'acrobatic soccer' technique. However, the European team's impeccable coordination and the seemingly invincible German captain, Karl-Heinz Schneider, present challenges that Japan must surmount to claim victory.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26252b48e73e1847",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.7916660482374756,
+    "arithmeticGeometricMean": 6.776826040427966,
+    "median": 6.89,
+    "hash": "26252b48e73e1847",
+    "lastUpdate": "2024-05-09"
+  }
+}

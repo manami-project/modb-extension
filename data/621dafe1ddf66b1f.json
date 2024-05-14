@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15343",
+    "https://anilist.co/anime/110318",
+    "https://anime-planet.com/anime/squishy-black-clover",
+    "https://anisearch.com/anime/14489",
+    "https://kitsu.io/anime/42426",
+    "https://livechart.me/anime/9492",
+    "https://myanimelist.net/anime/40031",
+    "https://notify.moe/anime/hZQQGJIWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "621dafe1ddf66b1f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.432700834879406,
+    "arithmeticGeometricMean": 6.418901033262846,
+    "median": 6.427,
+    "hash": "621dafe1ddf66b1f",
+    "lastUpdate": "2024-05-09"
+  }
+}

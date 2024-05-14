@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/112138",
+    "https://anime-planet.com/anime/pinocchio-p-naizou-arimasuka"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c460bbe79ab4b73",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.986909090909091,
+    "arithmeticGeometricMean": 6.985549448332359,
+    "median": 6.986909090909091,
+    "hash": "4c460bbe79ab4b73",
+    "lastUpdate": "2024-05-07"
+  }
+}

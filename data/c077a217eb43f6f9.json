@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3080",
+    "https://anilist.co/anime/17671",
+    "https://anime-planet.com/anime/animal-1",
+    "https://anisearch.com/anime/3334",
+    "https://kitsu.io/anime/9190",
+    "https://livechart.me/anime/11661",
+    "https://myanimelist.net/anime/17671",
+    "https://notify.moe/anime/FAx-tFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c077a217eb43f6f9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.45808719851577,
+    "arithmeticGeometricMean": 5.436820573892868,
+    "median": 5.301363636363636,
+    "hash": "c077a217eb43f6f9",
+    "lastUpdate": "2024-05-08"
+  }
+}

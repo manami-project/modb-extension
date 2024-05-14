@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13776",
+    "https://anime-planet.com/anime/boonie-bears-robo-rumble",
+    "https://anisearch.com/anime/15621",
+    "https://kitsu.io/anime/40986",
+    "https://myanimelist.net/anime/37098",
+    "https://notify.moe/anime/VbXOhKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9948f7292dbd5012",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 2.6530612244897958,
+    "arithmeticGeometricMean": 2.6530612244897958,
+    "median": 2.6530612244897958,
+    "hash": "9948f7292dbd5012",
+    "lastUpdate": "2024-05-08"
+  }
+}

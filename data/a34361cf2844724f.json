@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/10842",
+    "https://anime-planet.com/anime/fullmetal-alchemist-the-sacred-star-of-milos-specials",
+    "https://kitsu.io/anime/6378",
+    "https://livechart.me/anime/5830",
+    "https://myanimelist.net/anime/10842",
+    "https://notify.moe/anime/Tfr4pFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a34361cf2844724f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.836363636363637,
+    "arithmeticGeometricMean": 6.827170305662686,
+    "median": 6.871363636363637,
+    "hash": "a34361cf2844724f",
+    "lastUpdate": "2024-05-06"
+  }
+}

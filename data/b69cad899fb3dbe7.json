@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/626",
+    "https://anilist.co/anime/88",
+    "https://anime-planet.com/anime/mobile-suit-gundam-f91",
+    "https://anisearch.com/anime/1978",
+    "https://kitsu.io/anime/67",
+    "https://livechart.me/anime/4987",
+    "https://myanimelist.net/anime/88",
+    "https://notify.moe/anime/CZhp5Fiig"
+  ],
+  "synopsis": {
+    "text": "Using the advanced technology of the Universal Century 0123, humanity has expanded beyond Earth, establishing colonies in the far reaches of space. Amidst this era of tranquility, the aristocratic Crossbone Vanguard emerges, intent on seizing control of the Frontier IV colony to establish their own aristocratic utopia, Cosmo Babylonia. As the unsuspecting inhabitants of Frontier IV find themselves in the midst of a sudden war, Seabook Arno, an ordinary teenager, is thrust into an extraordinary role.\n\nIn order to protect his loved ones and defend his home, Seabook becomes the unlikely pilot of the state-of-the-art Gundam F91, a machine designed in part by his very own estranged mother. As he navigates the complexities of war, Seabook must confront his childhood friend, Cecily Fairchild, who is entangled with the Crossbone Vanguard through her powerful family. With the fate of his world hanging in the balance, Seabook must decide if he will stand with the Earth Federation or join Cecily in her quest for a new and potentially better way of life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b69cad899fb3dbe7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.681068903318904,
+    "arithmeticGeometricMean": 6.670829002943286,
+    "median": 6.711,
+    "hash": "b69cad899fb3dbe7",
+    "lastUpdate": "2024-05-09"
+  }
+}

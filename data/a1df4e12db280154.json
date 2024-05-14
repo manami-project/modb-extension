@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4560",
+    "https://anilist.co/anime/1863",
+    "https://anime-planet.com/anime/silk-road-boy-yuto",
+    "https://anisearch.com/anime/3621",
+    "https://kitsu.io/anime/1680",
+    "https://livechart.me/anime/8438",
+    "https://myanimelist.net/anime/1863",
+    "https://notify.moe/anime/XyQfcFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a1df4e12db280154",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.157081014223871,
+    "arithmeticGeometricMean": 4.077264263631356,
+    "median": 4.818181818181818,
+    "hash": "a1df4e12db280154",
+    "lastUpdate": "2024-05-10"
+  }
+}

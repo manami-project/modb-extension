@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17353",
+    "https://anilist.co/anime/148465",
+    "https://anime-planet.com/anime/my-unique-skill-makes-me-op-even-at-level-1",
+    "https://anisearch.com/anime/17364",
+    "https://kitsu.io/anime/46099",
+    "https://livechart.me/anime/11207",
+    "https://myanimelist.net/anime/51764",
+    "https://notify.moe/anime/lrY8fYung"
+  ],
+  "synopsis": {
+    "text": "Can you imagine being transported from a mundane, overworked life to a fantastical world brimming with adventure and danger? That's exactly what happens to Ryota Sato, an ordinary salaryman who finds himself inexplicably thrust into a realm where battling monsters and looting dungeons is the norm. Initially, Ryota's prospects seem grim; he's stuck at the lowest possible level, and all his stats are abysmally weak. However, he soon discovers an extraordinary ability: a knack for obtaining rare and valuable drops from the monsters he encounters.\n\nIn this RPG-like world, Ryota's life takes a dramatic turn as he teams up with Emily Brown, a young and skilled adventurer who initially mistakes him for a monster. Despite his lack of traditional strength, Ryota's unique skill propels him on a thrilling journey filled with uncommon treasures, formidable challenges, and unexpected friendships. Will Ryota's rare drop skill be enough to help him survive in this strange new world, or will his low level ultimately spell his doom? Join Ryota and Emily as they embark on an adventure that blends the excitement of fantasy with the perils of reality.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73fb9ae81dcf0def",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.514043037789278,
+    "arithmeticGeometricMean": 6.50273378122474,
+    "median": 6.637684210526316,
+    "hash": "73fb9ae81dcf0def",
+    "lastUpdate": "2024-05-09"
+  }
+}

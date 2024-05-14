@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6654",
+    "https://anilist.co/anime/5713",
+    "https://anime-planet.com/anime/minami-ke-betsubara",
+    "https://anisearch.com/anime/5240",
+    "https://kitsu.io/anime/4254",
+    "https://livechart.me/anime/4203",
+    "https://myanimelist.net/anime/5713",
+    "https://notify.moe/anime/gzXCcFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b63e9f9c7b22e6a2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.486344851576994,
+    "arithmeticGeometricMean": 7.484740904927276,
+    "median": 7.539545454545455,
+    "hash": "b63e9f9c7b22e6a2",
+    "lastUpdate": "2024-05-09"
+  }
+}

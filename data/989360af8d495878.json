@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10315",
+    "https://anilist.co/anime/20557",
+    "https://anime-planet.com/anime/mou-hitotsu-no-mirai-wo",
+    "https://anisearch.com/anime/9280",
+    "https://kitsu.io/anime/8205",
+    "https://livechart.me/anime/5157",
+    "https://myanimelist.net/anime/21587",
+    "https://notify.moe/anime/PD5TtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "989360af8d495878",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.001430691757222,
+    "arithmeticGeometricMean": 5.99818997436594,
+    "median": 6.02,
+    "hash": "989360af8d495878",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11630",
+    "https://anime-planet.com/anime/bary-san-no-imabari-ben-kouza",
+    "https://anisearch.com/anime/11535",
+    "https://kitsu.io/anime/11078",
+    "https://livechart.me/anime/1657",
+    "https://myanimelist.net/anime/30989",
+    "https://notify.moe/anime/-UvutFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ff1db90caf98f841",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.663265306122449,
+    "arithmeticGeometricMean": 5.643761500998084,
+    "median": 5.663265306122449,
+    "hash": "ff1db90caf98f841",
+    "lastUpdate": "2024-05-08"
+  }
+}

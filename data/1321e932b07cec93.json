@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2163",
+    "https://anilist.co/anime/669",
+    "https://anime-planet.com/anime/kujibiki-unbalance-ova",
+    "https://anisearch.com/anime/173",
+    "https://kitsu.io/anime/613",
+    "https://livechart.me/anime/6775",
+    "https://myanimelist.net/anime/669",
+    "https://notify.moe/anime/fXMAcKmmR"
+  ],
+  "synopsis": {
+    "text": "Chihiro Enomoto, a freshman at Rikkyoin High School, finds himself navigating a unique school environment where everything from admission to student council positions is determined by a lottery system, known as kujibiki. Having lost his parents in a tragic accident at a young age, Chihiro has been living with his older sister Shinobu and has become adept at cooking and cleaning, taking on all the household chores.\n\nOn his first day at school, Chihiro encounters Tokino, a girl with a fascination for mushrooms, in the school library and is instantly smitten. Meanwhile, Ritsuko, Chihiro's childhood friend and the current student council president, finds herself falling for him upon their reunion. But Ritsuko isn't the only one with feelings for Chihiro, setting the stage for a complex web of romantic entanglements.\n\nAs the freshmen compete in various contests, from cooking to exorcisms, to determine the next student council leaders, the current president must also fend off assassination attempts. Amidst the chaos and competition, Chihiro's one-year journey at Rikkyoin High School promises to be anything but ordinary.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1321e932b07cec93",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.044764908560826,
+    "arithmeticGeometricMean": 6.03465491363531,
+    "median": 6.14,
+    "hash": "1321e932b07cec93",
+    "lastUpdate": "2024-05-09"
+  }
+}

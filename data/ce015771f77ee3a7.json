@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/110641",
+    "https://anime-planet.com/anime/the-heroic-legend-of-arslan-dust-storm-dance-specials",
+    "https://anisearch.com/anime/18443",
+    "https://kitsu.io/anime/41623",
+    "https://livechart.me/anime/5837",
+    "https://myanimelist.net/anime/36498"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce015771f77ee3a7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.477984415584416,
+    "arithmeticGeometricMean": 6.471574434930535,
+    "median": 6.2727272727272725,
+    "hash": "ce015771f77ee3a7",
+    "lastUpdate": "2024-05-05"
+  }
+}

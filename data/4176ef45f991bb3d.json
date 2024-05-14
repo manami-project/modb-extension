@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/how-to-eat-your-apple"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4176ef45f991bb3d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.514,
+    "arithmeticGeometricMean": 6.514,
+    "median": 6.514,
+    "hash": "4176ef45f991bb3d",
+    "lastUpdate": "2024-05-08"
+  }
+}

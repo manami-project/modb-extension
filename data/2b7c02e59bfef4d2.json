@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115244",
+    "https://anime-planet.com/anime/flower",
+    "https://kitsu.io/anime/44589"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b7c02e59bfef4d2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.634454545454545,
+    "arithmeticGeometricMean": 5.621307519646727,
+    "median": 5.634454545454545,
+    "hash": "2b7c02e59bfef4d2",
+    "lastUpdate": "2024-05-07"
+  }
+}

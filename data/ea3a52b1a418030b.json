@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1932",
+    "https://anilist.co/anime/17687",
+    "https://anime-planet.com/anime/bemubemu-hunter-kotengu-tenmaru",
+    "https://anisearch.com/anime/910",
+    "https://kitsu.io/anime/9214",
+    "https://myanimelist.net/anime/17687",
+    "https://notify.moe/anime/ztYatKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ea3a52b1a418030b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.814136363636363,
+    "arithmeticGeometricMean": 5.755971837883182,
+    "median": 5.68,
+    "hash": "ea3a52b1a418030b",
+    "lastUpdate": "2024-05-08"
+  }
+}

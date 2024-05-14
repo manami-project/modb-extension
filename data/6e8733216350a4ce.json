@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1742",
+    "https://anilist.co/anime/2256",
+    "https://anime-planet.com/anime/dancougar-requiem-for-victims",
+    "https://anisearch.com/anime/1033",
+    "https://kitsu.io/anime/2044",
+    "https://myanimelist.net/anime/2256",
+    "https://notify.moe/anime/3JvPcKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6e8733216350a4ce",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.001338457460905,
+    "arithmeticGeometricMean": 5.965202014030659,
+    "median": 6.26,
+    "hash": "6e8733216350a4ce",
+    "lastUpdate": "2024-05-07"
+  }
+}

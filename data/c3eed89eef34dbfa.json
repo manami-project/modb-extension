@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2621",
+    "https://anilist.co/anime/412",
+    "https://anime-planet.com/anime/he-is-my-master",
+    "https://anisearch.com/anime/18",
+    "https://kitsu.io/anime/377",
+    "https://livechart.me/anime/4381",
+    "https://myanimelist.net/anime/412",
+    "https://notify.moe/anime/TY6h5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Izumi and Mitsuki Sawatari, two sisters down on their luck, find themselves in search of employment after running away from home. Their fortune seems to change when they stumble upon a job posting for housekeepers at the mansion of the orphaned teenage millionaire, Yoshitaka Nakabayashi. However, their relief is short-lived as they soon discover their new employer's true colors. Yoshitaka, a self-proclaimed 'master' with a penchant for cosplay and voyeurism, subjects the sisters to provocative maid uniforms and intrusive surveillance.\n\nWhile Izumi finds Yoshitaka's behavior intolerable, her younger sister Mitsuki seems to enjoy the unconventional attire. Adding to the chaos is Pochi, the sisters' pet alligator, who has a peculiar affection for Izumi. As the sisters navigate through their new roles, they must find a way to deal with their demanding and eccentric employer while keeping Pochi's presence under wraps. Will they be able to maintain their dignity and sanity in this unpredictable household, or will they succumb to Yoshitaka's whims? Only time will tell in this comedic tale of maids and masters.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c3eed89eef34dbfa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.527144248608534,
+    "arithmeticGeometricMean": 6.5174345480502485,
+    "median": 6.497,
+    "hash": "c3eed89eef34dbfa",
+    "lastUpdate": "2024-05-09"
+  }
+}

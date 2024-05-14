@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3605",
+    "https://anilist.co/anime/2574",
+    "https://anime-planet.com/anime/pinocchio-the-series",
+    "https://anisearch.com/anime/1511",
+    "https://kitsu.io/anime/2339",
+    "https://livechart.me/anime/12031",
+    "https://myanimelist.net/anime/2574",
+    "https://notify.moe/anime/qdIs5KmmR"
+  ],
+  "synopsis": {
+    "text": "Gepetto's solitary existence as a woodworker takes a turn when he crafts a puppet from a lightning-struck log and names him Pinocchio, yearning for the wooden creation to become a real boy. His wish is granted by a mystical blue fairy, but Pinocchio remains in his wooden form and must navigate the trials and tribulations of life to prove his worthiness of becoming human.\n\nThe naive and morally challenged Pinocchio is plagued with numerous character flaws, including selfishness, gullibility, and disobedience. He is frequently taken advantage of by the townspeople, who exploit his innocence for their own gain. Pinocchio's journey is fraught with hardship and pain, as he faces constant torment, humiliation, and degradation.\n\nDespite the harsh realities of his subhuman existence, Pinocchio is determined to learn from his mistakes and overcome his shortcomings. His adventures lead him to encounters with unscrupulous characters, such as Franko, who sells him to a cold-hearted theater owner. Throughout these trials, Pinocchio's unwavering spirit and determination to become a real boy make for a compelling and morally instructive tale.\n\nThis poignant adaptation of Pinocchio showcases the traditional Japanese storytelling approach of teaching moral values through endurance and hardship. It invites viewers to join Pinocchio on his emotional journey, as he strives to prove his worth and achieve his dream of becoming a real boy.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "abfbaf381220a6d2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.4443344818446855,
+    "arithmeticGeometricMean": 5.391449854247372,
+    "median": 5.186,
+    "hash": "abfbaf381220a6d2",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6682",
+    "https://anilist.co/anime/19559",
+    "https://anime-planet.com/anime/otoko-wa-tsurai-yo-torajirou-wasurenagusa",
+    "https://anisearch.com/anime/5639",
+    "https://kitsu.io/anime/9527",
+    "https://myanimelist.net/anime/19559",
+    "https://notify.moe/anime/1bXftKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d554185b0619de3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.981496289424861,
+    "arithmeticGeometricMean": 5.956215447311171,
+    "median": 5.9359925788497225,
+    "hash": "4d554185b0619de3",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4907",
+    "https://anilist.co/anime/9417",
+    "https://anime-planet.com/anime/jin-hou-xiang-yao",
+    "https://anisearch.com/anime/4045",
+    "https://kitsu.io/anime/5726",
+    "https://myanimelist.net/anime/9417",
+    "https://notify.moe/anime/3LkMpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b9a1b720f9447077",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.860640692640692,
+    "arithmeticGeometricMean": 5.8526491799864235,
+    "median": 5.677922077922078,
+    "hash": "b9a1b720f9447077",
+    "lastUpdate": "2024-05-08"
+  }
+}

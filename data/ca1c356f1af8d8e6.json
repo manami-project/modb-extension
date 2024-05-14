@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145707",
+    "https://anime-planet.com/anime/kakko-kawaii-sengen-specials",
+    "https://kitsu.io/anime/10981",
+    "https://livechart.me/anime/8936",
+    "https://myanimelist.net/anime/30704",
+    "https://notify.moe/anime/Ar9_pFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca1c356f1af8d8e6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.6854545454545455,
+    "arithmeticGeometricMean": 4.6521549745357405,
+    "median": 5.0,
+    "hash": "ca1c356f1af8d8e6",
+    "lastUpdate": "2024-05-06"
+  }
+}

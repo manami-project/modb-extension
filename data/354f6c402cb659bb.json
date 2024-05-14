@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143153",
+    "https://anime-planet.com/anime/chikai",
+    "https://anisearch.com/anime/14623",
+    "https://kitsu.io/anime/43392",
+    "https://myanimelist.net/anime/40385"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "354f6c402cb659bb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.756767161410018,
+    "arithmeticGeometricMean": 5.726360628555623,
+    "median": 5.918636363636364,
+    "hash": "354f6c402cb659bb",
+    "lastUpdate": "2024-05-06"
+  }
+}

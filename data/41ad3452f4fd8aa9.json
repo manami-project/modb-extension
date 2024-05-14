@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11650",
+    "https://anilist.co/anime/104556",
+    "https://anime-planet.com/anime/wu-lan-qi-qi-ge",
+    "https://anisearch.com/anime/11998",
+    "https://kitsu.io/anime/11731",
+    "https://myanimelist.net/anime/31701",
+    "https://notify.moe/anime/5qF3pFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41ad3452f4fd8aa9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.727272727272727,
+    "arithmeticGeometricMean": 4.7233350619290055,
+    "median": 4.727272727272727,
+    "hash": "41ad3452f4fd8aa9",
+    "lastUpdate": "2024-05-08"
+  }
+}

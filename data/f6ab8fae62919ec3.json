@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6851",
+    "https://anilist.co/anime/104081",
+    "https://anime-planet.com/anime/ponsuke-no-haru",
+    "https://anisearch.com/anime/5795",
+    "https://kitsu.io/anime/9542",
+    "https://myanimelist.net/anime/23089",
+    "https://notify.moe/anime/jsjfpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f6ab8fae62919ec3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.9935123244102835,
+    "arithmeticGeometricMean": 4.963978373494856,
+    "median": 5.0,
+    "hash": "f6ab8fae62919ec3",
+    "lastUpdate": "2024-05-08"
+  }
+}

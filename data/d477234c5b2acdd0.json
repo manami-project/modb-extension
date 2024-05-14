@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/159453",
+    "https://anime-planet.com/anime/fangyu-quan-kai",
+    "https://kitsu.io/anime/47168",
+    "https://myanimelist.net/anime/54021"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d477234c5b2acdd0",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.632242424242424,
+    "arithmeticGeometricMean": 6.621673897734066,
+    "median": 6.2727272727272725,
+    "hash": "d477234c5b2acdd0",
+    "lastUpdate": "2024-05-07"
+  }
+}

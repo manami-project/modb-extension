@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140865",
+    "https://anime-planet.com/anime/aimer-kimi-wo-matsu",
+    "https://anisearch.com/anime/11114",
+    "https://kitsu.io/anime/43437",
+    "https://myanimelist.net/anime/42436"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fa2848d262cfcbf5",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.1210009276437845,
+    "arithmeticGeometricMean": 6.115516640512105,
+    "median": 6.2718181818181815,
+    "hash": "fa2848d262cfcbf5",
+    "lastUpdate": "2024-05-06"
+  }
+}

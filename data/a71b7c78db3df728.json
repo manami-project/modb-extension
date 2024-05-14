@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18543",
+    "https://anilist.co/anime/176660",
+    "https://anime-planet.com/anime/sengoku-youko-senma-konton-hen",
+    "https://anisearch.com/anime/19130",
+    "https://kitsu.io/anime/48690",
+    "https://livechart.me/anime/12615",
+    "https://myanimelist.net/anime/58488",
+    "https://notify.moe/anime/USe88ExSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a71b7c78db3df728",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "a71b7c78db3df728",
+    "lastUpdate": "2024-05-11"
+  }
+}

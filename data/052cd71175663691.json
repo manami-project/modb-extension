@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2560",
+    "https://anilist.co/anime/3876",
+    "https://anime-planet.com/anime/maeterlincks-blue-bird",
+    "https://anisearch.com/anime/842",
+    "https://kitsu.io/anime/3316",
+    "https://myanimelist.net/anime/3876",
+    "https://notify.moe/anime/ox8_cKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "052cd71175663691",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.303213976499691,
+    "arithmeticGeometricMean": 6.290048764306709,
+    "median": 6.298,
+    "hash": "052cd71175663691",
+    "lastUpdate": "2024-05-07"
+  }
+}

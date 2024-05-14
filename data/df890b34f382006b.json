@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113671",
+    "https://anime-planet.com/anime/roto-spread",
+    "https://kitsu.io/anime/46828",
+    "https://myanimelist.net/anime/38960"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "df890b34f382006b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.68860606060606,
+    "arithmeticGeometricMean": 5.677532542315655,
+    "median": 5.5,
+    "hash": "df890b34f382006b",
+    "lastUpdate": "2024-05-08"
+  }
+}

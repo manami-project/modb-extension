@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15060",
+    "https://anilist.co/anime/111312",
+    "https://anime-planet.com/anime/crayon-shin-chan-movie-28-gekitotsu-rakuga-kingdom-to-hobo-yonin-no-yuusha",
+    "https://anisearch.com/anime/14678",
+    "https://kitsu.io/anime/43052",
+    "https://livechart.me/anime/9576",
+    "https://myanimelist.net/anime/40329",
+    "https://notify.moe/anime/jaEA9bUZg"
+  ],
+  "synopsis": {
+    "text": "Earth's children have traded their crayons for tablets, causing a significant decline in the creative energy that once powered the floating kingdom of Rakuga. As the kingdom's energy source dwindles, it faces the imminent threat of collapsing onto the cities below. In a desperate attempt to save their home, the Rakuga military descends upon Earth, forcing children to scribble and create the energy they so desperately need.\n\nMeanwhile, the Rakuga princess seeks a more peaceful solution and enlists the help of her prime minister to find a hero on Earth capable of wielding the powerful 'Miracle Crayon.' This magical artifact brings drawings to life, but it ends up in the hands of the unlikely hero, Shin-chan. With the fate of two worlds hanging in the balance, Shin-chan and his motley crew of heroes must harness their creativity and the power of the Miracle Crayon to prevent the impending catastrophe and restore harmony between Earth and the Rakuga Kingdom.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "992f54638889bc7b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.985076066790353,
+    "arithmeticGeometricMean": 6.979938710031197,
+    "median": 6.932653061224489,
+    "hash": "992f54638889bc7b",
+    "lastUpdate": "2024-05-09"
+  }
+}

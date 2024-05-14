@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5791",
+    "https://anime-planet.com/anime/gaki-deka",
+    "https://anisearch.com/anime/4264",
+    "https://kitsu.io/anime/9823",
+    "https://myanimelist.net/anime/23607",
+    "https://notify.moe/anime/4P6LpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "67d7f87cc7ad511b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.476231292517007,
+    "arithmeticGeometricMean": 4.168751816870099,
+    "median": 5.0,
+    "hash": "67d7f87cc7ad511b",
+    "lastUpdate": "2024-05-08"
+  }
+}

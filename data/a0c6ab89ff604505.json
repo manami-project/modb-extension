@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15699",
+    "https://anilist.co/anime/123952",
+    "https://anime-planet.com/anime/dazzling-white-town",
+    "https://anisearch.com/anime/15341",
+    "https://myanimelist.net/anime/42783"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a0c6ab89ff604505",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.027256400742115,
+    "arithmeticGeometricMean": 7.022883871197878,
+    "median": 6.804,
+    "hash": "a0c6ab89ff604505",
+    "lastUpdate": "2024-05-08"
+  }
+}

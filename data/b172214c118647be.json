@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16619",
+    "https://anilist.co/anime/137742",
+    "https://anime-planet.com/anime/a-will-eternal-2nd-season",
+    "https://anisearch.com/anime/17257",
+    "https://kitsu.io/anime/45066",
+    "https://livechart.me/anime/12303",
+    "https://myanimelist.net/anime/49574"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b172214c118647be",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.15721706864564,
+    "arithmeticGeometricMean": 8.151939356191837,
+    "median": 7.93,
+    "hash": "b172214c118647be",
+    "lastUpdate": "2024-05-10"
+  }
+}

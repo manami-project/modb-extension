@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/159751",
+    "https://anime-planet.com/anime/no-doubt-in-us-2-part-ii"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0dd2cf7e6fae18d1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.193909090909091,
+    "arithmeticGeometricMean": 8.193904630578238,
+    "median": 8.193909090909091,
+    "hash": "0dd2cf7e6fae18d1",
+    "lastUpdate": "2024-05-07"
+  }
+}

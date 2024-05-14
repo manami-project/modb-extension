@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3196",
+    "https://anisearch.com/anime/3279"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da23913b401ae08d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.649081632653061,
+    "arithmeticGeometricMean": 5.646511538702049,
+    "median": 5.649081632653061,
+    "hash": "da23913b401ae08d",
+    "lastUpdate": "2024-05-08"
+  }
+}

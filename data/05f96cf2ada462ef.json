@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/monsuno-3rd-season",
+    "https://kitsu.io/anime/11111",
+    "https://notify.moe/anime/NN2XtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "05f96cf2ada462ef",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.275,
+    "arithmeticGeometricMean": 6.209378969170621,
+    "median": 6.275,
+    "hash": "05f96cf2ada462ef",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/487",
+    "https://anilist.co/anime/2474",
+    "https://anime-planet.com/anime/galaxy-fraulein-yuna-returns",
+    "https://anisearch.com/anime/693",
+    "https://kitsu.io/anime/2247",
+    "https://myanimelist.net/anime/2474",
+    "https://notify.moe/anime/m59PcFiiR"
+  ],
+  "synopsis": {
+    "text": "Just when the galaxy had found its tranquility, a trio of robotic sisters, scorned by their creators and left to perish in a supernova, rise from the ashes with a single objective: retribution. As their vengeful eyes turn towards Earth, chaos ensues, threatening the very existence of humanity.\n\nEnter Yuna, the beloved Galaxy Fraulein, and her loyal companions, Polylina and the rest of the team, who return to the scene in a thrilling three-part OVA series, “Galaxy Fraulein Yuna Returns.” Their mission: to defend the galaxy against the malevolent android sisters and restore peace.\n\nBut all is not well, as Yuna's comeback is met with resistance. Her concert is sabotaged, and her friends find themselves under attack, one by one. It becomes clear that a sinister force is determined to eliminate Yuna once and for all.\n\nAs the galactic military finds itself outmatched against the powerful trio of android sisters, Yuna and her friends must rise to the challenge. With the fate of the world hanging in the balance, they stand as the last line of defense against annihilation. Join Yuna and her team as they embark on a daring adventure to save the galaxy from destruction and bring justice to those who seek its demise.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "113f3f74ad10914a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.984141531937451,
+    "arithmeticGeometricMean": 5.963011802152115,
+    "median": 6.1818181818181825,
+    "hash": "113f3f74ad10914a",
+    "lastUpdate": "2024-05-08"
+  }
+}

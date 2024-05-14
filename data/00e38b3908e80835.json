@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1827",
+    "https://anilist.co/anime/2829",
+    "https://anime-planet.com/anime/ie-naki-ko-remi",
+    "https://anisearch.com/anime/1473",
+    "https://kitsu.io/anime/2583",
+    "https://livechart.me/anime/6005",
+    "https://myanimelist.net/anime/2829",
+    "https://notify.moe/anime/A_IU5FimR"
+  ],
+  "synopsis": {
+    "text": "Cheerful and kind-hearted Remy, a young girl with a hidden talent for singing, resides in a quaint French town with her mother. After her father's return from a lengthy stint working in the city, Remy's life takes a dramatic turn as he reveals that she is not their biological daughter. In a cruel twist of fate, Remy narrowly escapes being sold to a wicked slave trader, only to be rescued by Vitalis, a wandering performer. Recognizing Remy's natural singing ability, Vitalis welcomes her into his troupe, where she embarks on a journey alongside his charming animal companions: a monkey named Joli-Coeur and three dogs, Capi, Dolce, and Zelbino.\n\nThroughout her travels, Remy encounters her birth mother and half-brother, Arthur, but remains oblivious to their true connection. As fate would have it, Remy departs for Paris without ever learning the truth. Heartbreakingly, Vitalis passes away, leaving Remy to face a series of trials and tribulations on her own. Despite the hardships she endures, Remy's resilience and passion for singing carry her forward in this poignant and captivating tale.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "00e38b3908e80835",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.622455141796977,
+    "arithmeticGeometricMean": 7.618989298911147,
+    "median": 7.7272727272727275,
+    "hash": "00e38b3908e80835",
+    "lastUpdate": "2024-05-09"
+  }
+}

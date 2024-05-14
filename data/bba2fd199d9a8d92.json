@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/strawberry-and-octopus"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bba2fd199d9a8d92",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.842,
+    "arithmeticGeometricMean": 6.842,
+    "median": 6.842,
+    "hash": "bba2fd199d9a8d92",
+    "lastUpdate": "2024-05-08"
+  }
+}

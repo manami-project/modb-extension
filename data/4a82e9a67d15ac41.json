@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108731",
+    "https://anime-planet.com/anime/man-of-many-arms",
+    "https://kitsu.io/anime/45533"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4a82e9a67d15ac41",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.818181818181818,
+    "arithmeticGeometricMean": 4.818181818181818,
+    "median": 4.818181818181818,
+    "hash": "4a82e9a67d15ac41",
+    "lastUpdate": "2024-05-07"
+  }
+}

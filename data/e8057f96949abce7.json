@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13719",
+    "https://anilist.co/anime/102383",
+    "https://anime-planet.com/anime/a-jewish-girl-in-shanghai-the-mystery-of-the-necklace",
+    "https://anisearch.com/anime/13185",
+    "https://kitsu.io/anime/14158",
+    "https://myanimelist.net/anime/36843",
+    "https://notify.moe/anime/kuwNhKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e8057f96949abce7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.605818181818181,
+    "arithmeticGeometricMean": 5.5359196875904715,
+    "median": 5.605818181818181,
+    "hash": "e8057f96949abce7",
+    "lastUpdate": "2024-05-08"
+  }
+}

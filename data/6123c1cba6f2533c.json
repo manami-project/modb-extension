@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/170507",
+    "https://livechart.me/anime/12354"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6123c1cba6f2533c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.545454545454546,
+    "arithmeticGeometricMean": 5.545454545454546,
+    "median": 5.545454545454546,
+    "hash": "6123c1cba6f2533c",
+    "lastUpdate": "2024-05-09"
+  }
+}

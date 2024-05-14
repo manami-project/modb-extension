@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1270",
+    "https://anilist.co/anime/2219",
+    "https://anime-planet.com/anime/ryokunohara-labyrinth",
+    "https://anisearch.com/anime/3280",
+    "https://kitsu.io/anime/2010",
+    "https://myanimelist.net/anime/2219",
+    "https://notify.moe/anime/pQGPcKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e99d9b863225c175",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.977113702623906,
+    "arithmeticGeometricMean": 4.966495271050037,
+    "median": 4.83,
+    "hash": "e99d9b863225c175",
+    "lastUpdate": "2024-05-08"
+  }
+}

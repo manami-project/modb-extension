@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15291",
+    "https://anime-planet.com/anime/kukuriraige-sanxingdui-denki",
+    "https://anisearch.com/anime/14848",
+    "https://livechart.me/anime/9754",
+    "https://notify.moe/anime/rjFMgdLGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "00d3009dc2eb4cd2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "00d3009dc2eb4cd2",
+    "lastUpdate": "2024-05-11"
+  }
+}

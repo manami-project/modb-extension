@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4655",
+    "https://anilist.co/anime/4554",
+    "https://anime-planet.com/anime/dokkiri-doctor",
+    "https://anisearch.com/anime/3656",
+    "https://kitsu.io/anime/3680",
+    "https://livechart.me/anime/11299",
+    "https://myanimelist.net/anime/4554",
+    "https://notify.moe/anime/J-eX5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "225af69cf417911a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.060027210884354,
+    "arithmeticGeometricMean": 6.031561420283807,
+    "median": 5.8100000000000005,
+    "hash": "225af69cf417911a",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8539",
+    "https://anilist.co/anime/5051",
+    "https://anime-planet.com/anime/macross-xx",
+    "https://anisearch.com/anime/7369",
+    "https://kitsu.io/anime/3905",
+    "https://livechart.me/anime/7343",
+    "https://myanimelist.net/anime/5051",
+    "https://notify.moe/anime/Nay95FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ffa97e27b850d537",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.102085343228199,
+    "arithmeticGeometricMean": 5.075110092454699,
+    "median": 5.242,
+    "hash": "ffa97e27b850d537",
+    "lastUpdate": "2024-05-09"
+  }
+}

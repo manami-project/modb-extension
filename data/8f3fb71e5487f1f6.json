@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13798",
+    "https://anilist.co/anime/110250",
+    "https://anime-planet.com/anime/touhokutou-juunana-no-sora",
+    "https://anisearch.com/anime/13232",
+    "https://kitsu.io/anime/41418",
+    "https://myanimelist.net/anime/40990",
+    "https://notify.moe/anime/iGnfp6vmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f3fb71e5487f1f6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.094450463821891,
+    "arithmeticGeometricMean": 6.075307572221971,
+    "median": 5.9,
+    "hash": "8f3fb71e5487f1f6",
+    "lastUpdate": "2024-05-08"
+  }
+}

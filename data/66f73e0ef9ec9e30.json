@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9367",
+    "https://anilist.co/anime/15125",
+    "https://anime-planet.com/anime/teekyuu",
+    "https://anisearch.com/anime/8003",
+    "https://kitsu.io/anime/7217",
+    "https://livechart.me/anime/961",
+    "https://myanimelist.net/anime/15125",
+    "https://notify.moe/anime/LvPOtKmiR"
+  ],
+  "synopsis": {
+    "text": "Four high school girls form an unusual tennis club in Kameido High School, where tennis is the last thing on their minds. The group includes Kanae Shinjou, a physics-defying prankster; Nasuno Takamiya, a wealthy manipulator; Marimo Bandou, a seemingly elegant girl with a perverted streak; and Yuri Oshimoto, the only member who knows how to play tennis and the voice of reason amidst the chaos. As they navigate through their daily antics, these eccentric friends occasionally find time for tennis, but their unpredictable shenanigans guarantee a laugh-filled adventure both on and off the court.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "66f73e0ef9ec9e30",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.424572214491858,
+    "arithmeticGeometricMean": 6.410957096384642,
+    "median": 6.6031818181818185,
+    "hash": "66f73e0ef9ec9e30",
+    "lastUpdate": "2024-05-10"
+  }
+}

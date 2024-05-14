@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8419",
+    "https://anilist.co/anime/10719",
+    "https://anime-planet.com/anime/haganai-i-dont-have-many-friends",
+    "https://anisearch.com/anime/7101",
+    "https://kitsu.io/anime/6316",
+    "https://livechart.me/anime/1176",
+    "https://myanimelist.net/anime/10719",
+    "https://notify.moe/anime/DUaVtKiig"
+  ],
+  "synopsis": {
+    "text": "Neighbor's Club, also known as Rinjinbu, is formed by two socially challenged students, Kodaka Hasegawa and Yozora Mikazuki, in an attempt to make friends and improve their social skills. Kodaka, a half-Japanese/half-British transfer student, struggles to fit in due to his blond hair and perceived delinquent appearance. Yozora, an abrasive and lonely classmate, is often seen talking to her imaginary friend. Together, they establish the club to help others like them, who have few friends, to learn and grow through shared experiences such as playing games, cooking, and other group activities.\n\nAs the club expands, an eclectic mix of students join, each with their own unique quirks and personalities. Sena Kashiwazaki, a popular and well-connected student, struggles to form genuine friendships due to jealousy from her peers. Yukimura Kusunoki, a student who often dresses as a maid, looks up to Kodaka as a role model to become more manly. Kodaka's younger sister, Kobato, is fascinated by darkness, vampires, and the macabre, while Rika Shiguma, a perverted scientific genius, tries to repay Kodaka for saving her during a failed experiment. The club is overseen by Maria Takayama, a precocious 10-year-old teacher and nun at the academy.\n\nThrough various misadventures, the members of the Neighbor's Club learn the true meaning of friendship and the importance of social connections. However, with such a diverse and eccentric group of individuals, the club's activities are anything but ordinary.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef584cdb4a8da564",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.317587669916451,
+    "arithmeticGeometricMean": 7.316658578029735,
+    "median": 7.286790382819794,
+    "hash": "ef584cdb4a8da564",
+    "lastUpdate": "2024-05-09"
+  }
+}

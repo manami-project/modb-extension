@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5479",
+    "https://anilist.co/anime/4943",
+    "https://anime-planet.com/anime/a-journey-through-fairyland",
+    "https://anisearch.com/anime/4493",
+    "https://kitsu.io/anime/3863",
+    "https://myanimelist.net/anime/4943",
+    "https://notify.moe/anime/qF195FmiR"
+  ],
+  "synopsis": {
+    "text": "It tells the story of Michael, a young musician with a unique passion for gardening and a deep love for flowers. Despite his musical talents, his constant late arrivals to orchestra practice due to his gardening hobby leads to his expulsion from music school. One night, he encounters Florence, a charming Flower Fairy who introduces him to a magical realm known as Flowerland. In this enchanting world filled with vibrant flowers and mischievous creatures, Michael discovers the true power of his music and how it can bring joy to those around him. As he embarks on thrilling adventures in Flowerland, he learns to balance his love for gardening and music, ultimately finding his true calling and personal growth. Will Michael's newfound focus and purpose allow him to save Flowerland and thrive as a musician?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "abd0f7d1019f1c08",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.400744765438643,
+    "arithmeticGeometricMean": 6.381000227249321,
+    "median": 6.4,
+    "hash": "abd0f7d1019f1c08",
+    "lastUpdate": "2024-05-07"
+  }
+}

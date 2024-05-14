@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13555",
+    "https://anime-planet.com/anime/wake-up-girl-zoo-taiwan-de-go",
+    "https://anisearch.com/anime/12832",
+    "https://kitsu.io/anime/41515",
+    "https://livechart.me/anime/2539",
+    "https://myanimelist.net/anime/34864"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b626f94a10f0fb12",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.132948979591837,
+    "arithmeticGeometricMean": 5.11901634098766,
+    "median": 5.0600000000000005,
+    "hash": "b626f94a10f0fb12",
+    "lastUpdate": "2024-05-10"
+  }
+}

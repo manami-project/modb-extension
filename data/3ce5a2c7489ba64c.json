@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2467",
+    "https://anilist.co/anime/5763",
+    "https://anime-planet.com/anime/uchuu-kuubo-blue-noah",
+    "https://anisearch.com/anime/499",
+    "https://kitsu.io/anime/4268",
+    "https://livechart.me/anime/12596",
+    "https://myanimelist.net/anime/5763",
+    "https://notify.moe/anime/SarCcKmiR"
+  ],
+  "synopsis": {
+    "text": "Collins and his courageous crew embark on a perilous journey in the year 2052, a time when Earth and its neighboring planets have been enjoying an era of peace and harmony. However, their tranquility is shattered by the arrival of a formidable alien race hailing from the now-destroyed planet Gotham. Desperate for a new home, these extraterrestrial beings have set their sights on Earth, launching a relentless attack with their colossal spacecraft, the Terror Star.\n\nAs Earth's defenses crumble and its population dwindles, the Thundersub - a versatile submarine and spacecraft hybrid - emerges as humanity's last beacon of hope. Initially designed to quell potential rebellions from the outer planets, the Thundersub must now undergo a critical upgrade to become space-worthy and confront this alien menace. The key to this upgrade lies at the N9 research station, and it's up to Collins and his team to reach it, unsure of what awaits them there.\n\nWith the fate of their world hanging in the balance, this daring crew navigates the treacherous path to N9, ready to face any challenges that come their way. Their mission: to transform the Thundersub into a formidable force capable of standing against the Terror Star and reclaiming Earth for humanity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3ce5a2c7489ba64c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.242490856082694,
+    "arithmeticGeometricMean": 6.2194997519729265,
+    "median": 6.65,
+    "hash": "3ce5a2c7489ba64c",
+    "lastUpdate": "2024-05-10"
+  }
+}

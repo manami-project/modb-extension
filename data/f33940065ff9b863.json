@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14188",
+    "https://anime-planet.com/anime/natsu-wo-yarinaosu",
+    "https://anisearch.com/anime/15095",
+    "https://kitsu.io/anime/41904",
+    "https://livechart.me/anime/7875",
+    "https://myanimelist.net/anime/38057",
+    "https://notify.moe/anime/wHjR2N0mR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f33940065ff9b863",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.326530612244898,
+    "arithmeticGeometricMean": 6.326530612244898,
+    "median": 6.326530612244898,
+    "hash": "f33940065ff9b863",
+    "lastUpdate": "2024-05-09"
+  }
+}

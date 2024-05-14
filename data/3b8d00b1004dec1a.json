@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7812",
+    "https://anime-planet.com/anime/kero-kero-keroppi-no-aladdin-to-mahou-no-lamp",
+    "https://anisearch.com/anime/6414",
+    "https://kitsu.io/anime/9378",
+    "https://myanimelist.net/anime/22573",
+    "https://notify.moe/anime/ITvBpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b8d00b1004dec1a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.3773959183673465,
+    "arithmeticGeometricMean": 5.3511807703591865,
+    "median": 4.948979591836734,
+    "hash": "3b8d00b1004dec1a",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4335",
+    "https://anilist.co/anime/1600",
+    "https://anime-planet.com/anime/galaxy-angel-rune",
+    "https://anisearch.com/anime/3903",
+    "https://kitsu.io/anime/1440",
+    "https://livechart.me/anime/6312",
+    "https://myanimelist.net/anime/1600",
+    "https://notify.moe/anime/tF_-5Kmig"
+  ],
+  "synopsis": {
+    "text": "Apricot Sakuraba and her eclectic team of four form the Rune Angels, a new all-female squad in the distant future on the planet Celdar in the NEUE galaxy. As part of the Transbaal Army, their mission is twofold: to locate the elusive Lost Technology and maintain peace in the bustling city of Transbaal.\n\nEach member brings their unique quirks to the table, from Apricot's superhuman strength when touched by a man to Kahlua's unpredictable transformations into the alluring Tequila. Add in the sword-wielding Lily, the tomboyish Anise, and the feline-like Nano-Nano, and you have a squad that's as unpredictable as they are capable.\n\nFrom apprehending the masochistic space criminal, Baron Garret, to gathering ingredients for the legendary space hot pot, no mission is too ordinary or too extraordinary for the Rune Angels. Despite their knack for causing chaos and their unconventional methods, the Rune Angel Troupe is determined to fulfill their duties, making every day in the vast universe an exciting adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "823d4619d08b17ad",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.1470840180227935,
+    "arithmeticGeometricMean": 6.138789750948741,
+    "median": 6.25,
+    "hash": "823d4619d08b17ad",
+    "lastUpdate": "2024-05-09"
+  }
+}

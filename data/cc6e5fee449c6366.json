@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/119541",
+    "https://anime-planet.com/anime/kamigami-no-ki-special",
+    "https://anisearch.com/anime/12426",
+    "https://kitsu.io/anime/40647",
+    "https://myanimelist.net/anime/35007",
+    "https://notify.moe/anime/CHxv2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc6e5fee449c6366",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.552472170686457,
+    "arithmeticGeometricMean": 5.537171309036593,
+    "median": 5.410454545454545,
+    "hash": "cc6e5fee449c6366",
+    "lastUpdate": "2024-05-06"
+  }
+}

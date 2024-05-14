@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/20441",
+    "https://anisearch.com/anime/10003",
+    "https://kitsu.io/anime/9122",
+    "https://myanimelist.net/anime/20441",
+    "https://notify.moe/anime/KaH-pKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e6dcb8e76ad224f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.893283858998145,
+    "arithmeticGeometricMean": 5.877455931572015,
+    "median": 5.996567717996289,
+    "hash": "9e6dcb8e76ad224f",
+    "lastUpdate": "2024-05-07"
+  }
+}

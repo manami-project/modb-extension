@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/155692",
+    "https://anime-planet.com/anime/mafumafu-paradise-lost",
+    "https://anisearch.com/anime/17784",
+    "https://kitsu.io/anime/46625",
+    "https://myanimelist.net/anime/53394"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc0d593308cfd22c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.209139146567718,
+    "arithmeticGeometricMean": 7.206568529157776,
+    "median": 7.235551020408163,
+    "hash": "dc0d593308cfd22c",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13303",
+    "https://anilist.co/anime/108989",
+    "https://anime-planet.com/anime/lord-legend-of-ravaging-dynasties",
+    "https://anisearch.com/anime/12045",
+    "https://myanimelist.net/anime/39116"
+  ],
+  "synopsis": {
+    "text": "Odin Mainland, a realm divided into four nations, is safeguarded by soul masters, each wielding unique soul powers. Among these protectors, the Noble Lords, a group of seven formidable soul masters, hold the highest rank. Our tale unfolds in the Aslan Empire, the water origin of the Odin Mainland.\n\nQi Ling, a young busboy at an inn, unwittingly tames a legendary soul beast, Ice Fang, amidst a clash between soul masters. Yin Chen, under the command of the Silver Priest, takes Qi Ling under his wing, guiding him to the Grave of the Souls to discover his soul weapon. However, Qi Ling's restless nature leads him to disobey his lord's instructions, plunging him into the heart of a brewing storm - a battle of soul powers among the lords.\n\nSimultaneously, a long-standing conspiracy within the Aslan Empire begins to unravel. Yin Chen, in his pursuit of Qi Ling, stumbles upon a startling revelation - his master, Gilgamesh, the former 1st lord, may still be alive. Risking everything, Yin Chen embarks on a quest to find his former master. Meanwhile, the lethal lords You Ming and Thalia receive orders from the Silver Priest to eliminate Guishan Lian Quan and her brother, Guishen Feng Hun.\n\nAs lords and disciples clash, a battle for truth and honor ignites, threatening to disrupt the delicate balance of power in the Odin Mainland. Amidst this chaos, the heroes must rise to prevent a catastrophic war that could shatter the very fabric of their world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cee5a9ef3b0fee7b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.759507235621522,
+    "arithmeticGeometricMean": 6.7225114796190475,
+    "median": 6.545454545454545,
+    "hash": "cee5a9ef3b0fee7b",
+    "lastUpdate": "2024-05-08"
+  }
+}

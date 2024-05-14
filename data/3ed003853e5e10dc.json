@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118079",
+    "https://anime-planet.com/anime/wild-wild-ham",
+    "https://kitsu.io/anime/45135"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3ed003853e5e10dc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.62309090909091,
+    "arithmeticGeometricMean": 5.594099980586886,
+    "median": 5.62309090909091,
+    "hash": "3ed003853e5e10dc",
+    "lastUpdate": "2024-05-07"
+  }
+}

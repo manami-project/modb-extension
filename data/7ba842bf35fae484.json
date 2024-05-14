@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12920",
+    "https://anilist.co/anime/103425",
+    "https://anime-planet.com/anime/infinity-nado",
+    "https://anisearch.com/anime/12329",
+    "https://kitsu.io/anime/14064",
+    "https://livechart.me/anime/8044",
+    "https://myanimelist.net/anime/36423",
+    "https://notify.moe/anime/GYtN2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ba842bf35fae484",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.246484848484848,
+    "arithmeticGeometricMean": 6.234667824575621,
+    "median": 6.34,
+    "hash": "7ba842bf35fae484",
+    "lastUpdate": "2024-05-10"
+  }
+}

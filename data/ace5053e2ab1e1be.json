@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14800",
+    "https://anime-planet.com/anime/the-mouse-and-his-child",
+    "https://kitsu.io/anime/3472",
+    "https://livechart.me/anime/12001",
+    "https://notify.moe/anime/cFNX5Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ace5053e2ab1e1be",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.696666666666666,
+    "arithmeticGeometricMean": 5.68342794995255,
+    "median": 5.76,
+    "hash": "ace5053e2ab1e1be",
+    "lastUpdate": "2024-05-09"
+  }
+}

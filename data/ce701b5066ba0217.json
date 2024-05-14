@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3689",
+    "https://anime-planet.com/anime/aesop-no-ohanashi-yori-ushi-to-kaeru-yokubatta-inu",
+    "https://anisearch.com/anime/1789",
+    "https://kitsu.io/anime/9179",
+    "https://myanimelist.net/anime/25627",
+    "https://notify.moe/anime/eM1-pKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce701b5066ba0217",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.790612244897959,
+    "arithmeticGeometricMean": 4.760021912927831,
+    "median": 5.0,
+    "hash": "ce701b5066ba0217",
+    "lastUpdate": "2024-05-08"
+  }
+}

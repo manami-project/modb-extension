@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8229",
+    "https://anilist.co/anime/9750",
+    "https://anime-planet.com/anime/a-dark-rabbit-has-seven-lives",
+    "https://anisearch.com/anime/6854",
+    "https://kitsu.io/anime/5850",
+    "https://livechart.me/anime/1212",
+    "https://myanimelist.net/anime/9750",
+    "https://notify.moe/anime/bx1MpKmig"
+  ],
+  "synopsis": {
+    "text": "Saitohimea, a captivating vampire, formed an unlikely bond with an ordinary boy, Kurogane Taito, nine years ago. As a first-year high school student, Taito finds himself leading an unremarkable life, devoid of aspirations. However, a series of peculiar events begin to unfold as he grapples with persistent drowsiness and vivid dreams of a female vampire who claims to have shared her \"poison\" with him.\n\nIntriguingly, Taito starts to hear the mysterious woman's voice even when awake. A near-fatal accident triggers the resurfacing of long-lost memories, revealing the truth behind his dreams. The accident should have been lethal, but Taito emerges unscathed, hinting at the supernatural pact he had forged with Saitohimea.\n\nAs Taito's memories gradually return, he becomes aware of the girl who has been held captive for nearly a decade, waiting for him to fulfill his promise. With newfound resolve, Taito embarks on a mission to rescue the enigmatic vampire, setting the stage for a thrilling adventure that blurs the line between dreams and reality.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b2117ecd5c3183a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.530092726771299,
+    "arithmeticGeometricMean": 6.5248610600287575,
+    "median": 6.554,
+    "hash": "8b2117ecd5c3183a",
+    "lastUpdate": "2024-05-09"
+  }
+}

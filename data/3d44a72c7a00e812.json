@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6331",
+    "https://anilist.co/anime/5041",
+    "https://anime-planet.com/anime/guin-saga",
+    "https://anisearch.com/anime/316",
+    "https://kitsu.io/anime/3900",
+    "https://livechart.me/anime/4837",
+    "https://myanimelist.net/anime/5041",
+    "https://notify.moe/anime/9lPrcKiiR"
+  ],
+  "synopsis": {
+    "text": "Guin's face is shrouded by a leopard mask, and his memory is blanketed by amnesia, leaving him with only the word \"Aurra\" as a clue to his past. But he is a warrior of unmatched prowess, and his destiny intertwines with the royal twins of Parros, Rinda and Remus, who are prophesied to be the Twin Pearls – one a great ruler, the other a shining prophet. Their homeland has been ravaged by the Mongaul army, and their parents slain during the siege. In the treacherous Rood Forest, the twins encounter Guin, who becomes their protector and guide. Together, they embark on a perilous journey to fulfill their destinies and restore peace to Parros. Along the way, they gather a diverse group of allies, including the skilled swordsman Istavan and the nimble Suni of the Sem. The Guin Saga is an epic tale of mystery, magic, and violent clashes, with a hero who must battle not only external enemies but also uncover the truth about his own identity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3d44a72c7a00e812",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.182116110080396,
+    "arithmeticGeometricMean": 7.174615009389573,
+    "median": 7.210000000000001,
+    "hash": "3d44a72c7a00e812",
+    "lastUpdate": "2024-05-09"
+  }
+}

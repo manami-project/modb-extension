@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14111",
+    "https://anilist.co/anime/101921",
+    "https://anime-planet.com/anime/kaguya-sama-love-is-war",
+    "https://anisearch.com/anime/13650",
+    "https://kitsu.io/anime/41373",
+    "https://livechart.me/anime/3315",
+    "https://myanimelist.net/anime/37999",
+    "https://notify.moe/anime/1eucP3DmR"
+  ],
+  "synopsis": {
+    "text": "This anime, \"Kaguya-sama: Love Is War,\" follows the romantic escapades of two elite students, Kaguya Shinomiya and Miyuki Shirogane, who serve as the vice president and president of the student council at the prestigious Shuchiin Academy. Both are incredibly talented and proud, making them the perfect pair—or so everyone thinks. However, despite their mutual affection, neither is willing to confess their love first, fearing it will make them appear weak and inferior. As a result, they engage in a series of cunning schemes to make the other confess, leading to a hilarious and heartwarming battle of wits and pride in this unique romantic comedy. Who will emerge victorious in this love-filled war, and will their relationship blossom beyond the battlefield? Only time will tell as these two brilliant minds clash in a contest where love is the ultimate prize.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c2cbdfa008198a68",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.357562161854398,
+    "arithmeticGeometricMean": 8.355735980259814,
+    "median": 8.432272727272728,
+    "hash": "c2cbdfa008198a68",
+    "lastUpdate": "2024-05-09"
+  }
+}

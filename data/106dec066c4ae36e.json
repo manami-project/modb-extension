@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9366",
+    "https://anilist.co/anime/15911",
+    "https://anime-planet.com/anime/yuyushiki",
+    "https://anisearch.com/anime/7993",
+    "https://kitsu.io/anime/7338",
+    "https://livechart.me/anime/846",
+    "https://myanimelist.net/anime/15911",
+    "https://notify.moe/anime/vvNFtFmmR"
+  ],
+  "synopsis": {
+    "text": "Whether it's debating condiments or navigating the complexities of high school, the lives of three inseparable friends - the sensible Yui, the eccentric Yuzuko, and the perpetually drowsy Yukari - are anything but ordinary. On their first day of high school, they find themselves drawn to the unassuming Data Processing Club, a haven tucked away in a cozy room with just two computers and a whiteboard. Under the gentle guidance of their youthful teacher, Matsumoto Yoriko, affectionately known as 'Mom', the trio embarks on a journey of discovery, laughter, and camaraderie. From pondering the mysteries of the internet to grappling with the challenges of adolescence, these three friends turn even the most mundane situations into moments of joy and humor. As the sole members of the Data Processing Club, they create a bond that transcends the digital world, reminding us that sometimes, the most meaningful connections are the ones right in front of us.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "106dec066c4ae36e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.35301134579706,
+    "arithmeticGeometricMean": 7.350784041778793,
+    "median": 7.412272727272727,
+    "hash": "106dec066c4ae36e",
+    "lastUpdate": "2024-05-10"
+  }
+}

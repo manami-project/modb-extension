@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/aimer-mine",
+    "https://kitsu.io/anime/43436",
+    "https://myanimelist.net/anime/42439"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2a5aed9b3c74d2c2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.225,
+    "arithmeticGeometricMean": 6.219345992150175,
+    "median": 6.225,
+    "hash": "2a5aed9b3c74d2c2",
+    "lastUpdate": "2024-05-07"
+  }
+}

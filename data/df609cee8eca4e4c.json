@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6929",
+    "https://anilist.co/anime/7497",
+    "https://anime-planet.com/anime/mikanbune",
+    "https://anisearch.com/anime/5989",
+    "https://kitsu.io/anime/5002",
+    "https://myanimelist.net/anime/7497",
+    "https://notify.moe/anime/BpgktKiig"
+  ],
+  "synopsis": {
+    "text": "An enthralling, semi-historical anime unfolds the journey of Kinokuniya Bunzaemon, a renowned Japanese businessman who amassed his wealth through a unique venture: transporting oranges from rural farmlands to the bustling capital city of Edo. As Bunzaemon embarks on his mission from a port in Kishu, he is bid farewell by his beloved fiancée, Osode.\n\nHigh above the clouds, the Wind God harbors a nefarious plan to sabotage Bunzaemon's ship. However, a chance encounter with his wife, the captivating Mountain Goddess, leaves him in awe, momentarily distracting him from his malicious intent. The Wind God's offspring, Raiko, adds another layer to this celestial drama.\n\nIn an unexpected twist of fate, an orange crate from Bunzaemon's ship inadvertently strikes the Wind God, sparking his wrath and triggering a formidable hurricane. Yet, as the tempest subsides, Bunzaemon and his crew find themselves miraculously close to the port of Edo. The oranges swiftly sell out, catapulting Bunzaemon into prosperity. Amidst the newfound wealth, the characters rejoice in song and dance, marking a jubilant end to their perilous journey.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "df609cee8eca4e4c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.780148423005566,
+    "arithmeticGeometricMean": 4.746500612431608,
+    "median": 4.65,
+    "hash": "df609cee8eca4e4c",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5935",
+    "https://anilist.co/anime/4390",
+    "https://anime-planet.com/anime/sora-no-momotaro",
+    "https://anisearch.com/anime/4896",
+    "https://kitsu.io/anime/3586",
+    "https://myanimelist.net/anime/4390",
+    "https://notify.moe/anime/O9LucFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3dc226228b859818",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.9347686191359665,
+    "arithmeticGeometricMean": 4.910889269563912,
+    "median": 4.818181818181818,
+    "hash": "3dc226228b859818",
+    "lastUpdate": "2024-05-08"
+  }
+}

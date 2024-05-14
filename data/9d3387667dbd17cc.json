@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14794",
+    "https://anilist.co/anime/116330",
+    "https://anime-planet.com/anime/kouya-no-kotobuki-hikoutai-gaiden-oozora-no-harukaze-hikoutai",
+    "https://anisearch.com/anime/14410",
+    "https://kitsu.io/anime/42377",
+    "https://livechart.me/anime/9385",
+    "https://myanimelist.net/anime/39589",
+    "https://notify.moe/anime/mk9uGJSZg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9d3387667dbd17cc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.161778107606678,
+    "arithmeticGeometricMean": 6.145894083877711,
+    "median": 5.61,
+    "hash": "9d3387667dbd17cc",
+    "lastUpdate": "2024-05-09"
+  }
+}

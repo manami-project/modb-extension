@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/110470",
+    "https://anime-planet.com/anime/runningman",
+    "https://kitsu.io/anime/12716",
+    "https://myanimelist.net/anime/33535",
+    "https://notify.moe/anime/gFsi2Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5564f5e7f1610714",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.399045454545455,
+    "arithmeticGeometricMean": 5.384418930125553,
+    "median": 5.24,
+    "hash": "5564f5e7f1610714",
+    "lastUpdate": "2024-05-06"
+  }
+}

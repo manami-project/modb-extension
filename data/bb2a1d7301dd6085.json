@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7855",
+    "https://anime-planet.com/anime/hello-kitty-in-puss-and-boots",
+    "https://anisearch.com/anime/7065",
+    "https://kitsu.io/anime/9310",
+    "https://myanimelist.net/anime/22449",
+    "https://notify.moe/anime/bWkfpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bb2a1d7301dd6085",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.4568408163265305,
+    "arithmeticGeometricMean": 5.4343808820392665,
+    "median": 5.0,
+    "hash": "bb2a1d7301dd6085",
+    "lastUpdate": "2024-05-08"
+  }
+}

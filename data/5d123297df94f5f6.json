@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16412",
+    "https://anilist.co/anime/136226",
+    "https://anime-planet.com/anime/strike-the-blood-final",
+    "https://anisearch.com/anime/16433",
+    "https://kitsu.io/anime/44834",
+    "https://livechart.me/anime/10668",
+    "https://myanimelist.net/anime/49316",
+    "https://notify.moe/anime/hAq44xz7g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5d123297df94f5f6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.363545918367346,
+    "arithmeticGeometricMean": 7.349438133526624,
+    "median": 7.3241836734693875,
+    "hash": "5d123297df94f5f6",
+    "lastUpdate": "2024-05-10"
+  }
+}

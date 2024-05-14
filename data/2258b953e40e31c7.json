@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10009",
+    "https://anilist.co/anime/18619",
+    "https://anime-planet.com/anime/girls-und-panzer-this-is-the-real-anzio-battle",
+    "https://anisearch.com/anime/8653",
+    "https://kitsu.io/anime/7981",
+    "https://livechart.me/anime/308",
+    "https://myanimelist.net/anime/18619",
+    "https://notify.moe/anime/5cOhpFmig"
+  ],
+  "synopsis": {
+    "text": "Will the high-spirited tankery team of Ooarai Girls Academy triumph over the Italian-themed Anzio Girls High School in the second round of the 63rd National High School Sensha-Dou Tournament, or will they succumb to their baffling tactics and secret weapon, leading to the closure of their school? Led by the charismatic Chiyomi Anzai, Anzio's impulsive Vice-Commander Pepperoni and fierce Vice-Commander Carpaccio pose a significant challenge for Miho and Team Oorai. However, the real threat lies in Anchovy's ultra-secret weapon, which could turn the tide of the battle. With the stakes higher than ever, will Miho and her team emerge victorious or be left saying 'tanks for the memories'? The outcome remains uncertain, and the battle promises to be an epic showdown between these determined young warriors.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2258b953e40e31c7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.72989819109462,
+    "arithmeticGeometricMean": 7.728940601032553,
+    "median": 7.777,
+    "hash": "2258b953e40e31c7",
+    "lastUpdate": "2024-05-09"
+  }
+}

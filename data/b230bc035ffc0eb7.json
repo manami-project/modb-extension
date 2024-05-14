@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/102",
+    "https://anilist.co/anime/232",
+    "https://anime-planet.com/anime/cardcaptor-sakura",
+    "https://anisearch.com/anime/1913",
+    "https://kitsu.io/anime/207",
+    "https://livechart.me/anime/3665",
+    "https://myanimelist.net/anime/232",
+    "https://notify.moe/anime/9xGh5Fimg"
+  ],
+  "synopsis": {
+    "text": "Tomoyo Daidouji's best friend, Sakura Kinomoto, is an ordinary fourth-grader whose life takes an extraordinary turn when she discovers a mysterious book hidden in her father's library. Unbeknownst to her, the book contains powerful magical cards known as the Clow Cards, created by the sorcerer Clow Reed. As Sakura curiously opens the book and reads aloud, she inadvertently releases the cards and their guardian beast, Keroberos, who had been in slumber for 30 years.\n\nKeroberos, also known as Kero-chan, reveals that the Clow Cards possess immense magical powers and can cause significant harm if left unchecked. To prevent the cards from wreaking havoc on the world, Sakura is bestowed with the title of 'Cardcaptor' and granted the Sealed Key by Keroberos. With the help of her best friend Tomoyo and Kero-chan, Sakura embarks on a thrilling adventure to recapture the scattered Clow Cards.\n\nAs Sakura navigates through the challenges of school, family, and love, she encounters Syaoran Li, a descendant of Clow Reed and a fellow Cardcaptor. Syaoran's presence adds competition to Sakura's quest, but with unwavering determination and newfound magical abilities, Sakura is ready to face any obstacle that comes her way. Join Sakura, Tomoyo, and Kero-chan on this enchanting journey filled with magic, friendship, and self-discovery in the world of Cardcaptor Sakura.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b230bc035ffc0eb7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.917811987551619,
+    "arithmeticGeometricMean": 7.911296703980973,
+    "median": 8.048387096774194,
+    "hash": "b230bc035ffc0eb7",
+    "lastUpdate": "2024-05-09"
+  }
+}

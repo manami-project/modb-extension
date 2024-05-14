@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/166110",
+    "https://anime-planet.com/anime/daoko-tsuki-no-hana",
+    "https://kitsu.io/anime/47676",
+    "https://myanimelist.net/anime/55637"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b640ad352369dc1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.879333333333334,
+    "arithmeticGeometricMean": 6.874525758561358,
+    "median": 7.0,
+    "hash": "2b640ad352369dc1",
+    "lastUpdate": "2024-05-07"
+  }
+}

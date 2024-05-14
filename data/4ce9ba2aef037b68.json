@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9758",
+    "https://anilist.co/anime/17791",
+    "https://anime-planet.com/anime/kyoto-animation-cm-ikitaku-naru-omise-hen",
+    "https://anisearch.com/anime/8429",
+    "https://kitsu.io/anime/7739",
+    "https://livechart.me/anime/6313",
+    "https://myanimelist.net/anime/17791",
+    "https://notify.moe/anime/qwVptKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ce9ba2aef037b68",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.155279618340843,
+    "arithmeticGeometricMean": 6.149607127842491,
+    "median": 6.3,
+    "hash": "4ce9ba2aef037b68",
+    "lastUpdate": "2024-05-09"
+  }
+}

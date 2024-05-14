@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7276",
+    "https://anilist.co/anime/7770",
+    "https://anime-planet.com/anime/yutori-chan",
+    "https://anisearch.com/anime/5956",
+    "https://kitsu.io/anime/5115",
+    "https://livechart.me/anime/5867",
+    "https://myanimelist.net/anime/7770",
+    "https://notify.moe/anime/RwTztKmiR"
+  ],
+  "synopsis": {
+    "text": "The anime spotlights the comedic clash of generations in a Japanese toy company, Popuu. At the heart of the story is Yutori, a vibrant high school student navigating her first job as a part-time worker. She's supervised by Tsumekomi, a dedicated office worker in her late twenties, who strives to instill professional values in Yutori, despite her unconventional and self-centered behavior. Adding to the mix is Dankai, a middle-aged regular employee, who brings a different perspective to the table. As these three characters, each representing distinct Japanese generations, work together, they create a lively and entertaining office environment filled with misunderstandings and unexpected camaraderie.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b5854cb9bbd0101",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.946874223282387,
+    "arithmeticGeometricMean": 5.932734482077705,
+    "median": 6.09,
+    "hash": "9b5854cb9bbd0101",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6933",
+    "https://anilist.co/anime/15137",
+    "https://anime-planet.com/anime/entotsuya-peroo",
+    "https://anisearch.com/anime/9526",
+    "https://kitsu.io/anime/7221",
+    "https://myanimelist.net/anime/15137",
+    "https://notify.moe/anime/jjEdtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b23e08d05451e4f4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.249709338280766,
+    "arithmeticGeometricMean": 5.233580088329351,
+    "median": 5.160454545454545,
+    "hash": "b23e08d05451e4f4",
+    "lastUpdate": "2024-05-08"
+  }
+}

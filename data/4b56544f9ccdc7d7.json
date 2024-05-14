@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/47",
+    "https://anilist.co/anime/168",
+    "https://anime-planet.com/anime/scryed",
+    "https://anisearch.com/anime/2707",
+    "https://kitsu.io/anime/146",
+    "https://livechart.me/anime/5108",
+    "https://myanimelist.net/anime/168",
+    "https://notify.moe/anime/L9_tcKiig"
+  ],
+  "synopsis": {
+    "text": "Kazuma, a young mercenary with a penchant for adventure, resides in the chaotic and isolated region known as The Lost Ground, a place that emerged after a mysterious environmental cataclysm struck the Kanazawa prefecture two decades ago. The Lost Ground is home to individuals possessing the Alter gene, which grants them extraordinary abilities, transforming them into Alter Users. Kazuma is one such gifted individual, capable of fortifying his right arm and torso with a metallic alloy.\n\nWhen he's not caring for Kanami, a young girl under his protection, Kazuma seeks out work to survive in this harsh environment. He crosses paths with HOLY, a powerful organization with a vested interest in the Alter gene and a mission to suppress and capture Native Alter Users. After suffering a humiliating defeat at the hands of Ryuho, an elite member of HOLY, Kazuma's animosity towards him intensifies, sparking an epic rivalry.\n\nAs a native Alter User, Kazuma finds himself at odds with HOLY, questioning their true intentions. Are they genuinely striving for peace and order, or is there a hidden agenda behind their actions? With his good friend Kunihiko by his side, Kazuma navigates the tumultuous world of The Lost Ground, uncovering the truth about his abilities and the enigmatic organization that seeks to control them.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4b56544f9ccdc7d7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.315850185528757,
+    "arithmeticGeometricMean": 7.31290154113339,
+    "median": 7.34,
+    "hash": "4b56544f9ccdc7d7",
+    "lastUpdate": "2024-05-09"
+  }
+}

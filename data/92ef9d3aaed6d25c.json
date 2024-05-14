@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4105",
+    "https://anilist.co/anime/4306",
+    "https://anime-planet.com/anime/monmon-the-water-spider",
+    "https://anisearch.com/anime/799",
+    "https://kitsu.io/anime/3550",
+    "https://livechart.me/anime/7263",
+    "https://myanimelist.net/anime/4306",
+    "https://notify.moe/anime/HexucKimR"
+  ],
+  "synopsis": {
+    "text": "This enchanting short film, exclusively screened at the Ghibli Museum in Mitaka, introduces us to Mon Mon, a water spider who routinely ascends to the water surface to gather air bubbles. One day, Mon Mon encounters a captivating water strider, gracefully skimming the water's surface. Instantly smitten, Mon Mon finds himself preoccupied with thoughts of the water strider during his solitary nights in the swamp. As the water strider initially expresses fear towards Mon Mon, she gradually becomes accustomed to his presence. The story unfolds as we eagerly anticipate whether Mon Mon's love for the water strider will be reciprocated, ultimately leaving us rooting for this unique love story inspired by Hayao Miyazaki's manga \"Mononoke-hime\".",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92ef9d3aaed6d25c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.336022263450835,
+    "arithmeticGeometricMean": 6.2876120281864205,
+    "median": 6.54,
+    "hash": "92ef9d3aaed6d25c",
+    "lastUpdate": "2024-05-09"
+  }
+}

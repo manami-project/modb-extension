@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10910",
+    "https://anilist.co/anime/20935",
+    "https://anime-planet.com/anime/the-heroic-legend-of-arslan",
+    "https://anisearch.com/anime/9962",
+    "https://kitsu.io/anime/9972",
+    "https://livechart.me/anime/1282",
+    "https://myanimelist.net/anime/28249",
+    "https://notify.moe/anime/R2bPtFiig"
+  ],
+  "synopsis": {
+    "text": "East meets West in the prosperous kingdom of Pars, ruled by the belligerent King Andragoras III. In the year 320, Pars finds itself in a bitter war with the neighboring empire of Lusitania. Amidst the chaos, the compassionate Prince Arslan, eager to prove his valor, steps onto the battlefield for the first time. Tragedy strikes when a trusted official betrays the king, leading to the annihilation of the Parsian army and the siege of the capital city, Ecbatana.\n\nWith the Lusitanians hot on his trail, Arslan is forced to flee, accompanied by the esteemed general, Daryun. Determined to reclaim his home, Arslan embarks on a perilous journey to rally allies to his cause. However, the enemies he must face extend beyond the occupying forces. Other kingdoms, sensing opportunity, prepare to conquer Ecbatana, while the enigmatic mastermind behind Lusitania's victory, a man concealed by a silver mask, poses a formidable threat to Arslan's claim to the throne.\n\nWith the odds seemingly insurmountable, Arslan must summon the courage and strength to overcome these challenges and find steadfast allies to aid him in his quest. As he navigates through the trials and tribulations, Arslan's journey prepares him for the day he will ascend to the throne and become the king Pars needs.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "df2fa364afc02377",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.634844880442657,
+    "arithmeticGeometricMean": 7.6337629178540745,
+    "median": 7.639077109896782,
+    "hash": "df2fa364afc02377",
+    "lastUpdate": "2024-05-08"
+  }
+}

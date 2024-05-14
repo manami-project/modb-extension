@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/147188",
+    "https://anime-planet.com/anime/zutomayo-mirror-tune",
+    "https://kitsu.io/anime/46052",
+    "https://myanimelist.net/anime/51587"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "60fe3dc1c4db1ead",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.991878787878787,
+    "arithmeticGeometricMean": 6.989050655280147,
+    "median": 6.932,
+    "hash": "60fe3dc1c4db1ead",
+    "lastUpdate": "2024-05-07"
+  }
+}

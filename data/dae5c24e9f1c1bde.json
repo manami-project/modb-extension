@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12023",
+    "https://anilist.co/anime/21746",
+    "https://anime-planet.com/anime/flcl-progressive",
+    "https://anisearch.com/anime/11268",
+    "https://kitsu.io/anime/11961",
+    "https://livechart.me/anime/2101",
+    "https://myanimelist.net/anime/33010",
+    "https://notify.moe/anime/4Eh6pKmig"
+  ],
+  "synopsis": {
+    "text": "That same old mundane life is all that Hidomi, a young teenager, ever knows, until the extraordinary crashes into her world, quite literally. A mysterious, guitar-wielding woman, who happens to be her new teacher, turns her world upside down. Coincidentally, this enigmatic woman named Haruko is no stranger to chaos, having once shared an adventure with a boy named Naota years ago.\n\nAs an intergalactic war unfolds between the powerful entities Medical Mechanica and Fraternity, Hidomi's seemingly average life becomes anything but ordinary. When Medical Mechanica sets its sights on her town, Hidomi discovers an incredible secret hidden within her - a secret that only Haruko can unlock. But why has Haruko returned to Earth, and what became of the Rickenbacker 4001 she left with Naota?\n\nRobots invade Hidomi's life, and a horn sprouts from her forehead as she's drawn into a world of cosmic conflict. Along with her classmate Ko Ide, they find themselves in the thick of the action, narrowly escaping danger with the help of the guitar-wielding Haruko. With her headphones no longer able to drown out the chaos, Hidomi must confront her new reality and unlock the secret within her to save everyone.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dae5c24e9f1c1bde",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.618006976654298,
+    "arithmeticGeometricMean": 6.611191388271921,
+    "median": 6.580846088435374,
+    "hash": "dae5c24e9f1c1bde",
+    "lastUpdate": "2024-05-09"
+  }
+}

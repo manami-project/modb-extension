@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7111",
+    "https://anilist.co/anime/138804",
+    "https://anime-planet.com/anime/ninpuu-kamui-gaiden-tsukihigai-no-maki",
+    "https://anisearch.com/anime/5827",
+    "https://kitsu.io/anime/11057",
+    "https://livechart.me/anime/11675",
+    "https://myanimelist.net/anime/30965",
+    "https://notify.moe/anime/ZvIutKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "acbc1b2db2af7b82",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.740568954854669,
+    "arithmeticGeometricMean": 4.734570068785123,
+    "median": 4.948979591836734,
+    "hash": "acbc1b2db2af7b82",
+    "lastUpdate": "2024-05-09"
+  }
+}

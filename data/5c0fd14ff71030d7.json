@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4870",
+    "https://anilist.co/anime/1956",
+    "https://anime-planet.com/anime/ikkitousen-dragon-destiny",
+    "https://anisearch.com/anime/3981",
+    "https://kitsu.io/anime/1762",
+    "https://livechart.me/anime/4017",
+    "https://myanimelist.net/anime/1956",
+    "https://notify.moe/anime/guGL5FmiR"
+  ],
+  "synopsis": {
+    "text": "Kyousho Academy, Nanyo Academy, and Seito High School are the three dominant schools in modern-day Japan, each led by powerful fighters known as toushi, who possess magatama. The leaders of these schools, Sousou Moutoku, Sonsaku Hakufu, and Ryuubi Gentoku, respectively, are locked in a fierce struggle for supremacy, reminiscent of the Romance of the Three Kingdoms. The ultimate goal of these toushi is to become the Ikki Tousen, a fated destiny they have inherited for over 1800 years.\n\nIn the Kanto region, the battle for territorial dominance intensifies as Kyousho Academy gains more power. Meanwhile, Moutoku of Nanyo Academy is on a quest to find the Dragon Jade, a mystical orb rumored to change people's destinies. However, the power balance shifts when Shimei Ryomou obtains a mysterious dragon orb in China, which grants strength to its dragon wielder. With the hope of saving Nanyo Academy's leader, Hakufu Sonsaku, from the adverse effects of her unstable gift, Shimei's actions spark new tensions among the schools.\n\nAs Moutoku's powers grow stronger and consume him, he becomes a threat to the stability of the region and the safety of his allies. To counter this, Hakufu and Gentoku must set aside their differences and work together to stop Moutoku's demonic plans. With the dragon orb at stake and the toushi's destinies at risk, the stage is set for an epic battle that will determine the fate of modern-day Japan.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c0fd14ff71030d7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.732913194444444,
+    "arithmeticGeometricMean": 6.729010356792046,
+    "median": 6.6899999999999995,
+    "hash": "5c0fd14ff71030d7",
+    "lastUpdate": "2024-05-09"
+  }
+}

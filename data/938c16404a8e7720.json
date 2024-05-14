@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1450",
+    "https://anilist.co/anime/6375",
+    "https://anime-planet.com/anime/gatchaman-fighter",
+    "https://anisearch.com/anime/266",
+    "https://kitsu.io/anime/4536",
+    "https://livechart.me/anime/11966",
+    "https://myanimelist.net/anime/6375",
+    "https://notify.moe/anime/Dlg65FmmR"
+  ],
+  "synopsis": {
+    "text": "In the ongoing battle for Earth's survival, the remnants of the vanquished Leader X evolve into a new menace: Leader Z. Teaming up with the power-hungry Count Egobossler, they set their sights on global domination and the annihilation of the Science Ninja Team Gatchaman. To counter this formidable threat, the Gatchaman team returns with advanced weaponry and a new base of operations, the underwater Gallatown. Among their new arsenal is the Gatchaspartan, a powerful ship equipped with a special mode, Hypershoot, that can only be activated by Ken the Eagle using his Gatchafencer sword. However, this newfound power comes at a steep cost: with each use, Ken's life force is gradually drained, pushing him towards a fatal outcome. As Leader Z prepares to obliterate Earth with an antimatter asteroid, the Gatchaman team must find a way to thwart this catastrophic plan while safeguarding Ken's life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "938c16404a8e7720",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.3198931000971825,
+    "arithmeticGeometricMean": 6.300426291843639,
+    "median": 6.333333333333333,
+    "hash": "938c16404a8e7720",
+    "lastUpdate": "2024-05-09"
+  }
+}

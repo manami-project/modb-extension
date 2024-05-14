@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11101",
+    "https://anilist.co/anime/21070",
+    "https://anime-planet.com/anime/happy-come-come",
+    "https://anisearch.com/anime/10246",
+    "https://kitsu.io/anime/10394",
+    "https://livechart.me/anime/684",
+    "https://myanimelist.net/anime/29515",
+    "https://notify.moe/anime/HCt8tFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9a918d09477e7421",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.741216538563477,
+    "arithmeticGeometricMean": 5.7251171346401355,
+    "median": 5.54,
+    "hash": "9a918d09477e7421",
+    "lastUpdate": "2024-05-09"
+  }
+}

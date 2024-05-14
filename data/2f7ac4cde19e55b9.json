@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148576",
+    "https://anime-planet.com/anime/friend",
+    "https://kitsu.io/anime/46425",
+    "https://myanimelist.net/anime/52859"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2f7ac4cde19e55b9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.983727272727273,
+    "arithmeticGeometricMean": 5.975688555833785,
+    "median": 5.983727272727273,
+    "hash": "2f7ac4cde19e55b9",
+    "lastUpdate": "2024-05-07"
+  }
+}

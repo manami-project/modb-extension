@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15862",
+    "https://anilist.co/anime/110620",
+    "https://anime-planet.com/anime/immemorial-love-for-you",
+    "https://anisearch.com/anime/14784",
+    "https://kitsu.io/anime/43218",
+    "https://myanimelist.net/anime/40876"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eaa17277e0bf6a4f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.777810760667904,
+    "arithmeticGeometricMean": 5.575589825620287,
+    "median": 6.544090909090909,
+    "hash": "eaa17277e0bf6a4f",
+    "lastUpdate": "2024-05-08"
+  }
+}

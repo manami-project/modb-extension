@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118039",
+    "https://anime-planet.com/anime/her-ghost-friend-houkago-no-thesaurus",
+    "https://anime-planet.com/anime/her-ghost-friend-houkago-no-thesaurus-saigo-no-shudan",
+    "https://kitsu.io/anime/42861",
+    "https://myanimelist.net/anime/38507"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de6f75efc9846b05",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.644863636363636,
+    "arithmeticGeometricMean": 5.616484173195723,
+    "median": 5.754,
+    "hash": "de6f75efc9846b05",
+    "lastUpdate": "2024-05-06"
+  }
+}

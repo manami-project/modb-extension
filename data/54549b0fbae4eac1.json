@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7891",
+    "https://anilist.co/anime/9107",
+    "https://anime-planet.com/anime/pokemon-black-and-white",
+    "https://anisearch.com/anime/6306",
+    "https://kitsu.io/anime/5605",
+    "https://livechart.me/anime/4207",
+    "https://myanimelist.net/anime/9107",
+    "https://notify.moe/anime/l0xWpKimR"
+  ],
+  "synopsis": {
+    "text": "Team Rocket's sinister plans, mysterious new Pokémon, and formidable Gym Leaders await Ash Ketchum and his trusty Pikachu as they embark on a thrilling journey through the distant Unova region. Joined by new friends Iris, a Dragon Pokémon enthusiast, and Cilan, a Pokémon Connoisseur and Grass-type specialist, Ash's dream of becoming a Pokémon Master is put to the test like never before. Inspired by the popular Pokémon Black and White video games, the Best Wishes! series introduces a captivating world filled with never-before-seen Pokémon, intense battles, and unforgettable experiences. As Ash and his companions face new rivals and challenges, they'll need to rely on each other and the power of their Pokémon to triumph in this action-packed adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "54549b0fbae4eac1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.48831881346167,
+    "arithmeticGeometricMean": 6.481580749634222,
+    "median": 6.518596218596219,
+    "hash": "54549b0fbae4eac1",
+    "lastUpdate": "2024-05-09"
+  }
+}

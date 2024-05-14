@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1312",
+    "https://anilist.co/anime/54",
+    "https://anime-planet.com/anime/appleseed-movie",
+    "https://anisearch.com/anime/1921",
+    "https://kitsu.io/anime/35",
+    "https://livechart.me/anime/5158",
+    "https://myanimelist.net/anime/54",
+    "https://notify.moe/anime/5SHpcFimg"
+  ],
+  "synopsis": {
+    "text": "Utopia, the last bastion of humanity, emerges from the ruins of a devastating global war, teeming with both humans and bioroids, artificial humans engineered to prevent future conflicts. The city's tranquility is maintained by the vigilant supercomputer Gaia, but beneath the surface, tension simmers between the two species. Deunan Knute, a seasoned soldier, is thrust into this fragile society, carrying with her a secret that could alter the course of humanity's future.\n\nIn 2131, Deunan, weary from countless battles, finds herself in the idyllic city of Olympus, where bioroids, designed to suppress emotions and thus prevent violence, coexist with humans. However, not all humans embrace this symbiotic relationship, viewing the bioroids as inferior beings and a potential threat. The human-led military seeks to eradicate the bioroids, while the bioroid-led government fears a coup. Caught in the middle, Deunan, alongside her former lover Briareos, now a cyborg, must navigate this volatile landscape to prevent an inter-species war.\n\nDeunan's mission is clear: to retrieve the Appleseed, a secret that could quell the escalating conflict. As the clock ticks, Deunan and Briareos must unravel the mystery surrounding the Appleseed, a task that could save not only the bioroids but also the remnants of the human race. The future of Olympus hangs in the balance, and Deunan's actions could tip the scales towards peace or plunge the city into chaos.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "544ce6c85f5d4ffb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.115834797555386,
+    "arithmeticGeometricMean": 7.112536316990468,
+    "median": 7.177235294117647,
+    "hash": "544ce6c85f5d4ffb",
+    "lastUpdate": "2024-05-08"
+  }
+}

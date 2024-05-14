@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/111",
+    "https://myanimelist.net/anime/2186"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b934d9ac9d09315",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.186836734693877,
+    "arithmeticGeometricMean": 4.098061159759194,
+    "median": 4.186836734693877,
+    "hash": "8b934d9ac9d09315",
+    "lastUpdate": "2024-05-07"
+  }
+}

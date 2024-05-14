@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10419",
+    "https://anilist.co/anime/20616",
+    "https://anime-planet.com/anime/wonder-momo",
+    "https://anisearch.com/anime/9432",
+    "https://kitsu.io/anime/8290",
+    "https://livechart.me/anime/421",
+    "https://myanimelist.net/anime/22377",
+    "https://notify.moe/anime/_nyTtFmig"
+  ],
+  "synopsis": {
+    "text": "And so begins the extraordinary tale of Momoko, an aspiring idol from Tokyo, whose dreams of stardom take a backseat when Earth is invaded by a formidable alien force. Led by the ruthless Warudemon, the aliens have one goal: world domination. As fate would have it, Momoko finds herself unwittingly thrust into the heart of the conflict, becoming a target for Warudemon's relentless pursuit.\n\nIn an unexpected twist, Momoko's life takes a dramatic turn when she encounters Glooder, an alien with a mysterious sphere that merges with her body, bestowing upon her the power to transform into Wonder Momo. Armed with her Wonder Hoop, Momoko, now Wonder Momo, finds herself defending not only her school but also her beloved city of Tokyo and the entire world.\n\nOriginally an arcade game from the late '80s, Wonder Momo's story unfolds as a side-scrolling beat 'em up adventure, featuring a transforming heroine who's ready to stand up against the alien invasion. With her dreams of idol stardom temporarily on hold, Momoko embraces her new role as Wonder Momo, proving that even the unlikeliest of heroes can rise to the challenge when the world needs them the most.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09259c15abc3332b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.684267824012722,
+    "arithmeticGeometricMean": 3.675178811336833,
+    "median": 3.6363636363636362,
+    "hash": "09259c15abc3332b",
+    "lastUpdate": "2024-05-10"
+  }
+}

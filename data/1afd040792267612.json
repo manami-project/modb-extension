@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18167",
+    "https://anilist.co/anime/168500",
+    "https://anime-planet.com/anime/demon-lord-retry-r",
+    "https://anisearch.com/anime/18641",
+    "https://kitsu.io/anime/47881",
+    "https://livechart.me/anime/12306",
+    "https://myanimelist.net/anime/56400",
+    "https://notify.moe/anime/VIcLc1RIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1afd040792267612",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "1afd040792267612",
+    "lastUpdate": "2024-05-11"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16780",
+    "https://anilist.co/anime/120301",
+    "https://anime-planet.com/anime/xian-feng-jian-yu-lu",
+    "https://anisearch.com/anime/16936",
+    "https://kitsu.io/anime/43281",
+    "https://livechart.me/anime/10047",
+    "https://myanimelist.net/anime/42291",
+    "https://notify.moe/anime/IpxhwYWMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aefa3288bc217902",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.672787878787879,
+    "arithmeticGeometricMean": 6.667923959586879,
+    "median": 6.636363636363637,
+    "hash": "aefa3288bc217902",
+    "lastUpdate": "2024-05-10"
+  }
+}

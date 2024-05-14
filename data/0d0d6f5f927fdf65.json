@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/87483",
+    "https://anime-planet.com/anime/cyborg-009-call-of-justice-movie-3",
+    "https://kitsu.io/anime/12578",
+    "https://livechart.me/anime/2332",
+    "https://myanimelist.net/anime/33687",
+    "https://notify.moe/anime/haMm2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0d0d6f5f927fdf65",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.585975757575757,
+    "arithmeticGeometricMean": 6.582581193920621,
+    "median": 6.35,
+    "hash": "0d0d6f5f927fdf65",
+    "lastUpdate": "2024-05-06"
+  }
+}

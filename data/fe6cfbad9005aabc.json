@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11959",
+    "https://anilist.co/anime/21673",
+    "https://anime-planet.com/anime/symphogear-xv",
+    "https://anisearch.com/anime/11224",
+    "https://kitsu.io/anime/11884",
+    "https://livechart.me/anime/2053",
+    "https://myanimelist.net/anime/32843",
+    "https://notify.moe/anime/8Fi6pKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe6cfbad9005aabc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.89420848794063,
+    "arithmeticGeometricMean": 7.88545083637961,
+    "median": 7.999454545454546,
+    "hash": "fe6cfbad9005aabc",
+    "lastUpdate": "2024-05-09"
+  }
+}

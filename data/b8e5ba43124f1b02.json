@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16469",
+    "https://anilist.co/anime/131594",
+    "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-dear-little-wish",
+    "https://myanimelist.net/anime/43990"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8e5ba43124f1b02",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.909090909090909,
+    "arithmeticGeometricMean": 3.909090909090909,
+    "median": 3.909090909090909,
+    "hash": "b8e5ba43124f1b02",
+    "lastUpdate": "2024-05-07"
+  }
+}

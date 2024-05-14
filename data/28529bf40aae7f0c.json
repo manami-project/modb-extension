@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5111",
+    "https://anilist.co/anime/12809",
+    "https://anime-planet.com/anime/wonder-bebil-kun",
+    "https://anisearch.com/anime/4213",
+    "https://kitsu.io/anime/6820",
+    "https://livechart.me/anime/11458",
+    "https://myanimelist.net/anime/12809",
+    "https://notify.moe/anime/ZgCNtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "28529bf40aae7f0c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.485699443413729,
+    "arithmeticGeometricMean": 5.461016984526662,
+    "median": 5.090909090909091,
+    "hash": "28529bf40aae7f0c",
+    "lastUpdate": "2024-05-10"
+  }
+}

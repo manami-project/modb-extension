@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7481",
+    "https://anilist.co/anime/8438",
+    "https://anime-planet.com/anime/pokemon-ranger-guardian-signs",
+    "https://anisearch.com/anime/6181",
+    "https://kitsu.io/anime/5334",
+    "https://livechart.me/anime/6554",
+    "https://myanimelist.net/anime/8438",
+    "https://notify.moe/anime/yq5mpKmmR"
+  ],
+  "synopsis": {
+    "text": "Ranger, Ben, and his newfound friend, a ukulele-strumming Pichu, embark on thrilling adventures to safeguard Pokemon from the nefarious clutches of the Pokemon Nappers. As Ben valiantly battles the cunning Red Eyes and his wicked crew, he forms unbreakable bonds with the legendary Latios and Raikou. Meanwhile, Natsuya, entrusted with a crucial mission by the wise Professor Hastings, joins the fight to protect wild Pokemon from being controlled and exploited by these ruthless poachers. Together, they strive to maintain peace and harmony in the Pokemon world, proving that being a Pokemon Ranger is just as heroic as being a Pokemon Trainer like Ash.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8359ec4f219f9665",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0941728067850525,
+    "arithmeticGeometricMean": 6.080667771743629,
+    "median": 6.266,
+    "hash": "8359ec4f219f9665",
+    "lastUpdate": "2024-05-09"
+  }
+}

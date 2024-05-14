@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7931",
+    "https://anilist.co/anime/8241",
+    "https://anime-planet.com/anime/rio-rainbow-gate",
+    "https://anisearch.com/anime/6487",
+    "https://kitsu.io/anime/5262",
+    "https://livechart.me/anime/4123",
+    "https://myanimelist.net/anime/8241",
+    "https://notify.moe/anime/8TZitKiiR"
+  ],
+  "synopsis": {
+    "text": "Resort casinos don't get much grander than the Howard Resort Hotel, a global magnet for fortune seekers and high rollers. Amidst the glitz and glamour, the enchanting Rio Rollins commands the casino floor as its star dealer, affectionately dubbed the 'Goddess of Victory'. Rio's ambition is to emulate her legendary mother, a formidable dealer in her own right, by collecting the elusive set of 13 magical cards known as 'Gates'. The coveted title of MVCD (Most Valuable Casino Dealer) awaits the dealer who manages to gather all 13 Gates.\n\nThe stage is set for a thrilling battle of wits and strategy, as rival dealers from around the world converge on the Howard Resort to challenge Rio and claim the Gates for themselves. The excitement is tempered with moments of hilarity and unexpected emotional depth, as Rio navigates the challenges and trials that stand between her and her ultimate goal.\n\nThe resort's colorful cast of characters, including the clumsy Anya and the charming bunnygirl duo Elle and Ille, add to the vibrant tapestry of this unique gambling paradise. With the eccentric Mr. Howard insisting on ever more revealing outfits for Rio and even a mischievous ghost meddling in the hotel's affairs, the path to becoming the MVCD is anything but straightforward.\n\nJoin Rio Rollins in her quest for greatness, as she leaves her mark on the Howard Resort and captures the hearts of patrons and rivals alike. With Lady Luck on her side and the crowd chanting 'Leave it to Rio!', the stakes have never been higher in this exhilarating world of chance and skill.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3bb9a09e66e5a121",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.6837029993815715,
+    "arithmeticGeometricMean": 5.659502774251949,
+    "median": 5.506060606060606,
+    "hash": "3bb9a09e66e5a121",
+    "lastUpdate": "2024-05-09"
+  }
+}

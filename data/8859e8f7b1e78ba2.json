@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18142",
+    "https://anilist.co/anime/155328",
+    "https://anime-planet.com/anime/wo-zai-xianjie-zheng-jifen",
+    "https://kitsu.io/anime/47157",
+    "https://myanimelist.net/anime/53473"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8859e8f7b1e78ba2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.811030303030303,
+    "arithmeticGeometricMean": 6.805774235685741,
+    "median": 6.909090909090909,
+    "hash": "8859e8f7b1e78ba2",
+    "lastUpdate": "2024-05-07"
+  }
+}

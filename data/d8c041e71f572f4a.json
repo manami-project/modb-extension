@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13706",
+    "https://anilist.co/anime/101046",
+    "https://anime-planet.com/anime/cute-high-earth-defense-club-happy-kiss",
+    "https://anisearch.com/anime/13170",
+    "https://kitsu.io/anime/41018",
+    "https://livechart.me/anime/3037",
+    "https://myanimelist.net/anime/37036",
+    "https://notify.moe/anime/WLeO2Fimg"
+  ],
+  "synopsis": {
+    "text": "Taishi Manza, Kyoutarou Shuzenji, Ryouma Kirishima, Nanao Wakura, and Ichiro Dogou are members of Binan High School's Earth Defense Club, a club that exists in name only. Their daily routine consists of lounging in the Kurotama Bath after school, engaging in idle chatter over tea, and enjoying each other's company. However, their laid-back lifestyle takes a dramatic turn when a peculiar young man named Carles appears before them, seeking their assistance.\n\nCarles, an otter-prince from the magical kingdom of Honyaraland, bestows upon each member a magical ring, transforming them into powerful magical boys tasked with spreading love and happiness. The boys soon discover that their school is under threat from the student council, who, allied with the fox-prince Rafunui, are transforming students into monsters as part of their nefarious plans.\n\nAs the new generation of Earth Defense Club members, these reluctant heroes must confront the dark knights and monsters created by the student council, all while trying to restore happiness to the afflicted students. In order to save their fellow students, these pretty boys must embrace their roles as magical knights and engage in battles that test their resolve and commitment to love and happiness. With a kiss, they make a promise to their otter prince and embark on a journey filled with magical transformations, unexpected challenges, and heartwarming moments.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d8c041e71f572f4a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.329467797508614,
+    "arithmeticGeometricMean": 6.314916488171116,
+    "median": 6.45,
+    "hash": "d8c041e71f572f4a",
+    "lastUpdate": "2024-05-09"
+  }
+}

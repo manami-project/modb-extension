@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11929",
+    "https://anilist.co/anime/111123",
+    "https://anime-planet.com/anime/kodanuki-ponpo",
+    "https://anisearch.com/anime/11303",
+    "https://kitsu.io/anime/11921",
+    "https://myanimelist.net/anime/32430",
+    "https://notify.moe/anime/KbS6pKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "793429074391642d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0033704390847245,
+    "arithmeticGeometricMean": 4.975166432781911,
+    "median": 4.810111317254174,
+    "hash": "793429074391642d",
+    "lastUpdate": "2024-05-08"
+  }
+}

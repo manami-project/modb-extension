@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/101100",
+    "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-movie-vow-in-the-snow-special",
+    "https://anisearch.com/anime/13325",
+    "https://kitsu.io/anime/41391",
+    "https://livechart.me/anime/2980",
+    "https://myanimelist.net/anime/36833",
+    "https://notify.moe/anime/opUhQ3Dmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a3ab60e720326e0c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.926978001590247,
+    "arithmeticGeometricMean": 6.917568381840852,
+    "median": 7.0,
+    "hash": "a3ab60e720326e0c",
+    "lastUpdate": "2024-05-06"
+  }
+}

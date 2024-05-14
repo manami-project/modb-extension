@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12124",
+    "https://anime-planet.com/anime/shounen-ashibe-ova",
+    "https://anisearch.com/anime/11495",
+    "https://kitsu.io/anime/13183",
+    "https://myanimelist.net/anime/33199",
+    "https://notify.moe/anime/XgaMhFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f46898928c701e5c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.18,
+    "arithmeticGeometricMean": 6.12301821983441,
+    "median": 6.18,
+    "hash": "f46898928c701e5c",
+    "lastUpdate": "2024-05-07"
+  }
+}

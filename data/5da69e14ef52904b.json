@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14206",
+    "https://anilist.co/anime/103256",
+    "https://anime-planet.com/anime/nekopara-koneko-no-hi-no-yakusoku",
+    "https://anisearch.com/anime/13741",
+    "https://kitsu.io/anime/41875",
+    "https://livechart.me/anime/3390",
+    "https://myanimelist.net/anime/37983",
+    "https://notify.moe/anime/fQNz_d0iR"
+  ],
+  "synopsis": {
+    "text": "It's a heartwarming tale set half a year before the grand opening of La Soleil, a patisserie run by Kashou and his adorable catgirls. The story revolves around Chocola and Vanilla, two kittens new to the Minazuki household, as they navigate their way through a world full of older catgirls. As they grow and learn from their fellow feline friends, they begin to form a special bond with Kashou, whom they affectionately call 'master.' With Christmas just around the corner, the family prepares for a festive celebration, marking the first of many cherished memories together.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5da69e14ef52904b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.993267191334011,
+    "arithmeticGeometricMean": 6.988618940085031,
+    "median": 7.004,
+    "hash": "5da69e14ef52904b",
+    "lastUpdate": "2024-05-09"
+  }
+}

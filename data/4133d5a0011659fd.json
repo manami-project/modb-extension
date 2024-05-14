@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13583",
+    "https://anilist.co/anime/100532",
+    "https://anime-planet.com/anime/amanchu-advance",
+    "https://anisearch.com/anime/13020",
+    "https://kitsu.io/anime/14015",
+    "https://livechart.me/anime/2974",
+    "https://myanimelist.net/anime/36800",
+    "https://notify.moe/anime/9ZSNhFmmg"
+  ],
+  "synopsis": {
+    "text": "The vibrant seaside town of Izu serves as the backdrop for the blossoming friendship between two high school girls, Hikari Kohinata and Futaba Ooki, in the anime \"Amanchu!\". Hikari, a local girl brimming with energy and optimism, finds an unlikely companion in the reserved and introverted Futaba, who recently moved from Tokyo. Their contrasting personalities create a harmonious balance, leading to a deep bond that transcends their shared love for scuba diving.\n\nAs they navigate through their high school journey, Hikari's infectious enthusiasm encourages Futaba to step out of her comfort zone and embrace the simple joys of life. Inspired by her friend's passion for underwater exploration, Futaba successfully completes her Open Water Diver exam and sets her sights on the Advanced Open Water Diver certification.\n\nTogether with their fellow diving club members, Hikari and Futaba embark on thrilling underwater adventures, discovering the breathtaking beauty and wonder hidden beneath the ocean's surface. As they continue to grow and learn from each other, their unforgettable high school experiences are only just beginning, filled with laughter, camaraderie, and the magic of the deep blue sea.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4133d5a0011659fd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.330951762523191,
+    "arithmeticGeometricMean": 7.3296984961020994,
+    "median": 7.253897959183673,
+    "hash": "4133d5a0011659fd",
+    "lastUpdate": "2024-05-08"
+  }
+}

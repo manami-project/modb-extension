@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13464",
+    "https://anilist.co/anime/103961",
+    "https://anime-planet.com/anime/zhu-zhu-xia-movie-3-zhong-ji-jue-zhan",
+    "https://anisearch.com/anime/13300",
+    "https://myanimelist.net/anime/38137"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35d2193acc3b3cdb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.401382807668521,
+    "arithmeticGeometricMean": 4.0918510977343665,
+    "median": 4.545454545454545,
+    "hash": "35d2193acc3b3cdb",
+    "lastUpdate": "2024-05-08"
+  }
+}

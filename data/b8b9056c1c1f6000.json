@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/10000",
+    "https://anime-planet.com/anime/esper-mami-my-angel-mami-chan",
+    "https://kitsu.io/anime/5988",
+    "https://livechart.me/anime/10874",
+    "https://myanimelist.net/anime/10000",
+    "https://notify.moe/anime/wk77tKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8b9056c1c1f6000",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.983863636363637,
+    "arithmeticGeometricMean": 5.957207618248682,
+    "median": 5.892727272727273,
+    "hash": "b8b9056c1c1f6000",
+    "lastUpdate": "2024-05-06"
+  }
+}

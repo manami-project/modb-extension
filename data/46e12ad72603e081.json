@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13591",
+    "https://anilist.co/anime/100570",
+    "https://anime-planet.com/anime/tantei-opera-milky-holmes-arsene-karei-naru-yokubou",
+    "https://anisearch.com/anime/13034",
+    "https://kitsu.io/anime/41104",
+    "https://livechart.me/anime/2978",
+    "https://myanimelist.net/anime/36827",
+    "https://notify.moe/anime/y2dK2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46e12ad72603e081",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.862456400742114,
+    "arithmeticGeometricMean": 6.8575015130379,
+    "median": 6.909090909090909,
+    "hash": "46e12ad72603e081",
+    "lastUpdate": "2024-05-10"
+  }
+}

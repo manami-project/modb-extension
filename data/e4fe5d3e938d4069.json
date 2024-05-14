@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4911",
+    "https://anilist.co/anime/135539",
+    "https://anime-planet.com/anime/kono-hoshi-no-ue-ni",
+    "https://anisearch.com/anime/11891",
+    "https://kitsu.io/anime/41792",
+    "https://myanimelist.net/anime/37482"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e4fe5d3e938d4069",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.7272727272727275,
+    "arithmeticGeometricMean": 4.7272727272727275,
+    "median": 4.7272727272727275,
+    "hash": "e4fe5d3e938d4069",
+    "lastUpdate": "2024-05-07"
+  }
+}

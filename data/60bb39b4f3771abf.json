@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103489",
+    "https://anime-planet.com/anime/mr-shape-high-touch-gymnastics",
+    "https://kitsu.io/anime/11801",
+    "https://myanimelist.net/anime/31639"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "60bb39b4f3771abf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.177878787878789,
+    "arithmeticGeometricMean": 5.1583458317840485,
+    "median": 5.28,
+    "hash": "60bb39b4f3771abf",
+    "lastUpdate": "2024-05-07"
+  }
+}

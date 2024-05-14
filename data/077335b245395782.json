@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127114",
+    "https://anime-planet.com/anime/omoinotake-wakusei",
+    "https://anisearch.com/anime/18086",
+    "https://myanimelist.net/anime/51455"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "077335b245395782",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.443584415584415,
+    "arithmeticGeometricMean": 6.4300671867174,
+    "median": 6.818181818181818,
+    "hash": "077335b245395782",
+    "lastUpdate": "2024-05-07"
+  }
+}

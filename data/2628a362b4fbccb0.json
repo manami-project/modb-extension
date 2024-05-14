@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15006",
+    "https://anilist.co/anime/129676",
+    "https://anime-planet.com/anime/honkai-impact-3rd-reburn",
+    "https://anisearch.com/anime/15537",
+    "https://kitsu.io/anime/42686",
+    "https://livechart.me/anime/10706"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2628a362b4fbccb0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.833510946196659,
+    "arithmeticGeometricMean": 6.82007359085333,
+    "median": 6.895918367346939,
+    "hash": "2628a362b4fbccb0",
+    "lastUpdate": "2024-05-09"
+  }
+}

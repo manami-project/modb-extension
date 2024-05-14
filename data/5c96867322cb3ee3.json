@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3099",
+    "https://anilist.co/anime/4855",
+    "https://anime-planet.com/anime/fuma-no-kojirou-seiken-sensou-hen",
+    "https://anisearch.com/anime/2044",
+    "https://kitsu.io/anime/3827",
+    "https://livechart.me/anime/12412",
+    "https://myanimelist.net/anime/4855",
+    "https://notify.moe/anime/8tcrcKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c96867322cb3ee3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.048065347351062,
+    "arithmeticGeometricMean": 6.025984314607948,
+    "median": 6.100454545454546,
+    "hash": "5c96867322cb3ee3",
+    "lastUpdate": "2024-05-09"
+  }
+}

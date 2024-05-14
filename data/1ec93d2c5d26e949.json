@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102771",
+    "https://anime-planet.com/anime/kashikokimono",
+    "https://kitsu.io/anime/13095",
+    "https://myanimelist.net/anime/31926",
+    "https://notify.moe/anime/iFIG2Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ec93d2c5d26e949",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.342090909090909,
+    "arithmeticGeometricMean": 5.325373628731441,
+    "median": 5.24,
+    "hash": "1ec93d2c5d26e949",
+    "lastUpdate": "2024-05-06"
+  }
+}

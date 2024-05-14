@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11760",
+    "https://anilist.co/anime/97954",
+    "https://anime-planet.com/anime/sushi-and-beyond-new-years-special",
+    "https://anisearch.com/anime/11079",
+    "https://kitsu.io/anime/11804",
+    "https://livechart.me/anime/1912",
+    "https://myanimelist.net/anime/32010",
+    "https://notify.moe/anime/OyPqtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "207e9cc21c07c734",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0361941867656155,
+    "arithmeticGeometricMean": 6.023035727633264,
+    "median": 6.090909090909092,
+    "hash": "207e9cc21c07c734",
+    "lastUpdate": "2024-05-09"
+  }
+}

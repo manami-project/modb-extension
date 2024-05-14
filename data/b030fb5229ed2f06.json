@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17824",
+    "https://anilist.co/anime/160275",
+    "https://anime-planet.com/anime/made-in-abyss-new",
+    "https://anisearch.com/anime/18119",
+    "https://kitsu.io/anime/47017",
+    "https://livechart.me/anime/11785",
+    "https://myanimelist.net/anime/54250",
+    "https://notify.moe/anime/r-cvaeh4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b030fb5229ed2f06",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.581632653061224,
+    "arithmeticGeometricMean": 7.570456935187908,
+    "median": 7.581632653061224,
+    "hash": "b030fb5229ed2f06",
+    "lastUpdate": "2024-05-09"
+  }
+}

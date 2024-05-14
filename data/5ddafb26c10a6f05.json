@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15036",
+    "https://anilist.co/anime/110881",
+    "https://anime-planet.com/anime/bananya-and-the-curious-bunch",
+    "https://anisearch.com/anime/14610",
+    "https://kitsu.io/anime/42486",
+    "https://livechart.me/anime/9559",
+    "https://myanimelist.net/anime/40228",
+    "https://notify.moe/anime/4VWokZoZg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ddafb26c10a6f05",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.558289389182246,
+    "arithmeticGeometricMean": 6.546339574121926,
+    "median": 6.633181818181818,
+    "hash": "5ddafb26c10a6f05",
+    "lastUpdate": "2024-05-08"
+  }
+}

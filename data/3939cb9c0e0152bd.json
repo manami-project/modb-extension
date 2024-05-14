@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9667",
+    "https://anilist.co/anime/19445",
+    "https://anime-planet.com/anime/tetsujin-28-gou-gao",
+    "https://anisearch.com/anime/8334",
+    "https://kitsu.io/anime/7876",
+    "https://livechart.me/anime/7054",
+    "https://myanimelist.net/anime/19445",
+    "https://notify.moe/anime/yauptKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3939cb9c0e0152bd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.523268089053803,
+    "arithmeticGeometricMean": 5.506106726943371,
+    "median": 5.249536178107606,
+    "hash": "3939cb9c0e0152bd",
+    "lastUpdate": "2024-05-10"
+  }
+}

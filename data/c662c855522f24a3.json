@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12413",
+    "https://anime-planet.com/anime/tanahashi-hiroshi-x-mameshiba-pro-wrestling",
+    "https://anisearch.com/anime/14200",
+    "https://kitsu.io/anime/12494",
+    "https://myanimelist.net/anime/33543",
+    "https://notify.moe/anime/iuPk2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c662c855522f24a3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.955020408163265,
+    "arithmeticGeometricMean": 4.94661702996094,
+    "median": 4.54,
+    "hash": "c662c855522f24a3",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14372",
+    "https://anime-planet.com/anime/songdai-zuqiu-xiaojiang",
+    "https://anisearch.com/anime/13924",
+    "https://myanimelist.net/anime/44014"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "25caca3908e454cb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "25caca3908e454cb",
+    "lastUpdate": "2024-05-11"
+  }
+}

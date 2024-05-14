@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5174",
+    "https://anilist.co/anime/4471",
+    "https://anime-planet.com/anime/sos-tokyo-metro-explorers-the-next",
+    "https://anisearch.com/anime/4265",
+    "https://kitsu.io/anime/3627",
+    "https://livechart.me/anime/6413",
+    "https://myanimelist.net/anime/4471",
+    "https://notify.moe/anime/WU_XcKiiR"
+  ],
+  "synopsis": {
+    "text": "Ryuhei, a young elementary school student, stumbles upon his father's old journal, filled with cryptic maps and clues to a hidden treasure buried deep beneath the bustling city of Tokyo. With his curiosity piqued, Ryuhei assembles a team of online friends, including Shun and Yoshio, to embark on a thrilling quest to uncover this mysterious treasure. Accompanied by Ryuhei's mischievous little brother, the group ventures into the labyrinthine network of sewers and tunnels that crisscross the city.\n\nAs they delve deeper into the underground, the children encounter a motley crew of eccentric characters, including a man named Matakichi and a self-proclaimed Japanese soldier still clinging to his wartime mission. The subterranean world they've discovered soon transforms into a combat zone, involving Yoshio's cousin Momoyo and other unexpected adversaries. Despite the escalating danger, the children remain determined to uncover the legendary \"Treasure of Japan.\"\n\nIn this thrilling adventure, Ryuhei and his friends must navigate the challenges of the underground world, forge new friendships, and confront the mysteries of the past. Will they be able to find the treasure and unravel the secrets hidden beneath Tokyo? Join them on their exciting journey to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d2ff70b35e1f953",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.812234296315929,
+    "arithmeticGeometricMean": 5.800083843519145,
+    "median": 5.67,
+    "hash": "1d2ff70b35e1f953",
+    "lastUpdate": "2024-05-10"
+  }
+}

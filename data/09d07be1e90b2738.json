@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12945",
+    "https://anilist.co/anime/111859",
+    "https://anime-planet.com/anime/delinquent-hamsters",
+    "https://anisearch.com/anime/14392",
+    "https://kitsu.io/anime/42557",
+    "https://myanimelist.net/anime/35011",
+    "https://notify.moe/anime/To0fVBmSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09d07be1e90b2738",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0407057513914655,
+    "arithmeticGeometricMean": 6.038324901299622,
+    "median": 5.867346938775509,
+    "hash": "09d07be1e90b2738",
+    "lastUpdate": "2024-05-08"
+  }
+}

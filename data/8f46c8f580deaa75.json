@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/150583",
+    "https://anime-planet.com/anime/call-of-the-night-mini-anime",
+    "https://anisearch.com/anime/17530",
+    "https://kitsu.io/anime/46263",
+    "https://livechart.me/anime/11244",
+    "https://myanimelist.net/anime/52015"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f46c8f580deaa75",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.224414656771799,
+    "arithmeticGeometricMean": 6.218439157630326,
+    "median": 6.371,
+    "hash": "8f46c8f580deaa75",
+    "lastUpdate": "2024-05-06"
+  }
+}

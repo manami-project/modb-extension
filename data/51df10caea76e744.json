@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15229",
+    "https://anilist.co/anime/112686",
+    "https://anime-planet.com/anime/7-seeds-2nd-season",
+    "https://anisearch.com/anime/14703",
+    "https://kitsu.io/anime/42639",
+    "https://livechart.me/anime/9652",
+    "https://myanimelist.net/anime/40602",
+    "https://notify.moe/anime/QEVAXEQZg"
+  ],
+  "synopsis": {
+    "text": "Gekkan Flowers and Bessatsu Shoujo Comic published a serialized story from November 2001 to July 2017, spanning 35 volumes, titled 7SEEDS. In the aftermath of a devastating meteor strike, the remnants of humanity cling to survival through a government-led cryogenics initiative. The chosen participants of the 7SEEDS project face unimaginable challenges – from colossal insects and treacherous post-apocalyptic weather to vicious animals and the deadliest threat of all: other survivors who will stop at nothing to live another day. As the chosen few strive to rebuild society, they quickly realize that the battle for survival is far from over.\n\nAmidst the chaos, Hana vanishes during an underground river incident, causing tensions to rise within the Summer A team. Ryou and Ango, the accused, face escalating accusations that lead to a physical altercation. Choosing to leave their group, they venture out on their own for survival. Meanwhile, the remaining Summer A members establish a camp near a water source to prepare for the dry period.\n\nRyo and Ango soon stumble upon signs of another survivor group, and eventually, they encounter the group itself. The new group's survival strategies differ significantly from their own, presenting both new opportunities and dangers for the expanding team. As alliances shift and challenges mount, the 7SEEDS project members must navigate this treacherous new world and forge ahead with their mission to rebuild society.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "51df10caea76e744",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.194682282003711,
+    "arithmeticGeometricMean": 7.190934193188943,
+    "median": 7.250092764378478,
+    "hash": "51df10caea76e744",
+    "lastUpdate": "2024-05-08"
+  }
+}

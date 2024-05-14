@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1099",
+    "https://anilist.co/anime/114",
+    "https://anime-planet.com/anime/cromartie-high-school",
+    "https://anisearch.com/anime/119",
+    "https://kitsu.io/anime/93",
+    "https://livechart.me/anime/3921",
+    "https://myanimelist.net/anime/114",
+    "https://notify.moe/anime/6zbtcFmmg"
+  ],
+  "synopsis": {
+    "text": "Call it a twist of fate or a stroke of bad luck, Takashi Kamiyama finds himself enrolled in the notorious Cromartie High School, a haven for delinquents. In this wild and wacky world, Kamiyama must navigate through a sea of eccentric characters, including a robot named Mechazawa, a gorilla with an attitude, and a Freddie Mercury look-alike with a flair for the dramatic. As Kamiyama strives to improve the school's reputation, he faces a myriad of absurd challenges, from dealing with mohawked punks to pondering the legality of riding a horse to school. Join Kamiyama on his rollercoaster journey through the unpredictable halls of Cromartie High, where the only thing more bizarre than the students is the reality they inhabit. Brace yourself for a side-splitting adventure that will leave you questioning the line between fact and fantasy.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "efc4a09edd197606",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.627558024790944,
+    "arithmeticGeometricMean": 7.623162529539708,
+    "median": 7.723636363636364,
+    "hash": "efc4a09edd197606",
+    "lastUpdate": "2024-05-09"
+  }
+}

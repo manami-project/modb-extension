@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12802",
+    "https://anilist.co/anime/104100",
+    "https://anime-planet.com/anime/ringo-sheena-mayonaka-wa-junketsu",
+    "https://anisearch.com/anime/9167",
+    "https://kitsu.io/anime/8849",
+    "https://myanimelist.net/anime/22093",
+    "https://notify.moe/anime/91SbtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "010602644c0ccb9b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.766476013782136,
+    "arithmeticGeometricMean": 5.74200091317606,
+    "median": 5.636363636363637,
+    "hash": "010602644c0ccb9b",
+    "lastUpdate": "2024-05-08"
+  }
+}

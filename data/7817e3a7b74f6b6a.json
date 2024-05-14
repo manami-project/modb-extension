@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5424",
+    "https://anilist.co/anime/3297",
+    "https://anime-planet.com/anime/aria-the-origination",
+    "https://anisearch.com/anime/4484",
+    "https://kitsu.io/anime/2916",
+    "https://livechart.me/anime/3898",
+    "https://myanimelist.net/anime/3297",
+    "https://notify.moe/anime/6CcwcKmmg"
+  ],
+  "synopsis": {
+    "text": "Man-Home's 15-year-old resident, Akari Mizunashi, sets foot on the water-dominated planet Aqua, formerly known as Mars, in the 24th century. Neo-Venezia, a replica of the old Venice, is now home to Akari as she joins the Aria Company to pursue her dream of becoming a Prima Undine, a professional tour guide gondolier. Guided by the Water Fairies - Alicia Florence, Athena Glory, and Akira E. Ferrari, the best Prima Undines in Neo-Venezia, Akari, along with her friends Alice Carroll and Aika S. Granzchesta, navigate the beautiful waterways, palaces, and plazas of the city. As they train hard and overcome daily challenges, the girls form their distinctive styles as tour guides, drawing inspiration from their mentors and the city itself. With the final test to become a Prima looming closer, Akari, Alice, and Aika continue to work diligently, discovering the hidden gems of Neo-Venezia and the mysteries it holds, while creating unforgettable memories in this city of warmth and tranquility.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7817e3a7b74f6b6a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.318544208024118,
+    "arithmeticGeometricMean": 8.31589878665399,
+    "median": 8.365909090909092,
+    "hash": "7817e3a7b74f6b6a",
+    "lastUpdate": "2024-05-08"
+  }
+}

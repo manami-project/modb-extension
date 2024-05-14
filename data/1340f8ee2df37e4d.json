@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1526",
+    "https://anilist.co/anime/2318",
+    "https://anime-planet.com/anime/dog-soldier-shadows-of-the-past",
+    "https://anisearch.com/anime/1372",
+    "https://kitsu.io/anime/2100",
+    "https://myanimelist.net/anime/2318",
+    "https://notify.moe/anime/jvAP5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1340f8ee2df37e4d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.9693824542804133,
+    "arithmeticGeometricMean": 3.9531302687057064,
+    "median": 3.93,
+    "hash": "1340f8ee2df37e4d",
+    "lastUpdate": "2024-05-07"
+  }
+}

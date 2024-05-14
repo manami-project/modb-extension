@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6868",
+    "https://anilist.co/anime/7531",
+    "https://anime-planet.com/anime/onbu-obake",
+    "https://anisearch.com/anime/5969",
+    "https://kitsu.io/anime/5021",
+    "https://myanimelist.net/anime/7531",
+    "https://notify.moe/anime/uUmkpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ccb54a01118950de",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.4935064935064934,
+    "arithmeticGeometricMean": 4.467848435314121,
+    "median": 4.909090909090909,
+    "hash": "ccb54a01118950de",
+    "lastUpdate": "2024-05-08"
+  }
+}

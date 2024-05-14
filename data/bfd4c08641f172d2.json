@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8595",
+    "https://anilist.co/anime/11441",
+    "https://anime-planet.com/anime/rurouni-kenshin-new-kyoto-arc",
+    "https://anisearch.com/anime/7253",
+    "https://kitsu.io/anime/6509",
+    "https://livechart.me/anime/5229",
+    "https://myanimelist.net/anime/11441",
+    "https://notify.moe/anime/EdTIpFmiR"
+  ],
+  "synopsis": {
+    "text": "Kenshin’s past comes back to haunt him in the form of a formidable adversary in \"Rurouni Kenshin: New Kyoto Arc.\" After renouncing his past as a contract killer and adopting a reversed-blade sword, Kenshin Himura must now face Makoto Shishio, a swordsman who has taken up his former mantle. Shishio, having survived a deadly ambush that left him severely burned and wrapped in bandages, seeks to reshape Japan in his vision, where only the strongest have the right to exist.\n\nAs Kenshin sets out on his journey, he crosses paths with Misao Makimachi, a young ninja searching for her crush. Together, they confront Shishio, but Kenshin's blade shatters in the ensuing battle. With Shishio continuing his reign of terror, Kenshin must find a new blade to stop him before it's too late. However, his former blacksmith is deceased, and his son refuses to forge another weapon of death. Will Kenshin be able to obtain a new sword and defeat Shishio before he brings the country to its knees? The story unfolds through Misao's eyes, adding a fresh perspective to this alternate retelling of the Kyoto arc.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bfd4c08641f172d2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.0908188861403145,
+    "arithmeticGeometricMean": 7.0859503226223755,
+    "median": 7.090612244897958,
+    "hash": "bfd4c08641f172d2",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/6960",
+    "https://myanimelist.net/anime/10457"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8ff584a417532462",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.782857142857143,
+    "arithmeticGeometricMean": 5.755221587572233,
+    "median": 5.782857142857143,
+    "hash": "8ff584a417532462",
+    "lastUpdate": "2024-05-07"
+  }
+}

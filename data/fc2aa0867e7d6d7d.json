@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/971",
+    "https://anilist.co/anime/1300",
+    "https://anime-planet.com/anime/omishi-magical-theater-risky-safety",
+    "https://anisearch.com/anime/568",
+    "https://kitsu.io/anime/1172",
+    "https://livechart.me/anime/8020",
+    "https://myanimelist.net/anime/1300",
+    "https://notify.moe/anime/k9Pb5FiiR"
+  ],
+  "synopsis": {
+    "text": "Katusragi Moe finds herself in a peculiar situation when Risky, a petite, inexperienced shinigami, appears before her with the intention of taking her life. Moe's despair, triggered by unrequited love, has made her an ideal target for Risky's soul-reaping mission. However, Risky's task is complicated by the presence of Safety, an equally diminutive and clumsy angel-in-training, who shares the same body as Risky. Whenever Moe experiences happiness, Safety emerges, aiming to protect Moe's soul and spread positivity. As Moe navigates her tumultuous emotions, she must deal with the constant shifts between Risky and Safety, each vying for control to fulfill their respective roles. The outcome of this unusual trio's interactions will ultimately determine Moe's fate and potentially help her mend her broken heart.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc2aa0867e7d6d7d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.433775245163,
+    "arithmeticGeometricMean": 6.4243465535591024,
+    "median": 6.466,
+    "hash": "fc2aa0867e7d6d7d",
+    "lastUpdate": "2024-05-09"
+  }
+}

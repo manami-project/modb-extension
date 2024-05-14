@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7390",
+    "https://anime-planet.com/anime/vegetable-fairies-ny-salad-movie",
+    "https://anisearch.com/anime/6084",
+    "https://myanimelist.net/anime/42366"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3df32d117834b2b7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "3df32d117834b2b7",
+    "lastUpdate": "2024-05-11"
+  }
+}

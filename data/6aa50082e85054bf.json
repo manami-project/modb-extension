@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11708",
+    "https://anilist.co/anime/103926",
+    "https://anime-planet.com/anime/nouryou-anime-denkyuu-ika-matsuri",
+    "https://anisearch.com/anime/11971",
+    "https://kitsu.io/anime/10931",
+    "https://myanimelist.net/anime/30659",
+    "https://notify.moe/anime/LbE_pFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6aa50082e85054bf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.95200954147893,
+    "arithmeticGeometricMean": 4.920934808751024,
+    "median": 4.6,
+    "hash": "6aa50082e85054bf",
+    "lastUpdate": "2024-05-08"
+  }
+}

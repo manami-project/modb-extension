@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5323",
+    "https://anilist.co/anime/6073",
+    "https://anime-planet.com/anime/21-emon-uchuu-e-irasshai",
+    "https://anisearch.com/anime/4375",
+    "https://kitsu.io/anime/4413",
+    "https://myanimelist.net/anime/6073",
+    "https://notify.moe/anime/NzAq5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "13eb3a9628b69713",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.204268398268399,
+    "arithmeticGeometricMean": 5.132838015270709,
+    "median": 4.909090909090909,
+    "hash": "13eb3a9628b69713",
+    "lastUpdate": "2024-05-08"
+  }
+}

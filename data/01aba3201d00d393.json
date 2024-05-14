@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2554",
+    "https://anilist.co/anime/2366",
+    "https://anime-planet.com/anime/touma-kijin-den-oni",
+    "https://anisearch.com/anime/2860",
+    "https://kitsu.io/anime/2144",
+    "https://livechart.me/anime/8338",
+    "https://myanimelist.net/anime/2366",
+    "https://notify.moe/anime/ZSaP5Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "01aba3201d00d393",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.323025355596784,
+    "arithmeticGeometricMean": 5.208334508383408,
+    "median": 5.55,
+    "hash": "01aba3201d00d393",
+    "lastUpdate": "2024-05-10"
+  }
+}

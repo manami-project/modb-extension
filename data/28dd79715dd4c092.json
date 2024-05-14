@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17782",
+    "https://anime-planet.com/anime/jokaku-gattai-oshirobots",
+    "https://anisearch.com/anime/17993",
+    "https://livechart.me/anime/11737",
+    "https://myanimelist.net/anime/53883"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "28dd79715dd4c092",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.154081632653061,
+    "arithmeticGeometricMean": 6.131374367494109,
+    "median": 6.154081632653061,
+    "hash": "28dd79715dd4c092",
+    "lastUpdate": "2024-05-09"
+  }
+}

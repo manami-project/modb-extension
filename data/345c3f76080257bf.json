@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18048",
+    "https://anilist.co/anime/165598",
+    "https://anime-planet.com/anime/brave-bang-bravern",
+    "https://anisearch.com/anime/18431",
+    "https://kitsu.io/anime/47583",
+    "https://livechart.me/anime/12070",
+    "https://myanimelist.net/anime/55528",
+    "https://notify.moe/anime/zYew7H_VR"
+  ],
+  "synopsis": {
+    "text": "The stage is set for Bang Brave Bang Bravern in a war-torn world where colossal, armored humanoid weapons called Titatonostriders (TS) reign supreme. As military forces from various nations assemble on the island of Oahu, Hawaii, the lives of two soldiers, Ao Isami from the Japan Ground Self-Defense Force and Lewis Smith from the United States Marine Corps, intertwine amidst the chaos of battle.\n\nTheir initial encounter is abruptly interrupted by an unexpected enemy assault, leaving their squads decimated and scattered across the treacherous battlefield. With their comrades' lives hanging in the balance, Isami and Smith must summon the courage and strength to stand against this mysterious adversary. Together, they must forge an unlikely alliance and fight with unwavering determination to save their friends and survive the onslaught.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "345c3f76080257bf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.405666975881261,
+    "arithmeticGeometricMean": 7.399786624568388,
+    "median": 7.585,
+    "hash": "345c3f76080257bf",
+    "lastUpdate": "2024-05-10"
+  }
+}

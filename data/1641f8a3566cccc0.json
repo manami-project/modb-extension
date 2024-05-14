@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12626",
+    "https://anilist.co/anime/109802",
+    "https://anime-planet.com/anime/qin-shi-mingyue-3d-dianying-longteng-wanli",
+    "https://anisearch.com/anime/9664",
+    "https://kitsu.io/anime/10539",
+    "https://myanimelist.net/anime/29910",
+    "https://notify.moe/anime/hee8tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1641f8a3566cccc0",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.9957551020408175,
+    "arithmeticGeometricMean": 5.974126696986327,
+    "median": 6.075,
+    "hash": "1641f8a3566cccc0",
+    "lastUpdate": "2024-05-08"
+  }
+}

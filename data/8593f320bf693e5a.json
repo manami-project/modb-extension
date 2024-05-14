@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13074",
+    "https://anilist.co/anime/8782",
+    "https://anime-planet.com/anime/hiyoko-gumo",
+    "https://anisearch.com/anime/6294",
+    "https://kitsu.io/anime/5493",
+    "https://myanimelist.net/anime/8782",
+    "https://notify.moe/anime/-NmWpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8593f320bf693e5a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.268268751656507,
+    "arithmeticGeometricMean": 5.203914354497599,
+    "median": 5.35,
+    "hash": "8593f320bf693e5a",
+    "lastUpdate": "2024-05-08"
+  }
+}

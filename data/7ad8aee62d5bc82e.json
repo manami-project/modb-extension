@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115091",
+    "https://anime-planet.com/anime/shinano-mainichi-shinbun",
+    "https://anisearch.com/anime/14336",
+    "https://kitsu.io/anime/8889",
+    "https://myanimelist.net/anime/25271",
+    "https://notify.moe/anime/MqcbpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ad8aee62d5bc82e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.676142857142857,
+    "arithmeticGeometricMean": 5.667835914859747,
+    "median": 5.462,
+    "hash": "7ad8aee62d5bc82e",
+    "lastUpdate": "2024-05-06"
+  }
+}

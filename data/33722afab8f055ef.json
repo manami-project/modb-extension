@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10242",
+    "https://anime-planet.com/anime/chou-zenmairobo-patrasche",
+    "https://anisearch.com/anime/9240",
+    "https://kitsu.io/anime/9112",
+    "https://livechart.me/anime/332",
+    "https://myanimelist.net/anime/21433",
+    "https://notify.moe/anime/lOIatFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33722afab8f055ef",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.258432653061225,
+    "arithmeticGeometricMean": 5.235075484645811,
+    "median": 5.0,
+    "hash": "33722afab8f055ef",
+    "lastUpdate": "2024-05-09"
+  }
+}

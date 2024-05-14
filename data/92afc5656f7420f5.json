@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/116911",
+    "https://anime-planet.com/anime/kaze-iro-no-tonbo",
+    "https://kitsu.io/anime/42803",
+    "https://myanimelist.net/anime/39914"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92afc5656f7420f5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.782,
+    "arithmeticGeometricMean": 5.755406468573645,
+    "median": 5.782,
+    "hash": "92afc5656f7420f5",
+    "lastUpdate": "2024-05-07"
+  }
+}

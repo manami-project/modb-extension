@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1860",
+    "https://anilist.co/anime/3115",
+    "https://anime-planet.com/anime/toki-no-tabibito-time-stranger",
+    "https://anisearch.com/anime/1805",
+    "https://kitsu.io/anime/2807",
+    "https://livechart.me/anime/5932",
+    "https://myanimelist.net/anime/3115",
+    "https://notify.moe/anime/aF6U5Fmig"
+  ],
+  "synopsis": {
+    "text": "Oda Nobunaga, samurai wars, and time travel collide in this thrilling anime adaptation of MAYUMURA Taku's novel trilogy, Time Stranger. Agino Jiro, a rebel from the oppressive 25th century, steals a time machine and accidentally drags a group of high school students and their teacher into a wild journey through Japan's history. From the firebombing of Tokyo in 1945 to the Meiji Revolution and the battle of Sekigahara, they evade a relentless Time Patrol agent, seeking a safe haven in the past. Their adventure culminates in 1582, where they become guests of the legendary warlord Oda Nobunaga, just days before his assassination. Faced with the dilemma of altering history or preserving it, the group must navigate the complexities of time and space. Simultaneously, 40 years after saving Earth from a nefarious organization, Remy Shimada and the GoShogun team reunite to support their dying friend in her final battle, weaving together themes of friendship, loyalty, and courage across time.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f00a578debf499db",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.910245428041345,
+    "arithmeticGeometricMean": 5.893665526520744,
+    "median": 6.16,
+    "hash": "f00a578debf499db",
+    "lastUpdate": "2024-05-10"
+  }
+}

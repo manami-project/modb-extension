@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137894",
+    "https://anime-planet.com/anime/honeycomebear-revolver",
+    "https://anisearch.com/anime/17727"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "485ee3ca7f3aa430",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.377954236239951,
+    "arithmeticGeometricMean": 6.368548422506705,
+    "median": 6.545454545454545,
+    "hash": "485ee3ca7f3aa430",
+    "lastUpdate": "2024-05-07"
+  }
+}

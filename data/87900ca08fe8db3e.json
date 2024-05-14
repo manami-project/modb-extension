@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/8815",
+    "https://anime-planet.com/anime/domo-tv",
+    "https://kitsu.io/anime/5501",
+    "https://livechart.me/anime/7449",
+    "https://myanimelist.net/anime/8815",
+    "https://notify.moe/anime/d1ZWpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "87900ca08fe8db3e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.078036363636365,
+    "arithmeticGeometricMean": 6.062556793645801,
+    "median": 6.0,
+    "hash": "87900ca08fe8db3e",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9013",
+    "https://anilist.co/anime/20482",
+    "https://anime-planet.com/anime/kyoufu-no-kyou-chan",
+    "https://anisearch.com/anime/7657",
+    "https://kitsu.io/anime/9417",
+    "https://myanimelist.net/anime/20603",
+    "https://notify.moe/anime/uG2BpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d6caa13ae8f1381",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.096651576994434,
+    "arithmeticGeometricMean": 5.0277861556620635,
+    "median": 4.272727272727273,
+    "hash": "7d6caa13ae8f1381",
+    "lastUpdate": "2024-05-07"
+  }
+}

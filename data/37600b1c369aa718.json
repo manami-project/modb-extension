@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/rosa-walton-i-really-want-to-stay-at-your-house"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "37600b1c369aa718",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.402,
+    "arithmeticGeometricMean": 8.402,
+    "median": 8.402,
+    "hash": "37600b1c369aa718",
+    "lastUpdate": "2024-05-07"
+  }
+}

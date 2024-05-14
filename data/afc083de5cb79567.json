@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15012",
+    "https://anilist.co/anime/110495",
+    "https://anime-planet.com/anime/kotodama-shoujo-the-animation-microphone-soul-spinners",
+    "https://anisearch.com/anime/14874",
+    "https://livechart.me/anime/9525",
+    "https://myanimelist.net/anime/40121",
+    "https://notify.moe/anime/q2uWRLUWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "afc083de5cb79567",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.03447990105133,
+    "arithmeticGeometricMean": 6.014170184824946,
+    "median": 6.326530612244898,
+    "hash": "afc083de5cb79567",
+    "lastUpdate": "2024-05-09"
+  }
+}

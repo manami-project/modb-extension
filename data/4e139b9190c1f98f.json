@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7490",
+    "https://anilist.co/anime/6634",
+    "https://anime-planet.com/anime/sengoku-basara-samurai-kings-2",
+    "https://anisearch.com/anime/5553",
+    "https://kitsu.io/anime/4643",
+    "https://livechart.me/anime/4935",
+    "https://myanimelist.net/anime/6634",
+    "https://notify.moe/anime/1gA65Kimg"
+  ],
+  "synopsis": {
+    "text": "Uesugi Kenshin and Takeda Shingen's forces lock horns in the Warring States era of Japan, while a brewing storm looms on the horizon. Two formidable warriors, Sanada Yukimura and Date Masamune, hailing from distant lands, find themselves entangled in an intense rivalry. However, they must set aside their differences to forge an alliance with other powerful generals, as the ominous shadow of the Devil King, Oda Nobunaga, threatens to engulf the entire nation.\n\nAfter a fierce confrontation with Nobunaga, the battle for dominance rages on. The eastern front witnesses the long-awaited clash between the azure-clad and crimson-clad warriors, but their duel is interrupted by a dire message. Toyotomi Hideyoshi, the successor to Nobunaga's ambitions, has encircled the combined forces of Takeda, Uesugi, and Date at Kakanakajima, unleashing chaos once more.\n\nIn this era of relentless warfare, Japan's mightiest warlords command colossal armies, armed with unimaginable weaponry capable of harnessing the elements. Atop their supercharged steeds, they charge into battle, wielding enormous swords and unleashing explosive shotguns. Mobile fortresses roll through the battlefield, crushing everything in their path, while solar death rays scorch the earth. Amidst the carnage, ninja assassins and samurai fight with unwavering determination, turning heroes into conquerors and conquerors into legends. This is the age of war, where alliances shatter and new ones rise from the ashes of battle.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e139b9190c1f98f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.448822974644403,
+    "arithmeticGeometricMean": 7.446941246978715,
+    "median": 7.482272727272727,
+    "hash": "4e139b9190c1f98f",
+    "lastUpdate": "2024-05-09"
+  }
+}

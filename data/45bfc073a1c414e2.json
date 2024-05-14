@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9630",
+    "https://anilist.co/anime/18273",
+    "https://anime-planet.com/anime/heungnyongwanggwa-bihodongja",
+    "https://anisearch.com/anime/8650",
+    "https://kitsu.io/anime/9745",
+    "https://myanimelist.net/anime/18273",
+    "https://notify.moe/anime/qTsLpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "45bfc073a1c414e2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.494463821892394,
+    "arithmeticGeometricMean": 4.483390261934765,
+    "median": 4.272727272727273,
+    "hash": "45bfc073a1c414e2",
+    "lastUpdate": "2024-05-08"
+  }
+}

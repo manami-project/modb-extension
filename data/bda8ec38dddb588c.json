@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10015",
+    "https://anilist.co/anime/20221",
+    "https://anime-planet.com/anime/minami-ke-natsuyasumi",
+    "https://anisearch.com/anime/9238",
+    "https://kitsu.io/anime/7968",
+    "https://livechart.me/anime/207",
+    "https://myanimelist.net/anime/20221",
+    "https://notify.moe/anime/aONhpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bda8ec38dddb588c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.377772946977834,
+    "arithmeticGeometricMean": 7.376208985525677,
+    "median": 7.36921052631579,
+    "hash": "bda8ec38dddb588c",
+    "lastUpdate": "2024-05-09"
+  }
+}

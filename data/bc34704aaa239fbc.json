@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://kitsu.io/anime/43159",
+    "https://livechart.me/anime/11584",
+    "https://myanimelist.net/anime/40090"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc34704aaa239fbc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.2,
+    "arithmeticGeometricMean": 6.2,
+    "median": 6.2,
+    "hash": "bc34704aaa239fbc",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4392",
+    "https://anilist.co/anime/1454",
+    "https://anime-planet.com/anime/kemonozume",
+    "https://anisearch.com/anime/3629",
+    "https://kitsu.io/anime/1304",
+    "https://livechart.me/anime/4524",
+    "https://myanimelist.net/anime/1454",
+    "https://notify.moe/anime/-C4-5Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8d92f475dd67ee5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.213954545454545,
+    "arithmeticGeometricMean": 7.209864001437195,
+    "median": 7.316363636363636,
+    "hash": "b8d92f475dd67ee5",
+    "lastUpdate": "2024-05-09"
+  }
+}

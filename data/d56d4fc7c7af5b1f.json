@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11939",
+    "https://anilist.co/anime/13755",
+    "https://anime-planet.com/anime/shanshui-qing",
+    "https://anisearch.com/anime/10929",
+    "https://kitsu.io/anime/7021",
+    "https://myanimelist.net/anime/13755",
+    "https://notify.moe/anime/A78DpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d56d4fc7c7af5b1f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.5938754306917575,
+    "arithmeticGeometricMean": 6.588722384570605,
+    "median": 6.583673469387755,
+    "hash": "d56d4fc7c7af5b1f",
+    "lastUpdate": "2024-05-08"
+  }
+}

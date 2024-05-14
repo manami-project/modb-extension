@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/1335",
+    "https://anime-planet.com/anime/ghost-in-the-shell-stand-alone-complex-tachikoma-days",
+    "https://anisearch.com/anime/4405",
+    "https://kitsu.io/anime/8115",
+    "https://livechart.me/anime/6221",
+    "https://myanimelist.net/anime/1335",
+    "https://notify.moe/anime/CUjhpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1b1dd58da451eeb8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.872178284300732,
+    "arithmeticGeometricMean": 6.8469938409713444,
+    "median": 7.12,
+    "hash": "1b1dd58da451eeb8",
+    "lastUpdate": "2024-05-06"
+  }
+}

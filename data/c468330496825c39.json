@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11619",
+    "https://anilist.co/anime/104480",
+    "https://anime-planet.com/anime/claris-wake-up",
+    "https://anisearch.com/anime/9014",
+    "https://kitsu.io/anime/11616",
+    "https://myanimelist.net/anime/31568",
+    "https://notify.moe/anime/L9jCtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c468330496825c39",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.564363282975528,
+    "arithmeticGeometricMean": 5.552363730899721,
+    "median": 5.48,
+    "hash": "c468330496825c39",
+    "lastUpdate": "2024-05-08"
+  }
+}

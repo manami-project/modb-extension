@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12580",
+    "https://anilist.co/anime/110847",
+    "https://anime-planet.com/anime/go-hiki-no-kobuta-to-charleston",
+    "https://kitsu.io/anime/9833",
+    "https://myanimelist.net/anime/24905",
+    "https://notify.moe/anime/zUgEpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a19963d9c122108a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.6270181818181815,
+    "arithmeticGeometricMean": 4.57583909310388,
+    "median": 3.909090909090909,
+    "hash": "a19963d9c122108a",
+    "lastUpdate": "2024-05-08"
+  }
+}

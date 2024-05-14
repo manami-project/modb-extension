@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8418",
+    "https://anime-planet.com/anime/wish-upon-the-pleiades-manner-movie",
+    "https://anisearch.com/anime/7098",
+    "https://kitsu.io/anime/6308",
+    "https://livechart.me/anime/5610",
+    "https://myanimelist.net/anime/10710",
+    "https://notify.moe/anime/rcbVpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f86f0368cf1e311",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.148588126159555,
+    "arithmeticGeometricMean": 5.122975165690048,
+    "median": 5.074999999999999,
+    "hash": "7f86f0368cf1e311",
+    "lastUpdate": "2024-05-09"
+  }
+}

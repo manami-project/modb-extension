@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5711",
+    "https://anilist.co/anime/15915",
+    "https://anime-planet.com/anime/magical-hat",
+    "https://anisearch.com/anime/4636",
+    "https://kitsu.io/anime/7340",
+    "https://myanimelist.net/anime/15915",
+    "https://notify.moe/anime/LBHFtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f8f04b0428dbd8b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.309117501546073,
+    "arithmeticGeometricMean": 5.286981562005722,
+    "median": 5.045454545454545,
+    "hash": "6f8f04b0428dbd8b",
+    "lastUpdate": "2024-05-08"
+  }
+}

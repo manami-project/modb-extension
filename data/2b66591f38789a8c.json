@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9282",
+    "https://anilist.co/anime/14631",
+    "https://anime-planet.com/anime/dangerous-jii-san-ja-ova",
+    "https://anisearch.com/anime/7921"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b66591f38789a8c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.7896883116883116,
+    "arithmeticGeometricMean": 4.717451975583492,
+    "median": 4.363636363636363,
+    "hash": "2b66591f38789a8c",
+    "lastUpdate": "2024-05-08"
+  }
+}

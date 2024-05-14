@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10319",
+    "https://anilist.co/anime/21271",
+    "https://anime-planet.com/anime/pokemon-pikachu-whats-this-key",
+    "https://anisearch.com/anime/9403",
+    "https://kitsu.io/anime/8150",
+    "https://livechart.me/anime/384",
+    "https://myanimelist.net/anime/21571",
+    "https://notify.moe/anime/ScZTpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dac9bf3c565cb259",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.4359347998939835,
+    "arithmeticGeometricMean": 6.428628973559945,
+    "median": 6.33,
+    "hash": "dac9bf3c565cb259",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18028",
+    "https://anilist.co/anime/134088",
+    "https://anime-planet.com/anime/the-great-ruler",
+    "https://kitsu.io/anime/47384",
+    "https://myanimelist.net/anime/55151"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8d1332faa07c7b0b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.676666666666666,
+    "arithmeticGeometricMean": 7.674035403238563,
+    "median": 7.719999999999999,
+    "hash": "8d1332faa07c7b0b",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/116581",
+    "https://anime-planet.com/anime/kusakeiba",
+    "https://kitsu.io/anime/43125",
+    "https://myanimelist.net/anime/36811"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f0f1ec5fc6efacfc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.389878787878788,
+    "arithmeticGeometricMean": 5.3497869413412165,
+    "median": 5.17,
+    "hash": "f0f1ec5fc6efacfc",
+    "lastUpdate": "2024-05-07"
+  }
+}

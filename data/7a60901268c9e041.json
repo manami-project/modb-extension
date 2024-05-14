@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9062",
+    "https://anilist.co/anime/107878",
+    "https://anime-planet.com/anime/journey-to-hiroshima",
+    "https://anisearch.com/anime/7702",
+    "https://kitsu.io/anime/9323",
+    "https://myanimelist.net/anime/23303",
+    "https://notify.moe/anime/ZymftKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7a60901268c9e041",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.662978354978354,
+    "arithmeticGeometricMean": 5.636511165176129,
+    "median": 5.514935064935065,
+    "hash": "7a60901268c9e041",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4509",
+    "https://anilist.co/anime/1579",
+    "https://anime-planet.com/anime/la-corda-d-oro-primo-passo",
+    "https://anisearch.com/anime/3902",
+    "https://kitsu.io/anime/1419",
+    "https://livechart.me/anime/5383",
+    "https://myanimelist.net/anime/1579",
+    "https://notify.moe/anime/HfyacFmmg"
+  ],
+  "synopsis": {
+    "text": "They say ordinary life can take an extraordinary turn when you least expect it, and that's exactly what happens to Hino Kahoko, a sophomore at a unique high school that caters to both general and music students. Dressed in grey, Kahoko is just another face in the crowd of the general studies branch, until one fateful day when she encounters Lili, a magical fairy with a mission to spread happiness through music.\n\nLili entrusts Kahoko with a magical violin that can bring out the music hidden deep within one's heart, even if they lack the technical skills to play. Thrust into a school-wide music competition typically dominated by the musically gifted students dressed in white, Kahoko must navigate a world of love, friendship, rivalry, and intrigue.\n\nWith no musical knowledge or experience, Kahoko must rely on her new magical instrument and her growing determination to face the challenges ahead. As she interacts with her competitors, she discovers a world filled with passion, pressure, and the enchanting melodies of classical music. Will Kahoko be able to overcome her self-doubt and embrace Lili's dream, or will she crumble under the weight of her own insecurities? Only time will tell as she embarks on this magical musical journey.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7292e6e266160396",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.459613056586271,
+    "arithmeticGeometricMean": 7.458512187276529,
+    "median": 7.491020408163266,
+    "hash": "7292e6e266160396",
+    "lastUpdate": "2024-05-09"
+  }
+}

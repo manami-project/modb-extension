@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10121",
+    "https://anilist.co/anime/103021",
+    "https://anime-planet.com/anime/baa-cha-no-kingyo",
+    "https://anisearch.com/anime/9002",
+    "https://kitsu.io/anime/12111",
+    "https://myanimelist.net/anime/37923",
+    "https://notify.moe/anime/1ekR2Fmig"
+  ],
+  "synopsis": {
+    "text": "Short animation by Kaori Iwase, \"Golden Dreams\" takes us on a nostalgic journey with an elderly woman and her cherished goldfish. As she slips into a dreamlike state, we are transported back in time to her childhood, where a significant event ignited her lifelong passion for these shimmering creatures. Prepare to be swept away by this touching tale that explores the enduring bond between a person and their beloved pet.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb82b38c6cebb0e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.181722767028889,
+    "arithmeticGeometricMean": 6.165702527033739,
+    "median": 6.21,
+    "hash": "eb82b38c6cebb0e6",
+    "lastUpdate": "2024-05-07"
+  }
+}

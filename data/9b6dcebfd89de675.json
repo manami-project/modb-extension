@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18300",
+    "https://anilist.co/anime/171046",
+    "https://anime-planet.com/anime/seishun-buta-yarou-daigakusei-hen",
+    "https://anisearch.com/anime/18908",
+    "https://livechart.me/anime/12437",
+    "https://myanimelist.net/anime/57433",
+    "https://notify.moe/anime/9DJ1pbvIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b6dcebfd89de675",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "9b6dcebfd89de675",
+    "lastUpdate": "2024-05-11"
+  }
+}

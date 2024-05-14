@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140375",
+    "https://anime-planet.com/anime/sokkuri-house",
+    "https://kitsu.io/anime/42717",
+    "https://myanimelist.net/anime/38307"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9453910eb8de90a6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.341909090909091,
+    "arithmeticGeometricMean": 5.277972359212264,
+    "median": 5.341909090909091,
+    "hash": "9453910eb8de90a6",
+    "lastUpdate": "2024-05-06"
+  }
+}

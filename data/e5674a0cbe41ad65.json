@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1733",
+    "https://anilist.co/anime/783",
+    "https://anime-planet.com/anime/miami-guns",
+    "https://anisearch.com/anime/1260",
+    "https://kitsu.io/anime/700",
+    "https://livechart.me/anime/9325",
+    "https://myanimelist.net/anime/783",
+    "https://notify.moe/anime/9T0AcKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5674a0cbe41ad65",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.373672939305592,
+    "arithmeticGeometricMean": 6.36928609408727,
+    "median": 6.5,
+    "hash": "e5674a0cbe41ad65",
+    "lastUpdate": "2024-05-09"
+  }
+}

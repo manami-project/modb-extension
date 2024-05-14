@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11668",
+    "https://anilist.co/anime/103505",
+    "https://anime-planet.com/anime/sugio-mori-de-koi-wo-shite",
+    "https://anisearch.com/anime/11110",
+    "https://kitsu.io/anime/12097",
+    "https://myanimelist.net/anime/31807",
+    "https://notify.moe/anime/Vu6etFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cd0840e785a9fa2b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.484010513296227,
+    "arithmeticGeometricMean": 4.410277528108748,
+    "median": 4.755909090909091,
+    "hash": "cd0840e785a9fa2b",
+    "lastUpdate": "2024-05-08"
+  }
+}

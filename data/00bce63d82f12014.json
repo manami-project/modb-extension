@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12127",
+    "https://anilist.co/anime/102101",
+    "https://anime-planet.com/anime/master-of-torque-3",
+    "https://anisearch.com/anime/11383",
+    "https://kitsu.io/anime/11542",
+    "https://livechart.me/anime/1939",
+    "https://myanimelist.net/anime/32059",
+    "https://notify.moe/anime/cf1CpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "00bce63d82f12014",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.002700680272109,
+    "arithmeticGeometricMean": 4.990775854945469,
+    "median": 4.945,
+    "hash": "00bce63d82f12014",
+    "lastUpdate": "2024-05-09"
+  }
+}

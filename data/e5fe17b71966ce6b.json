@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14720",
+    "https://anilist.co/anime/108811",
+    "https://anime-planet.com/anime/shounen-ashibe-go-go-goma-chan-2019",
+    "https://anisearch.com/anime/14313",
+    "https://kitsu.io/anime/42239",
+    "https://livechart.me/anime/9245",
+    "https://myanimelist.net/anime/39457",
+    "https://notify.moe/anime/oPHfhtmWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5fe17b71966ce6b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.854160296846011,
+    "arithmeticGeometricMean": 5.840978444362437,
+    "median": 5.545454545454546,
+    "hash": "e5fe17b71966ce6b",
+    "lastUpdate": "2024-05-10"
+  }
+}

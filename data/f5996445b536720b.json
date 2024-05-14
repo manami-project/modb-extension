@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/109357",
+    "https://anime-planet.com/anime/jinmen-touka",
+    "https://anisearch.com/anime/13206",
+    "https://kitsu.io/anime/47054"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f5996445b536720b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.469961657390229,
+    "arithmeticGeometricMean": 5.412313127489454,
+    "median": 5.7272727272727275,
+    "hash": "f5996445b536720b",
+    "lastUpdate": "2024-05-06"
+  }
+}

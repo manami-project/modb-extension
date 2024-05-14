@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18323",
+    "https://anilist.co/anime/171637",
+    "https://anime-planet.com/anime/rurouni-kenshin-kyoto-douran",
+    "https://anisearch.com/anime/18930",
+    "https://kitsu.io/anime/48393",
+    "https://livechart.me/anime/12458",
+    "https://myanimelist.net/anime/57554",
+    "https://notify.moe/anime/g4X4UqDSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "be4f2bac1ff48175",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "be4f2bac1ff48175",
+    "lastUpdate": "2024-05-11"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10238",
+    "https://anisearch.com/anime/9269",
+    "https://kitsu.io/anime/42507"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1579339503039c3c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.244897959183673,
+    "arithmeticGeometricMean": 7.244897959183673,
+    "median": 7.244897959183673,
+    "hash": "1579339503039c3c",
+    "lastUpdate": "2024-05-08"
+  }
+}

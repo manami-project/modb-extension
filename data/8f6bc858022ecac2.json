@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2319",
+    "https://anilist.co/anime/16728",
+    "https://anime-planet.com/anime/tatakae-ramenman-movie",
+    "https://anisearch.com/anime/2740",
+    "https://kitsu.io/anime/7499",
+    "https://livechart.me/anime/11869",
+    "https://myanimelist.net/anime/16728",
+    "https://notify.moe/anime/KURcpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f6bc858022ecac2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.601617810760668,
+    "arithmeticGeometricMean": 5.5870107449067685,
+    "median": 5.470000000000001,
+    "hash": "8f6bc858022ecac2",
+    "lastUpdate": "2024-05-10"
+  }
+}

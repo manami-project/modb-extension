@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13615",
+    "https://anilist.co/anime/5415",
+    "https://anime-planet.com/anime/la-rose-de-versailles",
+    "https://kitsu.io/anime/4093",
+    "https://livechart.me/anime/7510",
+    "https://myanimelist.net/anime/5415",
+    "https://notify.moe/anime/CMpjcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09922f00b054fccb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.621121212121213,
+    "arithmeticGeometricMean": 5.610549143343217,
+    "median": 5.552272727272728,
+    "hash": "09922f00b054fccb",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14241",
+    "https://anilist.co/anime/103872",
+    "https://anime-planet.com/anime/okoshiyasu-chitose-chan",
+    "https://anisearch.com/anime/13777",
+    "https://kitsu.io/anime/41944",
+    "https://livechart.me/anime/3442",
+    "https://myanimelist.net/anime/38089",
+    "https://notify.moe/anime/xmoscDAmg"
+  ],
+  "synopsis": {
+    "text": "Kiyomizu-dera temple, Ginkaku-ji, and the bustling streets of Gion come to life through the eyes of Chitose, a charming Emperor penguin chick residing in the heart of Kyoto. This delightful tale follows Chitose-chan as she explores popular Kyoto destinations like Arashiyama's Togetsu-kyo bridge and Fushimi Inari-taisha shrine, all while indulging in the city's delectable cuisine.\n\nAs this fluffy adventurer curiously wanders the city, she encounters a diverse array of people, forging heartwarming connections along the way. Join Chitose-chan on her daily escapades and experience the nostalgic warmth of Kyoto from a penguin's unique perspective. This endearing story is sure to leave you feeling soothed and refreshed.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e0f84e61c2c384fe",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.090977471508083,
+    "arithmeticGeometricMean": 6.054354732556948,
+    "median": 6.545454545454545,
+    "hash": "e0f84e61c2c384fe",
+    "lastUpdate": "2024-05-09"
+  }
+}

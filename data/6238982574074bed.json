@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/158542",
+    "https://anime-planet.com/anime/afterglow-x-tk-from-ling-tosite-sigure-dokusou-shuusa",
+    "https://anisearch.com/anime/17665",
+    "https://myanimelist.net/anime/54262"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6238982574074bed",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.233367346938776,
+    "arithmeticGeometricMean": 6.19405445345357,
+    "median": 6.63,
+    "hash": "6238982574074bed",
+    "lastUpdate": "2024-05-07"
+  }
+}

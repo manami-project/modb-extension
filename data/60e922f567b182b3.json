@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8056",
+    "https://anilist.co/anime/8333",
+    "https://anime-planet.com/anime/a-childs-metaphysics",
+    "https://anisearch.com/anime/6344",
+    "https://kitsu.io/anime/5296",
+    "https://myanimelist.net/anime/8333",
+    "https://notify.moe/anime/KpSmpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "60e922f567b182b3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.318175987278027,
+    "arithmeticGeometricMean": 5.277969091408646,
+    "median": 5.54,
+    "hash": "60e922f567b182b3",
+    "lastUpdate": "2024-05-08"
+  }
+}

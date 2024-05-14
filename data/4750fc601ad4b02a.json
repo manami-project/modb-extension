@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1578",
+    "https://anilist.co/anime/3021",
+    "https://anime-planet.com/anime/yume-senshi-wingman",
+    "https://anisearch.com/anime/1246",
+    "https://kitsu.io/anime/2729",
+    "https://livechart.me/anime/6951",
+    "https://myanimelist.net/anime/3021",
+    "https://notify.moe/anime/xUsU5Fmmg"
+  ],
+  "synopsis": {
+    "text": "Aoi Yume, a princess from the dream realm of Botoreem, finds an unlikely ally in Hirono Kenta, a junior high school student with a passion for Tokusatsu and anime. Kenta, who dreams of becoming a 'Hero of Justice,' often dons a homemade costume of his own superhero creation, 'Wing Man.' When Yume falls from the sky into Kenta's life, she brings with her the powerful 'Dream Note,' a mystical artifact that can bring any drawn or written idea to life. As Botoreem faces the threat of the tyrannical Rimeru and his monstrous 'Seed Men,' Kenta's designs in the Dream Note transform him into Wing Man. Together with his childhood friend, Ogawa Miku, Kenta and Yume embark on an extraordinary journey to save her kingdom and thwart Rimeru's ambition to rule the universe. Along the way, Kenta must navigate his growing feelings for both Yume and Miku while facing the challenges sent by Rimeru, including the cunning Kitakura, who disguises himself as a teacher at Kenta's school.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4750fc601ad4b02a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.526729393055924,
+    "arithmeticGeometricMean": 6.501803910695643,
+    "median": 6.67,
+    "hash": "4750fc601ad4b02a",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/816",
+    "https://anilist.co/anime/1676",
+    "https://anime-planet.com/anime/cosmo-warrior-zero",
+    "https://anisearch.com/anime/2757",
+    "https://kitsu.io/anime/1506",
+    "https://livechart.me/anime/9444",
+    "https://myanimelist.net/anime/1676",
+    "https://notify.moe/anime/QUif5Fimg"
+  ],
+  "synopsis": {
+    "text": "Armed with a formidable battleship and a crew of both humans and mechanical beings, Captain Warrius Zero embarks on a perilous journey through the cosmos, tasked with capturing the infamous space pirate, Captain Harlock. In a world where humans have reluctantly accepted a peace with the invading force of mechanical people, Zero, a once disgraced space captain, must navigate the challenges of working with the very beings that claimed his family during the great war. As he struggles to accomplish his mission, he begins to uncover a hidden truth that threatens the fragile peace between the two races. With the fate of humanity hanging in the balance, Zero and Harlock engage in a battle of honor and bravery, one that could forever alter the course of mankind's destiny.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0ffc594411635c57",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.155980917042142,
+    "arithmeticGeometricMean": 6.11131027183374,
+    "median": 6.53,
+    "hash": "0ffc594411635c57",
+    "lastUpdate": "2024-05-09"
+  }
+}

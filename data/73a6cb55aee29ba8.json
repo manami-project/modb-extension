@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8977",
+    "https://anilist.co/anime/13543",
+    "https://anime-planet.com/anime/nantokashite-alguard",
+    "https://anisearch.com/anime/7688",
+    "https://kitsu.io/anime/6990",
+    "https://myanimelist.net/anime/13543",
+    "https://notify.moe/anime/YD-DpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73a6cb55aee29ba8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.288049297641135,
+    "arithmeticGeometricMean": 4.222465038320083,
+    "median": 4.36,
+    "hash": "73a6cb55aee29ba8",
+    "lastUpdate": "2024-05-08"
+  }
+}

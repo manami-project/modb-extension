@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145012",
+    "https://anime-planet.com/anime/kamigawa-neon-dynasty-pv",
+    "https://kitsu.io/anime/45854",
+    "https://myanimelist.net/anime/51043"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb843f1d6bc79475",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.784363636363636,
+    "arithmeticGeometricMean": 6.783057363977985,
+    "median": 6.909090909090909,
+    "hash": "eb843f1d6bc79475",
+    "lastUpdate": "2024-05-07"
+  }
+}

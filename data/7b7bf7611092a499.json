@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5927",
+    "https://anilist.co/anime/4395",
+    "https://anime-planet.com/anime/norakuro-nitouhei-enshuu-no-maki",
+    "https://anisearch.com/anime/4888",
+    "https://kitsu.io/anime/3591",
+    "https://myanimelist.net/anime/4395",
+    "https://notify.moe/anime/y0EucKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7b7bf7611092a499",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.9732467532467535,
+    "arithmeticGeometricMean": 4.944815843485856,
+    "median": 5.0,
+    "hash": "7b7bf7611092a499",
+    "lastUpdate": "2024-05-08"
+  }
+}

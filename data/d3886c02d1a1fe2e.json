@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2979",
+    "https://anilist.co/anime/3989",
+    "https://anime-planet.com/anime/desert-rose",
+    "https://anisearch.com/anime/3226",
+    "https://kitsu.io/anime/3397",
+    "https://livechart.me/anime/8559",
+    "https://myanimelist.net/anime/3989",
+    "https://notify.moe/anime/2K6lcKiig"
+  ],
+  "synopsis": {
+    "text": "Marie’s anti-terrorism squad, CAT, is the world's last hope against the escalating threat of terrorism. Led by the fearless Mariko Rosebank, who bears the physical and emotional scars of a devastating terrorist attack that claimed her family, this all-female team is unyielding in their pursuit of justice. After a triumphant victory against the notorious group 'Der Silbern Kavalier', CAT is assigned to safeguard a clandestine gathering of global leaders in Switzerland. As the summit approaches, the team must remain vigilant against potential attacks, utilizing their unique skills and unwavering determination to protect the VIPs and thwart any impending terrorist threats.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3886c02d1a1fe2e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.975803869599789,
+    "arithmeticGeometricMean": 5.9558316860906695,
+    "median": 6.1818181818181825,
+    "hash": "d3886c02d1a1fe2e",
+    "lastUpdate": "2024-05-10"
+  }
+}

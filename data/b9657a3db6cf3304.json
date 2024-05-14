@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14643",
+    "https://anilist.co/anime/109343",
+    "https://anime-planet.com/anime/kuiba-movie-4-mei-lingluo"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b9657a3db6cf3304",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "b9657a3db6cf3304",
+    "lastUpdate": "2024-05-11"
+  }
+}

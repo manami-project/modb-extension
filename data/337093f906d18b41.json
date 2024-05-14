@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18204",
+    "https://anilist.co/anime/169440",
+    "https://anime-planet.com/anime/reborn-as-a-vending-machine-i-now-wander-the-dungeon-2nd-season",
+    "https://anisearch.com/anime/18704",
+    "https://kitsu.io/anime/47968",
+    "https://livechart.me/anime/12337",
+    "https://myanimelist.net/anime/56700",
+    "https://notify.moe/anime/sy0GbriSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "337093f906d18b41",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "337093f906d18b41",
+    "lastUpdate": "2024-05-11"
+  }
+}

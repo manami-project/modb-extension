@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1325",
+    "https://anilist.co/anime/1116",
+    "https://anime-planet.com/anime/junkers-come-here",
+    "https://anisearch.com/anime/2243",
+    "https://kitsu.io/anime/1000",
+    "https://livechart.me/anime/8716",
+    "https://myanimelist.net/anime/1116",
+    "https://notify.moe/anime/EmqJ5KmiR"
+  ],
+  "synopsis": {
+    "text": "At the tender age of 11, Hiromi Nozawa is grappling with the challenges of sixth grade, the complexities of first love, and the strain of her parents' increasingly distant relationship. Amidst this turmoil, her constant companion is her extraordinary dog, Junkers, who possesses the uncanny ability to communicate in human language and perform tasks like a person. When Hiromi's world is rocked by the news of her parents' potential divorce, Junkers reveals an additional secret: he can bestow three miracles upon her. As Hiromi navigates the intricate web of her desires and the consequences they might have on her loved ones, she discovers that life has a peculiar way of unfolding. This poignant and mature tale explores the intricacies of family dynamics, the power of friendship, and the delicate balance between personal happiness and the well-being of those we cherish.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7030a67010db9fb2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.068447389345349,
+    "arithmeticGeometricMean": 7.066597610714834,
+    "median": 7.1,
+    "hash": "7030a67010db9fb2",
+    "lastUpdate": "2024-05-09"
+  }
+}

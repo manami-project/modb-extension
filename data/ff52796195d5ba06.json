@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14631",
+    "https://anilist.co/anime/107447",
+    "https://anime-planet.com/anime/aikatsu-friends-kagayaki-no-jewel",
+    "https://anisearch.com/anime/14144",
+    "https://kitsu.io/anime/42169",
+    "https://livechart.me/anime/9206",
+    "https://myanimelist.net/anime/39078",
+    "https://notify.moe/anime/_3vIrOemg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ff52796195d5ba06",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.905318049297642,
+    "arithmeticGeometricMean": 6.889899674097698,
+    "median": 7.16,
+    "hash": "ff52796195d5ba06",
+    "lastUpdate": "2024-05-08"
+  }
+}

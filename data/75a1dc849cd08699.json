@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4371",
+    "https://anilist.co/anime/10987",
+    "https://anime-planet.com/anime/zettai-zetsumei-dangerous-jii-san-2nd-season",
+    "https://anisearch.com/anime/5957",
+    "https://kitsu.io/anime/6431",
+    "https://myanimelist.net/anime/10987",
+    "https://notify.moe/anime/klZSpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75a1dc849cd08699",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.09192133580705,
+    "arithmeticGeometricMean": 4.982194842157827,
+    "median": 5.0,
+    "hash": "75a1dc849cd08699",
+    "lastUpdate": "2024-05-08"
+  }
+}

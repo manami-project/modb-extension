@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121956",
+    "https://anime-planet.com/anime/league-of-legends-kin-of-the-stained-blade",
+    "https://kitsu.io/anime/44072"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "38d2d425643882f2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.642181818181818,
+    "arithmeticGeometricMean": 7.642180710800228,
+    "median": 7.642181818181818,
+    "hash": "38d2d425643882f2",
+    "lastUpdate": "2024-05-07"
+  }
+}

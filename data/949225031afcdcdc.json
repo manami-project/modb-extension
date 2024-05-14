@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21437",
+    "https://anime-planet.com/anime/teekyuu-5-specials",
+    "https://anisearch.com/anime/14556",
+    "https://kitsu.io/anime/11444",
+    "https://livechart.me/anime/6512",
+    "https://myanimelist.net/anime/31668",
+    "https://notify.moe/anime/KRmjpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "949225031afcdcdc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.448780457637601,
+    "arithmeticGeometricMean": 6.444767571166344,
+    "median": 6.362523191094619,
+    "hash": "949225031afcdcdc",
+    "lastUpdate": "2024-05-10"
+  }
+}

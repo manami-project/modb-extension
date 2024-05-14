@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2427",
+    "https://anilist.co/anime/4723",
+    "https://anime-planet.com/anime/seishun-anime-zenshuu",
+    "https://anisearch.com/anime/632",
+    "https://kitsu.io/anime/3762",
+    "https://livechart.me/anime/12570",
+    "https://myanimelist.net/anime/4723",
+    "https://notify.moe/anime/5ZSrcFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da1572e748128fee",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.341653473510616,
+    "arithmeticGeometricMean": 6.3263108443056595,
+    "median": 6.338333333333333,
+    "hash": "da1572e748128fee",
+    "lastUpdate": "2024-05-09"
+  }
+}

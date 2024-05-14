@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/187",
+    "https://anilist.co/anime/952",
+    "https://anime-planet.com/anime/magical-meow-meow-taruto",
+    "https://anisearch.com/anime/1690",
+    "https://kitsu.io/anime/844",
+    "https://livechart.me/anime/6228",
+    "https://myanimelist.net/anime/952",
+    "https://notify.moe/anime/2uI15Fmmg"
+  ],
+  "synopsis": {
+    "text": "Can Taruto, a young cat-girl with a heart full of determination, uncover her magical heritage and master her unpredictable powers? Living in the charming town of Okashina with her loving masters, Iori and Kinako, Taruto embarks on a series of adventures while trying to prove her lineage to the legendary Nekomata family. In this enchanting world where cat-people are considered ordinary animals, Taruto's magical mishaps lead her to make new friends and enemies alike. Will she be able to control her powers and reveal the truth behind the ancient cat-people? Join Taruto on her magical journey filled with laughter, friendship, and self-discovery!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77fd32d68e56075a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.072742115027829,
+    "arithmeticGeometricMean": 6.062084799881426,
+    "median": 6.004,
+    "hash": "77fd32d68e56075a",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2212",
+    "https://anilist.co/anime/2830",
+    "https://anime-planet.com/anime/chibikko-remi-to-meiken-kapi",
+    "https://anisearch.com/anime/1707",
+    "https://kitsu.io/anime/2584",
+    "https://myanimelist.net/anime/2830",
+    "https://notify.moe/anime/e3SU5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "795ac82d86d9bba0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.932735223959715,
+    "arithmeticGeometricMean": 5.8880651374419255,
+    "median": 5.545454545454546,
+    "hash": "795ac82d86d9bba0",
+    "lastUpdate": "2024-05-07"
+  }
+}

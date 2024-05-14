@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18336",
+    "https://anilist.co/anime/172019",
+    "https://anime-planet.com/anime/dr-stone-science-future",
+    "https://anisearch.com/anime/18974",
+    "https://kitsu.io/anime/48342",
+    "https://livechart.me/anime/12468",
+    "https://myanimelist.net/anime/57592",
+    "https://notify.moe/anime/37uD3-dIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "058bacae1d5169da",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.2,
+    "arithmeticGeometricMean": 7.2,
+    "median": 7.2,
+    "hash": "058bacae1d5169da",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/12-sai",
+    "https://kitsu.io/anime/8481",
+    "https://myanimelist.net/anime/23579",
+    "https://notify.moe/anime/1BAApFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b1b49d8774d146cc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.407454545454546,
+    "arithmeticGeometricMean": 6.405958333762765,
+    "median": 6.339,
+    "hash": "b1b49d8774d146cc",
+    "lastUpdate": "2024-05-05"
+  }
+}

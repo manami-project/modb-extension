@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11059",
+    "https://anilist.co/anime/21043",
+    "https://anime-planet.com/anime/aria-the-avvenire",
+    "https://anisearch.com/anime/10198",
+    "https://kitsu.io/anime/10360",
+    "https://livechart.me/anime/1393",
+    "https://myanimelist.net/anime/29893",
+    "https://notify.moe/anime/krv8pFiiR"
+  ],
+  "synopsis": {
+    "text": "Ai and Akari, now seasoned Prima Undines, find themselves navigating the canals of Neo Venezia, cherishing the rare moments they share with fellow Undines Aika and Alice. As they traverse the waterways, Akari fondly recalls a memory, which she shares with Ai, emphasizing the preciousness of their fleeting encounters. This special episode is part of the 'Ao no Curtain Call' project, commemorating the 10th anniversary of the first Aria TV series.\n\nIn the first part of the story, Ai and Akari's journey on the gondola is interrupted by a chance meeting with Aika and Alice, leading to a heartwarming reunion. In the second part, Ai recounts her own miraculous experience to Akari, involving a mysterious encounter with Cait Sith while exploring an unfamiliar path. This adventure leads her to cross paths with two Single Undines from the Himeya company and Orange Planet.\n\nAs Akari takes on her new role as head of the Aria Company and mentor to Ai, she reflects on her own journey as a Single Undine. Though her responsibilities have grown and her time has become scarce, she discovers new miracles in her life on Aqua. With the support of the friends she's made along the way, Akari embraces the challenges that come with her new position.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7206b181c39f5326",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.891227839620696,
+    "arithmeticGeometricMean": 7.8908472922309825,
+    "median": 7.895,
+    "hash": "7206b181c39f5326",
+    "lastUpdate": "2024-05-08"
+  }
+}

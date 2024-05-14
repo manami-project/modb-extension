@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15519",
+    "https://anilist.co/anime/117757",
+    "https://anime-planet.com/anime/iwakakeru-sport-climbing-girls",
+    "https://anisearch.com/anime/15198",
+    "https://kitsu.io/anime/43535",
+    "https://livechart.me/anime/9896",
+    "https://myanimelist.net/anime/41783",
+    "https://notify.moe/anime/4N0mwm6Wg"
+  ],
+  "synopsis": {
+    "text": "This exhilarating anime follows the journey of Konomi Kasahara, a young prodigy with an exceptional knack for solving puzzles. As she transitions into high school, Konomi stumbles upon the Hanamiya Girls' High School Climbing Club, where she discovers a unique sport that combines physical prowess with mental agility: sport climbing. Intrigued by the colorful climbing walls that resemble real-life puzzles, Konomi embarks on a thrilling adventure as she joins the climbing team. By leveraging her analytical skills honed through years of puzzle-solving, Konomi pushes her limits to excel in this newfound passion. Alongside her fellow teammates, she sets her sights on reaching the top and conquering the challenges that await them in the world of competitive climbing. Join Konomi and her friends as they navigate the highs and lows of this captivating sport, learning the true essence of teamwork and determination.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "34867eea24e33360",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.703935837971552,
+    "arithmeticGeometricMean": 6.6988022844053114,
+    "median": 6.670761904761904,
+    "hash": "34867eea24e33360",
+    "lastUpdate": "2024-05-09"
+  }
+}

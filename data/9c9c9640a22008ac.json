@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8223",
+    "https://anilist.co/anime/10191",
+    "https://anime-planet.com/anime/katte-ni-kaizou",
+    "https://anisearch.com/anime/6851",
+    "https://kitsu.io/anime/6069",
+    "https://livechart.me/anime/4945",
+    "https://myanimelist.net/anime/10191",
+    "https://notify.moe/anime/0ix7tFmmR"
+  ],
+  "synopsis": {
+    "text": "Tsubouchi Chitan, Saien Suzu, and Natori Umi join Kaizou Katsu, a former child prodigy turned eccentric teenager, in a series of absurd and surreal adventures as part of their high school science club. After a childhood head injury caused by Umi, Kaizou's personality changed dramatically, leaving him with an intense fascination for all things occult, aliens, and ghosts. Following a mishap involving a falling anatomy model and a defibrillator, Kaizou becomes convinced that he is a cyborg, resurrected by the science club's president, Suzu. As they navigate through bizarre situations involving log people, deadly sushi, and robot invasions, Kaizou's past as a student of a school for geniuses comes back to haunt him. After a catastrophe at the academy, his former classmates, now eccentric themselves, seek revenge on Kaizou, leading to even more surreal encounters for the science club.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9c9c9640a22008ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.739288291074004,
+    "arithmeticGeometricMean": 6.730847192847514,
+    "median": 6.729090909090909,
+    "hash": "9c9c9640a22008ac",
+    "lastUpdate": "2024-05-09"
+  }
+}

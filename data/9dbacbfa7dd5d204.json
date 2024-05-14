@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7839",
+    "https://anilist.co/anime/17479",
+    "https://anime-planet.com/anime/bad-badtz-maru-no-ore-no-pochi-wa-sekaiichi",
+    "https://anisearch.com/anime/7013",
+    "https://kitsu.io/anime/8962",
+    "https://myanimelist.net/anime/17479",
+    "https://notify.moe/anime/PnEbtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9dbacbfa7dd5d204",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.204855287569573,
+    "arithmeticGeometricMean": 5.174420984706565,
+    "median": 4.954545454545455,
+    "hash": "9dbacbfa7dd5d204",
+    "lastUpdate": "2024-05-07"
+  }
+}

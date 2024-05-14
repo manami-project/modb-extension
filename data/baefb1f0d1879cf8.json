@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2408",
+    "https://anilist.co/anime/18629",
+    "https://anime-planet.com/anime/rainbow-across-the-pacific",
+    "https://anisearch.com/anime/3355",
+    "https://kitsu.io/anime/9651",
+    "https://myanimelist.net/anime/18629",
+    "https://notify.moe/anime/hWFLpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "baefb1f0d1879cf8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.469171799628943,
+    "arithmeticGeometricMean": 5.435483788341097,
+    "median": 5.0,
+    "hash": "baefb1f0d1879cf8",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/155014",
+    "https://anime-planet.com/anime/march-comes-in-like-a-lion-ugoku-nya-shogi",
+    "https://kitsu.io/anime/47785",
+    "https://myanimelist.net/anime/38154"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5484e650a2499d2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.132060606060606,
+    "arithmeticGeometricMean": 6.1289933513182895,
+    "median": 6.09,
+    "hash": "e5484e650a2499d2",
+    "lastUpdate": "2024-05-05"
+  }
+}

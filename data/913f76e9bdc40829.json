@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12409",
+    "https://anilist.co/anime/97635",
+    "https://anime-planet.com/anime/pokemon-generations",
+    "https://anisearch.com/anime/12102",
+    "https://kitsu.io/anime/12531",
+    "https://livechart.me/anime/2326",
+    "https://myanimelist.net/anime/34514",
+    "https://notify.moe/anime/6orz2KmiR"
+  ],
+  "synopsis": {
+    "text": "These mini-episodes of \"Pokémon Generations\" take you on a journey through the rich history of the Pokémon video game series, exploring iconic moments and delving deeper into the lives of beloved characters and creatures. From the nostalgic Kanto region to the visually stunning Kalos region, these bite-sized adventures offer a fresh perspective on the world of Pokémon. Each self-contained episode, lasting between 3 to 5 minutes, was initially released worldwide in multiple languages, with the Japanese dub joining the lineup a few weeks later. This series promises a unique and engaging experience for both long-time fans and newcomers alike.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "913f76e9bdc40829",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.449946608946608,
+    "arithmeticGeometricMean": 7.447495877944479,
+    "median": 7.493968253968255,
+    "hash": "913f76e9bdc40829",
+    "lastUpdate": "2024-05-09"
+  }
+}

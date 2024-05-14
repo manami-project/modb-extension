@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9636",
+    "https://anilist.co/anime/16808",
+    "https://anime-planet.com/anime/hwanggeum-cheolin",
+    "https://anisearch.com/anime/8900",
+    "https://kitsu.io/anime/7527",
+    "https://myanimelist.net/anime/16808",
+    "https://notify.moe/anime/ZHn5tKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ac94dc92a4e2c5b3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.4498589981447125,
+    "arithmeticGeometricMean": 4.35746577600843,
+    "median": 4.265,
+    "hash": "ac94dc92a4e2c5b3",
+    "lastUpdate": "2024-05-08"
+  }
+}

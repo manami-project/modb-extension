@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9087",
+    "https://anilist.co/anime/13251",
+    "https://anime-planet.com/anime/kid-icarus",
+    "https://anisearch.com/anime/8252",
+    "https://kitsu.io/anime/6923",
+    "https://livechart.me/anime/7562",
+    "https://myanimelist.net/anime/13251",
+    "https://notify.moe/anime/cEDDtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb26f1ac5e2c0527",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.393345348529023,
+    "arithmeticGeometricMean": 6.384544396952898,
+    "median": 6.34,
+    "hash": "eb26f1ac5e2c0527",
+    "lastUpdate": "2024-05-09"
+  }
+}

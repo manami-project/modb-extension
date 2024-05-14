@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1934",
+    "https://anilist.co/anime/6672",
+    "https://anime-planet.com/anime/video-senshi-laserion",
+    "https://anisearch.com/anime/2317",
+    "https://kitsu.io/anime/4657",
+    "https://myanimelist.net/anime/6672",
+    "https://notify.moe/anime/4eJecFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e63edfdd25fd943e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.920885590599876,
+    "arithmeticGeometricMean": 5.890239840431634,
+    "median": 5.933636363636364,
+    "hash": "e63edfdd25fd943e",
+    "lastUpdate": "2024-05-08"
+  }
+}

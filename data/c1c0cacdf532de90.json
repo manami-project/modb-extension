@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/9990",
+    "https://myanimelist.net/anime/28519"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c1c0cacdf532de90",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.51469387755102,
+    "arithmeticGeometricMean": 5.509281848887459,
+    "median": 5.51469387755102,
+    "hash": "c1c0cacdf532de90",
+    "lastUpdate": "2024-05-07"
+  }
+}

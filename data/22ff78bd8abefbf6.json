@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18425",
+    "https://anilist.co/anime/102381",
+    "https://anime-planet.com/anime/shen-ming-zhi-zhou",
+    "https://anisearch.com/anime/12996",
+    "https://kitsu.io/anime/12839",
+    "https://myanimelist.net/anime/33760",
+    "https://notify.moe/anime/JnHZhFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "22ff78bd8abefbf6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.359424242424243,
+    "arithmeticGeometricMean": 6.345014314368376,
+    "median": 6.236666666666666,
+    "hash": "22ff78bd8abefbf6",
+    "lastUpdate": "2024-05-08"
+  }
+}

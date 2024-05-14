@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/super-bernard",
+    "https://anisearch.com/anime/15838",
+    "https://kitsu.io/anime/9643",
+    "https://myanimelist.net/anime/26011",
+    "https://notify.moe/anime/2ZdLtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "43b5ed28833e45fe",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.243448979591837,
+    "arithmeticGeometricMean": 5.227744551040067,
+    "median": 5.215,
+    "hash": "43b5ed28833e45fe",
+    "lastUpdate": "2024-05-07"
+  }
+}

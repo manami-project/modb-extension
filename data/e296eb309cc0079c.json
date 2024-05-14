@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107627",
+    "https://anime-planet.com/anime/piano-the-melody-of-a-young-girls-heart-specials",
+    "https://kitsu.io/anime/9533",
+    "https://notify.moe/anime/9D9BtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e296eb309cc0079c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.363272727272727,
+    "arithmeticGeometricMean": 5.356287777559755,
+    "median": 5.181818181818182,
+    "hash": "e296eb309cc0079c",
+    "lastUpdate": "2024-05-07"
+  }
+}

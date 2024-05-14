@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2821",
+    "https://anime-planet.com/anime/witch-village-story",
+    "https://anisearch.com/anime/3531",
+    "https://kitsu.io/anime/12440",
+    "https://myanimelist.net/anime/31696",
+    "https://notify.moe/anime/UiTk2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "192ed76aabf4175c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.663265306122449,
+    "arithmeticGeometricMean": 5.643761500998084,
+    "median": 5.663265306122449,
+    "hash": "192ed76aabf4175c",
+    "lastUpdate": "2024-05-07"
+  }
+}

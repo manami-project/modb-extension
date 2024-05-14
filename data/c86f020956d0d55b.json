@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3435",
+    "https://anilist.co/anime/1343",
+    "https://anime-planet.com/anime/violence-jack-hells-wind",
+    "https://anisearch.com/anime/1208",
+    "https://kitsu.io/anime/1198",
+    "https://livechart.me/anime/7699",
+    "https://myanimelist.net/anime/1343",
+    "https://notify.moe/anime/_ilbcKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c86f020956d0d55b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.509308772859792,
+    "arithmeticGeometricMean": 5.503935074176173,
+    "median": 5.454545454545455,
+    "hash": "c86f020956d0d55b",
+    "lastUpdate": "2024-05-10"
+  }
+}

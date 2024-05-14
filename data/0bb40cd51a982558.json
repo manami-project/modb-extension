@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/kando-reduction",
+    "https://anisearch.com/anime/9065",
+    "https://kitsu.io/anime/14017",
+    "https://myanimelist.net/anime/36778",
+    "https://notify.moe/anime/qhSHhFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0bb40cd51a982558",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.171061224489795,
+    "arithmeticGeometricMean": 6.168911702176034,
+    "median": 6.06,
+    "hash": "0bb40cd51a982558",
+    "lastUpdate": "2024-05-06"
+  }
+}

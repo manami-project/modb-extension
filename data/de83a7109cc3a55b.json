@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127981",
+    "https://anime-planet.com/anime/otsukare-oyasumi-yumeko",
+    "https://kitsu.io/anime/46076",
+    "https://myanimelist.net/anime/53059"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de83a7109cc3a55b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.135727272727273,
+    "arithmeticGeometricMean": 6.121489565747242,
+    "median": 6.135727272727273,
+    "hash": "de83a7109cc3a55b",
+    "lastUpdate": "2024-05-06"
+  }
+}

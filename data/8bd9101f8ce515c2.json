@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10719",
+    "https://anilist.co/anime/122241",
+    "https://anime-planet.com/anime/agukaru-agriculture-angel-baraki-play-with-ibaraki-hen",
+    "https://anisearch.com/anime/9817",
+    "https://kitsu.io/anime/8546",
+    "https://myanimelist.net/anime/24989",
+    "https://notify.moe/anime/sEw0tKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8bd9101f8ce515c2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.755238713667285,
+    "arithmeticGeometricMean": 4.709768528513037,
+    "median": 4.744897959183673,
+    "hash": "8bd9101f8ce515c2",
+    "lastUpdate": "2024-05-07"
+  }
+}

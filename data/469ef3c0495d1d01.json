@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/42",
+    "https://anilist.co/anime/678",
+    "https://anime-planet.com/anime/shadow-skill-tv",
+    "https://anisearch.com/anime/246",
+    "https://kitsu.io/anime/620",
+    "https://livechart.me/anime/8605",
+    "https://myanimelist.net/anime/678",
+    "https://notify.moe/anime/e87A5FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "469ef3c0495d1d01",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.869629295874193,
+    "arithmeticGeometricMean": 6.856671908649972,
+    "median": 7.12,
+    "hash": "469ef3c0495d1d01",
+    "lastUpdate": "2024-05-09"
+  }
+}

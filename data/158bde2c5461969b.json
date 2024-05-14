@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/10845",
+    "https://anime-planet.com/anime/manyuu-hiken-chou-specials",
+    "https://anisearch.com/anime/7680",
+    "https://kitsu.io/anime/6379",
+    "https://livechart.me/anime/5487",
+    "https://notify.moe/anime/swrVpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "158bde2c5461969b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.0270770179416795,
+    "arithmeticGeometricMean": 5.986734277911624,
+    "median": 6.067251461988304,
+    "hash": "158bde2c5461969b",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7206",
+    "https://anime-planet.com/anime/fate-stay-night-tv-reproduction",
+    "https://anisearch.com/anime/5880",
+    "https://kitsu.io/anime/5028",
+    "https://livechart.me/anime/4048",
+    "https://myanimelist.net/anime/7559",
+    "https://notify.moe/anime/bLWztFimR"
+  ],
+  "synopsis": {
+    "text": "To protect a secret war waged by magi for the omnipotent Holy Grail, ordinary high school student Emiya Shirou's life takes an extraordinary turn. Orphaned twice and adopted by a magus, Shirou's limited knowledge of magecraft and dreams of heroism are put to the test when he stumbles upon a battle between powerful Servants, Archer and Lancer. Mortally wounded and left to die, Shirou's fate changes when he inadvertently summons a heroic Servant of his own, Saber.\n\nNow, as one of seven Masters participating in the covert Holy Grail War, Shirou must navigate a treacherous world of magic and deceit, where the true identities of Servants hold the key to victory or defeat. With the enigmatic school idol, Toosaka Rin, as a rival and classmates turned enemies, Shirou's unwavering sense of justice will be tested as he fights for the ultimate prize: a single wish granted by the Holy Grail.\n\nThis reimagining of the original 24-episode anime, Fate Stay Night, brings the intense battles and dramatic story to life in an OVA format, as Shirou and Saber face off against powerful foes in a war where only the strongest will survive.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da4a1c641cfe943d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.824467650263569,
+    "arithmeticGeometricMean": 6.8151323186380095,
+    "median": 6.85,
+    "hash": "da4a1c641cfe943d",
+    "lastUpdate": "2024-05-09"
+  }
+}

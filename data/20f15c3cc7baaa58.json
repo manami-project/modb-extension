@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107739",
+    "https://anime-planet.com/anime/minami-lilac",
+    "https://anisearch.com/anime/17011",
+    "https://kitsu.io/anime/42316",
+    "https://myanimelist.net/anime/39113"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "20f15c3cc7baaa58",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.252039332096475,
+    "arithmeticGeometricMean": 7.245395384558879,
+    "median": 7.144,
+    "hash": "20f15c3cc7baaa58",
+    "lastUpdate": "2024-05-07"
+  }
+}

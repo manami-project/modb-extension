@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11536",
+    "https://anilist.co/anime/13793",
+    "https://anime-planet.com/anime/beginning-of-fashion",
+    "https://anisearch.com/anime/10866",
+    "https://kitsu.io/anime/7030",
+    "https://myanimelist.net/anime/13793",
+    "https://notify.moe/anime/gAQvtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5025e266e9d586f5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.617109992048767,
+    "arithmeticGeometricMean": 4.5886805177613095,
+    "median": 4.56,
+    "hash": "5025e266e9d586f5",
+    "lastUpdate": "2024-05-08"
+  }
+}

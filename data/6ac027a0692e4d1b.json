@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9609",
+    "https://anilist.co/anime/16810",
+    "https://anime-planet.com/anime/narara-wondergongju",
+    "https://anisearch.com/anime/8510",
+    "https://kitsu.io/anime/7528",
+    "https://myanimelist.net/anime/16810",
+    "https://notify.moe/anime/Ic75pFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ac027a0692e4d1b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.029016697588126,
+    "arithmeticGeometricMean": 4.008477064968094,
+    "median": 3.788033395176252,
+    "hash": "6ac027a0692e4d1b",
+    "lastUpdate": "2024-05-07"
+  }
+}

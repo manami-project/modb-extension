@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8868",
+    "https://anilist.co/anime/13833",
+    "https://anime-planet.com/anime/nagareboshi-lens",
+    "https://anisearch.com/anime/7720",
+    "https://kitsu.io/anime/7042",
+    "https://livechart.me/anime/5550",
+    "https://myanimelist.net/anime/13833",
+    "https://notify.moe/anime/kMXvpKiig"
+  ],
+  "synopsis": {
+    "text": "Touga Yuugure, the most sought-after student in school, and Risa Hanakago, an amiable girl with no romantic experience, find themselves in an unexpected encounter one evening at school. Despite their contrasting social statuses and lack of prior interaction, the two cross paths when Touga accidentally kicks a soccer ball through a school window, leading him to meet Risa. As they begin to forge a friendship, the possibility of a romantic connection blossoms between them, potentially fulfilling Risa's longing for a boyfriend and giving Touga a chance to explore a deeper bond beyond his popularity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3dd83151cb2030d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.491927643784786,
+    "arithmeticGeometricMean": 6.481943803092014,
+    "median": 6.425818181818181,
+    "hash": "f3dd83151cb2030d",
+    "lastUpdate": "2024-05-09"
+  }
+}

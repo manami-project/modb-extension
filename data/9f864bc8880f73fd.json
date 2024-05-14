@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10087",
+    "https://anilist.co/anime/20469",
+    "https://anime-planet.com/anime/shashinkan",
+    "https://anisearch.com/anime/9025",
+    "https://kitsu.io/anime/8085",
+    "https://livechart.me/anime/7137",
+    "https://myanimelist.net/anime/20671",
+    "https://notify.moe/anime/cLQhtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9f864bc8880f73fd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.276583443767117,
+    "arithmeticGeometricMean": 7.27565796225959,
+    "median": 7.344,
+    "hash": "9f864bc8880f73fd",
+    "lastUpdate": "2024-05-09"
+  }
+}

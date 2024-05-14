@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/kick-flight",
+    "https://anisearch.com/anime/14769",
+    "https://kitsu.io/anime/42685",
+    "https://myanimelist.net/anime/40375"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3426c57b9dac1aa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.764054421768708,
+    "arithmeticGeometricMean": 5.759380357643579,
+    "median": 5.68,
+    "hash": "f3426c57b9dac1aa",
+    "lastUpdate": "2024-05-07"
+  }
+}

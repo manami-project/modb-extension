@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126611",
+    "https://anime-planet.com/anime/cotton-candy-ei-ei-oh",
+    "https://anisearch.com/anime/16406",
+    "https://myanimelist.net/anime/48377"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e1d79e94ddf572a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.629355287569573,
+    "arithmeticGeometricMean": 6.623843009162883,
+    "median": 6.505,
+    "hash": "0e1d79e94ddf572a",
+    "lastUpdate": "2024-05-06"
+  }
+}

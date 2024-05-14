@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136667",
+    "https://anime-planet.com/anime/doraemon-eigo-kyoushitsu",
+    "https://kitsu.io/anime/41615",
+    "https://myanimelist.net/anime/36287"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41075ded6f55f25e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.513090909090909,
+    "arithmeticGeometricMean": 6.507853896999556,
+    "median": 6.7272727272727275,
+    "hash": "41075ded6f55f25e",
+    "lastUpdate": "2024-05-07"
+  }
+}

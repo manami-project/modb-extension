@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10248",
+    "https://anilist.co/anime/16566",
+    "https://anime-planet.com/anime/robot-taekwon-v-3tan-sujung-teukgongdae",
+    "https://anisearch.com/anime/8615",
+    "https://kitsu.io/anime/7461",
+    "https://myanimelist.net/anime/16566",
+    "https://notify.moe/anime/r4XFpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09f36703b41b837d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.860250463821892,
+    "arithmeticGeometricMean": 4.766381285260391,
+    "median": 4.590909090909091,
+    "hash": "09f36703b41b837d",
+    "lastUpdate": "2024-05-08"
+  }
+}

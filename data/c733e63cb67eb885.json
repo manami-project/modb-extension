@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10094",
+    "https://anime-planet.com/anime/kansuke-san-to-fushigi-na-jitensha",
+    "https://anisearch.com/anime/9180",
+    "https://kitsu.io/anime/9364",
+    "https://myanimelist.net/anime/23727",
+    "https://notify.moe/anime/eUSftFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c733e63cb67eb885",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "c733e63cb67eb885",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14159",
+    "https://anilist.co/anime/103007",
+    "https://anime-planet.com/anime/watch-the-sea-strategy",
+    "https://anisearch.com/anime/15161",
+    "https://kitsu.io/anime/43566",
+    "https://myanimelist.net/anime/38689"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85adbe5a3152987a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.187393939393939,
+    "arithmeticGeometricMean": 6.173413966288866,
+    "median": 5.818181818181818,
+    "hash": "85adbe5a3152987a",
+    "lastUpdate": "2024-05-09"
+  }
+}

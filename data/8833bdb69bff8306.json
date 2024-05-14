@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13530",
+    "https://anime-planet.com/anime/bary-san-x-gospe-rats-tonde-bary-bary-monogatari",
+    "https://anisearch.com/anime/13014",
+    "https://kitsu.io/anime/12331",
+    "https://myanimelist.net/anime/31662",
+    "https://notify.moe/anime/U_zz2Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8833bdb69bff8306",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.909132653061224,
+    "arithmeticGeometricMean": 4.814999835658582,
+    "median": 5.2,
+    "hash": "8833bdb69bff8306",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/12047",
+    "https://myanimelist.net/anime/34311"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d2fa3b820d623cd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.614489795918367,
+    "arithmeticGeometricMean": 5.594681064462311,
+    "median": 5.614489795918367,
+    "hash": "4d2fa3b820d623cd",
+    "lastUpdate": "2024-05-07"
+  }
+}

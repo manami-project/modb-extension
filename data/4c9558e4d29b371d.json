@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14383",
+    "https://anilist.co/anime/115006",
+    "https://anime-planet.com/anime/gunbuster-3",
+    "https://anisearch.com/anime/13870",
+    "https://kitsu.io/anime/42716",
+    "https://livechart.me/anime/3501",
+    "https://notify.moe/anime/wQ3XJPiMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c9558e4d29b371d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 10.0,
+    "arithmeticGeometricMean": 10.0,
+    "median": 10.0,
+    "hash": "4c9558e4d29b371d",
+    "lastUpdate": "2024-05-09"
+  }
+}

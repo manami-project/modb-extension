@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18081",
+    "https://anilist.co/anime/166521",
+    "https://anime-planet.com/anime/golden-kamuy-season-5",
+    "https://anisearch.com/anime/18483",
+    "https://kitsu.io/anime/47655",
+    "https://livechart.me/anime/12220",
+    "https://myanimelist.net/anime/55772",
+    "https://notify.moe/anime/1dtgcgrVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92b0ec2851baab64",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "92b0ec2851baab64",
+    "lastUpdate": "2024-05-11"
+  }
+}

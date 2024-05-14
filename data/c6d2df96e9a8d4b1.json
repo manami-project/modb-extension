@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3098",
+    "https://anime-planet.com/anime/professor-dan-petory-s-blues",
+    "https://anisearch.com/anime/1698"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c6d2df96e9a8d4b1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.027360544217687,
+    "arithmeticGeometricMean": 4.990980742242189,
+    "median": 4.788,
+    "hash": "c6d2df96e9a8d4b1",
+    "lastUpdate": "2024-05-07"
+  }
+}

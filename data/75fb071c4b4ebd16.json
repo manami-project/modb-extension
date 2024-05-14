@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/n-innocence-pv"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75fb071c4b4ebd16",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.956,
+    "arithmeticGeometricMean": 6.956,
+    "median": 6.956,
+    "hash": "75fb071c4b4ebd16",
+    "lastUpdate": "2024-05-08"
+  }
+}

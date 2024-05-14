@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2302",
+    "https://anilist.co/anime/2544",
+    "https://anime-planet.com/anime/kazoku-robinson-hyouryuuki-fushigi-na-shima-no-flone",
+    "https://anisearch.com/anime/3263",
+    "https://kitsu.io/anime/2309",
+    "https://livechart.me/anime/6461",
+    "https://myanimelist.net/anime/2544",
+    "https://notify.moe/anime/QtZy5KmmR"
+  ],
+  "synopsis": {
+    "text": "Now here to go but the vast ocean, the Robinson family embarks on an unexpected journey when a letter from Australia calls for their patriarch's medical expertise. Led by the adventurous and spirited 10-year-old Flone, the family leaves behind their peaceful life in Bern, Switzerland, for the promise of a new beginning.\n\nAs the Robinsons set sail from Liverpool aboard a colossal sailing ship, the waters turn treacherous, and a violent storm leaves them shipwrecked on a deserted island. With only a few salvaged items from the wreckage, they must adapt to their new surroundings and rely on the island's resources to survive.\n\nWhile the youngest daughter, Flone, embraces their new life with excitement, her brother Franz struggles to accept their circumstances. Despite their differences, the family bands together to build a treehouse and navigate the challenges of their newfound home.\n\nThroughout their adventures, Flone and her family learn the importance of unity and discover the beauty of nature. As they hold onto hope for rescue, the Robinsons create a life filled with love, laughter, and resilience. Join them on their thrilling journey and witness the power of family in the face of adversity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85c563c0e5919530",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.838929764113438,
+    "arithmeticGeometricMean": 6.821122666207764,
+    "median": 6.968,
+    "hash": "85c563c0e5919530",
+    "lastUpdate": "2024-05-09"
+  }
+}

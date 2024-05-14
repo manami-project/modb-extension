@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6716",
+    "https://anilist.co/anime/6811",
+    "https://anime-planet.com/anime/inuyasha-the-final-act",
+    "https://anisearch.com/anime/5486",
+    "https://kitsu.io/anime/4726",
+    "https://livechart.me/anime/3952",
+    "https://myanimelist.net/anime/6811",
+    "https://notify.moe/anime/8Rre5KmmR"
+  ],
+  "synopsis": {
+    "text": "Kohaku, Kagura, and the cunning Moryomaru all play a role in shaping the choices of Kagome and Inuyasha as they continue to travel through time to the war-torn era. With Kagura finally revealing the location of Naraku's heart, the stakes have never been higher. If the Shikon Jewel is fully restored, Kikyou may have the power to destroy Naraku once and for all. However, Naraku's influence over evil men is vast, and the final battle is imminent. In this climactic chapter, Inuyasha, Kagome, Miroku, Sango, and Shippou must face dangerous foes and confront their own personal struggles. Will their unbreakable bond and unwavering determination be enough to restore peace to the land and defeat Naraku for good? The fate of the world rests in their hands.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80bca051d972ae1d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.121990755772005,
+    "arithmeticGeometricMean": 8.120800969141703,
+    "median": 8.126623376623376,
+    "hash": "80bca051d972ae1d",
+    "lastUpdate": "2024-05-09"
+  }
+}

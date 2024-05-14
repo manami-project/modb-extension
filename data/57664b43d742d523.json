@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/735",
+    "https://myanimelist.net/anime/4350"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "57664b43d742d523",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.894591836734694,
+    "arithmeticGeometricMean": 4.8667708968245735,
+    "median": 4.894591836734694,
+    "hash": "57664b43d742d523",
+    "lastUpdate": "2024-05-07"
+  }
+}

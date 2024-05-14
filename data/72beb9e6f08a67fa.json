@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17147",
+    "https://anilist.co/anime/144188",
+    "https://anime-planet.com/anime/alice-gear-aegis-expansion",
+    "https://anisearch.com/anime/17039",
+    "https://kitsu.io/anime/43845",
+    "https://livechart.me/anime/11040",
+    "https://myanimelist.net/anime/50871",
+    "https://notify.moe/anime/ZHPafma7R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "72beb9e6f08a67fa",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.053625231910947,
+    "arithmeticGeometricMean": 6.027397289041146,
+    "median": 5.98,
+    "hash": "72beb9e6f08a67fa",
+    "lastUpdate": "2024-05-08"
+  }
+}

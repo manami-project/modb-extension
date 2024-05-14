@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/154246",
+    "https://anime-planet.com/anime/monkateu",
+    "https://anisearch.com/anime/14688",
+    "https://myanimelist.net/anime/41667"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e955f3ac61c92152",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.964,
+    "arithmeticGeometricMean": 5.924722913185595,
+    "median": 5.964,
+    "hash": "e955f3ac61c92152",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/631",
+    "https://anime-planet.com/anime/mahoromatic-summer-special",
+    "https://anisearch.com/anime/3555",
+    "https://kitsu.io/anime/585",
+    "https://livechart.me/anime/5637",
+    "https://myanimelist.net/anime/631",
+    "https://notify.moe/anime/mwRA5FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5d213d03829b4058",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.826875165650676,
+    "arithmeticGeometricMean": 6.801932848431103,
+    "median": 7.08,
+    "hash": "5d213d03829b4058",
+    "lastUpdate": "2024-05-06"
+  }
+}

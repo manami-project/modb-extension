@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6311",
+    "https://anilist.co/anime/5717",
+    "https://anime-planet.com/anime/la-cordo-d-oro-secondo-passo",
+    "https://anisearch.com/anime/5241",
+    "https://kitsu.io/anime/4256",
+    "https://livechart.me/anime/5502",
+    "https://myanimelist.net/anime/5717",
+    "https://notify.moe/anime/TOuC5FmmR"
+  ],
+  "synopsis": {
+    "text": "The narrative unfolds after the internal music contest at Seiso Academy, with Kahoko, a promising music student, honing her craft in various competitions. Along her journey, she encounters a trio of intriguing individuals: a gruff young man named Eto, the newly appointed, youthful school board director, Akihiko Kira, and a puzzling transfer student, Aoi Kaji. Guided by the magical assistance of Lili, the music fairy, and the collective support of her peers from the music department, Kahoko's musical abilities flourish, especially with the arrival of a captivating blond character.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ca59c58985bdf82",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.943685661277498,
+    "arithmeticGeometricMean": 6.9419957203899525,
+    "median": 7.0,
+    "hash": "4ca59c58985bdf82",
+    "lastUpdate": "2024-05-09"
+  }
+}

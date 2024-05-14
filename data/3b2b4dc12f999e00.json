@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5134",
+    "https://anilist.co/anime/2752",
+    "https://anime-planet.com/anime/the-prince-of-tennis-the-national-tournament-semifinal",
+    "https://anisearch.com/anime/4243",
+    "https://kitsu.io/anime/2512",
+    "https://livechart.me/anime/5525",
+    "https://myanimelist.net/anime/2752",
+    "https://notify.moe/anime/Sbqy5Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b2b4dc12f999e00",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.678929189857762,
+    "arithmeticGeometricMean": 7.673774997546589,
+    "median": 7.738636363636363,
+    "hash": "3b2b4dc12f999e00",
+    "lastUpdate": "2024-05-10"
+  }
+}

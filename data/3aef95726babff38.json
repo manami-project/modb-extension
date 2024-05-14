@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12526",
+    "https://anilist.co/anime/97821",
+    "https://anime-planet.com/anime/alice-and-zouroku",
+    "https://anisearch.com/anime/11935",
+    "https://kitsu.io/anime/12726",
+    "https://livechart.me/anime/2409",
+    "https://myanimelist.net/anime/34350",
+    "https://notify.moe/anime/l58mhKimg"
+  ],
+  "synopsis": {
+    "text": "Her name is Sana, a young girl endowed with an extraordinary ability known as 'Alice's Dream,' which allows her to materialize anything she can imagine, even defying the laws of physics. Confined within a research facility as a test subject, Sana yearns for freedom and a chance to explore the outside world. When she finally escapes, she encounters Zouroku, an old florist with a stern demeanor and a strong sense of justice. Despite his initial reluctance to disrupt his mundane life, Zouroku extends a helping hand to Sana, offering her a place to stay. As they navigate through their daily lives together, the unlikely duo faces various challenges, all while forming an unbreakable bond.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3aef95726babff38",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.144059251885035,
+    "arithmeticGeometricMean": 7.142691107493591,
+    "median": 7.159081632653061,
+    "hash": "3aef95726babff38",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11207",
+    "https://anilist.co/anime/14007",
+    "https://anime-planet.com/anime/mobile-suit-gundam-akai-shouzou-char-soshite-frontal-e",
+    "https://anisearch.com/anime/10601",
+    "https://kitsu.io/anime/7067",
+    "https://livechart.me/anime/6284",
+    "https://myanimelist.net/anime/14007",
+    "https://notify.moe/anime/wS3vtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "309e55169c59d73e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.932115557911476,
+    "arithmeticGeometricMean": 5.9063608407365695,
+    "median": 6.0,
+    "hash": "309e55169c59d73e",
+    "lastUpdate": "2024-05-08"
+  }
+}

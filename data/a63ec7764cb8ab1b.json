@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15090",
+    "https://anilist.co/anime/145277",
+    "https://anime-planet.com/anime/zettai-zetsumei-dangerous-jii-san",
+    "https://kitsu.io/anime/13201",
+    "https://myanimelist.net/anime/23313",
+    "https://notify.moe/anime/6vYG2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a63ec7764cb8ab1b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.555454545454546,
+    "arithmeticGeometricMean": 5.5401159952983745,
+    "median": 5.335909090909091,
+    "hash": "a63ec7764cb8ab1b",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/rick-and-morty-samurai-and-shogun",
+    "https://kitsu.io/anime/43091"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47463453a9c32eff",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.066727272727273,
+    "arithmeticGeometricMean": 7.063977531208293,
+    "median": 7.066727272727273,
+    "hash": "47463453a9c32eff",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17535",
+    "https://anilist.co/anime/141866",
+    "https://anime-planet.com/anime/fairies-albums-3rd-season",
+    "https://anisearch.com/anime/17290",
+    "https://kitsu.io/anime/45711",
+    "https://livechart.me/anime/11346",
+    "https://myanimelist.net/anime/50537",
+    "https://notify.moe/anime/j5Wc_fDSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "94485f329dfc9b45",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.848840816326532,
+    "arithmeticGeometricMean": 7.843109865326222,
+    "median": 7.53,
+    "hash": "94485f329dfc9b45",
+    "lastUpdate": "2024-05-08"
+  }
+}

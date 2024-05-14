@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9416",
+    "https://anilist.co/anime/117246",
+    "https://anime-planet.com/anime/ikkyuu-san-wide-ban-ooabare-yancha-hime",
+    "https://anisearch.com/anime/8060",
+    "https://kitsu.io/anime/9342",
+    "https://livechart.me/anime/12136",
+    "https://myanimelist.net/anime/23575",
+    "https://notify.moe/anime/vgnftFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bfa1dc304f7ed5fb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.788949907235621,
+    "arithmeticGeometricMean": 5.754731623489871,
+    "median": 5.385899814471243,
+    "hash": "bfa1dc304f7ed5fb",
+    "lastUpdate": "2024-05-09"
+  }
+}

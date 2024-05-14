@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1330",
+    "https://anilist.co/anime/242",
+    "https://anime-planet.com/anime/gokusen",
+    "https://anisearch.com/anime/637",
+    "https://kitsu.io/anime/217",
+    "https://livechart.me/anime/5384",
+    "https://myanimelist.net/anime/242",
+    "https://notify.moe/anime/DsV25Fmmg"
+  ],
+  "synopsis": {
+    "text": "Capable and passionate, Kumiko Yamaguchi steps into her new role as a math teacher at Shirokin Academy, an all-boys high school notorious for its unruly students and timid faculty. Behind her nerdy exterior, Kumiko harbors a secret: she's the acting head of a formidable yakuza clan, a fact she must conceal to protect her teaching career. As she navigates the challenges of her rowdy students and a vice principal determined to oust her, Kumiko must also keep her criminal ties and extraordinary strength hidden. But when the leader of her delinquent class starts to suspect there's more to her than meets the eye, Kumiko's dream job becomes a high-stakes balancing act between her two worlds. Will she succeed in her mission to educate her students while keeping her yakuza life a secret? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "54b3b3b5d9f6ed7c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.268566790352503,
+    "arithmeticGeometricMean": 7.262478114596438,
+    "median": 7.3513636363636365,
+    "hash": "54b3b3b5d9f6ed7c",
+    "lastUpdate": "2024-05-09"
+  }
+}

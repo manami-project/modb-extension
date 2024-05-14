@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/110",
+    "https://anilist.co/anime/1937",
+    "https://anime-planet.com/anime/nakoruru",
+    "https://anisearch.com/anime/1363",
+    "https://kitsu.io/anime/1746",
+    "https://myanimelist.net/anime/1937",
+    "https://notify.moe/anime/YJiLcFmig"
+  ],
+  "synopsis": {
+    "text": "SNK's beloved character, Nakoruru, the iconic Ainu girl from the Samurai Spirits fighting game, returns to her peaceful village of Kamuikotan after a grueling battle. She is greeted with open arms by her friends and the village children, and her heart swells with joy as she reunites with her companions, Manari and Yantamuu. However, the horrors of war continue to haunt her, and a mysterious figure named Rela appears, casting a dark shadow over her peaceful life.\n\nAs Nakoruru, the village's only miko, tries to heal from her physical and emotional wounds, she finds solace in the company of her childhood friends. Yet, she is tormented by nightmares and memories of the battle that threaten to consume her. To make matters worse, the forest animals are behaving strangely, and the villagers are plagued by a mysterious madness.\n\nDespite her position as a miko forbidding her to marry, Yantamu's feelings for Nakoruru deepen, and he vows to protect her. However, Nakoruru's best friend also harbors feelings for Yantamu, creating a complicated web of emotions.\n\nAs the darkness closes in, Nakoruru must decipher the meaning of her nightmares and confront Rela to save her village and the people she loves. Will she be able to overcome her inner demons and the shadow of misfortune, or will the land be forever lost to the mysterious madness?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e2e2d5d7e49ca950",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.482876225815001,
+    "arithmeticGeometricMean": 5.474297576451983,
+    "median": 5.33,
+    "hash": "e2e2d5d7e49ca950",
+    "lastUpdate": "2024-05-08"
+  }
+}

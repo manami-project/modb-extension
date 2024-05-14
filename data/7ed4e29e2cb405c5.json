@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15735",
+    "https://anilist.co/anime/124140",
+    "https://anime-planet.com/anime/sword-art-online-progressive-movie-1-aria-of-a-starless-night",
+    "https://anisearch.com/anime/15547",
+    "https://kitsu.io/anime/43546",
+    "https://livechart.me/anime/10159",
+    "https://myanimelist.net/anime/42916",
+    "https://notify.moe/anime/Bp-2jsdGg"
+  ],
+  "synopsis": {
+    "text": "Kayaba's deadly game, Sword Art Online (SAO), traps thousands of players, including the academically gifted Asuna Yuuki, who enters the virtual reality at her friend's insistence. In this ruthless world, the only escape is to conquer all 100 floors of Aincrad, and death in the game means death in reality. Asuna, an inexperienced gamer, struggles to survive while encountering skilled players like the lone swordsman Kirito. As the death toll rises, Asuna and Kirito must overcome their differences and join forces to face challenges within the game and from desperate fellow players, all in the hope of surviving and escaping the treacherous virtual world. This tale, retold through Asuna's perspective, highlights her growth as a player and the fateful encounters that shape her journey in SAO.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ed4e29e2cb405c5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.094115491651205,
+    "arithmeticGeometricMean": 8.091528071238026,
+    "median": 8.190714285714286,
+    "hash": "7ed4e29e2cb405c5",
+    "lastUpdate": "2024-05-10"
+  }
+}

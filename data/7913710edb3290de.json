@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140721",
+    "https://anime-planet.com/anime/s-the-birth-of-psycho",
+    "https://anisearch.com/anime/13184",
+    "https://kitsu.io/anime/47180"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7913710edb3290de",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.719202226345083,
+    "arithmeticGeometricMean": 5.682132257972374,
+    "median": 5.719202226345083,
+    "hash": "7913710edb3290de",
+    "lastUpdate": "2024-05-08"
+  }
+}

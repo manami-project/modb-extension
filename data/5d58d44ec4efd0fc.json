@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1896",
+    "https://anilist.co/anime/12569",
+    "https://anime-planet.com/anime/himitsu-no-akko-chan-movie",
+    "https://anisearch.com/anime/294",
+    "https://kitsu.io/anime/6766",
+    "https://livechart.me/anime/11965",
+    "https://myanimelist.net/anime/12569",
+    "https://notify.moe/anime/NIYNpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5d58d44ec4efd0fc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.924815089672233,
+    "arithmeticGeometricMean": 5.915046238887025,
+    "median": 5.82,
+    "hash": "5d58d44ec4efd0fc",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13877",
+    "https://anilist.co/anime/102787",
+    "https://anime-planet.com/anime/haha-no-supporter",
+    "https://anisearch.com/anime/15633",
+    "https://kitsu.io/anime/40862",
+    "https://myanimelist.net/anime/36104",
+    "https://notify.moe/anime/PccO2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "13ed2e843c881e07",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.9337643784786644,
+    "arithmeticGeometricMean": 5.915264560521083,
+    "median": 6.035,
+    "hash": "13ed2e843c881e07",
+    "lastUpdate": "2024-05-08"
+  }
+}

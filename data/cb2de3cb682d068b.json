@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/honeyworks-spacedev",
+    "https://kitsu.io/anime/13391",
+    "https://notify.moe/anime/VWanhFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb2de3cb682d068b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.511,
+    "arithmeticGeometricMean": 5.4991225771385706,
+    "median": 5.511,
+    "hash": "cb2de3cb682d068b",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16313",
+    "https://anilist.co/anime/126833",
+    "https://anime-planet.com/anime/ling-cage-final-chapter",
+    "https://kitsu.io/anime/43743",
+    "https://myanimelist.net/anime/44090",
+    "https://notify.moe/anime/AADAh2jMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85d6016807e8cc20",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.194654545454545,
+    "arithmeticGeometricMean": 7.183521846130251,
+    "median": 6.71,
+    "hash": "85d6016807e8cc20",
+    "lastUpdate": "2024-05-08"
+  }
+}

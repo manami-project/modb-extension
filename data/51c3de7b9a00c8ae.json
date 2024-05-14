@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6976",
+    "https://anilist.co/anime/111954",
+    "https://anime-planet.com/anime/panda-go-panda-rainy-day-circus",
+    "https://anisearch.com/anime/4525",
+    "https://kitsu.io/anime/9780",
+    "https://notify.moe/anime/ScXYtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "51c3de7b9a00c8ae",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.5708884766027635,
+    "arithmeticGeometricMean": 6.564994259820442,
+    "median": 6.502272727272728,
+    "hash": "51c3de7b9a00c8ae",
+    "lastUpdate": "2024-05-08"
+  }
+}

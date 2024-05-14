@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14189",
+    "https://anilist.co/anime/104580",
+    "https://anime-planet.com/anime/the-disastrous-life-of-saiki-k-3",
+    "https://anisearch.com/anime/14001",
+    "https://kitsu.io/anime/41940",
+    "https://livechart.me/anime/3496",
+    "https://myanimelist.net/anime/38249",
+    "https://notify.moe/anime/yIPAudAig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a963f6201b97fba",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.23968719701957,
+    "arithmeticGeometricMean": 8.238539926716948,
+    "median": 8.236363636363636,
+    "hash": "8a963f6201b97fba",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103788",
+    "https://anime-planet.com/anime/lite-rabbit",
+    "https://kitsu.io/anime/14088",
+    "https://myanimelist.net/anime/36071",
+    "https://notify.moe/anime/vB0H2Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a32f2826750c962",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.094181818181817,
+    "arithmeticGeometricMean": 5.081503698386777,
+    "median": 5.14,
+    "hash": "8a32f2826750c962",
+    "lastUpdate": "2024-05-07"
+  }
+}

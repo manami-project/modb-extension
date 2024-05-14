@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15570",
+    "https://anilist.co/anime/121684",
+    "https://anime-planet.com/anime/kyoshin-to-hyouka-no-shiro",
+    "https://anisearch.com/anime/15275",
+    "https://kitsu.io/anime/43719",
+    "https://livechart.me/anime/10118",
+    "https://myanimelist.net/anime/42057",
+    "https://notify.moe/anime/dhUI92SMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c2177de5cbbc4017",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.92679247283329,
+    "arithmeticGeometricMean": 5.914957585184026,
+    "median": 5.959183673469387,
+    "hash": "c2177de5cbbc4017",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8964",
+    "https://anilist.co/anime/12661",
+    "https://anime-planet.com/anime/deco-27-light-lag",
+    "https://anisearch.com/anime/7589",
+    "https://kitsu.io/anime/6782",
+    "https://myanimelist.net/anime/12661",
+    "https://notify.moe/anime/AFsHpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "313693fffb675403",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.013262655711635,
+    "arithmeticGeometricMean": 5.990412719381026,
+    "median": 6.3,
+    "hash": "313693fffb675403",
+    "lastUpdate": "2024-05-07"
+  }
+}

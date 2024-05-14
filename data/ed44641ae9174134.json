@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102685",
+    "https://anime-planet.com/anime/10-nights-dreams",
+    "https://kitsu.io/anime/9710",
+    "https://livechart.me/anime/8829",
+    "https://myanimelist.net/anime/22173",
+    "https://notify.moe/anime/NvbYtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ed44641ae9174134",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.838072727272727,
+    "arithmeticGeometricMean": 3.7846585072171792,
+    "median": 3.272727272727273,
+    "hash": "ed44641ae9174134",
+    "lastUpdate": "2024-05-06"
+  }
+}

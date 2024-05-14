@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14874",
+    "https://anilist.co/anime/109484",
+    "https://anime-planet.com/anime/fights-break-sphere-2nd-season-specials",
+    "https://anisearch.com/anime/14991",
+    "https://kitsu.io/anime/42665",
+    "https://myanimelist.net/anime/39178",
+    "https://notify.moe/anime/M2RepiMMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "86de7315c62152ab",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.946242424242424,
+    "arithmeticGeometricMean": 7.915717590392468,
+    "median": 7.777727272727272,
+    "hash": "86de7315c62152ab",
+    "lastUpdate": "2024-05-09"
+  }
+}

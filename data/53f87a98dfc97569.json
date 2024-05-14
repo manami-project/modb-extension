@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103168",
+    "https://anime-planet.com/anime/hakuchuu-meikyuu",
+    "https://kitsu.io/anime/10572",
+    "https://myanimelist.net/anime/29972",
+    "https://notify.moe/anime/geWwtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "53f87a98dfc97569",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.783090909090909,
+    "arithmeticGeometricMean": 4.753162016784985,
+    "median": 4.92,
+    "hash": "53f87a98dfc97569",
+    "lastUpdate": "2024-05-06"
+  }
+}

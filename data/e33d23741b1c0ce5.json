@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/running-man",
+    "https://anisearch.com/anime/14860",
+    "https://myanimelist.net/anime/36036"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e33d23741b1c0ce5",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.572000000000001,
+    "arithmeticGeometricMean": 6.572000000000001,
+    "median": 6.572000000000001,
+    "hash": "e33d23741b1c0ce5",
+    "lastUpdate": "2024-05-07"
+  }
+}

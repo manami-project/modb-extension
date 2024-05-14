@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13870",
+    "https://anilist.co/anime/115669",
+    "https://anime-planet.com/anime/cara-to-otamajakushi-shima",
+    "https://anisearch.com/anime/14191",
+    "https://kitsu.io/anime/41456",
+    "https://myanimelist.net/anime/37428",
+    "https://notify.moe/anime/KXS2Kevig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ce658166e6a3c3e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.646727272727272,
+    "arithmeticGeometricMean": 5.5923804491767175,
+    "median": 5.646727272727272,
+    "hash": "7ce658166e6a3c3e",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107970",
+    "https://anime-planet.com/anime/radio-wave",
+    "https://kitsu.io/anime/44476",
+    "https://myanimelist.net/anime/50754"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fb08ba192d14438c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.828848484848486,
+    "arithmeticGeometricMean": 5.824281342356611,
+    "median": 5.78,
+    "hash": "fb08ba192d14438c",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17590",
+    "https://anilist.co/anime/155526",
+    "https://anime-planet.com/anime/punirunes",
+    "https://anisearch.com/anime/17677",
+    "https://kitsu.io/anime/46639",
+    "https://livechart.me/anime/11389",
+    "https://myanimelist.net/anime/52935"
+  ],
+  "synopsis": {
+    "text": "PuniRunes—mysterious, colorful creatures with a penchant for cuddles—find a perfect companion in Yuka, a tender-hearted fourth-grader with an affinity for all things soft and fluffy. Together, they fill their days with warmth and affection, creating unforgettable memories in this delightful anime that chronicles their unique bond. (Source: Assistant's Synopsis)",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "821607eddf67088e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.936751391465677,
+    "arithmeticGeometricMean": 4.893267999230377,
+    "median": 4.861502782931355,
+    "hash": "821607eddf67088e",
+    "lastUpdate": "2024-05-09"
+  }
+}

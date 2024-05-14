@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8954",
+    "https://anilist.co/anime/9806",
+    "https://anime-planet.com/anime/the-legend-of-qin",
+    "https://anisearch.com/anime/7595",
+    "https://kitsu.io/anime/5879",
+    "https://livechart.me/anime/8055",
+    "https://myanimelist.net/anime/9806",
+    "https://notify.moe/anime/zWEMtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2f9ed9e7d927bd57",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.146867744500397,
+    "arithmeticGeometricMean": 6.130834469246086,
+    "median": 6.0,
+    "hash": "2f9ed9e7d927bd57",
+    "lastUpdate": "2024-05-09"
+  }
+}

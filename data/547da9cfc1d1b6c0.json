@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15378",
+    "https://anilist.co/anime/115082",
+    "https://anime-planet.com/anime/the-magnificent-kotobuki-kanzenban",
+    "https://anisearch.com/anime/15009",
+    "https://kitsu.io/anime/42994",
+    "https://livechart.me/anime/9786",
+    "https://myanimelist.net/anime/41205",
+    "https://notify.moe/anime/B7nFly8Wg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "547da9cfc1d1b6c0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.4010938775510215,
+    "arithmeticGeometricMean": 6.3952641077393055,
+    "median": 6.02,
+    "hash": "547da9cfc1d1b6c0",
+    "lastUpdate": "2024-05-09"
+  }
+}

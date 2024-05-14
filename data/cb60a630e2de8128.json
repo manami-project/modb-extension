@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14099",
+    "https://anilist.co/anime/102003",
+    "https://anime-planet.com/anime/huan-jie-wang",
+    "https://anisearch.com/anime/13812",
+    "https://kitsu.io/anime/41307",
+    "https://livechart.me/anime/9304",
+    "https://myanimelist.net/anime/37887",
+    "https://notify.moe/anime/gLziqivmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb60a630e2de8128",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.883791147627881,
+    "arithmeticGeometricMean": 6.8650612953198955,
+    "median": 6.52,
+    "hash": "cb60a630e2de8128",
+    "lastUpdate": "2024-05-09"
+  }
+}

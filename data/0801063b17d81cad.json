@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10298",
+    "https://anilist.co/anime/20540",
+    "https://anime-planet.com/anime/samurai-warriors-legend-of-the-sanada",
+    "https://anisearch.com/anime/9262",
+    "https://kitsu.io/anime/8194",
+    "https://livechart.me/anime/347",
+    "https://myanimelist.net/anime/21497",
+    "https://notify.moe/anime/EuvotKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0801063b17d81cad",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.510784521600848,
+    "arithmeticGeometricMean": 6.5051325917946725,
+    "median": 6.57,
+    "hash": "0801063b17d81cad",
+    "lastUpdate": "2024-05-09"
+  }
+}

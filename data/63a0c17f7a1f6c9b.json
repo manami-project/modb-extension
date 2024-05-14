@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11754",
+    "https://anilist.co/anime/21474",
+    "https://anime-planet.com/anime/hakuouki-otogisoushi",
+    "https://anisearch.com/anime/11014",
+    "https://kitsu.io/anime/11687",
+    "https://livechart.me/anime/1909",
+    "https://myanimelist.net/anime/32011",
+    "https://notify.moe/anime/YNIqpKmig"
+  ],
+  "synopsis": {
+    "text": "However ordinary a day might seem, the chibi characters from the Hakuōki games are set to bring their unique charm and humor to a series of anime shorts. With a fresh narrative centered around 'A normal everyday that might have existed', this spin-off promises to deliver a delightful and engaging experience for fans and newcomers alike. Join Chizuru, a young woman on a mission to find her missing father, as she navigates through feudal Japan with the help of the Shinsengumi. Her journey may be filled with mistaken identities and amusing mishaps, but with the support of her newfound companions, she remains determined to reunite with her father.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "63a0c17f7a1f6c9b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.641195335276968,
+    "arithmeticGeometricMean": 6.627373133460205,
+    "median": 6.59,
+    "hash": "63a0c17f7a1f6c9b",
+    "lastUpdate": "2024-05-09"
+  }
+}

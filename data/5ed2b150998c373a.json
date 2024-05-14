@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/1702",
+    "https://myanimelist.net/anime/3040"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ed2b150998c373a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.7762244897959185,
+    "arithmeticGeometricMean": 4.75371972917765,
+    "median": 4.7762244897959185,
+    "hash": "5ed2b150998c373a",
+    "lastUpdate": "2024-05-05"
+  }
+}

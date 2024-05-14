@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17693",
+    "https://anilist.co/anime/156131",
+    "https://anime-planet.com/anime/banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside-2nd-season",
+    "https://anisearch.com/anime/17803",
+    "https://kitsu.io/anime/46686",
+    "https://livechart.me/anime/11585",
+    "https://myanimelist.net/anime/53488",
+    "https://notify.moe/anime/TL7dNkO4g"
+  ],
+  "synopsis": {
+    "text": "Range in a peaceful life, Red, a former hero, runs an apothecary with his beloved princess, Rit, and his cherished sister, Ruti, a fellow ex-hero. Their days are filled with joy and tranquility, as they embark on gem-hunting adventures, savor delectable meals amidst breathtaking views, and unwind in soothing hot springs. Despite the ever-changing world around them, their blissful moments remain untouched. As new forces rise and the line between right and wrong blurs, Red's gift of direction might be the key to solving the complex challenges that lie ahead. Meanwhile, the trio continues to embrace their serene existence, proving that happiness can indeed be found in the simple pleasures of life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "efe613dbe369cffb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.078248608534324,
+    "arithmeticGeometricMean": 7.067229440558624,
+    "median": 7.167903525046382,
+    "hash": "efe613dbe369cffb",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10051",
+    "https://anilist.co/anime/117961",
+    "https://anime-planet.com/anime/chikyuu-wo-mitsumete",
+    "https://anisearch.com/anime/9170",
+    "https://kitsu.io/anime/10975",
+    "https://myanimelist.net/anime/30634",
+    "https://notify.moe/anime/WN9ltFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe9d75df61995790",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.493206864564007,
+    "arithmeticGeometricMean": 5.4700353027166955,
+    "median": 5.093413729128015,
+    "hash": "fe9d75df61995790",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11217",
+    "https://anilist.co/anime/102502",
+    "https://anime-planet.com/anime/4-eyes",
+    "https://anisearch.com/anime/10588",
+    "https://kitsu.io/anime/10925",
+    "https://livechart.me/anime/6978",
+    "https://myanimelist.net/anime/30665",
+    "https://notify.moe/anime/n_L_pKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e3c649f24e062b0d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.7557460906440494,
+    "arithmeticGeometricMean": 3.7059737791777216,
+    "median": 3.3636363636363638,
+    "hash": "e3c649f24e062b0d",
+    "lastUpdate": "2024-05-08"
+  }
+}

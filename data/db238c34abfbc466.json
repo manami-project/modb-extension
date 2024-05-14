@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/oden-my-life",
+    "https://kitsu.io/anime/14205",
+    "https://notify.moe/anime/hseNhFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db238c34abfbc466",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.092,
+    "arithmeticGeometricMean": 5.092,
+    "median": 5.092,
+    "hash": "db238c34abfbc466",
+    "lastUpdate": "2024-05-08"
+  }
+}

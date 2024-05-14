@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7521",
+    "https://anilist.co/anime/6390",
+    "https://anime-planet.com/anime/r20-ginga-kuukou",
+    "https://anisearch.com/anime/4667",
+    "https://kitsu.io/anime/4544",
+    "https://myanimelist.net/anime/6390",
+    "https://notify.moe/anime/ugme5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a8bca756adbff6d1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.521020408163266,
+    "arithmeticGeometricMean": 5.507564465978653,
+    "median": 5.28,
+    "hash": "a8bca756adbff6d1",
+    "lastUpdate": "2024-05-07"
+  }
+}

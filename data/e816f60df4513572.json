@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/125274",
+    "https://anime-planet.com/anime/idolish7-discover-the-future",
+    "https://anisearch.com/anime/15654",
+    "https://myanimelist.net/anime/43601"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e816f60df4513572",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.481324675324675,
+    "arithmeticGeometricMean": 6.4676585966826865,
+    "median": 6.5120000000000005,
+    "hash": "e816f60df4513572",
+    "lastUpdate": "2024-05-07"
+  }
+}

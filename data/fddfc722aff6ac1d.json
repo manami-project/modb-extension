@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2703",
+    "https://anilist.co/anime/3361",
+    "https://anime-planet.com/anime/ufo-senshi-dai-apolon",
+    "https://anisearch.com/anime/1382",
+    "https://kitsu.io/anime/2956",
+    "https://livechart.me/anime/7065",
+    "https://myanimelist.net/anime/3361",
+    "https://notify.moe/anime/Zc1wcKiig"
+  ],
+  "synopsis": {
+    "text": "Ruby, a mysterious old man, disrupts Takeshi's ordinary life at the Blue Sky orphanage on his 16th birthday with an extraordinary revelation: Takeshi is the rightful heir to the throne of planet Apolon. To protect him from the ruthless General Dazaan, Takeshi was sent to Earth as a child by his father's loyal retainer, Rabi. As the son of Apolon's king, Takeshi possesses unique energy abilities that grant him control over advanced UFO technology hidden beneath the ocean floor. This technology transforms into powerful robots that synchronize with their pilots' movements, and Takeshi, along with his friends Miki, Matsuo, and Goro, become Earth's new defenders.\n\nWhen Dazaan forces invade Earth in search of the Energy Heart, a device of unimaginable power invented by Takeshi's father, our young heroes must rise to the challenge. The key to activating the Energy Heart lies within Takeshi, making him the only one who can reclaim it from Dazaan's clutches. With their newfound abilities and robotic allies, Takeshi and his friends must protect their home, avenge Takeshi's father, and save the world from the clutches of the evil General Dazaan. As they transform into their uniforms by shouting \"U! F! O!\", they become an unstoppable force in this thrilling intergalactic adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fddfc722aff6ac1d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.56534446505875,
+    "arithmeticGeometricMean": 5.519848209349586,
+    "median": 5.367727272727273,
+    "hash": "fddfc722aff6ac1d",
+    "lastUpdate": "2024-05-10"
+  }
+}

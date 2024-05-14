@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7643",
+    "https://anilist.co/anime/9165",
+    "https://anime-planet.com/anime/attack-no-1-namida-no-kaiten-receive",
+    "https://anisearch.com/anime/6317",
+    "https://kitsu.io/anime/5619",
+    "https://myanimelist.net/anime/9165",
+    "https://notify.moe/anime/dLfWpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a2d269dd42445623",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.237960420531849,
+    "arithmeticGeometricMean": 6.2262462471357285,
+    "median": 6.242244897959184,
+    "hash": "a2d269dd42445623",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13847",
+    "https://anilist.co/anime/107755",
+    "https://anime-planet.com/anime/pripara-and-kiratto-pri-chan-kira-kira-memorial-live",
+    "https://anisearch.com/anime/13444",
+    "https://kitsu.io/anime/41398",
+    "https://livechart.me/anime/3121",
+    "https://myanimelist.net/anime/37398",
+    "https://notify.moe/anime/oAbWXqviR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b154b61efcdcb8b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.76729658097005,
+    "arithmeticGeometricMean": 6.762429191092862,
+    "median": 6.7,
+    "hash": "9b154b61efcdcb8b",
+    "lastUpdate": "2024-05-09"
+  }
+}

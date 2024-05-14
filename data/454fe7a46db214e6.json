@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11996",
+    "https://anilist.co/anime/21702",
+    "https://anime-planet.com/anime/battery",
+    "https://anisearch.com/anime/11211",
+    "https://kitsu.io/anime/11938",
+    "https://livechart.me/anime/2082",
+    "https://myanimelist.net/anime/32947",
+    "https://notify.moe/anime/WBd6tKimR"
+  ],
+  "synopsis": {
+    "text": "Kou Nagakura, a catcher with a burning ambition, crosses paths with Takumi Harada, a young pitcher with extraordinary talent, in a serene mountain town in Okayama prefecture. Takumi, having recently moved due to his father's job transfer, finds himself struggling to believe in his own abilities. However, Kou's unwavering determination to form an unbeatable 'battery' with Takumi reignites the pitcher's passion for baseball. As they join their school's baseball team, the duo faces challenges, forms unbreakable bonds, and discovers the true essence of the sport while growing as individuals. With Takumi's powerful pitches and Kou's skillful catching, they strive to transform their unassuming team into a formidable force, ultimately learning the value of teamwork and friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "454fe7a46db214e6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.845720349756064,
+    "arithmeticGeometricMean": 5.832230179135951,
+    "median": 5.761,
+    "hash": "454fe7a46db214e6",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8495",
+    "https://anilist.co/anime/13259",
+    "https://anime-planet.com/anime/kyoto-animation-cm-ajisai-hen",
+    "https://anisearch.com/anime/7187",
+    "https://kitsu.io/anime/6926",
+    "https://livechart.me/anime/6714",
+    "https://myanimelist.net/anime/13259",
+    "https://notify.moe/anime/emdvtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "12a110a218233822",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.592915981977207,
+    "arithmeticGeometricMean": 5.5820828086472085,
+    "median": 5.638,
+    "hash": "12a110a218233822",
+    "lastUpdate": "2024-05-09"
+  }
+}

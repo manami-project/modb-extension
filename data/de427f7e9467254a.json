@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/titipo-titipo",
+    "https://anisearch.com/anime/14504",
+    "https://myanimelist.net/anime/38075"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de427f7e9467254a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.135714285714285,
+    "arithmeticGeometricMean": 5.0129566066025735,
+    "median": 5.135714285714285,
+    "hash": "de427f7e9467254a",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/112657",
+    "https://anime-planet.com/anime/deco-27-psychogram",
+    "https://kitsu.io/anime/46130",
+    "https://myanimelist.net/anime/41011"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "317662c02d1be9c7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.746424242424243,
+    "arithmeticGeometricMean": 6.745961732535351,
+    "median": 6.7272727272727275,
+    "hash": "317662c02d1be9c7",
+    "lastUpdate": "2024-05-07"
+  }
+}

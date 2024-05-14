@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7925",
+    "https://anime-planet.com/anime/tobidasu-ehon-3d",
+    "https://anisearch.com/anime/6479",
+    "https://kitsu.io/anime/9771",
+    "https://myanimelist.net/anime/24803",
+    "https://notify.moe/anime/jflYtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c18a96f18838eab9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "c18a96f18838eab9",
+    "lastUpdate": "2024-05-08"
+  }
+}

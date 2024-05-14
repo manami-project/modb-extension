@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3422",
+    "https://anilist.co/anime/19961",
+    "https://anime-planet.com/anime/heisei-tensai-bakabon",
+    "https://anisearch.com/anime/767",
+    "https://kitsu.io/anime/8996",
+    "https://livechart.me/anime/9584",
+    "https://myanimelist.net/anime/19961",
+    "https://notify.moe/anime/J0_xtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "14d321596defe6c1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.854906617192332,
+    "arithmeticGeometricMean": 5.79917819241098,
+    "median": 6.208719851576994,
+    "hash": "14d321596defe6c1",
+    "lastUpdate": "2024-05-09"
+  }
+}

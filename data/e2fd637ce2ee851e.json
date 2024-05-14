@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7430",
+    "https://anilist.co/anime/8431",
+    "https://anime-planet.com/anime/mahou-no-star-magical-emi-kumo-hikaru",
+    "https://anisearch.com/anime/6164",
+    "https://kitsu.io/anime/5332",
+    "https://livechart.me/anime/6938",
+    "https://myanimelist.net/anime/8431",
+    "https://notify.moe/anime/mscmpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e2fd637ce2ee851e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.934162028447742,
+    "arithmeticGeometricMean": 5.911421087616433,
+    "median": 6.201363636363636,
+    "hash": "e2fd637ce2ee851e",
+    "lastUpdate": "2024-05-09"
+  }
+}

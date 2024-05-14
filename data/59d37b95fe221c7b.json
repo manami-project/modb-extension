@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14675",
+    "https://anilist.co/anime/103543",
+    "https://anime-planet.com/anime/soul-land-2nd-season",
+    "https://anisearch.com/anime/15535",
+    "https://kitsu.io/anime/42037",
+    "https://livechart.me/anime/8195",
+    "https://myanimelist.net/anime/37822",
+    "https://notify.moe/anime/L1N3SQyig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "59d37b95fe221c7b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.2112073283859,
+    "arithmeticGeometricMean": 8.2082286641795,
+    "median": 8.162727272727274,
+    "hash": "59d37b95fe221c7b",
+    "lastUpdate": "2024-05-09"
+  }
+}

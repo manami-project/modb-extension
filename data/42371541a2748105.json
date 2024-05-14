@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140750",
+    "https://anime-planet.com/anime/moni-moni-morning",
+    "https://kitsu.io/anime/45501"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "42371541a2748105",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.909090909090908,
+    "arithmeticGeometricMean": 5.909090909090908,
+    "median": 5.909090909090908,
+    "hash": "42371541a2748105",
+    "lastUpdate": "2024-05-07"
+  }
+}

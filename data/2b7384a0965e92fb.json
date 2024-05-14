@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/155171",
+    "https://anime-planet.com/anime/leo-need-gunjou-sanka",
+    "https://anisearch.com/anime/17765",
+    "https://kitsu.io/anime/47108",
+    "https://myanimelist.net/anime/53331"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b7384a0965e92fb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.941841372912801,
+    "arithmeticGeometricMean": 6.925724087021101,
+    "median": 6.995,
+    "hash": "2b7384a0965e92fb",
+    "lastUpdate": "2024-05-06"
+  }
+}

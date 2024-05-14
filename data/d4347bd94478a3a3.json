@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/3957",
+    "https://myanimelist.net/anime/7914"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4347bd94478a3a3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0102040816326525,
+    "arithmeticGeometricMean": 5.008405818675251,
+    "median": 5.0102040816326525,
+    "hash": "d4347bd94478a3a3",
+    "lastUpdate": "2024-05-07"
+  }
+}

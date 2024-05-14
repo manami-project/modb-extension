@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11250",
+    "https://anilist.co/anime/106542",
+    "https://anime-planet.com/anime/love-live-myuus-next-lovelive-2014-endless-parade-encore-animation",
+    "https://anisearch.com/anime/10885",
+    "https://kitsu.io/anime/11159",
+    "https://livechart.me/anime/7907",
+    "https://myanimelist.net/anime/30896",
+    "https://notify.moe/anime/cGBupKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d24c9015c8b72a42",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.498115204523367,
+    "arithmeticGeometricMean": 6.4875305878129685,
+    "median": 6.648,
+    "hash": "d24c9015c8b72a42",
+    "lastUpdate": "2024-05-09"
+  }
+}

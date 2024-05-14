@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145994",
+    "https://anime-planet.com/anime/the-demon-girl-next-door-2-mini-anime",
+    "https://livechart.me/anime/11147",
+    "https://myanimelist.net/anime/51543"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "420409026b8c21bd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.153333333333333,
+    "arithmeticGeometricMean": 6.151572347805606,
+    "median": 6.01,
+    "hash": "420409026b8c21bd",
+    "lastUpdate": "2024-05-09"
+  }
+}

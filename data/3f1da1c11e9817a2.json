@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4189",
+    "https://anilist.co/anime/4138",
+    "https://anime-planet.com/anime/chiisana-penguin-lolo-no-bouken",
+    "https://anisearch.com/anime/2283",
+    "https://kitsu.io/anime/3486",
+    "https://myanimelist.net/anime/4138",
+    "https://notify.moe/anime/SRdXcKiiR"
+  ],
+  "synopsis": {
+    "text": "Penguins Scamper and Snowflake are inseparable explorers, always on the hunt for their next big adventure in the vast Antarctic wilderness. One day, they stumble upon a friendly scientist and his adorable puppy, Cowboy, who are studying the icy environment. As the penguins and the puppy bond, they uncover the beauty and wonders of their world together. However, not all is as it seems, and the duo soon finds themselves stranded far from home, face-to-face with the harsher realities of their surroundings. With bravery and a touch of luck, Scamper takes the lead, determined to bring them back home safely and continue their thrilling escapades.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3f1da1c11e9817a2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.538336955561447,
+    "arithmeticGeometricMean": 6.481030769296974,
+    "median": 6.7272727272727275,
+    "hash": "3f1da1c11e9817a2",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11360",
+    "https://anilist.co/anime/103698",
+    "https://anime-planet.com/anime/dreams",
+    "https://anisearch.com/anime/10164",
+    "https://kitsu.io/anime/10170",
+    "https://livechart.me/anime/9303",
+    "https://myanimelist.net/anime/28637",
+    "https://notify.moe/anime/rQ1stFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b3c8aa37158ccae1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.90482745825603,
+    "arithmeticGeometricMean": 3.8679158524772443,
+    "median": 3.8,
+    "hash": "b3c8aa37158ccae1",
+    "lastUpdate": "2024-05-09"
+  }
+}

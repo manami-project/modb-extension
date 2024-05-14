@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13553",
+    "https://anilist.co/anime/131925",
+    "https://anime-planet.com/anime/shimajirou-mahou-no-shima-no-daibouken",
+    "https://anisearch.com/anime/12959",
+    "https://kitsu.io/anime/41652",
+    "https://livechart.me/anime/2964",
+    "https://myanimelist.net/anime/36727"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3644651d120d713d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.858272727272727,
+    "arithmeticGeometricMean": 6.852324707783096,
+    "median": 6.858272727272727,
+    "hash": "3644651d120d713d",
+    "lastUpdate": "2024-05-09"
+  }
+}

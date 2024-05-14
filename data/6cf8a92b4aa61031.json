@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4668",
+    "https://anilist.co/anime/4709",
+    "https://anime-planet.com/anime/aesops-world",
+    "https://anisearch.com/anime/3797",
+    "https://kitsu.io/anime/3752",
+    "https://livechart.me/anime/8262",
+    "https://myanimelist.net/anime/4709",
+    "https://notify.moe/anime/B9nr5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6cf8a92b4aa61031",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.708615213358071,
+    "arithmeticGeometricMean": 5.671896290933779,
+    "median": 5.0,
+    "hash": "6cf8a92b4aa61031",
+    "lastUpdate": "2024-05-08"
+  }
+}

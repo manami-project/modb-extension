@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17791",
+    "https://anilist.co/anime/170892",
+    "https://anime-planet.com/anime/toilet-bound-hanako-kun-2nd-season",
+    "https://anisearch.com/anime/17962",
+    "https://kitsu.io/anime/46924",
+    "https://livechart.me/anime/12406",
+    "https://myanimelist.net/anime/53924",
+    "https://notify.moe/anime/RYAwx9ISg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7c878dea16f7ff5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.7,
+    "arithmeticGeometricMean": 6.7,
+    "median": 6.7,
+    "hash": "d7c878dea16f7ff5",
+    "lastUpdate": "2024-05-09"
+  }
+}

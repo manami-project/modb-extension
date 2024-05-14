@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3064",
+    "https://anilist.co/anime/6571",
+    "https://anime-planet.com/anime/koume-chan-ga-iku",
+    "https://anisearch.com/anime/108",
+    "https://kitsu.io/anime/4615",
+    "https://myanimelist.net/anime/6571",
+    "https://notify.moe/anime/F9K6cFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a92d72f8dee1ac27",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.50417810760668,
+    "arithmeticGeometricMean": 5.48331517956986,
+    "median": 5.553636363636364,
+    "hash": "a92d72f8dee1ac27",
+    "lastUpdate": "2024-05-08"
+  }
+}

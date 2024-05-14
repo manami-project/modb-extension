@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18360",
+    "https://anilist.co/anime/122526",
+    "https://anime-planet.com/anime/shen-cang",
+    "https://anisearch.com/anime/18798",
+    "https://kitsu.io/anime/48243",
+    "https://myanimelist.net/anime/56927"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c9050866b2050b4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.240818181818182,
+    "arithmeticGeometricMean": 6.209802593270405,
+    "median": 6.240818181818182,
+    "hash": "4c9050866b2050b4",
+    "lastUpdate": "2024-05-08"
+  }
+}

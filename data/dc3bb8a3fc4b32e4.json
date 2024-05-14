@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/119740",
+    "https://anime-planet.com/anime/apogee-just-a-seekers-song",
+    "https://myanimelist.net/anime/39209"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc3bb8a3fc4b32e4",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.398787878787879,
+    "arithmeticGeometricMean": 5.377886247489872,
+    "median": 5.28,
+    "hash": "dc3bb8a3fc4b32e4",
+    "lastUpdate": "2024-05-07"
+  }
+}

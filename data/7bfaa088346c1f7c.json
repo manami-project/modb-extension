@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8458",
+    "https://anilist.co/anime/126890",
+    "https://anime-planet.com/anime/private-eye-dol",
+    "https://anisearch.com/anime/7168",
+    "https://kitsu.io/anime/9927",
+    "https://myanimelist.net/anime/25983",
+    "https://notify.moe/anime/sOFPtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7bfaa088346c1f7c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.272340630797774,
+    "arithmeticGeometricMean": 5.233814686541211,
+    "median": 4.909090909090909,
+    "hash": "7bfaa088346c1f7c",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12225",
+    "https://anilist.co/anime/102644",
+    "https://anime-planet.com/anime/promised-town",
+    "https://anisearch.com/anime/11532",
+    "https://kitsu.io/anime/12402",
+    "https://livechart.me/anime/7659",
+    "https://myanimelist.net/anime/33493",
+    "https://notify.moe/anime/I2dk2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d63ac0c0e317a3f3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.925669140383426,
+    "arithmeticGeometricMean": 4.916910798990213,
+    "median": 4.8100000000000005,
+    "hash": "d63ac0c0e317a3f3",
+    "lastUpdate": "2024-05-09"
+  }
+}

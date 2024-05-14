@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13452",
+    "https://anilist.co/anime/103969",
+    "https://anime-planet.com/anime/zhu-zhu-xia-jimu-shijie-de-tong-hua",
+    "https://anisearch.com/anime/13115",
+    "https://myanimelist.net/anime/38122"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "158a1b48b007b1c9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.763141620284478,
+    "arithmeticGeometricMean": 4.587817802187067,
+    "median": 4.636363636363637,
+    "hash": "158a1b48b007b1c9",
+    "lastUpdate": "2024-05-08"
+  }
+}

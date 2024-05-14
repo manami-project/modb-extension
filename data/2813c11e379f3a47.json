@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/1810",
+    "https://myanimelist.net/anime/2946"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2813c11e379f3a47",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.795306122448979,
+    "arithmeticGeometricMean": 4.764574518708966,
+    "median": 4.795306122448979,
+    "hash": "2813c11e379f3a47",
+    "lastUpdate": "2024-05-05"
+  }
+}

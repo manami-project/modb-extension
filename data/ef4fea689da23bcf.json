@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7682",
+    "https://anime-planet.com/anime/eigo-de-asobo-tanken-goblin-tou",
+    "https://anisearch.com/anime/6339",
+    "https://kitsu.io/anime/9256",
+    "https://myanimelist.net/anime/27369",
+    "https://notify.moe/anime/QblatKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef4fea689da23bcf",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.397265306122449,
+    "arithmeticGeometricMean": 5.3578789878342,
+    "median": 5.0,
+    "hash": "ef4fea689da23bcf",
+    "lastUpdate": "2024-05-07"
+  }
+}

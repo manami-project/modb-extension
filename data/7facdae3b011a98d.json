@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/872",
+    "https://anilist.co/anime/8363",
+    "https://anime-planet.com/anime/crayon-shin-chan-movie-11-arashi-wo-yobu-eikou-no-yakiniku-road",
+    "https://anisearch.com/anime/2571",
+    "https://kitsu.io/anime/5312",
+    "https://livechart.me/anime/8628",
+    "https://myanimelist.net/anime/8363",
+    "https://notify.moe/anime/HTvmpKmiR"
+  ],
+  "synopsis": {
+    "text": "Will the promise of a luxurious barbecue feast turn into a wild goose chase for the Nohara family? It seems so, as their peaceful evening takes an unexpected turn when a stranger implicates them in a series of crimes they didn't commit. With the police and yakuza hot on their heels, Shin-chan and his family must navigate through a web of mystery to clear their names. As they uncover the involvement of the enigmatic organization, Sweet Boys, the Noharas embark on a thrilling adventure to Atami in search of answers. Will they manage to evade their pursuers and enjoy their long-awaited barbecue, or will the Sweet Boys bring their family escapade to a bitter end? Join the Noharas on this hilarious and heartwarming journey to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7facdae3b011a98d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.8708449509674,
+    "arithmeticGeometricMean": 6.856454194114153,
+    "median": 6.952,
+    "hash": "7facdae3b011a98d",
+    "lastUpdate": "2024-05-09"
+  }
+}

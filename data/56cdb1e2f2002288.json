@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/sarangeun-oneuldo-malgeum",
+    "https://anisearch.com/anime/15163"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "56cdb1e2f2002288",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.243469387755102,
+    "arithmeticGeometricMean": 6.23977906175065,
+    "median": 6.243469387755102,
+    "hash": "56cdb1e2f2002288",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/310",
+    "https://anilist.co/anime/1182",
+    "https://anime-planet.com/anime/shamanic-princess",
+    "https://anisearch.com/anime/1223",
+    "https://kitsu.io/anime/1062",
+    "https://livechart.me/anime/8725",
+    "https://myanimelist.net/anime/1182",
+    "https://notify.moe/anime/6HSxcFimg"
+  ],
+  "synopsis": {
+    "text": "In a realm where magic thrives, the Throne of Yord, a powerful artifact and the source of all magical energy, has been pilfered and transported to Earth. Tiara, a young and gifted sorceress, is entrusted with the mission to retrieve it. Accompanied by her enigmatic furry companion Japolo, Tiara embarks on a perilous journey. However, she is left aghast when she discovers that her former lover, Kagetsu, is the thief, and her best friend, Lena, is aiding him. As Tiara delves deeper into the mystery, she uncovers hidden truths that challenge her understanding of her world and her loyalties. With the ability to transform into a formidable demon, Tiara must navigate through this complex web of deceit, questioning her beliefs and confronting her past, all while attempting to reclaim the Throne of Yord.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cab01efb87e50a03",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.107356480254439,
+    "arithmeticGeometricMean": 6.082271900478854,
+    "median": 6.334,
+    "hash": "cab01efb87e50a03",
+    "lastUpdate": "2024-05-09"
+  }
+}

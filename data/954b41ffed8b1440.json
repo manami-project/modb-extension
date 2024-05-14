@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13125",
+    "https://anilist.co/anime/19237",
+    "https://anime-planet.com/anime/people-in-the-box-nimrod",
+    "https://kitsu.io/anime/8861",
+    "https://myanimelist.net/anime/19237",
+    "https://notify.moe/anime/QVDxtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "954b41ffed8b1440",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.95330303030303,
+    "arithmeticGeometricMean": 5.942020648457857,
+    "median": 5.804,
+    "hash": "954b41ffed8b1440",
+    "lastUpdate": "2024-05-07"
+  }
+}

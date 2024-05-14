@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3544",
+    "https://anilist.co/anime/129595",
+    "https://anime-planet.com/anime/megazone-23-part-2",
+    "https://anisearch.com/anime/1848"
+  ],
+  "synopsis": {
+    "text": "Half a year into the relentless war between Megazone and the technologically superior Dezalg, the former finds itself on the losing end, surrendering territory daily. Amidst the chaos, Shogo Yahagi, accused of a murder he didn't commit, finds himself evading both the military and the police. Leading a renegade biker gang in defiance of the government, Shogo's life takes a dramatic turn when the AI, EVE, reaches out to him. Hidden away, the Garland motorcycle holds the key to activating EVE's protection program, a last-ditch effort to safeguard Megazone's citizens from Dezalg's onslaught.\n\nSimultaneously, the Dezalg unveils a devastating new weapon, pushing Megazone's defenses to their breaking point. B.D., hell-bent on breaching EVE's final protection level, believes the answer lies in developing more advanced weaponry. Unbeknownst to all, EVE harbors a final secret, A.D.A.M., which could spell doom for everyone involved.\n\nAs Shogo races against time to recover the Garland and aid EVE, multiple confrontations loom. Shogo and B.D., Trash and the military, as well as the Dezalg and Megazone, are all set for a climactic showdown. Will Shogo succeed in activating EVE's protection program, or will A.D.A.M. ensure no one survives the impending catastrophe? The stakes have never been higher in this thrilling anime.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7061c1bf567589bb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.429246753246753,
+    "arithmeticGeometricMean": 6.424586117522586,
+    "median": 6.552,
+    "hash": "7061c1bf567589bb",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2044",
+    "https://anilist.co/anime/12971",
+    "https://anime-planet.com/anime/himitsu-no-akko-chan-umi-da-obake-da-natsu-matsuri",
+    "https://anisearch.com/anime/2910",
+    "https://kitsu.io/anime/6860",
+    "https://myanimelist.net/anime/12971",
+    "https://notify.moe/anime/XjkvpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "91021ff0f84d16cc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.656669758812616,
+    "arithmeticGeometricMean": 5.643496330164127,
+    "median": 5.705009276437848,
+    "hash": "91021ff0f84d16cc",
+    "lastUpdate": "2024-05-08"
+  }
+}

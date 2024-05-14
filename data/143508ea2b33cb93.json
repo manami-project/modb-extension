@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14213",
+    "https://anilist.co/anime/103139",
+    "https://anime-planet.com/anime/domestic-girlfriend",
+    "https://anisearch.com/anime/13753",
+    "https://kitsu.io/anime/41479",
+    "https://livechart.me/anime/3395",
+    "https://myanimelist.net/anime/37982",
+    "https://notify.moe/anime/unFxwqOmg"
+  ],
+  "synopsis": {
+    "text": "One high school student, Natsuo Fujii, finds himself in a complicated web of love and family. Initially nursing an unrequited crush on his cheerful teacher, Hina Tachibana, Natsuo is persuaded by his friends to attend a party. Here, he encounters Rui, a girl with a personality as subdued as his own. A sudden decision leads them to share an intimate night together, with the mutual understanding that they would part ways afterwards. However, fate intervenes when Natsuo's father reveals his plans to remarry. The twist? His new step-mother is none other than the mother of Hina and Rui, making them his new step-sisters. As Natsuo grapples with his feelings for Hina and the unexpected connection with Rui, he must navigate through the complexities of love and family ties in this unpredictable journey.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "143508ea2b33cb93",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.002286941211222,
+    "arithmeticGeometricMean": 6.99770013993017,
+    "median": 7.083,
+    "hash": "143508ea2b33cb93",
+    "lastUpdate": "2024-05-09"
+  }
+}

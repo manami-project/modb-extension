@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6573",
+    "https://anilist.co/anime/126070",
+    "https://anime-planet.com/anime/gorillaman",
+    "https://anisearch.com/anime/5600",
+    "https://kitsu.io/anime/9289",
+    "https://myanimelist.net/anime/24093",
+    "https://notify.moe/anime/JJ3-pFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89d50e2dead88059",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.848200371057515,
+    "arithmeticGeometricMean": 5.833101342210939,
+    "median": 5.909090909090909,
+    "hash": "89d50e2dead88059",
+    "lastUpdate": "2024-05-08"
+  }
+}

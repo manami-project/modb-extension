@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2824",
+    "https://anilist.co/anime/485",
+    "https://anime-planet.com/anime/damekko-doubutsu",
+    "https://anisearch.com/anime/2067",
+    "https://kitsu.io/anime/446",
+    "https://livechart.me/anime/9067",
+    "https://myanimelist.net/anime/485",
+    "https://notify.moe/anime/oqOT5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Uruno, a wolf who falls short of his species' typical prowess, embarks on a journey to find a new home. He stumbles upon a peculiar forest filled with 'useless animals'—creatures that fail to live up to their species' usual characteristics. After a brief scuffle with Usahara, a grumpy, smoking rabbit, Uruno contemplates moving on. However, his plans change when he encounters Chiiko, an awkward cheetah, and it's love at first sight for him. Hoping to win her affection despite his own inadequacies, Uruno decides to stay. But the forest is filled with other eccentric residents, including the aforementioned rabbit, a sake-loving unicorn, a near-sighted eagle, a traveling bear saleswoman, and a timid pegasus. Living with these strange creatures might prove to be more than Uruno bargained for.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c32422256abdc7e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.748133050622847,
+    "arithmeticGeometricMean": 6.737317849100539,
+    "median": 6.93,
+    "hash": "c32422256abdc7e6",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8027",
+    "https://anilist.co/anime/9693",
+    "https://anime-planet.com/anime/moshidora",
+    "https://anisearch.com/anime/6558",
+    "https://kitsu.io/anime/5829",
+    "https://livechart.me/anime/1538",
+    "https://myanimelist.net/anime/9693",
+    "https://notify.moe/anime/exhGtFimR"
+  ],
+  "synopsis": {
+    "text": "School girl Minami Kawashima finds herself in an unexpected role as the baseball team manager at Hodokubo High School in Tokyo when her best friend, Yuuki Miyata, is hospitalized and unable to fulfill her duties. With no prior knowledge of managing a baseball team, Minami turns to a bookstore for guidance. In a twist of fate, she mistakenly purchases a business management book penned by the renowned Austrian-American management expert, Peter Drucker. Armed with Drucker's wisdom, Minami embarks on a mission to apply these unconventional business strategies to rally her struggling baseball team and lead them to victory.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2585d94a650b4e3a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.802546382189238,
+    "arithmeticGeometricMean": 6.795787563209355,
+    "median": 6.748636363636363,
+    "hash": "2585d94a650b4e3a",
+    "lastUpdate": "2024-05-09"
+  }
+}

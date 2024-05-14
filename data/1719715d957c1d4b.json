@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102716",
+    "https://anime-planet.com/anime/witch-craft-works-specials",
+    "https://anisearch.com/anime/10006",
+    "https://kitsu.io/anime/8599",
+    "https://livechart.me/anime/5028",
+    "https://myanimelist.net/anime/23487",
+    "https://notify.moe/anime/0azJtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1719715d957c1d4b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.997079777365493,
+    "arithmeticGeometricMean": 6.985228708119557,
+    "median": 6.74,
+    "hash": "1719715d957c1d4b",
+    "lastUpdate": "2024-05-10"
+  }
+}

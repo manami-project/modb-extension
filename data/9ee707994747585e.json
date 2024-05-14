@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8525",
+    "https://anilist.co/anime/7718",
+    "https://anime-planet.com/anime/denshinbashira-elemi-no-koi",
+    "https://anisearch.com/anime/7210",
+    "https://kitsu.io/anime/5094",
+    "https://livechart.me/anime/6752",
+    "https://myanimelist.net/anime/7718",
+    "https://notify.moe/anime/VU5ztKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9ee707994747585e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.533895838855022,
+    "arithmeticGeometricMean": 6.530620933122176,
+    "median": 6.416,
+    "hash": "9ee707994747585e",
+    "lastUpdate": "2024-05-09"
+  }
+}

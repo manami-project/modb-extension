@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11204",
+    "https://anilist.co/anime/21555",
+    "https://anime-planet.com/anime/dies-irae",
+    "https://anisearch.com/anime/10600",
+    "https://kitsu.io/anime/11212",
+    "https://livechart.me/anime/1569",
+    "https://myanimelist.net/anime/32271",
+    "https://notify.moe/anime/NzjupFmiR"
+  ],
+  "synopsis": {
+    "text": "It was the twilight of World War II when a clandestine group of Nazi officers, shrouded in the occult, exploited the chaos of the Soviet invasion of Berlin to carry out a chilling ritual. Their aim was to summon a cadre of superhumans, the Longinus Dreizehn Orden, whose emergence would herald the end of the world. The outcome of this ritual remained a mystery, and as the decades rolled on, the incident faded into the annals of history.\n\nFast forward to present-day Japan, where Ren Fujii, a typical high school student, is recovering from a brutal altercation with his former best friend. As he strives to return to his everyday life with the support of his childhood friend Kasumi Ayase and upperclassman Rea Himuro, a series of grisly murders begins to plague their city, each victim found decapitated. Simultaneously, Ren is tormented by recurring nightmares of his own beheading via guillotine.\n\nAs the city descends into chaos and fear, whispers of the Longinus Dreizehn Orden resurface. Ren finds himself drawn into a terrifying reality where he must confront these superhuman knights to protect his loved ones and reclaim his normal life. Will he be able to withstand the impending apocalypse and safeguard what is dear to him from the inhuman might of the Longinus Dreizehn Orden?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a1ac4c2eb1618673",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.450554254277469,
+    "arithmeticGeometricMean": 5.434551678968629,
+    "median": 5.486734693877551,
+    "hash": "a1ac4c2eb1618673",
+    "lastUpdate": "2024-05-09"
+  }
+}

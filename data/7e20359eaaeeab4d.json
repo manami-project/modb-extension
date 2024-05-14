@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/119817",
+    "https://anime-planet.com/anime/the-day",
+    "https://anisearch.com/anime/16345",
+    "https://kitsu.io/anime/45604"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7e20359eaaeeab4d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.638868274582561,
+    "arithmeticGeometricMean": 5.625760454775721,
+    "median": 5.638868274582561,
+    "hash": "7e20359eaaeeab4d",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10808",
+    "https://anilist.co/anime/20865",
+    "https://anime-planet.com/anime/fuusen-inu-tinny",
+    "https://anisearch.com/anime/9867",
+    "https://kitsu.io/anime/9143",
+    "https://livechart.me/anime/720",
+    "https://myanimelist.net/anime/25503",
+    "https://notify.moe/anime/mz5apFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b41d4c67b0ed66d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.739678107606679,
+    "arithmeticGeometricMean": 5.7082065069149035,
+    "median": 5.663265306122449,
+    "hash": "2b41d4c67b0ed66d",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10365",
+    "https://anilist.co/anime/20587",
+    "https://anime-planet.com/anime/dai-shogun-great-revolution",
+    "https://anisearch.com/anime/9414",
+    "https://kitsu.io/anime/8146",
+    "https://livechart.me/anime/379",
+    "https://myanimelist.net/anime/21821",
+    "https://notify.moe/anime/pciTpFmiR"
+  ],
+  "synopsis": {
+    "text": "Keiichiro, a humble bathhouse worker, finds himself in an extraordinary position when he discovers he is the secret heir to the Tokugawa shogun in an alternate late Edo period Japan. In this timeline, the Meiji Restoration never occurred, and Japan remains isolated from foreign influence. This isolation was achieved by the use of colossal robots known as Onigami, which repelled the foreign 'Black Ships' threatening Japan's shores.\n\nNow, Keiichiro must learn to master Susanoo, a legendary Onigami, while maintaining his virgin status - a prerequisite for piloting the mecha. With the aid of a female co-pilot, either a ninja named Hattori Kiriko or a fox-girl named Chiharu, Keiichiro must navigate this unexpected responsibility. The tagline, 'I can be the greatest man in the world, because I am a virgin!', adds a humorous twist to this unique historical and mecha-infused narrative.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4afe6dbc9d83850d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.573344346829641,
+    "arithmeticGeometricMean": 5.546692931474112,
+    "median": 5.322077922077922,
+    "hash": "4afe6dbc9d83850d",
+    "lastUpdate": "2024-05-09"
+  }
+}

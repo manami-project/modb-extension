@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11306",
+    "https://anilist.co/anime/5299",
+    "https://anime-planet.com/anime/coffee-tadaiku",
+    "https://anisearch.com/anime/10772",
+    "https://kitsu.io/anime/4043",
+    "https://myanimelist.net/anime/5299",
+    "https://notify.moe/anime/8iHCcFiig"
+  ],
+  "synopsis": {
+    "text": "Furukawa Taku, a renowned animator, commemorates his 70th birthday with a unique tribute to his own work. Collaborating with talented animators Tomoyoshi Joko and Hiroco Ichinose, they create an independent short film under the combined studio name, Decovocal. The film captures the essence of Furukawa's dedication to his craft, even showcasing a heartwarming scene where he takes a well-deserved coffee break amidst his hard work. This touching tribute is a testament to Furukawa's lifelong passion for animation and promises to captivate viewers with its engaging narrative and captivating visuals.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "87a5efb616c8150c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.865511794328121,
+    "arithmeticGeometricMean": 4.839212357894816,
+    "median": 4.818181818181818,
+    "hash": "87a5efb616c8150c",
+    "lastUpdate": "2024-05-08"
+  }
+}

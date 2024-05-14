@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9061",
+    "https://anilist.co/anime/108995",
+    "https://anime-planet.com/anime/the-two-princes",
+    "https://anisearch.com/anime/7701",
+    "https://kitsu.io/anime/9268",
+    "https://myanimelist.net/anime/23343",
+    "https://notify.moe/anime/QR9apKmmg"
+  ],
+  "synopsis": {
+    "text": "Rupia, the young prince of Jambe island, seethes with jealousy when an introverted local boy, Subarna, is bestowed with a magical crown. With the crown's power, Subarna transforms into a beloved hero, admired for his compassionate nature. In a fit of rage, Rupia orders Subarna's arrest, sparking a conflict that threatens the peace of the island.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d988de0f36e1caa7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.3876437847866425,
+    "arithmeticGeometricMean": 5.362271443086342,
+    "median": 5.360204081632653,
+    "hash": "d988de0f36e1caa7",
+    "lastUpdate": "2024-05-07"
+  }
+}

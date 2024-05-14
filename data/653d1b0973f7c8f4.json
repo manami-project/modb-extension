@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14202",
+    "https://anilist.co/anime/103110",
+    "https://anime-planet.com/anime/idolish7-second-beat",
+    "https://anisearch.com/anime/13736",
+    "https://kitsu.io/anime/42453",
+    "https://livechart.me/anime/3378",
+    "https://myanimelist.net/anime/37962",
+    "https://notify.moe/anime/1Y53OcDZg"
+  ],
+  "synopsis": {
+    "text": "Riku Nanase and his fellow bandmates in IDOLiSH7 are living their dream as a popular idol group, having recently won the JIMA New Artist Award and garnering attention from famous musicians like Douglas Rootbank and Yukito Orikasa of Re:vale. With new opportunities pouring in, including a potential TV series and a performance at the Zero Arena reopening concert, the future looks bright for these seven talented individuals. However, the demands of fame begin to take a toll on Riku's health, forcing the group to confront the challenges of the idol lifestyle and their own personal struggles. As they strive to meet the expectations of their fans and reach the top of the industry, IDOLiSH7 must learn to adapt and grow together in the face of adversity. The second season of IDOLiSH7 promises to bring more of their captivating performances and personal journeys to the screen.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "653d1b0973f7c8f4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.988572820037106,
+    "arithmeticGeometricMean": 7.983697436593278,
+    "median": 8.15409090909091,
+    "hash": "653d1b0973f7c8f4",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136228",
+    "https://anime-planet.com/anime/look-at-me-only",
+    "https://kitsu.io/anime/46511",
+    "https://myanimelist.net/anime/49976"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "563ab2e2dbd919de",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.456,
+    "arithmeticGeometricMean": 6.449931237481322,
+    "median": 6.4,
+    "hash": "563ab2e2dbd919de",
+    "lastUpdate": "2024-05-07"
+  }
+}

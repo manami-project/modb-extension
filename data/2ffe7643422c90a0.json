@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1317",
+    "https://anilist.co/anime/305",
+    "https://anime-planet.com/anime/the-abashiri-family",
+    "https://anisearch.com/anime/2791",
+    "https://kitsu.io/anime/278",
+    "https://livechart.me/anime/7422",
+    "https://myanimelist.net/anime/305",
+    "https://notify.moe/anime/d5A25Fiig"
+  ],
+  "synopsis": {
+    "text": "On the global stage of organized crime, the Abashiri family reigns supreme, a formidable force of five members with near-superhuman abilities and a penchant for senseless violence. Among them is Kikunosuke, the first female descendant in 18 generations, raised as a boy to uphold the family's criminal legacy. But on the eve of their final heist, the family patriarch reveals Kikunosuke's true gender and sends her to an elite academy, hoping for a normal life for his daughter.\n\nUnbeknownst to him, the academy hides a sinister secret: it's a school run by ruthless criminals with no intention of graduating their students. Instead, they subject them to a brutal regime of violence and terror. As Kikunosuke navigates this treacherous landscape filled with homicidal faculty members and hostile classmates, she finds herself in a relentless battle for survival. Will she be able to outsmart and outfight her adversaries, or will the school prove to be her final undoing? The stakes are high, and the clock is ticking for Kikunosuke in this deadly game of cat and mouse.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2ffe7643422c90a0",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.241708278116441,
+    "arithmeticGeometricMean": 5.2323996565566775,
+    "median": 5.2727272727272725,
+    "hash": "2ffe7643422c90a0",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8211",
+    "https://anilist.co/anime/10162",
+    "https://anime-planet.com/anime/bunny-drop",
+    "https://anisearch.com/anime/6823",
+    "https://kitsu.io/anime/6060",
+    "https://livechart.me/anime/1230",
+    "https://myanimelist.net/anime/10162",
+    "https://notify.moe/anime/7iA7tFmmR"
+  ],
+  "synopsis": {
+    "text": "In the wake of his grandfather's funeral, thirty-year-old Daikichi, a lifelong bachelor, stumbles upon a shocking revelation: his late grandfather had a child out of wedlock with a younger woman. The family is aghast at this unexpected turn, and no one is willing to take responsibility for the introverted little girl, Rin. Seized by indignation, Daikichi impulsively decides to adopt Rin himself, despite his inexperience in parenting. As he navigates the trials and tribulations of raising a child, Daikichi begins to appreciate the joys and challenges of parenthood. However, the question remains: will Daikichi's abrupt transition to fatherhood impact his personal life and relationships? Join Daikichi and Rin as they embark on an emotional journey of love, loss, and self-discovery, forming an unbreakable bond in the process.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75e8cf422bc546e2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.41281583357981,
+    "arithmeticGeometricMean": 8.412013368746118,
+    "median": 8.343671497584541,
+    "hash": "75e8cf422bc546e2",
+    "lastUpdate": "2024-05-10"
+  }
+}

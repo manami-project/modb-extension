@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/336",
+    "https://anilist.co/anime/585",
+    "https://anime-planet.com/anime/whisper-of-the-heart",
+    "https://anisearch.com/anime/3171",
+    "https://kitsu.io/anime/540",
+    "https://livechart.me/anime/3080",
+    "https://myanimelist.net/anime/585",
+    "https://notify.moe/anime/sWlTcFmmR"
+  ],
+  "synopsis": {
+    "text": "Guided by an insatiable curiosity and a love for literature, a young girl named Shizuku embarks on an extraordinary journey of self-discovery. During a seemingly ordinary summer vacation, Shizuku encounters a mysterious cat on a train, which sparks her interest and leads her to an enchanting antique shop. Here, she learns about a captivating gold statue called 'The Baron' and meets Seiji, the shopkeeper's grandson. Seiji's unwavering determination to become a violin maker inspires Shizuku to find her own true talent and dreams.\n\nAs Shizuku delves deeper into her newfound friendship with Seiji and the magical world of The Baron, she begins to listen to the whispers of her heart. In this coming-of-age tale, Shizuku navigates the challenges of growing up and explores the blossoming feelings of first love. With the help of The Baron and Seiji, Shizuku learns to unlock her hidden potential and chase her dreams, taking her on an adventure beyond the confines of her imagination. This enchanting story, Whisper of the Heart, is a testament to the power of determination, friendship, and the magic that can be found in the most unexpected places.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e99d451364bb134d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.170631467738609,
+    "arithmeticGeometricMean": 8.169900301020597,
+    "median": 8.215555555555557,
+    "hash": "e99d451364bb134d",
+    "lastUpdate": "2024-05-09"
+  }
+}

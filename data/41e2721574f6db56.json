@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103438",
+    "https://anime-planet.com/anime/small-garden",
+    "https://kitsu.io/anime/10152",
+    "https://myanimelist.net/anime/29135",
+    "https://notify.moe/anime/ugTstKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41e2721574f6db56",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.080218181818182,
+    "arithmeticGeometricMean": 6.0556226919651515,
+    "median": 5.545454545454546,
+    "hash": "41e2721574f6db56",
+    "lastUpdate": "2024-05-06"
+  }
+}

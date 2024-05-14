@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4407",
+    "https://anilist.co/anime/6077",
+    "https://anime-planet.com/anime/akubi-girl",
+    "https://anisearch.com/anime/7756",
+    "https://kitsu.io/anime/4417",
+    "https://myanimelist.net/anime/6077",
+    "https://notify.moe/anime/Q1A3cKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35acf9fd652fec85",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.949384662956092,
+    "arithmeticGeometricMean": 4.9075960852184615,
+    "median": 5.090909090909091,
+    "hash": "35acf9fd652fec85",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104075",
+    "https://anime-planet.com/anime/wasurerareta-ningyou",
+    "https://anisearch.com/anime/10635",
+    "https://kitsu.io/anime/10446",
+    "https://myanimelist.net/anime/29867",
+    "https://notify.moe/anime/qJfUpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "702030a54eb86b29",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.497872356215213,
+    "arithmeticGeometricMean": 5.4867703181991825,
+    "median": 5.040816326530611,
+    "hash": "702030a54eb86b29",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10223",
+    "https://anime-planet.com/anime/shiranpuri-1999",
+    "https://anisearch.com/anime/9259",
+    "https://kitsu.io/anime/11045",
+    "https://myanimelist.net/anime/30939",
+    "https://notify.moe/anime/6b7upKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5edfa9891050622e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.433673469387754,
+    "arithmeticGeometricMean": 5.425003074587803,
+    "median": 5.433673469387754,
+    "hash": "5edfa9891050622e",
+    "lastUpdate": "2024-05-08"
+  }
+}

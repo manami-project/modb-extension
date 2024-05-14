@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14957",
+    "https://anilist.co/anime/110090",
+    "https://anime-planet.com/anime/yatogame-chan-kansatsu-nikki-2",
+    "https://anisearch.com/anime/14445",
+    "https://kitsu.io/anime/42398",
+    "https://livechart.me/anime/9472",
+    "https://myanimelist.net/anime/39960",
+    "https://notify.moe/anime/jKvC0UYWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e04a331d79281492",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.541345495774068,
+    "arithmeticGeometricMean": 6.534419086050155,
+    "median": 6.451927437641723,
+    "hash": "e04a331d79281492",
+    "lastUpdate": "2024-05-10"
+  }
+}

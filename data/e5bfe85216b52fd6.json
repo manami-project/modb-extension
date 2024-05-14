@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14608",
+    "https://anilist.co/anime/18327",
+    "https://anime-planet.com/anime/dokgotak-dasi-chajeun-maundeu",
+    "https://anisearch.com/anime/9735",
+    "https://kitsu.io/anime/9738",
+    "https://myanimelist.net/anime/18327",
+    "https://notify.moe/anime/EfPYpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5bfe85216b52fd6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.598813543599258,
+    "arithmeticGeometricMean": 5.56759754511208,
+    "median": 5.204081632653061,
+    "hash": "e5bfe85216b52fd6",
+    "lastUpdate": "2024-05-08"
+  }
+}

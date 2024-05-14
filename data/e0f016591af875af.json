@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9585",
+    "https://anilist.co/anime/16762",
+    "https://anime-planet.com/anime/future-diary-redial",
+    "https://anisearch.com/anime/8246",
+    "https://kitsu.io/anime/7510",
+    "https://livechart.me/anime/864",
+    "https://myanimelist.net/anime/16762",
+    "https://notify.moe/anime/ALi5pFmig"
+  ],
+  "synopsis": {
+    "text": "The third world presents a serene life for Gasai Yuno, filled with warmth from her loving parents and camaraderie from her school friends. However, a lingering void in her heart hints at a forgotten figure of immense importance. After a seemingly ordinary class trip to the beach, Yuno encounters enigmatic messages from an unidentifiable voice, hinting at the existence of a cherished individual she must find. With unwavering determination, Yuno traverses a mysterious realm, overcoming numerous hurdles in her quest to reunite with her beloved, whose memory eludes her grasp.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e0f016591af875af",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.293157129067843,
+    "arithmeticGeometricMean": 7.289568755369342,
+    "median": 7.425,
+    "hash": "e0f016591af875af",
+    "lastUpdate": "2024-05-09"
+  }
+}

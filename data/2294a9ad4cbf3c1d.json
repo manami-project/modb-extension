@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2410",
+    "https://anilist.co/anime/1377",
+    "https://anime-planet.com/anime/space-symphony-maetel-ginga-tetsudou-999-gaiden",
+    "https://anisearch.com/anime/271",
+    "https://kitsu.io/anime/1231",
+    "https://livechart.me/anime/8401",
+    "https://myanimelist.net/anime/1377",
+    "https://notify.moe/anime/ro3bcKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2294a9ad4cbf3c1d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.284098065200105,
+    "arithmeticGeometricMean": 6.237881572174399,
+    "median": 6.708,
+    "hash": "2294a9ad4cbf3c1d",
+    "lastUpdate": "2024-05-10"
+  }
+}

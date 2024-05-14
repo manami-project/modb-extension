@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16744",
+    "https://anilist.co/anime/132479",
+    "https://anime-planet.com/anime/wei-jin-xiao-juchang",
+    "https://myanimelist.net/anime/55066"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d947830072fcd387",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 3.7272727272727275,
+    "arithmeticGeometricMean": 3.7272727272727275,
+    "median": 3.7272727272727275,
+    "hash": "d947830072fcd387",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106551",
+    "https://anime-planet.com/anime/fishing",
+    "https://anisearch.com/anime/14811",
+    "https://kitsu.io/anime/43149",
+    "https://myanimelist.net/anime/41170"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "927c94f10d92250c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.749810760667904,
+    "arithmeticGeometricMean": 4.643005906424375,
+    "median": 5.164090909090909,
+    "hash": "927c94f10d92250c",
+    "lastUpdate": "2024-05-07"
+  }
+}

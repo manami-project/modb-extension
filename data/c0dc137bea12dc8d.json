@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9943",
+    "https://anilist.co/anime/19305",
+    "https://anime-planet.com/anime/nyuru-nyuru-kakusen-kun",
+    "https://anisearch.com/anime/8721",
+    "https://kitsu.io/anime/7830",
+    "https://livechart.me/anime/7033",
+    "https://myanimelist.net/anime/19305",
+    "https://notify.moe/anime/I9-ttFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c0dc137bea12dc8d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.883500927643785,
+    "arithmeticGeometricMean": 4.817398630731609,
+    "median": 4.7727272727272725,
+    "hash": "c0dc137bea12dc8d",
+    "lastUpdate": "2024-05-09"
+  }
+}

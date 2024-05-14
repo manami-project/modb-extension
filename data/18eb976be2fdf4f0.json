@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127253",
+    "https://anime-planet.com/anime/waiter",
+    "https://anisearch.com/anime/13424",
+    "https://kitsu.io/anime/44620",
+    "https://myanimelist.net/anime/48971"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "18eb976be2fdf4f0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.7375983302411875,
+    "arithmeticGeometricMean": 4.553319267247749,
+    "median": 5.507727272727273,
+    "hash": "18eb976be2fdf4f0",
+    "lastUpdate": "2024-05-07"
+  }
+}

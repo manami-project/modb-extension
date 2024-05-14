@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12927",
+    "https://anilist.co/anime/103663",
+    "https://anime-planet.com/anime/denki-groove-hikenai-guitar-wo-hikundaze",
+    "https://kitsu.io/anime/10813",
+    "https://myanimelist.net/anime/30428",
+    "https://notify.moe/anime/ohVlpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da50c6ec01bceb65",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.514494949494949,
+    "arithmeticGeometricMean": 5.4968582894775,
+    "median": 5.376666666666667,
+    "hash": "da50c6ec01bceb65",
+    "lastUpdate": "2024-05-08"
+  }
+}

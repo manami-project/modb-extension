@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/138560",
+    "https://anime-planet.com/anime/castle",
+    "https://myanimelist.net/anime/52195"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e050b8479a8edcdf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.435272727272728,
+    "arithmeticGeometricMean": 6.435258297462471,
+    "median": 6.435272727272728,
+    "hash": "e050b8479a8edcdf",
+    "lastUpdate": "2024-05-07"
+  }
+}

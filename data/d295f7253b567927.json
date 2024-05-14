@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18373",
+    "https://anilist.co/anime/155325",
+    "https://anime-planet.com/anime/the-magic-chef-of-ice-and-fire-2",
+    "https://anisearch.com/anime/17978",
+    "https://kitsu.io/anime/46935",
+    "https://myanimelist.net/anime/53477"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d295f7253b567927",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.489151515151516,
+    "arithmeticGeometricMean": 7.485306799272386,
+    "median": 7.545454545454546,
+    "hash": "d295f7253b567927",
+    "lastUpdate": "2024-05-08"
+  }
+}

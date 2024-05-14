@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140027",
+    "https://anime-planet.com/anime/about-you",
+    "https://kitsu.io/anime/45833",
+    "https://myanimelist.net/anime/54323"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5ea4a236bb27238",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.124272727272728,
+    "arithmeticGeometricMean": 6.105894138462218,
+    "median": 6.124272727272728,
+    "hash": "a5ea4a236bb27238",
+    "lastUpdate": "2024-05-05"
+  }
+}

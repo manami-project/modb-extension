@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5048",
+    "https://anilist.co/anime/2847",
+    "https://anime-planet.com/anime/pokemon-movie-10-the-rise-of-darkrai",
+    "https://anisearch.com/anime/2136",
+    "https://kitsu.io/anime/2597",
+    "https://livechart.me/anime/4440",
+    "https://myanimelist.net/anime/2847",
+    "https://notify.moe/anime/H1vUcFiiR"
+  ],
+  "synopsis": {
+    "text": "Town of Alamos, known for its grand Space-Time Tower and beautiful gardens, becomes the epicenter of a catastrophic event as the legendary Pokémon Dialga and Palkia engage in a fierce battle, threatening to tear apart the fabric of space and time. Ash and his friends, while exploring the town with a charming local named Alice, find themselves caught in the midst of this conflict. As the dimensions collide, the town and its inhabitants face the risk of being wiped out of existence.\n\nThe destruction of the town's garden is blamed on the mythical Pokémon Darkrai by the flamboyant Baron Alberto. Darkrai, shrouded in mystery, appears before Ash and his friends, leading to a series of encounters that hint at a deeper connection between the ongoing chaos and Darkrai's presence. As the battle between Dialga and Palkia intensifies, Ash and his friends must uncover Darkrai's true nature and find a way to restore balance to the dimensions, ultimately saving Alamos Town from impending doom. Will they succeed in unraveling the truth and averting the crisis? Join Ash and his friends in this thrilling adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c16d3fb12e320d11",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.110683864089629,
+    "arithmeticGeometricMean": 7.106142203382263,
+    "median": 7.252188146525496,
+    "hash": "c16d3fb12e320d11",
+    "lastUpdate": "2024-05-09"
+  }
+}

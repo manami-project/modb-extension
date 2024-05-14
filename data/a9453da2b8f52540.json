@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11335",
+    "https://anilist.co/anime/119824",
+    "https://anime-planet.com/anime/gauche-the-cellist-1998",
+    "https://anisearch.com/anime/10846",
+    "https://kitsu.io/anime/8968",
+    "https://myanimelist.net/anime/26303",
+    "https://notify.moe/anime/iCPbpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a9453da2b8f52540",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.282359925788497,
+    "arithmeticGeometricMean": 5.275249376302993,
+    "median": 5.0,
+    "hash": "a9453da2b8f52540",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3353",
+    "https://anilist.co/anime/12715",
+    "https://anime-planet.com/anime/the-hakkenden-shin-shou",
+    "https://anisearch.com/anime/2509",
+    "https://kitsu.io/anime/6797",
+    "https://myanimelist.net/anime/12715",
+    "https://notify.moe/anime/TlQHtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24c9075cf7d4e762",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.219737079247283,
+    "arithmeticGeometricMean": 6.198775131567144,
+    "median": 6.4,
+    "hash": "24c9075cf7d4e762",
+    "lastUpdate": "2024-05-08"
+  }
+}

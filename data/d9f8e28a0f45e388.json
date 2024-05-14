@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/girls-und-panzer-introductions",
+    "https://anisearch.com/anime/8301",
+    "https://kitsu.io/anime/7386",
+    "https://livechart.me/anime/987",
+    "https://myanimelist.net/anime/16199",
+    "https://notify.moe/anime/aCTFtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d9f8e28a0f45e388",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.605209902142676,
+    "arithmeticGeometricMean": 6.593753461484501,
+    "median": 6.455,
+    "hash": "d9f8e28a0f45e388",
+    "lastUpdate": "2024-05-06"
+  }
+}

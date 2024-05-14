@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2247",
+    "https://anilist.co/anime/7605",
+    "https://anime-planet.com/anime/parasol-henbei",
+    "https://anisearch.com/anime/2531",
+    "https://kitsu.io/anime/5050",
+    "https://myanimelist.net/anime/7605",
+    "https://notify.moe/anime/Rs4kpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41dbc42cad06f768",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.3710853432281995,
+    "arithmeticGeometricMean": 5.137361586681773,
+    "median": 5.78590909090909,
+    "hash": "41dbc42cad06f768",
+    "lastUpdate": "2024-05-08"
+  }
+}

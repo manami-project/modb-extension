@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14180",
+    "https://anilist.co/anime/107858",
+    "https://anime-planet.com/anime/chuck-shimezou",
+    "https://anisearch.com/anime/13709",
+    "https://kitsu.io/anime/42370",
+    "https://livechart.me/anime/3353",
+    "https://myanimelist.net/anime/38013"
+  ],
+  "synopsis": {
+    "text": "Anime Tamago 2019 presents the tale of an unlikely friendship between a young boy named Hiroki and a zipper spirit, Chuck Shimezou, who hails from a prestigious family of zipper youkai. Despite being in training, Chuck has yet to close a single zipper, while Hiroki has lost 500 yen due to his carelessness with his coin purse's zipper. Bound by their shared frustration towards their nagging mothers, the duo decides to embark on a daring adventure, leaving their homes behind. Their journey leads them to Hiroki's grandfather's house, but not without an additional companion – Hiroki's little sister, Chie. As they venture into the unknown, what challenges and surprises lie ahead for this unusual trio?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "65c88487d4549864",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.882181818181818,
+    "arithmeticGeometricMean": 5.815269021782465,
+    "median": 5.882181818181818,
+    "hash": "65c88487d4549864",
+    "lastUpdate": "2024-05-09"
+  }
+}

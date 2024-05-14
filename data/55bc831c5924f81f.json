@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8726",
+    "https://anime-planet.com/anime/mii-chan-no-tenohira",
+    "https://anisearch.com/anime/7370",
+    "https://kitsu.io/anime/9444",
+    "https://myanimelist.net/anime/27579",
+    "https://notify.moe/anime/6pJftFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "55bc831c5924f81f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "55bc831c5924f81f",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4926",
+    "https://anilist.co/anime/1828",
+    "https://anime-planet.com/anime/catblue-dynamite",
+    "https://anisearch.com/anime/4023",
+    "https://kitsu.io/anime/1645",
+    "https://livechart.me/anime/6916",
+    "https://myanimelist.net/anime/1828",
+    "https://notify.moe/anime/2Xff5KiiR"
+  ],
+  "synopsis": {
+    "text": "When the late 1970s draw to a close, a peculiar woman named Blue – sporting feline ears and a tail – finds herself entangled in a web of mystery and danger. Armed with an uncanny ability to communicate with the deceased and a knack for wielding three firearms simultaneously with her tail, Blue has made a name for herself by unraveling enigmatic cases.\n\nOne fateful day, two unsuspecting couriers, Bill and Robert, are ambushed by a group of ominous masked men. Unbeknownst to them, the assailants have set their sights on a seemingly ordinary cassette tape belonging to Bill – a recording of the legendary Sinatra. As the chase for the coveted tape ensues, Blue takes it upon herself to uncover the truth behind the mysterious assault.\n\nWith her extraordinary skills and unwavering determination, Blue dives headfirst into the perilous quest to protect her newfound friends. The stage is set for a thrilling adventure, as Blue's unique abilities and resourcefulness are pitted against the unknown forces lurking in the shadows. The pursuit of the Sinatra tape heralds the dawn of a long and arduous day, filled with twists and turns that will keep you on the edge of your seat.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73c90bee3897f28a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.542040816326532,
+    "arithmeticGeometricMean": 5.494415654861763,
+    "median": 5.88,
+    "hash": "73c90bee3897f28a",
+    "lastUpdate": "2024-05-09"
+  }
+}

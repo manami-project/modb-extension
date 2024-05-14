@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11503",
+    "https://anilist.co/anime/103324",
+    "https://anime-planet.com/anime/aruite-mikka",
+    "https://anisearch.com/anime/11618",
+    "https://kitsu.io/anime/10237",
+    "https://myanimelist.net/anime/29105",
+    "https://notify.moe/anime/HEwstKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef88125130693777",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.754120328650941,
+    "arithmeticGeometricMean": 4.721914983840241,
+    "median": 4.26938775510204,
+    "hash": "ef88125130693777",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7271",
+    "https://anilist.co/anime/2840",
+    "https://anime-planet.com/anime/youkoso-lodoss-tou-e",
+    "https://anisearch.com/anime/5624",
+    "https://kitsu.io/anime/2594",
+    "https://myanimelist.net/anime/2840",
+    "https://notify.moe/anime/6SDU5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d01e651634caabf0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.9742830638749,
+    "arithmeticGeometricMean": 5.957844600412322,
+    "median": 5.818181818181818,
+    "hash": "d01e651634caabf0",
+    "lastUpdate": "2024-05-08"
+  }
+}

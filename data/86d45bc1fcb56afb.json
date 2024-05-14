@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2020",
+    "https://anilist.co/anime/5272",
+    "https://anime-planet.com/anime/tondemo-nezumi-daikatsuyaku-manxmouse",
+    "https://anisearch.com/anime/3337",
+    "https://kitsu.io/anime/4025",
+    "https://myanimelist.net/anime/5272",
+    "https://notify.moe/anime/cj7j5FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "86d45bc1fcb56afb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.810061842918986,
+    "arithmeticGeometricMean": 5.780140973808484,
+    "median": 5.681818181818182,
+    "hash": "86d45bc1fcb56afb",
+    "lastUpdate": "2024-05-07"
+  }
+}

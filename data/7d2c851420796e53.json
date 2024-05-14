@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103759",
+    "https://anime-planet.com/anime/groupinou-9",
+    "https://kitsu.io/anime/13863",
+    "https://myanimelist.net/anime/36089",
+    "https://notify.moe/anime/WybI2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d2c851420796e53",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.164545454545454,
+    "arithmeticGeometricMean": 5.152119131601274,
+    "median": 4.909090909090909,
+    "hash": "7d2c851420796e53",
+    "lastUpdate": "2024-05-05"
+  }
+}

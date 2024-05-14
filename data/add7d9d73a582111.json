@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12487",
+    "https://anime-planet.com/anime/ninja-bear",
+    "https://anisearch.com/anime/11980",
+    "https://kitsu.io/anime/12680",
+    "https://livechart.me/anime/2388",
+    "https://myanimelist.net/anime/34264",
+    "https://notify.moe/anime/7Dbm2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "add7d9d73a582111",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "add7d9d73a582111",
+    "lastUpdate": "2024-05-09"
+  }
+}

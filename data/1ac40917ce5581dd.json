@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2210",
+    "https://anilist.co/anime/2279",
+    "https://anime-planet.com/anime/the-wonderful-world-of-puss-n-boots",
+    "https://anisearch.com/anime/1330",
+    "https://kitsu.io/anime/2064",
+    "https://livechart.me/anime/12186",
+    "https://myanimelist.net/anime/2279",
+    "https://notify.moe/anime/dPFP5KiiR"
+  ],
+  "synopsis": {
+    "text": "Who is this daring feline in boots, wielding a sword and defying the laws of Catdom? Pero, the musketeer cat, is on a mission to protect the weak, even if it means becoming a wanted criminal for saving a mouse. Fleeing from the clumsy yet determined Three Blunderers, Pero's life takes an unexpected turn when he befriends Pierre, a young miller's boy, who is mistreated by his greedy brothers. Together, they embark on a journey to find their fortune and encounter the beautiful Princess Rosa, who is being forced to marry the wicked ogre, Lucifer. Determined to save the princess and secure Pierre's happiness, Pero enlists the help of a band of mice thieves. Will they be able to rescue Princess Rosa from Lucifer's clutches and unite her with her true love, Pierre? Join Pero and his friends in this thrilling and comedic adventure, inspired by Charles Perrault's classic fairy tale.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ac40917ce5581dd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.438479547663221,
+    "arithmeticGeometricMean": 6.421647035756425,
+    "median": 6.69,
+    "hash": "1ac40917ce5581dd",
+    "lastUpdate": "2024-05-09"
+  }
+}

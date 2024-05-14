@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16355",
+    "https://anilist.co/anime/122508",
+    "https://anime-planet.com/anime/blades-of-the-guardians",
+    "https://anisearch.com/anime/16697",
+    "https://kitsu.io/anime/45570",
+    "https://livechart.me/anime/11200",
+    "https://myanimelist.net/anime/44388",
+    "https://notify.moe/anime/r9AN74bMR"
+  ],
+  "synopsis": {
+    "text": "Hu ang Chang, a formidable warrior known as an 'Escort,' navigates the treacherous desert of the Western Regions, evading the relentless pursuit of the government. Tasked with a seemingly straightforward mission to protect a target en route to Chang'an, the capital of the Sui Dynasty, Huang Chang is unaware of the impending dangers that lie ahead. As the Sui Dynasty crumbles under the oppressive rule of Emperor Yang Guang, a wave of terror and chaos sweeps across the country, giving rise to bloodthirsty creatures known as 'rakshasa.'\n\nDao Ma, a lone swordsman burdened by a debt to his caretaker, Mo, finds himself entangled in this vortex of destruction. While journeying back to Mo's town with his child, Xiao Qi, they cross paths with a rakshasa victim, setting off a chain of events that will forever alter their lives. As the once-human demons spread their malevolent influence, Dao Ma must confront his worst fears and join forces with the enigmatic leader of the Hua Yan Tuan organization, Zhishi Lang, to restore balance to the world.\n\nIn this epic tale set during the waning years of the Sui Dynasty, an unlikely alliance forms between warriors, bound by duty and honor, as they battle the encroaching darkness that threatens to consume the land. With the fate of the world hanging in the balance, can they overcome the insidious forces that seek to destroy it, or will they succumb to the relentless onslaught of the rakshasa? Only time will tell, as their perilous journey unfolds.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca239f2297c26977",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.468892393320964,
+    "arithmeticGeometricMean": 7.464096171977565,
+    "median": 7.608636363636363,
+    "hash": "ca239f2297c26977",
+    "lastUpdate": "2024-05-09"
+  }
+}

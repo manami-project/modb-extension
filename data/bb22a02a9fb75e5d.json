@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15628",
+    "https://anilist.co/anime/120859",
+    "https://anime-planet.com/anime/burning-kabaddi",
+    "https://anisearch.com/anime/15380",
+    "https://kitsu.io/anime/43309",
+    "https://livechart.me/anime/10060",
+    "https://myanimelist.net/anime/42395",
+    "https://notify.moe/anime/vJQeyyVMR"
+  ],
+  "synopsis": {
+    "text": "And so we meet Tatsuya Yoigoshi, a first-year student at Noukin High School who once held the title of \"Yoigoshi the Unstoppable\" as the ace of his middle school soccer team. But now, he has turned his back on sports, trading his soccer cleats for a live streaming setup. When Souma Azemichi, a fellow first-year and member of the kabaddi team, interrupts one of his streams with an invitation to join the club, Tatsuya is skeptical. But after witnessing the raw intensity and martial arts-like competition of a kabaddi match, he finds himself drawn in. With a bet on the line - more viewers for his streams if he wins, joining the team if he loses - Tatsuya finds himself in the middle of a kabaddi match that will determine his future. Will he be able to resist the allure of this unique sport, or will he find himself a new member of the kabaddi team?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bb22a02a9fb75e5d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.069713647959185,
+    "arithmeticGeometricMean": 7.064806941595929,
+    "median": 7.145854591836734,
+    "hash": "bb22a02a9fb75e5d",
+    "lastUpdate": "2024-05-09"
+  }
+}

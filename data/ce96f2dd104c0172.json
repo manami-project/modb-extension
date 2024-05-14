@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11751",
+    "https://anilist.co/anime/103396",
+    "https://anime-planet.com/anime/idolish7-memories-melodies",
+    "https://anisearch.com/anime/10922",
+    "https://kitsu.io/anime/11488",
+    "https://myanimelist.net/anime/32030",
+    "https://notify.moe/anime/apOjpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce96f2dd104c0172",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.754323350119269,
+    "arithmeticGeometricMean": 6.7360275483462715,
+    "median": 6.858,
+    "hash": "ce96f2dd104c0172",
+    "lastUpdate": "2024-05-08"
+  }
+}

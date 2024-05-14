@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12864",
+    "https://anilist.co/anime/104547",
+    "https://anime-planet.com/anime/saru-kani-gassen-1927",
+    "https://anisearch.com/anime/14314",
+    "https://kitsu.io/anime/40746",
+    "https://myanimelist.net/anime/35391",
+    "https://notify.moe/anime/cH3vhFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "82dc39c1716ed46a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.846237476808905,
+    "arithmeticGeometricMean": 4.776454891671523,
+    "median": 5.090909090909091,
+    "hash": "82dc39c1716ed46a",
+    "lastUpdate": "2024-05-08"
+  }
+}

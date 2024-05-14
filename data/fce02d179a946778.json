@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8566",
+    "https://anime-planet.com/anime/maken-ki-its-summer-its-swimsuits-its-training-camp",
+    "https://anisearch.com/anime/7237",
+    "https://livechart.me/anime/97"
+  ],
+  "synopsis": {
+    "text": "High school students from Tenbi High School, including Ooyama Takeru and his childhood friend Amaya Haruko, eagerly anticipate a summer holiday filled with sun, sand, and relaxation. But this is no ordinary vacation; they're headed to a camp on the southern islands for intense Maken-ki training. Takeru, driven by a desire to protect his loved ones, finds himself pushed to his limits. As the group tries to enjoy their beach getaway, an unexpected emergency interrupts Takeru's rigorous training, forcing him to put his newfound skills to the test. Amidst the chaos, the group encounters a giant octopus attack and a promiscuous sleep-groper, making for a summer vacation they'll never forget.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fce02d179a946778",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.246265306122449,
+    "arithmeticGeometricMean": 6.221998549506424,
+    "median": 6.116,
+    "hash": "fce02d179a946778",
+    "lastUpdate": "2024-05-09"
+  }
+}

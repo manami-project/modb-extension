@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2799",
+    "https://anilist.co/anime/5923",
+    "https://anime-planet.com/anime/utsunomiko-heaven-chapter",
+    "https://anisearch.com/anime/730",
+    "https://kitsu.io/anime/4340",
+    "https://myanimelist.net/anime/5923",
+    "https://notify.moe/anime/QiVq5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ddc01380a56f596",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.235989486703772,
+    "arithmeticGeometricMean": 6.218718017149128,
+    "median": 6.274090909090909,
+    "hash": "7ddc01380a56f596",
+    "lastUpdate": "2024-05-07"
+  }
+}

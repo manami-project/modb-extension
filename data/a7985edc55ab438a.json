@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/129492",
+    "https://anime-planet.com/anime/guobao-te-gong-shuigou-da-taowang",
+    "https://anisearch.com/anime/12533",
+    "https://myanimelist.net/anime/44286"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a7985edc55ab438a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.136363636363637,
+    "arithmeticGeometricMean": 5.430244490686779,
+    "median": 6.136363636363637,
+    "hash": "a7985edc55ab438a",
+    "lastUpdate": "2024-05-07"
+  }
+}

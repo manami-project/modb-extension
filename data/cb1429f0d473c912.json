@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15087",
+    "https://anime-planet.com/anime/minami-no-shima-no-chiisana-hikouki-birdy",
+    "https://anisearch.com/anime/7348",
+    "https://myanimelist.net/anime/53910"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb1429f0d473c912",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "cb1429f0d473c912",
+    "lastUpdate": "2024-05-11"
+  }
+}

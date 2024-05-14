@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10127",
+    "https://anilist.co/anime/160966",
+    "https://anime-planet.com/anime/henteko-na-volunteer",
+    "https://anisearch.com/anime/9141",
+    "https://kitsu.io/anime/10108",
+    "https://myanimelist.net/anime/28353",
+    "https://notify.moe/anime/3ADstKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c95a10c537a4ebc5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0958256029684605,
+    "arithmeticGeometricMean": 6.071445305239071,
+    "median": 6.087476808905381,
+    "hash": "c95a10c537a4ebc5",
+    "lastUpdate": "2024-05-07"
+  }
+}

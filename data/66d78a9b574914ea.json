@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11385",
+    "https://anilist.co/anime/21493",
+    "https://anime-planet.com/anime/sky-wizards-academy-lecty-animal-caretaker",
+    "https://anisearch.com/anime/10755",
+    "https://kitsu.io/anime/11186",
+    "https://livechart.me/anime/1702",
+    "https://myanimelist.net/anime/31156",
+    "https://notify.moe/anime/Ss8utKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "66d78a9b574914ea",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.450998608534324,
+    "arithmeticGeometricMean": 6.441059483584371,
+    "median": 6.354818181818182,
+    "hash": "66d78a9b574914ea",
+    "lastUpdate": "2024-05-09"
+  }
+}

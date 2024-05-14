@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13459",
+    "https://anilist.co/anime/103992",
+    "https://anime-planet.com/anime/zhu-zhu-xia-meng-xiang-shou-wei-zhe",
+    "https://anisearch.com/anime/13666",
+    "https://myanimelist.net/anime/38129"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9feac3a03e866161",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.625929499072356,
+    "arithmeticGeometricMean": 4.455023637101337,
+    "median": 4.272727272727273,
+    "hash": "9feac3a03e866161",
+    "lastUpdate": "2024-05-07"
+  }
+}

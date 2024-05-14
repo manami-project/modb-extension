@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11153",
+    "https://anilist.co/anime/125271",
+    "https://anime-planet.com/anime/gon-2nd-season",
+    "https://anisearch.com/anime/10344",
+    "https://kitsu.io/anime/10891",
+    "https://livechart.me/anime/6776",
+    "https://myanimelist.net/anime/30410",
+    "https://notify.moe/anime/Yx0_tFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "904a70fa1da7c245",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.081601731601731,
+    "arithmeticGeometricMean": 5.017826269495057,
+    "median": 5.409090909090909,
+    "hash": "904a70fa1da7c245",
+    "lastUpdate": "2024-05-09"
+  }
+}

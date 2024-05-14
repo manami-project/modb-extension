@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102662",
+    "https://anime-planet.com/anime/hanako-oku-hanabi",
+    "https://kitsu.io/anime/11539",
+    "https://myanimelist.net/anime/31977",
+    "https://notify.moe/anime/oH1jpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8fb9281ef7782d49",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.691672727272728,
+    "arithmeticGeometricMean": 5.577427405988071,
+    "median": 5.96,
+    "hash": "8fb9281ef7782d49",
+    "lastUpdate": "2024-05-06"
+  }
+}

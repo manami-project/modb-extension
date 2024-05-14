@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5849",
+    "https://anilist.co/anime/4452",
+    "https://anime-planet.com/anime/hoshikuzu-paradise",
+    "https://anisearch.com/anime/4836",
+    "https://kitsu.io/anime/3615",
+    "https://myanimelist.net/anime/4452",
+    "https://notify.moe/anime/KKwucFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b3bd8bb443e72a5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.578077391995758,
+    "arithmeticGeometricMean": 5.5541887501268254,
+    "median": 5.2727272727272725,
+    "hash": "8b3bd8bb443e72a5",
+    "lastUpdate": "2024-05-08"
+  }
+}

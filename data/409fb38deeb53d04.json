@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/cherry-blossom",
+    "https://kitsu.io/anime/9225",
+    "https://myanimelist.net/anime/26237",
+    "https://notify.moe/anime/osP-tFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "409fb38deeb53d04",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "409fb38deeb53d04",
+    "lastUpdate": "2024-05-07"
+  }
+}

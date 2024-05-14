@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2438",
+    "https://anilist.co/anime/1395",
+    "https://anime-planet.com/anime/cyber-formula-sin",
+    "https://anisearch.com/anime/2484",
+    "https://kitsu.io/anime/1248",
+    "https://livechart.me/anime/8404",
+    "https://myanimelist.net/anime/1395",
+    "https://notify.moe/anime/x36xcFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b32e9588892878fb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.301173071826133,
+    "arithmeticGeometricMean": 7.2962131794013105,
+    "median": 7.47,
+    "hash": "b32e9588892878fb",
+    "lastUpdate": "2024-05-09"
+  }
+}

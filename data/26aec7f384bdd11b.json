@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/bip-to-bap",
+    "https://kitsu.io/anime/10242",
+    "https://myanimelist.net/anime/29373",
+    "https://notify.moe/anime/7F_ypKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26aec7f384bdd11b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "26aec7f384bdd11b",
+    "lastUpdate": "2024-05-07"
+  }
+}

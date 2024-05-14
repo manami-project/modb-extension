@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3953",
+    "https://anilist.co/anime/913",
+    "https://anime-planet.com/anime/kakutou-bijin-wulong",
+    "https://anisearch.com/anime/2615",
+    "https://kitsu.io/anime/813",
+    "https://livechart.me/anime/8640",
+    "https://myanimelist.net/anime/913",
+    "https://notify.moe/anime/zui15Kimg"
+  ],
+  "synopsis": {
+    "text": "First, meet Mao Lan, a charming 17-year-old girl with an extraordinary life. Trained since childhood by her eccentric and often inebriated grandfather, Mao Lan has mastered the family's secret martial arts style based on samurai swordplay. Despite her longing for an ordinary life, her grandfather has other plans, pushing her into unconventional training sessions with old men at their dojo and even pitting her against wild bears and street gangs.\n\nWhen her grandfather enrolls her in the renowned martial arts tournament, Prime Mat, Mao Lan is hesitant to embrace the challenge. However, she soon discovers an intriguing world of fierce competitors and hidden family secrets. As she delves deeper into the tournament, she becomes increasingly captivated by the thrill of combat.\n\nBalancing her life between the dojo, a curious sports reporter, and a new recruit, Mao Lan finds herself on a unique journey. To honor her grandfather's unusual request, she must face off against his old friend's granddaughter in the ring. Can Mao Lan rise to the challenge and prove her skills in this high-stakes competition? Join her as she navigates the trials and triumphs of Prime Mat, where the excitement never ends, and the outcome is anyone's guess.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92ce15dfa8c1db05",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.081886032335012,
+    "arithmeticGeometricMean": 6.057982885017739,
+    "median": 6.214,
+    "hash": "92ce15dfa8c1db05",
+    "lastUpdate": "2024-05-09"
+  }
+}

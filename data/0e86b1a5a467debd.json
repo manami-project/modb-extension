@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8438",
+    "https://anilist.co/anime/10623",
+    "https://anime-planet.com/anime/hayan-ma-eum-baeggu",
+    "https://anisearch.com/anime/7112",
+    "https://kitsu.io/anime/6268",
+    "https://myanimelist.net/anime/10623",
+    "https://notify.moe/anime/1YpVtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e86b1a5a467debd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.959422387136674,
+    "arithmeticGeometricMean": 5.929083933350368,
+    "median": 5.836818181818181,
+    "hash": "0e86b1a5a467debd",
+    "lastUpdate": "2024-05-08"
+  }
+}

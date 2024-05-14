@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7989",
+    "https://anilist.co/anime/9539",
+    "https://anime-planet.com/anime/cardfight-vanguard",
+    "https://anisearch.com/anime/6549",
+    "https://kitsu.io/anime/5781",
+    "https://livechart.me/anime/1572",
+    "https://myanimelist.net/anime/9539",
+    "https://notify.moe/anime/zIHMpFiiR"
+  ],
+  "synopsis": {
+    "text": "Through the lens of a thrilling card game, Cardfight Vanguard follows the journey of Aichi Sendou, a reserved and introverted middle school student who finds his world transformed by this popular trading card game. With a unique gameplay system and battles taking place on an imaginary planet called Klay, Vanguard has become a global sensation. Aichi's life takes a dramatic turn when a precious card from his childhood, Blaster Blade, is taken from him by a school bully. In order to reclaim his cherished card, Aichi enters the world of Vanguard and finds himself captivated by the strategic battles and vibrant community. Along the way, he meets new friends and formidable rivals, including the aloof and skilled high schooler, Toshiki Kai, who becomes Aichi's ultimate goal to defeat in order to prove his worth as a cardfighter. As Aichi delves deeper into the world of Vanguard, he discovers his own strength and passion, pushing himself to improve and grow with every card battle.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e922801e11a059fe",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.721921079416615,
+    "arithmeticGeometricMean": 6.708856844513013,
+    "median": 6.820545454545455,
+    "hash": "e922801e11a059fe",
+    "lastUpdate": "2024-05-09"
+  }
+}

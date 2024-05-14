@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14191",
+    "https://anilist.co/anime/102004",
+    "https://anime-planet.com/anime/yin-yang-shi-ping-an-wu-yu",
+    "https://anisearch.com/anime/13719",
+    "https://kitsu.io/anime/43265",
+    "https://livechart.me/anime/3462",
+    "https://myanimelist.net/anime/37641"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bdcffed4ed597b4c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.367476066790352,
+    "arithmeticGeometricMean": 6.35606289618047,
+    "median": 6.21,
+    "hash": "bdcffed4ed597b4c",
+    "lastUpdate": "2024-05-10"
+  }
+}

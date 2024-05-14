@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4247",
+    "https://anilist.co/anime/3772",
+    "https://anime-planet.com/anime/cubix-robots-for-everyone",
+    "https://anisearch.com/anime/2854",
+    "https://kitsu.io/anime/3245",
+    "https://livechart.me/anime/5927",
+    "https://myanimelist.net/anime/3772",
+    "https://notify.moe/anime/5co_5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2ec6f84514233cd5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.378058485731956,
+    "arithmeticGeometricMean": 5.349748053009091,
+    "median": 5.37,
+    "hash": "2ec6f84514233cd5",
+    "lastUpdate": "2024-05-09"
+  }
+}

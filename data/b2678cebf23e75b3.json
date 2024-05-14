@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2829",
+    "https://anilist.co/anime/505",
+    "https://anime-planet.com/anime/fushigiboshi-no-futagohime",
+    "https://anisearch.com/anime/2436",
+    "https://kitsu.io/anime/7757",
+    "https://livechart.me/anime/7225",
+    "https://myanimelist.net/anime/505",
+    "https://notify.moe/anime/v4DttFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b2678cebf23e75b3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.398285714285714,
+    "arithmeticGeometricMean": 7.381261398238908,
+    "median": 7.272727272727273,
+    "hash": "b2678cebf23e75b3",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/10-pun-de-oitsukeru-attack-on-titan",
+    "https://anisearch.com/anime/18614",
+    "https://kitsu.io/anime/47129",
+    "https://myanimelist.net/anime/51239"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e002469eb747ce49",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.752789115646259,
+    "arithmeticGeometricMean": 6.746568263156539,
+    "median": 6.6,
+    "hash": "e002469eb747ce49",
+    "lastUpdate": "2024-05-05"
+  }
+}

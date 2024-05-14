@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/290",
+    "https://anilist.co/anime/799",
+    "https://anime-planet.com/anime/kokoro-toshokan",
+    "https://anisearch.com/anime/166",
+    "https://kitsu.io/anime/713",
+    "https://livechart.me/anime/5946",
+    "https://myanimelist.net/anime/799",
+    "https://notify.moe/anime/QPxA5FmmR"
+  ],
+  "synopsis": {
+    "text": "After the passing of their parents, the Kokoro Library, nestled deep in the mountains, becomes the responsibility of three sisters: Iina, Aruto, and Kokoro. With a dream to become a librarian at the library that shares her name, young Kokoro embarks on her journey, learning the ropes alongside her older sisters. Iina, the thoughtful eldest, and Aruto, the practical middle child who loves to cook, support Kokoro as she navigates the world of books and tea. As the number of enigmatic visitors to the library grows, so do the whispers of small miracles unfolding within its walls, revealing the library's mysterious history. Join the sisters in this heartwarming and humorous tale as they work together to keep the Kokoro Library thriving while uncovering its hidden secrets.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7aac1abdb7f3bd87",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.269659687251525,
+    "arithmeticGeometricMean": 6.25694468475063,
+    "median": 6.545454545454545,
+    "hash": "7aac1abdb7f3bd87",
+    "lastUpdate": "2024-05-09"
+  }
+}

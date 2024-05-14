@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13596",
+    "https://anilist.co/anime/103130",
+    "https://anime-planet.com/anime/shen-qi-huan-qi-tan",
+    "https://anisearch.com/anime/13048",
+    "https://kitsu.io/anime/40563",
+    "https://livechart.me/anime/7949",
+    "https://myanimelist.net/anime/36722",
+    "https://notify.moe/anime/EsSv2Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "034b3ce55e303a12",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.963515151515151,
+    "arithmeticGeometricMean": 5.949901784465724,
+    "median": 5.66,
+    "hash": "034b3ce55e303a12",
+    "lastUpdate": "2024-05-09"
+  }
+}

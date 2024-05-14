@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4052",
+    "https://anilist.co/anime/11197",
+    "https://anime-planet.com/anime/kuma-no-puutarou",
+    "https://anisearch.com/anime/2729",
+    "https://kitsu.io/anime/6472",
+    "https://myanimelist.net/anime/11197",
+    "https://notify.moe/anime/0EvStFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d84a8eda253d7c96",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 3.5176252319109462,
+    "arithmeticGeometricMean": 3.362726952924408,
+    "median": 3.8181818181818183,
+    "hash": "d84a8eda253d7c96",
+    "lastUpdate": "2024-05-08"
+  }
+}

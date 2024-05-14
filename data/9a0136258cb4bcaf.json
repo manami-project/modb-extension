@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/23",
+    "https://anilist.co/anime/1",
+    "https://anime-planet.com/anime/cowboy-bebop",
+    "https://anisearch.com/anime/1572",
+    "https://kitsu.io/anime/1",
+    "https://livechart.me/anime/3418",
+    "https://myanimelist.net/anime/1",
+    "https://notify.moe/anime/Tk3ccKimg"
+  ],
+  "synopsis": {
+    "text": "While Earth has become a distant memory in the year 2071, the solar system is teeming with life and chaos. With humanity scattered across planets and moons, a new breed of law enforcers has emerged: the bounty hunters, or 'cowboys'. Among them are the laid-back Spike Spiegel and his stoic partner Jet Black, who traverse the cosmos in their spaceship, the Bebop, hunting down criminals for a living. As they navigate the complexities of their pasts, they cross paths with an eclectic mix of characters, including the enigmatic Faye Valentine, the prodigious hacker Ed, and the intelligent Welsh Corgi, Ein. Together, they embark on thrilling adventures that blend high-stakes action with lighthearted humor, uncovering truths about their own histories and the world they inhabit. As Spike confronts his past, he must decide where his loyalties lie: with his newfound family or the vengeance that haunts him.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9a0136258cb4bcaf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.554560526861508,
+    "arithmeticGeometricMean": 8.55349086674264,
+    "median": 8.638609454384802,
+    "hash": "9a0136258cb4bcaf",
+    "lastUpdate": "2024-05-09"
+  }
+}

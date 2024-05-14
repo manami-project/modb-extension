@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5062",
+    "https://anilist.co/anime/132340",
+    "https://anime-planet.com/anime/little-twins",
+    "https://anisearch.com/anime/4168",
+    "https://kitsu.io/anime/9989",
+    "https://myanimelist.net/anime/28097",
+    "https://notify.moe/anime/34YEtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "388fa861ec4afb02",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.858688930117501,
+    "arithmeticGeometricMean": 4.837726114968315,
+    "median": 5.0,
+    "hash": "388fa861ec4afb02",
+    "lastUpdate": "2024-05-08"
+  }
+}

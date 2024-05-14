@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/eve-dont-replay-the-boredom",
+    "https://anisearch.com/anime/17210",
+    "https://kitsu.io/anime/45987",
+    "https://myanimelist.net/anime/51230"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "21c6fba34ca72539",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.787170068027211,
+    "arithmeticGeometricMean": 6.767249764364976,
+    "median": 7.28,
+    "hash": "21c6fba34ca72539",
+    "lastUpdate": "2024-05-07"
+  }
+}

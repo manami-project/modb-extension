@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2831",
+    "https://anilist.co/anime/668",
+    "https://anime-planet.com/anime/koi-koi-seven",
+    "https://anisearch.com/anime/1685",
+    "https://kitsu.io/anime/612",
+    "https://livechart.me/anime/4879",
+    "https://myanimelist.net/anime/668",
+    "https://notify.moe/anime/isMAcKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "260231aef085e12d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.307866949377153,
+    "arithmeticGeometricMean": 5.288556494162254,
+    "median": 5.545454545454546,
+    "hash": "260231aef085e12d",
+    "lastUpdate": "2024-05-09"
+  }
+}

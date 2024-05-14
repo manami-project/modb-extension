@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/759",
+    "https://anilist.co/anime/2725",
+    "https://anime-planet.com/anime/tenchi-muyo-mihoshi-special",
+    "https://anisearch.com/anime/990",
+    "https://kitsu.io/anime/2485",
+    "https://livechart.me/anime/6460",
+    "https://myanimelist.net/anime/2725",
+    "https://notify.moe/anime/69lscFmmR"
+  ],
+  "synopsis": {
+    "text": "Officer Mihoshi Kuramitsu, a member of the Galaxy Police, takes center stage in this special narrative, sharing tales of her adventurous past and offering a glimpse into her potential future. Partnered with the ambitious Kiyone Makibi, who initially sees Mihoshi as a potential career-ender, the duo embarks on a series of thrilling missions. From halting a string of Ultra Energy Matter thefts to confronting cosmic threats that could spell doom for the universe, no challenge is too great for these intrepid officers. Along the way, familiar faces from the Tenchi Muyo series pop up in unexpected roles, adding a touch of whimsy to Mihoshi's action-packed reminiscences. As Mihoshi weaves her tales, she not only showcases her unique approach to law enforcement but also demonstrates her unwavering dedication to preserving intergalactic peace. This special story offers a delightful blend of humor, adventure, and nostalgia, promising a captivating journey for both newcomers and fans of the Tenchi Muyo universe.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2ff3690ecb0ebe46",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.717124304267161,
+    "arithmeticGeometricMean": 6.706989570237068,
+    "median": 6.75,
+    "hash": "2ff3690ecb0ebe46",
+    "lastUpdate": "2024-05-10"
+  }
+}

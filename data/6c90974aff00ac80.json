@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1649",
+    "https://anilist.co/anime/2399",
+    "https://anime-planet.com/anime/hamtaro-no-otanjobi",
+    "https://anisearch.com/anime/694",
+    "https://kitsu.io/anime/2176",
+    "https://myanimelist.net/anime/2399",
+    "https://notify.moe/anime/JPLP5FmmR"
+  ],
+  "synopsis": {
+    "text": "Happy birthday to Hamtaro, the beloved pet hamster of Laura! On this special day, Hamtaro is filled with curiosity and determination after learning about his past from Laura. She shares with him old photos of his mother, Yuki, and tells him about his origins. With a newfound desire to reunite with his mother, Hamtaro embarks on a journey with his friends Boss and Oxnard to find her.\n\nThe journey is long and arduous, as the tiny hamsters must take thousands of steps to reach their destination. However, they remain undeterred and make their way through the town of Sumire, taking in the sights and smells of the urban landscape and sunflower fields.\n\nBack at home, the rest of the Ham-Hams are busy preparing a surprise birthday party for Hamtaro. They send out invitations and work together to create a special celebration for their furry friend.\n\nWill Hamtaro and his friends make it back in time for the party? And will they finally reunite with Yuki after all this time? Join Hamtaro on his exciting journey to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6c90974aff00ac80",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.194170156374237,
+    "arithmeticGeometricMean": 6.174829777869882,
+    "median": 6.5,
+    "hash": "6c90974aff00ac80",
+    "lastUpdate": "2024-05-08"
+  }
+}

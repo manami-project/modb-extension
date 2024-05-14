@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/155841",
+    "https://anime-planet.com/anime/trigger-hidden-region",
+    "https://kitsu.io/anime/46505",
+    "https://myanimelist.net/anime/53071"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7c78ab210282432b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.000181818181818,
+    "arithmeticGeometricMean": 6.995069592707402,
+    "median": 7.016,
+    "hash": "7c78ab210282432b",
+    "lastUpdate": "2024-05-07"
+  }
+}

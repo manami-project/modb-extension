@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11541",
+    "https://anilist.co/anime/19811",
+    "https://anime-planet.com/anime/waanabi-jk",
+    "https://anisearch.com/anime/10721",
+    "https://kitsu.io/anime/8238",
+    "https://myanimelist.net/anime/19811",
+    "https://notify.moe/anime/Bu2opKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d27c2e960edd1183",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.7447055393586,
+    "arithmeticGeometricMean": 4.724857602380415,
+    "median": 4.706,
+    "hash": "d27c2e960edd1183",
+    "lastUpdate": "2024-05-07"
+  }
+}

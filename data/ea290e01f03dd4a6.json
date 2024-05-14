@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4486",
+    "https://anilist.co/anime/1897",
+    "https://anime-planet.com/anime/zettai-muteki-raijin-oh",
+    "https://anisearch.com/anime/3702",
+    "https://kitsu.io/anime/1707",
+    "https://myanimelist.net/anime/1897",
+    "https://notify.moe/anime/qKjB5Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ea290e01f03dd4a6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.151299938157081,
+    "arithmeticGeometricMean": 6.126730726706177,
+    "median": 6.286818181818182,
+    "hash": "ea290e01f03dd4a6",
+    "lastUpdate": "2024-05-08"
+  }
+}

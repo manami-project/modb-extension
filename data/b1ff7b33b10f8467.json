@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3456",
+    "https://anilist.co/anime/3099",
+    "https://anime-planet.com/anime/wild-knights-gulkeeva",
+    "https://anisearch.com/anime/3452",
+    "https://kitsu.io/anime/2793",
+    "https://livechart.me/anime/7525",
+    "https://myanimelist.net/anime/3099",
+    "https://notify.moe/anime/OV3U5KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b1ff7b33b10f8467",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.940521600848131,
+    "arithmeticGeometricMean": 5.9087442148962435,
+    "median": 6.0,
+    "hash": "b1ff7b33b10f8467",
+    "lastUpdate": "2024-05-09"
+  }
+}

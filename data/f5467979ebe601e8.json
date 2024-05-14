@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143133",
+    "https://anime-planet.com/anime/kanata-amane-tenshi-no-agape",
+    "https://anisearch.com/anime/17080",
+    "https://kitsu.io/anime/45672",
+    "https://myanimelist.net/anime/51564"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f5467979ebe601e8",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.848041743970315,
+    "arithmeticGeometricMean": 6.841677911296735,
+    "median": 6.851,
+    "hash": "f5467979ebe601e8",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/115",
+    "https://anilist.co/anime/816",
+    "https://anime-planet.com/anime/amazing-nurse-nanako",
+    "https://anisearch.com/anime/2726",
+    "https://kitsu.io/anime/723",
+    "https://livechart.me/anime/8620",
+    "https://myanimelist.net/anime/816",
+    "https://notify.moe/anime/y2fAcKmiR"
+  ],
+  "synopsis": {
+    "text": "Pentagon's secret research facility, Ogami Hospital, is home to a unique nurse, Nanako. She may not be the sharpest tool in the shed, but her striking appearance and unwavering dedication to her work make her the center of attention. As an apprentice to the brilliant young Dr. Kouji, Nanako finds herself constantly targeted by various factions, leaving her questioning her past actions.\n\nUnbeknownst to Nanako, her past holds secrets that only Dr. Kouji and his family are privy to. Living in a mansion on a military base, Nanako tirelessly maintains the household and caters to its eccentric inhabitants, which include two martial arts masters, an actual old witch, and the mad scientist, Dr. Kouji. Threatened with being the subject of Dr. Kouji's experiments, Nanako is also forced to undergo rigorous strength and endurance training.\n\nThe hospital serves as a front for top-secret genetic engineering research, attracting the interest of powerful forces in the military and the church. Both entities have their own mysterious goals and keep a close eye on Dr. Kouji's work. As chaos unfolds and Nanako often finds herself in the thick of it, one can't help but wonder if she is truly as dim-witted as she appears or if there's more to her than meets the eye. With the military and the church eagerly awaiting the results of Dr. Kouji's experiment on Nanako, the stage is set for an intriguing and suspenseful tale.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1afccef2abb04521",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.71405159466384,
+    "arithmeticGeometricMean": 5.705774253339737,
+    "median": 5.62,
+    "hash": "1afccef2abb04521",
+    "lastUpdate": "2024-05-09"
+  }
+}

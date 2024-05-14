@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16437",
+    "https://anilist.co/anime/122689",
+    "https://anime-planet.com/anime/wan-jie-xian-zong-4th-season",
+    "https://anisearch.com/anime/16152",
+    "https://kitsu.io/anime/43892",
+    "https://livechart.me/anime/10272",
+    "https://myanimelist.net/anime/42898",
+    "https://notify.moe/anime/k8aLZXcGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0cea8332a372f408",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.077927272727273,
+    "arithmeticGeometricMean": 7.070447220419036,
+    "median": 6.71,
+    "hash": "0cea8332a372f408",
+    "lastUpdate": "2024-05-10"
+  }
+}

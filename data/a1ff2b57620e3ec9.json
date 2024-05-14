@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11063",
+    "https://anilist.co/anime/174844",
+    "https://anime-planet.com/anime/sore-ike-anpanman-mija-to-mahou-no-lamp",
+    "https://anisearch.com/anime/10200",
+    "https://kitsu.io/anime/10538",
+    "https://livechart.me/anime/1397",
+    "https://myanimelist.net/anime/29901",
+    "https://notify.moe/anime/yueUtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a1ff2b57620e3ec9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.221272727272726,
+    "arithmeticGeometricMean": 6.190343211300248,
+    "median": 6.279545454545454,
+    "hash": "a1ff2b57620e3ec9",
+    "lastUpdate": "2024-05-10"
+  }
+}

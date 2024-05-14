@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15774",
+    "https://anilist.co/anime/124858",
+    "https://anime-planet.com/anime/moriarty-the-patriot-2nd-season",
+    "https://anisearch.com/anime/15620",
+    "https://kitsu.io/anime/43708",
+    "https://livechart.me/anime/10179",
+    "https://myanimelist.net/anime/43325",
+    "https://notify.moe/anime/eoUYsF5Mg"
+  ],
+  "synopsis": {
+    "text": "Second part of the anime \"Moriarty the Patriot,\" set in the late 19th century, continues the story of William James Moriarty and his brothers as they strive to overthrow the British Empire's unjust system. With the help of new allies and against new enemies, they aim to bring about a revolution through crime. As the waves of crime rise, every new case and person involved can have a significant impact on the Moriarty's grand plan. Meanwhile, the great detective Sherlock Holmes and his partner John H. Watson are hot on their trail, determined to put an end to their criminal activities. A mysterious woman named Irene Adler becomes entangled in their cat-and-mouse game, holding classified documents that could shake the very foundations of the British Empire. As the Moriarty brothers and Sherlock Holmes clash, Irene must navigate the dangerous waters to save herself and prevent her assassination.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c6e43b8c169cc30f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.135479591836734,
+    "arithmeticGeometricMean": 8.129906336567622,
+    "median": 8.285918367346937,
+    "hash": "c6e43b8c169cc30f",
+    "lastUpdate": "2024-05-10"
+  }
+}

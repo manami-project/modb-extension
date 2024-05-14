@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7172",
+    "https://anime-planet.com/anime/shisei-sasshin",
+    "https://anisearch.com/anime/9392",
+    "https://kitsu.io/anime/9589",
+    "https://myanimelist.net/anime/22995",
+    "https://notify.moe/anime/Z0ZLtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "452a9a9306eaa3ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.0561224489795915,
+    "arithmeticGeometricMean": 4.000253396454777,
+    "median": 4.0561224489795915,
+    "hash": "452a9a9306eaa3ac",
+    "lastUpdate": "2024-05-08"
+  }
+}

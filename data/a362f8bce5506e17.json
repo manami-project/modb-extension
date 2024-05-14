@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2088",
+    "https://anilist.co/anime/727",
+    "https://anime-planet.com/anime/goldfish-warning",
+    "https://anisearch.com/anime/1348",
+    "https://kitsu.io/anime/655",
+    "https://livechart.me/anime/8780",
+    "https://myanimelist.net/anime/727",
+    "https://notify.moe/anime/7OOA5KmmR"
+  ],
+  "synopsis": {
+    "text": "Though born into opulence and attending the prestigious Tokai no Gakuen, Chitose Fujinomiya's life takes a dramatic turn when her father's death leaves her penniless and burdened with debt. With only a pink goldfish, Gyopi, as a keepsake from her father, she finds herself in the humble Inaka no Chugakko, a countryside school where farm animals roam freely and students, despite their scarcity, are generous in spirit. Initially repulsed by the unfamiliar poverty, Chitose learns to adapt to her new environment with the help of her newfound friends. However, when she discovers that Gyopi is worth a fortune and that her relatives had deceived her about her inheritance, she decides to use her regained wealth not to return to her old life, but to transform the impoverished school. With her sights set on outshining her former academy, Chitose embarks on a challenging journey filled with unexpected obstacles and rivalries.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a362f8bce5506e17",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.889325735489001,
+    "arithmeticGeometricMean": 6.877304697471643,
+    "median": 6.8,
+    "hash": "a362f8bce5506e17",
+    "lastUpdate": "2024-05-09"
+  }
+}

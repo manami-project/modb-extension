@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/170484",
+    "https://anime-planet.com/anime/neru-dappou-rokku",
+    "https://kitsu.io/anime/48101",
+    "https://myanimelist.net/anime/41241"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "44123981f45e3ef7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.660636363636364,
+    "arithmeticGeometricMean": 6.660469692480202,
+    "median": 6.660636363636364,
+    "hash": "44123981f45e3ef7",
+    "lastUpdate": "2024-05-07"
+  }
+}

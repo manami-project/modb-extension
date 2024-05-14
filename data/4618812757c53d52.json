@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2281",
+    "https://anilist.co/anime/8524",
+    "https://anime-planet.com/anime/the-kabocha-wine-nita-no-aijou-monogatari",
+    "https://anisearch.com/anime/125",
+    "https://kitsu.io/anime/5373",
+    "https://livechart.me/anime/12139",
+    "https://myanimelist.net/anime/8524",
+    "https://notify.moe/anime/WJbitFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4618812757c53d52",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.965506493506493,
+    "arithmeticGeometricMean": 5.95022096238824,
+    "median": 5.96409090909091,
+    "hash": "4618812757c53d52",
+    "lastUpdate": "2024-05-10"
+  }
+}

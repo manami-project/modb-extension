@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/10471",
+    "https://anime-planet.com/anime/ie-naki-ko-remi-specials",
+    "https://kitsu.io/anime/6198",
+    "https://livechart.me/anime/8051",
+    "https://myanimelist.net/anime/10471",
+    "https://notify.moe/anime/00WVpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47012276f95d3354",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.091745454545455,
+    "arithmeticGeometricMean": 7.073810312936781,
+    "median": 7.306,
+    "hash": "47012276f95d3354",
+    "lastUpdate": "2024-05-06"
+  }
+}

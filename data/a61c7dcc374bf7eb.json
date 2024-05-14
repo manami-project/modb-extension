@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3225",
+    "https://anilist.co/anime/413",
+    "https://anime-planet.com/anime/mars-of-destruction",
+    "https://anisearch.com/anime/288",
+    "https://kitsu.io/anime/378",
+    "https://livechart.me/anime/4009",
+    "https://myanimelist.net/anime/413",
+    "https://notify.moe/anime/S_625FmiR"
+  ],
+  "synopsis": {
+    "text": "Now here is safe following the catastrophic return of a Mars exploration vessel, which leaves behind an alien DNA trail that transforms humans into monstrous beings known as Ancients. These formidable creatures wreak havoc across Tokyo, prompting the formation of the AAST—a specialized task force dedicated to combating the Ancients. In the face of conventional weapons' ineffectiveness, hope arises in the form of the MARS suit, a powerful armor that only a select few with compatible DNA can wield. Among these chosen individuals is Takeru Hinata, a conflicted teenager who, alongside three skilled girls, must confront the Ancients and grapple with the revelation that humans might be Earth's true invaders. As they navigate personal demons and global chaos, the team's mission to protect humanity and uncover the truth about the Ancients unfolds in a gripping tale of courage and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a61c7dcc374bf7eb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 2.852144569715998,
+    "arithmeticGeometricMean": 2.7427438874885333,
+    "median": 2.441326530612245,
+    "hash": "a61c7dcc374bf7eb",
+    "lastUpdate": "2024-05-09"
+  }
+}

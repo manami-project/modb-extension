@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5212",
+    "https://anilist.co/anime/2603",
+    "https://anime-planet.com/anime/mushi-uta",
+    "https://anisearch.com/anime/4294",
+    "https://kitsu.io/anime/2367",
+    "https://livechart.me/anime/5127",
+    "https://myanimelist.net/anime/2603",
+    "https://notify.moe/anime/ZHKscKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8ef804e158187c63",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.41943846629561,
+    "arithmeticGeometricMean": 6.41281460746775,
+    "median": 6.452,
+    "hash": "8ef804e158187c63",
+    "lastUpdate": "2024-05-09"
+  }
+}

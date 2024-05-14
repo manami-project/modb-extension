@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4652",
+    "https://anilist.co/anime/2075",
+    "https://anime-planet.com/anime/kiko-chan-smile",
+    "https://anisearch.com/anime/3772",
+    "https://kitsu.io/anime/1874",
+    "https://myanimelist.net/anime/2075",
+    "https://notify.moe/anime/g7BY5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e934521454c96cef",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0367687074829925,
+    "arithmeticGeometricMean": 5.989113204196516,
+    "median": 6.09,
+    "hash": "e934521454c96cef",
+    "lastUpdate": "2024-05-08"
+  }
+}

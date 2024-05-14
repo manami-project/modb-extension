@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/hiroya-ozaki-glory-days",
+    "https://anisearch.com/anime/13016",
+    "https://kitsu.io/anime/13778",
+    "https://notify.moe/anime/thIShKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e148021c8530755a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.9501212121212115,
+    "arithmeticGeometricMean": 6.941255078629495,
+    "median": 6.8293333333333335,
+    "hash": "e148021c8530755a",
+    "lastUpdate": "2024-05-07"
+  }
+}

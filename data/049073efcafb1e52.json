@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4563",
+    "https://anilist.co/anime/1535",
+    "https://anime-planet.com/anime/death-note",
+    "https://anisearch.com/anime/3633",
+    "https://kitsu.io/anime/1376",
+    "https://livechart.me/anime/3437",
+    "https://myanimelist.net/anime/1535",
+    "https://notify.moe/anime/0-A-5Fimg"
+  ],
+  "synopsis": {
+    "text": "Not ebook of the macabre falls into the hands of Light Yagami, a brilliant high school student disillusioned with the decaying world around him. The Death Note, as it's called, carries a chilling promise: write a name within its pages and that person will meet an untimely end. Initially skeptical, Light soon discovers the notebook's sinister power, leading him to embark on a mission to eradicate all criminals and create a utopia free from corruption. Accompanied by Ryuk, the death god who dropped the Death Note out of sheer boredom, Light's crusade attracts the attention of the enigmatic detective known only as L. As the bodies pile up, the tension escalates, and the battle of wits between Light and L becomes a thrilling game of cat and mouse, with the fate of the world hanging in the balance. Will Light's vision of a perfect society prevail, or will L unmask the mysterious figure known as Kira and put an end to the carnage?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "049073efcafb1e52",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.655917642188147,
+    "arithmeticGeometricMean": 8.65518822146276,
+    "median": 8.617492461145904,
+    "hash": "049073efcafb1e52",
+    "lastUpdate": "2024-05-09"
+  }
+}

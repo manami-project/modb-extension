@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/ducks-little-adventure",
+    "https://kitsu.io/anime/47873",
+    "https://myanimelist.net/anime/55920",
+    "https://notify.moe/anime/k4UVrDRIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41839b011048b1dd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.128666666666667,
+    "arithmeticGeometricMean": 6.1138268111131016,
+    "median": 5.93,
+    "hash": "41839b011048b1dd",
+    "lastUpdate": "2024-05-05"
+  }
+}

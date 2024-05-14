@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2113",
+    "https://anilist.co/anime/2062",
+    "https://anime-planet.com/anime/gall-force-3-stardust-war",
+    "https://anisearch.com/anime/2923",
+    "https://kitsu.io/anime/1861",
+    "https://livechart.me/anime/7735",
+    "https://myanimelist.net/anime/2062",
+    "https://notify.moe/anime/VYbY5Fiig"
+  ],
+  "synopsis": {
+    "text": "Narrowly escaping the obliteration of their home worlds, the all-female Solenoids and the alien Paranoids are locked in a relentless interstellar war, hurtling towards the distant solar system of Sigma Narse. With the fate of both civilizations hanging in the balance, the surviving Solenoids, led by the valiant Lufy, join forces with the enigmatic Captain Catty Nebulart. A visionary inventor, Nebulart has devised a colossal planetary machine capable of breathing life into a barren world, potentially ending the devastating conflict. As the race to complete the machine intensifies, the battle lines are redrawn, and the ancient war reaches its explosive crescendo. In this thrilling cosmic showdown, can Lufy and her allies triumph against the odds and save their species from the brink of extinction? The stage is set for a breathtaking finale filled with blazing cannons, shattered planets, and the ultimate test of unity and determination.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d2a5c962c3c2be3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.1952721971905635,
+    "arithmeticGeometricMean": 6.182572823667955,
+    "median": 6.358,
+    "hash": "4d2a5c962c3c2be3",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/40meterp-heartbreak-monochrome",
+    "https://kitsu.io/anime/13347",
+    "https://notify.moe/anime/MXp72Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "58c62fc46ae2fba4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.220000000000001,
+    "arithmeticGeometricMean": 5.217680704402541,
+    "median": 5.220000000000001,
+    "hash": "58c62fc46ae2fba4",
+    "lastUpdate": "2024-05-05"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13682",
+    "https://anilist.co/anime/103388",
+    "https://anime-planet.com/anime/swimming-to-sea",
+    "https://anisearch.com/anime/9548",
+    "https://kitsu.io/anime/12394",
+    "https://myanimelist.net/anime/33238",
+    "https://notify.moe/anime/xpvzhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9d8378465d1b2d33",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.821666048237478,
+    "arithmeticGeometricMean": 6.784182575110915,
+    "median": 6.653181818181818,
+    "hash": "9d8378465d1b2d33",
+    "lastUpdate": "2024-05-08"
+  }
+}

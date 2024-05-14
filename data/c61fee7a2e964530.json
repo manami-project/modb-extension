@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11235",
+    "https://anilist.co/anime/103407",
+    "https://anime-planet.com/anime/the-baby-birds-of-norman-mclaren",
+    "https://anisearch.com/anime/10605",
+    "https://kitsu.io/anime/10088",
+    "https://myanimelist.net/anime/28765",
+    "https://notify.moe/anime/Ao4stKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c61fee7a2e964530",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.166463821892393,
+    "arithmeticGeometricMean": 5.126769489218929,
+    "median": 5.26,
+    "hash": "c61fee7a2e964530",
+    "lastUpdate": "2024-05-08"
+  }
+}

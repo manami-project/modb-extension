@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5458",
+    "https://anilist.co/anime/3390",
+    "https://anime-planet.com/anime/amuri-in-star-ocean",
+    "https://anisearch.com/anime/4445",
+    "https://kitsu.io/anime/2977",
+    "https://livechart.me/anime/7110",
+    "https://myanimelist.net/anime/3390",
+    "https://notify.moe/anime/RG-w5Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b351b49fedb93886",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.643161586712607,
+    "arithmeticGeometricMean": 5.634554419483819,
+    "median": 5.636363636363637,
+    "hash": "b351b49fedb93886",
+    "lastUpdate": "2024-05-09"
+  }
+}

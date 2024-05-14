@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2995",
+    "https://anilist.co/anime/1008",
+    "https://anime-planet.com/anime/ranma-special",
+    "https://anisearch.com/anime/988",
+    "https://kitsu.io/anime/898",
+    "https://livechart.me/anime/6728",
+    "https://myanimelist.net/anime/1008",
+    "https://notify.moe/anime/YBoJ5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c9a16a2857705e0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.472308869701727,
+    "arithmeticGeometricMean": 7.470766139276828,
+    "median": 7.486818181818181,
+    "hash": "3c9a16a2857705e0",
+    "lastUpdate": "2024-05-09"
+  }
+}

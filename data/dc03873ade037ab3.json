@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103016",
+    "https://anime-planet.com/anime/yaseruyagi",
+    "https://kitsu.io/anime/12858",
+    "https://myanimelist.net/anime/32644",
+    "https://notify.moe/anime/MtdWhKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc03873ade037ab3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.056590909090909,
+    "arithmeticGeometricMean": 5.052107865886626,
+    "median": 5.055,
+    "hash": "dc03873ade037ab3",
+    "lastUpdate": "2024-05-07"
+  }
+}

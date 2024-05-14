@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/141328",
+    "https://anime-planet.com/anime/snails-house-supergirl",
+    "https://kitsu.io/anime/45478",
+    "https://myanimelist.net/anime/50337"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "447cfd9d206e94f3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.496121212121213,
+    "arithmeticGeometricMean": 6.494158007882507,
+    "median": 6.636363636363637,
+    "hash": "447cfd9d206e94f3",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14330",
+    "https://anime-planet.com/anime/hajimete-no-eigo-sekai-meisaku-douwa",
+    "https://anisearch.com/anime/14119",
+    "https://kitsu.io/anime/12345",
+    "https://myanimelist.net/anime/33349",
+    "https://notify.moe/anime/axWkhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b33045a9802fdbbd",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.663265306122449,
+    "arithmeticGeometricMean": 5.643761500998084,
+    "median": 5.663265306122449,
+    "hash": "b33045a9802fdbbd",
+    "lastUpdate": "2024-05-08"
+  }
+}

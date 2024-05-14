@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6948",
+    "https://anilist.co/anime/126204",
+    "https://anime-planet.com/anime/chibikuro-sambo-no-tora-taiji",
+    "https://anisearch.com/anime/11949",
+    "https://kitsu.io/anime/10559",
+    "https://myanimelist.net/anime/29947",
+    "https://notify.moe/anime/rvmQtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8ce50c76b8cb7a85",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.946505875077303,
+    "arithmeticGeometricMean": 3.9086101643084543,
+    "median": 3.7272727272727275,
+    "hash": "8ce50c76b8cb7a85",
+    "lastUpdate": "2024-05-08"
+  }
+}

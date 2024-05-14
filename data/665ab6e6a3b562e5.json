@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15914",
+    "https://anilist.co/anime/127230",
+    "https://anime-planet.com/anime/chainsaw-man",
+    "https://anisearch.com/anime/15808",
+    "https://kitsu.io/anime/43806",
+    "https://livechart.me/anime/10257",
+    "https://myanimelist.net/anime/44511",
+    "https://notify.moe/anime/pRTt7J1Gg"
+  ],
+  "synopsis": {
+    "text": "Denji, a young man burdened by his father's crushing debt, finds solace in the company of his peculiar pet, Pochita, a Chainsaw Devil. To stay afloat and pay off his debt, Denji is coerced into the dangerous world of demon hunting, working for the Yakuza. Despite his precarious circumstances, Denji clings to his dreams of a peaceful life filled with good food and a loving partner. However, his world is shattered when he is betrayed by his employers, resulting in his untimely death. But fate has other plans for Denji as Pochita merges with him, transforming him into a half-human, half-devil entity known as the Chainsaw Man. With his newfound powers, Denji becomes a formidable demon hunter, attracting the attention of a secretive organization that seeks to exploit his abilities for their own purposes. As he navigates this treacherous new world, Denji remains steadfast in his pursuit of a simple, content life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "665ab6e6a3b562e5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.488507246123149,
+    "arithmeticGeometricMean": 8.486877010959066,
+    "median": 8.562272727272727,
+    "hash": "665ab6e6a3b562e5",
+    "lastUpdate": "2024-05-09"
+  }
+}

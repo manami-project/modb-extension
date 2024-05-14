@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/4455",
+    "https://myanimelist.net/anime/4017"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5682e941b4c3306f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.28969387755102,
+    "arithmeticGeometricMean": 4.23960500240759,
+    "median": 4.28969387755102,
+    "hash": "5682e941b4c3306f",
+    "lastUpdate": "2024-05-07"
+  }
+}

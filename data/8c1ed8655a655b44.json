@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8708",
+    "https://anilist.co/anime/8925",
+    "https://anime-planet.com/anime/kobe-to-watashi",
+    "https://anisearch.com/anime/6515",
+    "https://kitsu.io/anime/5536",
+    "https://myanimelist.net/anime/8925",
+    "https://notify.moe/anime/lsHZtKmmg"
+  ],
+  "synopsis": {
+    "text": "This brief tale introduces us to Ai, a college student who embarks on an unplanned journey to Kobe, Japan, finding herself unsure of what to explore. Her fortune changes when she encounters Kazami Kei, an extraordinary figure donning a black tracksuit and resembling a giant chicken. Despite his busy life, Kazami takes it upon himself to show Ai the wonders of Kobe, from the exhilarating Harborland amusement park to the unique rotating cafés, and the captivating Nunobiki Falls. As they traverse the city together, Kazami hopes to reveal to Ai the hidden gems that make Kobe truly special.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8c1ed8655a655b44",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.60648573195512,
+    "arithmeticGeometricMean": 4.594490039243055,
+    "median": 4.54,
+    "hash": "8c1ed8655a655b44",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2795",
+    "https://anilist.co/anime/2003",
+    "https://anime-planet.com/anime/the-tokyo-project",
+    "https://anisearch.com/anime/676",
+    "https://kitsu.io/anime/1803",
+    "https://livechart.me/anime/8807",
+    "https://myanimelist.net/anime/2003",
+    "https://notify.moe/anime/GQOYcKmmR"
+  ],
+  "synopsis": {
+    "text": "In the blink of an eye, Junbei, an ordinary student, finds his mundane life turned upside down when he stumbles upon a floppy disk at a rock concert, handed over by a gravely wounded man. The disk, a treasure trove of top-secret data, holds the blueprint for an advanced weapon control system, making it a highly sought-after prize among nefarious factions. The information it harbors is so sensitive that it could potentially implicate high-ranking politicians and the powerful Yotsuboshi munitions company.\n\nAs a member of the Rutz Detective Agency, Junbei, alongside his fellow detectives Akira, Keiko, and Kumiko, embarks on a perilous journey to find the deceased man's ally. In doing so, they inadvertently become the targets of political machinations and military espionage. With their lives on the line, the team must navigate through a web of assassination attempts, rampaging machinery, and ruthless kidnappers.\n\nAs the clock ticks down, can the Rutz Detective Agency thwart the sinister plot and prevent catastrophic consequences? Join them in this thrilling race against time, where danger lurks at every corner and the stakes couldn't be higher!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d19e117668967160",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.074559766763849,
+    "arithmeticGeometricMean": 5.03238302044106,
+    "median": 5.2,
+    "hash": "d19e117668967160",
+    "lastUpdate": "2024-05-10"
+  }
+}

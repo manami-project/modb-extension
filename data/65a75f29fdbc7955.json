@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7517",
+    "https://anime-planet.com/anime/suteki-sakura-mama",
+    "https://anisearch.com/anime/3078",
+    "https://myanimelist.net/anime/57591"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "65a75f29fdbc7955",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 2.6530612244897958,
+    "arithmeticGeometricMean": 2.6530612244897958,
+    "median": 2.6530612244897958,
+    "hash": "65a75f29fdbc7955",
+    "lastUpdate": "2024-05-07"
+  }
+}

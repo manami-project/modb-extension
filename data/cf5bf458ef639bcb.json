@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15690",
+    "https://anilist.co/anime/122808",
+    "https://anime-planet.com/anime/princess-connect-re-dive-season-2",
+    "https://anisearch.com/anime/15500",
+    "https://kitsu.io/anime/43600",
+    "https://livechart.me/anime/10117",
+    "https://myanimelist.net/anime/42670",
+    "https://notify.moe/anime/PmasDXIMR"
+  ],
+  "synopsis": {
+    "text": "Yuuki’s journey unfolds in the picturesque realm of Astraea, a land gently caressed by the wind. Awakening with no recollection of his past, he crosses paths with a dedicated guide named Kokkoro, a hungry swordswoman named Pecorine, and a cat-eared sorceress with a prickly demeanor named Karyl. Destiny intertwines their paths, leading to the formation of the 'Gourmet Guild.' Their quest for delectable cuisine marks the beginning of an exciting adventure.\n\nAs the Gourmet Guild, comprising Yuuki, Kokkoro, Pecorine, and Karyl, continues their gastronomic expedition, they strive to discover every scrumptious dish in existence. Yet, as their journey progresses, enigmas surrounding Yuuki's memories, Karyl's loyalties, and Pecorine's lineage begin to converge, hinting at the truth that underpins the very essence of their world.\n\n\"Princess Connect! Re:Dive\" resumes its second season, following Yuuki's culinary adventures in Astraea. Alongside his Gourmet Guild companions, Kokkoro, Pecorine, and Karyl, he embarks on a quest to savor a myriad of delicacies, from crepes to other tantalizing dishes. However, the guild's heroes must once again confront various challenges that stand in their way.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cf5bf458ef639bcb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.719382164827654,
+    "arithmeticGeometricMean": 7.714278755347987,
+    "median": 7.844545454545454,
+    "hash": "cf5bf458ef639bcb",
+    "lastUpdate": "2024-05-09"
+  }
+}

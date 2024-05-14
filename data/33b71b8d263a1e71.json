@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7257",
+    "https://anilist.co/anime/7695",
+    "https://anime-planet.com/anime/pokemon-zoroark-master-of-illusions",
+    "https://anisearch.com/anime/5867",
+    "https://kitsu.io/anime/5083",
+    "https://livechart.me/anime/4347",
+    "https://myanimelist.net/anime/7695",
+    "https://notify.moe/anime/htKkpFimR"
+  ],
+  "synopsis": {
+    "text": "Ash and his friends are en route to Crown City for the highly anticipated Pokémon Baccer World Cup, but their journey takes an unexpected turn when they encounter a mysterious Pokémon named Zorua. Meanwhile, the sinister Grings Kodai has captured Zorua's mother, Zoroark, and plans to use her shapeshifting abilities to wreak havoc on the city. As the Legendary Pokémon Raikou, Entei, and Suicune appear and begin causing chaos, it's up to Ash and his friends to uncover the truth behind these strange events. With the help of the mythical Pokémon Celebi, can they stop Grings Kodai's evil plan and save Crown City from destruction? The fate of the city and the fabric of time itself hang in the balance in this thrilling Pokémon adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33b71b8d263a1e71",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.864089870063372,
+    "arithmeticGeometricMean": 6.860438028361479,
+    "median": 6.889545454545455,
+    "hash": "33b71b8d263a1e71",
+    "lastUpdate": "2024-05-09"
+  }
+}

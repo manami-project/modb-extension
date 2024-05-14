@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5260",
+    "https://anilist.co/anime/177069",
+    "https://anime-planet.com/anime/onimaru-senjou-ni-kakeru-itsutsu-no-seishun",
+    "https://anisearch.com/anime/4323",
+    "https://kitsu.io/anime/9765",
+    "https://myanimelist.net/anime/23819",
+    "https://notify.moe/anime/s9wLtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8ff8c87e30f1f512",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1158790352504635,
+    "arithmeticGeometricMean": 5.048965228025774,
+    "median": 4.0,
+    "hash": "8ff8c87e30f1f512",
+    "lastUpdate": "2024-05-08"
+  }
+}

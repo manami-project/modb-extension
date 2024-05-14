@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9039",
+    "https://anilist.co/anime/13553",
+    "https://anime-planet.com/anime/bakusou-circuit-roman-twin",
+    "https://anisearch.com/anime/1497",
+    "https://kitsu.io/anime/6992",
+    "https://myanimelist.net/anime/13553",
+    "https://notify.moe/anime/81-vtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "38f101fa0f3bd58c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.485615337043909,
+    "arithmeticGeometricMean": 5.460113134797077,
+    "median": 5.387755102040817,
+    "hash": "38f101fa0f3bd58c",
+    "lastUpdate": "2024-05-08"
+  }
+}

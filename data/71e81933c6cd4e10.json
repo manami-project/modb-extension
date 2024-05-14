@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12929",
+    "https://anilist.co/anime/102522",
+    "https://anime-planet.com/anime/yubikiri",
+    "https://kitsu.io/anime/10700",
+    "https://myanimelist.net/anime/30169",
+    "https://notify.moe/anime/WafwpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "71e81933c6cd4e10",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.138145454545454,
+    "arithmeticGeometricMean": 5.106362580454321,
+    "median": 4.5,
+    "hash": "71e81933c6cd4e10",
+    "lastUpdate": "2024-05-07"
+  }
+}

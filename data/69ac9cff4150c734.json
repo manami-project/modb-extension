@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/suntory-x-weathering-with-you-cms"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "69ac9cff4150c734",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.206000000000001,
+    "arithmeticGeometricMean": 6.206000000000001,
+    "median": 6.206000000000001,
+    "hash": "69ac9cff4150c734",
+    "lastUpdate": "2024-05-08"
+  }
+}

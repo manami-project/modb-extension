@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9856",
+    "https://anilist.co/anime/18133",
+    "https://anime-planet.com/anime/ikeike-momon-chan",
+    "https://anisearch.com/anime/8031",
+    "https://kitsu.io/anime/8586",
+    "https://myanimelist.net/anime/18133",
+    "https://notify.moe/anime/UX60pFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "008a3fc5e0216182",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.231788497217069,
+    "arithmeticGeometricMean": 5.194368737762643,
+    "median": 5.43,
+    "hash": "008a3fc5e0216182",
+    "lastUpdate": "2024-05-08"
+  }
+}

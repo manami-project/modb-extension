@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3617",
+    "https://anilist.co/anime/8181",
+    "https://anime-planet.com/anime/adachigahara",
+    "https://anisearch.com/anime/2315",
+    "https://kitsu.io/anime/5230",
+    "https://livechart.me/anime/7779",
+    "https://myanimelist.net/anime/8181",
+    "https://notify.moe/anime/YNektFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b7810eb92d26e1dc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.929226080042406,
+    "arithmeticGeometricMean": 5.917704763713362,
+    "median": 5.89,
+    "hash": "b7810eb92d26e1dc",
+    "lastUpdate": "2024-05-08"
+  }
+}

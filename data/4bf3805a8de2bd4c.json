@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15418",
+    "https://anilist.co/anime/116258",
+    "https://anime-planet.com/anime/norimono-man-mobile-land-no-car-kun",
+    "https://anisearch.com/anime/15040",
+    "https://kitsu.io/anime/43036",
+    "https://livechart.me/anime/9817",
+    "https://myanimelist.net/anime/41384"
+  ],
+  "synopsis": {
+    "text": "Mobile Land Island, a unique place inhabited by a variety of vehicles, each with its own personality, is the setting for the adventures of Car-kun, a vibrant red sports car. Working as a diligent delivery man, Car-kun traverses the island, meeting and interacting with the diverse inhabitants while adhering strictly to traffic rules. However, his daily tasks are often disrupted by the mischievous Sabibi, who has a knack for causing chaos and attempting to turn everyone into rust. Despite the challenges, Car-kun remains committed to his deliveries, offering viewers a delightful glimpse into the extraordinary lives of the vehicles residing on Mobile Land Island.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4bf3805a8de2bd4c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.758812615955472,
+    "arithmeticGeometricMean": 6.750058786953295,
+    "median": 6.758812615955472,
+    "hash": "4bf3805a8de2bd4c",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/252",
+    "https://anilist.co/anime/93",
+    "https://anime-planet.com/anime/mobile-suit-gundam-seed",
+    "https://anisearch.com/anime/1515",
+    "https://kitsu.io/anime/72",
+    "https://livechart.me/anime/3933",
+    "https://myanimelist.net/anime/93",
+    "https://notify.moe/anime/qwhpcKiig"
+  ],
+  "synopsis": {
+    "text": "Coordinator Kira Yamato, a university student, finds his life upended when the neutral space colony Heliopolis is attacked by ZAFT, a military organization of genetically enhanced humans like himself. The objective of the attack is to seize five cutting-edge mobile suits, known as Gundams, developed by the Earth Alliance. In the ensuing chaos, Kira manages to take control of the last remaining Gundam, the Strike, and uses it to defend his friends.\n\nAs the battle unfolds, Kira encounters his childhood friend, Athrun Zala, who is a part of the ZAFT forces. Torn between his loyalty to his friends and the pain of fighting against his own kind, Kira joins the Earth Alliance aboard the Archangel, marking the beginning of his journey into the harsh realities of war. The conflict between the Coordinators and the Naturals (unaltered humans living on Earth) intensifies, forcing Kira to navigate the complexities of a war driven by individual beliefs and age-old hatred.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "538a7d63e9b5a75b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.846022286076293,
+    "arithmeticGeometricMean": 7.843494744485326,
+    "median": 7.785454545454545,
+    "hash": "538a7d63e9b5a75b",
+    "lastUpdate": "2024-05-09"
+  }
+}

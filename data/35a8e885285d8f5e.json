@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15360",
+    "https://anilist.co/anime/114604",
+    "https://anime-planet.com/anime/nizhuan-ciyuan-ai-jueqi",
+    "https://anisearch.com/anime/18742",
+    "https://kitsu.io/anime/43713",
+    "https://myanimelist.net/anime/40823"
+  ],
+  "synopsis": {
+    "text": "Shi Jiajie and his best friend, Xia Lei, are a dynamic duo in the world of online virtual reality gaming, with Jiajie playing and Lei creating hacks to earn a living. When the threat of Lei being sent abroad for studies looms, Jiajie sets his sights on winning the prestigious 'God Street Competition' in the immersive game, 'Epoch'. A mysterious package containing an access device to Epoch propels Jiajie into the competition, only for Lei to discover the game's impenetrable defenses against hacking and Jiajie's inability to log out or hear him. As Jiajie delves deeper into Epoch, he finds himself entangled in an unfathomable pursuit, marking the beginning of a complex conspiracy in this captivating, full-consciousness gaming experience.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35a8e885285d8f5e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.4514545454545456,
+    "arithmeticGeometricMean": 6.440521644707164,
+    "median": 6.265909090909091,
+    "hash": "35a8e885285d8f5e",
+    "lastUpdate": "2024-05-08"
+  }
+}

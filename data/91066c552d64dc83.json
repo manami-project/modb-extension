@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3619",
+    "https://anime-planet.com/anime/midori",
+    "https://anisearch.com/anime/1710",
+    "https://kitsu.io/anime/2696",
+    "https://livechart.me/anime/7758",
+    "https://myanimelist.net/anime/2981",
+    "https://notify.moe/anime/mo-8cFiig"
+  ],
+  "synopsis": {
+    "text": "Wonder Masamitsu, a captivating illusionist, steps into the grim world of Aka Neko Za, a traveling freak show nestled in the heart of 1920s Tokyo. Among the troupe's grotesque performers and vulgar displays, he encounters Midori, a 12-year-old orphan forced into a life of servitude and abuse. Once a cheerful elementary student, Midori's life takes a tragic turn when her mother falls ill and eventually passes away. Left with no other options, she resorts to selling camellias in the city slums until a deceitful stranger lures her into the circus life.\n\nAs Midori struggles to adapt to her new surroundings, she finds solace in Masamitsu, who is drawn to her beauty and innocence. He takes her under his wing, and their bond begins to blossom amidst the dark and twisted world of the circus. However, as the pair's love grows, so do the challenges they must face. In a life filled with despair and hardship, Midori and Masamitsu must cling to hope and resilience to overcome the darkness that threatens to consume them. Will their love prevail, or will the cruel world of Aka Neko Za ultimately tear them apart?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "91066c552d64dc83",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.215018452342872,
+    "arithmeticGeometricMean": 5.183021017744919,
+    "median": 4.820408163265306,
+    "hash": "91066c552d64dc83",
+    "lastUpdate": "2024-05-09"
+  }
+}

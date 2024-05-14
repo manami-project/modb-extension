@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9512",
+    "https://anilist.co/anime/15979",
+    "https://anime-planet.com/anime/eureka-seven-ao-aratanari-fukaki-ao",
+    "https://anisearch.com/anime/8196",
+    "https://kitsu.io/anime/7352",
+    "https://livechart.me/anime/6111",
+    "https://myanimelist.net/anime/15979",
+    "https://notify.moe/anime/TKOFpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e4be0a0b2fda53b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.60831592896899,
+    "arithmeticGeometricMean": 5.595818156867549,
+    "median": 5.75,
+    "hash": "9e4be0a0b2fda53b",
+    "lastUpdate": "2024-05-08"
+  }
+}

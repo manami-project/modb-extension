@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16618",
+    "https://anilist.co/anime/121467",
+    "https://anime-planet.com/anime/mo-dao-zu-shi-3",
+    "https://anisearch.com/anime/16483",
+    "https://kitsu.io/anime/43083",
+    "https://livechart.me/anime/9880",
+    "https://myanimelist.net/anime/40434",
+    "https://notify.moe/anime/LZhekZkGR"
+  ],
+  "synopsis": {
+    "text": "Mo Dao Zu Shi's thrilling third and final season takes viewers to the enigmatic Yi City, where Wei Wuxian and Lan Wangji delve deeper into the unsolved mysteries of the past. The duo's investigation into Xiao Xingchen's death leads them to encounter various clan members and uncover the dramatic events that transpired in the city.\n\nAs they traverse the desolate countryside, Wei Wuxian and Lan Wangji stumble upon a cryptic stone plaque marked 'Yi City.' The seemingly abandoned city holds the key to the mystery surrounding the cursed severed arm. However, the arrival of a mysterious cultivator propels them into a sinister plot that threatens the very foundation of the cultivation world.\n\nNew characters, such as A-Qing, Xiao Xingchen, and Xue Yang, emerge in this season, adding intrigue to the unfolding story. As Wei Wuxian and Lan Wangji work tirelessly to solve the mystery of the haunted arm, they must also confront suspicions from their friends and colleagues. With the world turning against them, the pair must clear Wei Wuxian's name and expose the true evil lurking within the cultivation world.\n\nJoin Wei Wuxian and Lan Wangji in this gripping finale as they race against time to uncover the truth, restore trust, and save the cultivation world from impending doom.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "734a08d3fa04bcac",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.398737940630799,
+    "arithmeticGeometricMean": 8.391092484644757,
+    "median": 8.408636363636365,
+    "hash": "734a08d3fa04bcac",
+    "lastUpdate": "2024-05-09"
+  }
+}

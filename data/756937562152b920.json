@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17457",
+    "https://anime-planet.com/anime/usagi",
+    "https://anisearch.com/anime/17425",
+    "https://kitsu.io/anime/47007",
+    "https://livechart.me/anime/11251",
+    "https://myanimelist.net/anime/52226"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "756937562152b920",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.122721088435374,
+    "arithmeticGeometricMean": 6.10527839306632,
+    "median": 5.96,
+    "hash": "756937562152b920",
+    "lastUpdate": "2024-05-10"
+  }
+}

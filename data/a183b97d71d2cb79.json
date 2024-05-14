@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2",
+    "https://anilist.co/anime/300",
+    "https://anime-planet.com/anime/3x3-eyes",
+    "https://anisearch.com/anime/2747",
+    "https://kitsu.io/anime/7749",
+    "https://livechart.me/anime/5777",
+    "https://myanimelist.net/anime/300",
+    "https://notify.moe/anime/KGNtpKimR"
+  ],
+  "score": {
+    "arithmeticMean": 6.948826994434138,
+    "arithmeticGeometricMean": 6.944706075813314,
+    "median": 6.839489795918366,
+    "hash": "a183b97d71d2cb79",
+    "lastUpdate": "2024-05-08"
+  }
+}

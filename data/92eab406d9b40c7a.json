@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11790",
+    "https://anilist.co/anime/21426",
+    "https://anime-planet.com/anime/garo-movie-divine-flame",
+    "https://anisearch.com/anime/10979",
+    "https://kitsu.io/anime/10044",
+    "https://livechart.me/anime/1736",
+    "https://myanimelist.net/anime/28539",
+    "https://notify.moe/anime/02qPtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92eab406d9b40c7a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.5020530184101615,
+    "arithmeticGeometricMean": 7.500224795548755,
+    "median": 7.547727272727273,
+    "hash": "92eab406d9b40c7a",
+    "lastUpdate": "2024-05-09"
+  }
+}

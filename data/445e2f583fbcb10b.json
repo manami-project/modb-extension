@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7340",
+    "https://anilist.co/anime/20189",
+    "https://anime-planet.com/anime/my-son-goku",
+    "https://anisearch.com/anime/5619",
+    "https://kitsu.io/anime/8965",
+    "https://myanimelist.net/anime/20189",
+    "https://notify.moe/anime/VJPbpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "445e2f583fbcb10b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.67213048855906,
+    "arithmeticGeometricMean": 5.651598497970417,
+    "median": 5.563636363636364,
+    "hash": "445e2f583fbcb10b",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12850",
+    "https://anilist.co/anime/105443",
+    "https://anime-planet.com/anime/manga-ookami-wa-ookamida",
+    "https://anisearch.com/anime/12267",
+    "https://kitsu.io/anime/41523",
+    "https://myanimelist.net/anime/34957"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "880cc6376a84bd5b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.954983302411874,
+    "arithmeticGeometricMean": 4.943198131013734,
+    "median": 4.636734693877551,
+    "hash": "880cc6376a84bd5b",
+    "lastUpdate": "2024-05-08"
+  }
+}

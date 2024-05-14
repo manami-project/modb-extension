@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://kitsu.io/anime/8077",
+    "https://notify.moe/anime/AKU2pKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "460044c459e26a16",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.225732323232323,
+    "arithmeticGeometricMean": 8.225670293509744,
+    "median": 8.225732323232323,
+    "hash": "460044c459e26a16",
+    "lastUpdate": "2024-05-07"
+  }
+}

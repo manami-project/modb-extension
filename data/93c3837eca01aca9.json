@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9131",
+    "https://anilist.co/anime/18941",
+    "https://anime-planet.com/anime/shimajirou-no-wow",
+    "https://anisearch.com/anime/7761",
+    "https://kitsu.io/anime/9039",
+    "https://livechart.me/anime/10106",
+    "https://myanimelist.net/anime/18941",
+    "https://notify.moe/anime/9lebtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "93c3837eca01aca9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.6768707482993195,
+    "arithmeticGeometricMean": 4.665127765190701,
+    "median": 5.0,
+    "hash": "93c3837eca01aca9",
+    "lastUpdate": "2024-05-09"
+  }
+}

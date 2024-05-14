@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12274",
+    "https://anilist.co/anime/98785",
+    "https://anime-planet.com/anime/cure-miracle-to-mofurun-no-mahou-lesson",
+    "https://anisearch.com/anime/12014",
+    "https://kitsu.io/anime/13124",
+    "https://livechart.me/anime/7352",
+    "https://myanimelist.net/anime/33669",
+    "https://notify.moe/anime/D1FM2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8eaa80a7bf9bc992",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.972807315133845,
+    "arithmeticGeometricMean": 5.945167100929355,
+    "median": 6.090909090909091,
+    "hash": "8eaa80a7bf9bc992",
+    "lastUpdate": "2024-05-09"
+  }
+}

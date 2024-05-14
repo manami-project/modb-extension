@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106558",
+    "https://anime-planet.com/anime/keijijou-no-mugen-shikou",
+    "https://anisearch.com/anime/12761",
+    "https://kitsu.io/anime/45807"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85f8805321219298",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.825602968460111,
+    "arithmeticGeometricMean": 3.7003278338961505,
+    "median": 3.825602968460111,
+    "hash": "85f8805321219298",
+    "lastUpdate": "2024-05-07"
+  }
+}

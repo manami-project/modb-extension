@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2869",
+    "https://anilist.co/anime/4991",
+    "https://anime-planet.com/anime/wakakusa-monogatari",
+    "https://anisearch.com/anime/2335",
+    "https://kitsu.io/anime/3483",
+    "https://livechart.me/anime/7660",
+    "https://myanimelist.net/anime/4991",
+    "https://notify.moe/anime/3xDXcFiig"
+  ],
+  "synopsis": {
+    "text": "Beth, Meg, Amy, and Jo - the March sisters - embark on a journey of self-discovery and growth as they navigate through a year of trials and tribulations in the midst of the American Civil War, while their father is away serving on the battlefield. Based on Louisa May Alcott's classic novel, Little Women, this heartwarming TV special chronicles the sisters' adventures and the lessons they learn about themselves and the world around them. Watch as these young girls transform into strong, confident women, overcoming adversity together and blossoming into their own unique identities.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "28c4d49d586a0ec7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.969799098860324,
+    "arithmeticGeometricMean": 5.951726312415047,
+    "median": 5.738775510204081,
+    "hash": "28c4d49d586a0ec7",
+    "lastUpdate": "2024-05-10"
+  }
+}

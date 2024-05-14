@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12557",
+    "https://anilist.co/anime/97876",
+    "https://anime-planet.com/anime/taishou-mebiusline-chicchai-san",
+    "https://anisearch.com/anime/12609",
+    "https://kitsu.io/anime/13065",
+    "https://livechart.me/anime/2421",
+    "https://myanimelist.net/anime/34411",
+    "https://notify.moe/anime/XjmMhFmmR"
+  ],
+  "synopsis": {
+    "text": "Hiiragi Kyoichiro, a young man of ambition, leaves his affluent family and peaceful village behind to pursue a scholarly path at Tokyo's prestigious Imperial University during the tumultuous closing years of the Taisho era. Carrying his family's heirloom katana and a secret ability to see the spirits of the dead, Kyoichiro is eager to make a name for himself and return home a respected man.\n\nHowever, his dreams of academia are disrupted when the Japanese army takes an interest in his supernatural abilities. In a time when Japan is on the brink of war, the military seeks to harness the power of the spirits Kyoichiro can see to counteract foreign threats.\n\nAs he navigates the bustling streets of Tokyo, Kyoichiro finds himself unwittingly entangled in a web of intrigue, caught between the Imperial army's sinister plans, a mysterious stranger with unclear motives, and a rebellious group known as the Five Katana. With the fate of the empire hanging in the balance, Kyoichiro's extraordinary gift and unwavering determination may be the key to shaping Japan's future.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a56b59be5185f7b2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.856285250463821,
+    "arithmeticGeometricMean": 4.8016766442480385,
+    "median": 4.596727272727272,
+    "hash": "a56b59be5185f7b2",
+    "lastUpdate": "2024-05-10"
+  }
+}

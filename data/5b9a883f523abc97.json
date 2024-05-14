@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/109066",
+    "https://anime-planet.com/anime/zamagi-magical-death",
+    "https://myanimelist.net/anime/42989"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b9a883f523abc97",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.419030303030303,
+    "arithmeticGeometricMean": 5.407541291793252,
+    "median": 5.24,
+    "hash": "5b9a883f523abc97",
+    "lastUpdate": "2024-05-06"
+  }
+}

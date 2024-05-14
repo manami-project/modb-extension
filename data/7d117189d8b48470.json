@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13065",
+    "https://anilist.co/anime/145374",
+    "https://anime-planet.com/anime/yell",
+    "https://kitsu.io/anime/10570",
+    "https://myanimelist.net/anime/29970",
+    "https://notify.moe/anime/hyZwpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d117189d8b48470",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.052545454545455,
+    "arithmeticGeometricMean": 6.012883159286085,
+    "median": 5.2727272727272725,
+    "hash": "7d117189d8b48470",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/132000",
+    "https://anime-planet.com/anime/a-day-before-us-merry-christmas",
+    "https://kitsu.io/anime/42871"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce4960d4a20e653a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.731757575757577,
+    "arithmeticGeometricMean": 6.716783519406467,
+    "median": 6.7272727272727275,
+    "hash": "ce4960d4a20e653a",
+    "lastUpdate": "2024-05-05"
+  }
+}

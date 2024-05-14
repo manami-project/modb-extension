@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6830",
+    "https://anilist.co/anime/101969",
+    "https://anime-planet.com/anime/ubasuteyama",
+    "https://anisearch.com/anime/5751",
+    "https://kitsu.io/anime/9500",
+    "https://myanimelist.net/anime/27573",
+    "https://notify.moe/anime/qv8fpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c7a2a04cb4787718",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.245995936036752,
+    "arithmeticGeometricMean": 5.21871959411102,
+    "median": 5.363636363636363,
+    "hash": "c7a2a04cb4787718",
+    "lastUpdate": "2024-05-08"
+  }
+}

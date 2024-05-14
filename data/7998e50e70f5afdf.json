@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18605",
+    "https://anime-planet.com/anime/enter-the-garden",
+    "https://anisearch.com/anime/19233",
+    "https://kitsu.io/anime/48761",
+    "https://livechart.me/anime/12635",
+    "https://myanimelist.net/anime/58780"
+  ],
+  "synopsis": {
+    "text": "Goro Taniguchi, the creative mastermind behind \"Code Geass\" and \"One Piece Film Red,\" presents a captivating three-part anime anthology series, \"Enter The Garden.\" This collaborative project between Dentsu Inc. and Chiru Labs, the creative force behind the globally-acclaimed NFT project Azuki™, is set to launch throughout the year.\n\nIn the first episode, \"The Waiting Man,\" we meet Haru, a rebellious skater who constantly grapples with societal norms and expectations. Feeling like an outsider in her own world, Haru's life takes an unexpected turn when she encounters a mysterious man named T.K. sitting beside a vending machine. T.K. appears to be waiting for someone, and his enigmatic presence piques Haru's curiosity, setting the stage for a thrilling journey of self-discovery and adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7998e50e70f5afdf",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.336081632653061,
+    "arithmeticGeometricMean": 6.3018778232784936,
+    "median": 6.336081632653061,
+    "hash": "7998e50e70f5afdf",
+    "lastUpdate": "2024-05-13"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11768",
+    "https://anilist.co/anime/108994",
+    "https://anime-planet.com/anime/baby-gamba",
+    "https://anisearch.com/anime/11921",
+    "https://kitsu.io/anime/40833",
+    "https://livechart.me/anime/11367",
+    "https://myanimelist.net/anime/35710",
+    "https://notify.moe/anime/g_HO2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f206589193f57a22",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.1327804576376,
+    "arithmeticGeometricMean": 5.093223034180145,
+    "median": 4.489795918367346,
+    "hash": "f206589193f57a22",
+    "lastUpdate": "2024-05-08"
+  }
+}

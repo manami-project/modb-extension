@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17608",
+    "https://anilist.co/anime/154384",
+    "https://anime-planet.com/anime/tearmoon-empire",
+    "https://anisearch.com/anime/17655",
+    "https://kitsu.io/anime/46455",
+    "https://livechart.me/anime/11459",
+    "https://myanimelist.net/anime/52962",
+    "https://notify.moe/anime/kogBnwGVg"
+  ],
+  "synopsis": {
+    "text": "Mia Luna Tearmoon, the twenty-year-old princess of the once prosperous Tearmoon Empire, is infamously known for her selfishness. After a public execution by guillotine during a citizen-led revolution, Mia is miraculously transported back in time to her twelve-year-old self. With vivid memories of her grisly demise and the empire's downfall due to poor finances, famine, and an epidemic, she vows to alter her fate and avoid the guillotine at all costs.\n\nDetermined to rebuild the empire and prevent her own execution, Mia embarks on a mission to improve the kingdom's state using her knowledge of the future. Despite her spoiled nature, she works tirelessly alongside her maid Anne and a clever minister named Ludwig to steer the empire away from civil war and towards peaceful times.\n\nAs Mia strives to save herself from the guillotine, her efforts inadvertently win over the hearts of her people, transforming her image from a selfish princess to a beloved saint. Witness the incredible journey of a once self-serving princess as she defies expectations and works towards a brighter future in this altered-history fantasy.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "708d7aa8ef17b55f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.403901772830345,
+    "arithmeticGeometricMean": 7.398367347318298,
+    "median": 7.386920222634508,
+    "hash": "708d7aa8ef17b55f",
+    "lastUpdate": "2024-05-10"
+  }
+}

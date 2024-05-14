@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10688",
+    "https://anilist.co/anime/20741",
+    "https://anime-planet.com/anime/date-a-live-movie-mayuri-judgement",
+    "https://anisearch.com/anime/9803",
+    "https://kitsu.io/anime/8512",
+    "https://livechart.me/anime/617",
+    "https://myanimelist.net/anime/24655",
+    "https://notify.moe/anime/Nwf0tKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b820f45bcad3b57",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.4093290384864305,
+    "arithmeticGeometricMean": 7.4058951228075625,
+    "median": 7.5270137420718815,
+    "hash": "2b820f45bcad3b57",
+    "lastUpdate": "2024-05-09"
+  }
+}

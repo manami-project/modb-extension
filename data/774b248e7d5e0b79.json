@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/111933",
+    "https://anime-planet.com/anime/chiisana-tegami",
+    "https://kitsu.io/anime/40942",
+    "https://myanimelist.net/anime/36402",
+    "https://notify.moe/anime/aiEd2Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "774b248e7d5e0b79",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.457818181818181,
+    "arithmeticGeometricMean": 5.429843934911712,
+    "median": 5.37,
+    "hash": "774b248e7d5e0b79",
+    "lastUpdate": "2024-05-06"
+  }
+}

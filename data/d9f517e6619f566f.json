@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/52",
+    "https://anilist.co/anime/192",
+    "https://anime-planet.com/anime/love-hina-spring-special-i-wish-your-dream",
+    "https://anisearch.com/anime/862",
+    "https://kitsu.io/anime/169",
+    "https://livechart.me/anime/3473",
+    "https://myanimelist.net/anime/192",
+    "https://notify.moe/anime/UBqpcFmiR"
+  ],
+  "synopsis": {
+    "text": "The moment of reckoning arrives as Keitaro faces the Tokyo University entrance exams, yet again. Brimming with confidence, he begins the test, only to find himself lost in a daydream about Narusegawa. With mere minutes left, he fears the worst and, in a desperate attempt to escape his impending failure and the memories tied to Hinata Inn, he flees. Serendipitously, he crosses paths with Seta, only to find himself stranded on a distant island, with the entire cast in hot pursuit. Back home, Narusegawa and Shinobu refuse to accept Keitaro's disappearance and embark on a mission to find him. As the search unfolds, Keitaro encounters Nyomi, a local island girl with dreams of discovering the mythical Paralantis. With adventure beckoning, can Keitaro be persuaded to return to Japan and face his responsibilities?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d9f517e6619f566f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.20910533639293,
+    "arithmeticGeometricMean": 7.205603412883891,
+    "median": 7.260081632653061,
+    "hash": "d9f517e6619f566f",
+    "lastUpdate": "2024-05-09"
+  }
+}

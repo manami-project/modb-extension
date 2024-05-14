@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/yoasobi-kaibutsu",
+    "https://anisearch.com/anime/15903",
+    "https://kitsu.io/anime/45709",
+    "https://myanimelist.net/anime/47351"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4f14716408779431",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.718380952380952,
+    "arithmeticGeometricMean": 7.717279207720662,
+    "median": 7.62,
+    "hash": "4f14716408779431",
+    "lastUpdate": "2024-05-07"
+  }
+}

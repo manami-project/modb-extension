@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4458",
+    "https://anilist.co/anime/2713",
+    "https://anime-planet.com/anime/rockman-exe-beast-plus",
+    "https://anisearch.com/anime/11892",
+    "https://kitsu.io/anime/2474",
+    "https://livechart.me/anime/11203",
+    "https://myanimelist.net/anime/2713",
+    "https://notify.moe/anime/y-Qy5Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f9959b010c1977ec",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.648985422740525,
+    "arithmeticGeometricMean": 6.627229568293413,
+    "median": 6.92,
+    "hash": "f9959b010c1977ec",
+    "lastUpdate": "2024-05-09"
+  }
+}

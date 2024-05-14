@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13638",
+    "https://anime-planet.com/anime/mentori",
+    "https://anisearch.com/anime/13135",
+    "https://kitsu.io/anime/41685",
+    "https://livechart.me/anime/3032",
+    "https://myanimelist.net/anime/36905"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3fb517cb06865972",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.326530612244898,
+    "arithmeticGeometricMean": 6.326530612244898,
+    "median": 6.326530612244898,
+    "hash": "3fb517cb06865972",
+    "lastUpdate": "2024-05-09"
+  }
+}

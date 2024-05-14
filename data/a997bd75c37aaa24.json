@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17183",
+    "https://anilist.co/anime/144932",
+    "https://anime-planet.com/anime/edens-zero-2nd-season",
+    "https://anisearch.com/anime/17079",
+    "https://kitsu.io/anime/45847",
+    "https://livechart.me/anime/11076",
+    "https://myanimelist.net/anime/50002",
+    "https://notify.moe/anime/cgdBxbanR"
+  ],
+  "synopsis": {
+    "text": "Gore-bound and brimming with determination, Shiki Granbell and his Edens Zero crew embark on a daring infiltration of the Belial, a colossal warship belonging to the infamous Dark Alchemist, Drakken Joe. Armed with the power of the Edens Zero and the unwavering support of his friends, Shiki seeks to uncover the sinister motives behind Drakken Joe's pursuit.\n\nAs they delve deeper into the Belial, the crew discovers a sprawling city within its confines, making it difficult for the enemies to distinguish friend from foe. However, their hopes for a stealthy exploration are dashed when Drakken Joe reveals his awareness of their presence. Simultaneously, the Edens Zero falls under attack by Drakken Joe's most formidable henchmen, leaving the crew in a dire predicament.\n\nIn the heart of the Sakura Cosmos, where space travel has become the norm, the journey of Shiki and his newfound friend, Rebecca, the 'B-cuber' online streamer, begins. Hailing from the robot-dominated planet Granbell, Shiki possesses the unique ability to manipulate gravity. With the wisdom of his robotic guardian, Ziggy, and a strong bond with his friends, Shiki sets out on a thrilling adventure through the cosmos, embracing the wonders and challenges that await him.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a997bd75c37aaa24",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.399205705009276,
+    "arithmeticGeometricMean": 7.391639947200726,
+    "median": 7.502272727272727,
+    "hash": "a997bd75c37aaa24",
+    "lastUpdate": "2024-05-09"
+  }
+}

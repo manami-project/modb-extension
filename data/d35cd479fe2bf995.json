@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13364",
+    "https://anilist.co/anime/102158",
+    "https://anime-planet.com/anime/a-smart-experiment",
+    "https://anisearch.com/anime/10302",
+    "https://kitsu.io/anime/10725",
+    "https://myanimelist.net/anime/30214",
+    "https://notify.moe/anime/QDUQpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d35cd479fe2bf995",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.291283858998145,
+    "arithmeticGeometricMean": 4.28116585873187,
+    "median": 4.085306122448979,
+    "hash": "d35cd479fe2bf995",
+    "lastUpdate": "2024-05-08"
+  }
+}

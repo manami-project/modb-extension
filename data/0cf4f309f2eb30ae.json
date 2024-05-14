@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145847",
+    "https://anime-planet.com/anime/ed-and-lilly",
+    "https://kitsu.io/anime/45935"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0cf4f309f2eb30ae",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.853909090909091,
+    "arithmeticGeometricMean": 5.83453825401918,
+    "median": 5.853909090909091,
+    "hash": "0cf4f309f2eb30ae",
+    "lastUpdate": "2024-05-07"
+  }
+}

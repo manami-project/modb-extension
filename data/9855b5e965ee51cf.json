@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11447",
+    "https://anisearch.com/anime/11102"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9855b5e965ee51cf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.922857142857142,
+    "arithmeticGeometricMean": 4.875201061114583,
+    "median": 4.922857142857142,
+    "hash": "9855b5e965ee51cf",
+    "lastUpdate": "2024-05-08"
+  }
+}

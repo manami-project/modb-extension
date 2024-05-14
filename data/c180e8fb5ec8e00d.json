@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/163619",
+    "https://anime-planet.com/anime/cube-shaped-pokemon-on-cubie-island",
+    "https://kitsu.io/anime/47395",
+    "https://livechart.me/anime/12112",
+    "https://myanimelist.net/anime/54648"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c180e8fb5ec8e00d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.345515151515151,
+    "arithmeticGeometricMean": 6.34475096021877,
+    "median": 6.432,
+    "hash": "c180e8fb5ec8e00d",
+    "lastUpdate": "2024-05-06"
+  }
+}

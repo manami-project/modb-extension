@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16660",
+    "https://anime-planet.com/anime/hong-ying-yi-mai",
+    "https://myanimelist.net/anime/51968"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ba214fd2c22c284f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "ba214fd2c22c284f",
+    "lastUpdate": "2024-05-11"
+  }
+}

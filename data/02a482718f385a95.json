@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5671",
+    "https://anilist.co/anime/3673",
+    "https://anime-planet.com/anime/daughter-of-twenty-faces",
+    "https://anisearch.com/anime/4685",
+    "https://kitsu.io/anime/3185",
+    "https://livechart.me/anime/4960",
+    "https://myanimelist.net/anime/3673",
+    "https://notify.moe/anime/DNH_cFmmg"
+  ],
+  "synopsis": {
+    "text": "Faces with danger and intrigue, Chiko Mikamo embarks on a life-changing journey after being kidnapped by the enigmatic Phantom Thief, Nijuu Mensou (20 Faces). Orphaned and living with her scheming aunt and uncle who plot to inherit her family's fortune, Chiko's life takes a dramatic turn when she is whisked away from her lonely existence and thrust into a world of adventure.\n\nAs she joins the Phantom Thief's clan, Chiko experiences freedom and camaraderie for the first time, discovering a place where she truly belongs. However, her newfound life is not without its challenges. Strange events begin to unfold, centered around the mysterious Legacy of the Phantom Thief, and Chiko finds herself caught up in a web of intrigue.\n\nSurrounded by friends and facing an uncertain future, Chiko must navigate through a series of bizarre occurrences and confront the questionable motives of those around her. Despite the obstacles, she resolves to forge ahead, embracing the unpredictable journey that lies ahead and the checkered life that awaits her.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "02a482718f385a95",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.499191624701829,
+    "arithmeticGeometricMean": 7.498372587682039,
+    "median": 7.57,
+    "hash": "02a482718f385a95",
+    "lastUpdate": "2024-05-09"
+  }
+}

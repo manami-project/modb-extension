@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/489",
+    "https://anilist.co/anime/1165",
+    "https://anime-planet.com/anime/sakura-wars-ouka-kenran",
+    "https://anisearch.com/anime/1932",
+    "https://kitsu.io/anime/1046",
+    "https://livechart.me/anime/7792",
+    "https://myanimelist.net/anime/1165",
+    "https://notify.moe/anime/Og7xcFiig"
+  ],
+  "synopsis": {
+    "text": "Sumire Kanzaki, a privileged heiress, and her eclectic team of young women with supernatural abilities are Tokyo's last hope against a looming demon invasion in the early 20th century. As part of the Imperial Floral Assault Team, these spirited warriors are tasked with piloting advanced steam-powered mechas to protect the city. Among them are Kanna Kirishima, a kind-hearted karate master, Maria Tachibana, a Russian weapon specialist, Iris Chateaubriand, a charming French psychic, Kouran Li, a Chinese mechanical prodigy, and Sakura Shinguji, a gentle country girl with a powerful sword technique.\n\nWith teamwork not being their strongest suit, the girls struggle both on and off the battlefield, leading to the arrival of a new leader, Ohgami Ichirou. As Ichirou strives to transform these bickering girls into a formidable military force, he also faces the challenge of directing them in a theatrical production of A Midsummer Night's Dream. Will Ichirou succeed in uniting the girls and honing their skills in time to fend off the impending demon attack and save Tokyo? Join this extraordinary team as they navigate their personal differences, master their unique abilities, and fight to protect their city in a world where spiritual energy and steam-powered technology collide.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "43924d0c25fd96bf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.313910416114497,
+    "arithmeticGeometricMean": 6.30061548173829,
+    "median": 6.51,
+    "hash": "43924d0c25fd96bf",
+    "lastUpdate": "2024-05-09"
+  }
+}

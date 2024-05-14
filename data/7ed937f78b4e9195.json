@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10252",
+    "https://anilist.co/anime/20535",
+    "https://anime-planet.com/anime/crayon-shin-chan-movie-22-gachinko-gyakushuu-no-robo-to-chan",
+    "https://anisearch.com/anime/9271",
+    "https://kitsu.io/anime/8286",
+    "https://livechart.me/anime/336",
+    "https://myanimelist.net/anime/21395",
+    "https://notify.moe/anime/cBPTpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ed937f78b4e9195",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.370667439703155,
+    "arithmeticGeometricMean": 7.366754779547327,
+    "median": 7.517727272727273,
+    "hash": "7ed937f78b4e9195",
+    "lastUpdate": "2024-05-09"
+  }
+}

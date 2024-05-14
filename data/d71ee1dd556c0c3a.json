@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9746",
+    "https://anilist.co/anime/17733",
+    "https://anime-planet.com/anime/dibetagurashi-ahiru-no-seikatsu",
+    "https://anisearch.com/anime/8416",
+    "https://kitsu.io/anime/7648",
+    "https://livechart.me/anime/811",
+    "https://myanimelist.net/anime/17733",
+    "https://notify.moe/anime/XEfctKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d71ee1dd556c0c3a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.161687074829932,
+    "arithmeticGeometricMean": 5.147813086239354,
+    "median": 5.01,
+    "hash": "d71ee1dd556c0c3a",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12155",
+    "https://anilist.co/anime/21845",
+    "https://anime-planet.com/anime/genbanojou",
+    "https://anisearch.com/anime/11522",
+    "https://kitsu.io/anime/12341",
+    "https://livechart.me/anime/2206",
+    "https://myanimelist.net/anime/33389",
+    "https://notify.moe/anime/5iWkhFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "616c0ce82ccc1025",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.031588126159555,
+    "arithmeticGeometricMean": 6.008514077980043,
+    "median": 5.842764378478664,
+    "hash": "616c0ce82ccc1025",
+    "lastUpdate": "2024-05-09"
+  }
+}

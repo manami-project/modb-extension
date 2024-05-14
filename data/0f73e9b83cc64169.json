@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103784",
+    "https://anime-planet.com/anime/nanoru-na-mo-nai-bouken-no-susume",
+    "https://kitsu.io/anime/41894",
+    "https://myanimelist.net/anime/38044"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0f73e9b83cc64169",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.255212121212121,
+    "arithmeticGeometricMean": 5.230958589051258,
+    "median": 5.31,
+    "hash": "0f73e9b83cc64169",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11433",
+    "https://anilist.co/anime/97978",
+    "https://anime-planet.com/anime/wonder",
+    "https://anisearch.com/anime/8799",
+    "https://kitsu.io/anime/10075",
+    "https://myanimelist.net/anime/28085",
+    "https://notify.moe/anime/1wWypFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "368fbdc351903029",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.916386390631288,
+    "arithmeticGeometricMean": 5.890971789970203,
+    "median": 6.05,
+    "hash": "368fbdc351903029",
+    "lastUpdate": "2024-05-08"
+  }
+}

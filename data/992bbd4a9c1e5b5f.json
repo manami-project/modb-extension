@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14357",
+    "https://anilist.co/anime/109351",
+    "https://anime-planet.com/anime/chanda-gou",
+    "https://anisearch.com/anime/10348",
+    "https://kitsu.io/anime/10497",
+    "https://myanimelist.net/anime/29655",
+    "https://notify.moe/anime/zpX8tFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "992bbd4a9c1e5b5f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.82212615955473,
+    "arithmeticGeometricMean": 4.786154706662965,
+    "median": 4.63,
+    "hash": "992bbd4a9c1e5b5f",
+    "lastUpdate": "2024-05-08"
+  }
+}

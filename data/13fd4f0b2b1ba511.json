@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4150",
+    "https://anilist.co/anime/957",
+    "https://anime-planet.com/anime/the-story-of-saiunkoku",
+    "https://anisearch.com/anime/2128",
+    "https://kitsu.io/anime/847",
+    "https://livechart.me/anime/5025",
+    "https://myanimelist.net/anime/957",
+    "https://notify.moe/anime/fIN15KimR"
+  ],
+  "synopsis": {
+    "text": "Shuurei's dreams of becoming a government official in the vast, colorful empire of Saiunkoku seem unreachable, as she is both a woman and born into a once-noble but now impoverished family. When a court advisor offers her a chance to become the emperor's consort and teach him how to rule effectively in exchange for a significant reward, Shuurei jumps at the opportunity. The current emperor, Ryuki, is rumored to be more interested in the company of men, making the arrangement seemingly safe for her.\n\nAs Shuurei navigates the complexities of court life, she discovers that the emperor is indeed indifferent towards his duties and lacks the skills needed to govern effectively. With the support of her loyal friend Seiran, who serves as the emperor's bodyguard, Shuurei embarks on a mission to transform Ryuki into a capable leader.\n\nHowever, as Shuurei spends more time in the palace, her old aspirations of becoming a court official resurface, and she finds herself caught between her personal ambitions and her commitment to the emperor. With unexpected emotions developing among the characters, the story of Saiunkoku Monogatari unfolds, exploring the challenges of leadership, the intricacies of court politics, and the rewards that come with perseverance in a world where women must defy the odds to achieve their dreams.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "13fd4f0b2b1ba511",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.866239332096475,
+    "arithmeticGeometricMean": 7.865264078759089,
+    "median": 7.8792857142857144,
+    "hash": "13fd4f0b2b1ba511",
+    "lastUpdate": "2024-05-09"
+  }
+}

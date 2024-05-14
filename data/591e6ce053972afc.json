@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4316",
+    "https://anilist.co/anime/3178",
+    "https://anime-planet.com/anime/hengen-taima-yakou-karura-mau-nara-onryou-emaki",
+    "https://anisearch.com/anime/5230",
+    "https://kitsu.io/anime/2841",
+    "https://livechart.me/anime/7884",
+    "https://myanimelist.net/anime/3178",
+    "https://notify.moe/anime/g-WQcKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "591e6ce053972afc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.929583355420091,
+    "arithmeticGeometricMean": 5.916986119034715,
+    "median": 5.55,
+    "hash": "591e6ce053972afc",
+    "lastUpdate": "2024-05-09"
+  }
+}

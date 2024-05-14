@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11978",
+    "https://anilist.co/anime/102392",
+    "https://anime-planet.com/anime/jiaoao-de-jiangjun",
+    "https://anisearch.com/anime/11299",
+    "https://kitsu.io/anime/10335",
+    "https://myanimelist.net/anime/29623",
+    "https://notify.moe/anime/Zjn8pKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3580b7d19c9e2e3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.501675943104515,
+    "arithmeticGeometricMean": 5.491350629277871,
+    "median": 5.4372727272727275,
+    "hash": "f3580b7d19c9e2e3",
+    "lastUpdate": "2024-05-08"
+  }
+}

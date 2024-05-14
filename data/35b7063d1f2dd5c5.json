@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3598",
+    "https://anilist.co/anime/2515",
+    "https://anime-planet.com/anime/detective-conan-the-target-is-kogoro",
+    "https://anisearch.com/anime/2977",
+    "https://kitsu.io/anime/2281",
+    "https://livechart.me/anime/6386",
+    "https://myanimelist.net/anime/2515",
+    "https://notify.moe/anime/K-RycFmig"
+  ],
+  "synopsis": {
+    "text": "The Detective Boys, a group comprising of Conan, Ayumi, Mitsuhiko, Genta, and Ai, are tasked with a school assignment that requires them to delve into the workings of a local business. Intrigued by the prospect of learning more about their favorite detective, they unanimously decide to interview Richard Moore, also known as Kogorou Mouri. However, an ordinary interview doesn't satiate their curiosity, leading them to shadow the detective for a day. As they immerse themselves in his world, they find themselves entangled in a complex kidnapping case. Now, the Detective Boys, alongside Richard, must unravel the mystery behind this unexpected incident.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35b7063d1f2dd5c5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.233471243042672,
+    "arithmeticGeometricMean": 7.223250156774715,
+    "median": 7.316363636363636,
+    "hash": "35b7063d1f2dd5c5",
+    "lastUpdate": "2024-05-09"
+  }
+}

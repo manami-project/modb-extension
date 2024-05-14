@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103709",
+    "https://anime-planet.com/anime/princess-knight-pilot",
+    "https://anisearch.com/anime/8828",
+    "https://kitsu.io/anime/9930",
+    "https://myanimelist.net/anime/22241",
+    "https://notify.moe/anime/1PFEtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c99d916aed02f86d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.5391280148423,
+    "arithmeticGeometricMean": 5.517817607759555,
+    "median": 5.0,
+    "hash": "c99d916aed02f86d",
+    "lastUpdate": "2024-05-06"
+  }
+}

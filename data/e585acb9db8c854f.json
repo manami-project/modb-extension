@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14286",
+    "https://anilist.co/anime/120770",
+    "https://anime-planet.com/anime/kasa-jizou",
+    "https://kitsu.io/anime/12363",
+    "https://myanimelist.net/anime/32623",
+    "https://notify.moe/anime/kY7khKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e585acb9db8c854f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.318218181818183,
+    "arithmeticGeometricMean": 5.278499039676397,
+    "median": 4.909090909090909,
+    "hash": "e585acb9db8c854f",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14881",
+    "https://anime-planet.com/anime/kung-fu-si-xia",
+    "https://myanimelist.net/anime/44963"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c31e0f1dfcb3ba5b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "c31e0f1dfcb3ba5b",
+    "lastUpdate": "2024-05-11"
+  }
+}

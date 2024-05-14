@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/158230",
+    "https://anime-planet.com/anime/pekora-usada-iiwake-bunny",
+    "https://kitsu.io/anime/46795",
+    "https://myanimelist.net/anime/55366"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e8a4d3f767e26f4f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.675,
+    "arithmeticGeometricMean": 6.6710410729748935,
+    "median": 6.675,
+    "hash": "e8a4d3f767e26f4f",
+    "lastUpdate": "2024-05-07"
+  }
+}

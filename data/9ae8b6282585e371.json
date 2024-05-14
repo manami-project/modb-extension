@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11645",
+    "https://anilist.co/anime/99164",
+    "https://anime-planet.com/anime/kimi-no-kokoro-wa-kagayaiteru-kai",
+    "https://anisearch.com/anime/10797",
+    "https://kitsu.io/anime/11608",
+    "https://myanimelist.net/anime/31780",
+    "https://notify.moe/anime/HmrjpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9ae8b6282585e371",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.980824454457108,
+    "arithmeticGeometricMean": 6.974064765689582,
+    "median": 7.181818181818182,
+    "hash": "9ae8b6282585e371",
+    "lastUpdate": "2024-05-07"
+  }
+}

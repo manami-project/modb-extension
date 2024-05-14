@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103364",
+    "https://anime-planet.com/anime/luigis-toy-adventure",
+    "https://anisearch.com/anime/10068",
+    "https://kitsu.io/anime/10122",
+    "https://myanimelist.net/anime/28717",
+    "https://notify.moe/anime/ySFytFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f6b58b358b814c95",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.617367346938775,
+    "arithmeticGeometricMean": 5.602184764094355,
+    "median": 5.655102040816326,
+    "hash": "f6b58b358b814c95",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2199",
+    "https://anilist.co/anime/4481",
+    "https://anime-planet.com/anime/alakazam-the-great",
+    "https://anisearch.com/anime/931",
+    "https://kitsu.io/anime/3635",
+    "https://livechart.me/anime/6883",
+    "https://myanimelist.net/anime/4481",
+    "https://notify.moe/anime/XAXucFiiR"
+  ],
+  "synopsis": {
+    "text": "King Alakazam, once an ordinary monkey born from stone, ascends to power after a test of courage and the encouragement of his companion, RinRin. His ambition, however, knows no bounds as he seeks to surpass even the power of humans. Leaving RinRin behind, he trains with a hermit who bestows upon him the name Son-Goku. After a failed attempt to challenge the gods and a brief imprisonment, Goku is released by a monk, embarking on a journey to India as his guardian. This animated film, a monumental work by Tezuka Osamu, takes viewers on a thrilling adventure filled with magic, power, and the pursuit of humility. Despite Tezuka's original plan for a tragic ending, Toei Animation opted for a happier conclusion, resulting in a captivating tale of growth and redemption for the once-vain monkey king.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c2eded0e65da7c12",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.827665518155314,
+    "arithmeticGeometricMean": 5.80703749268625,
+    "median": 6.0,
+    "hash": "c2eded0e65da7c12",
+    "lastUpdate": "2024-05-09"
+  }
+}

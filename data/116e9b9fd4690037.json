@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1561",
+    "https://anilist.co/anime/4810",
+    "https://anime-planet.com/anime/casshan",
+    "https://anisearch.com/anime/2617",
+    "https://kitsu.io/anime/3799",
+    "https://livechart.me/anime/6140",
+    "https://myanimelist.net/anime/4810",
+    "https://notify.moe/anime/IGK9cKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "116e9b9fd4690037",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.579737609329446,
+    "arithmeticGeometricMean": 6.566937115663441,
+    "median": 6.545454545454545,
+    "hash": "116e9b9fd4690037",
+    "lastUpdate": "2024-05-10"
+  }
+}

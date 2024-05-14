@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4177",
+    "https://anilist.co/anime/1865",
+    "https://anime-planet.com/anime/getsumen-to-heiki-mina",
+    "https://anisearch.com/anime/13",
+    "https://kitsu.io/anime/1682",
+    "https://livechart.me/anime/8789",
+    "https://myanimelist.net/anime/1865",
+    "https://notify.moe/anime/6ewBcKmig"
+  ],
+  "synopsis": {
+    "text": "Finally, humanity's age-old question about the existence of extraterrestrial life has been answered, but the response is far from what anyone had anticipated. It turns out that humans are unique in the universe for developing sports, a concept that has captivated the hearts of countless aliens. As the number of sports-obsessed extraterrestrials swells, chaos erupts in stadiums as these passionate fans resort to rioting when their expectations aren't met. To restore order and uphold the intergalactic peace treaty, a special task force is formed: the Rabbit Force, a group of magical girls who transform into powerful bunny-themed warriors.\n\nAmong these warriors is Tsukuda Mina, a seemingly ordinary high school girl whose dreams come true when she lands a job as an announcer on her favorite sports news program, Spoluna. However, during her first major event, the baseball stadium is besieged by sports-loving aliens, and Mina discovers her true identity as a member of the Rabbit Force. Now, as Tsukishiro Mina, she must juggle her newfound responsibilities as a magical girl with her dream career, all while protecting Earth's sports from the alien threats that loom large.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e7c06ee2a64ec4e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.802964219454014,
+    "arithmeticGeometricMean": 5.764941943461838,
+    "median": 5.909090909090908,
+    "hash": "4e7c06ee2a64ec4e",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107740",
+    "https://anime-planet.com/anime/minami-hollowness",
+    "https://anisearch.com/anime/15872",
+    "https://kitsu.io/anime/42317",
+    "https://myanimelist.net/anime/39114"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "921600b18b8958e8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.478385157699444,
+    "arithmeticGeometricMean": 7.47543887880103,
+    "median": 7.53,
+    "hash": "921600b18b8958e8",
+    "lastUpdate": "2024-05-06"
+  }
+}

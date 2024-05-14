@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140175",
+    "https://anime-planet.com/anime/link-click-the-daily-life-in-lightime",
+    "https://anisearch.com/anime/16650",
+    "https://kitsu.io/anime/45503",
+    "https://livechart.me/anime/10836",
+    "https://myanimelist.net/anime/50105"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f86d6f3a4e434076",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.299919851576993,
+    "arithmeticGeometricMean": 7.294074995742277,
+    "median": 7.116326530612245,
+    "hash": "f86d6f3a4e434076",
+    "lastUpdate": "2024-05-06"
+  }
+}

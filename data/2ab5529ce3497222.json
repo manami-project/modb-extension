@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2406",
+    "https://anilist.co/anime/4210",
+    "https://anime-planet.com/anime/twilight-of-the-cockroaches",
+    "https://anisearch.com/anime/800",
+    "https://kitsu.io/anime/3526",
+    "https://livechart.me/anime/9442",
+    "https://myanimelist.net/anime/4210",
+    "https://notify.moe/anime/G-TXcKmiR"
+  ],
+  "synopsis": {
+    "text": "Hybrid anime featuring a blend of live-action and animation, depicts the unusual tale of a cockroach colony residing in a disheveled bachelor's apartment. The roaches, unafraid of traps, sprays, or human feet, live a carefree life, scavenging for food and engaging in games. The homeowner, a messy and unbothered individual, coexists peacefully with the roach colony, allowing them to thrive undisturbed. However, when a new woman enters the homeowner's life, the once easy-going existence of the roaches is threatened, leading to unexpected changes in their world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2ab5529ce3497222",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.124937715345879,
+    "arithmeticGeometricMean": 6.114758492063135,
+    "median": 6.11,
+    "hash": "2ab5529ce3497222",
+    "lastUpdate": "2024-05-09"
+  }
+}

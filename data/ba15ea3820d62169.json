@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11301",
+    "https://anime-planet.com/anime/soumubu-sououka-yamaguchi-roppeita-saibanin-project-hajimemasu",
+    "https://anisearch.com/anime/10660",
+    "https://kitsu.io/anime/10992",
+    "https://myanimelist.net/anime/30762",
+    "https://notify.moe/anime/xV3_pKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ba15ea3820d62169",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.441836734693878,
+    "arithmeticGeometricMean": 4.424214685374532,
+    "median": 4.441836734693878,
+    "hash": "ba15ea3820d62169",
+    "lastUpdate": "2024-05-08"
+  }
+}

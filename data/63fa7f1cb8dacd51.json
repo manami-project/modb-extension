@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3328",
+    "https://anilist.co/anime/8949",
+    "https://anime-planet.com/anime/hamtaro-ham-hams-ahoy",
+    "https://anisearch.com/anime/3159",
+    "https://kitsu.io/anime/5543",
+    "https://myanimelist.net/anime/8949",
+    "https://notify.moe/anime/FgOZtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "63fa7f1cb8dacd51",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.874345613570104,
+    "arithmeticGeometricMean": 5.835524867322223,
+    "median": 6.454,
+    "hash": "63fa7f1cb8dacd51",
+    "lastUpdate": "2024-05-07"
+  }
+}

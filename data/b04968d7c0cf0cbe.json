@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17821",
+    "https://anilist.co/anime/156082",
+    "https://anime-planet.com/anime/fairies-albums-4th-season",
+    "https://anisearch.com/anime/19075",
+    "https://kitsu.io/anime/48627",
+    "https://livechart.me/anime/11588",
+    "https://myanimelist.net/anime/57995",
+    "https://notify.moe/anime/ckVyIX1Ig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b04968d7c0cf0cbe",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.803243970315399,
+    "arithmeticGeometricMean": 7.796883756236007,
+    "median": 7.691181818181818,
+    "hash": "b04968d7c0cf0cbe",
+    "lastUpdate": "2024-05-08"
+  }
+}

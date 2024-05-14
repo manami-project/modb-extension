@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118203",
+    "https://anime-planet.com/anime/naita-aka-oni-1997",
+    "https://anisearch.com/anime/14785",
+    "https://kitsu.io/anime/9472",
+    "https://myanimelist.net/anime/26305",
+    "https://notify.moe/anime/j_BBtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46222422590927cb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.651205936920222,
+    "arithmeticGeometricMean": 4.613938407253541,
+    "median": 5.0,
+    "hash": "46222422590927cb",
+    "lastUpdate": "2024-05-06"
+  }
+}

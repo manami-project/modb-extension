@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12045",
+    "https://anilist.co/anime/21766",
+    "https://anime-planet.com/anime/zegapain-adp",
+    "https://anisearch.com/anime/11293",
+    "https://kitsu.io/anime/12012",
+    "https://livechart.me/anime/2127",
+    "https://myanimelist.net/anime/33048",
+    "https://notify.moe/anime/hd-6pFmmg"
+  ],
+  "synopsis": {
+    "text": "Animation powerhouse Sunrise is set to revamp its acclaimed 2006 mecha anime series, Zegapain, with a re-edited movie titled Zegapain ADP. Announced at AnimeJapan 2016, this cinematic rendition promises to blend recompiled scenes from the original TV series with freshly animated sequences and new characters, offering an enriched viewing experience. The movie serves as a prequel, delving into the early server resets encountered by protagonist Kyo, setting the stage for the subsequent lunar mission. Brace yourself for a captivating blend of nostalgia and novelty as Zegapain ADP brings a new perspective to the beloved anime series.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "afecac5749ab0c4a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.127845804988663,
+    "arithmeticGeometricMean": 6.116967309028845,
+    "median": 5.91,
+    "hash": "afecac5749ab0c4a",
+    "lastUpdate": "2024-05-10"
+  }
+}

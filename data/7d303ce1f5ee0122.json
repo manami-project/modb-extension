@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16144",
+    "https://anilist.co/anime/126706",
+    "https://anime-planet.com/anime/zutomayo-kangurei",
+    "https://anisearch.com/anime/17398",
+    "https://kitsu.io/anime/47815",
+    "https://myanimelist.net/anime/44084"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d303ce1f5ee0122",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.60263172541744,
+    "arithmeticGeometricMean": 6.577806255162367,
+    "median": 6.683,
+    "hash": "7d303ce1f5ee0122",
+    "lastUpdate": "2024-05-07"
+  }
+}

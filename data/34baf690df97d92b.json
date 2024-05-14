@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/deco-27-my-name-is",
+    "https://kitsu.io/anime/13364",
+    "https://notify.moe/anime/5g0n2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "34baf690df97d92b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.311,
+    "arithmeticGeometricMean": 5.306442250109476,
+    "median": 5.311,
+    "hash": "34baf690df97d92b",
+    "lastUpdate": "2024-05-06"
+  }
+}

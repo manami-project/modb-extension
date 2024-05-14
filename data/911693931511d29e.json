@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7173",
+    "https://anilist.co/anime/101968",
+    "https://anime-planet.com/anime/tsubo",
+    "https://anisearch.com/anime/9387",
+    "https://kitsu.io/anime/40642",
+    "https://myanimelist.net/anime/34969",
+    "https://notify.moe/anime/DLJvhFmiR"
+  ],
+  "synopsis": {
+    "text": "Nights by the sea, a devoted son toils away, casting his nets to reel in the day's catch, all in a bid to earn his father's approval. One day, his net snags an unusual catch: a mysterious pot. As he pries it open, a menacing demon springs forth, eager to devour the young fisherman. However, the quick-witted lad challenges the demon, asserting that it couldn't possibly fit back into the pot. Offended, the demon squeezes itself back inside, only to find itself trapped. Desperate, the demon pleads for release.\n\nIn response, the young fisherman shares a cautionary tale about a cunning fox and a mighty lion. The fox, always scheming, manipulates the lion and eventually orchestrates its downfall by revealing the lion's whereabouts to a hunter. Believing itself safe, the fox ventures out, only to fall prey to a lurking crocodile.\n\nThis animated adaptation, the first commissioned by the Ministry of Education, is the brainchild of Yamamoto Manga Seisakusho, founded by Sanae Yamamoto. The narrative draws inspiration from \"The Fisherman and the Genie\" in The Arabian Nights, with an added layer of intrigue from Machiavelli's The Prince in the form of the fox and lion fable. The film boasts meticulously drawn backgrounds and characters, complemented by innovative techniques such as the use of speech balloons with cut-out lettering for dialogue.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "911693931511d29e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.400339252584151,
+    "arithmeticGeometricMean": 5.374138129712248,
+    "median": 5.2727272727272725,
+    "hash": "911693931511d29e",
+    "lastUpdate": "2024-05-08"
+  }
+}

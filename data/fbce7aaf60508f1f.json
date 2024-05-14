@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17220",
+    "https://anilist.co/anime/145740",
+    "https://anime-planet.com/anime/grisaia-phantom-trigger-tv",
+    "https://anisearch.com/anime/17161",
+    "https://kitsu.io/anime/46011",
+    "https://livechart.me/anime/11101",
+    "https://myanimelist.net/anime/51119",
+    "https://notify.moe/anime/L2pf5gLng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fbce7aaf60508f1f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "fbce7aaf60508f1f",
+    "lastUpdate": "2024-05-11"
+  }
+}

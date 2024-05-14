@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3997",
+    "https://anilist.co/anime/2712",
+    "https://anime-planet.com/anime/shiratori-reiko-de-gozaimasu",
+    "https://anisearch.com/anime/3133",
+    "https://kitsu.io/anime/2473",
+    "https://myanimelist.net/anime/2712",
+    "https://notify.moe/anime/vows5Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "61546d52ff00985f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.289669758812615,
+    "arithmeticGeometricMean": 5.268044697680738,
+    "median": 4.98,
+    "hash": "61546d52ff00985f",
+    "lastUpdate": "2024-05-08"
+  }
+}

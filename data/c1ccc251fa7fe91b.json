@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13036",
+    "https://anilist.co/anime/98603",
+    "https://anime-planet.com/anime/sengoku-night-blood",
+    "https://anisearch.com/anime/12345",
+    "https://kitsu.io/anime/13784",
+    "https://livechart.me/anime/2625",
+    "https://myanimelist.net/anime/35251",
+    "https://notify.moe/anime/fFHI2Fmmg"
+  ],
+  "synopsis": {
+    "text": "With a sudden burst of mysterious light from her cell phone, Yuzuki finds herself transported to an unfamiliar realm known as Shinga, a world reminiscent of Japan's Sengoku period. This once prosperous and peaceful world is now in chaos, inhabited by non-human creatures such as vampires and werewolves, collectively known as the Gekkazoku.\n\nOnce upon a time, Shinga thrived under the protection of the Himemiko, a powerful figure with unique blood that maintained harmony among the tribes. However, with her sudden disappearance, the world has plunged into strife, with various tribes and their soldiers, each possessing unique abilities, vying for control.\n\nIn this tumultuous world, Yuzuki is deemed the key to restoring order, as her blood bears a mysterious power that can strengthen, heal, and awaken the true forms of the Gekkazoku. As she navigates through this world of war and politics, she interacts with various warlords, each with their own ideals and ambitions, creating a complex tapestry of romance and conflict.\n\nIn order to return home, Yuzuki must find the missing Himemiko and restore peace to Shinga. However, with ongoing feuds and power struggles among the warlords, her journey is fraught with challenges and obstacles. This is a story of love, war, and courage that Yuzuki must not miss in her quest to rule the world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c1ccc251fa7fe91b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.033070037105752,
+    "arithmeticGeometricMean": 6.001349653306806,
+    "median": 6.090454545454545,
+    "hash": "c1ccc251fa7fe91b",
+    "lastUpdate": "2024-05-09"
+  }
+}

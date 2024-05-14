@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7113",
+    "https://anilist.co/anime/6958",
+    "https://anime-planet.com/anime/hyakko-extra",
+    "https://anisearch.com/anime/5764",
+    "https://kitsu.io/anime/4807",
+    "https://livechart.me/anime/6007",
+    "https://myanimelist.net/anime/6958",
+    "https://notify.moe/anime/A0IRpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e85e2b690b4fdf3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.655546720852844,
+    "arithmeticGeometricMean": 6.6497684069156815,
+    "median": 6.73,
+    "hash": "0e85e2b690b4fdf3",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16070",
+    "https://anilist.co/anime/128394",
+    "https://anime-planet.com/anime/shikaruneko",
+    "https://anisearch.com/anime/16010",
+    "https://kitsu.io/anime/44216",
+    "https://livechart.me/anime/10429",
+    "https://myanimelist.net/anime/48442",
+    "https://notify.moe/anime/e3-R0uUMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e1ba267cdc8b82be",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.545454545454545,
+    "arithmeticGeometricMean": 4.545454545454545,
+    "median": 4.545454545454545,
+    "hash": "e1ba267cdc8b82be",
+    "lastUpdate": "2024-05-09"
+  }
+}

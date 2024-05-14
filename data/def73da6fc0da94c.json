@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12333",
+    "https://anilist.co/anime/99963",
+    "https://anime-planet.com/anime/libra-of-nil-admirari",
+    "https://anisearch.com/anime/12113",
+    "https://kitsu.io/anime/12762",
+    "https://livechart.me/anime/2286",
+    "https://myanimelist.net/anime/33850",
+    "https://notify.moe/anime/1pji2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "def73da6fc0da94c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.341244938291522,
+    "arithmeticGeometricMean": 6.3136682075125625,
+    "median": 6.566734693877551,
+    "hash": "def73da6fc0da94c",
+    "lastUpdate": "2024-05-09"
+  }
+}

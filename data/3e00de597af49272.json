@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16107",
+    "https://anilist.co/anime/130622",
+    "https://anime-planet.com/anime/kitarou-tanjou-gegege-no-nazo",
+    "https://anisearch.com/anime/16981",
+    "https://kitsu.io/anime/45534",
+    "https://livechart.me/anime/10454",
+    "https://myanimelist.net/anime/48426",
+    "https://notify.moe/anime/tauj8NUGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3e00de597af49272",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.410484848484849,
+    "arithmeticGeometricMean": 7.410178282214567,
+    "median": 7.35,
+    "hash": "3e00de597af49272",
+    "lastUpdate": "2024-05-09"
+  }
+}

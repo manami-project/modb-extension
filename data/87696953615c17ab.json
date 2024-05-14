@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16459",
+    "https://anilist.co/anime/131569",
+    "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-joys-of-seasons",
+    "https://myanimelist.net/anime/43983"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "87696953615c17ab",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.454545454545454,
+    "arithmeticGeometricMean": 4.454545454545454,
+    "median": 4.454545454545454,
+    "hash": "87696953615c17ab",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/899",
+    "https://myanimelist.net/anime/2541"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a46f70e8b03af1fe",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.801326530612245,
+    "arithmeticGeometricMean": 4.7844135880071805,
+    "median": 4.801326530612245,
+    "hash": "a46f70e8b03af1fe",
+    "lastUpdate": "2024-05-07"
+  }
+}

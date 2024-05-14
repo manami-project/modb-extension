@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/912",
+    "https://anilist.co/anime/3597",
+    "https://anime-planet.com/anime/girl-from-phantasia",
+    "https://anisearch.com/anime/1234",
+    "https://kitsu.io/anime/3133",
+    "https://livechart.me/anime/7432",
+    "https://myanimelist.net/anime/3597",
+    "https://notify.moe/anime/ddm_5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4a2c2b4e9cf44a6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.2800196130400225,
+    "arithmeticGeometricMean": 5.242309939118484,
+    "median": 5.31,
+    "hash": "d4a2c2b4e9cf44a6",
+    "lastUpdate": "2024-05-09"
+  }
+}

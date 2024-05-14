@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/202",
+    "https://anilist.co/anime/32",
+    "https://anime-planet.com/anime/neon-genesis-evangelion-the-end-of-evangelion",
+    "https://anisearch.com/anime/2877",
+    "https://kitsu.io/anime/23",
+    "https://livechart.me/anime/3633",
+    "https://myanimelist.net/anime/32",
+    "https://notify.moe/anime/kU7p5Fmig"
+  ],
+  "synopsis": {
+    "text": "Nerv, the guardian of Tokyo-3, is under a relentless assault by SEELE, following the failure of creating a Third Impact and the defeat of the last Angel. The city is left in ruins, and Nerv's defenses are crumbling. Asuka returns to the battlefield to lead a counterattack against SEELE's overwhelming forces, while Shinji Ikari, emotionally shattered after the loss of a dear friend, is left incapable of piloting Evangelion Unit-01.\n\nWith the world on the brink of destruction, Gendou Ikari and Nerv are locked in a race against time with the shadowy organization SEELE, each with their own sinister agendas. SEELE seeks to create a godlike being by merging their souls into an Evangelion, while Gendou's ultimate goal is to reunite with his deceased wife, Yui, by reverting humanity into a single primordial entity.\n\nAs SEELE's military forces lay waste to Nerv's headquarters, Asuka bravely pilots Evangelion Unit-02 in a desperate attempt to hold off their heaviest weaponry. With the fate of the world resting on Shinji's shoulders, Captain Misato Katsuragi embarks on a mission to find the troubled teenager amidst the chaos.\n\n\"Neon Genesis Evangelion: The End of Evangelion\" serves as an alternate ending to the original TV series, providing answers to the unresolved questions and culminating in a final battle that will determine the future of humanity. Will Shinji find the strength to embrace mankind's existence, or will he reject humanity's individuality, leading to an uncertain fate for all?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "169fc093115e5971",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.326970652987107,
+    "arithmeticGeometricMean": 8.325928560950642,
+    "median": 8.303821892393321,
+    "hash": "169fc093115e5971",
+    "lastUpdate": "2024-05-10"
+  }
+}

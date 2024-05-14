@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7686",
+    "https://anilist.co/anime/1298",
+    "https://anime-planet.com/anime/project-a-ko-4-final",
+    "https://anisearch.com/anime/5548",
+    "https://kitsu.io/anime/1170",
+    "https://livechart.me/anime/9153",
+    "https://myanimelist.net/anime/1298",
+    "https://notify.moe/anime/LaEx5KmmR"
+  ],
+  "synopsis": {
+    "text": "Daitokuji Hikaru sets the stage for an arranged marriage between Miss Ayumi and the dashing Kei, escalating the already heated rivalry between A-ko and B-ko as they fight for his affections. As the two girls engage in a chaotic battle to prevent the wedding, an archaeological discovery in Iraq hints at the arrival of a powerful alien race destined to bring an end to civilization.\n\nBack in Graviton City, the gymnasium at Graviton City High School for Girls transforms into a makeshift wedding chapel, where the tumultuous ceremony is about to take place. Meanwhile, the Earth Defense Force scrambles to fend off an incoming fleet of three thousand Alpha Cygnan spaceships, who seem to have a mysterious connection to the ancient prophecy.\n\nAs the extraterrestrial armada descends upon Earth, A-ko and B-ko's fierce clash intensifies, leaving C-ko to question her place in the midst of the chaos. With missiles flying and mechas mobilizing, the Alpha Cygnans' true intentions remain unclear – are they here to find their Lost Princess, or to bring about humanity's downfall? Caught in the crossfire, Kei, Ayumi, and C-ko must navigate the ensuing pandemonium as the future of Earth hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "991de670a30f957a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.626760137821362,
+    "arithmeticGeometricMean": 6.619188534587132,
+    "median": 6.56,
+    "hash": "991de670a30f957a",
+    "lastUpdate": "2024-05-09"
+  }
+}

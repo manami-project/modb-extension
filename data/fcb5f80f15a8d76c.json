@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/a-horn-girl",
+    "https://kitsu.io/anime/46120"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fcb5f80f15a8d76c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.91,
+    "arithmeticGeometricMean": 6.91,
+    "median": 6.91,
+    "hash": "fcb5f80f15a8d76c",
+    "lastUpdate": "2024-05-05"
+  }
+}

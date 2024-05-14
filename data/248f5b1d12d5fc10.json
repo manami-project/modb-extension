@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5198",
+    "https://anilist.co/anime/7575",
+    "https://anime-planet.com/anime/oh-family",
+    "https://anisearch.com/anime/3878",
+    "https://kitsu.io/anime/5034",
+    "https://livechart.me/anime/7674",
+    "https://myanimelist.net/anime/7575",
+    "https://notify.moe/anime/IFMkpFmmg"
+  ],
+  "synopsis": {
+    "text": "Set in the vibrant cityscape of 1980s Miami, Florida, the affluent and eccentric Anderson family opens their hearts and home to the son of an old companion. The series primarily revolves around the second Anderson child, Fea, and the newly adopted member as they navigate through a myriad of life experiences, including romantic entanglements and personal challenges. Each member of the Anderson family brings unique quirks and qualities to the table, resulting in a delightful mix of camaraderie and conflict. As they journey through a series of meaningful and bizarre events together, the family's bond strengthens and deepens, creating a heartwarming and engaging narrative that explores the complexities of love, friendship, and family.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "248f5b1d12d5fc10",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.637521954236239,
+    "arithmeticGeometricMean": 5.600122351238046,
+    "median": 5.09,
+    "hash": "248f5b1d12d5fc10",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17787",
+    "https://anilist.co/anime/155291",
+    "https://anime-planet.com/anime/kj-file-2023",
+    "https://anisearch.com/anime/17977",
+    "https://kitsu.io/anime/46651",
+    "https://livechart.me/anime/11541",
+    "https://myanimelist.net/anime/53231",
+    "https://notify.moe/anime/Cxiq4xFVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ebb057f462401d88",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.34050612244898,
+    "arithmeticGeometricMean": 5.26408226757178,
+    "median": 5.0,
+    "hash": "ebb057f462401d88",
+    "lastUpdate": "2024-05-09"
+  }
+}

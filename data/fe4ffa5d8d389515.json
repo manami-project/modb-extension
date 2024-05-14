@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12853",
+    "https://anilist.co/anime/105445",
+    "https://anime-planet.com/anime/manga-roba",
+    "https://anisearch.com/anime/12266",
+    "https://kitsu.io/anime/13459",
+    "https://myanimelist.net/anime/34982",
+    "https://notify.moe/anime/b5ln2FmiR"
+  ],
+  "synopsis": {
+    "text": "On a sweltering summer day, a father-son duo embarks on a journey to sell their donkey at an auction, but their lack of independent thinking leads to a series of misfortunes. As they navigate through the countryside, they encounter various individuals, each with their own opinions on how the donkey should be handled. From a teahouse lady to an old man chopping wood, the pair is swayed by every suggestion, resulting in a chaotic series of events. In their attempt to appease everyone, they inadvertently drop the donkey into a river, losing their precious cargo. This engaging tale, adapted from one of Aesop's Fables, serves as a timeless reminder of the importance of independent thinking and the dangers of blindly following others' advice.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe4ffa5d8d389515",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.052746444032159,
+    "arithmeticGeometricMean": 5.039280745586069,
+    "median": 4.954545454545455,
+    "hash": "fe4ffa5d8d389515",
+    "lastUpdate": "2024-05-08"
+  }
+}

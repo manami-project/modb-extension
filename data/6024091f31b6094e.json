@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106675",
+    "https://anime-planet.com/anime/ketchup-mania-bad-bad-bad",
+    "https://kitsu.io/anime/42751",
+    "https://myanimelist.net/anime/38819"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6024091f31b6094e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.5763030303030305,
+    "arithmeticGeometricMean": 5.567118982281416,
+    "median": 5.45,
+    "hash": "6024091f31b6094e",
+    "lastUpdate": "2024-05-05"
+  }
+}

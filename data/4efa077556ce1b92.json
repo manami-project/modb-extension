@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/490",
+    "https://anilist.co/anime/365",
+    "https://anime-planet.com/anime/fake",
+    "https://anisearch.com/anime/600",
+    "https://kitsu.io/anime/332",
+    "https://livechart.me/anime/6670",
+    "https://myanimelist.net/anime/365",
+    "https://notify.moe/anime/jYUhcKimg"
+  ],
+  "score": {
+    "arithmeticMean": 6.225299231380864,
+    "arithmeticGeometricMean": 6.220101841127811,
+    "median": 6.2727272727272725,
+    "hash": "4efa077556ce1b92",
+    "lastUpdate": "2024-05-09"
+  }
+}

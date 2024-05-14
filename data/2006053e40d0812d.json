@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/144991",
+    "https://anime-planet.com/anime/deco-27-parasite",
+    "https://kitsu.io/anime/45853",
+    "https://myanimelist.net/anime/51476"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2006053e40d0812d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.901636363636364,
+    "arithmeticGeometricMean": 6.899598490505766,
+    "median": 7.043999999999999,
+    "hash": "2006053e40d0812d",
+    "lastUpdate": "2024-05-07"
+  }
+}

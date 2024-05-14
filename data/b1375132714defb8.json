@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9344",
+    "https://anilist.co/anime/15059",
+    "https://anime-planet.com/anime/initial-d-fifth-stage",
+    "https://anisearch.com/anime/7988",
+    "https://kitsu.io/anime/7204",
+    "https://livechart.me/anime/943",
+    "https://myanimelist.net/anime/15059",
+    "https://notify.moe/anime/udBdpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b1375132714defb8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.043203663432585,
+    "arithmeticGeometricMean": 8.040360003621396,
+    "median": 8.100454545454545,
+    "hash": "b1375132714defb8",
+    "lastUpdate": "2024-05-09"
+  }
+}

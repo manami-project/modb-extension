@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10352",
+    "https://anilist.co/anime/20574",
+    "https://anime-planet.com/anime/hi-score-girl",
+    "https://anisearch.com/anime/9306",
+    "https://kitsu.io/anime/8158",
+    "https://livechart.me/anime/370",
+    "https://myanimelist.net/anime/21877",
+    "https://notify.moe/anime/SCGTpKimR"
+  ],
+  "synopsis": {
+    "text": "During the golden age of 2D fighting games in 1991, sixth-grader Haruo Yaguchi finds solace in the vibrant world of arcade gaming. He lacks popularity, good looks, humor, and even basic friendliness, but his exceptional gaming skills make up for his shortcomings. One fateful day, Haruo encounters Akira Oono, a well-to-do classmate known for her intelligence, beauty, and charm, at a local arcade. Despite her seemingly out-of-place appearance, Akira proves to be a formidable opponent, effortlessly defeating Haruo in multiple rounds of Street Fighter II.\n\nAs Akira continues to outmatch Haruo in various games, she follows him from arcade to arcade, creating an unusual bond between the two. Despite their stark differences, an unlikely friendship blossoms from their shared passion for gaming. In this odd yet heartwarming tale, Haruo and Akira's relationship evolves through their encounters in the arcade, proving that even the most unlikely pair can find common ground in the most unexpected places.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca6c6d886676e213",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.73846896485867,
+    "arithmeticGeometricMean": 7.737735837152167,
+    "median": 7.747382352941177,
+    "hash": "ca6c6d886676e213",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/129048",
+    "https://anime-planet.com/anime/heavenz-fondant-step",
+    "https://kitsu.io/anime/43973",
+    "https://myanimelist.net/anime/51480"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b527ae0e4d59cbc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.700363636363637,
+    "arithmeticGeometricMean": 6.691604496669354,
+    "median": 6.909090909090909,
+    "hash": "0b527ae0e4d59cbc",
+    "lastUpdate": "2024-05-07"
+  }
+}

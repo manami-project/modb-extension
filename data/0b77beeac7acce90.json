@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10984",
+    "https://anilist.co/anime/20993",
+    "https://anime-planet.com/anime/seraph-of-the-end-battle-in-nagoya",
+    "https://anisearch.com/anime/10122",
+    "https://kitsu.io/anime/10082",
+    "https://livechart.me/anime/1336",
+    "https://myanimelist.net/anime/28927",
+    "https://notify.moe/anime/LeGypKiiR"
+  ],
+  "synopsis": {
+    "text": "The story continues with Yuuichirou Hyakuya and Mikaela Hyakuya, childhood friends who were separated only to be reunited at the Shinjuku Battle. However, their reunion is tainted by the revelation that Mikaela has become a vampire. Yuuichirou, determined to save his friend and protect his comrades in the Moon Demon Company, embarks on a quest for knowledge and power. His mission: to find a way to transform a vampire back into a human.\n\nMeanwhile, the Imperial Demon Army is faced with a grave threat. A large gathering of vampires is preparing to attack Tokyo within a month. In response, Kureto Hiiragi orders Guren Ichinose and his troops to Nagoya to intercept and eliminate the vampire nobles.\n\nAs the noble extermination mission approaches, the members of Shinoa squad work tirelessly to master their weapons and improve their teamwork. Yuuichirou, in particular, must gain the strength he needs to slay the nobles and save his best friend before it's too late. The stage is set for a fierce battle between humans and vampires in Nagoya.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b77beeac7acce90",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.692948361162646,
+    "arithmeticGeometricMean": 7.6894466420098055,
+    "median": 7.730281385281386,
+    "hash": "0b77beeac7acce90",
+    "lastUpdate": "2024-05-09"
+  }
+}

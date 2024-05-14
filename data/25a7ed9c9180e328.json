@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13631",
+    "https://anilist.co/anime/102941",
+    "https://anime-planet.com/anime/inazma-delivery-dougyousha-attack-hen",
+    "https://anisearch.com/anime/13108",
+    "https://kitsu.io/anime/14171",
+    "https://livechart.me/anime/11060",
+    "https://myanimelist.net/anime/36894",
+    "https://notify.moe/anime/ATXNhKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "25a7ed9c9180e328",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.300155102040817,
+    "arithmeticGeometricMean": 6.295677698582734,
+    "median": 6.0,
+    "hash": "25a7ed9c9180e328",
+    "lastUpdate": "2024-05-09"
+  }
+}

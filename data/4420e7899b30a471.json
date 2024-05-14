@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106543",
+    "https://anime-planet.com/anime/seiichi-yamamoto-catalyst",
+    "https://kitsu.io/anime/42794",
+    "https://myanimelist.net/anime/38501"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4420e7899b30a471",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.211515151515151,
+    "arithmeticGeometricMean": 5.1883020720754685,
+    "median": 5.03,
+    "hash": "4420e7899b30a471",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9465",
+    "https://anilist.co/anime/15793",
+    "https://anime-planet.com/anime/symphogear-g",
+    "https://anisearch.com/anime/8496",
+    "https://kitsu.io/anime/7311",
+    "https://livechart.me/anime/24",
+    "https://myanimelist.net/anime/15793",
+    "https://notify.moe/anime/hsGFpFiiR"
+  ],
+  "synopsis": {
+    "text": "Cadenzavna Eve, a global music sensation, joins Tsubasa Kazanari for a joint concert, marking three months since Hibiki, Tsubasa, and Chris saved the world from a devastating Luna Attack. As the Symphogear team enjoys their newfound peace, Maria declares war on the world, wielding the ominous power of a dark Symphogear alongside her allies, Kirika and Shirabe.\n\nIn the midst of their ordinary lives, the Symphogear wielders are tasked with safeguarding Sacrist S, a completed relic, as part of a joint Japanese-American research initiative. Their mission: to escort it to an American military base in Iwakuni. When a dark storm unleashes a new threat—the Noise—the operation takes a perilous turn. As the Noise swarm in, orchestrated by an unseen puppet master, a girl's voice rings out, her song piercing through the chaos. It is Hibiki Tachibana, the first known human to fuse with a relic, who cries out, \"This is my Gungnir!\"\n\nThree months after narrowly preventing Earth's destruction from a Lunar Attack, Hibiki Tachibana, Tsubasa Kazanari, and Chris Yukine continue their battle against the Noise, utilizing their powerful Symphogear armor. As they protect an American convoy from a Noise attack, Hibiki and Chris rush to the Queens of Music concert hall for one of Tsubasa's performances. The concert, featuring Tsubasa and Maria Cadenzavna Eve, is broadcast worldwide. Just as the show reaches its climax, Noise infiltrate the hall, causing pandemonium. Maria, revealing herself as the successor to Finé—Chris",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5de9b62f589ff5a9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.449911822304679,
+    "arithmeticGeometricMean": 7.44632303552634,
+    "median": 7.549090909090909,
+    "hash": "5de9b62f589ff5a9",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17772",
+    "https://anilist.co/anime/140665",
+    "https://anime-planet.com/anime/lees-detective-agency-a-day-in-lungmen",
+    "https://anisearch.com/anime/17932",
+    "https://kitsu.io/anime/46897",
+    "https://livechart.me/anime/11719",
+    "https://myanimelist.net/anime/53852",
+    "https://notify.moe/anime/QWuLZPA4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce535007b59407bb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.1504690166975875,
+    "arithmeticGeometricMean": 6.138006841864557,
+    "median": 5.6,
+    "hash": "ce535007b59407bb",
+    "lastUpdate": "2024-05-09"
+  }
+}

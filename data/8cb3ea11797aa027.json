@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12969",
+    "https://anilist.co/anime/102758",
+    "https://anime-planet.com/anime/moka-mission-school",
+    "https://anisearch.com/anime/15618",
+    "https://kitsu.io/anime/8855",
+    "https://myanimelist.net/anime/21055",
+    "https://notify.moe/anime/n5NxpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8cb3ea11797aa027",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.7231725417439705,
+    "arithmeticGeometricMean": 5.7137050719906615,
+    "median": 5.636363636363637,
+    "hash": "8cb3ea11797aa027",
+    "lastUpdate": "2024-05-08"
+  }
+}

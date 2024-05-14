@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13566",
+    "https://anilist.co/anime/100517",
+    "https://anime-planet.com/anime/baito-saki-wa-aku-no-soshiki",
+    "https://anisearch.com/anime/12986",
+    "https://kitsu.io/anime/41666",
+    "https://livechart.me/anime/2968",
+    "https://myanimelist.net/anime/36771"
+  ],
+  "synopsis": {
+    "text": "Arihisa Aokura, a high school student and the sole provider for his orphaned siblings, is willing to go to any lengths to support his family, even if that means accepting a lucrative part-time job with the nefarious organization, Antares. As an employee of Antares, Arihisa is tasked with donning a special suit and wreaking havoc throughout the city, only to be thwarted by local heroes. However, every time the heroes gain the upper hand, Antares intervenes, repairing Arihisa's armor and sending him back into the fray. Despite his role as a henchman for the evil organization, Arihisa is not inherently a bad person, and the comedic story unfolds as he navigates the challenges of his unconventional job.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73d66e0fa6ab3727",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.390538033395176,
+    "arithmeticGeometricMean": 5.349518194785233,
+    "median": 5.390538033395176,
+    "hash": "73d66e0fa6ab3727",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12638",
+    "https://anilist.co/anime/116785",
+    "https://anime-planet.com/anime/gou-chan-moko-to-chinjuu-no-mori-no-nakama-tachi",
+    "https://anisearch.com/anime/12205",
+    "https://kitsu.io/anime/13158",
+    "https://livechart.me/anime/2460",
+    "https://myanimelist.net/anime/34527",
+    "https://notify.moe/anime/cM0MhKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "932981f0dfbaf19b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.462069016697588,
+    "arithmeticGeometricMean": 5.4150355289008045,
+    "median": 5.0,
+    "hash": "932981f0dfbaf19b",
+    "lastUpdate": "2024-05-09"
+  }
+}

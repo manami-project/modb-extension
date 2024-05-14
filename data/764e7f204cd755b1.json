@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5296",
+    "https://anilist.co/anime/6667",
+    "https://anime-planet.com/anime/m-flo-loves-chara-love-to-live-by",
+    "https://anisearch.com/anime/5561",
+    "https://kitsu.io/anime/4654",
+    "https://myanimelist.net/anime/6667",
+    "https://notify.moe/anime/7a165KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "764e7f204cd755b1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.379084018022794,
+    "arithmeticGeometricMean": 5.362804545342108,
+    "median": 5.545454545454546,
+    "hash": "764e7f204cd755b1",
+    "lastUpdate": "2024-05-08"
+  }
+}

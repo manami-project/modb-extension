@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1945",
+    "https://anilist.co/anime/566",
+    "https://anime-planet.com/anime/birdy-the-mighty",
+    "https://anisearch.com/anime/2557",
+    "https://kitsu.io/anime/523",
+    "https://livechart.me/anime/4482",
+    "https://myanimelist.net/anime/566",
+    "https://notify.moe/anime/XNyTcFmiR"
+  ],
+  "synopsis": {
+    "text": "Caught in the crossfire of an intergalactic chase, Tsutomu, a diligent middle school student, finds himself in an unexpected predicament. Just as he prepares for his high school entrance exams, he's thrust into a world of extraterrestrial law enforcement when he encounters Birdy, a determined and passionate Federation Officer. After an unfortunate accident leaves Tsutomu on the brink of death, Birdy saves him by merging their bodies into one. Now, they must navigate the challenges of everyday life while capturing interstellar criminals and thwarting the sinister plans of the villainous Christella Revi. As they share this extraordinary journey, Tsutomu and Birdy form an unbreakable bond that transcends the boundaries of their unique living arrangement. Get ready for a thrilling and humorous adventure filled with action and camaraderie in \"Birdy the Mighty.\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a24b87cbfe887efa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.184398423005566,
+    "arithmeticGeometricMean": 7.182183559834306,
+    "median": 7.08,
+    "hash": "a24b87cbfe887efa",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14880",
+    "https://anime-planet.com/anime/can-wa-yu-tianchi-guaishou-ruixue-zhao-fengnian",
+    "https://anisearch.com/anime/14541",
+    "https://myanimelist.net/anime/45095"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a32c52b37cebdf7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "5a32c52b37cebdf7",
+    "lastUpdate": "2024-05-11"
+  }
+}

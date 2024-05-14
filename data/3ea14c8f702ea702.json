@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9354",
+    "https://anilist.co/anime/21654",
+    "https://anime-planet.com/anime/salmon-chan",
+    "https://anisearch.com/anime/8007",
+    "https://kitsu.io/anime/11482",
+    "https://myanimelist.net/anime/38957",
+    "https://notify.moe/anime/BFDjpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3ea14c8f702ea702",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.976208322289955,
+    "arithmeticGeometricMean": 5.953802277851187,
+    "median": 6.01,
+    "hash": "3ea14c8f702ea702",
+    "lastUpdate": "2024-05-07"
+  }
+}

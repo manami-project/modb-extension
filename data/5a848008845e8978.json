@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12998",
+    "https://anilist.co/anime/8724",
+    "https://anime-planet.com/anime/nobiro-nobiro-daisuki-na-ki",
+    "https://anisearch.com/anime/9326",
+    "https://kitsu.io/anime/5461",
+    "https://myanimelist.net/anime/8724",
+    "https://notify.moe/anime/gnqmtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a848008845e8978",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.256889919604205,
+    "arithmeticGeometricMean": 5.227359060689762,
+    "median": 5.386363636363637,
+    "hash": "5a848008845e8978",
+    "lastUpdate": "2024-05-07"
+  }
+}

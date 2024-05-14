@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3154",
+    "https://anilist.co/anime/5440",
+    "https://anime-planet.com/anime/the-brave-of-gold-goldran",
+    "https://anisearch.com/anime/857",
+    "https://kitsu.io/anime/4101",
+    "https://livechart.me/anime/6799",
+    "https://myanimelist.net/anime/5440",
+    "https://notify.moe/anime/aEtj5KmmR"
+  ],
+  "synopsis": {
+    "text": "That trio of intrepid elementary school students, Takuya, Kazuki, and Dai, stumbles upon an extraordinary discovery: a mystical stone hailing from the far-off planet Legendra. Encased within this stone lies the formidable golden robot, Dan, who awakens under their care and acknowledges the boys as his new commanders. However, their possession of the stone draws the attention of nefarious individuals, including the eccentric and bumbling Walter and his gang of clueless minions. To thwart their adversaries' sinister plans, the boys embark on a thrilling quest to locate the remaining seven mystical stones and awaken Dan's fellow robotic allies. Join the adventure and witness the boys' courage and camaraderie as they navigate challenges and protect their newfound robot friends.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "023272419c6edab3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.5779088258680085,
+    "arithmeticGeometricMean": 6.550903213310086,
+    "median": 6.81,
+    "hash": "023272419c6edab3",
+    "lastUpdate": "2024-05-09"
+  }
+}

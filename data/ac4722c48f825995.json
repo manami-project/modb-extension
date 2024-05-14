@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113262",
+    "https://anime-planet.com/anime/the-sakuramoto-broom-workshop",
+    "https://kitsu.io/anime/45250"
+  ],
+  "synopsis": {
+    "text": "Graduate student Aya Tsugehata from Tokyo University of the Arts presents a heartwarming tale of an elderly Japanese couple who spend their days crafting beautiful blooms for a living. After a lifetime of love and companionship, the husband becomes concerned when his wife begins to exhibit signs of illness, creating challenges in their work and daily lives. This poignant animation explores the trials and tribulations of growing old together and the unwavering bond between two souls.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ac4722c48f825995",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.361545454545454,
+    "arithmeticGeometricMean": 6.353487678627156,
+    "median": 6.361545454545454,
+    "hash": "ac4722c48f825995",
+    "lastUpdate": "2024-05-07"
+  }
+}

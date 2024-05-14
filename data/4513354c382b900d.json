@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136783",
+    "https://anime-planet.com/anime/serph-sparkle",
+    "https://myanimelist.net/anime/43352"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4513354c382b900d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.274000000000001,
+    "arithmeticGeometricMean": 6.2707480773927955,
+    "median": 6.15,
+    "hash": "4513354c382b900d",
+    "lastUpdate": "2024-05-07"
+  }
+}

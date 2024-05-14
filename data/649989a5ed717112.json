@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/274",
+    "https://anilist.co/anime/633",
+    "https://anime-planet.com/anime/legend-of-basara",
+    "https://anisearch.com/anime/1273",
+    "https://kitsu.io/anime/587",
+    "https://livechart.me/anime/8203",
+    "https://myanimelist.net/anime/633",
+    "https://notify.moe/anime/ekz0cFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "649989a5ed717112",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.112329711105221,
+    "arithmeticGeometricMean": 7.111110466491314,
+    "median": 7.024489795918367,
+    "hash": "649989a5ed717112",
+    "lastUpdate": "2024-05-09"
+  }
+}

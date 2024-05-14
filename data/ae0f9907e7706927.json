@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/201",
+    "https://anilist.co/anime/277",
+    "https://anime-planet.com/anime/mahoromatic-2",
+    "https://anisearch.com/anime/1712",
+    "https://kitsu.io/anime/252",
+    "https://livechart.me/anime/4552",
+    "https://myanimelist.net/anime/277",
+    "https://notify.moe/anime/Nsc25Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ae0f9907e7706927",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.130805658627088,
+    "arithmeticGeometricMean": 7.125455368755877,
+    "median": 7.223,
+    "hash": "ae0f9907e7706927",
+    "lastUpdate": "2024-05-09"
+  }
+}

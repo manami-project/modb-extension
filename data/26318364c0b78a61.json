@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8393",
+    "https://anilist.co/anime/10691",
+    "https://anime-planet.com/anime/hatsune-miku-downloader",
+    "https://anisearch.com/anime/7047",
+    "https://kitsu.io/anime/6297",
+    "https://myanimelist.net/anime/10691",
+    "https://notify.moe/anime/nKJ4tFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26318364c0b78a61",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.706719362270383,
+    "arithmeticGeometricMean": 5.697061404992143,
+    "median": 5.89,
+    "hash": "26318364c0b78a61",
+    "lastUpdate": "2024-05-08"
+  }
+}

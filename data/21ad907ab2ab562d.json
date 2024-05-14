@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13737",
+    "https://anilist.co/anime/101103",
+    "https://anime-planet.com/anime/wo-shi-jiang-xiaobai",
+    "https://anisearch.com/anime/13241",
+    "https://kitsu.io/anime/14186",
+    "https://livechart.me/anime/6127",
+    "https://myanimelist.net/anime/36775",
+    "https://notify.moe/anime/McCN2FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "21ad907ab2ab562d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.2235970050357805,
+    "arithmeticGeometricMean": 7.22099042842736,
+    "median": 7.090909090909091,
+    "hash": "21ad907ab2ab562d",
+    "lastUpdate": "2024-05-10"
+  }
+}

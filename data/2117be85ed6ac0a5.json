@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2389",
+    "https://anilist.co/anime/2213",
+    "https://anime-planet.com/anime/black-jack",
+    "https://anisearch.com/anime/1230",
+    "https://kitsu.io/anime/2004",
+    "https://livechart.me/anime/5635",
+    "https://myanimelist.net/anime/2213",
+    "https://notify.moe/anime/PuWE5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2117be85ed6ac0a5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.390790352504639,
+    "arithmeticGeometricMean": 7.380757193608025,
+    "median": 7.587727272727273,
+    "hash": "2117be85ed6ac0a5",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2233",
+    "https://anilist.co/anime/2415",
+    "https://anime-planet.com/anime/grander-musashi",
+    "https://anisearch.com/anime/2868",
+    "https://kitsu.io/anime/2191",
+    "https://livechart.me/anime/8240",
+    "https://myanimelist.net/anime/2415",
+    "https://notify.moe/anime/FdyPcFiig"
+  ],
+  "synopsis": {
+    "text": "Through the eyes of Musashi, we embark on a journey that blends the serenity of nature with the thrill of fishing. Abandoned by his mother three years ago, Musashi and his father relocate from bustling Tokyo to a tranquil countryside village. Struggling to adapt to his new surroundings, Musashi yearns for his mother's return and fears she won't find him in their new home.\n\nHis life takes an unexpected turn when he encounters a man skillfully fishing with a decoy. Intrigued by this lure fishing technique, Musashi learns the ropes from the man and discovers a hidden family legacy: his maternal grandfather was a world-renowned bass fishing champion.\n\nWith newfound passion and a glimmer of hope, Musashi embarks on a global quest to find his missing mother, using his extraordinary talent for lure fishing as a compass. His journey introduces him to a myriad of exotic fish and eccentric anglers, transforming his once mundane life into a thrilling adventure. Along the way, he learns to appreciate the beauty of nature and the joy it brings, ultimately finding solace in his newfound home.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9d1645263a02768b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.408738051064581,
+    "arithmeticGeometricMean": 6.368144360795944,
+    "median": 6.758,
+    "hash": "9d1645263a02768b",
+    "lastUpdate": "2024-05-10"
+  }
+}

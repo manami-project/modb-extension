@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17727",
+    "https://anilist.co/anime/157638",
+    "https://anime-planet.com/anime/youkai-watch-movie-8-jibanyan-vs-komasan-monge-daikessen-da-nyan",
+    "https://anisearch.com/anime/18030",
+    "https://livechart.me/anime/11638",
+    "https://myanimelist.net/anime/53634"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9a0bb7591b56e4ff",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.909090909090908,
+    "arithmeticGeometricMean": 5.909090909090908,
+    "median": 5.909090909090908,
+    "hash": "9a0bb7591b56e4ff",
+    "lastUpdate": "2024-05-10"
+  }
+}

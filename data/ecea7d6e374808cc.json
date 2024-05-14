@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/569",
+    "https://anilist.co/anime/1488",
+    "https://anime-planet.com/anime/area-88",
+    "https://anisearch.com/anime/2833",
+    "https://kitsu.io/anime/1334",
+    "https://livechart.me/anime/5323",
+    "https://myanimelist.net/anime/1488",
+    "https://notify.moe/anime/TIF-5Fmmg"
+  ],
+  "synopsis": {
+    "text": "He was destined for a bright future in aviation, but one fateful trick changed Shin Kazama's life forever. Deceived by a trusted friend, Shin finds himself forced into the ruthless world of the Asran Mercenary Air Force, stationed at the notorious Area 88. To regain his freedom, he must survive three treacherous years or accumulate an astronomical $1.5 million. As he navigates the deadly skies, Shin grapples with the harsh realities of war and the weight of lives taken. Will he emerge from this aerial inferno unscathed, or will the cost of survival prove too steep for this once-promising pilot?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ecea7d6e374808cc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.468738934534852,
+    "arithmeticGeometricMean": 7.4636842986761085,
+    "median": 7.545454545454546,
+    "hash": "ecea7d6e374808cc",
+    "lastUpdate": "2024-05-08"
+  }
+}

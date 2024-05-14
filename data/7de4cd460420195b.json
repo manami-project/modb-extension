@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3350",
+    "https://anilist.co/anime/2482",
+    "https://anime-planet.com/anime/good-morning-althea",
+    "https://anisearch.com/anime/3146",
+    "https://kitsu.io/anime/2252",
+    "https://myanimelist.net/anime/2482",
+    "https://notify.moe/anime/8gjPcKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7de4cd460420195b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.3470654651470975,
+    "arithmeticGeometricMean": 5.300339136746853,
+    "median": 5.49,
+    "hash": "7de4cd460420195b",
+    "lastUpdate": "2024-05-08"
+  }
+}

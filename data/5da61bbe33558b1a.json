@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14812",
+    "https://anilist.co/anime/110419",
+    "https://anime-planet.com/anime/gundam-vs-hello-kitty",
+    "https://anisearch.com/anime/14332",
+    "https://kitsu.io/anime/42495",
+    "https://myanimelist.net/anime/39674"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5da61bbe33558b1a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.249383426097713,
+    "arithmeticGeometricMean": 6.2263476308956855,
+    "median": 6.542,
+    "hash": "5da61bbe33558b1a",
+    "lastUpdate": "2024-05-08"
+  }
+}

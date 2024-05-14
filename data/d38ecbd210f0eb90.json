@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103171",
+    "https://anime-planet.com/anime/ai-no-kakato",
+    "https://kitsu.io/anime/45143"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d38ecbd210f0eb90",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.376818181818181,
+    "arithmeticGeometricMean": 5.3285481884814105,
+    "median": 5.376818181818181,
+    "hash": "d38ecbd210f0eb90",
+    "lastUpdate": "2024-05-05"
+  }
+}

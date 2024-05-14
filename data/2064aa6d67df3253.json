@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/739",
+    "https://anilist.co/anime/1391",
+    "https://anime-planet.com/anime/future-gpx-cyber-formula",
+    "https://anisearch.com/anime/264",
+    "https://kitsu.io/anime/1244",
+    "https://livechart.me/anime/8297",
+    "https://myanimelist.net/anime/1391",
+    "https://notify.moe/anime/YFexcFmiR"
+  ],
+  "synopsis": {
+    "text": "Formula racing has reached a new level with the advent of cyber technology in the futuristic year 2000. Enter Hayato Kazami, a 14-year-old prodigy and the youngest competitor in the Cyber Formula Grand Prix. In this high-stakes racing tournament, vehicles are no longer just fuel-driven, but are equipped with advanced AI computers and cybernavigation systems to enhance performance. Hayato's ride, Asurada, is the most sophisticated of them all. As he navigates the thrilling world of Cyber Formula racing, Hayato must learn that victory is not solely about having the best technology. He must earn the respect of seasoned racers, outwit those who covet Asurada, and even venture into races beyond the Cyber Formula circuit. With team Sugo by his side, Hayato embarks on a journey to master his machine, prove his mettle, and ultimately, win the 10th Cyber Formula Grand Prix. But the road to victory is fraught with challenges, as Hayato must also uncover the true intentions of the mysterious organization that tried to steal Asurada. The future of racing is here, and Hayato Kazami is at the forefront of it all.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2064aa6d67df3253",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.91295149748211,
+    "arithmeticGeometricMean": 6.884969176598787,
+    "median": 7.272727272727273,
+    "hash": "2064aa6d67df3253",
+    "lastUpdate": "2024-05-09"
+  }
+}

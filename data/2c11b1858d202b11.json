@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13536",
+    "https://anilist.co/anime/100388",
+    "https://anime-planet.com/anime/banana-fish",
+    "https://anisearch.com/anime/12939",
+    "https://kitsu.io/anime/13988",
+    "https://livechart.me/anime/2951",
+    "https://myanimelist.net/anime/36649",
+    "https://notify.moe/anime/_LWNhKiiR"
+  ],
+  "synopsis": {
+    "text": "Dino's ruthless upbringing has transformed the once innocent Ash Lynx into a cold and formidable leader of a New York street gang. At the tender age of 17, Ash finds himself entangled in a web of danger and mystery surrounding the enigmatic term \"Banana Fish.\" This phrase, frequently muttered by his troubled brother Griffin, connects to a series of inexplicable deaths during the Iraq War and a recent wave of bizarre suicides in the city.\n\nAsh's life takes an unexpected turn when he encounters Eiji, a kind-hearted Japanese photographer, who becomes an invaluable ally in his quest for the truth. As they delve deeper into the mystery, they find themselves pursued by relentless enemies, including the Corsican mafia, the Triads, and even the US military. With the odds stacked against them, Ash and Eiji must navigate the treacherous world of organized crime and unravel the secrets behind Banana Fish to put an end to the chaos.\n\nThe bond between Ash and Eiji strengthens as they face insurmountable challenges, but will their newfound friendship be enough to conquer the dark forces that threaten to consume them? Only time will tell if Ash can break free from his tragic past and protect those he holds dear. Join Ash and Eiji in their thrilling journey to uncover the truth behind Banana Fish and witness the unfolding of an epic tale filled with action, suspense, and heart-wrenching emotions.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2c11b1858d202b11",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.212157850689684,
+    "arithmeticGeometricMean": 8.205382264990739,
+    "median": 8.299545454545456,
+    "hash": "2c11b1858d202b11",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/tiger-and-bunny-recaps",
+    "https://anisearch.com/anime/16014",
+    "https://kitsu.io/anime/10704",
+    "https://myanimelist.net/anime/30178",
+    "https://notify.moe/anime/riLwtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b3bc9cea5d3f6c81",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.018544217687075,
+    "arithmeticGeometricMean": 6.0136571827325405,
+    "median": 5.922755102040817,
+    "hash": "b3bc9cea5d3f6c81",
+    "lastUpdate": "2024-05-07"
+  }
+}

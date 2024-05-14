@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15716",
+    "https://anilist.co/anime/123785",
+    "https://anime-planet.com/anime/project-scard-scar-on-the-praeter",
+    "https://anisearch.com/anime/15527",
+    "https://kitsu.io/anime/43662",
+    "https://livechart.me/anime/10139",
+    "https://myanimelist.net/anime/42825",
+    "https://notify.moe/anime/PrY0V_DMR"
+  ],
+  "synopsis": {
+    "text": "Public Security Special Service, Artemis, and Helios are the three factions that maintain order in Tokyo's lawless Akatsuki Special Ward, following a rebellion that led to its abandonment by the government. These factions are comprised of Scards, individuals bestowed with Divine Tattoos that grant them extraordinary abilities and render them virtually invincible.\n\nAmong these Scards is Eiji Arashiba, the Hero of Akatsuki, who shields the district from foreign threats. One day, Eiji and a new acquaintance, Yamato Kai, find themselves in a confrontation with Dusk, a mafia syndicate. As Yamato attempts to protect Eiji from a sniper bullet, it strikes his tattoo, leading Eiji to transfer it to Yamato, entrusting him with the ward's protection.\n\nAs conflict continues to consume the Akatsuki Special Ward, Yamato must navigate his newfound Scard powers to safeguard his loved ones and uphold Eiji's legacy as the new Hero of Akatsuki. Despite their differing motives and regular clashes, the Scards form alliances and build trust, learning to overcome their challenges together. Will Yamato rise to the occasion and protect the ward, or will he succumb to the pressures of his new role?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dcf71e0785e125b7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.626712894248608,
+    "arithmeticGeometricMean": 5.588131454843019,
+    "median": 5.827306122448979,
+    "hash": "dcf71e0785e125b7",
+    "lastUpdate": "2024-05-09"
+  }
+}

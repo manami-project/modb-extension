@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17938",
+    "https://anilist.co/anime/163078",
+    "https://anime-planet.com/anime/jellyfish-cant-swim-in-the-night",
+    "https://anisearch.com/anime/18297",
+    "https://kitsu.io/anime/47233",
+    "https://livechart.me/anime/11870",
+    "https://myanimelist.net/anime/54839",
+    "https://notify.moe/anime/KDiHBJBVg"
+  ],
+  "synopsis": {
+    "text": "Watase and composer Mei Kim Anouk Takanashi, the girls come together to form an anonymous artist collective, JELEE, in the vibrant district of Shibuya. As they navigate their individual pasts and the challenges of expressing their true selves, they embark on a creative journey to shine as a collective.\n\nIn the heart of Shibuya, where identities converge, a group of four young women, each with their unique backgrounds, unite to form an anonymous artistic alliance called JELEE. Among them is Mahiru Kouzuki, a once passionate painter who abandoned her craft after facing ridicule, and Kano Yamanouchi, a former idol seeking to redefine herself through music. Together with Vtuber Kiui Watase and composer Mei Kim Anouk Takanashi, they strive to find their voices and embrace their individuality, hoping that their collective brilliance will illuminate their path to self-discovery and success.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f5989525b5b141ea",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.791933673469386,
+    "arithmeticGeometricMean": 7.783385817440336,
+    "median": 7.934090909090909,
+    "hash": "f5989525b5b141ea",
+    "lastUpdate": "2024-05-10"
+  }
+}

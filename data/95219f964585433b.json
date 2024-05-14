@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9649",
+    "https://anilist.co/anime/16834",
+    "https://anime-planet.com/anime/roboteugundangwa-meka3",
+    "https://anisearch.com/anime/8512",
+    "https://kitsu.io/anime/7539",
+    "https://myanimelist.net/anime/16834",
+    "https://notify.moe/anime/iXV5pKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "95219f964585433b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0221141001855285,
+    "arithmeticGeometricMean": 4.9287934380834315,
+    "median": 4.863636363636363,
+    "hash": "95219f964585433b",
+    "lastUpdate": "2024-05-08"
+  }
+}

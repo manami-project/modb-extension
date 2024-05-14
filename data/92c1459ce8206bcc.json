@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7321",
+    "https://anilist.co/anime/8026",
+    "https://anime-planet.com/anime/super-street-fighter-iv",
+    "https://anisearch.com/anime/6034",
+    "https://kitsu.io/anime/5176",
+    "https://livechart.me/anime/6791",
+    "https://myanimelist.net/anime/8026",
+    "https://notify.moe/anime/K9skpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92c1459ce8206bcc",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.513087198515771,
+    "arithmeticGeometricMean": 6.500011344941264,
+    "median": 6.33,
+    "hash": "92c1459ce8206bcc",
+    "lastUpdate": "2024-05-10"
+  }
+}

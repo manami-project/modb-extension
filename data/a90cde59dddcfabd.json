@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4455",
+    "https://anilist.co/anime/1345",
+    "https://anime-planet.com/anime/psychic-wars",
+    "https://anisearch.com/anime/5163",
+    "https://kitsu.io/anime/1200",
+    "https://livechart.me/anime/7206",
+    "https://myanimelist.net/anime/1345",
+    "https://notify.moe/anime/Bdlx5Fmig"
+  ],
+  "synopsis": {
+    "text": "Darkness looms as Dr. Ukyo Retsu, a gifted surgeon, unwittingly uncovers a sinister secret hidden within an enigmatic elderly patient. The patient's cancer is no ordinary growth, but a 5,000-year-old demonic harbinger, signaling an imminent invasion of Earth by an ancient race of demons.\n\nForced into a battle against time, Ukyo is bestowed with psychic supernatural abilities and thrust into the heart of an ancient city, where a portal to the past awaits. As he traverses the annals of time, he finds himself in a world where these malevolent beings once thrived, plotting their return to seize control of Earth and eradicate humanity.\n\nWith the fate of mankind's ancestors and the future of Earth hanging in the balance, Ukyo must rise above his humble beginnings as a doctor and embrace his newfound powers. Can he vanquish the ancient demon army and save humanity from the brink of extinction, or will the darkness consume him and the world as we know it? Join Ukyo in this thrilling adventure through time and discover the true power within!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a90cde59dddcfabd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.4285878611184732,
+    "arithmeticGeometricMean": 3.4075340572976573,
+    "median": 3.36938775510204,
+    "hash": "a90cde59dddcfabd",
+    "lastUpdate": "2024-05-10"
+  }
+}

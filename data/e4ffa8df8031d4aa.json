@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10370",
+    "https://anilist.co/anime/20878",
+    "https://anime-planet.com/anime/the-disappearance-of-conan-edogawa-the-worst-two-days-in-history",
+    "https://anisearch.com/anime/9627",
+    "https://kitsu.io/anime/8179",
+    "https://livechart.me/anime/390",
+    "https://myanimelist.net/anime/21867",
+    "https://notify.moe/anime/zKSTpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e4ffa8df8031d4aa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.942357014017728,
+    "arithmeticGeometricMean": 7.939089810975757,
+    "median": 7.852968460111317,
+    "hash": "e4ffa8df8031d4aa",
+    "lastUpdate": "2024-05-09"
+  }
+}

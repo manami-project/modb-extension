@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7557",
+    "https://anilist.co/anime/10060",
+    "https://anime-planet.com/anime/sore-ike-anpanman-soratobu-ehon-to-glass-no-kutsu",
+    "https://anisearch.com/anime/5337",
+    "https://kitsu.io/anime/6017",
+    "https://livechart.me/anime/11445",
+    "https://myanimelist.net/anime/10060",
+    "https://notify.moe/anime/uZDnpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec0e65fb00e88398",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.408066790352505,
+    "arithmeticGeometricMean": 5.266010509759521,
+    "median": 5.0,
+    "hash": "ec0e65fb00e88398",
+    "lastUpdate": "2024-05-10"
+  }
+}

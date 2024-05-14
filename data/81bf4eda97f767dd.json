@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3066",
+    "https://anilist.co/anime/111937",
+    "https://anime-planet.com/anime/gokiburi-chan",
+    "https://anisearch.com/anime/2460",
+    "https://myanimelist.net/anime/40299"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81bf4eda97f767dd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.435992578849722,
+    "arithmeticGeometricMean": 5.399209545247973,
+    "median": 5.435992578849722,
+    "hash": "81bf4eda97f767dd",
+    "lastUpdate": "2024-05-08"
+  }
+}

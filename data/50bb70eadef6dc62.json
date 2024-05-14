@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/goara"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "50bb70eadef6dc62",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.462,
+    "arithmeticGeometricMean": 5.462,
+    "median": 5.462,
+    "hash": "50bb70eadef6dc62",
+    "lastUpdate": "2024-05-08"
+  }
+}

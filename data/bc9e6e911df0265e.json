@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115177",
+    "https://anime-planet.com/anime/ametsuchi",
+    "https://kitsu.io/anime/42812"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc9e6e911df0265e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.019454545454545,
+    "arithmeticGeometricMean": 5.983375975103627,
+    "median": 6.019454545454545,
+    "hash": "bc9e6e911df0265e",
+    "lastUpdate": "2024-05-05"
+  }
+}

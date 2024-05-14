@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2078",
+    "https://anilist.co/anime/2223",
+    "https://anime-planet.com/anime/maple-town",
+    "https://anisearch.com/anime/2728",
+    "https://kitsu.io/anime/2014",
+    "https://livechart.me/anime/7702",
+    "https://myanimelist.net/anime/2223",
+    "https://notify.moe/anime/JD7PcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "57983f518e48bea5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.329759872780281,
+    "arithmeticGeometricMean": 6.299538118327037,
+    "median": 6.44,
+    "hash": "57983f518e48bea5",
+    "lastUpdate": "2024-05-09"
+  }
+}

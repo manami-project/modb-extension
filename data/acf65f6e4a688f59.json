@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1016",
+    "https://anilist.co/anime/2331",
+    "https://anime-planet.com/anime/ulysses-31",
+    "https://anisearch.com/anime/1973",
+    "https://kitsu.io/anime/2111",
+    "https://livechart.me/anime/6161",
+    "https://myanimelist.net/anime/2331",
+    "https://notify.moe/anime/4qAEcKmiR"
+  ],
+  "synopsis": {
+    "text": "Ulysses, a valiant space explorer in the 31st century, faces the wrath of ancient Olympian gods after slaying a Cyclops to save his son, Telemachus, and other children. As punishment, his crew is frozen and his spaceship, Odysseus, is cast into the far reaches of the universe with no clear path back to Earth. Zeus commands Ulysses to find the elusive Kingdom of Hades to break the curse and return home to his beloved Penelope. Alongside his awake crew - Telemachus, Iris, and a small robot, Nono - Ulysses embarks on a perilous journey filled with encounters of those who have also faced the gods' wrath and those tasked with halting his progress. As Ulysses navigates through space, the question remains: will he triumph against the gods' twisted plans and find his way back to Earth?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "acf65f6e4a688f59",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.592248608534324,
+    "arithmeticGeometricMean": 6.568552062388734,
+    "median": 6.916,
+    "hash": "acf65f6e4a688f59",
+    "lastUpdate": "2024-05-10"
+  }
+}

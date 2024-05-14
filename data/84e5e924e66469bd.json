@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102486",
+    "https://anime-planet.com/anime/a-crow-is-white-many-mary",
+    "https://anisearch.com/anime/16042",
+    "https://kitsu.io/anime/8887",
+    "https://myanimelist.net/anime/25533",
+    "https://notify.moe/anime/xBcxtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "84e5e924e66469bd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.884299319727891,
+    "arithmeticGeometricMean": 4.8712643931609785,
+    "median": 4.818,
+    "hash": "84e5e924e66469bd",
+    "lastUpdate": "2024-05-06"
+  }
+}

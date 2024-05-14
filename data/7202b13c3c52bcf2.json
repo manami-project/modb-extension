@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12442",
+    "https://anilist.co/anime/21791",
+    "https://anime-planet.com/anime/bungo-stray-dogs-walking-alone",
+    "https://anisearch.com/anime/11981",
+    "https://kitsu.io/anime/12051",
+    "https://livechart.me/anime/2135",
+    "https://myanimelist.net/anime/33071",
+    "https://notify.moe/anime/cnQetKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7202b13c3c52bcf2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.749706548770378,
+    "arithmeticGeometricMean": 7.745167014286954,
+    "median": 7.702857142857143,
+    "hash": "7202b13c3c52bcf2",
+    "lastUpdate": "2024-05-09"
+  }
+}

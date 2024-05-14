@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3372",
+    "https://anilist.co/anime/8233",
+    "https://anime-planet.com/anime/genji",
+    "https://anisearch.com/anime/1965",
+    "https://kitsu.io/anime/5257",
+    "https://livechart.me/anime/9120",
+    "https://myanimelist.net/anime/8233",
+    "https://notify.moe/anime/ouiitKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f7f253e3e1ac266",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.192374149659864,
+    "arithmeticGeometricMean": 5.1123102998431,
+    "median": 5.0,
+    "hash": "6f7f253e3e1ac266",
+    "lastUpdate": "2024-05-09"
+  }
+}

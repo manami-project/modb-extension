@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13800",
+    "https://anilist.co/anime/102645",
+    "https://anime-planet.com/anime/shuang-yue-zhi-cheng",
+    "https://anisearch.com/anime/11841",
+    "https://kitsu.io/anime/12519",
+    "https://livechart.me/anime/7911",
+    "https://myanimelist.net/anime/33757",
+    "https://notify.moe/anime/eY_khFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "037e0afc287758f3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1543636363636365,
+    "arithmeticGeometricMean": 5.079791455295821,
+    "median": 5.307727272727273,
+    "hash": "037e0afc287758f3",
+    "lastUpdate": "2024-05-10"
+  }
+}

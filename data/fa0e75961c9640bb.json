@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/397",
+    "https://anilist.co/anime/906",
+    "https://anime-planet.com/anime/dragon-ball-z-movie-13-wrath-of-the-dragon",
+    "https://anisearch.com/anime/1441",
+    "https://kitsu.io/anime/806",
+    "https://livechart.me/anime/4463",
+    "https://myanimelist.net/anime/906",
+    "https://notify.moe/anime/q8k1cFmig"
+  ],
+  "synopsis": {
+    "text": "Z-Fighters brace for an epic battle as a formidable monster, Hirudegarn, threatens to wreak havoc on Earth. Once a statue brought to life by ancient magicians, the creature was split in two and sealed within the bodies of two brothers. In present-day Satan City, Gohan and Videl are already grappling with maintaining peace and order when they encounter an old man named Hoy, who warns them of the impending danger.\n\nTo combat this threat, the Z-Fighters must release Tapion, a legendary warrior sealed within a mysterious music box. With the help of the Dragon Balls, they manage to free Tapion, but the warrior fears that it's only a matter of time before he merges with his brother and unleashes the monster once more.\n\nAs the Z-Fighters race against time, Goku strives to master a new technique to defeat the seemingly invincible Hirudegarn. In this desperate struggle, the fate of the world hangs in the balance, and the Z-Fighters must push their limits to prevent the eternal triumph of evil.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fa0e75961c9640bb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.242307606170041,
+    "arithmeticGeometricMean": 7.238580935365308,
+    "median": 7.375,
+    "hash": "fa0e75961c9640bb",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10172",
+    "https://anime-planet.com/anime/genki-genki-nontan-2006",
+    "https://anisearch.com/anime/9222",
+    "https://kitsu.io/anime/9279",
+    "https://myanimelist.net/anime/25615",
+    "https://notify.moe/anime/MFC-tFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ab8b9d39662dea22",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.027,
+    "arithmeticGeometricMean": 5.982846389421029,
+    "median": 6.027,
+    "hash": "ab8b9d39662dea22",
+    "lastUpdate": "2024-05-08"
+  }
+}

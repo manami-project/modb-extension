@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11364",
+    "https://anilist.co/anime/143305",
+    "https://anime-planet.com/anime/milpom-pilot",
+    "https://anisearch.com/anime/10899",
+    "https://kitsu.io/anime/10785",
+    "https://myanimelist.net/anime/30438",
+    "https://notify.moe/anime/ojz_pFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6676cec66a675784",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.204900609594487,
+    "arithmeticGeometricMean": 4.164766635385209,
+    "median": 4.090909090909091,
+    "hash": "6676cec66a675784",
+    "lastUpdate": "2024-05-08"
+  }
+}

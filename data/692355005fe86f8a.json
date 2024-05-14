@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2994",
+    "https://anilist.co/anime/1974",
+    "https://anime-planet.com/anime/glass-mask-2005",
+    "https://anisearch.com/anime/3001",
+    "https://kitsu.io/anime/1777",
+    "https://livechart.me/anime/5557",
+    "https://myanimelist.net/anime/1974",
+    "https://notify.moe/anime/ZgSL5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Chinese restaurants and crowded kitchens are the only world that 13-year-old Maya Kitajima has ever known, until the day she is discovered by the legendary actress, Chigusa Tsukikage. With her extraordinary acting talent recognized, Maya is thrust into the ruthless world of theater, where she must compete against the equally gifted Ayumi Himekawa for the coveted role of The Crimson Goddess. As Maya struggles to hone her skills and overcome the challenges that come her way, she finds herself caught in the crosshairs of Tsukikage's powerful enemies. But with unwavering determination and a passion for acting that burns bright, Maya will stop at nothing to achieve her dream and claim the role that she was destined to play. In a world where people wear masks as fragile as glass to hide their true selves, Maya must learn to embrace her own identity and let her talent shine, even if it means risking everything.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "692355005fe86f8a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.74613873428159,
+    "arithmeticGeometricMean": 7.740792407740623,
+    "median": 7.8977272727272725,
+    "hash": "692355005fe86f8a",
+    "lastUpdate": "2024-05-09"
+  }
+}

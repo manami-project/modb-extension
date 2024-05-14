@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139038",
+    "https://anime-planet.com/anime/oyama-no-taishou",
+    "https://kitsu.io/anime/40886",
+    "https://myanimelist.net/anime/36301",
+    "https://notify.moe/anime/WdTdhKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc6df23c800e84aa",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.186,
+    "arithmeticGeometricMean": 5.13669966579377,
+    "median": 5.09,
+    "hash": "fc6df23c800e84aa",
+    "lastUpdate": "2024-05-07"
+  }
+}

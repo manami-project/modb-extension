@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/13677",
+    "https://anime-planet.com/anime/blue-exorcist-movie-special",
+    "https://anisearch.com/anime/8795",
+    "https://kitsu.io/anime/7012",
+    "https://livechart.me/anime/4379",
+    "https://myanimelist.net/anime/13677",
+    "https://notify.moe/anime/-CEDtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8e44616d47e3786",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.351342168036046,
+    "arithmeticGeometricMean": 6.333725846673298,
+    "median": 6.3,
+    "hash": "b8e44616d47e3786",
+    "lastUpdate": "2024-05-05"
+  }
+}

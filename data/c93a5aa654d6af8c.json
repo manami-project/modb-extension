@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17488",
+    "https://anilist.co/anime/151679",
+    "https://anime-planet.com/anime/the-tale-of-the-outcasts",
+    "https://anisearch.com/anime/17499",
+    "https://kitsu.io/anime/46223",
+    "https://livechart.me/anime/11307",
+    "https://myanimelist.net/anime/52274",
+    "https://notify.moe/anime/wYxKcd6ng"
+  ],
+  "synopsis": {
+    "text": "Their bond transcends the ordinary—a demon seeking solace in the company of a young girl, and an orphan finding hope in the tales of an immortal being. Set against the backdrop of the late 19th-century British Empire, the unlikely duo of Wisteria and Marbas embark on a journey to find their place in the world.\n\nWisteria, a young orphan living in the shadows of an old church, spends her days begging for scraps on the streets. Her life takes a dramatic turn when she encounters Marbas, a centuries-old demon who finds solace in her company after years of isolation. Despite their differences, they form an unbreakable bond, each finding comfort in the other's presence.\n\nAs they journey together, they must navigate the treacherous world of the Sword Cross Knights, who are relentlessly pursuing Marbas, and Wisteria's brother, who is caught up in the chaos. Along the way, they encounter other outcasts, both human and demon, who whisper their tales in the dark of night.\n\nWith the church hot on their heels and the constant threat of danger looming, Wisteria and Marbas must pay a steep price to stay together. But as they search for a place where they can belong, they discover that the true light they seek may lie within each other. Will they find the happiness they yearn for, or will their differences tear them apart? Only time will tell in this poignant tale of love, sacrifice, and the search for belonging.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c93a5aa654d6af8c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.988558441558442,
+    "arithmeticGeometricMean": 6.959133070252824,
+    "median": 6.805142857142856,
+    "hash": "c93a5aa654d6af8c",
+    "lastUpdate": "2024-05-09"
+  }
+}

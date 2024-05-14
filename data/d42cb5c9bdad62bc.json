@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/415",
+    "https://anilist.co/anime/608",
+    "https://anime-planet.com/anime/sakura-wars-the-movie",
+    "https://anisearch.com/anime/409",
+    "https://kitsu.io/anime/563",
+    "https://livechart.me/anime/6981",
+    "https://myanimelist.net/anime/608",
+    "https://notify.moe/anime/PPCT5FiiR"
+  ],
+  "synopsis": {
+    "text": "The stage is set in Tokyo, where the Imperial Blossom Division, a team of skilled fighters, once again finds themselves as the city's last line of defense against an onslaught of demons. Their seasoned leader, Ohgami, has been reassigned to a new division in Paris, leaving the team under the command of a new leader, Ratchet Altair, an American with a starkly different leadership style. As the team grapples with these changes, they face an additional challenge: the Douglas-Stewart Company is pushing to replace them with advanced, steam-powered robots. Amidst these trials, team members begin to mysteriously disappear, further complicating their mission to protect Tokyo. Among these brave fighters is Sakura, who, like her father, is destined to defend her people. However, her role is not just a fighter, but also a stage actor, adding an unusual twist to her heroic journey. With their division on standby and their city under threat, the Imperial Blossom Division must navigate through these challenges, uncover the truth behind their comrades' disappearances, and prove their worth in the face of impending obsolescence.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d42cb5c9bdad62bc",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.432823040904673,
+    "arithmeticGeometricMean": 6.425478216588239,
+    "median": 6.472000000000001,
+    "hash": "d42cb5c9bdad62bc",
+    "lastUpdate": "2024-05-09"
+  }
+}

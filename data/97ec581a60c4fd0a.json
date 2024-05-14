@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14351",
+    "https://anilist.co/anime/104176",
+    "https://anime-planet.com/anime/otoko-to-onna-to-inu",
+    "https://anisearch.com/anime/6800",
+    "https://kitsu.io/anime/10490",
+    "https://myanimelist.net/anime/29635",
+    "https://notify.moe/anime/eplUtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "97ec581a60c4fd0a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.111277763053273,
+    "arithmeticGeometricMean": 5.080870099008424,
+    "median": 4.64,
+    "hash": "97ec581a60c4fd0a",
+    "lastUpdate": "2024-05-08"
+  }
+}

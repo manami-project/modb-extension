@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107179",
+    "https://anime-planet.com/anime/eve-dramaturgy",
+    "https://anisearch.com/anime/13669",
+    "https://kitsu.io/anime/42284",
+    "https://myanimelist.net/anime/39164"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e57f0e2aeea73065",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.317981447124303,
+    "arithmeticGeometricMean": 7.264605389562318,
+    "median": 7.76,
+    "hash": "e57f0e2aeea73065",
+    "lastUpdate": "2024-05-06"
+  }
+}

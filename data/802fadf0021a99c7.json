@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16378",
+    "https://anilist.co/anime/135429",
+    "https://anime-planet.com/anime/make-my-day",
+    "https://anisearch.com/anime/16389",
+    "https://kitsu.io/anime/44691",
+    "https://livechart.me/anime/10638",
+    "https://myanimelist.net/anime/49164",
+    "https://notify.moe/anime/hD8drM5ng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "802fadf0021a99c7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.9450548635038425,
+    "arithmeticGeometricMean": 5.924029556119796,
+    "median": 5.83,
+    "hash": "802fadf0021a99c7",
+    "lastUpdate": "2024-05-09"
+  }
+}

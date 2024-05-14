@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14555",
+    "https://anilist.co/anime/112455",
+    "https://anime-planet.com/anime/celestial-method-mou-hitotsu-no-negai",
+    "https://anisearch.com/anime/14056",
+    "https://kitsu.io/anime/42629",
+    "https://livechart.me/anime/8686",
+    "https://myanimelist.net/anime/38891"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9d3602153ceb38c1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.211133580705009,
+    "arithmeticGeometricMean": 7.203805567160417,
+    "median": 7.256818181818182,
+    "hash": "9d3602153ceb38c1",
+    "lastUpdate": "2024-05-10"
+  }
+}

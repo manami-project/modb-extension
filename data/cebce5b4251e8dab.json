@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104940",
+    "https://anime-planet.com/anime/notes-on-monstropedia",
+    "https://kitsu.io/anime/40627",
+    "https://myanimelist.net/anime/34851",
+    "https://notify.moe/anime/_loDhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cebce5b4251e8dab",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.946181818181818,
+    "arithmeticGeometricMean": 5.933624077612171,
+    "median": 5.66,
+    "hash": "cebce5b4251e8dab",
+    "lastUpdate": "2024-05-06"
+  }
+}

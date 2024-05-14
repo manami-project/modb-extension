@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10621",
+    "https://anilist.co/anime/20887",
+    "https://anime-planet.com/anime/gdgd-fairies-the-movie-tte-iu-eiga-wa-dou-kana",
+    "https://anisearch.com/anime/9639",
+    "https://kitsu.io/anime/8941",
+    "https://myanimelist.net/anime/24071",
+    "https://notify.moe/anime/nJ-xpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "95cc8ebf56d1c73f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.569878081102572,
+    "arithmeticGeometricMean": 6.559893473044042,
+    "median": 6.76,
+    "hash": "95cc8ebf56d1c73f",
+    "lastUpdate": "2024-05-08"
+  }
+}

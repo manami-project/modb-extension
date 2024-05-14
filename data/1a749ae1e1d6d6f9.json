@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1950",
+    "https://anilist.co/anime/749",
+    "https://anime-planet.com/anime/nanami-chan",
+    "https://anisearch.com/anime/1630",
+    "https://kitsu.io/anime/671",
+    "https://myanimelist.net/anime/749",
+    "https://notify.moe/anime/lKcA5FiiR"
+  ],
+  "synopsis": {
+    "text": "Even though Michi's family has just relocated to the peculiar Happiness House, a colossal tree adorned with a myriad of quirky dwellings, Michi finds herself enamored with her new abode. Upon discovering an unusual nut-like object in her attic bedroom, she is introduced to Nanami-chan, a captivating creature who emerges from within. As Michi and Nanami-chan embark on their adventures throughout the Happiness House, they encounter a diverse cast of residents, uncover hidden secrets, and learn valuable life lessons. Together, the duo explores the wonders of the world, from delectable daifuku to the mysteries of astronomy, forging an unbreakable bond along the way.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1a749ae1e1d6d6f9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.713516565067585,
+    "arithmeticGeometricMean": 5.698559837531575,
+    "median": 5.7272727272727275,
+    "hash": "1a749ae1e1d6d6f9",
+    "lastUpdate": "2024-05-08"
+  }
+}

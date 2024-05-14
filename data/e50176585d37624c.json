@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3579",
+    "https://anime-planet.com/anime/tanoshii-bunmeishi-tetsu-monogatari",
+    "https://anisearch.com/anime/204",
+    "https://kitsu.io/anime/9657",
+    "https://myanimelist.net/anime/23003",
+    "https://notify.moe/anime/d_KLtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e50176585d37624c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.285714285714286,
+    "arithmeticGeometricMean": 4.255690009507399,
+    "median": 4.285714285714286,
+    "hash": "e50176585d37624c",
+    "lastUpdate": "2024-05-08"
+  }
+}

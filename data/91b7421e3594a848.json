@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7464",
+    "https://anilist.co/anime/5994",
+    "https://anime-planet.com/anime/midoriyama-koukou-koushien-hen",
+    "https://anisearch.com/anime/5637",
+    "https://kitsu.io/anime/4377",
+    "https://livechart.me/anime/10096",
+    "https://myanimelist.net/anime/5994",
+    "https://notify.moe/anime/fzFqcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "91b7421e3594a848",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.129422387136674,
+    "arithmeticGeometricMean": 6.10063491550982,
+    "median": 6.015000000000001,
+    "hash": "91b7421e3594a848",
+    "lastUpdate": "2024-05-09"
+  }
+}

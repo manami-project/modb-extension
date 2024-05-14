@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7687",
+    "https://anilist.co/anime/1297",
+    "https://anime-planet.com/anime/project-a-ko-3-cinderella-rhapsody",
+    "https://anisearch.com/anime/5547",
+    "https://kitsu.io/anime/1169",
+    "https://livechart.me/anime/9152",
+    "https://myanimelist.net/anime/1297",
+    "https://notify.moe/anime/voPx5Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7fb46441ac6908c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.558289424860853,
+    "arithmeticGeometricMean": 6.55120401172811,
+    "median": 6.5,
+    "hash": "d7fb46441ac6908c",
+    "lastUpdate": "2024-05-09"
+  }
+}

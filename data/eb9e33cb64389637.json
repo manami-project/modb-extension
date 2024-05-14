@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/146866",
+    "https://anime-planet.com/anime/mahjong-soul-pon-special",
+    "https://anisearch.com/anime/17258",
+    "https://kitsu.io/anime/46103",
+    "https://myanimelist.net/anime/51465"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb9e33cb64389637",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.435052875695733,
+    "arithmeticGeometricMean": 5.427053383610895,
+    "median": 5.628636363636364,
+    "hash": "eb9e33cb64389637",
+    "lastUpdate": "2024-05-06"
+  }
+}

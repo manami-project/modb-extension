@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6720",
+    "https://anilist.co/anime/6527",
+    "https://anime-planet.com/anime/fresh-pretty-cure-movie-omocha-no-kuni-wa-himitsu-ga-ippai",
+    "https://anisearch.com/anime/5560",
+    "https://kitsu.io/anime/4598",
+    "https://livechart.me/anime/5446",
+    "https://myanimelist.net/anime/6527",
+    "https://notify.moe/anime/rAD65FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fa71510fe56f2e99",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.673704214153195,
+    "arithmeticGeometricMean": 6.665619702824969,
+    "median": 6.818181818181818,
+    "hash": "fa71510fe56f2e99",
+    "lastUpdate": "2024-05-09"
+  }
+}

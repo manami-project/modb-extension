@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13077",
+    "https://anime-planet.com/anime/deco-27-ai-think-so",
+    "https://kitsu.io/anime/11511",
+    "https://myanimelist.net/anime/31908",
+    "https://notify.moe/anime/JHtjtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bef0e22826abb63f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.6015999999999995,
+    "arithmeticGeometricMean": 5.591143916655366,
+    "median": 5.25,
+    "hash": "bef0e22826abb63f",
+    "lastUpdate": "2024-05-08"
+  }
+}

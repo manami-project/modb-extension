@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9345",
+    "https://anilist.co/anime/6293",
+    "https://anime-planet.com/anime/koukou-butouden-crows",
+    "https://anisearch.com/anime/4279",
+    "https://kitsu.io/anime/4511",
+    "https://livechart.me/anime/7707",
+    "https://myanimelist.net/anime/6293",
+    "https://notify.moe/anime/tGCq5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3ac3b9fda427cc7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.645130665253114,
+    "arithmeticGeometricMean": 6.6379330884457595,
+    "median": 6.792,
+    "hash": "d3ac3b9fda427cc7",
+    "lastUpdate": "2024-05-09"
+  }
+}

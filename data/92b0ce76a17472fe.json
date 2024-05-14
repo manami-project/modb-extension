@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/hanamina-blueprint",
+    "https://kitsu.io/anime/48158",
+    "https://myanimelist.net/anime/52539"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92b0ce76a17472fe",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.115,
+    "arithmeticGeometricMean": 6.105758305359518,
+    "median": 6.115,
+    "hash": "92b0ce76a17472fe",
+    "lastUpdate": "2024-05-07"
+  }
+}

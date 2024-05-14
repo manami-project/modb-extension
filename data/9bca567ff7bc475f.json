@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8426",
+    "https://anilist.co/anime/10149",
+    "https://anime-planet.com/anime/grandma-and-her-ghosts",
+    "https://anisearch.com/anime/7123",
+    "https://kitsu.io/anime/6054",
+    "https://myanimelist.net/anime/10149",
+    "https://notify.moe/anime/J3h7tKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9bca567ff7bc475f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.763777983920842,
+    "arithmeticGeometricMean": 5.745469078168211,
+    "median": 5.777272727272727,
+    "hash": "9bca567ff7bc475f",
+    "lastUpdate": "2024-05-07"
+  }
+}

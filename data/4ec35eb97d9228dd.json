@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2874",
+    "https://anilist.co/anime/12139",
+    "https://anime-planet.com/anime/wanpaku-tanteidan",
+    "https://anisearch.com/anime/2284",
+    "https://kitsu.io/anime/6674",
+    "https://livechart.me/anime/11660",
+    "https://myanimelist.net/anime/12139",
+    "https://notify.moe/anime/aBSHtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ec35eb97d9228dd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.811602968460111,
+    "arithmeticGeometricMean": 5.78456796574638,
+    "median": 5.476808905380334,
+    "hash": "4ec35eb97d9228dd",
+    "lastUpdate": "2024-05-10"
+  }
+}

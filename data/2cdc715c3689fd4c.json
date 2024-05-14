@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/18321",
+    "https://anime-planet.com/anime/kkomaeosa-ttori",
+    "https://anisearch.com/anime/10632",
+    "https://kitsu.io/anime/9753",
+    "https://myanimelist.net/anime/18321",
+    "https://notify.moe/anime/Y2UYpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2cdc715c3689fd4c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.532404452690168,
+    "arithmeticGeometricMean": 5.4909573120176995,
+    "median": 5.204081632653061,
+    "hash": "2cdc715c3689fd4c",
+    "lastUpdate": "2024-05-06"
+  }
+}

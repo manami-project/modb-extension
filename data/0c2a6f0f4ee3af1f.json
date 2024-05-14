@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140216",
+    "https://anime-planet.com/anime/koinu-no-blue",
+    "https://kitsu.io/anime/40940",
+    "https://myanimelist.net/anime/36400",
+    "https://notify.moe/anime/IuLO2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0c2a6f0f4ee3af1f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2509696969696975,
+    "arithmeticGeometricMean": 5.210627699495986,
+    "median": 5.37,
+    "hash": "0c2a6f0f4ee3af1f",
+    "lastUpdate": "2024-05-06"
+  }
+}

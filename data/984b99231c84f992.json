@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5104",
+    "https://anilist.co/anime/2174",
+    "https://anime-planet.com/anime/fist-of-the-north-star-legend-of-raoh-fierce-fight",
+    "https://anisearch.com/anime/1509",
+    "https://kitsu.io/anime/1969",
+    "https://livechart.me/anime/8239",
+    "https://myanimelist.net/anime/2174",
+    "https://notify.moe/anime/_agPcFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "984b99231c84f992",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.4415955473098325,
+    "arithmeticGeometricMean": 7.437362433802344,
+    "median": 7.53,
+    "hash": "984b99231c84f992",
+    "lastUpdate": "2024-05-09"
+  }
+}

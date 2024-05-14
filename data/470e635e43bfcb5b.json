@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12639",
+    "https://anilist.co/anime/8696",
+    "https://anime-planet.com/anime/shiroi-michi",
+    "https://anisearch.com/anime/6629",
+    "https://kitsu.io/anime/5445",
+    "https://myanimelist.net/anime/8696",
+    "https://notify.moe/anime/KiripFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "470e635e43bfcb5b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.316346143652266,
+    "arithmeticGeometricMean": 5.277881178245436,
+    "median": 5.090909090909091,
+    "hash": "470e635e43bfcb5b",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148409",
+    "https://anime-planet.com/anime/tomorrow",
+    "https://anime-planet.com/anime/when-you-wish-upon-a-star",
+    "https://kitsu.io/anime/46771",
+    "https://myanimelist.net/anime/53666"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7911225a06dd33af",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.6363636363636362,
+    "arithmeticGeometricMean": 3.6363636363636362,
+    "median": 3.6363636363636362,
+    "hash": "7911225a06dd33af",
+    "lastUpdate": "2024-05-07"
+  }
+}

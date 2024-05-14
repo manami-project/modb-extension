@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106497",
+    "https://anime-planet.com/anime/orange-range-sushi-tabetai",
+    "https://anisearch.com/anime/18226",
+    "https://myanimelist.net/anime/50127"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d056fc6ef239865d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.937296227581942,
+    "arithmeticGeometricMean": 5.912648071527121,
+    "median": 6.090909090909091,
+    "hash": "d056fc6ef239865d",
+    "lastUpdate": "2024-05-07"
+  }
+}

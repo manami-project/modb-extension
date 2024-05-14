@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1425",
+    "https://anilist.co/anime/83",
+    "https://anime-planet.com/anime/mobile-suit-gundam-the-08th-ms-team-millers-report",
+    "https://anisearch.com/anime/3426",
+    "https://kitsu.io/anime/62",
+    "https://livechart.me/anime/5269",
+    "https://myanimelist.net/anime/83",
+    "https://notify.moe/anime/WKpt5Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4d78f8af32665d8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.461602968460111,
+    "arithmeticGeometricMean": 6.44698997299925,
+    "median": 6.7272727272727275,
+    "hash": "d4d78f8af32665d8",
+    "lastUpdate": "2024-05-09"
+  }
+}

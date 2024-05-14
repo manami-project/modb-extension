@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/mtv-top-20-mtv-town-id",
+    "https://kitsu.io/anime/43661",
+    "https://myanimelist.net/anime/42807"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cbe2ffe3ec10ce35",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.475,
+    "arithmeticGeometricMean": 5.4613949866858995,
+    "median": 5.475,
+    "hash": "cbe2ffe3ec10ce35",
+    "lastUpdate": "2024-05-07"
+  }
+}

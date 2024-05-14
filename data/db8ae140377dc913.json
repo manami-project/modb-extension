@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5189",
+    "https://anilist.co/anime/2369",
+    "https://anime-planet.com/anime/rental-magica",
+    "https://anisearch.com/anime/4447",
+    "https://kitsu.io/anime/2147",
+    "https://livechart.me/anime/4098",
+    "https://myanimelist.net/anime/2369",
+    "https://notify.moe/anime/Xo-PcKmmg"
+  ],
+  "synopsis": {
+    "text": "Iba Itsuki, a seemingly ordinary schoolboy with an unremarkable demeanor, finds himself thrust into an extraordinary world of magic and supernatural beings after his father's inexplicable disappearance. As the new head of Astral, a unique 'magic for hire' company, Itsuki must navigate the challenges of managing a diverse team of skilled magicians, each with their own specialties and quirks. Despite his apparent lack of magical abilities and timid nature, Itsuki's mysterious eyepatch hints at a hidden power. As he juggles the demands of his new role, school, and rival companies, Itsuki must find a way to earn the respect of his employees and uncover the secrets of his own past. Will he rise to the challenge and unlock his true potential? Only time will tell in this thrilling and enchanting tale of magic, mystery, and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db8ae140377dc913",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.93173765916623,
+    "arithmeticGeometricMean": 6.925048081403141,
+    "median": 6.957991452991452,
+    "hash": "db8ae140377dc913",
+    "lastUpdate": "2024-05-09"
+  }
+}

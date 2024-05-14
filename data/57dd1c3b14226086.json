@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3160",
+    "https://anilist.co/anime/10250",
+    "https://anime-planet.com/anime/ultra-b",
+    "https://anisearch.com/anime/2441",
+    "https://kitsu.io/anime/6099",
+    "https://myanimelist.net/anime/10250",
+    "https://notify.moe/anime/abP7pKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "57dd1c3b14226086",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.369514974821096,
+    "arithmeticGeometricMean": 5.21078722192466,
+    "median": 6.090909090909091,
+    "hash": "57dd1c3b14226086",
+    "lastUpdate": "2024-05-07"
+  }
+}

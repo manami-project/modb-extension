@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/125155",
+    "https://anime-planet.com/anime/hige-hige-gehi-ponpon",
+    "https://anisearch.com/anime/11722",
+    "https://myanimelist.net/anime/42954"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a51c645ba9fc3131",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.136269635126777,
+    "arithmeticGeometricMean": 5.013653390007908,
+    "median": 5.2727272727272725,
+    "hash": "a51c645ba9fc3131",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13495",
+    "https://anilist.co/anime/100186",
+    "https://anime-planet.com/anime/b-project-zecchou-emotion",
+    "https://anisearch.com/anime/13761",
+    "https://kitsu.io/anime/41992",
+    "https://livechart.me/anime/2910",
+    "https://myanimelist.net/anime/36483",
+    "https://notify.moe/anime/xWqm2f-mg"
+  ],
+  "synopsis": {
+    "text": "Daikoku Productions has an important announcement for B-PROJECT, and Tsubasa Sumisora, the A&R person in charge of the idol unit at Gandala Music, is summoned to the headquarters. Despite the recent success of their concert at the Japan Dome, Tsubasa and her superior, Sakurata Yashamaru, remain at odds. As B-PROJECT, now comprised of four idol groups - Kitakore, THRIVE, MooNs, and KiLLER KiNG - continue to rehearse and work, Tsubasa must navigate the challenges of her job and the varying personalities of the young men in the group. With tensions running high and an important announcement on the horizon, the next emotional stage of B-PROJECT is about to begin. Will Tsubasa be able to overcome the obstacles and lead her team to success? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "69796fdfa3b6446a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.789538188002473,
+    "arithmeticGeometricMean": 6.77209702373125,
+    "median": 6.701122448979592,
+    "hash": "69796fdfa3b6446a",
+    "lastUpdate": "2024-05-08"
+  }
+}

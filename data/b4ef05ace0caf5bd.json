@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13003",
+    "https://anilist.co/anime/103508",
+    "https://anime-planet.com/anime/shiho-fujisawa-happy-hour",
+    "https://kitsu.io/anime/12189",
+    "https://myanimelist.net/anime/32783",
+    "https://notify.moe/anime/tPKg2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4ef05ace0caf5bd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.003054545454545,
+    "arithmeticGeometricMean": 4.978258314329983,
+    "median": 4.7272727272727275,
+    "hash": "b4ef05ace0caf5bd",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3661",
+    "https://anilist.co/anime/7808",
+    "https://anime-planet.com/anime/zukkoke-knight-don-de-la-mancha",
+    "https://anisearch.com/anime/1851",
+    "https://kitsu.io/anime/5129",
+    "https://myanimelist.net/anime/7808",
+    "https://notify.moe/anime/_eJzpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5550a8bf38e03b39",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.4355398886827455,
+    "arithmeticGeometricMean": 4.36913874730644,
+    "median": 3.42,
+    "hash": "5550a8bf38e03b39",
+    "lastUpdate": "2024-05-07"
+  }
+}

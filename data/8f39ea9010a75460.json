@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12527",
+    "https://anilist.co/anime/3923",
+    "https://anime-planet.com/anime/kamen-rider-den-o-imagin-anime",
+    "https://anisearch.com/anime/8523",
+    "https://kitsu.io/anime/3354",
+    "https://livechart.me/anime/9047",
+    "https://myanimelist.net/anime/3923",
+    "https://notify.moe/anime/zFXlcKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f39ea9010a75460",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.572983832494036,
+    "arithmeticGeometricMean": 5.519014618634178,
+    "median": 5.454545454545455,
+    "hash": "8f39ea9010a75460",
+    "lastUpdate": "2024-05-09"
+  }
+}

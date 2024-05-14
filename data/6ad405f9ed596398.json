@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14919",
+    "https://anilist.co/anime/110249",
+    "https://anime-planet.com/anime/mao-yao-de-youhuo",
+    "https://anisearch.com/anime/18660",
+    "https://kitsu.io/anime/42556",
+    "https://myanimelist.net/anime/39767",
+    "https://notify.moe/anime/tcYXrq2Wg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ad405f9ed596398",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.606681818181819,
+    "arithmeticGeometricMean": 6.595859335574017,
+    "median": 6.406363636363636,
+    "hash": "6ad405f9ed596398",
+    "lastUpdate": "2024-05-07"
+  }
+}

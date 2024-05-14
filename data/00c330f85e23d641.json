@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/7627",
+    "https://myanimelist.net/anime/12997"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "00c330f85e23d641",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.120816326530612,
+    "arithmeticGeometricMean": 6.104071971595698,
+    "median": 6.120816326530612,
+    "hash": "00c330f85e23d641",
+    "lastUpdate": "2024-05-07"
+  }
+}

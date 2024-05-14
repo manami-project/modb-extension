@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12266",
+    "https://anilist.co/anime/87494",
+    "https://anime-planet.com/anime/hitorijime-my-hero",
+    "https://anisearch.com/anime/12142",
+    "https://kitsu.io/anime/12318",
+    "https://livechart.me/anime/2252",
+    "https://myanimelist.net/anime/33654",
+    "https://notify.moe/anime/0P6R2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5d0ac4318a1ec2ff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.400271045918367,
+    "arithmeticGeometricMean": 7.391165934238532,
+    "median": 7.465,
+    "hash": "5d0ac4318a1ec2ff",
+    "lastUpdate": "2024-05-09"
+  }
+}

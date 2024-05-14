@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17176",
+    "https://anilist.co/anime/144687",
+    "https://anime-planet.com/anime/delicious-party-pretty-cure-yumemiru-oko-sama-lunch",
+    "https://anisearch.com/anime/17110",
+    "https://kitsu.io/anime/46277",
+    "https://livechart.me/anime/11063",
+    "https://myanimelist.net/anime/50963",
+    "https://notify.moe/anime/0TILZdCng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6efd6207de71b26b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.854729746444033,
+    "arithmeticGeometricMean": 6.84326802404612,
+    "median": 7.080454545454545,
+    "hash": "6efd6207de71b26b",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/321",
+    "https://anilist.co/anime/393",
+    "https://anime-planet.com/anime/the-vision-of-escaflowne-the-movie",
+    "https://anisearch.com/anime/1990",
+    "https://kitsu.io/anime/360",
+    "https://livechart.me/anime/4065",
+    "https://myanimelist.net/anime/393",
+    "https://notify.moe/anime/piCh5KiiR"
+  ],
+  "synopsis": {
+    "text": "Folken, a mysterious entity, hears the desperate plea of Hitomi, a young woman consumed by depression and despair, yearning to escape her mundane existence. Whisked away to the mystical realm of Gaea, Hitomi is hailed as the Wing Goddess, the only one capable of summoning the legendary warrior, Escaflowne. As she grapples with her newfound powers, she crosses paths with the brooding King Van, the last of his clan, who shares her existential pain.\n\nTogether, they find themselves entangled in a bitter conflict between the forces of light and darkness, with Escaflowne being the key to ending the war. As the Wing Goddess, Hitomi holds the fate of Gaea in her hands, but her choices could lead to either salvation or destruction. Will she find the strength to overcome her inner turmoil and save this new world, or will she succumb to her despair, leaving Gaea in ruins? The answer lies in the heart of the Wing Goddess, and the path she chooses for Escaflowne.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "918fb60eeff3b33e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.004354994212137,
+    "arithmeticGeometricMean": 6.999575466790132,
+    "median": 7.042,
+    "hash": "918fb60eeff3b33e",
+    "lastUpdate": "2024-05-09"
+  }
+}

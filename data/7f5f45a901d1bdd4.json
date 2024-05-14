@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12050",
+    "https://anilist.co/anime/9433",
+    "https://anime-planet.com/anime/a-jangcom",
+    "https://anisearch.com/anime/9945",
+    "https://kitsu.io/anime/5731",
+    "https://myanimelist.net/anime/9433",
+    "https://notify.moe/anime/0DiGpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f5f45a901d1bdd4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.239999999999999,
+    "arithmeticGeometricMean": 5.234659404403411,
+    "median": 5.0,
+    "hash": "7f5f45a901d1bdd4",
+    "lastUpdate": "2024-05-08"
+  }
+}

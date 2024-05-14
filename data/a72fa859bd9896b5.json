@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10402",
+    "https://anilist.co/anime/20606",
+    "https://anime-planet.com/anime/black-butler-book-of-circus",
+    "https://anisearch.com/anime/9638",
+    "https://kitsu.io/anime/8268",
+    "https://livechart.me/anime/411",
+    "https://myanimelist.net/anime/22145",
+    "https://notify.moe/anime/avaopFiiR"
+  ],
+  "synopsis": {
+    "text": "Lord Ciel Phantomhive and his loyal demon butler, Sebastian Michaelis, find themselves in a world of wonder and danger as they infiltrate the enchanting Noah's Ark Circus to solve a series of mysterious child disappearances. Set in the late 19th century, the circus's captivating performances have been enthralling London's audiences, but the magic comes at a dark cost.\n\nAs the duo embarks on their undercover mission, they must navigate the challenges of blending in with the circus troupe while searching for clues. However, they soon realize that they are not the only ones with hidden agendas, and that they themselves are being watched. With the circus's shadowy benefactor lurking in the background and fellow performers growing suspicious, Ciel and Sebastian must race against time to uncover the truth behind the missing children.\n\nThis thrilling adventure follows directly from the events of the first season's Curry Contest Arc, and promises to shake Ciel to his very core as he uncovers the sinister secrets hidden beneath the big top. Will our dashing duo be able to solve the mystery and save the children before it's too late? Join them in this heart-pounding journey to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a72fa859bd9896b5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.054102032335757,
+    "arithmeticGeometricMean": 8.052015573300087,
+    "median": 8.035,
+    "hash": "a72fa859bd9896b5",
+    "lastUpdate": "2024-05-09"
+  }
+}

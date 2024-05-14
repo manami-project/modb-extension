@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10023",
+    "https://anilist.co/anime/20033",
+    "https://anime-planet.com/anime/miss-monochrome",
+    "https://anisearch.com/anime/8962",
+    "https://kitsu.io/anime/7911",
+    "https://livechart.me/anime/181",
+    "https://myanimelist.net/anime/20033",
+    "https://notify.moe/anime/2mi2tFimR"
+  ],
+  "synopsis": {
+    "text": "Though she's an android powered by a single AA battery, Miss Monochrome has big dreams of becoming a top-selling idol. Living in a lavish castle with her robot vacuum companion, Ruu-chan, she's determined to make it big in the idol industry. Inspired by the popular idol Kikuko, who frequently appears in her peculiar dreams, Miss Monochrome embarks on a challenging journey filled with unconventional methods and unique obstacles. From landing minor roles on TV to securing a manager from a convenience store, her dedication and quirky charm always manage to steal the show, even when she's being pushed around by others in the competitive world of showbiz. Join Miss Monochrome as she navigates the ups and downs on her path to stardom, proving that even an android can leave a lasting impression in the spotlight.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f117ea0aa2a1f54",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.381352916924346,
+    "arithmeticGeometricMean": 6.372359938557901,
+    "median": 6.376818181818182,
+    "hash": "8f117ea0aa2a1f54",
+    "lastUpdate": "2024-05-09"
+  }
+}

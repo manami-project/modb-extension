@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4742",
+    "https://anime-planet.com/anime/ninja-hattori-kun-plus-perman-chounouryoku-wars",
+    "https://anisearch.com/anime/3869",
+    "https://kitsu.io/anime/10294",
+    "https://myanimelist.net/anime/29235",
+    "https://notify.moe/anime/4UR8tKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "453fb0e2db587308",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.781714285714285,
+    "arithmeticGeometricMean": 5.757841511571012,
+    "median": 5.14,
+    "hash": "453fb0e2db587308",
+    "lastUpdate": "2024-05-08"
+  }
+}

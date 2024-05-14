@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8520",
+    "https://anilist.co/anime/11033",
+    "https://anime-planet.com/anime/natsuiro-egao-de-1-2-jump",
+    "https://anisearch.com/anime/7205",
+    "https://kitsu.io/anime/6444",
+    "https://myanimelist.net/anime/11033",
+    "https://notify.moe/anime/-x7SpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d325a9eddd814176",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.840704125806168,
+    "arithmeticGeometricMean": 6.833336941424998,
+    "median": 7.133333333333334,
+    "hash": "d325a9eddd814176",
+    "lastUpdate": "2024-05-07"
+  }
+}

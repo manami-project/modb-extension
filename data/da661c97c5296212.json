@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103123",
+    "https://anime-planet.com/anime/yomigaeru-sora-pilot",
+    "https://anisearch.com/anime/15192",
+    "https://kitsu.io/anime/9704",
+    "https://livechart.me/anime/6280",
+    "https://myanimelist.net/anime/24527",
+    "https://notify.moe/anime/jJ1YpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da661c97c5296212",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.538316635745208,
+    "arithmeticGeometricMean": 6.517667160858965,
+    "median": 6.377454545454546,
+    "hash": "da661c97c5296212",
+    "lastUpdate": "2024-05-10"
+  }
+}

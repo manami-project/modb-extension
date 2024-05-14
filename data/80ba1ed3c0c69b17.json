@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115294",
+    "https://anime-planet.com/anime/aru-apartment-no-isshitsu",
+    "https://kitsu.io/anime/42793",
+    "https://myanimelist.net/anime/38644"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80ba1ed3c0c69b17",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.416363636363637,
+    "arithmeticGeometricMean": 5.4080242759533235,
+    "median": 5.39,
+    "hash": "80ba1ed3c0c69b17",
+    "lastUpdate": "2024-05-07"
+  }
+}

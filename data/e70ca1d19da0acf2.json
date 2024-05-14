@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16580",
+    "https://anilist.co/anime/122670",
+    "https://anime-planet.com/anime/martial-universe-3rd-season",
+    "https://anisearch.com/anime/17374",
+    "https://kitsu.io/anime/45076",
+    "https://myanimelist.net/anime/49570",
+    "https://notify.moe/anime/jXkZotyng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e70ca1d19da0acf2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.74504638218924,
+    "arithmeticGeometricMean": 7.738556700352519,
+    "median": 7.708775510204081,
+    "hash": "e70ca1d19da0acf2",
+    "lastUpdate": "2024-05-07"
+  }
+}

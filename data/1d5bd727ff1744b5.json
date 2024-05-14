@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4585",
+    "https://anilist.co/anime/1581",
+    "https://anime-planet.com/anime/gift-eternal-rainbow",
+    "https://anisearch.com/anime/3628",
+    "https://kitsu.io/anime/1421",
+    "https://livechart.me/anime/5049",
+    "https://myanimelist.net/anime/1581",
+    "https://notify.moe/anime/2ry-cFmmg"
+  ],
+  "synopsis": {
+    "text": "He avens and earth converge in the quaint seaside town of Narasakicho, where an everlasting rainbow bestows a singular magical gift upon each inhabitant. This enchantment, known as the 'Gift,' unveils its miraculous power when two hearts unite in harmony, bringing forth the deepest desires of the Gift's wielder.\n\nHaruhiko Amami, an ordinary high school student, is no stranger to the extraordinary. As he navigates the complexities of adolescence, he is deeply invested in the responsible use of the Gift and feels compelled to rectify any misuse. His life takes a turn for the complicated when his cherished, non-blood-related foster sister, Riko Fukumine, re-enters his world after years of separation.\n\nAs Haruhiko grapples with a whirlwind of emotions and unrequited affections, he finds himself caught up in a series of magical encounters with a colorful cast of characters. From a broomstick-riding witch to a rivalry-fueled watermelon-crushing contest, Haruhiko's once-ordinary life is now anything but. Amidst the chaos, he must unmask the identity of an enigmatic witch responsible for distributing counterfeit Gifts that wreak havoc on the town.\n\nIn this enchanting tale of love, magic, and self-discovery, Haruhiko must navigate the complex web of relationships and the responsibilities that come with the Gift, all while protecting the harmony of his beloved town.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d5bd727ff1744b5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.754709255030683,
+    "arithmeticGeometricMean": 6.747000874634301,
+    "median": 6.6850000000000005,
+    "hash": "1d5bd727ff1744b5",
+    "lastUpdate": "2024-05-09"
+  }
+}

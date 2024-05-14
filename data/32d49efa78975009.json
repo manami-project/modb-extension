@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7307",
+    "https://anilist.co/anime/7791",
+    "https://anime-planet.com/anime/k-on-2",
+    "https://anisearch.com/anime/5955",
+    "https://kitsu.io/anime/5124",
+    "https://livechart.me/anime/3304",
+    "https://myanimelist.net/anime/7791",
+    "https://notify.moe/anime/4n1zpKiiR"
+  ],
+  "synopsis": {
+    "text": "Music, friendship, and the sweet taste of tea after school - the Light Music Club is back for another exciting year! The founding members - Yui on guitar, Ritsu on drums, Mio on bass, and Tsumugi on keyboard - are now in their final year of high school, joined by their junior member Azusa on guitar. As they navigate the challenges of their last year, they're determined to keep their beloved club alive.\n\nFrom recruiting new members to ensure the club's survival, to balancing band practice with student responsibilities, the girls face a myriad of challenges. But amidst the chaos of concerts, college applications, and club recruitment, they still find time for their cherished After School Tea Time.\n\nAs they embark on their final year, the girls of K-On!! are ready to make it their best one yet. With music, laughter, and friendship, they'll face whatever comes their way - be it the struggle to attract new members, the anticipation of graduation, or the simple joy of playing music together. Join the girls as they journey through their final year of high school, making memories that will last a lifetime.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "32d49efa78975009",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.190465911013884,
+    "arithmeticGeometricMean": 8.189890724608071,
+    "median": 8.203,
+    "hash": "32d49efa78975009",
+    "lastUpdate": "2024-05-09"
+  }
+}

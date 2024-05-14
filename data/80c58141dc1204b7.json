@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/10071",
+    "https://myanimelist.net/anime/29083"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80c58141dc1204b7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.648877551020409,
+    "arithmeticGeometricMean": 6.637012317296262,
+    "median": 6.648877551020409,
+    "hash": "80c58141dc1204b7",
+    "lastUpdate": "2024-05-07"
+  }
+}

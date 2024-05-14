@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14316",
+    "https://anilist.co/anime/108936",
+    "https://anime-planet.com/anime/bringing-the-nations-husband-home-4th-season",
+    "https://anisearch.com/anime/17157",
+    "https://kitsu.io/anime/47653",
+    "https://livechart.me/anime/3492",
+    "https://myanimelist.net/anime/38677"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "93673e3a48e0296f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.966031910946196,
+    "arithmeticGeometricMean": 5.931405826425813,
+    "median": 5.6,
+    "hash": "93673e3a48e0296f",
+    "lastUpdate": "2024-05-09"
+  }
+}

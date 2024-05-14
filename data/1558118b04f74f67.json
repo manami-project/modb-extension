@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13906",
+    "https://anilist.co/anime/102452",
+    "https://anime-planet.com/anime/kenshi-yonezu-suna-no-wakusei",
+    "https://anisearch.com/anime/12671",
+    "https://kitsu.io/anime/13678",
+    "https://myanimelist.net/anime/36173",
+    "https://notify.moe/anime/pb84hFmig"
+  ],
+  "synopsis": {
+    "text": "Music video for the melodious track \"Suna no Wakusei\" by the talented Kenshi Yonezu, featuring the virtual singing sensation Hatsune Miku, is brought to life by the creative minds at Minakata Laboratory. This captivating animation is also a part of the 'Hatsune Miku Magical Mirai 2017' album, offering a delightful visual experience to complement the enchanting music.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1558118b04f74f67",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.837898224224754,
+    "arithmeticGeometricMean": 6.819965087649501,
+    "median": 7.31,
+    "hash": "1558118b04f74f67",
+    "lastUpdate": "2024-05-07"
+  }
+}

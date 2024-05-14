@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18075",
+    "https://anilist.co/anime/170220",
+    "https://anime-planet.com/anime/sylvanian-families-freya-no-go-for-dream",
+    "https://anisearch.com/anime/18934",
+    "https://livechart.me/anime/12116",
+    "https://myanimelist.net/anime/55948"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3a8a403746372cad",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.909090909090909,
+    "arithmeticGeometricMean": 6.909090909090909,
+    "median": 6.909090909090909,
+    "hash": "3a8a403746372cad",
+    "lastUpdate": "2024-05-10"
+  }
+}

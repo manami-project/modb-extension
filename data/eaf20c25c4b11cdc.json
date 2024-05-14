@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4417",
+    "https://anilist.co/anime/4504",
+    "https://anime-planet.com/anime/kinkyuu-hasshin-saver-kids",
+    "https://anisearch.com/anime/3694",
+    "https://kitsu.io/anime/3654",
+    "https://myanimelist.net/anime/4504",
+    "https://notify.moe/anime/MN9ucKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eaf20c25c4b11cdc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.289649350649351,
+    "arithmeticGeometricMean": 6.266577916049599,
+    "median": 6.4278571428571425,
+    "hash": "eaf20c25c4b11cdc",
+    "lastUpdate": "2024-05-08"
+  }
+}

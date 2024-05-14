@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6544",
+    "https://anilist.co/anime/6568",
+    "https://anime-planet.com/anime/bokura-no-saibanin-monogatari",
+    "https://anisearch.com/anime/5448",
+    "https://kitsu.io/anime/4614",
+    "https://myanimelist.net/anime/6568",
+    "https://notify.moe/anime/PUFe5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "849a9c831a33698d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.406196660482374,
+    "arithmeticGeometricMean": 4.370525111839558,
+    "median": 4.11,
+    "hash": "849a9c831a33698d",
+    "lastUpdate": "2024-05-07"
+  }
+}

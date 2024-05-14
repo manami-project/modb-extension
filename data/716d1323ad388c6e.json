@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9093",
+    "https://anilist.co/anime/13409",
+    "https://anime-planet.com/anime/moyashimon-returns",
+    "https://anisearch.com/anime/7740",
+    "https://kitsu.io/anime/6957",
+    "https://livechart.me/anime/1033",
+    "https://myanimelist.net/anime/13409",
+    "https://notify.moe/anime/NUhvtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "716d1323ad388c6e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.3661915584415585,
+    "arithmeticGeometricMean": 7.361304696721706,
+    "median": 7.267363636363637,
+    "hash": "716d1323ad388c6e",
+    "lastUpdate": "2024-05-09"
+  }
+}

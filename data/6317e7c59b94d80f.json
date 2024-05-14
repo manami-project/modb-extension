@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1926",
+    "https://anilist.co/anime/6629",
+    "https://anime-planet.com/anime/asari-chan",
+    "https://anisearch.com/anime/3031",
+    "https://kitsu.io/anime/4640",
+    "https://livechart.me/anime/11580",
+    "https://myanimelist.net/anime/6629",
+    "https://notify.moe/anime/wbo65KimR"
+  ],
+  "synopsis": {
+    "text": "Muroyama Mayumi's manga-turned-anime, directed by Kazumi Fukushima and produced by Toei Animation, introduces us to Asari, an average fourth-grader with a spirited personality. Asari's family, the Beach's, are a high-achieving bunch, with her father being an executive in a large corporation, her mother an alumna of a prestigious university, and her older sister a top student. Despite being the odd one out, Asari remains cheerful amidst constant teasing from her sister and scolding from her mother for her poor academic performance.\n\nOne day, Asari's ordinary life takes an unexpected turn when she wins a lottery ticket for a solo trip to Hawaii while bargain shopping. The ticket sparks a family feud, and in a twist of fate, it gets lost in a bonfire. However, hope is not lost when they learn about a travel agency's offer to compensate half the trip's cost in cash. As the Beach family grapples with their share of misfortunes, Asari continues to navigate through her chaotic world with unwavering cheerfulness, embracing every challenge with a smile.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6317e7c59b94d80f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.311210265924552,
+    "arithmeticGeometricMean": 6.276299998673402,
+    "median": 6.323181818181818,
+    "hash": "6317e7c59b94d80f",
+    "lastUpdate": "2024-05-08"
+  }
+}

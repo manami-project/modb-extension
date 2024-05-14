@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9534",
+    "https://anilist.co/anime/17395",
+    "https://anime-planet.com/anime/ark-ix",
+    "https://anisearch.com/anime/8373",
+    "https://kitsu.io/anime/7686",
+    "https://livechart.me/anime/48",
+    "https://myanimelist.net/anime/17395",
+    "https://notify.moe/anime/VeX5tFiiR"
+  ],
+  "synopsis": {
+    "text": "Private investigator Shido Enishi resides in the ninth of the colossal, artificial cities known as 'Arks', constructed to safeguard humanity 150 years ago. A catastrophic event had released an enigmatic black fog, engulfing half the planet and forcing the survivors to erect towering walls to segregate the world.\n\nAs a seasoned detective, Shido's life takes an unexpected turn when a seemingly ordinary burglary case exposes a sinister and far-reaching conspiracy. While navigating through the complexities of this new reality, he encounters individuals afflicted by the Rivigarudo syndrome, a mysterious condition that transforms its victims into grotesque, inhuman beings.\n\nArmed with his exceptional ninjutsu skills, Shido fearlessly delves deeper into the intricate web of mysteries surrounding the Arks, determined to expose the truth concealed within the shadows of this post-apocalyptic world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "07ab580f3802b05e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.016458521070766,
+    "arithmeticGeometricMean": 5.0119642338127655,
+    "median": 5.032,
+    "hash": "07ab580f3802b05e",
+    "lastUpdate": "2024-05-08"
+  }
+}

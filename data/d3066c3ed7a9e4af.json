@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12018",
+    "https://anilist.co/anime/21738",
+    "https://anime-planet.com/anime/hina-logi-from-luck-and-logic",
+    "https://anisearch.com/anime/11265",
+    "https://kitsu.io/anime/13545",
+    "https://livechart.me/anime/2103",
+    "https://myanimelist.net/anime/34834",
+    "https://notify.moe/anime/v5I42FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3066c3ed7a9e4af",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.542278602350031,
+    "arithmeticGeometricMean": 6.532420213690574,
+    "median": 6.562181818181818,
+    "hash": "d3066c3ed7a9e4af",
+    "lastUpdate": "2024-05-09"
+  }
+}

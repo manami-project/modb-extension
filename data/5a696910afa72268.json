@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15265",
+    "https://anilist.co/anime/121384",
+    "https://anime-planet.com/anime/zhandou-wang-zhi-jufeng-zhan-hun-5",
+    "https://myanimelist.net/anime/42468"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a696910afa72268",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.090909090909091,
+    "arithmeticGeometricMean": 5.090909090909091,
+    "median": 5.090909090909091,
+    "hash": "5a696910afa72268",
+    "lastUpdate": "2024-05-08"
+  }
+}

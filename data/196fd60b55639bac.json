@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/348",
+    "https://anilist.co/anime/679",
+    "https://anime-planet.com/anime/shadow-skill-ova",
+    "https://anisearch.com/anime/1081",
+    "https://kitsu.io/anime/621",
+    "https://myanimelist.net/anime/679",
+    "https://notify.moe/anime/PC7A5KmiR"
+  ],
+  "synopsis": {
+    "text": "Gau Ban, a 14-year-old martial arts prodigy, and Elle Ragu, his adoptive sister and equally formidable fighter, find themselves in a war-ravaged world where battles are not just common, but a way of life. In the city of Kuruda, the pursuit of strength and honor is relentless, and the Shadow Skill, a legendary martial art, is their chosen path to power. As they strive to master this superhuman combat technique, they must confront their personal demons and face off against each other, all while battling the forces of darkness that threaten their world. When a girl seeks their help to avenge her master, slain by a monster, Gau and Elle must push their combat skills to the limit and beyond, embarking on a journey that will test their resolve and redefine their understanding of strength and honor.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "196fd60b55639bac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2122957858468055,
+    "arithmeticGeometricMean": 6.198222797370009,
+    "median": 6.33,
+    "hash": "196fd60b55639bac",
+    "lastUpdate": "2024-05-08"
+  }
+}

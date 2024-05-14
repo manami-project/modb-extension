@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18414",
+    "https://anilist.co/anime/154828",
+    "https://anime-planet.com/anime/fengzi-wuyu-xian-luo-pian",
+    "https://anisearch.com/anime/17730",
+    "https://kitsu.io/anime/46810",
+    "https://myanimelist.net/anime/53251"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a8287e405e311fd4",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.204081632653061,
+    "arithmeticGeometricMean": 6.1784221539210264,
+    "median": 6.204081632653061,
+    "hash": "a8287e405e311fd4",
+    "lastUpdate": "2024-05-08"
+  }
+}

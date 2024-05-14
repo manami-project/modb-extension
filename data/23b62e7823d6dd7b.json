@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/441",
+    "https://anilist.co/anime/1346",
+    "https://anime-planet.com/anime/ad-police-files",
+    "https://anisearch.com/anime/1413",
+    "https://kitsu.io/anime/1201",
+    "https://livechart.me/anime/6023",
+    "https://myanimelist.net/anime/1346",
+    "https://notify.moe/anime/Fo_x5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Gina Marceau, a seasoned officer, and her rookie partner, Leon McNichol, navigate the chaotic streets of 2027 MegaTokyo in the AD Police force. Their mission: to tackle the escalating crimes involving Boomers, advanced androids that are nearly indistinguishable from humans. As these artificial beings become increasingly integrated into society, the line between man and machine grows ever more tenuous. The pair faces the daily horrors and tragedies of a city teetering on the edge, as they strive to maintain order amidst the ever-blurring boundaries of humanity and technology. This thrilling prequel to BUBBLEGUM CRISIS sets the stage for the action-packed adventures to come, as McNichol and Marceau confront the moral complexities of a world where humanity and artificial intelligence collide.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "23b62e7823d6dd7b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.357517625231911,
+    "arithmeticGeometricMean": 6.3509840501925945,
+    "median": 6.216,
+    "hash": "23b62e7823d6dd7b",
+    "lastUpdate": "2024-05-08"
+  }
+}

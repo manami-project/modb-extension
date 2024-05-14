@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2239",
+    "https://anilist.co/anime/3069",
+    "https://anime-planet.com/anime/be-forever-yamato",
+    "https://anisearch.com/anime/3294",
+    "https://kitsu.io/anime/2767",
+    "https://livechart.me/anime/7140",
+    "https://myanimelist.net/anime/3069",
+    "https://notify.moe/anime/gVX8cKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7cec54a78f031fee",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.631405777895574,
+    "arithmeticGeometricMean": 6.626269379594932,
+    "median": 6.636363636363637,
+    "hash": "7cec54a78f031fee",
+    "lastUpdate": "2024-05-10"
+  }
+}

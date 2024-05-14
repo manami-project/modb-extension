@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12207",
+    "https://anilist.co/anime/103384",
+    "https://anime-planet.com/anime/fantastic-cell",
+    "https://anisearch.com/anime/11630",
+    "https://kitsu.io/anime/10386",
+    "https://livechart.me/anime/8921",
+    "https://myanimelist.net/anime/29768",
+    "https://notify.moe/anime/Ur58pFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c28d36ccf3c4c715",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.847611803162823,
+    "arithmeticGeometricMean": 4.810922880754634,
+    "median": 4.83,
+    "hash": "c28d36ccf3c4c715",
+    "lastUpdate": "2024-05-09"
+  }
+}

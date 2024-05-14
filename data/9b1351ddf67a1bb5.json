@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14052",
+    "https://anime-planet.com/anime/okojo-to-yamane",
+    "https://anisearch.com/anime/15925",
+    "https://kitsu.io/anime/41445",
+    "https://livechart.me/anime/8194",
+    "https://myanimelist.net/anime/37780",
+    "https://notify.moe/anime/MYqY4AvmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b1351ddf67a1bb5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.28434693877551,
+    "arithmeticGeometricMean": 3.8522299751447755,
+    "median": 4.28434693877551,
+    "hash": "9b1351ddf67a1bb5",
+    "lastUpdate": "2024-05-09"
+  }
+}

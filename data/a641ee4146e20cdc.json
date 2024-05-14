@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15048",
+    "https://anilist.co/anime/111145",
+    "https://anime-planet.com/anime/a3-season-autumn-and-winter",
+    "https://anisearch.com/anime/14564",
+    "https://kitsu.io/anime/42508",
+    "https://livechart.me/anime/9567",
+    "https://myanimelist.net/anime/40272",
+    "https://notify.moe/anime/865Ym88Wg"
+  ],
+  "synopsis": {
+    "text": "Company Mankai, once a beacon of all-male theater, now stands on the brink of ruin with a single remaining member and debt collectors looming. Enter Izumi Tachibana, a former stage actress who takes on the daunting challenge of reviving the theater as its new owner and chief director. With a letter detailing the company's dire state, Izumi embarks on a mission to restore Mankai to its former glory in Tokyo's Velude Way, a district known for its theatrical groups and performers.\n\nAfter successfully re-establishing the Spring and Summer troupes, Izumi sets her sights on forming the Autumn troupe. Attracting a motley crew of auditionees, including the boastful yet talented Banri Settsu, the delinquent but passionate Juuza Hyoudou, the attention-seeking Taichi Nanao, the versatile Omi Fushimi, and the yakuza-connected Sakyou Furuichi, Izumi faces a new challenge: uniting this diverse group of individuals into a cohesive team.\n\nWith internal conflicts, lack of teamwork, and external threats jeopardizing the show's success, Izumi must navigate these obstacles to bring out the best in her troupe. Can she guide these aspiring actors to bloom in time for their debut performance and fulfill her promise to return Mankai Company to the spotlight?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a641ee4146e20cdc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.146967300556586,
+    "arithmeticGeometricMean": 7.131561157118026,
+    "median": 7.359369202226345,
+    "hash": "a641ee4146e20cdc",
+    "lastUpdate": "2024-05-08"
+  }
+}

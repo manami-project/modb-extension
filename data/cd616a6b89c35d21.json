@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7258",
+    "https://anilist.co/anime/7711",
+    "https://anime-planet.com/anime/the-secret-world-of-arrietty",
+    "https://anisearch.com/anime/5858",
+    "https://kitsu.io/anime/5090",
+    "https://livechart.me/anime/3088",
+    "https://myanimelist.net/anime/7711",
+    "https://notify.moe/anime/0IcktKmmg"
+  ],
+  "synopsis": {
+    "text": "Delighting in the tiny, unseen wonders of a sprawling suburban garden, Arrietty, a diminutive yet spirited 14-year-old, lives a secretive life with her family beneath the floorboards of a charming countryside home. As a member of the 'borrower' community, she quietly navigates the human world, purloining minuscule essentials like sugar cubes and tissue to sustain her family's hidden existence.\n\nOne fateful day, the inquisitive Arrietty crosses paths with Shou, a gentle 12-year-old human boy visiting his great-aunt's home to escape the bustle of the city. Despite the looming threat that their newfound connection poses to her family's safety, Arrietty is drawn to Shou's kindness, and an enchanting friendship blossoms between them.\n\nAs the bond between Arrietty and Shou deepens, so does the peril that encircles her family's clandestine life. The borrowers must now rely on the strength of their unlikely alliance to safeguard their delicate world from the encroaching dangers of the human realm. Join Arrietty and Shou in this heartwarming tale of friendship, courage, and the awe-inspiring power of human connection that transcends size and circumstance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cd616a6b89c35d21",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.993125508628466,
+    "arithmeticGeometricMean": 7.992617973833472,
+    "median": 7.950612244897959,
+    "hash": "cd616a6b89c35d21",
+    "lastUpdate": "2024-05-09"
+  }
+}

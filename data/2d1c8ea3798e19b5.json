@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140592",
+    "https://anime-planet.com/anime/friend-2019",
+    "https://kitsu.io/anime/46668"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2d1c8ea3798e19b5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.181818181818182,
+    "arithmeticGeometricMean": 5.181818181818182,
+    "median": 5.181818181818182,
+    "hash": "2d1c8ea3798e19b5",
+    "lastUpdate": "2024-05-07"
+  }
+}

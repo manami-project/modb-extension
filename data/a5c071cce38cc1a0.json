@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1185",
+    "https://anilist.co/anime/2881",
+    "https://anime-planet.com/anime/silent-service",
+    "https://anisearch.com/anime/850",
+    "https://kitsu.io/anime/2618",
+    "https://myanimelist.net/anime/2881",
+    "https://notify.moe/anime/dMOUcKiig"
+  ],
+  "synopsis": {
+    "text": "Japan and the United States covertly collaborate to construct a cutting-edge nuclear submarine, the Sea Bat, during the height of the Cold War. This technologically advanced vessel is entrusted to an all-Japanese crew, led by Captain Shiro Kaieda. However, during its inaugural voyage, the Sea Bat deviates from its designated course, causing a diplomatic standoff between the two nations. Kaieda seizes control of the submarine, renames it Yamato, and declares it an independent state, further escalating tensions. As both countries scramble to regain control of the rogue submarine, the situation spirals towards a potential war between the two allies. The fate of the Yamato and its crew hangs in the balance, as they navigate the treacherous waters of international politics and military conflict.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5c071cce38cc1a0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.6409893100097195,
+    "arithmeticGeometricMean": 6.635705708857981,
+    "median": 6.604,
+    "hash": "a5c071cce38cc1a0",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13415",
+    "https://anilist.co/anime/157196",
+    "https://anime-planet.com/anime/hinomaru",
+    "https://anisearch.com/anime/12788",
+    "https://myanimelist.net/anime/36231"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "df9bf7b4b9618572",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.617810760667904,
+    "arithmeticGeometricMean": 5.595346313374224,
+    "median": 5.617810760667904,
+    "hash": "df9bf7b4b9618572",
+    "lastUpdate": "2024-05-07"
+  }
+}

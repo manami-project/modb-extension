@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4037",
+    "https://anilist.co/anime/2758",
+    "https://anime-planet.com/anime/shippu-iron-leaguer",
+    "https://anisearch.com/anime/1668",
+    "https://kitsu.io/anime/2518",
+    "https://livechart.me/anime/10074",
+    "https://myanimelist.net/anime/2758",
+    "https://notify.moe/anime/kv6ycKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "138ba30e5d701905",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.215936301793445,
+    "arithmeticGeometricMean": 6.188380357314909,
+    "median": 6.3127272727272725,
+    "hash": "138ba30e5d701905",
+    "lastUpdate": "2024-05-10"
+  }
+}

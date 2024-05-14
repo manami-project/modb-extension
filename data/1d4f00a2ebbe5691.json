@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4098",
+    "https://anilist.co/anime/1959",
+    "https://anime-planet.com/anime/wild-7",
+    "https://anisearch.com/anime/1082",
+    "https://kitsu.io/anime/1765",
+    "https://livechart.me/anime/8804",
+    "https://myanimelist.net/anime/1959",
+    "https://notify.moe/anime/eHnLcFmmR"
+  ],
+  "synopsis": {
+    "text": "So aring crime rates, corrupt politicians, and powerless police have left Japan in a state of chaos. To combat this crisis, an unconventional solution is implemented: the creation of an elite crime-fighting team composed of former convicts. Known as the Wild 7, this group uses their intimate knowledge of the criminal underworld to their advantage. From chasing bank robbers to confronting powerful crime syndicates, the Wild 7 are relentless in their pursuit of justice. With a team comprised of ex-gangsters, hardened criminals, and former yakuza, they are not afraid to cause a little destruction in their mission to bring criminals to justice. Will these ruthless bikers be able to dismantle the syndicate that has infiltrated the highest levels of government and restore order to the nation?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d4f00a2ebbe5691",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.131973495891863,
+    "arithmeticGeometricMean": 6.117592536770523,
+    "median": 5.884,
+    "hash": "1d4f00a2ebbe5691",
+    "lastUpdate": "2024-05-10"
+  }
+}

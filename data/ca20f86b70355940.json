@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12744",
+    "https://anilist.co/anime/15891",
+    "https://anime-planet.com/anime/zekkyou-gakkyuu",
+    "https://anisearch.com/anime/8599",
+    "https://kitsu.io/anime/7333",
+    "https://livechart.me/anime/1007",
+    "https://myanimelist.net/anime/15891",
+    "https://notify.moe/anime/uaIKtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca20f86b70355940",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.216487322201608,
+    "arithmeticGeometricMean": 5.209470504520004,
+    "median": 5.2727272727272725,
+    "hash": "ca20f86b70355940",
+    "lastUpdate": "2024-05-10"
+  }
+}

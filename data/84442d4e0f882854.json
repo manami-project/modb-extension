@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3108",
+    "https://anilist.co/anime/131571",
+    "https://anime-planet.com/anime/otoko-doahou-koushien",
+    "https://anisearch.com/anime/718",
+    "https://kitsu.io/anime/9526",
+    "https://livechart.me/anime/11751",
+    "https://myanimelist.net/anime/23011",
+    "https://notify.moe/anime/shuBpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "84442d4e0f882854",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.7297464440321577,
+    "arithmeticGeometricMean": 3.5530483399471007,
+    "median": 4.454545454545454,
+    "hash": "84442d4e0f882854",
+    "lastUpdate": "2024-05-09"
+  }
+}

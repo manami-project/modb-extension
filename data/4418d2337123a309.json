@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3077",
+    "https://anilist.co/anime/3874",
+    "https://anime-planet.com/anime/ashita-e-free-kick",
+    "https://anisearch.com/anime/2878",
+    "https://kitsu.io/anime/3314",
+    "https://livechart.me/anime/8557",
+    "https://myanimelist.net/anime/3874",
+    "https://notify.moe/anime/9O8l5Fimg"
+  ],
+  "synopsis": {
+    "text": "Godai Shun, a young soccer enthusiast, finds himself at a crossroads in life. Born into a family of affluent businessmen, his grandfather has grand plans for him to follow in his footsteps and become a high-ranking CEO. However, Shun's heart lies elsewhere - on the soccer field. Torn between the pressure to fulfill his grandfather's expectations and his own dreams of becoming a professional soccer player, Shun's life takes an unexpected turn when a casual soccer game at the Godai Resort with his friend Roberto catches the attention of a young soccer team. As opportunities unfold, Shun must decide whether to chase his dreams or comply with his grandfather's wishes.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4418d2337123a309",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.1580922342963165,
+    "arithmeticGeometricMean": 6.127903956548253,
+    "median": 6.468,
+    "hash": "4418d2337123a309",
+    "lastUpdate": "2024-05-08"
+  }
+}

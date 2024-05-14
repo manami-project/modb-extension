@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/998",
+    "https://anilist.co/anime/222",
+    "https://anime-planet.com/anime/mezzo",
+    "https://anisearch.com/anime/2540",
+    "https://kitsu.io/anime/198",
+    "https://livechart.me/anime/6853",
+    "https://myanimelist.net/anime/222",
+    "https://notify.moe/anime/Lpm25FiiR"
+  ],
+  "synopsis": {
+    "text": "They'll take on any job, as long as it's dangerous and lucrative – welcome to the Danger Service Agency (DSA), a motley crew of misfits operating in a chaotic, futuristic Tokyo. The team consists of Mikura Suzuki, a skilled martial artist with a penchant for firearms and a captivating smile; Tomohisa Harada, a brilliant engineer who always has the perfect gadget up his sleeve; and Ken’ichi Kurokawa, an ex-cop with a fondness for noodles and a vast network of underworld connections.\n\nIn this high-stakes world, Mikura's charm and combat prowess prove to be invaluable, enabling the DSA to take on even the deadliest assignments. But when an ordinary job spirals out of control, the team finds themselves in over their heads. To make matters worse, a mysterious enemy has set their sights on Kurokawa, turning the tables and making the DSA the target.\n\nAs the DSA navigates the treacherous landscape of their city, they must rely on their unique skills and unbreakable bond to stay one step ahead of their foes. With danger lurking around every corner, they'll need to be at the top of their game to survive. After all, in the world of \"Mezzo,\" staying alive is no easy feat – but with Mikura and her team on the case, the danger has never looked so enticing.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "93c3192234b318fd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.5876830108666855,
+    "arithmeticGeometricMean": 6.5745977465307694,
+    "median": 6.732,
+    "hash": "93c3192234b318fd",
+    "lastUpdate": "2024-05-09"
+  }
+}

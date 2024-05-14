@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4004",
+    "https://anilist.co/anime/2526",
+    "https://anime-planet.com/anime/kirara",
+    "https://anisearch.com/anime/774",
+    "https://kitsu.io/anime/2291",
+    "https://livechart.me/anime/8341",
+    "https://myanimelist.net/anime/2526",
+    "https://notify.moe/anime/bkiscKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "883aad7c3fb90455",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.94300980652001,
+    "arithmeticGeometricMean": 5.916252870272267,
+    "median": 6.14,
+    "hash": "883aad7c3fb90455",
+    "lastUpdate": "2024-05-09"
+  }
+}

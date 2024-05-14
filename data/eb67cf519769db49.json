@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103942",
+    "https://anime-planet.com/anime/deniroos-circus",
+    "https://anisearch.com/anime/15689",
+    "https://kitsu.io/anime/11796",
+    "https://myanimelist.net/anime/31644",
+    "https://notify.moe/anime/gtY3pFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb67cf519769db49",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.395775881261596,
+    "arithmeticGeometricMean": 4.333092301601284,
+    "median": 4.181818181818182,
+    "hash": "eb67cf519769db49",
+    "lastUpdate": "2024-05-06"
+  }
+}

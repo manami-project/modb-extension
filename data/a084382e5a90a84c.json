@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11457",
+    "https://anilist.co/anime/98568",
+    "https://anime-planet.com/anime/wasureboshi",
+    "https://anisearch.com/anime/9539",
+    "https://kitsu.io/anime/8440",
+    "https://myanimelist.net/anime/21591",
+    "https://notify.moe/anime/PYKAtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a084382e5a90a84c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.417442353564803,
+    "arithmeticGeometricMean": 5.3880544152763274,
+    "median": 5.7,
+    "hash": "a084382e5a90a84c",
+    "lastUpdate": "2024-05-08"
+  }
+}

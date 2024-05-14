@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115340",
+    "https://anime-planet.com/anime/papa",
+    "https://anisearch.com/anime/10754",
+    "https://kitsu.io/anime/43173"
+  ],
+  "synopsis": {
+    "text": "Animation student at Tokyo University of the Arts delves into the profound exploration of light, shadow, and existence in this thought-provoking short film. The story follows a young girl who walks barefoot, tracing her own footprints, only to find another set of prints that mysteriously vanish. As she grapples with the enigmatic disappearance, a shadowy figure surfaces from the depths of her memories, yet it cannot endure her touch. \"PapA\" is a poignant tale of loss and melancholy, where the presence of shadows serves as the only evidence of objects, and their absence hints at the objects' disappearance. This film invites viewers to ponder the delicate balance between reality and memory, presence and absence, and the fleeting nature of our own existence.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5993e60ae8aeace",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.880948670377241,
+    "arithmeticGeometricMean": 5.867731971510645,
+    "median": 5.909090909090908,
+    "hash": "e5993e60ae8aeace",
+    "lastUpdate": "2024-05-07"
+  }
+}

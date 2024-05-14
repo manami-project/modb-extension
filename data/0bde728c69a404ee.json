@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16256",
+    "https://anilist.co/anime/132456",
+    "https://anime-planet.com/anime/the-great-jahy-will-not-be-defeated",
+    "https://anisearch.com/anime/16199",
+    "https://kitsu.io/anime/44392",
+    "https://livechart.me/anime/10533",
+    "https://myanimelist.net/anime/48753",
+    "https://notify.moe/anime/DVYVgxXMg"
+  ],
+  "synopsis": {
+    "text": "Dark Realm's once formidable and feared second-in-command, the Great Jahy, finds herself in an unexpected turn of events when a magical girl banishes her to the human world. Once living a life of opulence and power, Jahy now faces the harsh realities of poverty and survival in a world far removed from her own. With her powers diminished and her once-imposing figure reduced to that of a child, Jahy must navigate the challenges of human life, including working at a bar and living in a cramped apartment. Despite these hardships, Jahy remains resolute in her ambition to restore the Dark Realm to its former glory, embarking on a quest to reassemble the shattered mana crystal that once powered her world. Filled with humor, resilience, and a touch of the supernatural, \"The Great Jahy Will Not Be Defeated!\" is a testament to the indomitable spirit of its titular character.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0bde728c69a404ee",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.168587121212122,
+    "arithmeticGeometricMean": 7.165563731904669,
+    "median": 7.196999999999999,
+    "hash": "0bde728c69a404ee",
+    "lastUpdate": "2024-05-09"
+  }
+}

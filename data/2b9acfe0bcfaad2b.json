@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15307",
+    "https://anilist.co/anime/113906",
+    "https://anime-planet.com/anime/bang-dream-girls-band-party-pico-ohmori",
+    "https://anisearch.com/anime/15065",
+    "https://kitsu.io/anime/43185",
+    "https://livechart.me/anime/9713",
+    "https://myanimelist.net/anime/40854",
+    "https://notify.moe/anime/wDAC1vrWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b9acfe0bcfaad2b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.500815398886827,
+    "arithmeticGeometricMean": 7.492078868915655,
+    "median": 7.755,
+    "hash": "2b9acfe0bcfaad2b",
+    "lastUpdate": "2024-05-08"
+  }
+}

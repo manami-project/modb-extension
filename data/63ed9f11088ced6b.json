@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8656",
+    "https://anilist.co/anime/16373",
+    "https://anime-planet.com/anime/peeping-life-the-perfect-evolution",
+    "https://anisearch.com/anime/7304",
+    "https://kitsu.io/anime/7414",
+    "https://livechart.me/anime/7469",
+    "https://myanimelist.net/anime/16373",
+    "https://notify.moe/anime/gOBKpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "63ed9f11088ced6b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.977356215213358,
+    "arithmeticGeometricMean": 4.957221837698143,
+    "median": 4.727272727272727,
+    "hash": "63ed9f11088ced6b",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/bubu-and-bubulina",
+    "https://anisearch.com/anime/10636"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "341ec3ba28c817cd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.060020408163265,
+    "arithmeticGeometricMean": 6.054727958925301,
+    "median": 6.060020408163265,
+    "hash": "341ec3ba28c817cd",
+    "lastUpdate": "2024-05-08"
+  }
+}

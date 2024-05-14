@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/131485",
+    "https://anime-planet.com/anime/left-hand-layup",
+    "https://anisearch.com/anime/16943",
+    "https://kitsu.io/anime/44235",
+    "https://myanimelist.net/anime/51288",
+    "https://notify.moe/anime/-DTnenoVR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dfc82129ab44fcaa",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.984859925788498,
+    "arithmeticGeometricMean": 6.97736852949826,
+    "median": 7.005454545454546,
+    "hash": "dfc82129ab44fcaa",
+    "lastUpdate": "2024-05-10"
+  }
+}

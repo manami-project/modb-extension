@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/2952",
+    "https://anime-planet.com/anime/final-fantasy-vii-advent-children-complete",
+    "https://anisearch.com/anime/5495",
+    "https://kitsu.io/anime/2672",
+    "https://livechart.me/anime/4258",
+    "https://myanimelist.net/anime/2952",
+    "https://notify.moe/anime/8uA85Fiig"
+  ],
+  "synopsis": {
+    "text": "My new synopsis:\n\nTwo years have passed since Cloud Strife and his comrades saved the world from the destructive magic, METEOR, summoned by Sephiroth. Now, Cloud and Tifa work together in a small delivery service, while their friends are scattered across the globe. However, peace is elusive as a deadly disease, Geostigma, ravages the slums of Midgar, affecting the orphan Denzel, who resides with Cloud and Tifa.\n\nMeanwhile, a dangerous group led by Kadaj emerges, searching for their leader's mother. As Cloud becomes entangled with Kadaj, he discovers a connection between the enigmatic leader and Geostigma. This movie is an updated version of Final Fantasy - Advent Children (2005), featuring additional battle scenes and character backstories.\n\nThe updated edition, AC: Complete, boasts 26 minutes of new footage, including a deeper exploration of Geostigma, Denzel and Kadaj's origins, and an extended fight between Cloud and Sephiroth. The Japanese release introduces a new ending track, 'Safe and Sound,' by Kyosuke Himuro, featuring additional lyrics from Gerard Way, replacing Himuro's previous track, 'Calling.' However, the North American release retains 'Calling' and excludes 'Safe and Sound.'\n\nAs Cloud grapples with the contagious plague and personal grief, he finds himself attacked by three mysterious figures resembling Sephiroth. As they threaten Cloud and his loved ones, he must confront his inner demons to protect his family and prevent Sephiroth's will from returning to the planet.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af3ed5c859d1641f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.909284514238595,
+    "arithmeticGeometricMean": 7.90805547642693,
+    "median": 7.9,
+    "hash": "af3ed5c859d1641f",
+    "lastUpdate": "2024-05-06"
+  }
+}

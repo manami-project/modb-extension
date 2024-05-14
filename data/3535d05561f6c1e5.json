@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15670",
+    "https://anilist.co/anime/116964",
+    "https://anime-planet.com/anime/tales-of-demon-and-god-4th-season",
+    "https://anisearch.com/anime/16945",
+    "https://kitsu.io/anime/43564",
+    "https://livechart.me/anime/9866",
+    "https://myanimelist.net/anime/40734",
+    "https://notify.moe/anime/YhwaTBrZR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3535d05561f6c1e5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.702097866419296,
+    "arithmeticGeometricMean": 7.690928323220649,
+    "median": 7.741818181818182,
+    "hash": "3535d05561f6c1e5",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/3234",
+    "https://anime-planet.com/anime/009-1-rb",
+    "https://anisearch.com/anime/8351",
+    "https://kitsu.io/anime/2876",
+    "https://livechart.me/anime/6967",
+    "https://myanimelist.net/anime/3234",
+    "https://notify.moe/anime/VHHwcFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "44339da9a23efe46",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.550077097505668,
+    "arithmeticGeometricMean": 6.539240697599619,
+    "median": 6.289897959183673,
+    "hash": "44339da9a23efe46",
+    "lastUpdate": "2024-05-05"
+  }
+}

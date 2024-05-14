@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16948",
+    "https://anilist.co/anime/141014",
+    "https://anime-planet.com/anime/tomodachi-game",
+    "https://anisearch.com/anime/16726",
+    "https://kitsu.io/anime/45401",
+    "https://livechart.me/anime/10855",
+    "https://myanimelist.net/anime/50273",
+    "https://notify.moe/anime/Alrh4aKnR"
+  ],
+  "synopsis": {
+    "text": "In the world of high school student Yuichi Katagiri, friendship reigns supreme. Alongside his close-knit group of friends - Shiho Sawaragi, Tenji Mikasa, Makoto Shibe, and Yutori Kokorogi - he navigates the trials and tribulations of adolescence, finding solace in their unbreakable bond. When the class's money for an upcoming school trip vanishes, fingers point towards Shiho and Makoto, creating an uncomfortable rift within the group.\n\nDetermined to participate in the school trip despite his financial struggles, Yuichi saves every penny, only to find himself and his friends kidnapped and thrust into a bizarre debt repayment game. Led by the enigmatic Manabu-kun, this 'Tomodachi Game' challenges the friends to maintain trust in one another as they navigate a series of psychological games. The stakes are high: if they succeed, their debts will be forgiven; if they fail, the consequences could be dire.\n\nAs they delve deeper into the game, the friends' hidden feelings and past transgressions begin to surface, threatening to shatter their once-unbreakable bond. Yuichi must now decipher who he can truly rely on while uncovering the truth behind the missing money and the mysterious debt that landed them in this predicament. In this twisted exploration of friendship and humanity, will the group's trust in one another prevail, or will they succumb to the pressures of the game and ultimately betray one another?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "871f9a652fe5b57d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.70604586683158,
+    "arithmeticGeometricMean": 7.700171984764195,
+    "median": 7.845909090909091,
+    "hash": "871f9a652fe5b57d",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6701",
+    "https://anilist.co/anime/3930",
+    "https://anime-planet.com/anime/issun-boshi-no-shusse",
+    "https://anisearch.com/anime/5250",
+    "https://kitsu.io/anime/3357",
+    "https://livechart.me/anime/8131",
+    "https://myanimelist.net/anime/3930",
+    "https://notify.moe/anime/WwXl5FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "330adbb2deeb88c5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.201305062284654,
+    "arithmeticGeometricMean": 4.155511275842169,
+    "median": 4.476,
+    "hash": "330adbb2deeb88c5",
+    "lastUpdate": "2024-05-09"
+  }
+}

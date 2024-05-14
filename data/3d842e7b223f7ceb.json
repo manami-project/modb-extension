@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16452",
+    "https://anilist.co/anime/114118",
+    "https://anime-planet.com/anime/red-rescue-eternal-desert",
+    "https://anisearch.com/anime/16462",
+    "https://kitsu.io/anime/44932",
+    "https://livechart.me/anime/10751",
+    "https://myanimelist.net/anime/49205"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3d842e7b223f7ceb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.454545454545455,
+    "arithmeticGeometricMean": 6.454545454545455,
+    "median": 6.454545454545455,
+    "hash": "3d842e7b223f7ceb",
+    "lastUpdate": "2024-05-09"
+  }
+}

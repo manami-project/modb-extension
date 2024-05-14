@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7658",
+    "https://anilist.co/anime/9548",
+    "https://anime-planet.com/anime/heidi-alm-no-yama-hen",
+    "https://anisearch.com/anime/6486",
+    "https://kitsu.io/anime/5788",
+    "https://livechart.me/anime/6718",
+    "https://myanimelist.net/anime/9548",
+    "https://notify.moe/anime/BZDMpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "457e87d1981257e1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.416158494566657,
+    "arithmeticGeometricMean": 6.397270262099369,
+    "median": 6.491836734693877,
+    "hash": "457e87d1981257e1",
+    "lastUpdate": "2024-05-08"
+  }
+}

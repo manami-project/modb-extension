@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13066",
+    "https://anilist.co/anime/102375",
+    "https://anime-planet.com/anime/rag-fair-magical-music-train",
+    "https://anisearch.com/anime/12876",
+    "https://kitsu.io/anime/12573",
+    "https://myanimelist.net/anime/33907",
+    "https://notify.moe/anime/kjZm2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b9a94959930084b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.590745825602968,
+    "arithmeticGeometricMean": 4.556648534041794,
+    "median": 4.642727272727273,
+    "hash": "5b9a94959930084b",
+    "lastUpdate": "2024-05-07"
+  }
+}

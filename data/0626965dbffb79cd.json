@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/onigiri-kun"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0626965dbffb79cd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.396,
+    "arithmeticGeometricMean": 6.396,
+    "median": 6.396,
+    "hash": "0626965dbffb79cd",
+    "lastUpdate": "2024-05-08"
+  }
+}

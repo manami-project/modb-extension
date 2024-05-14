@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18302",
+    "https://anilist.co/anime/171110",
+    "https://anime-planet.com/anime/ascendance-of-a-bookworm-season-4",
+    "https://anisearch.com/anime/18911",
+    "https://kitsu.io/anime/48293",
+    "https://livechart.me/anime/12439",
+    "https://myanimelist.net/anime/57466",
+    "https://notify.moe/anime/cjVhhxvIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e1c9ba466267fab2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "e1c9ba466267fab2",
+    "lastUpdate": "2024-05-11"
+  }
+}

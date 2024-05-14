@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/19457",
+    "https://anime-planet.com/anime/green-saver",
+    "https://anisearch.com/anime/8829",
+    "https://kitsu.io/anime/9834",
+    "https://myanimelist.net/anime/19457",
+    "https://notify.moe/anime/EXRPtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e27cb389e81c3122",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.590909090909091,
+    "arithmeticGeometricMean": 4.581772966497746,
+    "median": 4.590909090909091,
+    "hash": "e27cb389e81c3122",
+    "lastUpdate": "2024-05-06"
+  }
+}

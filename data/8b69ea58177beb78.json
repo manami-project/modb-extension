@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1138",
+    "https://anilist.co/anime/1324",
+    "https://anime-planet.com/anime/earthian",
+    "https://anisearch.com/anime/92",
+    "https://kitsu.io/anime/1182",
+    "https://livechart.me/anime/11749",
+    "https://myanimelist.net/anime/1324",
+    "https://notify.moe/anime/RF8b5FiiR"
+  ],
+  "synopsis": {
+    "text": "For eons, celestial beings from the ethereal realm of Eden have kept a watchful eye on the inhabitants of Earth, dubbed 'Earthians.' Chihaya, an angel with the rare misfortune of bearing black wings and hair, is tasked with documenting the virtuous deeds of Earthians, while her counterpart, Kagetsuya, is assigned to record their vices. As they navigate the complex tapestry of human life, they must ensure that the scale of good deeds outweighs the bad, lest Earth faces annihilation. Their seemingly mundane mission takes a dramatic turn as Chihaya finds herself inexplicably drawn into Earth's affairs, much to Kagetsuya's chagrin. Meanwhile, Chihaya's quest to unravel the enigma of her dark wings leads her down a path riddled with intrigue and mystery, potentially altering the fate of Earth and its inhabitants forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b69ea58177beb78",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.886558176517361,
+    "arithmeticGeometricMean": 5.877297459875614,
+    "median": 5.846,
+    "hash": "8b69ea58177beb78",
+    "lastUpdate": "2024-05-09"
+  }
+}

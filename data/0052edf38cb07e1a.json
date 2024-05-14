@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6867",
+    "https://anilist.co/anime/104425",
+    "https://anime-planet.com/anime/ochou-fujin-no-gensou",
+    "https://anisearch.com/anime/10507",
+    "https://kitsu.io/anime/9996",
+    "https://myanimelist.net/anime/28143",
+    "https://notify.moe/anime/uGEPtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0052edf38cb07e1a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.476137467974203,
+    "arithmeticGeometricMean": 5.432390332462768,
+    "median": 5.56,
+    "hash": "0052edf38cb07e1a",
+    "lastUpdate": "2024-05-08"
+  }
+}

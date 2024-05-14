@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/147996",
+    "https://anime-planet.com/anime/dragon-ball-super-annecy-festival-60th-anniversary",
+    "https://kitsu.io/anime/44794"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85530c9bbdf3c87f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.606272727272728,
+    "arithmeticGeometricMean": 6.605401397774043,
+    "median": 6.606272727272728,
+    "hash": "85530c9bbdf3c87f",
+    "lastUpdate": "2024-05-07"
+  }
+}

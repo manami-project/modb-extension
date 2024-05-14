@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1478",
+    "https://anilist.co/anime/515",
+    "https://anime-planet.com/anime/legend-of-crystania-the-motion-picture",
+    "https://anisearch.com/anime/1347",
+    "https://kitsu.io/anime/474",
+    "https://livechart.me/anime/8579",
+    "https://myanimelist.net/anime/515",
+    "https://notify.moe/anime/04TTcFiiR"
+  ],
+  "synopsis": {
+    "text": "Beast gods rule the forbidden continent of Crystania, where the black knight Ashram, now king, seeks a new home for his people after the devastating Lodoss Wars. Desperate, Ashram trades his soul to the dark god Barbas, who craves power and dominion over Crystania. But Ashram's loyal dark elf follower, Pirotesse, remains steadfast in her quest to free her beloved king from Barbas' clutches, even after 300 years.\n\nMeanwhile, Redon, a young prince from the peaceful village of Djana En, yearns for adventure. When his parents are murdered, Redon and his friends flee, only to be cornered at the edge of the mystical God's Wall. A voice calls to Redon, offering him power and passage to Crystania.\n\nUpon entering Crystania, Redon and his companions find themselves amidst a civil war between shape-shifting beastmen, the power-hungry Barbas, and Pirotesse. As they navigate this dangerous new world, Redon must decide between avenging his parents and helping Pirotesse free Ashram's soul or succumbing to Barbas' tempting offer of ultimate power. The fate of Crystania hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "624562a12d85ebee",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.8468205671879145,
+    "arithmeticGeometricMean": 5.838437467875817,
+    "median": 5.89,
+    "hash": "624562a12d85ebee",
+    "lastUpdate": "2024-05-09"
+  }
+}

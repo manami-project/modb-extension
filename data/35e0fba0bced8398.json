@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15926",
+    "https://anilist.co/anime/115846",
+    "https://anime-planet.com/anime/xie-wang-zhui-qi-zhi-yishi-qingcheng",
+    "https://anisearch.com/anime/17017",
+    "https://kitsu.io/anime/43815",
+    "https://livechart.me/anime/9974",
+    "https://myanimelist.net/anime/44221",
+    "https://notify.moe/anime/pJofd3YMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35e0fba0bced8398",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.26606997084548,
+    "arithmeticGeometricMean": 7.2588742779424225,
+    "median": 7.28,
+    "hash": "35e0fba0bced8398",
+    "lastUpdate": "2024-05-10"
+  }
+}

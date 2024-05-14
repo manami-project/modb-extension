@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14588",
+    "https://anilist.co/anime/16804",
+    "https://anime-planet.com/anime/super-alloy-robot-solar",
+    "https://anisearch.com/anime/10683",
+    "https://kitsu.io/anime/7525",
+    "https://myanimelist.net/anime/16804",
+    "https://notify.moe/anime/Jg7cpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "063a75dc6c28d74f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.495052566481138,
+    "arithmeticGeometricMean": 4.486336724466954,
+    "median": 4.454545454545454,
+    "hash": "063a75dc6c28d74f",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10700",
+    "https://anilist.co/anime/98893",
+    "https://anime-planet.com/anime/spo-chan-taiketsu-youkai-daikessen",
+    "https://anisearch.com/anime/9811",
+    "https://kitsu.io/anime/8568",
+    "https://livechart.me/anime/631",
+    "https://myanimelist.net/anime/24819",
+    "https://notify.moe/anime/LUr0tFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5f081b40519d75ad",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1698571428571425,
+    "arithmeticGeometricMean": 5.094237567646012,
+    "median": 5.0,
+    "hash": "5f081b40519d75ad",
+    "lastUpdate": "2024-05-10"
+  }
+}

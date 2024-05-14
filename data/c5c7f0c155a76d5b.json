@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14013",
+    "https://anilist.co/anime/103047",
+    "https://anime-planet.com/anime/violet-evergarden-movie",
+    "https://anisearch.com/anime/13540",
+    "https://kitsu.io/anime/41450",
+    "https://livechart.me/anime/3371",
+    "https://myanimelist.net/anime/37987",
+    "https://notify.moe/anime/44uev6Dig"
+  ],
+  "synopsis": {
+    "text": "As the world heals from the ravages of war, Violet Evergarden, a former Auto Memory Doll, continues her journey of understanding the depth of human emotions and the profound meaning behind the words 'I love you.' With every letter she pens for her clients, she nurtures her soul, deeply scarred by the war, and keeps the memory of the first person who expressed his love for her alive in her heart.\n\nIn a rapidly evolving world where technological advancements are making Auto Memory Dolls less relevant, Violet's fame as a letter writer continues to rise. However, the one letter she yearns to receive never seems to arrive. Haunted by the memories of her lost commanding officer, Gilbert, Violet clings to the hope that he may still be alive, despite the passage of time and the advice of his older brother, Dietfried, to move on.\n\nOne day, Violet is tasked with writing a series of letters for a terminally ill boy named Yuris, unaware that his time may be running out faster than anticipated. Meanwhile, the discovery of an unaddressed letter in the post office warehouse and a mysterious letter bearing Gilbert's handwriting set Violet and her colleague, Claudia Hodgins, on a journey that will test Violet's understanding of love and loss. Will Violet finally find the answers she seeks, or will her reunion with Gilbert bring her more heartache than joy? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c5c7f0c155a76d5b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.729121743716167,
+    "arithmeticGeometricMean": 8.72698918175616,
+    "median": 8.84376712328767,
+    "hash": "c5c7f0c155a76d5b",
+    "lastUpdate": "2024-05-10"
+  }
+}

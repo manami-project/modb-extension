@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13435",
+    "https://anime-planet.com/anime/hinamatsuri-1993",
+    "https://anisearch.com/anime/12808",
+    "https://kitsu.io/anime/40690",
+    "https://livechart.me/anime/6408",
+    "https://myanimelist.net/anime/35102",
+    "https://notify.moe/anime/ZhyvhFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b96d4df8bee98d5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.090999999999999,
+    "arithmeticGeometricMean": 7.090946375180578,
+    "median": 7.090999999999999,
+    "hash": "8b96d4df8bee98d5",
+    "lastUpdate": "2024-05-09"
+  }
+}

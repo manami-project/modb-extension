@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9592",
+    "https://anilist.co/anime/18271",
+    "https://anime-planet.com/anime/cheorin-samchongsa",
+    "https://anisearch.com/anime/8458",
+    "https://kitsu.io/anime/8824",
+    "https://myanimelist.net/anime/18271",
+    "https://notify.moe/anime/-GGxpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8791b05bc063dc35",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.463288497217069,
+    "arithmeticGeometricMean": 4.408926822114486,
+    "median": 4.545454545454545,
+    "hash": "8791b05bc063dc35",
+    "lastUpdate": "2024-05-08"
+  }
+}

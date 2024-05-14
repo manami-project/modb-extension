@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17099",
+    "https://anilist.co/anime/154068",
+    "https://anime-planet.com/anime/takano-intersection",
+    "https://anisearch.com/anime/17172",
+    "https://kitsu.io/anime/45725",
+    "https://myanimelist.net/anime/50206"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5aed2ac8e9bb24b8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.665312059369202,
+    "arithmeticGeometricMean": 6.6636344153217175,
+    "median": 6.4734693877551015,
+    "hash": "5aed2ac8e9bb24b8",
+    "lastUpdate": "2024-05-08"
+  }
+}

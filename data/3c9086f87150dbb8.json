@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13326",
+    "https://anilist.co/anime/117960",
+    "https://anime-planet.com/anime/cogimyun",
+    "https://anisearch.com/anime/12804",
+    "https://kitsu.io/anime/41605",
+    "https://myanimelist.net/anime/36016"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c9086f87150dbb8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.779742486085343,
+    "arithmeticGeometricMean": 5.742937683915466,
+    "median": 5.818181818181818,
+    "hash": "3c9086f87150dbb8",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103996",
+    "https://anime-planet.com/anime/umi-e-kite",
+    "https://kitsu.io/anime/44938",
+    "https://myanimelist.net/anime/39886"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "627c34b7b3f31e9b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.070363636363635,
+    "arithmeticGeometricMean": 6.066138064138537,
+    "median": 5.909090909090908,
+    "hash": "627c34b7b3f31e9b",
+    "lastUpdate": "2024-05-08"
+  }
+}

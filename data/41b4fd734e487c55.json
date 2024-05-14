@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/rilakkuma-ichigo"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41b4fd734e487c55",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.364,
+    "arithmeticGeometricMean": 6.364,
+    "median": 6.364,
+    "hash": "41b4fd734e487c55",
+    "lastUpdate": "2024-05-08"
+  }
+}

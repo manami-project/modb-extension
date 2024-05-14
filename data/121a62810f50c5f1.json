@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13664",
+    "https://anilist.co/anime/102236",
+    "https://anime-planet.com/anime/zinba",
+    "https://anisearch.com/anime/12848",
+    "https://kitsu.io/anime/11735",
+    "https://livechart.me/anime/8942",
+    "https://myanimelist.net/anime/31427",
+    "https://notify.moe/anime/htcqpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "121a62810f50c5f1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.857309090909091,
+    "arithmeticGeometricMean": 5.791976189832028,
+    "median": 5.0,
+    "hash": "121a62810f50c5f1",
+    "lastUpdate": "2024-05-10"
+  }
+}

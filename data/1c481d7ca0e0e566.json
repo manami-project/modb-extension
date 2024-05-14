@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14493",
+    "https://anilist.co/anime/105928",
+    "https://anime-planet.com/anime/robihachi",
+    "https://anisearch.com/anime/13992",
+    "https://kitsu.io/anime/42226",
+    "https://livechart.me/anime/8359",
+    "https://myanimelist.net/anime/38707",
+    "https://notify.moe/anime/4KCGhzRZR"
+  ],
+  "synopsis": {
+    "text": "Though humanity has achieved interstellar travel and formed alliances with alien civilizations by the year G.C. 0051, freelance reporter Robby Yarge's luck seems to be running out. After losing his job, his girlfriend, and nearly his life, Robby finds himself pursued by debt collectors. In a twist of fate, he crosses paths with Hatchi Kita, an 18-year-old part-time worker who helps retrieve his stolen bag. Despite their differences, the two briefly bond over a meal before parting ways. However, Hatchi reappears as a debt collector working for loan shark Yan, sparking a thrilling cat-and-mouse chase. Robby seizes the opportunity to escape to space, hoping to find solace on Isekandar, a legendary planet rumored to bring happiness. But unbeknownst to him, Hatchi has stowed away on his spaceship, leading to an unexpected galactic adventure together in search of the elusive Isekandar.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c481d7ca0e0e566",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.446944194902842,
+    "arithmeticGeometricMean": 6.436622292598891,
+    "median": 6.461818181818181,
+    "hash": "1c481d7ca0e0e566",
+    "lastUpdate": "2024-05-09"
+  }
+}

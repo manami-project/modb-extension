@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11543",
+    "https://anilist.co/anime/21321",
+    "https://anime-planet.com/anime/shounen-maid",
+    "https://anisearch.com/anime/10728",
+    "https://kitsu.io/anime/11570",
+    "https://livechart.me/anime/1796",
+    "https://myanimelist.net/anime/32175",
+    "https://notify.moe/anime/dPLjtKmiR"
+  ],
+  "synopsis": {
+    "text": "With the unexpected passing of his mother, Chihiro Komiya, an energetic elementary school student, finds himself alone and without a home. His life takes a sudden turn when he encounters Madoka Taketori, a man claiming to be his uncle. Madoka invites Chihiro to live with him, but there's a catch: Chihiro must take care of the housework in Madoka's filthy, affluent home. Chihiro, skilled in chores and guided by his mother's motto 'No work, no food,' agrees to the deal. However, he's in for a surprise when he finds himself dressed in a maid uniform, marking the beginning of his new life in this lighthearted comedy.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eed34d3f71046b75",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.285952466845324,
+    "arithmeticGeometricMean": 7.281054678236194,
+    "median": 7.357195767195767,
+    "hash": "eed34d3f71046b75",
+    "lastUpdate": "2024-05-10"
+  }
+}

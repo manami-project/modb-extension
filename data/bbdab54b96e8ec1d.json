@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4185",
+    "https://anilist.co/anime/943",
+    "https://anime-planet.com/anime/yume-tsukai",
+    "https://anisearch.com/anime/2908",
+    "https://kitsu.io/anime/839",
+    "https://livechart.me/anime/5524",
+    "https://myanimelist.net/anime/943",
+    "https://notify.moe/anime/iGI15Fiig"
+  ],
+  "synopsis": {
+    "text": "Mandara and Hakoniwa To Houkigami in hand, the Mishima sisters, Touko and Rinko, embark on a mission to navigate the ethereal realm of dreams and confront the sinister forces lurking within. As skilled \"yume tsukai\" or Dream Users, they possess the unique ability to traverse the boundaries of human subconsciousness and manipulate the dreamscape with their toy-like weapons.\n\nWhen the delicate balance between dreams and reality is disrupted by intense emotions, the sisters must intervene to prevent nightmares from spiraling out of control and wreaking havoc on the dreamer's life. As they delve deeper into the enigmatic world of dreams, they encounter a diverse cast of characters, including their supportive aunt, Misako, and fellow Dream Users, Hajime Tachibana and Satoka Sagawa.\n\nTogether, they must unravel the mysteries of the dream world and vanquish the evil that lurks within. From resolving minor issues to tackling cases that challenge the limits of their abilities, the Mishima sisters are the last line of defense against the darkness that threatens to consume the dreams of their clients. Join Touko and Rinko on their thrilling adventure as they uncover the secrets of the dream world and protect the sanctity of human imagination.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bbdab54b96e8ec1d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.389237211767823,
+    "arithmeticGeometricMean": 6.385765447079967,
+    "median": 6.44,
+    "hash": "bbdab54b96e8ec1d",
+    "lastUpdate": "2024-05-10"
+  }
+}

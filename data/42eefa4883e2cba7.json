@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10396",
+    "https://anilist.co/anime/21884",
+    "https://anime-planet.com/anime/x-maiden",
+    "https://anisearch.com/anime/9358",
+    "https://kitsu.io/anime/8260",
+    "https://livechart.me/anime/403",
+    "https://myanimelist.net/anime/22757",
+    "https://notify.moe/anime/IRbTtKiig"
+  ],
+  "synopsis": {
+    "text": "XMaiden, humanity's last hope, is about to embark on a mission to save Earth from the clutches of a mysterious alien race in the year 20XX C.E. The sudden arrival of the extraterrestrial beings, known as Firow or Croix, triggers a devastating onslaught that pushes mankind to the brink of despair. Armed with specially designed weapons, the XMaiden must engage in a grueling battle to turn the tide and secure the future of humanity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "42eefa4883e2cba7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.422616573902288,
+    "arithmeticGeometricMean": 4.334543499827126,
+    "median": 4.202727272727272,
+    "hash": "42eefa4883e2cba7",
+    "lastUpdate": "2024-05-10"
+  }
+}

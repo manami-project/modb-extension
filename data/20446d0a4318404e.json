@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/pompo-the-cinephile-cm",
+    "https://anisearch.com/anime/15259",
+    "https://kitsu.io/anime/43844"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "20446d0a4318404e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.803244897959184,
+    "arithmeticGeometricMean": 5.78877005261867,
+    "median": 5.803244897959184,
+    "hash": "20446d0a4318404e",
+    "lastUpdate": "2024-05-07"
+  }
+}

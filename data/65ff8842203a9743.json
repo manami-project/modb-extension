@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5391",
+    "https://anilist.co/anime/2928",
+    "https://anime-planet.com/anime/hack-g-u-returner",
+    "https://anisearch.com/anime/4410",
+    "https://kitsu.io/anime/2652",
+    "https://livechart.me/anime/4717",
+    "https://myanimelist.net/anime/2928",
+    "https://notify.moe/anime/NCh85FiiR"
+  ],
+  "synopsis": {
+    "text": "The former Twilight Brigade, including Haseo and other familiar faces from .hack//G.U. Games and .hack//Roots, receive an intriguing invitation from their leader, Ovan. He urges them to attend the enigmatic Hidden Forbidden Festival, a summer celebration within The World. Upon their arrival, they encounter an AIDA Chim Chim, a creature expressing a desire for peaceful coexistence with the game's players. The creature then morphs into the cryptic word 'Returner', leading the team to speculate about Ovan's return. However, their mission becomes more complex when a treasure chest unleashes an unforeseen monster, forcing the team to confront it and unravel the true purpose of Ovan's invitation.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "65ff8842203a9743",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.27552133580705,
+    "arithmeticGeometricMean": 6.258734708645623,
+    "median": 6.545454545454545,
+    "hash": "65ff8842203a9743",
+    "lastUpdate": "2024-05-08"
+  }
+}

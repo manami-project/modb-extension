@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9741",
+    "https://anilist.co/anime/17681",
+    "https://anime-planet.com/anime/leviathan-the-last-defense",
+    "https://anisearch.com/anime/8453",
+    "https://kitsu.io/anime/7644",
+    "https://livechart.me/anime/847",
+    "https://myanimelist.net/anime/17681",
+    "https://notify.moe/anime/IdBcpFmmg"
+  ],
+  "synopsis": {
+    "text": "Syrup, a fairy residing in the enchanting realm of Aquafall, teams up with three young dragon girls to protect their lush, water-filled world from malevolent creatures unleashed by meteorite showers. Together, they form the Aquafall Defense Force, a valiant team dedicated to safeguarding their home. The dragon girls – Leviathan, Bahamut, and Jörmungandr – embark on a journey of growth and self-discovery as they join forces with Syrup to vanquish the invading threats and restore peace to their once idyllic world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b39211eadbf875d5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.304433209647494,
+    "arithmeticGeometricMean": 6.292207939509919,
+    "median": 6.265909090909091,
+    "hash": "b39211eadbf875d5",
+    "lastUpdate": "2024-05-10"
+  }
+}

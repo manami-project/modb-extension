@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16812",
+    "https://anime-planet.com/anime/yoshida-katsuko-no-yabai-wa-sdgs-araburu-trouble-sustainable",
+    "https://anisearch.com/anime/16642",
+    "https://kitsu.io/anime/45684",
+    "https://myanimelist.net/anime/50141"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b8f6290b844a4de",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.567489795918367,
+    "arithmeticGeometricMean": 5.550245022468135,
+    "median": 5.567489795918367,
+    "hash": "6b8f6290b844a4de",
+    "lastUpdate": "2024-05-08"
+  }
+}

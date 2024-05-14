@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10074",
+    "https://anilist.co/anime/117409",
+    "https://anime-planet.com/anime/peeping-life-youtuber-kun",
+    "https://anisearch.com/anime/9083",
+    "https://kitsu.io/anime/8375",
+    "https://myanimelist.net/anime/20955",
+    "https://notify.moe/anime/W9m0tFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "835e75547085e91e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.4824807845216,
+    "arithmeticGeometricMean": 4.4400076186945565,
+    "median": 4.36,
+    "hash": "835e75547085e91e",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2207",
+    "https://anilist.co/anime/148933",
+    "https://anime-planet.com/anime/hyokkori-hyoutanjima",
+    "https://anisearch.com/anime/2987",
+    "https://kitsu.io/anime/9332",
+    "https://myanimelist.net/anime/22887",
+    "https://notify.moe/anime/fQZfpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af2f30b14c245d48",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.681818181818182,
+    "arithmeticGeometricMean": 4.676404357417887,
+    "median": 4.681818181818182,
+    "hash": "af2f30b14c245d48",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/12228",
+    "https://myanimelist.net/anime/34937"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c7ec6ca00d46458",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.6962244897959184,
+    "arithmeticGeometricMean": 5.676212385806895,
+    "median": 5.6962244897959184,
+    "hash": "1c7ec6ca00d46458",
+    "lastUpdate": "2024-05-07"
+  }
+}

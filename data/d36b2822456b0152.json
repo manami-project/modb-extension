@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140365",
+    "https://anime-planet.com/anime/kaze-no-hi",
+    "https://anisearch.com/anime/16314",
+    "https://kitsu.io/anime/46621",
+    "https://myanimelist.net/anime/52440"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d36b2822456b0152",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.785714285714286,
+    "arithmeticGeometricMean": 4.707081708776097,
+    "median": 4.785714285714286,
+    "hash": "d36b2822456b0152",
+    "lastUpdate": "2024-05-06"
+  }
+}

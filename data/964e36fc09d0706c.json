@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/950",
+    "https://anilist.co/anime/2253",
+    "https://anime-planet.com/anime/mazinger-z",
+    "https://anisearch.com/anime/1891",
+    "https://kitsu.io/anime/2041",
+    "https://livechart.me/anime/6621",
+    "https://myanimelist.net/anime/2253",
+    "https://notify.moe/anime/rMDEcKmiR"
+  ],
+  "synopsis": {
+    "text": "Japan, a hub of scientific innovation, is the birthplace of Mazinger Z, a formidable robot crafted from an indestructible metal known as Super-Alloy Z, and powered by a revolutionary energy source called Photo-Atomic energy. The mastermind behind this technological marvel is Dr. Kabuto, who, along with his colleague Dr. Hell, unearthed the ancient Mikenese Empire's secret weapons - giant robots - during an archaeological expedition in the Aegean Sea.\n\nHowever, Dr. Hell, a sinister genius, harbors ambitions of world domination and sees these robotic behemoths as the perfect tools to execute his nefarious plans. He seizes control of the Mikenese robots and transforms them into his Mecha Beast Army, stationed on the secluded island of Bardos.\n\nDetermined to thwart Dr. Hell's evil scheme, Dr. Kabuto constructs Mazinger Z, entrusting it to his grandson, Kouji Kabuto, before his untimely demise at the hands of Dr. Hell's minions. With vengeance in his heart and the fate of the world resting on his shoulders, Kouji pilots Mazinger Z, a robot capable of launching devastating attacks such as the Koushiryoku Beam and the Rocket Punch.\n\nAs Dr. Hell unleashes his Mecha Beast Army, Kouji, now a Mazinger Z pilot, aided by the Photo-Atomic Research Institute, embarks on a perilous journey to avenge his grandfather and safeguard humanity from the clutches of Dr. Hell's tyranny.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "964e36fc09d0706c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.874909886032334,
+    "arithmeticGeometricMean": 6.867560130168997,
+    "median": 6.9,
+    "hash": "964e36fc09d0706c",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11953",
+    "https://anilist.co/anime/98045",
+    "https://anime-planet.com/anime/chou-shounen-tanteidan-neo",
+    "https://anisearch.com/anime/11397",
+    "https://kitsu.io/anime/12763",
+    "https://livechart.me/anime/2167",
+    "https://myanimelist.net/anime/32830",
+    "https://notify.moe/anime/q1CmhKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ba3f3efc84cf456",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.818267161410018,
+    "arithmeticGeometricMean": 4.765297271372872,
+    "median": 5.181818181818182,
+    "hash": "7ba3f3efc84cf456",
+    "lastUpdate": "2024-05-09"
+  }
+}

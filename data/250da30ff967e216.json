@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15470",
+    "https://anilist.co/anime/116962",
+    "https://anime-planet.com/anime/monster-strike-the-movie-3-lucifer-dawn-of-despair",
+    "https://anisearch.com/anime/15215",
+    "https://livechart.me/anime/9859",
+    "https://myanimelist.net/anime/41519",
+    "https://notify.moe/anime/IsY0hB9WR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "250da30ff967e216",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.564098948670378,
+    "arithmeticGeometricMean": 6.554939940335127,
+    "median": 6.689387755102041,
+    "hash": "250da30ff967e216",
+    "lastUpdate": "2024-05-09"
+  }
+}

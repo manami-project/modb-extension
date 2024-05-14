@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14445",
+    "https://anilist.co/anime/104679",
+    "https://anime-planet.com/anime/chidori-rsc",
+    "https://anisearch.com/anime/13943",
+    "https://kitsu.io/anime/42292",
+    "https://livechart.me/anime/3559",
+    "https://myanimelist.net/anime/38529",
+    "https://notify.moe/anime/l7fkdjZWR"
+  ],
+  "synopsis": {
+    "text": "Hikari Kokura, a high school freshman with a love for competitive rifle shooting, enrolls at Chidori High School with the dream of joining their renowned shooting club. However, she is disheartened to find that the club has been disbanded due to lack of interest. In a race against time, Hikari must recruit enough members to revive the club before it's too late. Luckily, she reunites with three fellow first-year students who she had previously met at a middle school competition. Together, they embark on a mission to restore the Chidori High Shooting Club and aim for the national championships. But with the sport's declining popularity and the challenges that come with using light beam rifles, the road to success won't be easy. Will Hikari and her friends be able to save the club and achieve their dreams? Join them in their exciting journey in Chidori RSC!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "afd7f87be4ff6013",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2622714822771215,
+    "arithmeticGeometricMean": 6.252928677415223,
+    "median": 6.1906122448979595,
+    "hash": "afd7f87be4ff6013",
+    "lastUpdate": "2024-05-09"
+  }
+}

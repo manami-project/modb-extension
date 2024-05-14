@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://kitsu.io/anime/10182",
+    "https://myanimelist.net/anime/28913",
+    "https://notify.moe/anime/kFaspKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "791379b374e25bc0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.605,
+    "arithmeticGeometricMean": 5.588614350161079,
+    "median": 5.605,
+    "hash": "791379b374e25bc0",
+    "lastUpdate": "2024-05-07"
+  }
+}

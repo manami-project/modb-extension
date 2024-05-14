@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10445",
+    "https://anilist.co/anime/20632",
+    "https://anime-planet.com/anime/aldnoah-zero",
+    "https://anisearch.com/anime/9470",
+    "https://kitsu.io/anime/8297",
+    "https://livechart.me/anime/443",
+    "https://myanimelist.net/anime/22729",
+    "https://notify.moe/anime/QlsopKimR"
+  ],
+  "synopsis": {
+    "text": "Slaine Troyard and Inaho Kaizuka, two young individuals from different worlds, find their fates intertwined amidst a conflict that threatens to annihilate humanity. Fifteen years prior, the Apollo 17 mission uncovered a hypergate on the moon, which led to Mars' colonization and the unearthing of an advanced alien technology called Aldnoah. This discovery sparked a war between the Terrans of Earth and the Martians, who established the Vers Empire.\n\nA fragile ceasefire was maintained until the fateful day when Princess Asseylum Vers Allusia of the Vers Empire visited Earth as an ambassador, hoping to mend the relationship between the two planets. However, an assassination attempt on her life shattered the peace, plunging both worlds into chaos once more.\n\nAs Martian soldiers descend upon Earth, armed with their formidable steel giants, Inaho and his friends must rise to the challenge and defend their home against the overwhelming forces of the Vers Empire. With the future of humanity hanging in the balance, the young heroes must put aside their differences and unite to end this devastating war once and for all.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75acc9e3e341ff69",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.474234182130679,
+    "arithmeticGeometricMean": 7.473083589676833,
+    "median": 7.514715949301936,
+    "hash": "75acc9e3e341ff69",
+    "lastUpdate": "2024-05-08"
+  }
+}

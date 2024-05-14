@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/492",
+    "https://anilist.co/anime/319",
+    "https://anime-planet.com/anime/happy-world",
+    "https://anisearch.com/anime/3290",
+    "https://kitsu.io/anime/286",
+    "https://livechart.me/anime/6434",
+    "https://myanimelist.net/anime/319",
+    "https://notify.moe/anime/rd1h5KmmR"
+  ],
+  "synopsis": {
+    "text": "Motoko's cousin, Takeshi Oomura, is the epitome of bad luck, a result of an unusual curse bestowed upon him by his estranged father. In a world where happiness and misfortune are equally distributed, Takeshi is the sole exception, burdened with an endless stream of ill fortune since childhood. To rectify this cosmic blunder, God sends the enchanting angel Elle to safeguard Takeshi and restore balance to his life.\n\nInitially, Takeshi finds Elle's presence bothersome, but after she saves him from a series of near-death experiences, he grudgingly accepts her company. Elle, determined to shield Takeshi from further misfortune, transforms into a human to maintain close contact. She moves in with Takeshi, his aunt Sanae, and his cousin Motoko, embarking on a series of comedic and ecchi adventures as she navigates the complexities of human life. Despite Takeshi's initial reluctance, Elle's unwavering dedication to infusing happiness into his life might just be the key to turning his luck around.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4283997fab1ec269",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.999068115557912,
+    "arithmeticGeometricMean": 5.984802004178992,
+    "median": 5.98,
+    "hash": "4283997fab1ec269",
+    "lastUpdate": "2024-05-09"
+  }
+}

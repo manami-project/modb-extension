@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1647",
+    "https://anilist.co/anime/961",
+    "https://anime-planet.com/anime/virtua-fighter",
+    "https://anisearch.com/anime/1783",
+    "https://kitsu.io/anime/851",
+    "https://livechart.me/anime/8272",
+    "https://myanimelist.net/anime/961",
+    "https://notify.moe/anime/WrNJ5FiiR"
+  ],
+  "synopsis": {
+    "text": "Yuki Akira, a skilled Bajiquan martial artist trained by his grandfather, embarks on a quest to regain his ability to see a mythical constellation visible only to the truly strong. Along his journey, he encounters formidable opponents like the Koenkan and the enigmatic Kage Maru, while uncovering an international conspiracy. When his friend Sarah Bryant is kidnapped by the sinister Judgment 6, led by the robotics scientist Eva Durix, Akira must fight to save her. Joined by Jacky, Pai, and Sarah, Akira faces off against the world's greatest martial artists in this action-packed anime adaptation of the best-selling video game. The first season, consisting of 24 episodes split into two rounds, promises thrilling adventures and intense battles.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8fc9f266a184069",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.824599522926053,
+    "arithmeticGeometricMean": 6.810273408749619,
+    "median": 7.0,
+    "hash": "b8fc9f266a184069",
+    "lastUpdate": "2024-05-10"
+  }
+}

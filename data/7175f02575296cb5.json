@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15227",
+    "https://anilist.co/anime/129635",
+    "https://anime-planet.com/anime/zhandou-ba-geji-2nd-season",
+    "https://kitsu.io/anime/44070",
+    "https://myanimelist.net/anime/48851"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7175f02575296cb5",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.636363636363637,
+    "arithmeticGeometricMean": 5.636363636363637,
+    "median": 5.636363636363637,
+    "hash": "7175f02575296cb5",
+    "lastUpdate": "2024-05-08"
+  }
+}

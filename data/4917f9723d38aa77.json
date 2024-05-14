@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9057",
+    "https://anilist.co/anime/115140",
+    "https://anime-planet.com/anime/the-prince-and-the-white-horse",
+    "https://anisearch.com/anime/7727",
+    "https://kitsu.io/anime/9242",
+    "https://myanimelist.net/anime/22329",
+    "https://notify.moe/anime/6X8atKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4917f9723d38aa77",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.313103277674706,
+    "arithmeticGeometricMean": 5.297081473856875,
+    "median": 5.275,
+    "hash": "4917f9723d38aa77",
+    "lastUpdate": "2024-05-08"
+  }
+}

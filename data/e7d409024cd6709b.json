@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10409",
+    "https://anilist.co/anime/108815",
+    "https://anime-planet.com/anime/avengers-confidential-black-widow-and-punisher",
+    "https://anisearch.com/anime/9462",
+    "https://kitsu.io/anime/8789",
+    "https://livechart.me/anime/7275",
+    "https://myanimelist.net/anime/25457",
+    "https://notify.moe/anime/Ybe1tFimR"
+  ],
+  "synopsis": {
+    "text": "Agent Black Widow apprehends the Punisher after he disrupts a clandestine operation, leading to his capture by S.H.I.E.L.D. Under Director Nick Fury's command, the unlikely duo is dispatched to thwart Leviathan, a formidable global terrorist network intent on auctioning off purloined S.H.I.E.L.D. technology. The vigilante and the spy must now join forces to prevent this dangerous technology from falling into nefarious hands, with the world's fate and that of the Avengers hanging in the balance. As they trace the footsteps of a black market arms dealer to a Leviathan base in Slovenia, they uncover a lab filled with spies transformed into super-powered soldiers. Can the Punisher and Black Widow set aside their differences and collaborate to accomplish their mission? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e7d409024cd6709b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.272388550225286,
+    "arithmeticGeometricMean": 6.268020114700229,
+    "median": 6.27,
+    "hash": "e7d409024cd6709b",
+    "lastUpdate": "2024-05-08"
+  }
+}

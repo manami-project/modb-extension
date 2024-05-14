@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103459",
+    "https://anime-planet.com/anime/henkei-sakuhin-dai-1-ban",
+    "https://kitsu.io/anime/11434",
+    "https://myanimelist.net/anime/31584",
+    "https://notify.moe/anime/VdgjpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1500c33b7c2d16fb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.040981818181818,
+    "arithmeticGeometricMean": 5.026499579699691,
+    "median": 4.8,
+    "hash": "1500c33b7c2d16fb",
+    "lastUpdate": "2024-05-06"
+  }
+}

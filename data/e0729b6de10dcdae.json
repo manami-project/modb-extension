@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17062",
+    "https://anilist.co/anime/142842",
+    "https://anime-planet.com/anime/yu-gi-oh-go-rush",
+    "https://anisearch.com/anime/16995",
+    "https://kitsu.io/anime/45605",
+    "https://livechart.me/anime/10955",
+    "https://myanimelist.net/anime/50607",
+    "https://notify.moe/anime/6qHOtaong"
+  ],
+  "synopsis": {
+    "text": "One fateful day in Mutsuba-cho, the birthplace of the popular card game 'Rush Duel,' siblings Yuuhi and Yuamu Oudou, who run an alien-hunting organization called Ultraterrestrial Trouble Solutions (UTS), stumble upon a mysterious spaceship hidden in a forest clearing. Inside, they encounter Yudias Velgear, an extraterrestrial being from the Velgear Star Cluster.\n\nHaving never met an alien before, the siblings are both surprised and intrigued, especially Yuuhi, who believes that an alien has stolen his precious 'Earthdamar.' Yudias, on the other hand, is searching for answers about Rush Duel, a game he believes holds the key to ending a long-standing war and securing a new future for his friends who have been exiled from their home.\n\nDespite his lack of knowledge about the game, Yudias is eager to learn. Intrigued by his determination, Yuuhi and Yuamu agree to teach him the ins and outs of Rush Duel, leading to an unexpected challenge: a duel between Yuuhi and Yudias. As the siblings embark on this new adventure, they begin to suspect that their first alien encounter might not be as coincidental as it seems.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e0729b6de10dcdae",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.182562152133581,
+    "arithmeticGeometricMean": 5.141349357336559,
+    "median": 5.320686456400742,
+    "hash": "e0729b6de10dcdae",
+    "lastUpdate": "2024-05-10"
+  }
+}

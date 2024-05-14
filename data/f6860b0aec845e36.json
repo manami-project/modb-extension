@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9419",
+    "https://anilist.co/anime/15749",
+    "https://anime-planet.com/anime/chiisana-oji-san",
+    "https://anisearch.com/anime/8065",
+    "https://kitsu.io/anime/7302",
+    "https://myanimelist.net/anime/15749",
+    "https://notify.moe/anime/QSZKtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f6860b0aec845e36",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.111056277056277,
+    "arithmeticGeometricMean": 5.073977766697924,
+    "median": 5.045454545454545,
+    "hash": "f6860b0aec845e36",
+    "lastUpdate": "2024-05-08"
+  }
+}

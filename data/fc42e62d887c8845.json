@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9277",
+    "https://anilist.co/anime/14479",
+    "https://anime-planet.com/anime/mahou-tsukai-nara-miso-wo-kue",
+    "https://anisearch.com/anime/7919",
+    "https://kitsu.io/anime/7127",
+    "https://livechart.me/anime/4922",
+    "https://myanimelist.net/anime/14479",
+    "https://notify.moe/anime/AyIdtKimg"
+  ],
+  "synopsis": {
+    "text": "Hacchouya Shouta, a high school student at a magic academy, finds his ordinary life taking an extraordinary turn when a princess from Majieeru, the birthplace of magic, suddenly intrudes upon his morning miso soup tasting ritual. For a century, magic has been recognized as an enigmatic force rivaling science, but the discovery of MISO, the Material of an Impediment to the Sorcerer's Orders, has transformed magic from a unique ability into a skill that can be honed and perfected. Caught up in the princess's unexpected arrival and the dangerous enemies that follow her, Shouta embarks on an unforeseen adventure in a world where magic and science collide.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc42e62d887c8845",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.954828783461437,
+    "arithmeticGeometricMean": 4.941440582729209,
+    "median": 4.916,
+    "hash": "fc42e62d887c8845",
+    "lastUpdate": "2024-05-09"
+  }
+}

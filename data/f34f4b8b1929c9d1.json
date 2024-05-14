@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2314",
+    "https://anilist.co/anime/7779",
+    "https://anime-planet.com/anime/andersen-monogatari-tv",
+    "https://anisearch.com/anime/942",
+    "https://kitsu.io/anime/5119",
+    "https://livechart.me/anime/11927",
+    "https://myanimelist.net/anime/7779",
+    "https://notify.moe/anime/_v0ktFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f34f4b8b1929c9d1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.733460111317254,
+    "arithmeticGeometricMean": 5.681717088290952,
+    "median": 5.772727272727273,
+    "hash": "f34f4b8b1929c9d1",
+    "lastUpdate": "2024-05-08"
+  }
+}

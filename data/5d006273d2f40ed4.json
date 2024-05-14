@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1009",
+    "https://anilist.co/anime/2150",
+    "https://anime-planet.com/anime/delightful-moomin-family",
+    "https://anisearch.com/anime/818",
+    "https://kitsu.io/anime/1946",
+    "https://livechart.me/anime/5667",
+    "https://myanimelist.net/anime/2150",
+    "https://notify.moe/anime/we9YcKmiR"
+  ],
+  "synopsis": {
+    "text": "Moomins, a group of gentle, peaceful creatures residing in the secluded and enigmatic Moomin Valley, embark on a series of magical and everyday adventures. The young Moomin, his family, and friends welcome the arrival of spring in their idyllic home, where time appears to slow down, and every guest is greeted with warmth.\n\nAs the valley's inhabitants emerge from hibernation, they are joined by Snufkin, who returns from his winter migration. The friends stumble upon a mysterious, high-quality hat that they cannot bear to discard. Moomin, in an attempt to hide during a game, transforms into a monstrous creature after concealing himself within the hat. The magic hat, which has the power to maliciously transform objects thrown into it, proves difficult to dispose of, leading Moomin and Snufkin to ponder about its owner.\n\nBased on Tove Jansson's beloved children's stories, the Moomins - who bear a striking resemblance to upright-walking hippos - experience a series of thrilling, heartwarming, and educational adventures in Moominvalley. Alongside human and animal friends, the curious young Moomintroll navigates a world filled with laughter, fear, and valuable life lessons.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5d006273d2f40ed4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.237185617103983,
+    "arithmeticGeometricMean": 7.181263989427521,
+    "median": 7.416666666666667,
+    "hash": "5d006273d2f40ed4",
+    "lastUpdate": "2024-05-10"
+  }
+}

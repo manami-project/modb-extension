@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/727",
+    "https://anilist.co/anime/2470",
+    "https://anime-planet.com/anime/captain-harlock-mystery-of-the-arcadia",
+    "https://anisearch.com/anime/1126",
+    "https://kitsu.io/anime/2244",
+    "https://livechart.me/anime/7922",
+    "https://myanimelist.net/anime/2470",
+    "https://notify.moe/anime/tCuPcFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26e426855e745328",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.620578731925671,
+    "arithmeticGeometricMean": 6.605671315159747,
+    "median": 6.7272727272727275,
+    "hash": "26e426855e745328",
+    "lastUpdate": "2024-05-10"
+  }
+}

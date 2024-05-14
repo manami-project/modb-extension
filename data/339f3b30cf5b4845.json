@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8793",
+    "https://anilist.co/anime/659",
+    "https://anime-planet.com/anime/azumanga-daioh-the-very-short-movie",
+    "https://anisearch.com/anime/3886",
+    "https://kitsu.io/anime/606",
+    "https://livechart.me/anime/4680",
+    "https://myanimelist.net/anime/659",
+    "https://notify.moe/anime/wyZAcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "339f3b30cf5b4845",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.918497113997114,
+    "arithmeticGeometricMean": 6.91033849723899,
+    "median": 7.025,
+    "hash": "339f3b30cf5b4845",
+    "lastUpdate": "2024-05-08"
+  }
+}

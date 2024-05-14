@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3345",
+    "https://anilist.co/anime/1933",
+    "https://anime-planet.com/anime/growlanser-iv-wayfarer-of-the-time",
+    "https://anisearch.com/anime/2042",
+    "https://kitsu.io/anime/1743",
+    "https://myanimelist.net/anime/1933",
+    "https://notify.moe/anime/N7iLcKmmg"
+  ],
+  "synopsis": {
+    "text": "PS2 game's promotional OVA, Growlanser IV Returns, presents a world recovering from a devastating war, where Valcania, Dulkheim, and Igrecias have formed a confederation to establish a new political order. However, discontent still simmers, leading to a planned rebellion in Valcania's capital. Lady Dianna Silvernale, the Royal Guard's captain, finds herself in a dilemma: join Prince Lyros in his coup to reclaim Valcania or uphold her duty to prevent another war. Amidst this turmoil, characters from previous Growlanser series make appearances, weaving a tale of anti-war themes, time manipulation, and parallel worlds. With time running out, Silvernale's decision could determine the fate of her nation and its people.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33527e3f9b11376c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.623201166180757,
+    "arithmeticGeometricMean": 5.607316506099785,
+    "median": 5.66,
+    "hash": "33527e3f9b11376c",
+    "lastUpdate": "2024-05-08"
+  }
+}

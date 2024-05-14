@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7904",
+    "https://anilist.co/anime/9393",
+    "https://anime-planet.com/anime/t-p-sakura-time-paladin-sakura",
+    "https://anisearch.com/anime/6467",
+    "https://kitsu.io/anime/5719",
+    "https://livechart.me/anime/6199",
+    "https://myanimelist.net/anime/9393",
+    "https://notify.moe/anime/BEgGpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f23f11ceffb3b5e6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.859854757487411,
+    "arithmeticGeometricMean": 5.851194097346977,
+    "median": 5.7272727272727275,
+    "hash": "f23f11ceffb3b5e6",
+    "lastUpdate": "2024-05-10"
+  }
+}

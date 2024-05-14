@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9937",
+    "https://anilist.co/anime/13247",
+    "https://anime-planet.com/anime/lupin-the-3rd-lupin-family-all-stars",
+    "https://anisearch.com/anime/7875",
+    "https://kitsu.io/anime/6921",
+    "https://livechart.me/anime/7381",
+    "https://myanimelist.net/anime/13247",
+    "https://notify.moe/anime/XhvDpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cec0da6a8cee9071",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.827981977206467,
+    "arithmeticGeometricMean": 6.825312087695704,
+    "median": 6.818181818181818,
+    "hash": "cec0da6a8cee9071",
+    "lastUpdate": "2024-05-09"
+  }
+}

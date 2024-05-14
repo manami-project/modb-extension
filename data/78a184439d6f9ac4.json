@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10249",
+    "https://anilist.co/anime/16490",
+    "https://anime-planet.com/anime/robot-taekwon-v-wa-hwanggeum-nalgae",
+    "https://anisearch.com/anime/8595",
+    "https://kitsu.io/anime/7441",
+    "https://myanimelist.net/anime/16490",
+    "https://notify.moe/anime/sjsFpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "78a184439d6f9ac4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.938311688311688,
+    "arithmeticGeometricMean": 4.859615277926606,
+    "median": 4.590909090909091,
+    "hash": "78a184439d6f9ac4",
+    "lastUpdate": "2024-05-08"
+  }
+}

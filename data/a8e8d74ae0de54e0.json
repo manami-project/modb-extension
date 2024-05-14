@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12592",
+    "https://anilist.co/anime/8732",
+    "https://anime-planet.com/anime/yuuki-hitotsu-wo-tomo-ni-shite",
+    "https://anisearch.com/anime/6286",
+    "https://kitsu.io/anime/5467",
+    "https://myanimelist.net/anime/8732",
+    "https://notify.moe/anime/_gemtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a8e8d74ae0de54e0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.640330859616575,
+    "arithmeticGeometricMean": 4.6222971832217175,
+    "median": 4.767727272727273,
+    "hash": "a8e8d74ae0de54e0",
+    "lastUpdate": "2024-05-08"
+  }
+}

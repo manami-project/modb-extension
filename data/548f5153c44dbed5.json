@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13642",
+    "https://anilist.co/anime/103359",
+    "https://anime-planet.com/anime/shi-wan-ge-leng-xiaohua-movie-2",
+    "https://anisearch.com/anime/13389",
+    "https://kitsu.io/anime/41050",
+    "https://kitsu.io/anime/41631",
+    "https://myanimelist.net/anime/36619",
+    "https://notify.moe/anime/gPWKhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "548f5153c44dbed5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.624909090909091,
+    "arithmeticGeometricMean": 6.617489944578458,
+    "median": 6.624909090909091,
+    "hash": "548f5153c44dbed5",
+    "lastUpdate": "2024-05-08"
+  }
+}

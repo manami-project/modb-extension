@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/508",
+    "https://anilist.co/anime/1614",
+    "https://anime-planet.com/anime/captain-tsubasa-road-to-2002",
+    "https://anisearch.com/anime/2268",
+    "https://kitsu.io/anime/7924",
+    "https://livechart.me/anime/4490",
+    "https://myanimelist.net/anime/1614",
+    "https://notify.moe/anime/srZhtFiig"
+  ],
+  "synopsis": {
+    "text": "Tsubasa’s love for soccer began when he was just a child, and his passion for the game has only grown stronger over time. From his humble beginnings at Nankatsu Elementary to his rise as a superstar in Brazil, Tsubasa has always had one goal in mind: to play in the World Cup. With the support of his friends and mentors, including the skilled Captain Roberto, the talented goalkeeper Wakabayashi, and the fierce striker Hyuga, Tsubasa has faced countless challenges and obstacles on his journey to become the best soccer player he can be. Now, as he takes the field in Europe, Tsubasa is ready to prove that he has what it takes to compete on the world stage. With his unwavering determination and love for the game, Tsubasa is sure to make an impact on the field and inspire others to chase their dreams.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d198a2ac759c3c85",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.18534397745112,
+    "arithmeticGeometricMean": 7.1774204806267585,
+    "median": 7.2875874125874125,
+    "hash": "d198a2ac759c3c85",
+    "lastUpdate": "2024-05-09"
+  }
+}

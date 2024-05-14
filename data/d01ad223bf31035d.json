@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/130448",
+    "https://anime-planet.com/anime/wasureta-furi-wo-shite",
+    "https://kitsu.io/anime/43443",
+    "https://myanimelist.net/anime/42488",
+    "https://notify.moe/anime/u8j8RxyGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d01ad223bf31035d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.237030303030303,
+    "arithmeticGeometricMean": 6.2329719195983895,
+    "median": 6.13,
+    "hash": "d01ad223bf31035d",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10208",
+    "https://anilist.co/anime/20479",
+    "https://anime-planet.com/anime/my-mental-choices-are-completely-interfering-with-my-school-romantic-comedy-ova",
+    "https://anisearch.com/anime/9615",
+    "https://kitsu.io/anime/8188",
+    "https://livechart.me/anime/304",
+    "https://myanimelist.net/anime/20939",
+    "https://notify.moe/anime/LwHTpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4827edc7c4b3af64",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.102344736564248,
+    "arithmeticGeometricMean": 7.0994129554576535,
+    "median": 7.164430894308943,
+    "hash": "4827edc7c4b3af64",
+    "lastUpdate": "2024-05-09"
+  }
+}

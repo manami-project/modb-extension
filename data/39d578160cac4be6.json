@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12128",
+    "https://anilist.co/anime/98964",
+    "https://anime-planet.com/anime/four-seasons-fuuka-to-nanami",
+    "https://anisearch.com/anime/11384",
+    "https://kitsu.io/anime/11541",
+    "https://livechart.me/anime/8144",
+    "https://myanimelist.net/anime/32058",
+    "https://notify.moe/anime/PA1jpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "39d578160cac4be6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2854561357010335,
+    "arithmeticGeometricMean": 5.2129136698954195,
+    "median": 4.84,
+    "hash": "39d578160cac4be6",
+    "lastUpdate": "2024-05-09"
+  }
+}

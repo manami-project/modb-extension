@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5527",
+    "https://anilist.co/anime/10525",
+    "https://anime-planet.com/anime/shinseiki-duel-masters-flash",
+    "https://anisearch.com/anime/4563",
+    "https://kitsu.io/anime/6222",
+    "https://myanimelist.net/anime/10525",
+    "https://notify.moe/anime/87I4pFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "947b0afe96b38194",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.882590723562152,
+    "arithmeticGeometricMean": 4.810956496186313,
+    "median": 4.454545454545454,
+    "hash": "947b0afe96b38194",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16787",
+    "https://anilist.co/anime/129214",
+    "https://anime-planet.com/anime/konglong-baobei-zhi-longshen-yongshi",
+    "https://myanimelist.net/anime/41416"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef92f81377456c97",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.181818181818182,
+    "arithmeticGeometricMean": 4.181818181818182,
+    "median": 4.181818181818182,
+    "hash": "ef92f81377456c97",
+    "lastUpdate": "2024-05-08"
+  }
+}

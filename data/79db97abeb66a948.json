@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5978",
+    "https://anime-planet.com/anime/kaiketsu-zorori-1989",
+    "https://anisearch.com/anime/4981",
+    "https://kitsu.io/anime/40790",
+    "https://myanimelist.net/anime/35538",
+    "https://notify.moe/anime/pbWOhKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "79db97abeb66a948",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.326530612244898,
+    "arithmeticGeometricMean": 6.326530612244898,
+    "median": 6.326530612244898,
+    "hash": "79db97abeb66a948",
+    "lastUpdate": "2024-05-08"
+  }
+}

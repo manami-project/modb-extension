@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10273",
+    "https://anilist.co/anime/20527",
+    "https://anime-planet.com/anime/one-week-friends",
+    "https://anisearch.com/anime/9217",
+    "https://kitsu.io/anime/8096",
+    "https://livechart.me/anime/314",
+    "https://myanimelist.net/anime/21327",
+    "https://notify.moe/anime/pJX2pKmig"
+  ],
+  "synopsis": {
+    "text": "Yuuki Hase, a high school student, is captivated by the solitary and enigmatic Kaori Fujimiya, who seems to have no friends. When he attempts to reach out, Kaori rebuffs him, revealing a heart-wrenching secret: due to an accident, her memories of her friends reset every Monday, leaving her with no recollection of the bonds she's formed. Undeterred, Yuuki makes it his mission to befriend Kaori anew each week, hoping that one day, their connection might transcend the constraints of time. As they navigate this unique friendship, they discover that some bonds, when nurtured with unwavering determination, can potentially defy even the most challenging circumstances. Embark on a poignant journey of love, resilience, and the power of friendship in \"One Week Friends.\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "37ebe1544dab1512",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.572822446402804,
+    "arithmeticGeometricMean": 7.571784366770761,
+    "median": 7.604938775510203,
+    "hash": "37ebe1544dab1512",
+    "lastUpdate": "2024-05-09"
+  }
+}

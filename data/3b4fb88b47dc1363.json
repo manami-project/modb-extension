@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11563",
+    "https://anilist.co/anime/100533",
+    "https://anime-planet.com/anime/pulsar",
+    "https://anisearch.com/anime/11615",
+    "https://kitsu.io/anime/10234",
+    "https://myanimelist.net/anime/29377",
+    "https://notify.moe/anime/1mQytFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b4fb88b47dc1363",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.088641929499073,
+    "arithmeticGeometricMean": 4.990057267408266,
+    "median": 5.402272727272727,
+    "hash": "3b4fb88b47dc1363",
+    "lastUpdate": "2024-05-08"
+  }
+}

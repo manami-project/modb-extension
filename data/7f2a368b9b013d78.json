@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/522",
+    "https://anilist.co/anime/2598",
+    "https://anime-planet.com/anime/heavy-metal-l-gaim",
+    "https://anisearch.com/anime/1654",
+    "https://kitsu.io/anime/2362",
+    "https://livechart.me/anime/6661",
+    "https://myanimelist.net/anime/2598",
+    "https://notify.moe/anime/-Ady5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f2a368b9b013d78",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.351829843625761,
+    "arithmeticGeometricMean": 6.31875891206948,
+    "median": 6.57,
+    "hash": "7f2a368b9b013d78",
+    "lastUpdate": "2024-05-09"
+  }
+}

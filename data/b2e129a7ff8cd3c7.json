@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13377",
+    "https://anilist.co/anime/99966",
+    "https://anime-planet.com/anime/shirotan-shirotan-ga-ippai",
+    "https://anisearch.com/anime/12739",
+    "https://kitsu.io/anime/13792",
+    "https://livechart.me/anime/8328",
+    "https://myanimelist.net/anime/36107",
+    "https://notify.moe/anime/btDI2FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b2e129a7ff8cd3c7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.821305380333952,
+    "arithmeticGeometricMean": 5.803772847127894,
+    "median": 5.408163265306122,
+    "hash": "b2e129a7ff8cd3c7",
+    "lastUpdate": "2024-05-10"
+  }
+}

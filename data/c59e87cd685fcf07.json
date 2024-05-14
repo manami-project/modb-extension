@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5552",
+    "https://anilist.co/anime/3424",
+    "https://anime-planet.com/anime/porphy-no-nagai-tabi",
+    "https://anisearch.com/anime/4582",
+    "https://kitsu.io/anime/2999",
+    "https://livechart.me/anime/12560",
+    "https://myanimelist.net/anime/3424",
+    "https://notify.moe/anime/B5YQcFmmg"
+  ],
+  "synopsis": {
+    "text": "Grecian siblings, Porphyras and Mina, find their world turned upside down when a catastrophic earthquake claims the lives of their parents and leaves them orphaned. Just as they were starting to reap the benefits of their family's newly-opened petrol station, fate had other plans. Initially separated amidst the chaos, Porphyras manages to locate Mina, but instead of settling into a foster home, the duo embarks on a daring journey across Europe, seeking solace and a new beginning in the unknown.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c59e87cd685fcf07",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.663589716406042,
+    "arithmeticGeometricMean": 6.650394887306611,
+    "median": 6.818181818181818,
+    "hash": "c59e87cd685fcf07",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9892",
+    "https://anilist.co/anime/19775",
+    "https://anime-planet.com/anime/knights-of-sidonia",
+    "https://anisearch.com/anime/8876",
+    "https://kitsu.io/anime/7768",
+    "https://livechart.me/anime/155",
+    "https://myanimelist.net/anime/19775",
+    "https://notify.moe/anime/VrOptKmmg"
+  ],
+  "synopsis": {
+    "text": "Most of humanity has been wiped out a thousand years ago when the monstrous, shapeshifting Gauna destroyed Earth. The remaining human population now resides aboard colossal spaceships, constructed from Earth's remnants. Sidonia, one such vessel, has developed a unique culture that incorporates human cloning, asexual reproduction, and advanced human engineering. To combat the persistent Gauna threat, Sidonia relies on massive mechanized weapons known as Guardians, piloted by individuals drafted at a young age.\n\nNagate Tanikaze, a young man hidden deep within the bowels of Sidonia by his grandfather, emerges to the surface in search of food. Unbeknownst to him, he is thrust into a world where military service is mandatory, and the Gauna have re-emerged to threaten humanity's fragile existence. Alongside fellow soldiers Shizuka Hoshijiro, Izana Shinatose, and Yuhata Midorikawa, Nagate must adapt to this new reality and rise to the challenge of becoming Sidonia's hero, defending the last vestiges of mankind against their relentless alien foes.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4f717a9305df3c3e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.664066877630818,
+    "arithmeticGeometricMean": 7.6635560616373155,
+    "median": 7.654999999999999,
+    "hash": "4f717a9305df3c3e",
+    "lastUpdate": "2024-05-10"
+  }
+}

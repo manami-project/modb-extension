@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140223",
+    "https://anime-planet.com/anime/ten-made-tobaso",
+    "https://anisearch.com/anime/13400",
+    "https://myanimelist.net/anime/37351"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "14a1de3a8f46cc43",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.45749443413729,
+    "arithmeticGeometricMean": 5.421425387133429,
+    "median": 5.25909090909091,
+    "hash": "14a1de3a8f46cc43",
+    "lastUpdate": "2024-05-07"
+  }
+}

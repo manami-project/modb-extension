@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6723",
+    "https://anilist.co/anime/6839",
+    "https://anime-planet.com/anime/hinomaru-tarou-musha-shugyou-no-maki",
+    "https://anisearch.com/anime/5665",
+    "https://kitsu.io/anime/4741",
+    "https://myanimelist.net/anime/6839",
+    "https://notify.moe/anime/sej65FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3714b7e5cf6d5ba7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.688510469122714,
+    "arithmeticGeometricMean": 4.654230051070994,
+    "median": 4.71,
+    "hash": "3714b7e5cf6d5ba7",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3317",
+    "https://anilist.co/anime/807",
+    "https://anime-planet.com/anime/tsubasa-reservoir-chronicle-the-movie-the-princess-in-the-birdcage-kingdom",
+    "https://anisearch.com/anime/1536",
+    "https://kitsu.io/anime/716",
+    "https://livechart.me/anime/4940",
+    "https://myanimelist.net/anime/807",
+    "https://notify.moe/anime/NH-A5FmiR"
+  ],
+  "synopsis": {
+    "text": "This captivating anime follows the young archaeologist Shaolan and his friends on their quest to recover the scattered fragments of Princess Sakura's memories, which have been transformed into glowing feathers. Their journey takes them through various dimensions, times, and lands, leading them to the seemingly tranquil Birdcage Kingdom. In this unique realm, humans and birds coexist harmoniously, with each person having a bird companion. However, beneath the surface, the kingdom is in turmoil. The king, who possesses a mysterious power, has begun to oppress his subjects, confiscating their bird companions and causing widespread misery.\n\nWhen Shaolan and his friends arrive, they are mistaken for the king's guards and attacked by a young boy named Koruri. They soon learn of the king's tyranny and the plight of the princess, Tomoyo, whose voice has been sealed and bird companion taken away by her evil uncle, the king. Determined to help restore peace to the kingdom and retrieve Sakura's memory feather, Shaolan and his friends stand up against the scheming king. Will they succeed in their mission and bring happiness back to the Birdcage Kingdom?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77a60ca1968df1cf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.266813079777365,
+    "arithmeticGeometricMean": 7.264099934748496,
+    "median": 7.3149999999999995,
+    "hash": "77a60ca1968df1cf",
+    "lastUpdate": "2024-05-10"
+  }
+}

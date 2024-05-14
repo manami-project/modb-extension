@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1217",
+    "https://anilist.co/anime/759",
+    "https://anime-planet.com/anime/tokyo-godfathers",
+    "https://anisearch.com/anime/3091",
+    "https://kitsu.io/anime/681",
+    "https://livechart.me/anime/3397",
+    "https://myanimelist.net/anime/759",
+    "https://notify.moe/anime/C0t0cKiiR"
+  ],
+  "synopsis": {
+    "text": "Gin, a former cyclist; Hana, a transgender woman; and Miyuki, a young runaway, are three unlikely companions sharing a life of homelessness in Tokyo. On a cold Christmas Eve, their lives take a dramatic turn when they stumble upon an abandoned baby in a garbage dump. Despite their hardships, they decide to find the baby's parents, naming her Kiyoko, meaning 'pure one'. With only a mysterious key and a single note as clues, the trio embarks on a journey filled with danger, humor, and unexpected encounters. As they navigate the vast city, they find themselves entangled in a series of events, from kidnapping to mysterious red envelopes. Along the way, they confront their own pasts, revisiting their haunted memories, and learning to face their futures. This heartwarming tale of three homeless 'godfathers' and their quest to find Kiyoko's home offers a unique perspective on life, love, and the true meaning of family.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "30387937427808f1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.13491562217446,
+    "arithmeticGeometricMean": 8.133692023894161,
+    "median": 8.234163416341636,
+    "hash": "30387937427808f1",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/869",
+    "https://anilist.co/anime/367",
+    "https://anime-planet.com/anime/akazukin-chacha-ova",
+    "https://anisearch.com/anime/1768",
+    "https://kitsu.io/anime/334",
+    "https://livechart.me/anime/8996",
+    "https://myanimelist.net/anime/367",
+    "https://notify.moe/anime/lqUhcKmiR"
+  ],
+  "synopsis": {
+    "text": "Can't fathom why her students always fall short compared to those at Urara Academy, the principal of Momiji Academy resorts to a clandestine plan: sending a young spy, Popi, to unravel the secrets of the prestigious institution. Disguised as a transfer student, Popi finds himself in a whirlwind of chaos, with eccentric staff and carefree students, leaving him baffled as to how such an environment can produce the world's most formidable magic users. Will the enigmatic were-puppy Riiya, the sorcerer Seravi, the cheerful Chacha, and the rest of the gang help Popi feel at home, or will he remain a lone wolf amidst his new rivals? Join Popi on his undercover journey as he navigates the unpredictable world of Urara Academy, where the line between friend and foe blurs, and where the true power of magic lies in the bonds they form.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "83ec5ef0cc697681",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.5619496421945405,
+    "arithmeticGeometricMean": 6.540333286477737,
+    "median": 6.61,
+    "hash": "83ec5ef0cc697681",
+    "lastUpdate": "2024-05-08"
+  }
+}

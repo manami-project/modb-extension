@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1929",
+    "https://anilist.co/anime/5891",
+    "https://anime-planet.com/anime/kousoku-denjin-albegus",
+    "https://anisearch.com/anime/2114",
+    "https://kitsu.io/anime/4325",
+    "https://livechart.me/anime/11968",
+    "https://myanimelist.net/anime/5891",
+    "https://notify.moe/anime/B6Z35FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "712266ea81bb5f64",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.179934799893983,
+    "arithmeticGeometricMean": 6.149953422587592,
+    "median": 6.15,
+    "hash": "712266ea81bb5f64",
+    "lastUpdate": "2024-05-09"
+  }
+}

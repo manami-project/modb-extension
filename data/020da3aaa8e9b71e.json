@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12519",
+    "https://anilist.co/anime/97815",
+    "https://anime-planet.com/anime/fate-grand-order-first-order",
+    "https://anisearch.com/anime/11903",
+    "https://kitsu.io/anime/12710",
+    "https://livechart.me/anime/2403",
+    "https://myanimelist.net/anime/34321",
+    "https://notify.moe/anime/RhPmhFiig"
+  ],
+  "synopsis": {
+    "text": "Mash Kyrielight and Ritsuka Fujimaru, a duo of unlikely heroes, find themselves in a race against time as they join the Chaldea Security Organization in 2015. This organization, a unique blend of magical and scientific experts, is tasked with the daunting mission of safeguarding human history and ensuring its continuity. However, when the future they've been monitoring vanishes without warning, the impending extinction of humanity in 2017 becomes a chilling reality.\n\nThe cause of this imminent doom is traced back to the seemingly ordinary Japanese town of Fuyuki in 2004. A mysterious, unobservable realm has surfaced, a singularity that could potentially be the harbinger of humanity's downfall. Chaldea, armed with the experimental Rayshift time travel technology, issues a grand order to embark on a quest for the elusive Holy Grail.\n\nRitsuka and Mash must now journey back to 2004, navigate through this enigmatic singularity, and unravel the mystery that threatens the very existence of mankind. Their mission: to investigate, uncover the truth, and if necessary, destroy the source of this impending catastrophe. The fate of humanity hangs in the balance, and the battle to change the past and restore the future begins.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "020da3aaa8e9b71e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.89824883864751,
+    "arithmeticGeometricMean": 6.89515844702967,
+    "median": 6.964108527131783,
+    "hash": "020da3aaa8e9b71e",
+    "lastUpdate": "2024-05-09"
+  }
+}

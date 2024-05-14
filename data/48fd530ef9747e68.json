@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/130226",
+    "https://anime-planet.com/anime/the-haunted-house-the-secret-of-the-ghost-ball",
+    "https://anisearch.com/anime/14088",
+    "https://kitsu.io/anime/43158",
+    "https://livechart.me/anime/11583",
+    "https://myanimelist.net/anime/38923"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "48fd530ef9747e68",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.172363636363636,
+    "arithmeticGeometricMean": 7.167726004035424,
+    "median": 7.333818181818182,
+    "hash": "48fd530ef9747e68",
+    "lastUpdate": "2024-05-06"
+  }
+}

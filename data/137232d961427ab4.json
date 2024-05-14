@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15588",
+    "https://anilist.co/anime/120211",
+    "https://anime-planet.com/anime/hulaing-babies-aratame-staying-babies",
+    "https://anisearch.com/anime/15339",
+    "https://kitsu.io/anime/43282",
+    "https://livechart.me/anime/10031",
+    "https://myanimelist.net/anime/42145",
+    "https://notify.moe/anime/ZgqhjbWGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "137232d961427ab4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.222195918367346,
+    "arithmeticGeometricMean": 5.203709551518503,
+    "median": 4.948979591836734,
+    "hash": "137232d961427ab4",
+    "lastUpdate": "2024-05-09"
+  }
+}

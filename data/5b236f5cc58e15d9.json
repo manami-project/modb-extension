@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10186",
+    "https://anime-planet.com/anime/taikong-lixianji",
+    "https://anisearch.com/anime/9267",
+    "https://kitsu.io/anime/13516",
+    "https://livechart.me/anime/8309",
+    "https://myanimelist.net/anime/35138",
+    "https://notify.moe/anime/MiZVhFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b236f5cc58e15d9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.221,
+    "arithmeticGeometricMean": 6.16035145847244,
+    "median": 6.221,
+    "hash": "5b236f5cc58e15d9",
+    "lastUpdate": "2024-05-10"
+  }
+}

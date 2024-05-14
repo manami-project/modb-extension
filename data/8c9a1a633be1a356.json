@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/hyperventilation",
+    "https://anisearch.com/anime/16095",
+    "https://kitsu.io/anime/42876",
+    "https://myanimelist.net/anime/40491"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8c9a1a633be1a356",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.487819109461967,
+    "arithmeticGeometricMean": 7.485542049298204,
+    "median": 7.524638218923933,
+    "hash": "8c9a1a633be1a356",
+    "lastUpdate": "2024-05-06"
+  }
+}

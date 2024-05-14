@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9886",
+    "https://anilist.co/anime/18527",
+    "https://anime-planet.com/anime/gekikara-gag-gekijou-tabasco-shower",
+    "https://anisearch.com/anime/8743",
+    "https://kitsu.io/anime/9275",
+    "https://myanimelist.net/anime/18527",
+    "https://notify.moe/anime/JX9atFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0a6518dc01d54865",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.434243970315399,
+    "arithmeticGeometricMean": 4.42511304157125,
+    "median": 4.3531818181818185,
+    "hash": "0a6518dc01d54865",
+    "lastUpdate": "2024-05-07"
+  }
+}

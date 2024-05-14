@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10151",
+    "https://anime-planet.com/anime/present",
+    "https://anisearch.com/anime/9119",
+    "https://kitsu.io/anime/10995",
+    "https://myanimelist.net/anime/30765",
+    "https://notify.moe/anime/pxq_tFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7750ffc48fe0739",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "d7750ffc48fe0739",
+    "lastUpdate": "2024-05-08"
+  }
+}

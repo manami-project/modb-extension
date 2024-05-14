@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/624",
+    "https://anilist.co/anime/236",
+    "https://anime-planet.com/anime/es-otherwise",
+    "https://anisearch.com/anime/1745",
+    "https://kitsu.io/anime/211",
+    "https://livechart.me/anime/7840",
+    "https://myanimelist.net/anime/236",
+    "https://notify.moe/anime/CDn25FimR"
+  ],
+  "score": {
+    "arithmeticMean": 6.539835674529551,
+    "arithmeticGeometricMean": 6.536824475804868,
+    "median": 6.63,
+    "hash": "bd441fce05bec60c",
+    "lastUpdate": "2024-05-09"
+  }
+}

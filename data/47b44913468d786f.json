@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/410",
+    "https://anilist.co/anime/1660",
+    "https://anime-planet.com/anime/kurogane-communication",
+    "https://anisearch.com/anime/2125",
+    "https://kitsu.io/anime/1491",
+    "https://livechart.me/anime/7679",
+    "https://myanimelist.net/anime/1660",
+    "https://notify.moe/anime/ZbRfcFmmR"
+  ],
+  "synopsis": {
+    "text": "They say hope is the last thing to die, and for Haruka, it's the only thing keeping her going in a post-apocalyptic world ravaged by a colossal war. Living amidst the ruins of what was once Japan, Haruka finds solace in the company of five sentient robots, each with a unique personality and purpose.\n\nSpike, the youngest and most attached to Haruka, serves as her confidant and best friend, while Cleric, the wise and intelligent robot, guides them through the challenges of their desolate world. Angela, a formidable warrior, wields her sword to protect Haruka from the relentless attacks of rogue combat machines still waging a war long since ended. Toriga, the hot-headed and least effective combat robot, and Reeves, a gentle giant hidden beneath a menacing exterior, complete this unlikely family.\n\nAs they scour the desolate landscape for resources and signs of other survivors, Haruka clings to the hope that she is not the last human left on Earth. Yet, as days turn into weeks, and weeks into months, the harsh reality begins to set in. Can Haruka and her robot companions find a way to survive in this unforgiving world, or will they succumb to the relentless onslaught of their hostile environment? Join Haruka on her journey to find meaning and hope in a world teetering on the brink of oblivion.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47b44913468d786f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.5336559766763855,
+    "arithmeticGeometricMean": 6.528400204461407,
+    "median": 6.454545454545455,
+    "hash": "47b44913468d786f",
+    "lastUpdate": "2024-05-09"
+  }
+}

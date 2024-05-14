@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/3006",
+    "https://myanimelist.net/anime/316"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc62251709981ebb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.9793877551020405,
+    "arithmeticGeometricMean": 5.976965953036771,
+    "median": 5.9793877551020405,
+    "hash": "cc62251709981ebb",
+    "lastUpdate": "2024-05-07"
+  }
+}

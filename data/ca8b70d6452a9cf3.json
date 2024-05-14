@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7474",
+    "https://anilist.co/anime/8150",
+    "https://anime-planet.com/anime/gegege-no-kitarou-chisougan",
+    "https://anisearch.com/anime/6199",
+    "https://kitsu.io/anime/5217",
+    "https://livechart.me/anime/8059",
+    "https://myanimelist.net/anime/8150",
+    "https://notify.moe/anime/pxjztFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca8b70d6452a9cf3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.577218923933209,
+    "arithmeticGeometricMean": 5.560281783616635,
+    "median": 5.508636363636364,
+    "hash": "ca8b70d6452a9cf3",
+    "lastUpdate": "2024-05-09"
+  }
+}

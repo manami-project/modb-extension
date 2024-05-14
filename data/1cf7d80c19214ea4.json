@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6516",
+    "https://anilist.co/anime/16063",
+    "https://anime-planet.com/anime/fushigi-na-taiko",
+    "https://anisearch.com/anime/1219",
+    "https://kitsu.io/anime/10544",
+    "https://kitsu.io/anime/7369",
+    "https://myanimelist.net/anime/29919",
+    "https://notify.moe/anime/I1pFpFiig",
+    "https://notify.moe/anime/ScgwtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1cf7d80c19214ea4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.83534693877551,
+    "arithmeticGeometricMean": 4.785616684243188,
+    "median": 5.0,
+    "hash": "1cf7d80c19214ea4",
+    "lastUpdate": "2024-05-08"
+  }
+}

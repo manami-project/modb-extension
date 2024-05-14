@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12615",
+    "https://anilist.co/anime/103983",
+    "https://anime-planet.com/anime/ai-kido-joki-joki-tailor",
+    "https://anisearch.com/anime/13907",
+    "https://kitsu.io/anime/10688",
+    "https://myanimelist.net/anime/30157",
+    "https://notify.moe/anime/0iawpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "934f174aa5c2e410",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.001239332096475,
+    "arithmeticGeometricMean": 4.989457562557596,
+    "median": 5.02,
+    "hash": "934f174aa5c2e410",
+    "lastUpdate": "2024-05-08"
+  }
+}

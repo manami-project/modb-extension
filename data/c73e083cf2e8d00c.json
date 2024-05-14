@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13549",
+    "https://anilist.co/anime/163275",
+    "https://anime-planet.com/anime/yuuwaku-office-lover-2",
+    "https://anisearch.com/anime/13130",
+    "https://kitsu.io/anime/41648",
+    "https://livechart.me/anime/2961",
+    "https://myanimelist.net/anime/36705"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c73e083cf2e8d00c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.870540507111936,
+    "arithmeticGeometricMean": 5.77052196789863,
+    "median": 6.326530612244898,
+    "hash": "c73e083cf2e8d00c",
+    "lastUpdate": "2024-05-10"
+  }
+}

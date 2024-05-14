@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126880",
+    "https://anime-planet.com/anime/sugar-bunnies-fleur-specials",
+    "https://kitsu.io/anime/12591",
+    "https://livechart.me/anime/11794",
+    "https://myanimelist.net/anime/34000",
+    "https://notify.moe/anime/j4Vi2Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "913f2e15ff84745d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.79369696969697,
+    "arithmeticGeometricMean": 5.737502788706526,
+    "median": 5.0,
+    "hash": "913f2e15ff84745d",
+    "lastUpdate": "2024-05-06"
+  }
+}

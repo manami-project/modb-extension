@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12600",
+    "https://anilist.co/anime/139098",
+    "https://anime-planet.com/anime/akaoni-to-aooni-no-tango",
+    "https://anisearch.com/anime/9343",
+    "https://kitsu.io/anime/8955",
+    "https://myanimelist.net/anime/24861",
+    "https://notify.moe/anime/wOLxtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "be575a5fd3dddd3c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.225156462585034,
+    "arithmeticGeometricMean": 5.210268907177147,
+    "median": 5.07,
+    "hash": "be575a5fd3dddd3c",
+    "lastUpdate": "2024-05-07"
+  }
+}

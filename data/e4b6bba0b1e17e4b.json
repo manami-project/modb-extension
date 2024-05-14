@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140613",
+    "https://anime-planet.com/anime/shoku",
+    "https://kitsu.io/anime/46751"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e4b6bba0b1e17e4b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.909090909090908,
+    "arithmeticGeometricMean": 5.909090909090908,
+    "median": 5.909090909090908,
+    "hash": "e4b6bba0b1e17e4b",
+    "lastUpdate": "2024-05-07"
+  }
+}

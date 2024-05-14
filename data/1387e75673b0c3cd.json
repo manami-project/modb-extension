@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12775",
+    "https://anilist.co/anime/139175",
+    "https://anime-planet.com/anime/chiisana-kinomi-1995",
+    "https://kitsu.io/anime/10695",
+    "https://myanimelist.net/anime/30164",
+    "https://notify.moe/anime/Bq-QpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1387e75673b0c3cd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.13570909090909,
+    "arithmeticGeometricMean": 5.1082324316339545,
+    "median": 4.454545454545454,
+    "hash": "1387e75673b0c3cd",
+    "lastUpdate": "2024-05-08"
+  }
+}

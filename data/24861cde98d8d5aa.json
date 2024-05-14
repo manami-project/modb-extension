@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7359",
+    "https://anime-planet.com/anime/shounen-miyamoto-musashi",
+    "https://anisearch.com/anime/6056",
+    "https://myanimelist.net/anime/57166"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24861cde98d8d5aa",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "24861cde98d8d5aa",
+    "lastUpdate": "2024-05-11"
+  }
+}

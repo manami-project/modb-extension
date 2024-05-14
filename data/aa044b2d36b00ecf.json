@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3159",
+    "https://anilist.co/anime/3776",
+    "https://anime-planet.com/anime/go-go-itsutsugo-land",
+    "https://anisearch.com/anime/1755",
+    "https://kitsu.io/anime/3246",
+    "https://myanimelist.net/anime/3776",
+    "https://notify.moe/anime/OAo_5Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aa044b2d36b00ecf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.9224217687074825,
+    "arithmeticGeometricMean": 5.903733479086028,
+    "median": 6.163265306122449,
+    "hash": "aa044b2d36b00ecf",
+    "lastUpdate": "2024-05-07"
+  }
+}

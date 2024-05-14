@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9286",
+    "https://anilist.co/anime/15005",
+    "https://anime-planet.com/anime/kyou-no-asuka-show",
+    "https://anisearch.com/anime/7929",
+    "https://kitsu.io/anime/7196",
+    "https://livechart.me/anime/1073",
+    "https://myanimelist.net/anime/15005",
+    "https://notify.moe/anime/bXxOtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b6cec9883b6f60b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.544058897451755,
+    "arithmeticGeometricMean": 6.535607670235852,
+    "median": 6.452727272727273,
+    "hash": "2b6cec9883b6f60b",
+    "lastUpdate": "2024-05-09"
+  }
+}

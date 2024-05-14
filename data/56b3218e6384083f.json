@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6059",
+    "https://anilist.co/anime/98450",
+    "https://anime-planet.com/anime/komatsu-sakyo-anime-gekijou",
+    "https://anisearch.com/anime/5018",
+    "https://kitsu.io/anime/9133",
+    "https://myanimelist.net/anime/23829",
+    "https://notify.moe/anime/mHd-pKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "56b3218e6384083f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.863541743970315,
+    "arithmeticGeometricMean": 5.841929502916623,
+    "median": 5.845083487940631,
+    "hash": "56b3218e6384083f",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1150",
+    "https://anilist.co/anime/2962",
+    "https://anime-planet.com/anime/digimon-adventure-02-movie-the-golden-digimentals",
+    "https://anisearch.com/anime/1903",
+    "https://kitsu.io/anime/2174",
+    "https://livechart.me/anime/4864",
+    "https://myanimelist.net/anime/2962",
+    "https://notify.moe/anime/NOLPcKiiR"
+  ],
+  "synopsis": {
+    "text": "Along side the picturesque backdrop of an American summer, two young DigiDestined, Takeru and Hikari, find themselves entangled in a perplexing mystery. As they visit their friend Mimi, an enigmatic gust of wind sweeps across the globe, leading to the inexplicable disappearance of the original Chosen Children. Drawn by the intuition of a distressed Digimon, Takeru and Hikari stumble upon a young American boy and his Digimon partner locked in a battle with a familiar-looking foe. \n\nWith the original Chosen Children missing and time slipping away, the duo reaches out to their fellow DigiDestined for assistance. Together, they embark on a transcontinental journey to unravel the origins of their friends' disappearance. Along the way, they cross paths with Wallace, an American DigiDestined harboring a mysterious past and a unique bond with the very Digimon they seek. \n\nAs the group races against time, they must navigate the shadowy world of \"Summer Memory\" to not only rescue the original Chosen Children but also unveil the truth behind Wallace's Digimon partner. With the fates of their friends and the mysterious Digimon hanging in the balance, the six heroes must unite to confront the looming threat and solve a years-old enigma.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a911bf60847582d5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.907926948051947,
+    "arithmeticGeometricMean": 6.900702152783303,
+    "median": 7.021999999999999,
+    "hash": "a911bf60847582d5",
+    "lastUpdate": "2024-05-09"
+  }
+}

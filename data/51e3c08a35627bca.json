@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/5380",
+    "https://myanimelist.net/anime/13959"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "51e3c08a35627bca",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.225306122448979,
+    "arithmeticGeometricMean": 4.223061853954071,
+    "median": 4.225306122448979,
+    "hash": "51e3c08a35627bca",
+    "lastUpdate": "2024-05-07"
+  }
+}

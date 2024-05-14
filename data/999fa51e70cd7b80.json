@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8421",
+    "https://anilist.co/anime/10721",
+    "https://anime-planet.com/anime/penguindrum",
+    "https://anisearch.com/anime/7113",
+    "https://kitsu.io/anime/6318",
+    "https://livechart.me/anime/1217",
+    "https://myanimelist.net/anime/10721",
+    "https://notify.moe/anime/RSB4pKmmR"
+  ],
+  "synopsis": {
+    "text": "Kanba and Shouma Takakura, two devoted brothers, have been the primary caregivers for their frail younger sister, Himari, following the disappearance of their parents. Their lives take an unexpected turn when Himari, despite her critical condition, is revived by a peculiar penguin hat. The hat, possessing Himari's body, tasks the brothers with locating the elusive Penguin Drum to secure her survival. With the assistance of some unusual penguins, the brothers embark on a quest to find this enigmatic object, all the while navigating a labyrinth of interconnected riddles and confronting adversaries with hidden agendas. As they strive to save their cherished sister, they must unravel the intricate threads of fate that entwine their existence with a myriad of strangers, each harboring their own secrets and survival strategies. In this captivating tale of love, destiny, and life, the brothers' journey illuminates the complex interplay between choice, chance, and the unfathomable forces that shape our destinies.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "999fa51e70cd7b80",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.859533706271714,
+    "arithmeticGeometricMean": 7.8580950522333275,
+    "median": 7.880000000000001,
+    "hash": "999fa51e70cd7b80",
+    "lastUpdate": "2024-05-09"
+  }
+}

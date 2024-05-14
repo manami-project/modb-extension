@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9688",
+    "https://anilist.co/anime/17353",
+    "https://anime-planet.com/anime/tenpou-suikoden-neo",
+    "https://anisearch.com/anime/8395",
+    "https://kitsu.io/anime/7720",
+    "https://livechart.me/anime/6482",
+    "https://myanimelist.net/anime/17353",
+    "https://notify.moe/anime/IyZptKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1a575790f0a891bd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.834529375386518,
+    "arithmeticGeometricMean": 4.793841468358379,
+    "median": 4.904999999999999,
+    "hash": "1a575790f0a891bd",
+    "lastUpdate": "2024-05-10"
+  }
+}

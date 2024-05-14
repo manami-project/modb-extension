@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11767",
+    "https://anime-planet.com/anime/bakabon-osomatsu-no-curry-wo-tazunete-sansenri",
+    "https://anisearch.com/anime/11970",
+    "https://kitsu.io/anime/9213",
+    "https://livechart.me/anime/9585",
+    "https://myanimelist.net/anime/24373",
+    "https://notify.moe/anime/7DLatFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cd04c86bc1275e94",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.635782312925169,
+    "arithmeticGeometricMean": 5.626247958997413,
+    "median": 5.867346938775509,
+    "hash": "cd04c86bc1275e94",
+    "lastUpdate": "2024-05-08"
+  }
+}

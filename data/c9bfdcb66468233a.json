@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7350",
+    "https://anilist.co/anime/148078",
+    "https://anime-planet.com/anime/kobo-chan-yume-ippai",
+    "https://anisearch.com/anime/6050"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c9bfdcb66468233a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.181818181818182,
+    "arithmeticGeometricMean": 4.181818181818182,
+    "median": 4.181818181818182,
+    "hash": "c9bfdcb66468233a",
+    "lastUpdate": "2024-05-08"
+  }
+}

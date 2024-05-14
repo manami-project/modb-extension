@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/786",
+    "https://anilist.co/anime/1151",
+    "https://anime-planet.com/anime/dominion-tank-police",
+    "https://anisearch.com/anime/2062",
+    "https://kitsu.io/anime/1032",
+    "https://livechart.me/anime/6088",
+    "https://myanimelist.net/anime/1151",
+    "https://notify.moe/anime/9mZbcFmig"
+  ],
+  "synopsis": {
+    "text": "Police force meets high-tech armor in the dystopian city of New-Port, where a toxic cloud has turned the world into a chaotic wasteland. Enter the Tank Police, an elite unit tasked with maintaining order amidst the rampant crime. Among the newest recruits is the fiery Leona Ozaki, who struggles to adapt to the tank-driven law enforcement after transferring from the motorcycle division. When she accidentally wrecks her commander's tank, Leona faces possible reassignment to child welfare.\n\nDetermined to prove her worth, Leona constructs a new, compact tank, Bonaparte, from spare parts with the help of Al and the Chaplain. Meanwhile, the sinister Buaku and his seductive, yet ruthless Cat Sisters, Annapuma and Unipuma, wreak havoc on the city, even resorting to stealing urine from the unaffected to further their sinister plans. Leona and the Tank Police must rise to the challenge and put an end to their destructive schemes.\n\nAs Leona navigates her way through the chaos, she discovers that being part of the Tank Police might be more trouble than she ever imagined. Can she find the balance between her unorthodox methods and the team's objectives, or will she become yet another contributor to the city's destruction? Join Leona and her crew in this action-packed, futuristic adventure that explores the lengths one will go to uphold justice.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b436380e473eac1d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.5179072356215215,
+    "arithmeticGeometricMean": 6.505712418934998,
+    "median": 6.7272727272727275,
+    "hash": "b436380e473eac1d",
+    "lastUpdate": "2024-05-09"
+  }
+}

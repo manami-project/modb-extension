@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139069",
+    "https://anime-planet.com/anime/shinmai-fureai-net-concept-movie",
+    "https://kitsu.io/anime/14274",
+    "https://myanimelist.net/anime/35976",
+    "https://notify.moe/anime/dOSvhFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec8d083c1670edfa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.867363636363637,
+    "arithmeticGeometricMean": 4.8430303927546845,
+    "median": 4.792727272727273,
+    "hash": "ec8d083c1670edfa",
+    "lastUpdate": "2024-05-07"
+  }
+}

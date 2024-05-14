@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12007",
+    "https://anilist.co/anime/21714",
+    "https://anime-planet.com/anime/flip-flappers",
+    "https://anisearch.com/anime/11232",
+    "https://kitsu.io/anime/11997",
+    "https://livechart.me/anime/2090",
+    "https://myanimelist.net/anime/32979",
+    "https://notify.moe/anime/7OAepFmmR"
+  ],
+  "synopsis": {
+    "text": "Flap into the extraordinary with Cocona, a middle school student who's always played it safe, and Papika, a free-spirited enigma who turns Cocona's world upside down. When these two polar opposites collide, they're catapulted into the fantastical realms of \"Pure Illusion,\" where they're tasked with seeking out the elusive \"Shards of Mimi,\" fragments rumored to grant any wish. As they navigate through this dimension, they transform into powerful, fairy-like beings, ready to face the challenges that await them.\n\nCocona's life takes an unexpected turn as she's swept into the secretive Flip Flap organization, with Papika as her guide. But they're not alone in their quest; they must contend with Cocona's childhood friend, Yayaka, who's working for Flip Flap's rival, Asclepius. As the two organizations clash, Cocona discovers a world beyond her wildest dreams, filled with mystery and danger.\n\nIn this whirlwind adventure, Cocona and Papika must learn to synchronize their feelings and work together to transform effectively, facing off against strange creatures and rival organizations. As they gather the Shards of Mimi, they'll learn more about themselves and the world around them than they ever thought possible. Join them in their thrilling journey, where every shard collected brings them one step closer to their heart's desires.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "63aa2432a4f5cc92",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.549705088828292,
+    "arithmeticGeometricMean": 7.547821906455692,
+    "median": 7.638181818181818,
+    "hash": "63aa2432a4f5cc92",
+    "lastUpdate": "2024-05-09"
+  }
+}

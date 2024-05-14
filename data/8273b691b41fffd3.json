@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4763",
+    "https://anilist.co/anime/3576",
+    "https://anime-planet.com/anime/dinosaur-king",
+    "https://anisearch.com/anime/3910",
+    "https://kitsu.io/anime/3117",
+    "https://livechart.me/anime/5488",
+    "https://myanimelist.net/anime/3576",
+    "https://notify.moe/anime/eXRl5Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8273b691b41fffd3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.804196410732125,
+    "arithmeticGeometricMean": 5.740662885549605,
+    "median": 6.100804195804196,
+    "hash": "8273b691b41fffd3",
+    "lastUpdate": "2024-05-09"
+  }
+}

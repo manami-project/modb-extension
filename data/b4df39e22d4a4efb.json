@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/9967",
+    "https://anime-planet.com/anime/w-wish-omake",
+    "https://kitsu.io/anime/5969",
+    "https://livechart.me/anime/8056",
+    "https://myanimelist.net/anime/9967",
+    "https://notify.moe/anime/s4intKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4df39e22d4a4efb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.799781818181819,
+    "arithmeticGeometricMean": 5.788021304218281,
+    "median": 5.32,
+    "hash": "b4df39e22d4a4efb",
+    "lastUpdate": "2024-05-06"
+  }
+}

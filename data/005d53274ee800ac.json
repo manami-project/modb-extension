@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139408",
+    "https://anime-planet.com/anime/controller-of-controller",
+    "https://kitsu.io/anime/45234",
+    "https://myanimelist.net/anime/38424"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "005d53274ee800ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.441090909090909,
+    "arithmeticGeometricMean": 5.426257949073116,
+    "median": 5.49,
+    "hash": "005d53274ee800ac",
+    "lastUpdate": "2024-05-06"
+  }
+}

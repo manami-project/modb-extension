@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103498",
+    "https://anime-planet.com/anime/makura-izumi-candle",
+    "https://kitsu.io/anime/13856",
+    "https://myanimelist.net/anime/35294",
+    "https://notify.moe/anime/d-1S2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1cd5b3b02ec131ee",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.3874545454545455,
+    "arithmeticGeometricMean": 5.3808296307039205,
+    "median": 5.265909090909091,
+    "hash": "1cd5b3b02ec131ee",
+    "lastUpdate": "2024-05-06"
+  }
+}

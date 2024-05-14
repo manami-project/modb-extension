@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9022",
+    "https://anime-planet.com/anime/monsuno",
+    "https://anisearch.com/anime/7645"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33f04761e7fff862",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.5667074829931975,
+    "arithmeticGeometricMean": 5.555901148057819,
+    "median": 5.22,
+    "hash": "33f04761e7fff862",
+    "lastUpdate": "2024-05-08"
+  }
+}

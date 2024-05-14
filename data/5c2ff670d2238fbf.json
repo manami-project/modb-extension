@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/132013",
+    "https://anime-planet.com/anime/omoi-in-case-youre-gonna-jump",
+    "https://kitsu.io/anime/47538",
+    "https://myanimelist.net/anime/50057"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c2ff670d2238fbf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.468181818181819,
+    "arithmeticGeometricMean": 6.464748531351027,
+    "median": 6.454545454545455,
+    "hash": "5c2ff670d2238fbf",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16988",
+    "https://anilist.co/anime/139986",
+    "https://anime-planet.com/anime/tales-of-demon-and-god-5th-season",
+    "https://livechart.me/anime/10919"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2dc4798f5923943b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.082484848484849,
+    "arithmeticGeometricMean": 7.041486989033031,
+    "median": 7.545454545454546,
+    "hash": "2dc4798f5923943b",
+    "lastUpdate": "2024-05-10"
+  }
+}

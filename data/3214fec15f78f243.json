@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1862",
+    "https://anilist.co/anime/5090",
+    "https://anime-planet.com/anime/techno-police-21c",
+    "https://anisearch.com/anime/210",
+    "https://kitsu.io/anime/3925",
+    "https://myanimelist.net/anime/5090",
+    "https://notify.moe/anime/iY_95Kmmg"
+  ],
+  "synopsis": {
+    "text": "If you're a fan of high-speed chases, futuristic technology, and crime-fighting action, then buckle up for an adrenaline-pumping ride through the bustling metropolis of Centinel City in the year 2001! In a world where crime runs rampant and traditional law enforcement struggles to keep up, a new elite force emerges: the Techno Police. This specialized unit employs cutting-edge combat robots and high-tech vehicles to combat the escalating chaos.\n\nEnter Kyosuke, a headstrong traffic officer from the countryside, who finds himself recruited into the Techno Police's ranks. Partnered with his powerful robot Blader, Kyosuke joins forces with fellow officers Kosuga, Eleanor, and their respective Technoids, Vigorus and Scanny, to take on the city's most dangerous criminals.\n\nTheir first mission? A daring pursuit of a stolen experimental tank, the MBT-99A, equipped with advanced weaponry and hijacked by a mysterious group backed by a foreign power. As the tank tears through Centinel City, leaving destruction in its wake, the Techno Police engage in a thrilling, high-stakes chase to apprehend the criminals and regain control of the deadly machine.\n\nWith the lives of countless civilians hanging in the balance, Kyosuke and his team must push their skills and technology to the limit to save the city from the MBT-99A's devastating capabilities. Can they stop the tank before it's too late, or will Centinel City fall victim to the unstoppable force that threatens to destroy it? Join the Techno Police on their action-packed adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3214fec15f78f243",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.307068645640074,
+    "arithmeticGeometricMean": 5.277359620206088,
+    "median": 5.181818181818182,
+    "hash": "3214fec15f78f243",
+    "lastUpdate": "2024-05-08"
+  }
+}

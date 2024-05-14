@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140035",
+    "https://anime-planet.com/anime/fluffiction",
+    "https://kitsu.io/anime/45292",
+    "https://myanimelist.net/anime/41183"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3d041f131f826656",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.098363636363636,
+    "arithmeticGeometricMean": 6.093094581309753,
+    "median": 5.909090909090908,
+    "hash": "3d041f131f826656",
+    "lastUpdate": "2024-05-06"
+  }
+}

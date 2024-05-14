@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10647",
+    "https://anilist.co/anime/16608",
+    "https://anime-planet.com/anime/shitcom",
+    "https://anisearch.com/anime/9101",
+    "https://kitsu.io/anime/7473",
+    "https://livechart.me/anime/8110",
+    "https://myanimelist.net/anime/16608",
+    "https://notify.moe/anime/L6rFpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a4388103a75bcba4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.3997529626780496,
+    "arithmeticGeometricMean": 3.2931774723764744,
+    "median": 2.956,
+    "hash": "a4388103a75bcba4",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15667",
+    "https://anilist.co/anime/117000",
+    "https://anime-planet.com/anime/watch-the-sea-strategy-2nd-season",
+    "https://kitsu.io/anime/43586",
+    "https://myanimelist.net/anime/42465"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b8bd80dd50f8709",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.090909090909091,
+    "arithmeticGeometricMean": 5.090909090909091,
+    "median": 5.090909090909091,
+    "hash": "2b8bd80dd50f8709",
+    "lastUpdate": "2024-05-07"
+  }
+}

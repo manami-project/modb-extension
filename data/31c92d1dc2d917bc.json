@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2974",
+    "https://anilist.co/anime/3947",
+    "https://anime-planet.com/anime/chie-the-brat",
+    "https://anisearch.com/anime/2844",
+    "https://kitsu.io/anime/3370",
+    "https://livechart.me/anime/11308",
+    "https://myanimelist.net/anime/3947",
+    "https://notify.moe/anime/gY9lcKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "31c92d1dc2d917bc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.843799628942485,
+    "arithmeticGeometricMean": 5.8149123166848184,
+    "median": 5.700909090909091,
+    "hash": "31c92d1dc2d917bc",
+    "lastUpdate": "2024-05-09"
+  }
+}

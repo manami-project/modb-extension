@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17030",
+    "https://anilist.co/anime/142598",
+    "https://anime-planet.com/anime/reign-of-the-seven-spellblades",
+    "https://anisearch.com/anime/16906",
+    "https://kitsu.io/anime/45579",
+    "https://livechart.me/anime/10939",
+    "https://myanimelist.net/anime/50582",
+    "https://notify.moe/anime/uV4hxlh7g"
+  ],
+  "synopsis": {
+    "text": "Dark secrets and hidden dangers lurk within the walls of Kimberly Magic Academy, a prestigious institution for aspiring mages. As spring arrives, a new group of first-year students, including the talented and scholarly Oliver Horn and the fierce samurai girl Nanao Hibiya from the distant land of Yamatsu, begin their magical journey. Oliver, skilled in both wand and blade, and Nanao, wielding her katana, quickly form a close bond as they navigate the treacherous halls of the academy.\n\nAs they uncover the mysteries that threaten not only their friendship but also their lives, the duo must rely on their unique abilities and newfound alliance to protect themselves and their fellow students. With only a slim chance of making it to graduation unscathed, Oliver and Nanao must confront the darkness that lies beneath the academy's enchanting facade. Can they survive the trials that await them and unveil the truth behind Kimberly Magic Academy's sinister secrets? Only time will tell in this thrilling and enchanting tale of magic, friendship, and adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4d330a10c55339f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.732952725845583,
+    "arithmeticGeometricMean": 6.721964064762035,
+    "median": 6.8846011131725415,
+    "hash": "b4d330a10c55339f",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1266",
+    "https://anilist.co/anime/514",
+    "https://anime-planet.com/anime/le-portrait-de-petit-cossette",
+    "https://anisearch.com/anime/1858",
+    "https://kitsu.io/anime/473",
+    "https://livechart.me/anime/4308",
+    "https://myanimelist.net/anime/514",
+    "https://notify.moe/anime/kioT5Kimg"
+  ],
+  "synopsis": {
+    "text": "Though art student Eiri Kurahashi leads a seemingly ordinary life working at an antique shop, his world takes a dramatic turn when he encounters a captivating sight within an antique Venetian glass. Trapped inside is Cossette, a young girl from 18th century France, living out her life as if in a dream. As Eiri becomes increasingly fascinated with the mysterious girl, he learns of her tragic past and the curse that binds her to the glass.\n\nHaunted by the ghostly image of Cossette, Eiri's friends notice a worrying change in his behavior, but they can't quite grasp the supernatural cause behind it. As Eiri's obsession grows, he discovers that Cossette was once the subject of numerous portraits by an enigmatic Italian artist named Marchello Orlando, who was also responsible for her untimely death.\n\nDesperate to free Cossette from her glass prison, Eiri is faced with a dangerous proposition: to take upon himself the sins committed by her murderer. As the spirits of Cossette's belongings lash out at Eiri, he must navigate the treacherous path between his newfound love and the dark forces that threaten his very existence.\n\nIn this gripping tale of love, obsession, and redemption, Eiri must confront the truth behind Cossette's tragic past and decide if he's willing to risk everything to save her, even if it means sacrificing his own life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "858945f92b722acb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.82894548308834,
+    "arithmeticGeometricMean": 6.823476149556429,
+    "median": 6.809090909090909,
+    "hash": "858945f92b722acb",
+    "lastUpdate": "2024-05-09"
+  }
+}

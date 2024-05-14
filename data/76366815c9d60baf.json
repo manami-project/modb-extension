@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11031",
+    "https://anilist.co/anime/136264",
+    "https://anime-planet.com/anime/horror-news",
+    "https://anisearch.com/anime/10236",
+    "https://kitsu.io/anime/10870",
+    "https://livechart.me/anime/7122",
+    "https://myanimelist.net/anime/30463",
+    "https://notify.moe/anime/4Et_pFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "76366815c9d60baf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.264522661012457,
+    "arithmeticGeometricMean": 5.245401966796948,
+    "median": 5.090909090909091,
+    "hash": "76366815c9d60baf",
+    "lastUpdate": "2024-05-09"
+  }
+}

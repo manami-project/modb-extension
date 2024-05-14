@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4773",
+    "https://anilist.co/anime/1694",
+    "https://anime-planet.com/anime/the-idolmster-xenoglossia",
+    "https://anisearch.com/anime/3913",
+    "https://kitsu.io/anime/1522",
+    "https://livechart.me/anime/4529",
+    "https://myanimelist.net/anime/1694",
+    "https://notify.moe/anime/G5nB5KmiR"
+  ],
+  "synopsis": {
+    "text": "Mondenkind Agency, a clandestine organization hidden beneath the glitz and glamour of the entertainment industry, is humanity's secret defense against the remnants of a shattered moon. Over a century has passed since the catastrophic destruction of Earth's natural satellite, an event now barely remembered. The agency employs young women as pilots for advanced robotic systems called iDOLs, tasked with intercepting the falling lunar debris that threatens the planet.\n\nHaruka Amami, a humble 16-year-old girl from the countryside, dreams of becoming a pop idol. When she auditions for the mysterious Idolmaster Project, she is selected and whisked away to Tokyo, believing her dreams have come true. However, she soon discovers that her new role is far from the glamorous life she envisioned. Instead, Haruka is chosen to pilot Imber, an iDOL with a dormant consciousness that awakens upon meeting her.\n\nAs one of the few compatible pilots for these robotic defenders, Haruka must learn to synchronize with Imber and understand the enigmatic emotions resonating from within. She is not alone in her mission, as other girls join her in the fight to protect Earth. But the Mondenkind Agency is not the only organization with access to iDOL technology. Turiavita, a rival group with unknown intentions, seeks to capture Imber, plunging Haruka and her newfound friends into a battle for the safety of their world.\n\nCan Haruka overcome her initial self-doubt, embrace her new role as an iDOL Master, and forge a connection with Imber to protect Earth from the ever-looming lunar threat?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "376ed42a384cc9c4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.374592101775775,
+    "arithmeticGeometricMean": 6.372099410752974,
+    "median": 6.464,
+    "hash": "376ed42a384cc9c4",
+    "lastUpdate": "2024-05-09"
+  }
+}

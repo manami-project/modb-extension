@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9353",
+    "https://anime-planet.com/anime/rescue-me",
+    "https://anisearch.com/anime/7979",
+    "https://kitsu.io/anime/7691",
+    "https://livechart.me/anime/866",
+    "https://myanimelist.net/anime/18039",
+    "https://notify.moe/anime/WE95tFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db4d9f4e660396c6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.606575551432694,
+    "arithmeticGeometricMean": 5.5751374302952,
+    "median": 5.46,
+    "hash": "db4d9f4e660396c6",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/5409",
+    "https://kitsu.io/anime/13838",
+    "https://myanimelist.net/anime/35505",
+    "https://notify.moe/anime/PMoShFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a547f70879ff84fc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.675782312925169,
+    "arithmeticGeometricMean": 5.674788545367259,
+    "median": 5.66,
+    "hash": "a547f70879ff84fc",
+    "lastUpdate": "2024-05-07"
+  }
+}

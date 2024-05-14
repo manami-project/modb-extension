@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6885",
+    "https://anime-planet.com/anime/kachikachi-yama-no-shouboutai",
+    "https://anisearch.com/anime/11910",
+    "https://kitsu.io/anime/10969",
+    "https://myanimelist.net/anime/30457",
+    "https://notify.moe/anime/r8ulpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a45528297e5a3b5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.0561224489795915,
+    "arithmeticGeometricMean": 3.05586476450113,
+    "median": 3.0561224489795915,
+    "hash": "5a45528297e5a3b5",
+    "lastUpdate": "2024-05-08"
+  }
+}

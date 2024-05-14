@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9072",
+    "https://anime-planet.com/anime/kappa-no-suribachi",
+    "https://anisearch.com/anime/7717",
+    "https://kitsu.io/anime/10278",
+    "https://myanimelist.net/anime/29491",
+    "https://notify.moe/anime/awqypKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc8eb0fd98e0d5e1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "cc8eb0fd98e0d5e1",
+    "lastUpdate": "2024-05-08"
+  }
+}

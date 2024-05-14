@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/964",
+    "https://anilist.co/anime/2321",
+    "https://anime-planet.com/anime/giant-robo",
+    "https://anisearch.com/anime/2771",
+    "https://kitsu.io/anime/2102",
+    "https://livechart.me/anime/5869",
+    "https://myanimelist.net/anime/2321",
+    "https://notify.moe/anime/fJ0PcKimg"
+  ],
+  "synopsis": {
+    "text": "Device that promised a cleaner, brighter future. However, the peace this invention brought is now under threat by Big Fire, a nefarious organization intent on world domination. To combat this menace, the International Police Organization (IPO) deploys a unique team of superpowered individuals and martial artists, led by Daisaku Kusama, the pilot of Earth's mightiest robot, Giant Robo. As the conflict between the IPO and Big Fire intensifies, Daisaku's courage and resolve will be tested, the dark secrets behind the Shizuma Drive will be unveiled, and the very survival of human civilization will hang in the balance. \"Giant Robo\" is a thrilling, character-driven tale set in a retro-futuristic world, drawing inspiration from opera, kung-fu films, wuxia tales, and classic mecha anime, featuring characters from the works of manga artist Mitsuteru Yokoyama. This standalone story promises an exciting journey filled with action, intrigue, and unexpected revelations.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f5148df404543a2f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.518060429366551,
+    "arithmeticGeometricMean": 7.51249380569788,
+    "median": 7.558,
+    "hash": "f5148df404543a2f",
+    "lastUpdate": "2024-05-09"
+  }
+}

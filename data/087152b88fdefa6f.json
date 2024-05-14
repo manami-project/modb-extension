@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7201",
+    "https://anilist.co/anime/118245",
+    "https://anime-planet.com/anime/susume-super-angels",
+    "https://anisearch.com/anime/5882",
+    "https://kitsu.io/anime/8932",
+    "https://livechart.me/anime/11050",
+    "https://myanimelist.net/anime/23855",
+    "https://notify.moe/anime/gJxbpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "087152b88fdefa6f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.8139220779220775,
+    "arithmeticGeometricMean": 4.786899702156739,
+    "median": 4.818181818181818,
+    "hash": "087152b88fdefa6f",
+    "lastUpdate": "2024-05-09"
+  }
+}

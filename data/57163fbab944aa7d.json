@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/147495",
+    "https://anime-planet.com/anime/korone-inugami-doggy-gods-street",
+    "https://kitsu.io/anime/46058",
+    "https://myanimelist.net/anime/51638"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "57163fbab944aa7d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.381727272727273,
+    "arithmeticGeometricMean": 7.378537582645633,
+    "median": 7.4377272727272725,
+    "hash": "57163fbab944aa7d",
+    "lastUpdate": "2024-05-07"
+  }
+}

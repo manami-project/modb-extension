@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/111936",
+    "https://anime-planet.com/anime/networks-sizq",
+    "https://myanimelist.net/anime/40000"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2669572a92f0bc85",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.969454545454546,
+    "arithmeticGeometricMean": 5.961338594685186,
+    "median": 5.67,
+    "hash": "2669572a92f0bc85",
+    "lastUpdate": "2024-05-07"
+  }
+}

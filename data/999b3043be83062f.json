@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11585",
+    "https://anilist.co/anime/21356",
+    "https://anime-planet.com/anime/pokemon-xy-and-z",
+    "https://anisearch.com/anime/10759",
+    "https://kitsu.io/anime/11367",
+    "https://livechart.me/anime/1818",
+    "https://myanimelist.net/anime/31592",
+    "https://notify.moe/anime/Hh-rtFmig"
+  ],
+  "synopsis": {
+    "text": "Kalos is bracing for an unprecedented threat, as Ash Ketchum and his trusted companions continue their journey in the sequel series to Pocket Monsters XY, XY&Z. Following the Mega Evolution side story, Ash, Serena, Clemont, and Bonnie are joined by a new ally, a mysterious Pokémon named Zygarde, affectionately known as Squishy by Bonnie.\n\nAs they delve deeper into their adventure, they stumble upon hidden secrets surrounding the legendary Zygarde and a peculiar phenomenon that only affects Ash and his Quajutsu. The enigmatic Alain and the menacing Team Flare stand in their path, their true intentions shrouded in mystery.\n\nAs these secrets unravel, the Kalos region faces a danger of unparalleled scale, promising a thrilling and suspenseful journey for our heroes. Will Ash and his friends be able to overcome the impending threat? Only time will tell in this exciting new chapter of their Pokémon adventure!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "999b3043be83062f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.761835312835314,
+    "arithmeticGeometricMean": 7.759974424111388,
+    "median": 7.816233766233767,
+    "hash": "999b3043be83062f",
+    "lastUpdate": "2024-05-09"
+  }
+}

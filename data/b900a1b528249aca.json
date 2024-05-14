@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4909",
+    "https://anilist.co/anime/2215",
+    "https://anime-planet.com/anime/kishin-taisen-gigantic-formula",
+    "https://anisearch.com/anime/4009",
+    "https://kitsu.io/anime/2006",
+    "https://livechart.me/anime/5152",
+    "https://myanimelist.net/anime/2215",
+    "https://notify.moe/anime/hGGEcFmig"
+  ],
+  "synopsis": {
+    "text": "Japan’s young hopefuls, a 13-year-old boy named Shingo and his 14-year-old counterpart Mana, find themselves at the helm of a colossal robotic warrior, representing their nation in a global battle for supremacy. The year is 2035, and the world has only just recovered from a devastating event known as the Equatorial Winter, which brought humanity to the brink of extinction.\n\nThe ancient gods seem to have played a role in humanity's survival, as the discovery of twelve gargantuan stone heads, reminiscent of Greek deities, led to the construction of massive armored suits. These suits, in turn, became the key to mankind's salvation. Now, these divine relics have become the center of a new global conflict, as nations vie for control over these powerful artifacts.\n\nIn this new world order, countries have turned to advanced robotics and mecha warfare to settle their disputes. As pilots of Japan's mighty Susanoo, Shingo and Mana bear the weight of their nation's expectations. Amidst the chaos of this Wisest World War, they must navigate the complexities of operating their gargantuan machine, and face off against other formidable mecha from around the globe.\n\nWith the future of humanity hanging in the balance, can these young warriors rise to the challenge and secure victory for their homeland? Only time will tell, as the world watches with bated breath, the outcome of this epic clash of titans.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b900a1b528249aca",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.334480784521601,
+    "arithmeticGeometricMean": 6.302896050133198,
+    "median": 6.574,
+    "hash": "b900a1b528249aca",
+    "lastUpdate": "2024-05-09"
+  }
+}

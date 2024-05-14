@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13811",
+    "https://anilist.co/anime/101985",
+    "https://anime-planet.com/anime/oshiete-mahou-no-pendulum-rilu-rilu-fairilu",
+    "https://anisearch.com/anime/13340",
+    "https://kitsu.io/anime/41354",
+    "https://livechart.me/anime/3103",
+    "https://myanimelist.net/anime/37328",
+    "https://notify.moe/anime/uLKEQiDmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "521224cbd586b03b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.53021892393321,
+    "arithmeticGeometricMean": 5.163314800379496,
+    "median": 6.424090909090909,
+    "hash": "521224cbd586b03b",
+    "lastUpdate": "2024-05-09"
+  }
+}

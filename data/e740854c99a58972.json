@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/8142",
+    "https://myanimelist.net/anime/15843"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e740854c99a58972",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.836530612244897,
+    "arithmeticGeometricMean": 6.8240529911197365,
+    "median": 6.836530612244897,
+    "hash": "e740854c99a58972",
+    "lastUpdate": "2024-05-07"
+  }
+}

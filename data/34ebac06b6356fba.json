@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3992",
+    "https://anilist.co/anime/17201",
+    "https://anime-planet.com/anime/toki-no-daichi-hana-no-oukoku-no-majo",
+    "https://anisearch.com/anime/923",
+    "https://kitsu.io/anime/7603",
+    "https://myanimelist.net/anime/17201",
+    "https://notify.moe/anime/A6ocpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "34ebac06b6356fba",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.782815708101421,
+    "arithmeticGeometricMean": 5.761863006581923,
+    "median": 5.723181818181818,
+    "hash": "34ebac06b6356fba",
+    "lastUpdate": "2024-05-07"
+  }
+}

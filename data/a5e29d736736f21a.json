@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/170",
+    "https://anilist.co/anime/52",
+    "https://anime-planet.com/anime/angelic-layer",
+    "https://anisearch.com/anime/1705",
+    "https://kitsu.io/anime/33",
+    "https://livechart.me/anime/5006",
+    "https://myanimelist.net/anime/52",
+    "https://notify.moe/anime/q9IpcFiiR"
+  ],
+  "synopsis": {
+    "text": "Discovering a captivating world of high-tech competition, Misaki Suzuhara, a 12-year-old newcomer to Tokyo, embarks on an exhilarating journey in the realm of Angelic Layer. In this thrilling game, participants create and customize their own electronic dolls, known as Angels, and engage in intense battles within specialized arenas called layers. Guided by sheer willpower and determination, these Angels move in accordance with their creators' thoughts.\n\nAs Misaki dives deeper into the world of Angelic Layer, she encounters a diverse cast of characters, forming new friendships and rivalries along the way. With her natural talent and unwavering dedication, she quickly rises through the ranks, catching the attention of seasoned players and spectators alike.\n\nAs the national championship looms, Misaki must navigate the challenges of adapting to her new life in Tokyo while honing her skills and pushing her Angel to the limits. With the odds stacked against her, can Misaki triumph in the face of adversity and become one of the greatest Angelic Layer champions of all time? Join Misaki on her inspiring quest for victory in this heartwarming tale of friendship, determination, and the power of belief.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5e29d736736f21a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.252157061688312,
+    "arithmeticGeometricMean": 7.249267651388969,
+    "median": 7.275,
+    "hash": "a5e29d736736f21a",
+    "lastUpdate": "2024-05-09"
+  }
+}

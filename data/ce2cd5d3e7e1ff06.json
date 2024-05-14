@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10105",
+    "https://anilist.co/anime/140024",
+    "https://anime-planet.com/anime/genkichi-jiisan-to-kogitsune",
+    "https://anisearch.com/anime/9192",
+    "https://kitsu.io/anime/9827",
+    "https://myanimelist.net/anime/27921",
+    "https://notify.moe/anime/5nREpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce2cd5d3e7e1ff06",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.363636363636363,
+    "arithmeticGeometricMean": 4.340279583089877,
+    "median": 4.363636363636363,
+    "hash": "ce2cd5d3e7e1ff06",
+    "lastUpdate": "2024-05-08"
+  }
+}

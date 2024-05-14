@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2137",
+    "https://anilist.co/anime/1423",
+    "https://anime-planet.com/anime/lupin-the-3rd-special-3-napoleons-dictionary",
+    "https://anisearch.com/anime/811",
+    "https://kitsu.io/anime/1276",
+    "https://livechart.me/anime/12098",
+    "https://myanimelist.net/anime/1423",
+    "https://notify.moe/anime/f8ma5FiiR"
+  ],
+  "synopsis": {
+    "text": "Arsène Lupin III, the infamous thief, embarks on a thrilling chase for his grandfather's legendary treasure, guided by a clue hidden within a dictionary once owned by Napoleon Bonaparte. As the dictionary becomes the coveted prize in a historic car race from Madrid to Paris, Lupin and his loyal crew join the competition to claim it. The treasure, rumored to be worth trillions of dollars, has caught the attention of the world's superpowers and intelligence agencies, all eager to use it to revive the global economy. With Inspector Zenigata and an army of secret agents hot on their heels, Lupin and his team must navigate classic cars, cutting-edge weaponry, and treacherous obstacles to unlock the secret of the Lupin family legacy. Will they manage to outwit their formidable adversaries and claim the treasure? Join Lupin III and his crew on this action-packed adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46c500cb4dc84c23",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.736472303206996,
+    "arithmeticGeometricMean": 6.734139867685251,
+    "median": 6.565306122448979,
+    "hash": "46c500cb4dc84c23",
+    "lastUpdate": "2024-05-09"
+  }
+}

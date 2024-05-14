@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13516",
+    "https://anilist.co/anime/100716",
+    "https://anime-planet.com/anime/noragami-noraneko",
+    "https://anisearch.com/anime/12962",
+    "https://kitsu.io/anime/13974",
+    "https://livechart.me/anime/5047",
+    "https://myanimelist.net/anime/35773",
+    "https://notify.moe/anime/dRiN2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3fb5917b968d4074",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.6859166004063955,
+    "arithmeticGeometricMean": 5.664318506585445,
+    "median": 5.909090909090908,
+    "hash": "3fb5917b968d4074",
+    "lastUpdate": "2024-05-09"
+  }
+}

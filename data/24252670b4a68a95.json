@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21328",
+    "https://anime-planet.com/anime/himouto-umaru-chan-s",
+    "https://anisearch.com/anime/10562",
+    "https://kitsu.io/anime/11203",
+    "https://livechart.me/anime/4194",
+    "https://myanimelist.net/anime/31234",
+    "https://notify.moe/anime/7ulXtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24252670b4a68a95",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.959671034936341,
+    "arithmeticGeometricMean": 6.954176486822122,
+    "median": 7.02,
+    "hash": "24252670b4a68a95",
+    "lastUpdate": "2024-05-06"
+  }
+}

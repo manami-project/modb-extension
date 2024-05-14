@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3401",
+    "https://anilist.co/anime/746",
+    "https://anime-planet.com/anime/papa-to-kiss-in-the-dark",
+    "https://anisearch.com/anime/1215",
+    "https://kitsu.io/anime/668",
+    "https://livechart.me/anime/4676",
+    "https://myanimelist.net/anime/746",
+    "https://notify.moe/anime/OeK05FmmR"
+  ],
+  "synopsis": {
+    "text": "Not your average high school freshman, Mira Munakata grapples with an unusual dilemma: he's romantically involved with his father, the renowned Hollywood actor, Kousuke Munakata. As Mira navigates the tumultuous waters of high school, he finds himself the object of affection from various classmates, but his heart remains steadfastly devoted to his father. When rumors swirl about Kousuke's impending marriage to a beautiful co-worker, Mira's world threatens to crumble. To further complicate matters, Mira discovers he's adopted, casting doubt on the future of his unique relationship with Kousuke. Amidst this emotional turmoil, Mira must navigate the complexities of love, identity, and family ties. Will this revelation of his adoption pave the way for a different future, or will it strengthen his bond with Kousuke? Only time will tell in this unconventional tale of love and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ca3c0d81cd55f3a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.985402133580705,
+    "arithmeticGeometricMean": 5.968855525561218,
+    "median": 5.954090909090909,
+    "hash": "6ca3c0d81cd55f3a",
+    "lastUpdate": "2024-05-09"
+  }
+}

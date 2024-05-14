@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5229",
+    "https://anilist.co/anime/5895",
+    "https://anime-planet.com/anime/tistou-midori-no-oyayubi",
+    "https://anisearch.com/anime/4314",
+    "https://kitsu.io/anime/4326",
+    "https://myanimelist.net/anime/5895",
+    "https://notify.moe/anime/KZMqcFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85b2c6eacbbd7fc9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.496361781076067,
+    "arithmeticGeometricMean": 6.464281052936362,
+    "median": 6.73,
+    "hash": "85b2c6eacbbd7fc9",
+    "lastUpdate": "2024-05-08"
+  }
+}

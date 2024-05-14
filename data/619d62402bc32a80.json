@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14869",
+    "https://anilist.co/anime/129649",
+    "https://anime-planet.com/anime/xiong-bing-lian-zhi-zhu-tian-jianglin",
+    "https://anisearch.com/anime/17399",
+    "https://kitsu.io/anime/45914",
+    "https://myanimelist.net/anime/44570"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "619d62402bc32a80",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.988424242424242,
+    "arithmeticGeometricMean": 6.9823405034639325,
+    "median": 6.7272727272727275,
+    "hash": "619d62402bc32a80",
+    "lastUpdate": "2024-05-08"
+  }
+}

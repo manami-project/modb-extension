@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11016",
+    "https://anilist.co/anime/103327",
+    "https://anime-planet.com/anime/akazukin-to-kenkou",
+    "https://anisearch.com/anime/12356",
+    "https://kitsu.io/anime/10791",
+    "https://myanimelist.net/anime/30446",
+    "https://notify.moe/anime/eOZlpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ba3e967b0be8189",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.829734075448361,
+    "arithmeticGeometricMean": 4.810627684649324,
+    "median": 4.719202226345083,
+    "hash": "4ba3e967b0be8189",
+    "lastUpdate": "2024-05-07"
+  }
+}

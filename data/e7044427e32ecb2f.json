@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9038",
+    "https://anilist.co/anime/7060",
+    "https://anime-planet.com/anime/ring-of-gundam",
+    "https://anisearch.com/anime/5813",
+    "https://kitsu.io/anime/4855",
+    "https://livechart.me/anime/6010",
+    "https://myanimelist.net/anime/7060",
+    "https://notify.moe/anime/SchRtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e7044427e32ecb2f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.19417103984451,
+    "arithmeticGeometricMean": 5.183245487826722,
+    "median": 5.17,
+    "hash": "e7044427e32ecb2f",
+    "lastUpdate": "2024-05-09"
+  }
+}

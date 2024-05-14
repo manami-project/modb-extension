@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8461",
+    "https://anilist.co/anime/9801",
+    "https://anime-planet.com/anime/hustle-tokitama-kun",
+    "https://anisearch.com/anime/7134",
+    "https://kitsu.io/anime/5878",
+    "https://myanimelist.net/anime/9801",
+    "https://notify.moe/anime/E3YGtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "96731a74299f26a3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.320461701563743,
+    "arithmeticGeometricMean": 4.250336988650317,
+    "median": 4.17,
+    "hash": "96731a74299f26a3",
+    "lastUpdate": "2024-05-08"
+  }
+}

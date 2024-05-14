@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9012",
+    "https://anilist.co/anime/14947",
+    "https://anime-planet.com/anime/onegai-my-melody-yuu-and-ai",
+    "https://anisearch.com/anime/7736",
+    "https://kitsu.io/anime/7186",
+    "https://livechart.me/anime/7153",
+    "https://myanimelist.net/anime/14947",
+    "https://notify.moe/anime/xyJdtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ba84c50c4723b896",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.165330859616574,
+    "arithmeticGeometricMean": 6.144735942059311,
+    "median": 6.25826530612245,
+    "hash": "ba84c50c4723b896",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/rikka-re-hello-world",
+    "https://kitsu.io/anime/43769",
+    "https://myanimelist.net/anime/44257"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "59c9bf530fb08509",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.409,
+    "arithmeticGeometricMean": 6.401471356590149,
+    "median": 6.409,
+    "hash": "59c9bf530fb08509",
+    "lastUpdate": "2024-05-06"
+  }
+}

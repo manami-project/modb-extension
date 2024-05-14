@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6748",
+    "https://anilist.co/anime/6867",
+    "https://anime-planet.com/anime/halo-legends",
+    "https://anisearch.com/anime/5491",
+    "https://kitsu.io/anime/4760",
+    "https://livechart.me/anime/4196",
+    "https://myanimelist.net/anime/6867",
+    "https://notify.moe/anime/CBgRtFimg"
+  ],
+  "synopsis": {
+    "text": "Toei Animation, Studio 4°C, and other renowned studios present \"Halo Legends,\" a captivating anthology of seven diverse tales set within the expansive Halo universe. This collection showcases the courage and resilience of various heroes, from legendary Spartans to resourceful Orbital Drop Shock Troopers.\n\nIn \"The Babysitter,\" a team of Helljumpers embarks on a high-stakes mission to assassinate a Covenant Prophet, only to be plagued by internal conflict. \"The Duel\" follows an ancient Arbiter who refuses to submit to the Covenant religion and faces dire consequences for his defiance. \"The Package\" sees a group of Spartans, including the Master Chief, infiltrating a Covenant flagship to retrieve a valuable asset.\n\n\"Origins\" unveils the history of the Forerunners, humanity, and the Flood, as well as the rise of the Human-Covenant War. \"Homecoming\" focuses on Spartan Daisy, who reflects on her past and the SPARTAN-II project while rescuing UNSC soldiers from Covenant forces. In \"Prototype,\" Marine Sergeant Ghost, haunted by past failures, defies orders and utilizes a prototype armor-suit to protect his team.\n\nFinally, \"Odd One Out\" offers a humorous, non-canon perspective on the Halo universe, featuring the unlucky Spartan 1337. Each story in this anthology provides a unique and thrilling glimpse into the Halo universe, appealing to both dedicated fans and newcomers alike.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e21777a0b45fbd42",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.926133641203517,
+    "arithmeticGeometricMean": 6.92137996269915,
+    "median": 6.944545454545455,
+    "hash": "e21777a0b45fbd42",
+    "lastUpdate": "2024-05-09"
+  }
+}

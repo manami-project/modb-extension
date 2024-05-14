@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7752",
+    "https://anilist.co/anime/145479",
+    "https://anime-planet.com/anime/sore-ike-anpanman-anpanman-to-okashi-na-nakama",
+    "https://anisearch.com/anime/6368",
+    "https://kitsu.io/anime/9604",
+    "https://livechart.me/anime/11410",
+    "https://myanimelist.net/anime/21935",
+    "https://notify.moe/anime/Yv7LpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b25c057ed9b98b7d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.935584415584415,
+    "arithmeticGeometricMean": 4.892059273466735,
+    "median": 5.045454545454545,
+    "hash": "b25c057ed9b98b7d",
+    "lastUpdate": "2024-05-10"
+  }
+}

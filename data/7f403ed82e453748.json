@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/673",
+    "https://anilist.co/anime/26",
+    "https://anime-planet.com/anime/texhnolyze",
+    "https://anisearch.com/anime/825",
+    "https://kitsu.io/anime/17",
+    "https://livechart.me/anime/3728",
+    "https://myanimelist.net/anime/26",
+    "https://notify.moe/anime/ncMtcFimg"
+  ],
+  "synopsis": {
+    "text": "As the remnants of a banished society clash for dominance in the man-made, subterranean city of Lux, Ichise, an orphan-turned-prize-fighter, finds himself at the mercy of a ruthless promoter, losing an arm and a leg in the process. On the verge of death, Ichise is rescued by a young doctor, Eriko Kamata, who transforms him into a test subject for the next-generation Texhnolyze—a rare technology that replaces human limbs with artificial, mind-controlled counterparts, powered by the enigmatic material known as RAFIA.\n\nAs Ichise navigates this grim world of violence, greed, and depravity, he is taken under the wing of Oonishi, a powerful leader of Organ, one of the three factions vying for control of the crumbling city. Alongside a mysterious young girl named Ran, who can see glimpses of the future and wears a mask for unknown reasons, Ichise is drawn into a war for territorial supremacy.\n\nWith the city teetering on the brink of collapse, Ichise must confront the dark truth about Lux and his own destiny, as he struggles to survive amidst the escalating conflict and uncover the city's hidden secrets. The future of Lux and its inhabitants may rest in the hands of this unlikely duo, as they navigate the treacherous path to salvation.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f403ed82e453748",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.5084604873890575,
+    "arithmeticGeometricMean": 7.504303551594496,
+    "median": 7.65,
+    "hash": "7f403ed82e453748",
+    "lastUpdate": "2024-05-10"
+  }
+}

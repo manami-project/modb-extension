@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14710",
+    "https://anilist.co/anime/108111",
+    "https://anime-planet.com/anime/are-you-lost",
+    "https://anisearch.com/anime/14212",
+    "https://kitsu.io/anime/42171",
+    "https://livechart.me/anime/9246",
+    "https://myanimelist.net/anime/39456",
+    "https://notify.moe/anime/6SVFq_3iR"
+  ],
+  "synopsis": {
+    "text": "After a disastrous plane crash, four high school students - Mutsu Amatani, Shion Kujou, Homare Onishima, and Asuka Suzumori - find themselves marooned on a deserted island in the middle of nowhere. With no sign of civilization or rescue in sight, the girls must rely on their wits and each other to survive. Despite the daunting task ahead, they quickly adapt to their new environment, learning how to build traps, test for allergies, and even feast on cicadas and hermit crabs. Led by the surprisingly calm and capable Homare, who has a wealth of survival knowledge thanks to her adventurous upbringing, the girls prove that they have what it takes to make it in the wild. Join them on their thrilling and unexpected journey of courage, friendship, and survival in \"Are You Lost?\".",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b5293e57f41a436c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.743954700061843,
+    "arithmeticGeometricMean": 6.740872453944754,
+    "median": 6.655181818181818,
+    "hash": "b5293e57f41a436c",
+    "lastUpdate": "2024-05-10"
+  }
+}

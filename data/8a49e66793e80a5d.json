@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12871",
+    "https://anilist.co/anime/112958",
+    "https://anime-planet.com/anime/felix-no-mei-tantei",
+    "https://anisearch.com/anime/12274",
+    "https://kitsu.io/anime/13408",
+    "https://myanimelist.net/anime/35404",
+    "https://notify.moe/anime/6WY7hKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a49e66793e80a5d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.464136672850958,
+    "arithmeticGeometricMean": 4.430731068716717,
+    "median": 4.466818181818182,
+    "hash": "8a49e66793e80a5d",
+    "lastUpdate": "2024-05-08"
+  }
+}

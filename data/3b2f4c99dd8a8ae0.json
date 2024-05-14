@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4649",
+    "https://anilist.co/anime/4459",
+    "https://anime-planet.com/anime/ojarumaru",
+    "https://anisearch.com/anime/3767",
+    "https://kitsu.io/anime/3618",
+    "https://livechart.me/anime/9060",
+    "https://myanimelist.net/anime/4459",
+    "https://notify.moe/anime/g8wucKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b2f4c99dd8a8ae0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.827792207792208,
+    "arithmeticGeometricMean": 5.802606483878697,
+    "median": 5.0,
+    "hash": "3b2f4c99dd8a8ae0",
+    "lastUpdate": "2024-05-09"
+  }
+}

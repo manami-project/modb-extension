@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14324",
+    "https://anilist.co/anime/103518",
+    "https://anime-planet.com/anime/honpo-fullkawa-gregorio",
+    "https://anisearch.com/anime/14018",
+    "https://kitsu.io/anime/12188",
+    "https://myanimelist.net/anime/32755",
+    "https://notify.moe/anime/fxFRhFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5fee3ecfd296b8fc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.383208410636982,
+    "arithmeticGeometricMean": 5.3678318485183265,
+    "median": 5.367727272727273,
+    "hash": "5fee3ecfd296b8fc",
+    "lastUpdate": "2024-05-08"
+  }
+}

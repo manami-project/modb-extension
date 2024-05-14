@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14226",
+    "https://anilist.co/anime/101880",
+    "https://anime-planet.com/anime/ling-yu-5th-season",
+    "https://anisearch.com/anime/16285",
+    "https://kitsu.io/anime/41317",
+    "https://livechart.me/anime/9024",
+    "https://myanimelist.net/anime/37895",
+    "https://notify.moe/anime/CgE02NDig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ffad9a260fd4970e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.358299938157081,
+    "arithmeticGeometricMean": 6.338703220101256,
+    "median": 6.386818181818182,
+    "hash": "ffad9a260fd4970e",
+    "lastUpdate": "2024-05-09"
+  }
+}

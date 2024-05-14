@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103355",
+    "https://kitsu.io/anime/12704",
+    "https://myanimelist.net/anime/33866",
+    "https://notify.moe/anime/H1LmhFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "12ba9c038f20a74a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.721515151515152,
+    "arithmeticGeometricMean": 4.718889181857847,
+    "median": 4.71,
+    "hash": "12ba9c038f20a74a",
+    "lastUpdate": "2024-05-07"
+  }
+}

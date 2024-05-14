@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108533",
+    "https://anime-planet.com/anime/negai-goto-no-mochigusare",
+    "https://anisearch.com/anime/13451",
+    "https://myanimelist.net/anime/37011"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2bc9558e2a564f7d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.1546168831168835,
+    "arithmeticGeometricMean": 6.147324673132491,
+    "median": 5.9521428571428565,
+    "hash": "2bc9558e2a564f7d",
+    "lastUpdate": "2024-05-07"
+  }
+}

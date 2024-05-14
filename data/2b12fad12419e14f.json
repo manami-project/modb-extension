@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3442",
+    "https://anilist.co/anime/408",
+    "https://anime-planet.com/anime/final-fantasy-vii-last-order",
+    "https://anisearch.com/anime/3225",
+    "https://kitsu.io/anime/375",
+    "https://livechart.me/anime/4478",
+    "https://myanimelist.net/anime/408",
+    "https://notify.moe/anime/dF6hcFimR"
+  ],
+  "synopsis": {
+    "text": "Shinra's elite fighting force, SOLDIER, is dispatched to investigate monsters wreaking havoc at Mount Nibel's reactor, with war hero Sephiroth, Zack Fair, and company guards leading the charge. Upon arriving in the village of Nibelheim, Sephiroth uncovers the sinister origins of Shinra's Jenova Project and the source of the monstrous creatures. Months later, Zack and Cloud Strife find themselves on the run from Shinra, haunted by the tragic events that unfolded in Nibelheim. As they struggle to reach Midgar, the duo must evade the relentless pursuit of Shinra's Turks and confront their dark past. Meanwhile, a power-hungry man named Sephiroth seeks to drain the Earth's lifestream, threatening the very existence of their world. With time slipping away, Cloud, Zack, Tifa, and their allies must rise up to thwart Sephiroth's catastrophic plans and vanquish the enigmatic being known as Jenova before all is lost.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b12fad12419e14f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.267715213358071,
+    "arithmeticGeometricMean": 7.265651185538803,
+    "median": 7.298636363636364,
+    "hash": "2b12fad12419e14f",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145753",
+    "https://anilist.co/anime/169820",
+    "https://anime-planet.com/anime/kazaguruma",
+    "https://myanimelist.net/anime/37192"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c09aceb2c5cd689c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.366181818181818,
+    "arithmeticGeometricMean": 5.332526642800937,
+    "median": 5.204545454545455,
+    "hash": "c09aceb2c5cd689c",
+    "lastUpdate": "2024-05-07"
+  }
+}

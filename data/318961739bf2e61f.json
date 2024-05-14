@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137745",
+    "https://anime-planet.com/anime/xing-hai-qishi-part-iii",
+    "https://kitsu.io/anime/45735",
+    "https://myanimelist.net/anime/51198"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "318961739bf2e61f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.045939393939395,
+    "arithmeticGeometricMean": 7.037536514492395,
+    "median": 7.181818181818182,
+    "hash": "318961739bf2e61f",
+    "lastUpdate": "2024-05-07"
+  }
+}

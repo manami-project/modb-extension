@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127115",
+    "https://anime-planet.com/anime/funassyi-to-yukaina-kyoudai",
+    "https://kitsu.io/anime/10973",
+    "https://myanimelist.net/anime/30556",
+    "https://notify.moe/anime/2Rr_pKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f41edef047499625",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.072181818181818,
+    "arithmeticGeometricMean": 4.979745581917876,
+    "median": 5.0,
+    "hash": "f41edef047499625",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7870",
+    "https://anime-planet.com/anime/hello-kitty-no-papa-nante-daikirai",
+    "https://anisearch.com/anime/7056",
+    "https://kitsu.io/anime/9852",
+    "https://myanimelist.net/anime/17957",
+    "https://notify.moe/anime/ymWPtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "98d6c43ffdc37baf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.26530612244898,
+    "arithmeticGeometricMean": 5.260856361812104,
+    "median": 5.095918367346939,
+    "hash": "98d6c43ffdc37baf",
+    "lastUpdate": "2024-05-07"
+  }
+}

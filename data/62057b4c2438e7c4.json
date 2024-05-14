@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15089",
+    "https://anime-planet.com/anime/gifu-no-tatekayoko",
+    "https://anisearch.com/anime/15124",
+    "https://livechart.me/anime/9407",
+    "https://myanimelist.net/anime/39664"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "62057b4c2438e7c4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.326530612244898,
+    "arithmeticGeometricMean": 6.326530612244898,
+    "median": 6.326530612244898,
+    "hash": "62057b4c2438e7c4",
+    "lastUpdate": "2024-05-09"
+  }
+}

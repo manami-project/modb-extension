@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13327",
+    "https://anime-planet.com/anime/dia-horizon",
+    "https://anisearch.com/anime/12679",
+    "https://kitsu.io/anime/13897",
+    "https://livechart.me/anime/2813",
+    "https://myanimelist.net/anime/36018",
+    "https://notify.moe/anime/rXsShKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4f1ebb6adcbcd5f5",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.143809523809524,
+    "arithmeticGeometricMean": 5.0678065733497855,
+    "median": 5.36,
+    "hash": "4f1ebb6adcbcd5f5",
+    "lastUpdate": "2024-05-13"
+  }
+}

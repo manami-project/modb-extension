@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8548",
+    "https://anilist.co/anime/17621",
+    "https://anime-planet.com/anime/ultraman-chou-toushi-gekiden-suisei-senjin-tsuifon-toujou",
+    "https://anisearch.com/anime/7238",
+    "https://kitsu.io/anime/9058",
+    "https://myanimelist.net/anime/17621",
+    "https://notify.moe/anime/rGiapFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77414c27892ad302",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.382578849721707,
+    "arithmeticGeometricMean": 5.344695461494448,
+    "median": 5.496818181818181,
+    "hash": "77414c27892ad302",
+    "lastUpdate": "2024-05-08"
+  }
+}

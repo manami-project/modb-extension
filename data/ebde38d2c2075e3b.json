@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://kitsu.io/anime/7946",
+    "https://notify.moe/anime/27V2pKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ebde38d2c2075e3b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.720909090909091,
+    "arithmeticGeometricMean": 7.719328534918514,
+    "median": 7.720909090909091,
+    "hash": "ebde38d2c2075e3b",
+    "lastUpdate": "2024-05-07"
+  }
+}

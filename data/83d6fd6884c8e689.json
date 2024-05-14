@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11793",
+    "https://anilist.co/anime/101090",
+    "https://anime-planet.com/anime/puella-magi-madoka-magica-concept-movie",
+    "https://anisearch.com/anime/11356",
+    "https://kitsu.io/anime/11573",
+    "https://livechart.me/anime/4910",
+    "https://myanimelist.net/anime/32153",
+    "https://notify.moe/anime/BGPCpKimR"
+  ],
+  "synopsis": {
+    "text": "Kaname Madoka and Akemi Homura find themselves in a contemplative journey, exploring the essence of happiness and examining their own decisions in the process. As they delve deeper, they face a series of peculiar events that disrupt the lives of the magical girls, forcing them to confront the trials that come with their predestined roles.\n\nOriginally unveiled as a surprise at Studio SHAFT's 40th-anniversary celebration in the winter of 2015, Madogatari serves as the foundation for a new Madoka Magica project. This four-minute concept film provides a sneak peek into the upcoming Puella Magi Madoka Magica the Movie Part 4: Walpurgisnacht - Rising. The film was later showcased in Osaka, featuring several altered imageboard segments.  Prepare for an immersive experience as the magical girls navigate the complexities of their destinies while seeking the true meaning of happiness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "83d6fd6884c8e689",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.909630196523054,
+    "arithmeticGeometricMean": 6.903052859746526,
+    "median": 6.940769944341373,
+    "hash": "83d6fd6884c8e689",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/valkyrie-last-lament",
+    "https://kitsu.io/anime/48376",
+    "https://myanimelist.net/anime/48525"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2fdea099da87c184",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.602,
+    "arithmeticGeometricMean": 6.597033045845139,
+    "median": 6.602,
+    "hash": "2fdea099da87c184",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6919",
+    "https://anilist.co/anime/177219",
+    "https://anime-planet.com/anime/kaeru-no-yume",
+    "https://anisearch.com/anime/8685",
+    "https://kitsu.io/anime/48514",
+    "https://myanimelist.net/anime/49243"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e08a42b9eee3b00c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.058441558441558,
+    "arithmeticGeometricMean": 4.043764896314853,
+    "median": 4.058441558441558,
+    "hash": "e08a42b9eee3b00c",
+    "lastUpdate": "2024-05-07"
+  }
+}

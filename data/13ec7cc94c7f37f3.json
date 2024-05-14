@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/117806",
+    "https://anime-planet.com/anime/flower-bud",
+    "https://anisearch.com/anime/15025",
+    "https://kitsu.io/anime/45868"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "13ec7cc94c7f37f3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.960575139146568,
+    "arithmeticGeometricMean": 3.749756973706482,
+    "median": 3.960575139146568,
+    "hash": "13ec7cc94c7f37f3",
+    "lastUpdate": "2024-05-07"
+  }
+}

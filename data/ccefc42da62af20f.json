@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16741",
+    "https://anilist.co/anime/122690",
+    "https://anime-planet.com/anime/wan-jie-shenzhu-3rd-season",
+    "https://anisearch.com/anime/18241",
+    "https://kitsu.io/anime/44644",
+    "https://livechart.me/anime/10476",
+    "https://myanimelist.net/anime/48480",
+    "https://notify.moe/anime/6fxt8Tgng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ccefc42da62af20f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.403781818181818,
+    "arithmeticGeometricMean": 7.342585397791049,
+    "median": 6.5,
+    "hash": "ccefc42da62af20f",
+    "lastUpdate": "2024-05-10"
+  }
+}

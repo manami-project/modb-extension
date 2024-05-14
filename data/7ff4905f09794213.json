@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10758",
+    "https://anilist.co/anime/5322",
+    "https://anime-planet.com/anime/infinite-space-short-films",
+    "https://anisearch.com/anime/5125",
+    "https://kitsu.io/anime/4057",
+    "https://myanimelist.net/anime/5322",
+    "https://notify.moe/anime/CsDj5FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ff4905f09794213",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0140540683806,
+    "arithmeticGeometricMean": 4.9688299007094585,
+    "median": 4.909090909090909,
+    "hash": "7ff4905f09794213",
+    "lastUpdate": "2024-05-08"
+  }
+}

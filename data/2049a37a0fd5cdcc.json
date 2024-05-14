@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3662",
+    "https://anilist.co/anime/8239",
+    "https://anime-planet.com/anime/anime-yasei-no-sakebi",
+    "https://anisearch.com/anime/3205",
+    "https://kitsu.io/anime/5260",
+    "https://myanimelist.net/anime/8239",
+    "https://notify.moe/anime/LSWipFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2049a37a0fd5cdcc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.350363636363636,
+    "arithmeticGeometricMean": 5.306929960345737,
+    "median": 4.66,
+    "hash": "2049a37a0fd5cdcc",
+    "lastUpdate": "2024-05-08"
+  }
+}

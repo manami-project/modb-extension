@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18043",
+    "https://anilist.co/anime/165314",
+    "https://anime-planet.com/anime/pon-no-michi",
+    "https://anisearch.com/anime/18422",
+    "https://kitsu.io/anime/47483",
+    "https://livechart.me/anime/12062",
+    "https://myanimelist.net/anime/55397",
+    "https://notify.moe/anime/yXEeWH_Vg"
+  ],
+  "synopsis": {
+    "text": "Jippensha Nashiko, a high school student in Onomichi City, Hiroshima Prefecture, finds herself in a predicament when her guardians force her out of her home. With no place to socialize with her friends, she stumbles upon her father's abandoned mahjong parlor. Seizing the opportunity, she takes it upon herself to renovate the space, transforming it into a cozy hangout for her and her friends. Joined by her closest companions - Izumi Tokutomi, Pai Kawahigashi, and Riche Hayash - the group enjoys their high school days to the fullest, indulging in delicious food, tea, and the occasional thrilling game of mahjong. As they bond over shared experiences, the revitalized mahjong parlor becomes their sanctuary and a symbol of their unbreakable friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd66fc94a7e38564",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.838331787260358,
+    "arithmeticGeometricMean": 6.814390122922523,
+    "median": 6.594387755102041,
+    "hash": "bd66fc94a7e38564",
+    "lastUpdate": "2024-05-09"
+  }
+}

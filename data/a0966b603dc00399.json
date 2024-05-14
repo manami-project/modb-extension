@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5733",
+    "https://anilist.co/anime/125322",
+    "https://anime-planet.com/anime/mogura-no-motoro",
+    "https://anisearch.com/anime/4759",
+    "https://kitsu.io/anime/9026",
+    "https://myanimelist.net/anime/23005",
+    "https://notify.moe/anime/IV3bpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a0966b603dc00399",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.349765491651206,
+    "arithmeticGeometricMean": 5.309846641540072,
+    "median": 5.0,
+    "hash": "a0966b603dc00399",
+    "lastUpdate": "2024-05-08"
+  }
+}

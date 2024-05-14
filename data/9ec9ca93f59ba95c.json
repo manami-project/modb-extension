@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3376",
+    "https://anilist.co/anime/126438",
+    "https://anime-planet.com/anime/shin-don-chuck-monogatari",
+    "https://anisearch.com/anime/179",
+    "https://kitsu.io/anime/9936",
+    "https://myanimelist.net/anime/23393",
+    "https://notify.moe/anime/-pcEtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9ec9ca93f59ba95c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.216686456400741,
+    "arithmeticGeometricMean": 5.15131908108181,
+    "median": 5.01,
+    "hash": "9ec9ca93f59ba95c",
+    "lastUpdate": "2024-05-08"
+  }
+}

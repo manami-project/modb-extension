@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8543",
+    "https://anilist.co/anime/169017",
+    "https://anime-planet.com/anime/limitless-paradise",
+    "https://anisearch.com/anime/7218",
+    "https://kitsu.io/anime/9082",
+    "https://myanimelist.net/anime/23569",
+    "https://notify.moe/anime/XQZ-pKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4fa0448fe98d616b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.140303030303031,
+    "arithmeticGeometricMean": 6.10862904000193,
+    "median": 6.33,
+    "hash": "4fa0448fe98d616b",
+    "lastUpdate": "2024-05-07"
+  }
+}

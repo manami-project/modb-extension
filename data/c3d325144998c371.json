@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18385",
+    "https://anilist.co/anime/166447",
+    "https://anime-planet.com/anime/fatal-rule",
+    "https://myanimelist.net/anime/57513"
+  ],
+  "synopsis": {
+    "text": "Shu Ai, Bai Er, and Zou Yidao join forces with Qiao Jingting, who finds himself trapped in a ruthless game world known as the 'Abyss' after a near-death experience. In this world, survival depends on acquiring points and strengthening oneself, and the stakes are high - devour or be devoured. With memories of his past life still intact, Qiao Jingting is determined to return to his loved ones and uncover the truth behind this mysterious world.\n\nHowever, the road to victory is fraught with danger. The group faces treacherous schemes and powerful enemies, including the malevolent Han Bin and his Heart Moon Fox organization. As they navigate through the game's treacherous landscape, the group's trust and unity are put to the test. When they finally manage to defeat Han Bin, they realize that their journey has only just begun.\n\nThe arrival of Zou Yidao, a rough and enigmatic expert, brings a glimmer of hope to the group. However, they soon discover that Zou Yidao is not all that he seems. With his own goals and motivations, Zou Yidao strikes a deal with Han Bin, causing the group's trust to falter. But in a critical moment, they unite with Zou Yidao and defeat Han Bin once and for all.\n\nAs they leave the novice village, Qiao Jingting and his companions face new threats and challenges that are far more formidable than anything they have encountered before. With their newfound strength and unity, they must navigate this dangerous world and uncover the truth behind the 'Abyss Game.' Will they be able to survive and find a way back home, or will they succumb to the ruthless game's cruel rules? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c3d325144998c371",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.090909090909091,
+    "arithmeticGeometricMean": 7.090909090909091,
+    "median": 7.090909090909091,
+    "hash": "c3d325144998c371",
+    "lastUpdate": "2024-05-08"
+  }
+}

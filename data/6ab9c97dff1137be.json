@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/detective-conan-black-history",
+    "https://anisearch.com/anime/8626",
+    "https://kitsu.io/anime/4933",
+    "https://livechart.me/anime/6944",
+    "https://myanimelist.net/anime/7303",
+    "https://notify.moe/anime/SxsgpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ab9c97dff1137be",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.715324675324675,
+    "arithmeticGeometricMean": 7.714403330319867,
+    "median": 7.57,
+    "hash": "6ab9c97dff1137be",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118127",
+    "https://anime-planet.com/anime/loin-giant-killing",
+    "https://kitsu.io/anime/45233",
+    "https://myanimelist.net/anime/51499"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41e1f39ed6d135f2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.681818181818182,
+    "arithmeticGeometricMean": 6.678027615523183,
+    "median": 6.681818181818182,
+    "hash": "41e1f39ed6d135f2",
+    "lastUpdate": "2024-05-06"
+  }
+}

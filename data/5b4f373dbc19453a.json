@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9865",
+    "https://anilist.co/anime/18575",
+    "https://anime-planet.com/anime/noobow-kieta-medal",
+    "https://anisearch.com/anime/9054",
+    "https://kitsu.io/anime/9496",
+    "https://myanimelist.net/anime/18575",
+    "https://notify.moe/anime/1lyBpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b4f373dbc19453a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.922241187384044,
+    "arithmeticGeometricMean": 4.912906226818263,
+    "median": 4.66,
+    "hash": "5b4f373dbc19453a",
+    "lastUpdate": "2024-05-07"
+  }
+}

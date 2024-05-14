@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15726",
+    "https://anilist.co/anime/130516",
+    "https://anime-planet.com/anime/uchuu-nanchara-kotetsu-kun",
+    "https://anisearch.com/anime/15721",
+    "https://kitsu.io/anime/44221",
+    "https://livechart.me/anime/10148",
+    "https://myanimelist.net/anime/42870",
+    "https://notify.moe/anime/5ABemyKMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ddfb38d48ee7ecad",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.9814471243042675,
+    "arithmeticGeometricMean": 5.976464772236701,
+    "median": 5.9814471243042675,
+    "hash": "ddfb38d48ee7ecad",
+    "lastUpdate": "2024-05-10"
+  }
+}

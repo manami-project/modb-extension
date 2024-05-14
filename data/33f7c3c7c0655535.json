@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/6668",
+    "https://myanimelist.net/anime/9968"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33f7c3c7c0655535",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.672755102040815,
+    "arithmeticGeometricMean": 5.644569251499136,
+    "median": 5.672755102040815,
+    "hash": "33f7c3c7c0655535",
+    "lastUpdate": "2024-05-07"
+  }
+}

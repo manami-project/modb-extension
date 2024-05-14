@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2655",
+    "https://anilist.co/anime/9356",
+    "https://anime-planet.com/anime/cool-cool-bye",
+    "https://anisearch.com/anime/3573",
+    "https://kitsu.io/anime/5701",
+    "https://livechart.me/anime/7288",
+    "https://myanimelist.net/anime/9356",
+    "https://notify.moe/anime/fS3WpKmig"
+  ],
+  "synopsis": {
+    "text": "Two valiant warriors, Lek and Flene, hailing from the Han tribe, find themselves in a desolate, post-apocalyptic world. Their mission: to confront the formidable Tanguin, a menacing foe who has been relentlessly abducting women from their village. Following the latest attack, the desperate villagers implore Lek and Flene to venture directly into Tanguin's lair.\n\nJoining them on their perilous quest are Corola, a man driven by the kidnapping of his sister, and Syril, whose girlfriend has fallen prey to Tanguin's cruel clutches. An unexpected ally comes in the form of Klee, a magical entity who becomes inadvertently entangled in their mission after a run-in with Tanguin.\n\nIn a twist of fate, the duo encounters a colossal Metal Fortress that leads them to a seemingly barren wasteland, home to resilient nomads. The fortress, they learn, has taken refuge within a mountain. Urged by the nomads to complete their mission, Lek and Flene are guided by two locals and serendipitously joined by a fairy capable of transforming into a formidable mech-warrior woman.\n\nThe stage is set for an epic showdown, as Lek, Flene, and their unlikely allies embark on a daring rescue mission, ready to face the ruthless Tanguin and bring an end to his reign of terror.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47c20e1ff8982dcb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.037564802544394,
+    "arithmeticGeometricMean": 5.027936286416406,
+    "median": 4.820408163265306,
+    "hash": "47c20e1ff8982dcb",
+    "lastUpdate": "2024-05-09"
+  }
+}

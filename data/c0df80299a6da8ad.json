@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2266",
+    "https://anilist.co/anime/547",
+    "https://anime-planet.com/anime/wind-a-breath-of-heart-ova",
+    "https://anisearch.com/anime/2285",
+    "https://kitsu.io/anime/505",
+    "https://livechart.me/anime/7000",
+    "https://myanimelist.net/anime/547",
+    "https://notify.moe/anime/oKfocKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c0df80299a6da8ad",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.22042830638749,
+    "arithmeticGeometricMean": 6.206090053827448,
+    "median": 6.234,
+    "hash": "c0df80299a6da8ad",
+    "lastUpdate": "2024-05-10"
+  }
+}

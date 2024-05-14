@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5934",
+    "https://anilist.co/anime/4447",
+    "https://anime-planet.com/anime/detective-conan-full-score-of-fear",
+    "https://anisearch.com/anime/4616",
+    "https://kitsu.io/anime/3612",
+    "https://livechart.me/anime/5021",
+    "https://myanimelist.net/anime/4447",
+    "https://notify.moe/anime/Q3UucKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "34d2d87bfe696662",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.7877326270221,
+    "arithmeticGeometricMean": 7.7869152039221605,
+    "median": 7.79,
+    "hash": "34d2d87bfe696662",
+    "lastUpdate": "2024-05-09"
+  }
+}

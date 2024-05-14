@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/107",
+    "https://anilist.co/anime/812",
+    "https://anime-planet.com/anime/arjuna",
+    "https://anisearch.com/anime/46",
+    "https://kitsu.io/anime/719",
+    "https://livechart.me/anime/5910",
+    "https://myanimelist.net/anime/812",
+    "https://notify.moe/anime/ms-0cKiig"
+  ],
+  "synopsis": {
+    "text": "And so begins the extraordinary journey of Juna Ariyoshi, an ordinary high-school girl with a deep love for nature, who is unexpectedly thrust into the role of Earth's savior. When a tragic motorcycle accident claims her life, Juna is granted a second chance by a mysterious entity named Chris Hawken. In exchange, she must wield newfound powers as the Avatar of Time to protect the Earth from the destructive forces of the Raaja, born from humanity's pollution.\n\nAs Juna adapts to her new abilities, she gains a profound understanding of Earth's delicate ecosystem and humanity's destructive tendencies. With the guidance of Chris, his assistant Cindy Klein, and the powerful organization SEED, Juna must navigate the complexities of her powers, confront the Raaja, and find a balance between science, technology, and humanity's connection with nature.\n\nAs the Earth's fate hangs in the balance, Juna must rise above her fears, challenge societal ignorance, and embrace her destiny to save the world she once took for granted. Will she succeed in her mission to protect the planet and everything she holds dear? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ad76b096f0ff8fa0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.525414259210178,
+    "arithmeticGeometricMean": 6.52090772731907,
+    "median": 6.545454545454545,
+    "hash": "ad76b096f0ff8fa0",
+    "lastUpdate": "2024-05-09"
+  }
+}

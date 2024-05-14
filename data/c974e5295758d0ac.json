@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13590",
+    "https://anilist.co/anime/103775",
+    "https://anime-planet.com/anime/rainbow-signal-hi-fi-set",
+    "https://anisearch.com/anime/14090",
+    "https://kitsu.io/anime/14104",
+    "https://myanimelist.net/anime/36229",
+    "https://notify.moe/anime/plxH2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c974e5295758d0ac",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.046839826839826,
+    "arithmeticGeometricMean": 6.036561711939469,
+    "median": 6.011428571428571,
+    "hash": "c974e5295758d0ac",
+    "lastUpdate": "2024-05-07"
+  }
+}

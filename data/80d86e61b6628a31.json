@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103507",
+    "https://anime-planet.com/anime/lyu-lyu-kokuen",
+    "https://kitsu.io/anime/12217",
+    "https://myanimelist.net/anime/32759",
+    "https://notify.moe/anime/-BTR2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80d86e61b6628a31",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2715,
+    "arithmeticGeometricMean": 5.267028690042654,
+    "median": 5.165,
+    "hash": "80d86e61b6628a31",
+    "lastUpdate": "2024-05-06"
+  }
+}

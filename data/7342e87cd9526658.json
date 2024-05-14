@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/801",
+    "https://anilist.co/anime/1189",
+    "https://anime-planet.com/anime/edens-bowy",
+    "https://anisearch.com/anime/1355",
+    "https://kitsu.io/anime/1069",
+    "https://livechart.me/anime/7740",
+    "https://myanimelist.net/anime/1189",
+    "https://notify.moe/anime/jnHbcKiig"
+  ],
+  "synopsis": {
+    "text": "Now here does the young dreamer, Yorn, imagine that the enigmatic floating cities he gazes upon hold the key to his own destiny. When the assassins of Eden strike, leaving his father lifeless, Yorn is catapulted into a world of ancient legends and divine power. As the reincarnation of the fabled God Hunter, he is now the target of the technologically superior overlords of Eden.\n\nIn a time long past, humanity faced divine retribution for their unjust ways. A hero emerged, vanquishing the wrathful deity, and from the godly blood that seeped into the earth, new gods arose. These new gods watched over mankind, while the legend of the God Hunter faded into obscurity.\n\nIn the present, Yorn finds himself bestowed with incredible powers and a legendary sword, as the leaders of the floating islands seek to capture him. With his guardian Goshizoku by his side, Yorn embarks on a perilous journey to find his long-lost mother and uncover the truth about his heritage. Along the way, he encounters a mysterious girl named Elisiss, whose secret may prove too overwhelming.\n\nAs they traverse a world filled with danger and uncertainty, Yorn and Elisiss must evade the comical yet deadly Yanuesu and Yurugaha. With the fate of humanity resting on his shoulders, can Yorn resist the dark designs of his divine adversaries and embrace his destiny as the God Hunter?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7342e87cd9526658",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.153572753776835,
+    "arithmeticGeometricMean": 6.128386354387733,
+    "median": 6.28,
+    "hash": "7342e87cd9526658",
+    "lastUpdate": "2024-05-09"
+  }
+}

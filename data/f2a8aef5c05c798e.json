@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8395",
+    "https://anilist.co/anime/10620",
+    "https://anime-planet.com/anime/future-diary",
+    "https://anisearch.com/anime/7050",
+    "https://kitsu.io/anime/6266",
+    "https://livechart.me/anime/1196",
+    "https://myanimelist.net/anime/10620",
+    "https://notify.moe/anime/o35VpFiig"
+  ],
+  "synopsis": {
+    "text": "Yuki, a socially awkward middle school student, finds solace in his cell phone diary and his seemingly imaginary friend, Deus Ex Machina, the God of Time and Space. One day, Deus reveals himself to be real and drags Yuki into a deadly game with eleven other individuals. Each participant is given a unique 'Future Diary' that predicts the future in different ways. The objective is to survive and become the new God of Time and Space by eliminating the other contestants. Yuki forms an unlikely alliance with his classmate Yuno, who also possesses a Future Diary. As they navigate through this dangerous game, Yuki must rely on his wits and Yuno's assistance to survive. But Yuno's obsession with Yuki might have hidden motives, adding another layer of complexity to this thrilling battle royale.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f2a8aef5c05c798e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.538580672114106,
+    "arithmeticGeometricMean": 7.534847262133894,
+    "median": 7.481602836879432,
+    "hash": "f2a8aef5c05c798e",
+    "lastUpdate": "2024-05-09"
+  }
+}

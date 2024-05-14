@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/asobuild-teaser-movie",
+    "https://kitsu.io/anime/43471",
+    "https://myanimelist.net/anime/39498"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f5a6f22753606d73",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.101,
+    "arithmeticGeometricMean": 5.097658654578784,
+    "median": 5.101,
+    "hash": "f5a6f22753606d73",
+    "lastUpdate": "2024-05-05"
+  }
+}

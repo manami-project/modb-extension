@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7015",
+    "https://anilist.co/anime/5774",
+    "https://anime-planet.com/anime/seitokaichou-ni-chuukoku",
+    "https://anisearch.com/anime/5211",
+    "https://kitsu.io/anime/4272",
+    "https://livechart.me/anime/5197",
+    "https://myanimelist.net/anime/5774",
+    "https://notify.moe/anime/6iCjcKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "141b2c1b6e6800cd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.954859461966605,
+    "arithmeticGeometricMean": 6.951251732887159,
+    "median": 6.930909090909091,
+    "hash": "141b2c1b6e6800cd",
+    "lastUpdate": "2024-05-09"
+  }
+}

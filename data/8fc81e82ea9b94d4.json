@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/134222",
+    "https://anime-planet.com/anime/tasuu-ketsu-judgement-assizes",
+    "https://anisearch.com/anime/16242",
+    "https://livechart.me/anime/10702",
+    "https://myanimelist.net/anime/42805"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8fc81e82ea9b94d4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.160946196660482,
+    "arithmeticGeometricMean": 5.136631182229497,
+    "median": 5.160946196660482,
+    "hash": "8fc81e82ea9b94d4",
+    "lastUpdate": "2024-05-10"
+  }
+}

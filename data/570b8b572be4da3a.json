@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7999",
+    "https://anilist.co/anime/17887",
+    "https://anime-planet.com/anime/ichirin-sha",
+    "https://anisearch.com/anime/6172",
+    "https://kitsu.io/anime/7918",
+    "https://livechart.me/anime/6035",
+    "https://myanimelist.net/anime/17887",
+    "https://notify.moe/anime/BVZhtKiiR"
+  ],
+  "synopsis": {
+    "text": "As humanity faces a grave threat from sentient missile mechanoids on a distant, Earth-like planet, the last surviving unicyclist, Shaleen, roams the barren landscape on his battered motorized unicycle. One fateful day, while evading a relentless swarm of these robotic adversaries, Shaleen stumbles upon a desolate ghost town. In this forsaken place, he encounters an enigmatic young girl, who is constantly pursued by the mechanoids and has secluded herself to protect others.\n\nDespite her initial reluctance, Shaleen's persistence eventually wins her over, and they form a bond. However, this emotional connection triggers an unexpected transformation in the mechanoids, causing them to grow to colossal proportions. As the stakes escalate, Shaleen must unravel the enigma surrounding the girl's mysterious powers and devise a plan to combat the now-gigantic mechanoids.\n\nOriginally intended as a full-length feature, this captivating tale is condensed into a thrilling 7-minute trailer, offering a tantalizing glimpse into the unique world of Shaleen, the mysterious girl, and their formidable mechanoid foes.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "570b8b572be4da3a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.990197190564538,
+    "arithmeticGeometricMean": 5.985664576722518,
+    "median": 5.956,
+    "hash": "570b8b572be4da3a",
+    "lastUpdate": "2024-05-09"
+  }
+}

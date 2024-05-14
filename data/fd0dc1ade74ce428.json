@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15786",
+    "https://anilist.co/anime/114117",
+    "https://anime-planet.com/anime/memory-of-chang-an",
+    "https://anisearch.com/anime/15698",
+    "https://kitsu.io/anime/43741",
+    "https://myanimelist.net/anime/41223",
+    "https://notify.moe/anime/ZgcSCMFGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd0dc1ade74ce428",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.209663927908826,
+    "arithmeticGeometricMean": 7.204214868521001,
+    "median": 7.355102040816326,
+    "hash": "fd0dc1ade74ce428",
+    "lastUpdate": "2024-05-08"
+  }
+}

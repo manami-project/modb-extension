@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115242",
+    "https://anime-planet.com/anime/dekimon"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db744c55f323a142",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.636363636363637,
+    "arithmeticGeometricMean": 5.636363636363637,
+    "median": 5.636363636363637,
+    "hash": "db744c55f323a142",
+    "lastUpdate": "2024-05-07"
+  }
+}

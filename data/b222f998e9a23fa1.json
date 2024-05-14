@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1613",
+    "https://anilist.co/anime/4147",
+    "https://anime-planet.com/anime/doggy-poo",
+    "https://anisearch.com/anime/359",
+    "https://kitsu.io/anime/3487",
+    "https://livechart.me/anime/8565",
+    "https://myanimelist.net/anime/4147",
+    "https://notify.moe/anime/UMOXcKimR"
+  ],
+  "synopsis": {
+    "text": "Once upon a time, a small, forlorn creature named Doggy Poo resided by the roadside, grappling with feelings of solitude and purposelessness. He yearned for a sense of belonging and a reason to keep pursuing his dream of being valuable to the world. One fateful day, Doggy Poo encounters a charming dandelion sprout, sparking hope for the discovery of his life's purpose and the realization of his dream. Alongside newfound friends, Doggy Poo embarks on a journey to uncover the meaning of life, experiencing the highs and lows that come with it, while persistently pondering the reason behind his existence.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b222f998e9a23fa1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.610617545719586,
+    "arithmeticGeometricMean": 5.606277903472358,
+    "median": 5.46,
+    "hash": "b222f998e9a23fa1",
+    "lastUpdate": "2024-05-09"
+  }
+}

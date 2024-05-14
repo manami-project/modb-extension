@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9085",
+    "https://anilist.co/anime/13459",
+    "https://anime-planet.com/anime/ribbon-chan",
+    "https://anisearch.com/anime/7708",
+    "https://kitsu.io/anime/6971",
+    "https://myanimelist.net/anime/13459",
+    "https://notify.moe/anime/by0vpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aba4fa46ed7adcfb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.545454545454545,
+    "arithmeticGeometricMean": 4.534055201103974,
+    "median": 4.545454545454545,
+    "hash": "aba4fa46ed7adcfb",
+    "lastUpdate": "2024-05-08"
+  }
+}

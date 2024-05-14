@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/gregory-horror-show"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "82408b2f518108ae",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.57,
+    "arithmeticGeometricMean": 6.57,
+    "median": 6.57,
+    "hash": "82408b2f518108ae",
+    "lastUpdate": "2024-05-08"
+  }
+}

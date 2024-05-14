@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16267",
+    "https://anilist.co/anime/129832",
+    "https://anime-planet.com/anime/zhen-dao-ge",
+    "https://anisearch.com/anime/16960",
+    "https://kitsu.io/anime/44785",
+    "https://myanimelist.net/anime/48759",
+    "https://notify.moe/anime/Lt-y3JR7R"
+  ],
+  "synopsis": {
+    "text": "Ge ared by a thirst for vengeance, \"Zhen Dao Ge\" follows the journey of He Fangzhi, a once homeless young man whose family was ruthlessly slaughtered during their migration. Miraculously escaping the bloodbath, He conceals his survival and dedicates himself to mastering a formidable martial art in Shuzhong. Armed with a fan and a location hint pointing to his enemies, He embarks on a relentless quest to avenge his family's brutal demise.\n\nThirteen years have passed since He's father was cruelly taken from him, leaving their family defenseless and ultimately leading to their tragic end. Now, He's journey spans from the northwestern border soup shop, the scene of his family's annihilation, to the distant lands of Linqingzhou in Shandong, and further still to Cuifeng Mountain in Zhejiang. As He's prowess in martial arts becomes well-known, he tirelessly seeks the puppet master behind his father's murder.\n\nHowever, the road to retribution is fraught with unexpected challenges. With each new lead, He uncovers hidden dangers and faces numerous adversaries who seem hell-bent on shielding the true culprit. Who could these loyal henchmen be protecting, and why was He's family specifically targeted for extermination? Delve into the thrilling and enigmatic world of \"Zhen Dao Ge\" to unravel the truth behind this haunting tale of vengeance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f5d3384541f9b8ef",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.9999393939393935,
+    "arithmeticGeometricMean": 6.993969054798583,
+    "median": 7.181818181818182,
+    "hash": "f5d3384541f9b8ef",
+    "lastUpdate": "2024-05-08"
+  }
+}

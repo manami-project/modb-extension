@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/arikiri",
+    "https://kitsu.io/anime/41278",
+    "https://myanimelist.net/anime/37852",
+    "https://notify.moe/anime/VYEylg4mg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e72884788848a41d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.0,
+    "arithmeticGeometricMean": 7.0,
+    "median": 7.0,
+    "hash": "e72884788848a41d",
+    "lastUpdate": "2024-05-05"
+  }
+}

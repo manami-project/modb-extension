@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16499",
+    "https://anilist.co/anime/136146",
+    "https://anime-planet.com/anime/wan-jie-xian-zong-5th-season",
+    "https://kitsu.io/anime/45036",
+    "https://livechart.me/anime/10676",
+    "https://myanimelist.net/anime/49305",
+    "https://notify.moe/anime/eLzBvyH7g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "091137c73db0f7b9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.2772727272727264,
+    "arithmeticGeometricMean": 7.271109198500834,
+    "median": 7.181818181818182,
+    "hash": "091137c73db0f7b9",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4492",
+    "https://anilist.co/anime/1214",
+    "https://anime-planet.com/anime/binbou-shimai-monogatari",
+    "https://anisearch.com/anime/3665",
+    "https://kitsu.io/anime/1091",
+    "https://livechart.me/anime/4556",
+    "https://myanimelist.net/anime/1214",
+    "https://notify.moe/anime/HrKx5FimR"
+  ],
+  "synopsis": {
+    "text": "Their mother's death and their father's gambling-induced disappearance left Kyo and Asu Yamada, aged 15 and 9 respectively, to navigate life on their own. Living in a modest, aging one-room apartment, the sisters face financial hardships head-on, with Kyo juggling multiple part-time jobs to support them while Asu manages the household chores, meals, and finances. Despite their challenging circumstances, the sisters find solace in their unbreakable bond and the kindness of their neighbors. With resilience and determination, Kyo and Asu embrace each day with optimism, proving that their love for each other can overcome any obstacle.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f7e2cea1a91540f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.142330705009276,
+    "arithmeticGeometricMean": 7.135669341358563,
+    "median": 6.965,
+    "hash": "6f7e2cea1a91540f",
+    "lastUpdate": "2024-05-09"
+  }
+}

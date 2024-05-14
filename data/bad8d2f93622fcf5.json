@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2893",
+    "https://anilist.co/anime/1890",
+    "https://anime-planet.com/anime/clover",
+    "https://anisearch.com/anime/2429",
+    "https://kitsu.io/anime/1700",
+    "https://myanimelist.net/anime/1890",
+    "https://notify.moe/anime/ZUrfcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bad8d2f93622fcf5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.370428836469652,
+    "arithmeticGeometricMean": 6.356235256830042,
+    "median": 6.522,
+    "hash": "bad8d2f93622fcf5",
+    "lastUpdate": "2024-05-07"
+  }
+}

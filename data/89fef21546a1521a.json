@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17515",
+    "https://anilist.co/anime/153412",
+    "https://anime-planet.com/anime/duel-masters-win",
+    "https://anisearch.com/anime/17517",
+    "https://kitsu.io/anime/46316",
+    "https://livechart.me/anime/11336",
+    "https://myanimelist.net/anime/52460",
+    "https://notify.moe/anime/C3YFi6G4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89fef21546a1521a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.765269016697588,
+    "arithmeticGeometricMean": 6.7561093965509285,
+    "median": 6.960000000000001,
+    "hash": "89fef21546a1521a",
+    "lastUpdate": "2024-05-09"
+  }
+}

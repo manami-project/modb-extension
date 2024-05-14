@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14983",
+    "https://anilist.co/anime/102618",
+    "https://anime-planet.com/anime/tia-heart-realize",
+    "https://anisearch.com/anime/11596",
+    "https://kitsu.io/anime/11843",
+    "https://myanimelist.net/anime/32700",
+    "https://notify.moe/anime/_793tFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "69a9f0948cabbee0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.631511386572612,
+    "arithmeticGeometricMean": 6.628618031608495,
+    "median": 6.6387755102040815,
+    "hash": "69a9f0948cabbee0",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17925",
+    "https://anilist.co/anime/162984",
+    "https://anime-planet.com/anime/kamierabi-godapp",
+    "https://anisearch.com/anime/18291",
+    "https://kitsu.io/anime/47227",
+    "https://livechart.me/anime/11891",
+    "https://myanimelist.net/anime/54798",
+    "https://notify.moe/anime/ldn7IcBVg"
+  ],
+  "synopsis": {
+    "text": "Goro, a disillusioned high school student in Tokyo, finds his mundane life taking a dramatic turn when a cryptic message on his smartphone promises to fulfill his deepest desire. He wishes for a romantic encounter with his crush, Honoka, only to find himself entangled in a divine competition orchestrated by a peculiar creature named Lall.\n\nAs a contender to become the next deity, Goro is bestowed with a unique power: the ability to manipulate cause and effect, albeit at the cost of his own well-being. This power, known as the 'Scripture of Fools', turns his life into a chaotic whirlwind as he confronts other divine aspirants, including Honoka, who is now a formidable adversary.\n\nIn this perilous game of survival, where every participant harbors their own secrets, Goro must navigate through treacherous alliances and ruthless battles. As he grapples with the reality of his newfound power and the escalating dangers, Goro is left with a daunting choice: to succumb to the cruel fate of the game or to rise above it and claim the divine throne. The stakes are high, and the fate of the world hangs in the balance in this thrilling, supernatural battle royale.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "03442ebe2bf71050",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.775416512059369,
+    "arithmeticGeometricMean": 5.734800330675113,
+    "median": 5.748636363636363,
+    "hash": "03442ebe2bf71050",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/407",
+    "https://anilist.co/anime/606",
+    "https://anime-planet.com/anime/carried-by-the-wind-tsukikage-ran",
+    "https://anisearch.com/anime/2360",
+    "https://kitsu.io/anime/561",
+    "https://livechart.me/anime/7479",
+    "https://myanimelist.net/anime/606",
+    "https://notify.moe/anime/mhCT5Kiig"
+  ],
+  "synopsis": {
+    "text": "Together, the formidable Lady Ran, a wandering samurai with a penchant for fine sake, and her unlikely companion, the unassuming yet deadly martial artist known as Lady Meow, traverse the picturesque landscape of Edo period Japan. As they journey without a fixed destination, they encounter a diverse array of adversaries, from unscrupulous bandits to powerful crime syndicates and shadowy cults. Though their masterful swordplay and iron cat fist technique make them a force to be reckoned with, their greatest foe may just be their perpetual struggle with poverty.\n\nDespite their contrasting personalities and backgrounds, the bond between the sake-loving Ronin and the dreamy Lady Meow strengthens as they face each new challenge together. With each passing day, they find themselves embroiled in thrilling escapades, leaving a trail of vanquished enemies in their wake. From breathtakingly choreographed sword fights to moments of comedic relief, this dynamic duo never fails to entertain. Join Lady Ran and Lady Meow as they navigate the complexities of feudal Japan, one adventure at a time.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7e75585f9d85904a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.884747415849456,
+    "arithmeticGeometricMean": 6.877395597339327,
+    "median": 7.090909090909091,
+    "hash": "7e75585f9d85904a",
+    "lastUpdate": "2024-05-09"
+  }
+}

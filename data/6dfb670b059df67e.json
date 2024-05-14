@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/153982",
+    "https://anime-planet.com/anime/ado-the-worlds-continuation",
+    "https://anisearch.com/anime/17619",
+    "https://kitsu.io/anime/46388",
+    "https://myanimelist.net/anime/52873"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6dfb670b059df67e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.402883858998145,
+    "arithmeticGeometricMean": 7.396144635840269,
+    "median": 7.27,
+    "hash": "6dfb670b059df67e",
+    "lastUpdate": "2024-05-07"
+  }
+}

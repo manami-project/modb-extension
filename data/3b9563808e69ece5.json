@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8051",
+    "https://anilist.co/anime/10348",
+    "https://anime-planet.com/anime/fireball-charming",
+    "https://anisearch.com/anime/6451",
+    "https://kitsu.io/anime/6139",
+    "https://livechart.me/anime/1520",
+    "https://myanimelist.net/anime/10348",
+    "https://notify.moe/anime/0PunpKiiR"
+  ],
+  "synopsis": {
+    "text": "Gedächtnis, a colossal cyclopian arachnoid, and Drossel von Flügel, an eccentric gynoid duchess, inhabit a sprawling mansion in the distant future of the Merkur Era, calendar year 48,234 to 48,426. As they eagerly await the arrival of 'Charming Mankind', a stage of human evolution that transcends conflicts, they engage in a playful war with the very humans they anticipate.\n\nDrossel's late father's books, randomly produced by Gedächtnis, serve as their primary source of knowledge and entertainment. Despite the restrictions on leaving the mansion due to the complex relationship between robots and humans, the duo delve into a myriad of topics, including the significance of human words, the importance of etiquette and posture, and the art of predicting the future.\n\nTheir adventures lead them to encounter a human in a dream, converse with a puppet designed to mimic humans, and discover enigmatic servants named Zugzwang, hidden 42 levels beneath the mansion. Drossel, unaware of her memory loss function, practices a double axle on the mansion's circular track and hones her skills in horseback riding and baseball pitching at Mach 1.1.\n\nAs they navigate through life's curiosities, Gedächtnis strives to instill in Drossel the concept of 'Doing Everything in Restricted Perfection'. Amidst these whimsical insights and surprising birthday celebrations, the duo continues their quest for knowledge and self-discovery, all while pondering the return of the elusive Charming Mankind.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b9563808e69ece5",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.43703560385193,
+    "arithmeticGeometricMean": 6.426550844731624,
+    "median": 6.62,
+    "hash": "3b9563808e69ece5",
+    "lastUpdate": "2024-05-09"
+  }
+}

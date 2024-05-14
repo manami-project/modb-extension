@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2469",
+    "https://anilist.co/anime/3327",
+    "https://anime-planet.com/anime/giant-gorg",
+    "https://anisearch.com/anime/2028",
+    "https://kitsu.io/anime/2939",
+    "https://livechart.me/anime/6443",
+    "https://myanimelist.net/anime/3327",
+    "https://notify.moe/anime/TiowcFmmR"
+  ],
+  "synopsis": {
+    "text": "Facing the untold mysteries of Austral, a hidden island nestled deep within the South Pacific, a young boy named Yu Tagami embarks on a thrilling adventure. Drawn to the island by the enigmatic disappearance of its existence from official records, Yu and his companions, including Dr. Tom Waive, his daughter Doris, and the seasoned Captain Senchou, find themselves in a relentless pursuit of the island's secrets.\n\nAs they journey toward Austral, the formidable international conglomerate GAIL and the ruthless Cougar Connection, led by the notorious Lady Lynx, launch a series of treacherous attacks, determined to keep the island's enigmas concealed. Upon their arrival, the group encounters a terrifying monster, only to be saved by the sudden appearance of a colossal blue robot known as Giant Gorg.\n\nRegarded as a divine messenger by the island's inhabitants, Gorg's presence evokes in Yu a peculiar sense of warmth and familiarity. As they narrowly escape GAIL's relentless assault, Gorg leads Yu into the depths of the underworld, unveiling ancient alien relics and an extraterrestrial being awakening from a 30,000-year slumber.\n\nWith the powerful Gorg by his side, Yu must navigate the perilous landscape of Austral, unravel its hidden treasures, and uncover the truth behind the island's mysterious existence, all while evading the sinister forces that threaten their quest at every turn.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0f9c4b146841facb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.037587596077391,
+    "arithmeticGeometricMean": 7.030134472785867,
+    "median": 7.142,
+    "hash": "0f9c4b146841facb",
+    "lastUpdate": "2024-05-09"
+  }
+}

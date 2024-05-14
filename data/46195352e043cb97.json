@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7784",
+    "https://anilist.co/anime/17953",
+    "https://anime-planet.com/anime/hello-kitty-no-london-ni-orita-uchuujin",
+    "https://anisearch.com/anime/6408",
+    "https://kitsu.io/anime/9309",
+    "https://myanimelist.net/anime/17953",
+    "https://notify.moe/anime/pegBtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46195352e043cb97",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.371365491651206,
+    "arithmeticGeometricMean": 5.361266366039249,
+    "median": 5.0,
+    "hash": "46195352e043cb97",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10048",
+    "https://anilist.co/anime/19687",
+    "https://anime-planet.com/anime/kuiba-movie-2-dazhan-yuan-yang-jie",
+    "https://anisearch.com/anime/8320",
+    "https://kitsu.io/anime/8327",
+    "https://myanimelist.net/anime/19687",
+    "https://notify.moe/anime/hyXTtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b5185df791dd04f1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.985466914038342,
+    "arithmeticGeometricMean": 5.962765624633447,
+    "median": 6.143673469387755,
+    "hash": "b5185df791dd04f1",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11561",
+    "https://anilist.co/anime/99708",
+    "https://anime-planet.com/anime/duan-nao",
+    "https://anisearch.com/anime/11672",
+    "https://kitsu.io/anime/10146",
+    "https://livechart.me/anime/5444",
+    "https://myanimelist.net/anime/28673",
+    "https://notify.moe/anime/MNhspFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "474ccd6b74374cbd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.192886827458257,
+    "arithmeticGeometricMean": 6.18313656814162,
+    "median": 6.38,
+    "hash": "474ccd6b74374cbd",
+    "lastUpdate": "2024-05-09"
+  }
+}

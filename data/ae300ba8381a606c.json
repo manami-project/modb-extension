@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8139",
+    "https://anilist.co/anime/11069",
+    "https://anime-planet.com/anime/pokemon-pikachus-big-mysterious-adventure",
+    "https://anisearch.com/anime/6678",
+    "https://kitsu.io/anime/6451",
+    "https://livechart.me/anime/5933",
+    "https://myanimelist.net/anime/11069",
+    "https://notify.moe/anime/y04ItKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ae300ba8381a606c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.128962629207527,
+    "arithmeticGeometricMean": 6.120693596342712,
+    "median": 6.2,
+    "hash": "ae300ba8381a606c",
+    "lastUpdate": "2024-05-09"
+  }
+}

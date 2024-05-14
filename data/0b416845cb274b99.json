@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8661",
+    "https://anilist.co/anime/11809",
+    "https://anime-planet.com/anime/gdgd-fairies",
+    "https://anisearch.com/anime/7442",
+    "https://kitsu.io/anime/6607",
+    "https://livechart.me/anime/1186",
+    "https://myanimelist.net/anime/11809",
+    "https://notify.moe/anime/nJqItKmig"
+  ],
+  "synopsis": {
+    "text": "Korokoro, Pikupiku, and Shirushiru are three whimsical fairies who inhabit a magical forest, where they share a charming treehouse abode. With their limited magical abilities, they spend their days engaging in light-hearted conversations about everyday peculiarities, while sipping on tea. The fairies' favorite pastime is experimenting with their magical powers in the enchanted Mental and Time Room, as well as exploring the mysteries of other realms through the mystical Afure Lake. Join these delightful fairies in their amusing escapades, as they navigate through the oddities of life, conjure up extraordinary adventures, and share their contagious laughter in the captivating world of gdgd Fairies.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b416845cb274b99",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.744813676119798,
+    "arithmeticGeometricMean": 6.727709942539279,
+    "median": 6.81,
+    "hash": "0b416845cb274b99",
+    "lastUpdate": "2024-05-09"
+  }
+}

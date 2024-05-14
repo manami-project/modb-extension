@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17955",
+    "https://anilist.co/anime/163147",
+    "https://anime-planet.com/anime/blue-lock-movie-episode-nagi",
+    "https://anisearch.com/anime/18316",
+    "https://kitsu.io/anime/47244",
+    "https://livechart.me/anime/11912",
+    "https://myanimelist.net/anime/54866",
+    "https://notify.moe/anime/rsoKZxB4g"
+  ],
+  "synopsis": {
+    "text": "Reo's discovery of second-year high school student Seishiro Nagi's extraordinary soccer talent disrupts Nagi's mundane life of video games and sleep. Despite Nagi's initial reluctance, the two form a formidable partnership, vowing to conquer the football world together. Their journey takes a significant turn when they receive an invitation to participate in the prestigious Blue Lock project, funded by the Japanese Football Association. Facing fierce competition from other talented players like Yoichi Isagi and Rin Itoshi, Nagi and Reo must navigate through pre-selections to secure their place in the project. As Nagi delves deeper into the world of soccer, his life transforms from monotonous to exhilarating, and his potential to become the best striker in the world becomes more tangible. Will Nagi and Reo's promise to each other lead them to victory in the Blue Lock project and beyond? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7343e8ecccded29e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.6252121212121216,
+    "arithmeticGeometricMean": 7.612756843967073,
+    "median": 7.652,
+    "hash": "7343e8ecccded29e",
+    "lastUpdate": "2024-05-09"
+  }
+}

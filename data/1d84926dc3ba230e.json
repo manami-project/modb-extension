@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7146",
+    "https://anime-planet.com/anime/sekai-meisaku-gekijou-kanketsu-ban-alps-monogatari-watashi-no-annette",
+    "https://anisearch.com/anime/6131",
+    "https://kitsu.io/anime/8956",
+    "https://myanimelist.net/anime/24647",
+    "https://notify.moe/anime/L2YbpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d84926dc3ba230e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.88654081632653,
+    "arithmeticGeometricMean": 5.8611452800706525,
+    "median": 5.73408163265306,
+    "hash": "1d84926dc3ba230e",
+    "lastUpdate": "2024-05-08"
+  }
+}

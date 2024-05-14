@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5306",
+    "https://anilist.co/anime/16788",
+    "https://anime-planet.com/anime/sengoku-bushou-retsuden-bakufuu-douji-hissatsuman",
+    "https://anisearch.com/anime/4003",
+    "https://kitsu.io/anime/7518",
+    "https://myanimelist.net/anime/16788",
+    "https://notify.moe/anime/LGGcpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0d4a067e74b1d319",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.123659369202226,
+    "arithmeticGeometricMean": 5.074495982126099,
+    "median": 4.26938775510204,
+    "hash": "0d4a067e74b1d319",
+    "lastUpdate": "2024-05-07"
+  }
+}

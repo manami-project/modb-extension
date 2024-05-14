@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8190",
+    "https://anilist.co/anime/19729",
+    "https://anime-planet.com/anime/naniwa-yuukyouden-nekketsu-bakushou-mankai-hen",
+    "https://anisearch.com/anime/11379",
+    "https://kitsu.io/anime/9482",
+    "https://myanimelist.net/anime/19729",
+    "https://notify.moe/anime/KmEBpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d12804b11898bcf3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.502782931354361,
+    "arithmeticGeometricMean": 5.487758211481631,
+    "median": 5.181818181818182,
+    "hash": "d12804b11898bcf3",
+    "lastUpdate": "2024-05-08"
+  }
+}

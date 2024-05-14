@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17144",
+    "https://anilist.co/anime/144770",
+    "https://anime-planet.com/anime/bloody-escape-jigoku-no-tousou-geki",
+    "https://anisearch.com/anime/17060",
+    "https://kitsu.io/anime/47530",
+    "https://livechart.me/anime/11892",
+    "https://myanimelist.net/anime/54793",
+    "https://notify.moe/anime/cfgXFcfVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7dbcb83bd1178f1b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.925,
+    "arithmeticGeometricMean": 6.924796923963986,
+    "median": 6.925,
+    "hash": "7dbcb83bd1178f1b",
+    "lastUpdate": "2024-05-09"
+  }
+}

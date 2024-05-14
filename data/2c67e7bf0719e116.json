@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1224",
+    "https://anilist.co/anime/602",
+    "https://anime-planet.com/anime/ko-beast",
+    "https://anisearch.com/anime/1896",
+    "https://kitsu.io/anime/557",
+    "https://livechart.me/anime/12078",
+    "https://myanimelist.net/anime/602",
+    "https://notify.moe/anime/srrT5KmmR"
+  ],
+  "synopsis": {
+    "text": "Gaia, the legendary treasure, is the object of desire for both humans and Beasts in a distant, divided future. After an ancient catastrophe, Earth was split in two, leaving the northern hemisphere populated by shape-shifting Beasts, while the southern hemisphere was cast into another dimension, inhabited by humans. As the humans, led by the ruthless Uranus, return to claim the northern hemisphere, a battle for survival and treasure ensues.\n\nThree powerful Beasts - Wan Derbard of the Tiger Tribe, Bud Mint of the Bird Tribe, and Mei Mer of the Mermaid Tribe - find themselves imprisoned by Uranus' minions. With the help of a young girl named Yuuni Charm Password, the granddaughter of the human Dr. Password, they manage to escape. Together with Tuttle Millen, a companion from the Mermaid Tribe, they embark on a quest to find Gaia, pursued relentlessly by their human adversaries, including the vicious mage-knight V-Darn and the warrior woman V-Sion.\n\nAs the two factions race to uncover the treasure, the Beasts must overcome their differences and work together, guided by the mysterious Jinns, their clan totems. With the future of their world hanging in the balance, the Beasts and humans are locked in a desperate struggle to claim Gaia and secure their survival. The question remains: who will find the treasure first?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2c67e7bf0719e116",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0813803339517625,
+    "arithmeticGeometricMean": 6.01184796754089,
+    "median": 6.363636363636363,
+    "hash": "2c67e7bf0719e116",
+    "lastUpdate": "2024-05-09"
+  }
+}

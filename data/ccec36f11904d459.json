@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://kitsu.io/anime/40838",
+    "https://livechart.me/anime/5688",
+    "https://myanimelist.net/anime/35774",
+    "https://notify.moe/anime/ltvOhFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ccec36f11904d459",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.605,
+    "arithmeticGeometricMean": 6.604582669537962,
+    "median": 6.605,
+    "hash": "ccec36f11904d459",
+    "lastUpdate": "2024-05-10"
+  }
+}

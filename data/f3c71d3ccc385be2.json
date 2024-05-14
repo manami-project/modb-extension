@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7548",
+    "https://anilist.co/anime/10059",
+    "https://anime-planet.com/anime/sore-ike-anpanman-tsumiki-shiro-no-himitsu",
+    "https://anisearch.com/anime/6246",
+    "https://kitsu.io/anime/6016",
+    "https://livechart.me/anime/11421",
+    "https://myanimelist.net/anime/10059",
+    "https://notify.moe/anime/zRv7pKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3c71d3ccc385be2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.8996747062461345,
+    "arithmeticGeometricMean": 5.863430222912295,
+    "median": 6.048636363636364,
+    "hash": "f3c71d3ccc385be2",
+    "lastUpdate": "2024-05-10"
+  }
+}

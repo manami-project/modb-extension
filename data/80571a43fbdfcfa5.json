@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10919",
+    "https://anilist.co/anime/21007",
+    "https://anime-planet.com/anime/wolf-girl-and-black-prince-ova",
+    "https://anisearch.com/anime/10108",
+    "https://kitsu.io/anime/10066",
+    "https://livechart.me/anime/1288",
+    "https://myanimelist.net/anime/28299",
+    "https://notify.moe/anime/auzypKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80571a43fbdfcfa5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.276135081305249,
+    "arithmeticGeometricMean": 7.272901352905653,
+    "median": 7.287551020408163,
+    "hash": "80571a43fbdfcfa5",
+    "lastUpdate": "2024-05-09"
+  }
+}

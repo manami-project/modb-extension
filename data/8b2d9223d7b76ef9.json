@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9839",
+    "https://anilist.co/anime/116050",
+    "https://anime-planet.com/anime/nanami-chan-6th-series",
+    "https://anisearch.com/anime/8947",
+    "https://kitsu.io/anime/42577",
+    "https://myanimelist.net/anime/40408"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b2d9223d7b76ef9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.931354359925788,
+    "arithmeticGeometricMean": 4.919794941035156,
+    "median": 4.931354359925788,
+    "hash": "8b2d9223d7b76ef9",
+    "lastUpdate": "2024-05-08"
+  }
+}

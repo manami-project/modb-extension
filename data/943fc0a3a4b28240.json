@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1161",
+    "https://anilist.co/anime/2048",
+    "https://anime-planet.com/anime/armor-hunter-mellowlink",
+    "https://anisearch.com/anime/723",
+    "https://kitsu.io/anime/1847",
+    "https://livechart.me/anime/8452",
+    "https://myanimelist.net/anime/2048",
+    "https://notify.moe/anime/DXAL5Kimg"
+  ],
+  "synopsis": {
+    "text": "Hunter Mellowlink Arity, the lone survivor of a squadron betrayed and sacrificed during the Great War, embarks on a mission fueled by vengeance. Armed with an antiquated AT rifle and carrying the dog tags of his fallen comrades, he vows to track down and punish the corrupt officers responsible for their demise. In a world still scarred by war, Mellowlink uses his unique ability as an Armor Hunter, taking down enemy mecha single-handedly with his formidable armor-piercing weapon and trusty combat knife. As he journeys deeper into his quest for justice, he may also uncover the hidden truth behind the betrayal that cost his comrades their lives.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "943fc0a3a4b28240",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.8223222899549425,
+    "arithmeticGeometricMean": 6.808510437907206,
+    "median": 7.178,
+    "hash": "943fc0a3a4b28240",
+    "lastUpdate": "2024-05-09"
+  }
+}

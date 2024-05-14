@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15268",
+    "https://anilist.co/anime/113472",
+    "https://anime-planet.com/anime/youkai-gakuen-y-n-to-no-souguu",
+    "https://anisearch.com/anime/14925",
+    "https://kitsu.io/anime/42928",
+    "https://livechart.me/anime/9674",
+    "https://myanimelist.net/anime/40714",
+    "https://notify.moe/anime/xrAgka8Mg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d0c613b05600a032",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.433651948051948,
+    "arithmeticGeometricMean": 6.420238887382024,
+    "median": 6.35,
+    "hash": "d0c613b05600a032",
+    "lastUpdate": "2024-05-10"
+  }
+}

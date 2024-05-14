@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11131",
+    "https://anilist.co/anime/149037",
+    "https://anime-planet.com/anime/yuuyake-dandan",
+    "https://anisearch.com/anime/10488",
+    "https://kitsu.io/anime/10749",
+    "https://livechart.me/anime/1440",
+    "https://myanimelist.net/anime/30309",
+    "https://notify.moe/anime/eJ9QtKmmR"
+  ],
+  "synopsis": {
+    "text": "Edo dialect and a sprinkle of foul language, a mysterious cat named Kotobuki engages in peculiar conversations with a high school girl named Nanami. Set on a nostalgic stairway called 'Yuyake Dandan' near Tokyo's JR Nippori station, the two enjoy the sunset while exploring various topics. Kotobuki, possessing vast knowledge in certain areas, lives in his own world, leaving Nanami sometimes puzzled but always intrigued. With her varied interests and growing curiosity, Nanami continues to spend time with Kotobuki, forming a heartwarming yet sharp-tongued relationship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2281a55238586c67",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.217195547309832,
+    "arithmeticGeometricMean": 5.162461931162403,
+    "median": 4.489795918367346,
+    "hash": "2281a55238586c67",
+    "lastUpdate": "2024-05-10"
+  }
+}

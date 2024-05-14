@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9685",
+    "https://anilist.co/anime/1074",
+    "https://anime-planet.com/anime/naruto-narutimate-hero-3-ova",
+    "https://anisearch.com/anime/3647",
+    "https://kitsu.io/anime/960",
+    "https://livechart.me/anime/4126",
+    "https://myanimelist.net/anime/1074",
+    "https://notify.moe/anime/j5U15Fmmg"
+  ],
+  "synopsis": {
+    "text": "Godaime, the Fifth Hokage of Konohagakure, has organized an exciting tournament called Jonin vs Genin, where ninjas of all ranks participate to collect crystals and prove their mettle. The competition is fierce, with the higher-ranked Chunin and Jonin holding red crystals worth more points, while the Genin possess blue crystals. The tournament is also a chance for the winner to create their own village decree, making it a highly coveted prize.\n\nAs the battles commence, the Jonin are caught off guard, losing their crystals to the Genin in unexpected ways. The tournament becomes a free-for-all, with ninjas fighting each other to the best of their abilities, turning the village into a battlefield. Among the participants, Naruto Uzumaki is brimming with enthusiasm, eager to face his teacher, Kakashi Hatake, in single combat. However, he loses focus on the game's objective, becoming obsessed with his personal goal.\n\nWhile some ninjas take the tournament seriously, others take it as an opportunity to relax and enjoy themselves. After all, a silly tournament is no reason to miss an afternoon nap or a bowl of ramen. As the preliminaries continue, the question remains: who will collect enough crystals to advance to the main tournament? The competition also provides hints for the RPG mode of a game, adding an extra layer of excitement for the participants and spectators alike.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81b7a2de3a1dc913",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.569965445269016,
+    "arithmeticGeometricMean": 6.555122609094926,
+    "median": 6.770681818181819,
+    "hash": "81b7a2de3a1dc913",
+    "lastUpdate": "2024-05-09"
+  }
+}

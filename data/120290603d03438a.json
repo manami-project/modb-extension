@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11535",
+    "https://anilist.co/anime/105960",
+    "https://anime-planet.com/anime/hatsune-miku-x-tetsuya-nomura",
+    "https://anisearch.com/anime/10150",
+    "https://kitsu.io/anime/10041",
+    "https://myanimelist.net/anime/28439",
+    "https://notify.moe/anime/NYCEpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "120290603d03438a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.515524251258946,
+    "arithmeticGeometricMean": 5.504779034969333,
+    "median": 5.625,
+    "hash": "120290603d03438a",
+    "lastUpdate": "2024-05-08"
+  }
+}

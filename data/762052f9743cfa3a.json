@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10012",
+    "https://anilist.co/anime/19951",
+    "https://anime-planet.com/anime/hunter-x-hunter-the-last-mission",
+    "https://anisearch.com/anime/8929",
+    "https://kitsu.io/anime/7908",
+    "https://livechart.me/anime/198",
+    "https://myanimelist.net/anime/19951",
+    "https://notify.moe/anime/fKk2tKmmR"
+  ],
+  "synopsis": {
+    "text": "Association's most formidable Hunters were divided into two factions, one bathed in light, the other shrouded in darkness. As the dark faction rises with a chilling intent to annihilate all Hunters, Gon finds himself in the midst of a grim revelation surrounding Netero and the Hunter Association's past transgressions.\n\nAt Heaven's Arena, the Battle Olympia tournament is set to commence, attracting esteemed Hunters and VIPs, including Gon, Killua, Kurapika, and Leorio. The festive atmosphere is shattered when The Shadow orchestrates a ruthless raid, harnessing a sinister ability called On, a power birthed from malevolence and the ominous counterpart of Nen. As skilled fighters succumb, Jed, their leader, seizes Netero and vows retribution against all Hunters. With the stakes higher than ever, Gon and Killua leap into action, but will their combined might be enough to thwart Jed's vengeful crusade?\n\nNen, an invisible force flowing within everyone, holds the key to unimaginable power when mastered. It is the Hunter Association's duty to regulate this energy, with Hunters pursuing their own ambitions fueled by Nen's capabilities. Isaac Netero, the Association's most powerful chairman, had once sealed away Jed, a malevolent Hunter who had harnessed On, the darker aspect of Nen. Now, as On users resurface during Heaven's Arena's Battle Olympia, Netero faces his final mission: to safeguard the Association and the world from a threat fueled by vengeance and hatred. To succeed, he must rally all the assistance he can muster.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "762052f9743cfa3a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.267495673858769,
+    "arithmeticGeometricMean": 7.262499744570454,
+    "median": 7.281363636363636,
+    "hash": "762052f9743cfa3a",
+    "lastUpdate": "2024-05-09"
+  }
+}

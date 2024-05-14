@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7477",
+    "https://anilist.co/anime/8449",
+    "https://anime-planet.com/anime/togainu-no-chi",
+    "https://anisearch.com/anime/6184",
+    "https://kitsu.io/anime/5339",
+    "https://livechart.me/anime/4248",
+    "https://myanimelist.net/anime/8449",
+    "https://notify.moe/anime/bLpitFiig"
+  ],
+  "synopsis": {
+    "text": "This anime is set in a dystopian Japan that has been ravaged by a third World War and subsequently divided. The once vibrant city of Tokyo, now known as Toshima, is under the iron grip of a ruthless crime syndicate called Vischio. In this lawless city, a brutal battle game called 'Igura' is held, where contestants fight to the death for a chance to challenge the reigning king, Il Rey.\n\nEnter Akira, a young man estranged from his family and a formidable champion in a different fighting game, Bl@ster. His life takes a dramatic turn when he is falsely accused of murder. With no way to prove his innocence, Akira is left with a single option: participate in Igura and defeat Il Rey in exchange for his freedom.\n\nAs Akira navigates the treacherous streets of Toshima, he must not only survive the deadly Igura but also unravel the mysteries that surround him. Alongside his trusted friend Keisuke and seasoned Igura fighter Rin, Akira embarks on a perilous journey to clear his name, uncover the truth, and bring down the drug company Vischio. Will he emerge victorious and regain his freedom, or will he become another casualty of Toshima's brutal underworld? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0f8e2983a9ecb726",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.141110784717927,
+    "arithmeticGeometricMean": 6.1268845480879754,
+    "median": 6.186999999999999,
+    "hash": "0f8e2983a9ecb726",
+    "lastUpdate": "2024-05-10"
+  }
+}

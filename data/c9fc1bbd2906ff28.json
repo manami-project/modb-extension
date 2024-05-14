@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11538",
+    "https://anime-planet.com/anime/ano-hi-bokura-wa-senjou-de-shounenhei-no-kokuhaku",
+    "https://anisearch.com/anime/11041",
+    "https://kitsu.io/anime/11693",
+    "https://livechart.me/anime/1793",
+    "https://myanimelist.net/anime/31563",
+    "https://notify.moe/anime/vkH3tFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c9fc1bbd2906ff28",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.959624489795918,
+    "arithmeticGeometricMean": 5.93583653613264,
+    "median": 5.36,
+    "hash": "c9fc1bbd2906ff28",
+    "lastUpdate": "2024-05-08"
+  }
+}

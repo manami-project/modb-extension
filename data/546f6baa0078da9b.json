@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14381",
+    "https://anilist.co/anime/104071",
+    "https://anime-planet.com/anime/million-arthur-2nd-season",
+    "https://anisearch.com/anime/13864",
+    "https://kitsu.io/anime/42039",
+    "https://livechart.me/anime/3500",
+    "https://myanimelist.net/anime/38268",
+    "https://notify.moe/anime/voOASQsiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "546f6baa0078da9b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.318970315398886,
+    "arithmeticGeometricMean": 6.3017359079817625,
+    "median": 6.36,
+    "hash": "546f6baa0078da9b",
+    "lastUpdate": "2024-05-09"
+  }
+}

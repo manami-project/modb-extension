@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3340",
+    "https://anilist.co/anime/473",
+    "https://anime-planet.com/anime/tide-line-blue",
+    "https://anisearch.com/anime/2943",
+    "https://kitsu.io/anime/435",
+    "https://livechart.me/anime/8201",
+    "https://myanimelist.net/anime/473",
+    "https://notify.moe/anime/rWDTcKimg"
+  ],
+  "synopsis": {
+    "text": "Because of a catastrophic event known as the \"Hammer of Eden,\" the world was submerged underwater, resulting in the loss of six billion lives and 90% of the land. Fourteen years later, the remaining nations formed a new United Nations in the hopes of achieving peace. In the city of Yabitsu, orphaned siblings Keel and Isla, along with Isla's baby, find themselves caught in the middle of a conflict between the UN Secretary-General Aoi, who believes in diplomacy, and a rogue military officer named Gould, who commands a high-tech nuclear submarine and seeks to use military force to establish order. As Aoi works to create a new world where people can overcome their differences, Gould stages a coup and attacks Yabitsu. Can Keel and Isla escape the chaos and find safety for themselves and the baby? The fate of the world hangs in the balance as the twins are separated and must navigate the conflicting ideologies of Aoi and Gould, ultimately questioning whether war is the only path to peace or if humanity can learn to set aside their differences and negotiate.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4aef3c3b9962ea22",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.711015284035693,
+    "arithmeticGeometricMean": 6.706440072669515,
+    "median": 6.69,
+    "hash": "4aef3c3b9962ea22",
+    "lastUpdate": "2024-05-10"
+  }
+}

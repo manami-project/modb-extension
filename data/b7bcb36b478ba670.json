@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14072",
+    "https://anilist.co/anime/118124",
+    "https://anime-planet.com/anime/destiny-child",
+    "https://anisearch.com/anime/13680",
+    "https://kitsu.io/anime/43246",
+    "https://myanimelist.net/anime/41480",
+    "https://notify.moe/anime/s0efdWNMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b7bcb36b478ba670",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.445913213770357,
+    "arithmeticGeometricMean": 5.442710036583509,
+    "median": 5.583181818181819,
+    "hash": "b7bcb36b478ba670",
+    "lastUpdate": "2024-05-08"
+  }
+}

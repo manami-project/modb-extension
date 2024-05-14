@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/218",
+    "https://anilist.co/anime/420",
+    "https://anime-planet.com/anime/spriggan",
+    "https://anisearch.com/anime/701",
+    "https://kitsu.io/anime/384",
+    "https://livechart.me/anime/5799",
+    "https://myanimelist.net/anime/420",
+    "https://notify.moe/anime/38RT5KmiR"
+  ],
+  "synopsis": {
+    "text": "Following the discovery of an ancient artifact believed to be Noah's Ark in the Ararat Mountains of Turkey, a clandestine organization called ARCAM races against time to protect it from falling into the wrong hands. The U.S. Machine Corps, a rogue division of the Pentagon, is hell-bent on seizing the Ark to establish global dominance. As the two factions clash, ARCAM deploys its elite operatives, known as Spriggans, to thwart the Machines Corps' plans.\n\nAt the forefront of this battle are two skilled Spriggans: Yu Ominae, a Japanese high school student, and Jean-Jacques Mondo, a Frenchman. Together, they must confront the Machines Corps' formidable forces, including Colonel MacDougall, a genetically-enhanced child possessing deadly psychic abilities. As the conflict escalates, Yu and Jean-Jacques face seemingly insurmountable odds to prevent MacDougall from exploiting the Ark's mysterious power, which could spell doom for humanity. In this high-stakes war, the fate of the world rests in the hands of these brave Spriggans.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "358c0a4213831ca6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.746426419810349,
+    "arithmeticGeometricMean": 6.7406511218372325,
+    "median": 6.718636363636364,
+    "hash": "358c0a4213831ca6",
+    "lastUpdate": "2024-05-10"
+  }
+}

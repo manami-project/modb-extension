@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8368",
+    "https://anilist.co/anime/8631",
+    "https://anime-planet.com/anime/yanyan-machiko",
+    "https://anisearch.com/anime/7009",
+    "https://kitsu.io/anime/5408",
+    "https://myanimelist.net/anime/8631",
+    "https://notify.moe/anime/0LymtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "348557df0583a3e3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.27660544217687,
+    "arithmeticGeometricMean": 5.268434890969749,
+    "median": 5.345000000000001,
+    "hash": "348557df0583a3e3",
+    "lastUpdate": "2024-05-07"
+  }
+}

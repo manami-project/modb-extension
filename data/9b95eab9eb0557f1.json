@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8165",
+    "https://anilist.co/anime/8894",
+    "https://anime-planet.com/anime/yumeiro-patissiere-mune-kyun-tropical-island",
+    "https://anisearch.com/anime/6912",
+    "https://kitsu.io/anime/5522",
+    "https://livechart.me/anime/7247",
+    "https://myanimelist.net/anime/8894",
+    "https://notify.moe/anime/zuVZtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b95eab9eb0557f1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.608046647230322,
+    "arithmeticGeometricMean": 6.589821492813598,
+    "median": 6.818181818181818,
+    "hash": "9b95eab9eb0557f1",
+    "lastUpdate": "2024-05-10"
+  }
+}

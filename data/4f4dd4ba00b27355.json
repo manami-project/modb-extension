@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8105",
+    "https://anilist.co/anime/9200",
+    "https://anime-planet.com/anime/jang-geum-ieui-kkum-2",
+    "https://anisearch.com/anime/6787",
+    "https://kitsu.io/anime/5627",
+    "https://livechart.me/anime/8643",
+    "https://myanimelist.net/anime/9200",
+    "https://notify.moe/anime/EsLWtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4f4dd4ba00b27355",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.522264069264069,
+    "arithmeticGeometricMean": 6.502069865850779,
+    "median": 6.5964285714285715,
+    "hash": "4f4dd4ba00b27355",
+    "lastUpdate": "2024-05-09"
+  }
+}

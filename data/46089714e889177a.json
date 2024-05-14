@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2430",
+    "https://anilist.co/anime/76",
+    "https://anime-planet.com/anime/magical-girl-lyrical-nanoha",
+    "https://anisearch.com/anime/2654",
+    "https://kitsu.io/anime/56",
+    "https://livechart.me/anime/3926",
+    "https://myanimelist.net/anime/76",
+    "https://notify.moe/anime/j45tcFmmg"
+  ],
+  "synopsis": {
+    "text": "In the realm of the ordinary, Nanoha Takamachi, a third-grade student, finds her life taking an extraordinary turn when she stumbles upon an injured ferret named Yuuno. Yuuno, however, is no ordinary ferret; he is a young archaeologist hailing from another world, who has accidentally scattered powerful artifacts known as Jewel Seeds across Earth. To protect her world from the potential chaos these artifacts can cause, Nanoha is entrusted with a magical wand, Raising Heart, and is tasked with collecting the Jewel Seeds.\n\nHowever, Nanoha's mission is not without its challenges. She must balance her everyday life as a student with her secret life as a magical girl, all while keeping her newfound powers a secret from her family and friends. Moreover, she is not the only one in pursuit of the Jewel Seeds. A rival magical girl, Fate Testarossa, also seeks to collect the Seeds, though her intentions remain shrouded in mystery.\n\nAs Nanoha embarks on this thrilling adventure, she must navigate the complexities of friendship, rivalry, and the responsibility that comes with her newfound powers. With each Jewel Seed she collects, she moves one step closer to understanding the true purpose behind her mission and the enigmatic Fate. Will Nanoha be able to protect her world and uncover the truth behind the Jewel Seeds? Only time will tell in this magical journey of courage, friendship, and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46089714e889177a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.379228680907253,
+    "arithmeticGeometricMean": 7.377696900277958,
+    "median": 7.388999999999999,
+    "hash": "46089714e889177a",
+    "lastUpdate": "2024-05-09"
+  }
+}

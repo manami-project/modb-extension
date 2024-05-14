@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13462",
+    "https://anilist.co/anime/103968",
+    "https://anime-planet.com/anime/zhu-zhu-xia-movie-1-jiong-jiong-wei-ji",
+    "https://anisearch.com/anime/13278",
+    "https://myanimelist.net/anime/38132"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a1513e263877a0b9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.945021645021645,
+    "arithmeticGeometricMean": 4.849707718684088,
+    "median": 4.363636363636363,
+    "hash": "a1513e263877a0b9",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1591",
+    "https://anilist.co/anime/1355",
+    "https://anime-planet.com/anime/makyuu-senjou",
+    "https://anisearch.com/anime/3267",
+    "https://kitsu.io/anime/1209",
+    "https://myanimelist.net/anime/1355",
+    "https://notify.moe/anime/ZhXxcFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c008d8bf2952b88a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0621330506228475,
+    "arithmeticGeometricMean": 5.0420930991290405,
+    "median": 4.94,
+    "hash": "c008d8bf2952b88a",
+    "lastUpdate": "2024-05-07"
+  }
+}

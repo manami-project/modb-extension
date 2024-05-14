@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10957",
+    "https://anilist.co/anime/21253",
+    "https://anime-planet.com/anime/isuca-gokuraku",
+    "https://anisearch.com/anime/10083",
+    "https://kitsu.io/anime/10055",
+    "https://livechart.me/anime/1313",
+    "https://myanimelist.net/anime/28713",
+    "https://notify.moe/anime/IdRspKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "76aa957457e3fe81",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.360588744588745,
+    "arithmeticGeometricMean": 6.350372872290337,
+    "median": 6.165454545454546,
+    "hash": "76aa957457e3fe81",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17450",
+    "https://anilist.co/anime/150697",
+    "https://anime-planet.com/anime/obey-me-season-2",
+    "https://anisearch.com/anime/17465",
+    "https://kitsu.io/anime/46177",
+    "https://livechart.me/anime/11249",
+    "https://myanimelist.net/anime/52045",
+    "https://notify.moe/anime/BbU4YKCng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5deb28b2d090cc6c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.973579777365492,
+    "arithmeticGeometricMean": 6.956921702739826,
+    "median": 7.130909090909091,
+    "hash": "5deb28b2d090cc6c",
+    "lastUpdate": "2024-05-09"
+  }
+}

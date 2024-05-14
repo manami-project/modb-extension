@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16368",
+    "https://anime-planet.com/anime/sound-holic-x-buster",
+    "https://anisearch.com/anime/16375",
+    "https://kitsu.io/anime/9931",
+    "https://notify.moe/anime/SlKPpKmmR"
+  ],
+  "synopsis": {
+    "text": "Sound Holic's music video, X-Buster, is a captivating tribute to the iconic Mega Man franchise on its 25th anniversary. As the trailer for the CD Rockman Holic The 25th Anniversary, the video features the second song from the album ROCKMAN HOLIC, performed by the talented team.ROCKMAN HOLIC. This thrilling music video not only celebrates the enduring legacy of Mega Man but also showcases the unique sound and style of Sound Holic, making it a must-watch for fans of the franchise and music enthusiasts alike.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b9cf4fcaf9e8e2a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.599605442176871,
+    "arithmeticGeometricMean": 5.5713828544839545,
+    "median": 5.040816326530611,
+    "hash": "5b9cf4fcaf9e8e2a",
+    "lastUpdate": "2024-05-08"
+  }
+}

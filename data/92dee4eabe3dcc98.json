@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13873",
+    "https://anilist.co/anime/115007",
+    "https://anime-planet.com/anime/kekkeroke",
+    "https://anisearch.com/anime/13437",
+    "https://kitsu.io/anime/41168",
+    "https://myanimelist.net/anime/37359",
+    "https://notify.moe/anime/_kaMIxmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92dee4eabe3dcc98",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.685328385899815,
+    "arithmeticGeometricMean": 5.5628474604881575,
+    "median": 6.326530612244898,
+    "hash": "92dee4eabe3dcc98",
+    "lastUpdate": "2024-05-08"
+  }
+}

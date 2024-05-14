@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14007",
+    "https://anilist.co/anime/119873",
+    "https://anime-planet.com/anime/ultrasonico",
+    "https://anisearch.com/anime/13413",
+    "https://kitsu.io/anime/13645",
+    "https://livechart.me/anime/7976",
+    "https://myanimelist.net/anime/35329",
+    "https://notify.moe/anime/mcLVhFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a41816926bb45df6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.057777365491652,
+    "arithmeticGeometricMean": 5.03977410444379,
+    "median": 4.985714285714286,
+    "hash": "a41816926bb45df6",
+    "lastUpdate": "2024-05-10"
+  }
+}

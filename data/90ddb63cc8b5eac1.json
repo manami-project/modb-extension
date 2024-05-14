@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10426",
+    "https://anilist.co/anime/20618",
+    "https://anime-planet.com/anime/broken-blade-tv",
+    "https://anisearch.com/anime/9422",
+    "https://kitsu.io/anime/8281",
+    "https://livechart.me/anime/426",
+    "https://myanimelist.net/anime/22433",
+    "https://notify.moe/anime/BUYTtKmiR"
+  ],
+  "synopsis": {
+    "text": "Years after being ostracized as an 'un-sorcerer' in a world where people wield the magical power to control quartz and manipulate colossal mechas called Golems, Rygart Arrow receives a royal summons from his childhood friend, now King Hodr of Krisna. As war looms between Krisna and the Athens Commonwealth, led by Rygart's estranged friend Zess, an ancient Golem is discovered that defies activation by magic users. In a twist of fate, Rygart's unique inability to control quartz allows him to pilot this enigmatic war machine, which could be the turning point in the impending conflict. Reunited with old friends and thrust into the heart of a battle for his homeland, Rygart must navigate the complexities of war and confront the unyielding forces of the Athenian army in this captivating tale of loyalty, friendship, and redemption.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "90ddb63cc8b5eac1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.244539991754277,
+    "arithmeticGeometricMean": 7.242375612149101,
+    "median": 7.302551020408163,
+    "hash": "90ddb63cc8b5eac1",
+    "lastUpdate": "2024-05-09"
+  }
+}

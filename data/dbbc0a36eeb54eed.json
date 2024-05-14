@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103344",
+    "https://anime-planet.com/anime/usatalk",
+    "https://kitsu.io/anime/13820",
+    "https://myanimelist.net/anime/36280",
+    "https://notify.moe/anime/_rcI2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dbbc0a36eeb54eed",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.709490909090908,
+    "arithmeticGeometricMean": 4.663050980624962,
+    "median": 3.96,
+    "hash": "dbbc0a36eeb54eed",
+    "lastUpdate": "2024-05-07"
+  }
+}

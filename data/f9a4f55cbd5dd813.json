@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14271",
+    "https://anilist.co/anime/117792",
+    "https://anime-planet.com/anime/mako-chan-no-koutsuu-anzen",
+    "https://anisearch.com/anime/11445",
+    "https://kitsu.io/anime/11718",
+    "https://myanimelist.net/anime/32224",
+    "https://notify.moe/anime/pdO3tKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f9a4f55cbd5dd813",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.128403525046382,
+    "arithmeticGeometricMean": 5.081226029186856,
+    "median": 4.744897959183673,
+    "hash": "f9a4f55cbd5dd813",
+    "lastUpdate": "2024-05-08"
+  }
+}

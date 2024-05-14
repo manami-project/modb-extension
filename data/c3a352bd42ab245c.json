@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4725",
+    "https://anilist.co/anime/17669",
+    "https://anime-planet.com/anime/kunimatsu-sama-no-otoridai",
+    "https://anisearch.com/anime/3856",
+    "https://kitsu.io/anime/9410",
+    "https://livechart.me/anime/11928",
+    "https://myanimelist.net/anime/17669",
+    "https://notify.moe/anime/YDtBpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c3a352bd42ab245c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.908300556586272,
+    "arithmeticGeometricMean": 5.881971138523733,
+    "median": 6.0269016697588125,
+    "hash": "c3a352bd42ab245c",
+    "lastUpdate": "2024-05-09"
+  }
+}

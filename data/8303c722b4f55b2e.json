@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4758",
+    "https://anime-planet.com/anime/mobile-suit-gundam-seed-destiny-special-edition-iii-the-hell-fire-of-destiny"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8303c722b4f55b2e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.183,
+    "arithmeticGeometricMean": 7.1824733959860625,
+    "median": 7.183,
+    "hash": "8303c722b4f55b2e",
+    "lastUpdate": "2024-05-08"
+  }
+}

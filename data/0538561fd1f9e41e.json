@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12089",
+    "https://anilist.co/anime/21788",
+    "https://anime-planet.com/anime/napping-princess",
+    "https://anisearch.com/anime/11409",
+    "https://kitsu.io/anime/12063",
+    "https://livechart.me/anime/2164",
+    "https://myanimelist.net/anime/33204",
+    "https://notify.moe/anime/DmuetFmmg"
+  ],
+  "synopsis": {
+    "text": "Recently, Kokone Morikawa, an ordinary high school student, has been experiencing an unusual napping condition that blurs the lines between her dreams and reality. As she struggles to stay awake and focus on her upcoming university entrance exams, she finds herself repeatedly drawn into a mystical dreamland filled with warring machines and hidden family secrets.\n\nHer father, a gifted mechanic with an artistic flair for rebuilding cars and motorcycles, is too preoccupied with his work to discuss the enigmatic dreams that seem to hold the key to their family's past. However, when he is unexpectedly arrested just three days before the 2020 Tokyo Olympics, Kokone must navigate the intricate connection between her dreams and reality to uncover the truth and save her father.\n\nJoined by her childhood friend Morio, Kokone embarks on an extraordinary adventure that weaves together her dream-world and real-life experiences, revealing the surprising interconnectedness of her visions, her family's history, and her father's mysterious circumstances. As she delves deeper into this fantastical journey, Kokone discovers that the answers she seeks lie within the heart of her dreams, ultimately revealing a small but invaluable truth that will change her life forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0538561fd1f9e41e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.980362030826317,
+    "arithmeticGeometricMean": 6.976957807867496,
+    "median": 6.973979591836734,
+    "hash": "0538561fd1f9e41e",
+    "lastUpdate": "2024-05-09"
+  }
+}

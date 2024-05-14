@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3428",
+    "https://anilist.co/anime/471",
+    "https://anime-planet.com/anime/to-heart-2",
+    "https://anisearch.com/anime/2123",
+    "https://kitsu.io/anime/433",
+    "https://livechart.me/anime/5093",
+    "https://myanimelist.net/anime/471",
+    "https://notify.moe/anime/x_NTcKmmR"
+  ],
+  "synopsis": {
+    "text": "Yuzuhara Konomi and her childhood friend, Takaki Kono, embark on a new journey together as they begin their high school years. Alongside familiar faces like their mutual childhood friend, Tamaki Kosaka, they also encounter a host of new personalities. As they navigate the typical high school experiences of classes and studies, Takaki finds himself in a whirlwind of unique interactions with various girls. From the class representative, Komaki, to the affluent and combative Yuma, and even Yuuji's self-assured older sister, Tamaki, each girl brings a new, exciting, or challenging experience. Little do they know, their shared experiences will pave the way for unforgettable adventures.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "172216e48d93f8ec",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.434157434402333,
+    "arithmeticGeometricMean": 6.4275509436461125,
+    "median": 6.533999999999999,
+    "hash": "172216e48d93f8ec",
+    "lastUpdate": "2024-05-10"
+  }
+}

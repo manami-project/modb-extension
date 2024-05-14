@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14615",
+    "https://anilist.co/anime/110451",
+    "https://anime-planet.com/anime/mr-shadow",
+    "https://anisearch.com/anime/17012",
+    "https://myanimelist.net/anime/39029"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5d2aaac64077d53",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.401656153370439,
+    "arithmeticGeometricMean": 4.16480271482265,
+    "median": 3.909090909090909,
+    "hash": "a5d2aaac64077d53",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14893",
+    "https://anilist.co/anime/150622",
+    "https://anime-planet.com/anime/feng-shen-bang-chuan-qi",
+    "https://myanimelist.net/anime/41494"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f13003adc79d4224",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.6363636363636362,
+    "arithmeticGeometricMean": 3.6363636363636362,
+    "median": 3.6363636363636362,
+    "hash": "f13003adc79d4224",
+    "lastUpdate": "2024-05-08"
+  }
+}

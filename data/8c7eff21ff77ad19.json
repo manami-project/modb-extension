@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7496",
+    "https://anilist.co/anime/12185",
+    "https://anime-planet.com/anime/mameushi-kun",
+    "https://anisearch.com/anime/5815",
+    "https://kitsu.io/anime/6684",
+    "https://myanimelist.net/anime/12185",
+    "https://notify.moe/anime/FrNHtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8c7eff21ff77ad19",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.163311688311689,
+    "arithmeticGeometricMean": 5.094793454120859,
+    "median": 5.090909090909091,
+    "hash": "8c7eff21ff77ad19",
+    "lastUpdate": "2024-05-08"
+  }
+}

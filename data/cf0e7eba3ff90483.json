@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12070",
+    "https://anilist.co/anime/21779",
+    "https://anime-planet.com/anime/naze-ikiru-rennyo-shounin-to-yoshizaki-enjou",
+    "https://anisearch.com/anime/11386",
+    "https://kitsu.io/anime/12044",
+    "https://livechart.me/anime/2153",
+    "https://myanimelist.net/anime/33130",
+    "https://notify.moe/anime/1es6pFimR"
+  ],
+  "synopsis": {
+    "text": "Buddhist temples and monks were the last things Ryouken, a young man plagued by misfortune, wanted to encounter. His only glimmer of hope was his soon-to-be-born child, but a tragic accident snatched everything away from him. In the depths of despair, Ryouken stumbled upon the teachings of the revered high priest Rennyo, who provided answers to the existential question, 'Why live?' as expounded by the wise sage Shinran. This revelation compelled Ryouken to become Rennyo's disciple.\n\nAs the Honganji temple's followers grew, other sects became envious and hostile, forcing Ryouken and Rennyo to flee from Kyoto. Their journey led them to Yoshizaki in the Hokuriku region (now part of Fukui Prefecture) in search of a new sanctuary to spread their teachings.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cf0e7eba3ff90483",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.440630797773655,
+    "arithmeticGeometricMean": 5.434836384997571,
+    "median": 5.454545454545455,
+    "hash": "cf0e7eba3ff90483",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7140",
+    "https://anime-planet.com/anime/araiguma-rascal-specials",
+    "https://anisearch.com/anime/6137",
+    "https://kitsu.io/anime/9198",
+    "https://livechart.me/anime/8848",
+    "https://myanimelist.net/anime/25089",
+    "https://notify.moe/anime/8h-atFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ecbbe7fc032c0613",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.891115646258503,
+    "arithmeticGeometricMean": 5.867923183698934,
+    "median": 5.867346938775509,
+    "hash": "ecbbe7fc032c0613",
+    "lastUpdate": "2024-05-08"
+  }
+}

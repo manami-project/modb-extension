@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10905",
+    "https://anilist.co/anime/20931",
+    "https://anime-planet.com/anime/death-parade",
+    "https://anisearch.com/anime/9941",
+    "https://kitsu.io/anime/9969",
+    "https://livechart.me/anime/1280",
+    "https://myanimelist.net/anime/28223",
+    "https://notify.moe/anime/0E1EtKimg"
+  ],
+  "synopsis": {
+    "text": "When life ceases, an enigmatic bar named Quindecim awaits a select few, poised between the realms of heaven and hell. Run by the cryptic Decim, this otherworldly establishment offers its patrons a single chance at redemption through a series of seemingly ordinary games. But these games come with a sinister twist, revealing the true nature of each player as they wager their very souls. As the arbiter, Decim judges these lost souls, determining whether they are worthy of reincarnation or condemned to the void. However, when an enigmatic black-haired woman enters the bar, Decim's unwavering judgment is thrown into question, forcing him to reconsider the very nature of his role as the judge of the dead. Welcome to the Death Parade, where the stakes are high, and the games could be your last.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3efd7ffa81365b2d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.134656285286123,
+    "arithmeticGeometricMean": 8.133548252569243,
+    "median": 8.15,
+    "hash": "3efd7ffa81365b2d",
+    "lastUpdate": "2024-05-09"
+  }
+}

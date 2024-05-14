@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16330",
+    "https://anilist.co/anime/102559",
+    "https://anime-planet.com/anime/hua-jianghu-zhi-huan-shi-men-sheng",
+    "https://anisearch.com/anime/16860",
+    "https://kitsu.io/anime/41365",
+    "https://livechart.me/anime/10597",
+    "https://myanimelist.net/anime/37938",
+    "https://notify.moe/anime/YE5haCviR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "568ae0b246adae5d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.849636363636364,
+    "arithmeticGeometricMean": 6.836918799800575,
+    "median": 6.363636363636363,
+    "hash": "568ae0b246adae5d",
+    "lastUpdate": "2024-05-09"
+  }
+}

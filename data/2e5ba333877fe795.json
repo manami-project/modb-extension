@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10551",
+    "https://anilist.co/anime/20671",
+    "https://anime-planet.com/anime/log-horizon-2",
+    "https://anisearch.com/anime/9537",
+    "https://kitsu.io/anime/8313",
+    "https://livechart.me/anime/489",
+    "https://myanimelist.net/anime/23321",
+    "https://notify.moe/anime/lTQotFimg"
+  ],
+  "synopsis": {
+    "text": "Despite being trapped in the Elder Tale game world for six months, Shiroe and his fellow adventurers have managed to restore peace and order to Akihabara, establishing the Round Table Alliance to govern the city. After earning the trust of the native People of the Land by defending them against the goblins of the Zantleaf region, the team now faces new challenges. As winter approaches, they must deal with dwindling resources and spies from the Minami district infiltrating the city. With varying opinions among the team members, Shiroe must lead them to decide whether to stay in Akihabara or venture out to explore other cities and lands in search of new opportunities and a way back home. This once virtual world is now their reality, and they must work together to navigate the trials ahead.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2e5ba333877fe795",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.687204881807656,
+    "arithmeticGeometricMean": 7.6849668186186975,
+    "median": 7.704210992907802,
+    "hash": "2e5ba333877fe795",
+    "lastUpdate": "2024-05-09"
+  }
+}

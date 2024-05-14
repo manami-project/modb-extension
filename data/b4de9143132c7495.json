@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7168",
+    "https://anilist.co/anime/9526",
+    "https://anime-planet.com/anime/wolf-guy",
+    "https://anisearch.com/anime/6104",
+    "https://kitsu.io/anime/5775",
+    "https://livechart.me/anime/7410",
+    "https://myanimelist.net/anime/9526",
+    "https://notify.moe/anime/zASMpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4de9143132c7495",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.290666048237477,
+    "arithmeticGeometricMean": 5.271425202851333,
+    "median": 5.240816326530612,
+    "hash": "b4de9143132c7495",
+    "lastUpdate": "2024-05-10"
+  }
+}

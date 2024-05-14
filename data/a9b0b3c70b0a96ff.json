@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/nano-nevereverland",
+    "https://anisearch.com/anime/11449",
+    "https://myanimelist.net/anime/41987"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a9b0b3c70b0a96ff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.203816326530612,
+    "arithmeticGeometricMean": 7.203606173980257,
+    "median": 7.203816326530612,
+    "hash": "a9b0b3c70b0a96ff",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6014",
+    "https://anilist.co/anime/4789",
+    "https://anime-planet.com/anime/ef-a-tale-of-melodies",
+    "https://anisearch.com/anime/4957",
+    "https://kitsu.io/anime/3784",
+    "https://livechart.me/anime/3755",
+    "https://myanimelist.net/anime/4789",
+    "https://notify.moe/anime/J2DrcKmiR"
+  ],
+  "synopsis": {
+    "text": "Hayama Mizuki finds herself falling for her cousin's enigmatic neighbor, Shuichi Kuze, despite his attempts to maintain solitude. As they grow closer, Kuze grapples with the revelation of his terminal illness, leading him to distance himself from Mizuki. But before he can, Mizuki confesses her love for him, leaving Kuze to decide whether to embrace her affection or shield her from his impending fate. In a parallel narrative set in the past, Yuu Himura encounters a mysterious girl named Yuko Amamiya, who claims to have known him since childhood. As memories of their shared past resurface, Yuko reveals that her first love was Himura, and that her feelings for him have never faded. The intertwining tales of these two couples explore the complexities of love, loss, and the power of connections that transcend time.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "721857d69a352b2e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.9857092516409285,
+    "arithmeticGeometricMean": 7.985306067409008,
+    "median": 8.003979591836735,
+    "hash": "721857d69a352b2e",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15567",
+    "https://anime-planet.com/anime/jingju-mao",
+    "https://kitsu.io/anime/43330",
+    "https://myanimelist.net/anime/42033"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "553c1e3596623bec",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "553c1e3596623bec",
+    "lastUpdate": "2024-05-11"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102373",
+    "https://anime-planet.com/anime/pororo-the-little-penguin-3",
+    "https://anisearch.com/anime/11365",
+    "https://kitsu.io/anime/9545",
+    "https://myanimelist.net/anime/27455",
+    "https://notify.moe/anime/JZ3BtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7a44be92a0cd0522",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.607954545454546,
+    "arithmeticGeometricMean": 5.591390010332773,
+    "median": 5.41090909090909,
+    "hash": "7a44be92a0cd0522",
+    "lastUpdate": "2024-05-06"
+  }
+}

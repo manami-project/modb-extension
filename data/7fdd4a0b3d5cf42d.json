@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/629",
+    "https://anilist.co/anime/3098",
+    "https://anime-planet.com/anime/shutsugeki-machine-robo-rescue",
+    "https://anisearch.com/anime/2972",
+    "https://kitsu.io/anime/2792",
+    "https://livechart.me/anime/8250",
+    "https://myanimelist.net/anime/3098",
+    "https://notify.moe/anime/vm3UcKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7fdd4a0b3d5cf42d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.350081102570899,
+    "arithmeticGeometricMean": 6.314878714472429,
+    "median": 6.454545454545455,
+    "hash": "7fdd4a0b3d5cf42d",
+    "lastUpdate": "2024-05-10"
+  }
+}

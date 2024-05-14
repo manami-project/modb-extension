@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4315",
+    "https://anilist.co/anime/6734",
+    "https://anime-planet.com/anime/galaxy-express-999-eternal-traveller-emeraldas",
+    "https://anisearch.com/anime/6877",
+    "https://kitsu.io/anime/4691",
+    "https://myanimelist.net/anime/6734",
+    "https://notify.moe/anime/GdEecKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "707dcf81c3cdba16",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.676806785051683,
+    "arithmeticGeometricMean": 6.65274111329211,
+    "median": 6.818181818181818,
+    "hash": "707dcf81c3cdba16",
+    "lastUpdate": "2024-05-07"
+  }
+}

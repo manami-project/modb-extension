@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1617",
+    "https://anilist.co/anime/3132",
+    "https://anime-planet.com/anime/christopher-columbus",
+    "https://anisearch.com/anime/4108",
+    "https://kitsu.io/anime/2816",
+    "https://livechart.me/anime/12575",
+    "https://myanimelist.net/anime/3132",
+    "https://notify.moe/anime/t0RQcKmig"
+  ],
+  "synopsis": {
+    "text": "An anime that celebrates the spirit of exploration and determination, \"Christopher Columbus\" chronicles the life of the legendary explorer from his humble beginnings in Genoa to his historic discovery of the New World. As a young boy, Columbus defies his father's wishes to become a weaver and instead, follows his heart's desire to sail the vast oceans. Fueled by tales of distant lands and inspired by the beauty of navigation, he enrolls in a Portuguese academy and begins his journey to become a skilled sailor. Along the way, he encounters love, danger, and extraordinary experiences that shape his destiny. With unwavering will and a thirst for discovery, Columbus convinces the Spanish king to finance his ambitious voyage westward, leading to the discovery of a new land and forever changing the course of history. This captivating series not only commemorates the 500th anniversary of Columbus' landing but also offers a dramatic and entertaining retelling of one of history's most remarkable figures.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1e4e89c19e47c50c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.167281738669494,
+    "arithmeticGeometricMean": 6.156117961878032,
+    "median": 6.0,
+    "hash": "1e4e89c19e47c50c",
+    "lastUpdate": "2024-05-09"
+  }
+}

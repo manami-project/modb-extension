@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6663",
+    "https://anilist.co/anime/5581",
+    "https://anime-planet.com/anime/kaitei-daisensou-ai-no-20000-miles",
+    "https://anisearch.com/anime/5042",
+    "https://kitsu.io/anime/4179",
+    "https://livechart.me/anime/12037",
+    "https://myanimelist.net/anime/5581",
+    "https://notify.moe/anime/nUaj5FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b46db7fdc9481487",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.88430179344465,
+    "arithmeticGeometricMean": 4.8356292589550804,
+    "median": 4.727272727272727,
+    "hash": "b46db7fdc9481487",
+    "lastUpdate": "2024-05-09"
+  }
+}

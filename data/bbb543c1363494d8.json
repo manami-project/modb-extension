@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14827",
+    "https://anilist.co/anime/109019",
+    "https://anime-planet.com/anime/diary-of-our-days-at-the-breakwater",
+    "https://anisearch.com/anime/14355",
+    "https://kitsu.io/anime/42296",
+    "https://livechart.me/anime/9417",
+    "https://myanimelist.net/anime/39730",
+    "https://notify.moe/anime/AKutdCWZR"
+  ],
+  "synopsis": {
+    "text": "Fishing is the last thing on Hina Tsurugi's mind when she moves to a serene coastal town. The introverted first-year student prefers the comfort of indoor hobbies like arts and crafts over the unpredictability of the sea. However, her life takes an unexpected turn when she encounters Yuuki Kuroiwa, an upperclassman who persuades her to join the Breakwater Fishing Club. Despite her initial reluctance and fear of sea creatures, Hina finds herself drawn into a world of fishing, surrounded by a group of eccentric club members. As she learns to appreciate the thrill of catching marine life and the joy of shared experiences, Hina's perspective on fishing transforms, leading her to discover hidden delights in this new hobby.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bbb543c1363494d8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.446507421150278,
+    "arithmeticGeometricMean": 7.44487765595807,
+    "median": 7.495,
+    "hash": "bbb543c1363494d8",
+    "lastUpdate": "2024-05-09"
+  }
+}

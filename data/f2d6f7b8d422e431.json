@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9900",
+    "https://anilist.co/anime/18851",
+    "https://anime-planet.com/anime/fate-kaleid-liner-prisma-illya-undoukai-de-dance",
+    "https://anisearch.com/anime/8686",
+    "https://kitsu.io/anime/7861",
+    "https://livechart.me/anime/141",
+    "https://myanimelist.net/anime/18851",
+    "https://notify.moe/anime/RkwppFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f2d6f7b8d422e431",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.721987425273139,
+    "arithmeticGeometricMean": 6.71753229729911,
+    "median": 6.67611111111111,
+    "hash": "f2d6f7b8d422e431",
+    "lastUpdate": "2024-05-09"
+  }
+}

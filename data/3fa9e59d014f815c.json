@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8385",
+    "https://anilist.co/anime/15529",
+    "https://anime-planet.com/anime/hifana-wamono",
+    "https://anisearch.com/anime/7037",
+    "https://kitsu.io/anime/8875",
+    "https://myanimelist.net/anime/15529",
+    "https://notify.moe/anime/7kKbpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3fa9e59d014f815c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2522782931354355,
+    "arithmeticGeometricMean": 5.2273684910017355,
+    "median": 5.0,
+    "hash": "3fa9e59d014f815c",
+    "lastUpdate": "2024-05-08"
+  }
+}

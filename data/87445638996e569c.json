@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6671",
+    "https://anilist.co/anime/6746",
+    "https://anime-planet.com/anime/durarara",
+    "https://anisearch.com/anime/5473",
+    "https://kitsu.io/anime/4696",
+    "https://livechart.me/anime/3256",
+    "https://myanimelist.net/anime/6746",
+    "https://notify.moe/anime/GgyecFiiR"
+  ],
+  "synopsis": {
+    "text": "Izaya Orihara, a cunning information broker, Shizuo Heiwajima, an intimidatingly strong man in a bartender suit, and the enigmatic Dollars gang are just a few of the individuals that Ryuugamine Mikado is warned to avoid by his childhood friend, Masaomi, upon moving to Ikebukuro, Tokyo. Mikado, who has always been drawn to the excitement of city life, finds himself in the midst of a world full of mysteries, including the legend of the Black Rider, a headless biker who roams the streets on a black motorcycle. As Mikado navigates his new school and surroundings, he realizes that Ikebukuro is a city where the supernatural and the mundane intertwine, and that the various events and individuals he encounters may be interconnected in unexpected ways. Will Mikado be able to handle the challenges that come his way, or will he find himself at the center of a storm that threatens to engulf the entire city? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "87445638996e569c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.119655998763141,
+    "arithmeticGeometricMean": 8.119266112102954,
+    "median": 8.095454545454544,
+    "hash": "87445638996e569c",
+    "lastUpdate": "2024-05-09"
+  }
+}

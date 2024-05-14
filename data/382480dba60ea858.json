@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139755",
+    "https://anime-planet.com/anime/space-shower-tv-factory-id",
+    "https://kitsu.io/anime/47143",
+    "https://myanimelist.net/anime/38376"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "382480dba60ea858",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.748,
+    "arithmeticGeometricMean": 4.729818967656896,
+    "median": 4.83,
+    "hash": "382480dba60ea858",
+    "lastUpdate": "2024-05-07"
+  }
+}

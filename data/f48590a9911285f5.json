@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12411",
+    "https://anilist.co/anime/97636",
+    "https://anime-planet.com/anime/akibas-trip-the-animation",
+    "https://anisearch.com/anime/11758",
+    "https://kitsu.io/anime/12532",
+    "https://livechart.me/anime/2329",
+    "https://myanimelist.net/anime/34051",
+    "https://notify.moe/anime/cfrz2KmmR"
+  ],
+  "synopsis": {
+    "text": "These synopses introduce us to the vibrant world of Akihabara, a haven for anime enthusiasts that has been infiltrated by vampiric creatures known as 'Synthisters' or 'Bagurimono.' These entities, often disguised as cosplayers, prey on the patrons of Akihabara, draining their social energy and will to live.\n\nOur protagonist, Tamotsu Denkigai, finds himself in the midst of this chaos during a shopping trip with his otaku sister, Niwaka. When Tamotsu encounters one of these creatures, he is saved by the enigmatic Matome Mayonaka, who revives him as a half-vampire after he sustains severe injuries.\n\nTogether with Matome and the half-Finnish cosplayer Arisa Ahokainen, Tamotsu forms a group called 'The Electric Mayonnaise.' Their mission is to protect Akihabara from the menacing Synthisters. However, defeating these creatures is no easy task; the only way to vanquish them is by exposing their skin to direct sunlight, which requires stripping them of their clothes.\n\nAs the battles against the Synthisters unfold, a steadfast bond forms between Tamotsu and Matome, marking the beginning of a unique 'boy meets girl' story in the heart of Akihabara.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f48590a9911285f5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.583414945919371,
+    "arithmeticGeometricMean": 6.578465322398492,
+    "median": 6.5009999999999994,
+    "hash": "f48590a9911285f5",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/204",
+    "https://anilist.co/anime/732",
+    "https://anime-planet.com/anime/vampire-hunter-d",
+    "https://anisearch.com/anime/570",
+    "https://kitsu.io/anime/659",
+    "https://livechart.me/anime/4495",
+    "https://myanimelist.net/anime/732",
+    "https://notify.moe/anime/JldA5Kmig"
+  ],
+  "synopsis": {
+    "text": "Thousands of years into the future, the world has transformed into a realm where monsters roam freely, and humans, despite their advanced weaponry and cybernetic steeds, lead lives akin to ancient times. A small village, constantly under the threat of monster attacks, is governed by the iron fist of Count Magnus Lee, an immortal vampire lord. When a young girl named Doris is bitten by the Count and selected as his latest toy, she turns to a mysterious vagabond named D for help. Unbeknownst to her, D is a legendary vampire hunter. Motivated by his own enigmatic reasons, D embarks on a mission to annihilate the Count's horde of minions and end his tyrannical reign. This thrilling tale of courage and darkness is adapted from the first light novel of the \"Vampire Hunter D\" series.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "adf4e279e9ad7b22",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.885280640875878,
+    "arithmeticGeometricMean": 6.87808275549271,
+    "median": 6.865,
+    "hash": "adf4e279e9ad7b22",
+    "lastUpdate": "2024-05-10"
+  }
+}

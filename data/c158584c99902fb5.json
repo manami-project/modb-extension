@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3517",
+    "https://anilist.co/anime/8520",
+    "https://anime-planet.com/anime/biriken",
+    "https://anisearch.com/anime/2845",
+    "https://kitsu.io/anime/5369",
+    "https://livechart.me/anime/12048",
+    "https://myanimelist.net/anime/8520",
+    "https://notify.moe/anime/o7xitKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c158584c99902fb5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.069069573283859,
+    "arithmeticGeometricMean": 5.018460560996014,
+    "median": 4.636363636363637,
+    "hash": "c158584c99902fb5",
+    "lastUpdate": "2024-05-09"
+  }
+}

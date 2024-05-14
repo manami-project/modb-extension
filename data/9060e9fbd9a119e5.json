@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8773",
+    "https://anilist.co/anime/10852",
+    "https://anime-planet.com/anime/game-tengoku",
+    "https://anisearch.com/anime/7401",
+    "https://kitsu.io/anime/6384",
+    "https://myanimelist.net/anime/10852",
+    "https://notify.moe/anime/SOjVpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9060e9fbd9a119e5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.671299938157081,
+    "arithmeticGeometricMean": 5.632765683264713,
+    "median": 5.385899814471243,
+    "hash": "9060e9fbd9a119e5",
+    "lastUpdate": "2024-05-07"
+  }
+}

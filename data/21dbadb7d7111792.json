@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/114126",
+    "https://anime-planet.com/anime/tio-sun",
+    "https://kitsu.io/anime/43129",
+    "https://myanimelist.net/anime/39219"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "21dbadb7d7111792",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.787939393939394,
+    "arithmeticGeometricMean": 5.774873057129015,
+    "median": 5.66,
+    "hash": "21dbadb7d7111792",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16743",
+    "https://anilist.co/anime/130303",
+    "https://anime-planet.com/anime/wan-jie-qi-yuan",
+    "https://kitsu.io/anime/44103",
+    "https://livechart.me/anime/10443",
+    "https://myanimelist.net/anime/48097"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "23422b0cb48ea23d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.539409090909091,
+    "arithmeticGeometricMean": 6.533424110194987,
+    "median": 6.411818181818182,
+    "hash": "23422b0cb48ea23d",
+    "lastUpdate": "2024-05-10"
+  }
+}

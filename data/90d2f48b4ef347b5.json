@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6023",
+    "https://anilist.co/anime/4684",
+    "https://anime-planet.com/anime/scarecrowman",
+    "https://anisearch.com/anime/4945",
+    "https://kitsu.io/anime/3737",
+    "https://myanimelist.net/anime/4684",
+    "https://notify.moe/anime/VwM95FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "90d2f48b4ef347b5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.213812987012988,
+    "arithmeticGeometricMean": 5.154057765283166,
+    "median": 5.0,
+    "hash": "90d2f48b4ef347b5",
+    "lastUpdate": "2024-05-07"
+  }
+}

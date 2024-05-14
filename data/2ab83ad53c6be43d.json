@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17322",
+    "https://anilist.co/anime/147729",
+    "https://anime-planet.com/anime/ultraman-final",
+    "https://anisearch.com/anime/17317",
+    "https://kitsu.io/anime/46068",
+    "https://livechart.me/anime/11187",
+    "https://myanimelist.net/anime/51653",
+    "https://notify.moe/anime/xqItvMQ7g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2ab83ad53c6be43d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.0993296227581935,
+    "arithmeticGeometricMean": 7.09175532180471,
+    "median": 7.2148979591836735,
+    "hash": "2ab83ad53c6be43d",
+    "lastUpdate": "2024-05-10"
+  }
+}

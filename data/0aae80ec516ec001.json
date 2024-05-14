@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5334",
+    "https://anilist.co/anime/12589",
+    "https://anime-planet.com/anime/3-choume-no-tama-onegai-momo-chan-wo-sagashite",
+    "https://anisearch.com/anime/4384",
+    "https://kitsu.io/anime/6770",
+    "https://myanimelist.net/anime/12589",
+    "https://notify.moe/anime/gQYHpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0aae80ec516ec001",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.746436611008039,
+    "arithmeticGeometricMean": 5.731081258290555,
+    "median": 5.797309833024118,
+    "hash": "0aae80ec516ec001",
+    "lastUpdate": "2024-05-08"
+  }
+}

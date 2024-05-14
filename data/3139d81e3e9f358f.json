@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15678",
+    "https://anilist.co/anime/122441",
+    "https://anime-planet.com/anime/peach-boy-riverside",
+    "https://anisearch.com/anime/15470",
+    "https://kitsu.io/anime/43870",
+    "https://livechart.me/anime/10103",
+    "https://myanimelist.net/anime/42627",
+    "https://notify.moe/anime/WBXa-vIMR"
+  ],
+  "synopsis": {
+    "text": "Seemingly ordinary princess, Saltorine 'Sally' Aldike, hails from a realm where humans, demihumans, and oni are engaged in a relentless power struggle. After witnessing the devastating capabilities of the oni firsthand, Sally embarks on a journey to find the enigmatic Mikoto Kibitsu—the man who saved her kingdom from an oni onslaught.\n\nAs she navigates the treacherous world outside her castle walls, Sally uncovers unsettling truths about the oni's formidable power and her own unique ability, which manifests as a peach-shaped sigil. This power grants her extraordinary skills, enabling her to subdue even the mightiest of oni. Despite her newfound strength, Sally remains steadfast in her belief that peace between the warring factions is achievable.\n\nIn stark contrast, Mikoto—who also possesses the same peach-shaped sigil—is hellbent on exterminating all oni, leaving a trail of carnage in his wake. As their paths continue to intertwine, the delicate balance between coexistence and destruction hangs in the balance, with the outcome hinging on the choices Sally makes. Will she remain true to her ideals, or will she be swayed by Mikoto's merciless crusade? The fate of the magical world rests in her hands.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3139d81e3e9f358f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.516475908545236,
+    "arithmeticGeometricMean": 6.511146434638557,
+    "median": 6.530588235294117,
+    "hash": "3139d81e3e9f358f",
+    "lastUpdate": "2024-05-09"
+  }
+}

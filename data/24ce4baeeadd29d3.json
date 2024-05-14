@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6011",
+    "https://anilist.co/anime/20109",
+    "https://anime-planet.com/anime/bokura-mangaka-tokiwa-sou-monogatari",
+    "https://anisearch.com/anime/4984",
+    "https://kitsu.io/anime/9218",
+    "https://myanimelist.net/anime/20109",
+    "https://notify.moe/anime/gjY-pFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24ce4baeeadd29d3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.888130797773655,
+    "arithmeticGeometricMean": 4.871304134586666,
+    "median": 4.744897959183673,
+    "hash": "24ce4baeeadd29d3",
+    "lastUpdate": "2024-05-08"
+  }
+}

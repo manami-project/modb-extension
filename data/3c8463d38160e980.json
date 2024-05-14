@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9329",
+    "https://anilist.co/anime/14913",
+    "https://anime-planet.com/anime/battle-spirits-sword-eyes",
+    "https://anisearch.com/anime/7964",
+    "https://kitsu.io/anime/7181",
+    "https://livechart.me/anime/926",
+    "https://myanimelist.net/anime/14913",
+    "https://notify.moe/anime/UrAOtFimR"
+  ],
+  "synopsis": {
+    "text": "Eyes Gone Wild: Sword Eyes unfolds in a world called Legendia, where the once-mighty nation of Atlantia lies in ruins, shattered by riots that erupted 14 years ago. Amidst the chaos, a young boy named Tsurugi Tatewaki was spirited away to the neighboring, rocky terrain of Pacifis. Growing up with no recollection of his birthplace, Tatewaki embraces life as a lively adolescent in his new home.\n\nOne fateful day, Tatewaki stumbles upon the legendary Shining Sword, and his life takes an extraordinary turn. As he discovers the power hidden within the sword, an army of darkness emerges, hell-bent on capturing the 12 Sword Braves – Tatewaki being one of them.\n\nIn this perilous journey, a Card Battle Droid named Bringer emerges as Tatewaki's guardian and mentor, teaching him the ways of the Battle Spirits combat. With his Key Spirit, the Shining Dragon, Tatewaki joins forces with fellow Sword Braves to challenge the ominous army and unravel the secrets of his past.\n\nAs Tatewaki ventures deeper into the heart of Atlantia, he confronts a world teetering on the brink of oppression, forcing him to question the very nature of good and evil. With the fate of Legendia hanging in the balance, Tatewaki must harness the power of his Shining Sword and rise as a beacon of hope against the looming darkness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c8463d38160e980",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.404024383779486,
+    "arithmeticGeometricMean": 6.367818011386403,
+    "median": 6.6,
+    "hash": "3c8463d38160e980",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/171773",
+    "https://anime-planet.com/anime/munch-munch",
+    "https://kitsu.io/anime/48142"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "01ddf86045403d8b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.545454545454546,
+    "arithmeticGeometricMean": 5.545454545454546,
+    "median": 5.545454545454546,
+    "hash": "01ddf86045403d8b",
+    "lastUpdate": "2024-05-08"
+  }
+}

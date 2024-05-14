@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4120",
+    "https://anilist.co/anime/771",
+    "https://anime-planet.com/anime/meine-liebe-wieder",
+    "https://anisearch.com/anime/311",
+    "https://kitsu.io/anime/692",
+    "https://livechart.me/anime/10380",
+    "https://myanimelist.net/anime/771",
+    "https://notify.moe/anime/h7o0cKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "58a2e417155cb55f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.593366198427423,
+    "arithmeticGeometricMean": 6.590721625912106,
+    "median": 6.6387755102040815,
+    "hash": "58a2e417155cb55f",
+    "lastUpdate": "2024-05-09"
+  }
+}

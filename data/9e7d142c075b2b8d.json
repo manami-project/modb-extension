@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13883",
+    "https://anilist.co/anime/102402",
+    "https://anime-planet.com/anime/fake-type-fake-style-ii",
+    "https://kitsu.io/anime/12214",
+    "https://myanimelist.net/anime/32747",
+    "https://notify.moe/anime/jNTR2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e7d142c075b2b8d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.642799999999999,
+    "arithmeticGeometricMean": 5.63038428340674,
+    "median": 5.03,
+    "hash": "9e7d142c075b2b8d",
+    "lastUpdate": "2024-05-08"
+  }
+}

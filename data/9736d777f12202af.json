@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/158702",
+    "https://anime-planet.com/anime/the-idolmaster-million-live-dreaming-animation-pv",
+    "https://anisearch.com/anime/11111",
+    "https://kitsu.io/anime/11513",
+    "https://myanimelist.net/anime/31894",
+    "https://notify.moe/anime/91tjtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9736d777f12202af",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.178430632859204,
+    "arithmeticGeometricMean": 6.149622984867254,
+    "median": 6.3939393939393945,
+    "hash": "9736d777f12202af",
+    "lastUpdate": "2024-05-06"
+  }
+}

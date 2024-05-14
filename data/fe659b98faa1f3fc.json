@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4752",
+    "https://anilist.co/anime/4790",
+    "https://anime-planet.com/anime/zeno-kagirinaki-ai-ni",
+    "https://anisearch.com/anime/3877",
+    "https://kitsu.io/anime/3785",
+    "https://myanimelist.net/anime/4790",
+    "https://notify.moe/anime/NsD95KmiR"
+  ],
+  "synopsis": {
+    "text": "Naki Ai ni\" presents the inspiring journey of Brother Zenon Zebrowski, a devoted Polish missionary serving in Japan. As a member of the Franciscan order, Zenon's life was marked by unwavering dedication and selfless service to those in desperate need. His mission extended to the victims of war, the wounded, and the impoverished, earning him a reputation for his charitable deeds and boundless compassion. This biographical film invites viewers to delve into the remarkable life of Brother Zenon, offering a poignant exploration of resilience, faith, and the transformative power of love.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe659b98faa1f3fc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.181163636363637,
+    "arithmeticGeometricMean": 6.156147419890816,
+    "median": 5.93,
+    "hash": "fe659b98faa1f3fc",
+    "lastUpdate": "2024-05-08"
+  }
+}

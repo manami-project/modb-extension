@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17463",
+    "https://anilist.co/anime/151017",
+    "https://anime-planet.com/anime/garden-of-remembrance",
+    "https://anisearch.com/anime/17467",
+    "https://livechart.me/anime/11266",
+    "https://myanimelist.net/anime/52085",
+    "https://notify.moe/anime/23p1rKqng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "19e3ee50749555ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "19e3ee50749555ac",
+    "lastUpdate": "2024-05-11"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12900",
+    "https://anilist.co/anime/98420",
+    "https://anime-planet.com/anime/ninja-girl-samurai-master-2nd-season",
+    "https://anisearch.com/anime/12252",
+    "https://kitsu.io/anime/13303",
+    "https://livechart.me/anime/2568",
+    "https://myanimelist.net/anime/34978",
+    "https://notify.moe/anime/OJI72Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "95faff609b5c2dfc",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.177476963512678,
+    "arithmeticGeometricMean": 7.174443928781985,
+    "median": 7.183,
+    "hash": "95faff609b5c2dfc",
+    "lastUpdate": "2024-05-09"
+  }
+}

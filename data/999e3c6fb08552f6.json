@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6576",
+    "https://anilist.co/anime/20145",
+    "https://anime-planet.com/anime/wagahai-wa-neko-de-aru",
+    "https://anisearch.com/anime/9123",
+    "https://kitsu.io/anime/9691",
+    "https://livechart.me/anime/6890",
+    "https://myanimelist.net/anime/20145",
+    "https://notify.moe/anime/v6TLtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "999e3c6fb08552f6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.708294372294372,
+    "arithmeticGeometricMean": 5.687751295532586,
+    "median": 5.495,
+    "hash": "999e3c6fb08552f6",
+    "lastUpdate": "2024-05-10"
+  }
+}

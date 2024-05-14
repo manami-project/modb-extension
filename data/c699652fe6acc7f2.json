@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115791",
+    "https://anime-planet.com/anime/inshow-ha-swap",
+    "https://kitsu.io/anime/43148",
+    "https://myanimelist.net/anime/38896"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c699652fe6acc7f2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.637030303030303,
+    "arithmeticGeometricMean": 5.617635388060459,
+    "median": 5.48,
+    "hash": "c699652fe6acc7f2",
+    "lastUpdate": "2024-05-07"
+  }
+}

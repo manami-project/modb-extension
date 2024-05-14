@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9168",
+    "https://anilist.co/anime/119134",
+    "https://anime-planet.com/anime/heart-cocktail-again",
+    "https://anisearch.com/anime/7779",
+    "https://kitsu.io/anime/9844",
+    "https://myanimelist.net/anime/21121",
+    "https://myanimelist.net/anime/58181",
+    "https://notify.moe/anime/GzmEpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "499f7d9b6ecb6023",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.747365491651206,
+    "arithmeticGeometricMean": 5.732516487083745,
+    "median": 5.095918367346939,
+    "hash": "499f7d9b6ecb6023",
+    "lastUpdate": "2024-05-08"
+  }
+}

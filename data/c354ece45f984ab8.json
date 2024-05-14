@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6751",
+    "https://anilist.co/anime/6682",
+    "https://anime-planet.com/anime/11eyes",
+    "https://anisearch.com/anime/5468",
+    "https://kitsu.io/anime/4662",
+    "https://livechart.me/anime/3715",
+    "https://myanimelist.net/anime/6682",
+    "https://notify.moe/anime/trb6cKimR"
+  ],
+  "synopsis": {
+    "text": "Hirohara Yukiko, Kusakabe Misuzu, Tachibana Kukuri, Tajima Takahisa, and Satsuki Kakeru, along with his best friend Yuka, are seven ordinary teenagers who find themselves in an extraordinary situation. Without warning, they are transported to an alternate dimension known as the Red Night, a dark world filled with strange monsters and black knights. The sky turns red, the moon turns black, and the streets are filled with danger.\n\nAt first, they believe it to be a dream, but when the Red Night happens again, they realize it's all too real. The six of them band together to survive, each discovering unique abilities to help them navigate this mysterious world. Their only hope of returning home is to defeat the six black knights that roam the Red Night.\n\nBut for Kakeru, the Red Night is more than just a terrifying alternate dimension. Raised in an orphanage after witnessing his sister's suicide, Kakeru must confront the demons of his past while fighting the monsters of the Red Night. As he searches for answers about his own origins and family, he discovers that the key to their survival may lie within him.\n\nWith their lives on the line, the seven friends must unravel the mystery of the Red Night and find a way back home. But as they delve deeper into this dark world, they uncover shocking truths that will change everything they thought they knew. Will they be able to defeat the black knights and escape the Red Night, or will they be trapped in this nightmare forever? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c354ece45f984ab8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.181882660049126,
+    "arithmeticGeometricMean": 6.177594126027124,
+    "median": 6.1423469387755105,
+    "hash": "c354ece45f984ab8",
+    "lastUpdate": "2024-05-08"
+  }
+}

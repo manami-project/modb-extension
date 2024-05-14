@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6293",
+    "https://anilist.co/anime/5624",
+    "https://anime-planet.com/anime/resident-evil-4d-executor",
+    "https://anisearch.com/anime/5227",
+    "https://kitsu.io/anime/4208",
+    "https://livechart.me/anime/6405",
+    "https://myanimelist.net/anime/5624",
+    "https://notify.moe/anime/ihYC5Fiig"
+  ],
+  "synopsis": {
+    "text": "Though primitive in CG rendering, the 20-minute movie, Biohazard 4D Executor, unfolds a gripping tale of an elite UBCS squad on a mission to locate Dr. Cameron, a scientist working for Umbrella Corporation who has gone missing in the chaos-ridden Raccoon City. The team, comprising Rodrigo, Roger, Klaus, Ed, and Norman, is equipped with a GPS device to trace Dr. Cameron's last known whereabouts, leading them to a massive food factory. As they venture into the factory, the squad encounters a monstrous creature, a terrifying blend of a Tyrant and the advanced forms of Nemesis, setting the stage for a thrilling survival ordeal.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0ac3f0a5b8fdeddc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.342766498807315,
+    "arithmeticGeometricMean": 5.329299782688943,
+    "median": 5.212,
+    "hash": "0ac3f0a5b8fdeddc",
+    "lastUpdate": "2024-05-09"
+  }
+}

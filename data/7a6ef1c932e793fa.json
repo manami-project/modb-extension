@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12043",
+    "https://anilist.co/anime/21740",
+    "https://anime-planet.com/anime/bubuki-buranki-the-gentle-giants-of-the-galaxy",
+    "https://anisearch.com/anime/11302",
+    "https://kitsu.io/anime/12004",
+    "https://livechart.me/anime/2125",
+    "https://myanimelist.net/anime/33041",
+    "https://notify.moe/anime/TUJ6pFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7a6ef1c932e793fa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.8407804318697165,
+    "arithmeticGeometricMean": 6.833963935831002,
+    "median": 6.756,
+    "hash": "7a6ef1c932e793fa",
+    "lastUpdate": "2024-05-09"
+  }
+}

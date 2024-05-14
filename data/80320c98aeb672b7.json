@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7552",
+    "https://anilist.co/anime/148664",
+    "https://anime-planet.com/anime/sore-ike-anpanman-shabondama-no-purun",
+    "https://anisearch.com/anime/5324",
+    "https://kitsu.io/anime/9051",
+    "https://livechart.me/anime/11449",
+    "https://myanimelist.net/anime/21293",
+    "https://notify.moe/anime/ZOz-pKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80320c98aeb672b7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.912722820037105,
+    "arithmeticGeometricMean": 5.866629972722873,
+    "median": 5.0,
+    "hash": "80320c98aeb672b7",
+    "lastUpdate": "2024-05-10"
+  }
+}

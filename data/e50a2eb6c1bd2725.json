@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9055",
+    "https://anilist.co/anime/17427",
+    "https://anime-planet.com/anime/the-treasures-of-the-desert",
+    "https://anisearch.com/anime/7730",
+    "https://kitsu.io/anime/9561",
+    "https://myanimelist.net/anime/17427",
+    "https://notify.moe/anime/ZmRYpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e50a2eb6c1bd2725",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.05913048855906,
+    "arithmeticGeometricMean": 5.020263057074525,
+    "median": 4.937755102040816,
+    "hash": "e50a2eb6c1bd2725",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10994",
+    "https://anilist.co/anime/21054",
+    "https://anime-planet.com/anime/rainy-cocoa",
+    "https://anisearch.com/anime/10054",
+    "https://kitsu.io/anime/10095",
+    "https://livechart.me/anime/1342",
+    "https://myanimelist.net/anime/28981",
+    "https://notify.moe/anime/2pIytFimg"
+  ],
+  "synopsis": {
+    "text": "Due to an unfortunate series of events, college freshman Aoi Tokura finds solace in Rainy Color, a quaint and inviting café renowned for its delicious hot cocoa. Aoi quickly becomes a part-time server, working alongside the skilled barista Shion Koga. The café attracts a variety of patrons, including two charismatic college students who catch Aoi's attention. As he becomes increasingly entwined in their lives, Aoi's once mundane existence turns into a lively, entertaining adventure filled with unexpected encounters and heartwarming moments.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8e02907758b3f831",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.839933712121212,
+    "arithmeticGeometricMean": 4.797529047848376,
+    "median": 4.618181818181818,
+    "hash": "8e02907758b3f831",
+    "lastUpdate": "2024-05-08"
+  }
+}

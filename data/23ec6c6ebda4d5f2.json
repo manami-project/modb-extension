@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145284",
+    "https://anime-planet.com/anime/mado-2018",
+    "https://anisearch.com/anime/13588",
+    "https://kitsu.io/anime/41230",
+    "https://myanimelist.net/anime/37721",
+    "https://notify.moe/anime/KD_KvmMmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "23ec6c6ebda4d5f2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.664517625231912,
+    "arithmeticGeometricMean": 5.636863073387883,
+    "median": 5.444489795918367,
+    "hash": "23ec6c6ebda4d5f2",
+    "lastUpdate": "2024-05-06"
+  }
+}

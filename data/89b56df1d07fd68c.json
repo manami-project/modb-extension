@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5419",
+    "https://anilist.co/anime/2595",
+    "https://anime-planet.com/anime/da-capo-ii",
+    "https://anisearch.com/anime/4453",
+    "https://kitsu.io/anime/2359",
+    "https://livechart.me/anime/4907",
+    "https://myanimelist.net/anime/2595",
+    "https://notify.moe/anime/UiOscKmmg"
+  ],
+  "synopsis": {
+    "text": "Da Capo II takes us back to the enchanting island of Hatsunejima, famed for its ever-blooming cherry blossom trees, 53 years after the events of Da Capo Second Season. The new narrative centers around Yoshiyuki Sakurai, son of Sakura Yoshino, and his vibrant school life. Although some characters may bear a striking resemblance to their ancestors from the first two seasons, the cast is predominantly fresh. Among the key characters are Yume and Otome Asakura, granddaughters of Junichi and Nemu from the original season, who live next door to Yoshiyuki. The story unfolds amidst the island's timeless beauty and the intriguing mysteries that begin to surface in Yoshiyuki's life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89b56df1d07fd68c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.931489795918367,
+    "arithmeticGeometricMean": 6.927512697562764,
+    "median": 6.898,
+    "hash": "89b56df1d07fd68c",
+    "lastUpdate": "2024-05-09"
+  }
+}

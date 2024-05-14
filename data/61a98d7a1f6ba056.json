@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10944",
+    "https://anilist.co/anime/20958",
+    "https://anime-planet.com/anime/attack-on-titan-2nd-season",
+    "https://anisearch.com/anime/10082",
+    "https://kitsu.io/anime/8671",
+    "https://livechart.me/anime/754",
+    "https://myanimelist.net/anime/25777",
+    "https://notify.moe/anime/jh2JpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "61a98d7a1f6ba056",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.481859473718016,
+    "arithmeticGeometricMean": 8.48062748896422,
+    "median": 8.51,
+    "hash": "61a98d7a1f6ba056",
+    "lastUpdate": "2024-05-10"
+  }
+}

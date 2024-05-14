@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9858",
+    "https://anilist.co/anime/18507",
+    "https://anime-planet.com/anime/free-iwatobi-swim-club",
+    "https://anisearch.com/anime/8639",
+    "https://kitsu.io/anime/7664",
+    "https://livechart.me/anime/18",
+    "https://myanimelist.net/anime/18507",
+    "https://notify.moe/anime/uLs5tKiig"
+  ],
+  "synopsis": {
+    "text": "Rei Ryugazaki, Makoto Tachibana, Nagisa Hazuki, and Haruka Nanase share a common bond - their love for swimming. As elementary schoolers, they formed a formidable swimming team and won a tournament together. But with time, they drifted apart, and Rin Matsuoka, one of their teammates, left for Australia to hone his swimming skills further.\n\nNow in high school, Haruka, Makoto, and Nagisa lead mundane lives until Rin reappears, challenging Haruka to a match. Rin's power overwhelms Haruka, and he realizes that he needs to regroup with his old friends to stand a chance against Rin. With the addition of Rei, they establish the Iwatobi High School Swimming Club, determined to defeat Rin and reclaim their lost glory.\n\nAs the group trains together, they form a tight bond, but their ultimate goal remains the same - to settle the score with Rin and prove themselves as the superior swimmers. With the prefectural tournament fast approaching, the Iwatobi Swimming Club is ready to give it their all and emerge victorious.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2d12d8fb867dc008",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.355280327597532,
+    "arithmeticGeometricMean": 7.351892825526597,
+    "median": 7.396103896103895,
+    "hash": "2d12d8fb867dc008",
+    "lastUpdate": "2024-05-09"
+  }
+}

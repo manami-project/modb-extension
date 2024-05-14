@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6712",
+    "https://anilist.co/anime/5870",
+    "https://anime-planet.com/anime/hibari-no-yadogae",
+    "https://anisearch.com/anime/7204",
+    "https://kitsu.io/anime/4311",
+    "https://myanimelist.net/anime/5870",
+    "https://notify.moe/anime/zdiq5Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "267d6e9b823ca76d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.6972513472921635,
+    "arithmeticGeometricMean": 4.662336861133437,
+    "median": 4.666666666666667,
+    "hash": "267d6e9b823ca76d",
+    "lastUpdate": "2024-05-07"
+  }
+}

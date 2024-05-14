@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6276",
+    "https://anilist.co/anime/6268",
+    "https://anime-planet.com/anime/sekishoku-elegy",
+    "https://anisearch.com/anime/4283",
+    "https://kitsu.io/anime/4497",
+    "https://myanimelist.net/anime/6268",
+    "https://notify.moe/anime/AvX3cKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4657d7d09ea8654d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.701542362399505,
+    "arithmeticGeometricMean": 5.683368574411689,
+    "median": 5.584081632653061,
+    "hash": "4657d7d09ea8654d",
+    "lastUpdate": "2024-05-07"
+  }
+}

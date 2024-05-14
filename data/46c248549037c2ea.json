@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11513",
+    "https://anilist.co/anime/102709",
+    "https://anime-planet.com/anime/kenshi-yonezu-vivi",
+    "https://anisearch.com/anime/11626",
+    "https://kitsu.io/anime/11247",
+    "https://myanimelist.net/anime/30909",
+    "https://notify.moe/anime/0virpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46c248549037c2ea",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.6311698913331565,
+    "arithmeticGeometricMean": 5.60907151689996,
+    "median": 5.909090909090908,
+    "hash": "46c248549037c2ea",
+    "lastUpdate": "2024-05-08"
+  }
+}

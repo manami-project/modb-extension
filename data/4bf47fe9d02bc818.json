@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/169485",
+    "https://anime-planet.com/anime/umiushi",
+    "https://kitsu.io/anime/48030"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4bf47fe9d02bc818",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.636363636363637,
+    "arithmeticGeometricMean": 5.636363636363637,
+    "median": 5.636363636363637,
+    "hash": "4bf47fe9d02bc818",
+    "lastUpdate": "2024-05-07"
+  }
+}

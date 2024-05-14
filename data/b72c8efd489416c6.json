@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12925",
+    "https://anilist.co/anime/10586",
+    "https://anime-planet.com/anime/denki-groove-cafe-de-oni",
+    "https://anisearch.com/anime/11580",
+    "https://kitsu.io/anime/6254",
+    "https://myanimelist.net/anime/10586",
+    "https://notify.moe/anime/uIKVpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b72c8efd489416c6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.496775510204081,
+    "arithmeticGeometricMean": 4.472489028590559,
+    "median": 4.38,
+    "hash": "b72c8efd489416c6",
+    "lastUpdate": "2024-05-08"
+  }
+}

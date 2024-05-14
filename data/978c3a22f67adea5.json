@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12577",
+    "https://anilist.co/anime/114814",
+    "https://anime-planet.com/anime/youkai-watch-movie-4-shadowside-oni-ou-no-fukkatsu",
+    "https://anisearch.com/anime/12577",
+    "https://kitsu.io/anime/12859",
+    "https://livechart.me/anime/2440",
+    "https://myanimelist.net/anime/34471",
+    "https://notify.moe/anime/tJdWhFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "978c3a22f67adea5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.9112483434932415,
+    "arithmeticGeometricMean": 6.9012444176740635,
+    "median": 6.85,
+    "hash": "978c3a22f67adea5",
+    "lastUpdate": "2024-05-10"
+  }
+}

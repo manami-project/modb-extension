@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10713",
+    "https://anilist.co/anime/20762",
+    "https://anime-planet.com/anime/knights-of-sidonia-battle-for-planet-nine",
+    "https://anisearch.com/anime/9815",
+    "https://kitsu.io/anime/8670",
+    "https://livechart.me/anime/642",
+    "https://myanimelist.net/anime/24893",
+    "https://notify.moe/anime/Kvh1pFiiR"
+  ],
+  "synopsis": {
+    "text": "Tsumugi Shiraui, the first human-Gauna hybrid, joins ace pilot Tanikaze Nagate and the crew of the Sidonia as they embark on a daring mission to eliminate the Gauna nest in the Lem system. After a narrow escape from a colossal Gauna, Captain Kobayashi takes control and shifts their strategy from defense to offense. With new, long-range anti-Gauna weaponry and Tsumugi's immense power, the Sidonians aim to reclaim their territory and protect their recently established colony.\n\nAs Tanikaze forms a unique bond with Tsumugi, he faces challenges both in the battlefield and within the ship, where hostility towards chimeras runs high. While trying to make the most of the fleeting moments of peace with his friend Izana Shinatose, Tanikaze remains unaware of Kobayashi's secret plan to develop an experimental weapon that could potentially annihilate Sidonia itself. The stage is set for a climactic battle that will determine the fate of humanity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e8270496a0e19e08",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.811150690579262,
+    "arithmeticGeometricMean": 7.81042815143754,
+    "median": 7.767959183673469,
+    "hash": "e8270496a0e19e08",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13531",
+    "https://anilist.co/anime/103181",
+    "https://anime-planet.com/anime/yakiniku-ten-sengoku",
+    "https://anisearch.com/anime/12921",
+    "https://kitsu.io/anime/41633",
+    "https://livechart.me/anime/2945",
+    "https://myanimelist.net/anime/36626",
+    "https://notify.moe/anime/bC6iahJMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7c5ec6123b72fa3d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.18308596165739,
+    "arithmeticGeometricMean": 6.1631310108903365,
+    "median": 6.326530612244898,
+    "hash": "7c5ec6123b72fa3d",
+    "lastUpdate": "2024-05-10"
+  }
+}

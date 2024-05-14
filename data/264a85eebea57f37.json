@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4379",
+    "https://anilist.co/anime/3113",
+    "https://anime-planet.com/anime/pinky-street",
+    "https://anisearch.com/anime/3593",
+    "https://kitsu.io/anime/2805",
+    "https://livechart.me/anime/6827",
+    "https://myanimelist.net/anime/3113",
+    "https://notify.moe/anime/mM6U5FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "264a85eebea57f37",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.610477604028625,
+    "arithmeticGeometricMean": 4.575158404572026,
+    "median": 4.59,
+    "hash": "264a85eebea57f37",
+    "lastUpdate": "2024-05-09"
+  }
+}

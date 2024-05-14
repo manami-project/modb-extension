@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102943",
+    "https://anime-planet.com/anime/tomoyo",
+    "https://kitsu.io/anime/40788",
+    "https://myanimelist.net/anime/35534",
+    "https://notify.moe/anime/LOZO2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b364894073bdeaf6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.642636363636363,
+    "arithmeticGeometricMean": 5.605203384383089,
+    "median": 5.642636363636363,
+    "hash": "b364894073bdeaf6",
+    "lastUpdate": "2024-05-07"
+  }
+}

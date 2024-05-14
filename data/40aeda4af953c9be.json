@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10148",
+    "https://anime-planet.com/anime/mirai-e-no-niji-boku-no-ojisan-wa-hansen-byou",
+    "https://anisearch.com/anime/9132",
+    "https://kitsu.io/anime/10289",
+    "https://myanimelist.net/anime/29365",
+    "https://notify.moe/anime/2GR8tFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "40aeda4af953c9be",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "40aeda4af953c9be",
+    "lastUpdate": "2024-05-07"
+  }
+}

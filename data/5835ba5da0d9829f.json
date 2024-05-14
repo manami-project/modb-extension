@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13226",
+    "https://anilist.co/anime/113555",
+    "https://anime-planet.com/anime/patlabor-ezy",
+    "https://anisearch.com/anime/14074",
+    "https://kitsu.io/anime/13568",
+    "https://livechart.me/anime/2730",
+    "https://notify.moe/anime/0zO42Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5835ba5da0d9829f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "5835ba5da0d9829f",
+    "lastUpdate": "2024-05-09"
+  }
+}

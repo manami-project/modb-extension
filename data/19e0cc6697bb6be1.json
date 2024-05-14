@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14062",
+    "https://anilist.co/anime/101971",
+    "https://anime-planet.com/anime/rang-wo-men-shao-ba",
+    "https://anisearch.com/anime/14389",
+    "https://kitsu.io/anime/41213",
+    "https://livechart.me/anime/6094",
+    "https://myanimelist.net/anime/37736",
+    "https://notify.moe/anime/tiYhdiGig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "19e0cc6697bb6be1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.904220514179698,
+    "arithmeticGeometricMean": 5.888441367989924,
+    "median": 6.0,
+    "hash": "19e0cc6697bb6be1",
+    "lastUpdate": "2024-05-09"
+  }
+}

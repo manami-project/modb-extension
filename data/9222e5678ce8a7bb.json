@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126170",
+    "https://anime-planet.com/anime/chiaki-maruyama-boukentai-mori-no-yuusha",
+    "https://anisearch.com/anime/15661",
+    "https://kitsu.io/anime/43678",
+    "https://myanimelist.net/anime/43444"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9222e5678ce8a7bb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.5805983302411875,
+    "arithmeticGeometricMean": 6.579977506550926,
+    "median": 6.546196660482375,
+    "hash": "9222e5678ce8a7bb",
+    "lastUpdate": "2024-05-06"
+  }
+}

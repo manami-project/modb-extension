@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14297",
+    "https://anilist.co/anime/108986",
+    "https://anime-planet.com/anime/fighter-of-the-destiny-4th-season",
+    "https://anisearch.com/anime/14523",
+    "https://kitsu.io/anime/43215",
+    "https://livechart.me/anime/9973",
+    "https://myanimelist.net/anime/38220",
+    "https://notify.moe/anime/kB-6_IbMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b969e50f88bec04",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.10882683982684,
+    "arithmeticGeometricMean": 7.096928128607952,
+    "median": 7.1059090909090905,
+    "hash": "6b969e50f88bec04",
+    "lastUpdate": "2024-05-10"
+  }
+}

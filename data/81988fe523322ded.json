@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6028",
+    "https://anilist.co/anime/126437",
+    "https://anime-planet.com/anime/hitotsuboshi-ke-no-ultra-baasan",
+    "https://anisearch.com/anime/5004",
+    "https://kitsu.io/anime/9326",
+    "https://myanimelist.net/anime/21549",
+    "https://notify.moe/anime/UmZfpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "81988fe523322ded",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.863636363636363,
+    "arithmeticGeometricMean": 4.755515957967438,
+    "median": 5.0,
+    "hash": "81988fe523322ded",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8489",
+    "https://anilist.co/anime/10821",
+    "https://anime-planet.com/anime/suite-pretty-cure-movie-torimodose-kokoro-ga-tsunagu-kiseki-no-melody",
+    "https://anisearch.com/anime/7163",
+    "https://kitsu.io/anime/6368",
+    "https://livechart.me/anime/5937",
+    "https://myanimelist.net/anime/10821",
+    "https://notify.moe/anime/sdXVpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d503e858df83b7bd",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.072983950290071,
+    "arithmeticGeometricMean": 7.0547948392844555,
+    "median": 7.0,
+    "hash": "d503e858df83b7bd",
+    "lastUpdate": "2024-05-10"
+  }
+}

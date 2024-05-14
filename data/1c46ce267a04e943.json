@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1373",
+    "https://anilist.co/anime/5071",
+    "https://anime-planet.com/anime/croket",
+    "https://anisearch.com/anime/1625",
+    "https://kitsu.io/anime/3913",
+    "https://livechart.me/anime/11551",
+    "https://myanimelist.net/anime/5071",
+    "https://notify.moe/anime/71895FimR"
+  ],
+  "synopsis": {
+    "text": "Together in a realm where humans and anthropomorphic animals coexist, a magical currency known as Kinkas holds the power to grant any wish. These Kinkas are pursued by adventurers called Bankers, who use Kinka Banks to collect them in hopes of summoning the Bank Wizard, the entity that fulfills their desires.\n\nOur tale follows Croket, a determined and energetic young Banker with superhuman strength. Driven by the loss of his beloved parent, Croket embarks on a quest to gather enough Kinkas to revive his father, Burger, a legendary Banker who was rumored to have been defeated by the enigmatic and sinister 'Black Gown Man.'\n\nAlongside his partner Bank Menchi, Croket encounters fellow Banker Uster, and together they participate in the Banker Survival tournament. This fierce competition gathers valiant men from all corners of the world, each with their own aspirations and dreams. Among them are Rizott, a cool and skilled fighter aiming to protect his hometown, the mysterious Fondovo, and the cheerful Pudding-pudding.\n\nThe shadowy figure of the Black Mantle looms over the tournament, seeking vengeance for a past grievance. With unwavering resolve, Croket confronts his greatest adversary, hoping to reunite with his lost parent. Will Croket's determination and strength lead him to victory and a chance to see his father again?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c46ce267a04e943",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.472007421150278,
+    "arithmeticGeometricMean": 6.455082573394303,
+    "median": 6.381818181818181,
+    "hash": "1c46ce267a04e943",
+    "lastUpdate": "2024-05-09"
+  }
+}

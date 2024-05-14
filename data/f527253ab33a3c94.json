@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7942",
+    "https://anilist.co/anime/9395",
+    "https://anime-planet.com/anime/tatsuya-miyanishi-theatre-heart-and-yummie",
+    "https://anisearch.com/anime/6509",
+    "https://kitsu.io/anime/5720",
+    "https://livechart.me/anime/7882",
+    "https://myanimelist.net/anime/9395",
+    "https://notify.moe/anime/2ugGpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f527253ab33a3c94",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.780312218393852,
+    "arithmeticGeometricMean": 5.721126478194484,
+    "median": 6.102,
+    "hash": "f527253ab33a3c94",
+    "lastUpdate": "2024-05-09"
+  }
+}

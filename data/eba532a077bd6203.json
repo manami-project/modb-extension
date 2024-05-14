@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136981",
+    "https://anime-planet.com/anime/hendo-garden",
+    "https://kitsu.io/anime/14163",
+    "https://myanimelist.net/anime/36675",
+    "https://notify.moe/anime/eT_N2Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eba532a077bd6203",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.855045454545454,
+    "arithmeticGeometricMean": 4.8390611957889185,
+    "median": 4.984090909090909,
+    "hash": "eba532a077bd6203",
+    "lastUpdate": "2024-05-06"
+  }
+}

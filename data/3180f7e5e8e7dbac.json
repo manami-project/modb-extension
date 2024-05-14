@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18610",
+    "https://anilist.co/anime/177385",
+    "https://anime-planet.com/anime/ikoku-nikki",
+    "https://anisearch.com/anime/19241",
+    "https://kitsu.io/anime/48830",
+    "https://livechart.me/anime/12650",
+    "https://myanimelist.net/anime/58788",
+    "https://notify.moe/anime/ubXfo4YSg"
+  ],
+  "synopsis": {
+    "text": "Having lost her parents in a tragic car accident, 15-year-old Asa Takumi finds herself under the care of her estranged 35-year-old aunt, Makio Koudai, a young-adult novelist. Despite their vastly different worlds and personalities, the two must navigate their new living arrangement, each struggling to adapt to the other's quirks. As Makio grapples with the challenges of being a guardian, Asa embarks on a journey of self-discovery, ultimately finding solace in music. Follow their heartwarming and awkward daily lives as they learn to cope with loss, grow together, and find their place in the world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3180f7e5e8e7dbac",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "3180f7e5e8e7dbac",
+    "lastUpdate": "2024-05-13"
+  }
+}

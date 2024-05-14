@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4922",
+    "https://anilist.co/anime/5628",
+    "https://anime-planet.com/anime/21-emon",
+    "https://anisearch.com/anime/4024",
+    "https://kitsu.io/anime/4209",
+    "https://myanimelist.net/anime/5628",
+    "https://notify.moe/anime/MbYC5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "219fdeba791020c5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.307656771799629,
+    "arithmeticGeometricMean": 5.267319347852387,
+    "median": 5.090909090909091,
+    "hash": "219fdeba791020c5",
+    "lastUpdate": "2024-05-08"
+  }
+}

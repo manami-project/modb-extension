@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/chobits-hibiya-and-kotoko-chat",
+    "https://anisearch.com/anime/4916",
+    "https://kitsu.io/anime/1176",
+    "https://myanimelist.net/anime/1311",
+    "https://notify.moe/anime/XhybcKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "65e178bff75b1fbe",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.944548696416365,
+    "arithmeticGeometricMean": 6.930611565982367,
+    "median": 6.746,
+    "hash": "65e178bff75b1fbe",
+    "lastUpdate": "2024-05-06"
+  }
+}

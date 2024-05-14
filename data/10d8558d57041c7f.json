@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/92",
+    "https://anilist.co/anime/154",
+    "https://anime-planet.com/anime/shaman-king",
+    "https://anisearch.com/anime/877",
+    "https://kitsu.io/anime/132",
+    "https://livechart.me/anime/3802",
+    "https://myanimelist.net/anime/154",
+    "https://notify.moe/anime/DJUp5Fmig"
+  ],
+  "synopsis": {
+    "text": "The anime \"Shaman King\" follows the journey of Yoh Asakura, a seemingly ordinary middle school student who possesses extraordinary abilities as a shaman. With the power to communicate with spirits and harness their abilities, Yoh is on a mission to become the Shaman King, a title bestowed upon the winner of the Shaman Fight, a tournament held every 500 years. Alongside his spirit ally Amidamaru and his friends, Yoh navigates a world filled with powerful spirits and formidable opponents, all while facing the looming threat of Hao, a ruthless shaman with his own ambitions for the Shaman King title. As Yoh and his companions embark on this perilous journey, they discover the true extent of their powers and the weight of their responsibilities in shaping the future of the world. Join Yoh and his friends as they battle their way to the top in this thrilling adventure filled with action, mystery, and supernatural wonders.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "10d8558d57041c7f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.522329777365492,
+    "arithmeticGeometricMean": 7.519572178522009,
+    "median": 7.581545454545455,
+    "hash": "10d8558d57041c7f",
+    "lastUpdate": "2024-05-09"
+  }
+}

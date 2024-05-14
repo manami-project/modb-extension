@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1567",
+    "https://anilist.co/anime/1475",
+    "https://anime-planet.com/anime/city-hunter-bay-city-wars",
+    "https://anisearch.com/anime/462",
+    "https://kitsu.io/anime/1321",
+    "https://livechart.me/anime/8412",
+    "https://myanimelist.net/anime/1475",
+    "https://notify.moe/anime/0ODacKmig"
+  ],
+  "synopsis": {
+    "text": "Washington's doom is imminent, unless City Hunter intervenes! A luxurious hotel complex in Tokyo Bay, controlled by an advanced supercomputer, becomes the epicenter of chaos when a deposed Central American dictator and his tech-savvy daughter seek revenge against the United States. The ruthless duo hacks the supercomputer, turning the high-tech amenities into a ticking time bomb aimed at Washington.\n\nAmidst the grand opening festivities, the City Hunter team receives an invitation, but only Kaori and Miki make it to the party. As the terrorists take the attendees hostage, Ryo and Umibozu must rise to the challenge. Can they outsmart the hackers, save their friends, and prevent a nuclear catastrophe before it's too late? The race is on, and the stakes couldn't be higher!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "01b2c7582400537e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.368137556321229,
+    "arithmeticGeometricMean": 7.367243549226856,
+    "median": 7.363636363636363,
+    "hash": "01b2c7582400537e",
+    "lastUpdate": "2024-05-09"
+  }
+}

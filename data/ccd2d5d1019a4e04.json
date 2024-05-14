@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126610",
+    "https://anime-planet.com/anime/stone-age",
+    "https://kitsu.io/anime/40571",
+    "https://myanimelist.net/anime/36657",
+    "https://notify.moe/anime/6yND2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ccd2d5d1019a4e04",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1650909090909085,
+    "arithmeticGeometricMean": 5.075342886594771,
+    "median": 5.1650909090909085,
+    "hash": "ccd2d5d1019a4e04",
+    "lastUpdate": "2024-05-07"
+  }
+}

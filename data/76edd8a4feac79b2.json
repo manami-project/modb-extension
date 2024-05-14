@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11677",
+    "https://anilist.co/anime/97968",
+    "https://anime-planet.com/anime/neko-nanka-yondemo-konai",
+    "https://anisearch.com/anime/10807",
+    "https://kitsu.io/anime/11589",
+    "https://livechart.me/anime/1862",
+    "https://myanimelist.net/anime/31777",
+    "https://notify.moe/anime/knwCpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "76edd8a4feac79b2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.982331036310628,
+    "arithmeticGeometricMean": 5.974060737354558,
+    "median": 5.909090909090908,
+    "hash": "76edd8a4feac79b2",
+    "lastUpdate": "2024-05-09"
+  }
+}

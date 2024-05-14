@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102655",
+    "https://anime-planet.com/anime/yomiuri-shimbun",
+    "https://anisearch.com/anime/10735",
+    "https://kitsu.io/anime/8919",
+    "https://myanimelist.net/anime/25291",
+    "https://notify.moe/anime/zj0bpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d45962f1f93ec03d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.83748113790971,
+    "arithmeticGeometricMean": 4.811923042822618,
+    "median": 4.494897959183673,
+    "hash": "d45962f1f93ec03d",
+    "lastUpdate": "2024-05-06"
+  }
+}

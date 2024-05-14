@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/944",
+    "https://anilist.co/anime/2511",
+    "https://anime-planet.com/anime/goshogun-the-time-etranger",
+    "https://anisearch.com/anime/2734",
+    "https://kitsu.io/anime/2277",
+    "https://livechart.me/anime/9435",
+    "https://myanimelist.net/anime/2511",
+    "https://notify.moe/anime/UzRy5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Remy's heart pounds as she races to reunite with her fellow GoShogun team members, but an unexpected encounter with robbers and a subsequent car accident leave her clinging to life in a hospital bed. As her former comrades and adversaries gather at her side, Remy finds herself trapped in a surreal dream world. In this mysterious city, she and her friends are young once more, but a dark prophecy looms over them, foretelling their deaths in just two days.\n\nHaunted by eerie visions of her own demise and pursued by a menacing girl and her panther-like cat, Remy must navigate the treacherous city and unlock the secrets of its central temple. As the boundary between reality and dream blurs, Remy's memories of her friends provide her with the strength to confront her fate in both worlds. Will she find a way to escape the City of Fate and survive her ordeal, or will this reunion be their final farewell?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d20fe63b020b369c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.521196395441293,
+    "arithmeticGeometricMean": 6.509558218599095,
+    "median": 6.4559999999999995,
+    "hash": "d20fe63b020b369c",
+    "lastUpdate": "2024-05-09"
+  }
+}

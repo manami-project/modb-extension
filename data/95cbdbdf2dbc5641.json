@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12543",
+    "https://anilist.co/anime/97856",
+    "https://anime-planet.com/anime/yuuki-yuuna-wa-yuushabu-shozoku",
+    "https://anisearch.com/anime/12188",
+    "https://kitsu.io/anime/13190",
+    "https://livechart.me/anime/2412",
+    "https://myanimelist.net/anime/34394",
+    "https://notify.moe/anime/46-MhFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "95cbdbdf2dbc5641",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.306420355155049,
+    "arithmeticGeometricMean": 6.2997884129167705,
+    "median": 6.366,
+    "hash": "95cbdbdf2dbc5641",
+    "lastUpdate": "2024-05-10"
+  }
+}

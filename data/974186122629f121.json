@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9891",
+    "https://anilist.co/anime/18817",
+    "https://anime-planet.com/anime/vegetable-fairies-ny-salad-quiz-theater",
+    "https://anisearch.com/anime/8706",
+    "https://kitsu.io/anime/9701",
+    "https://myanimelist.net/anime/18817",
+    "https://notify.moe/anime/rnJLpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "974186122629f121",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.381570810142239,
+    "arithmeticGeometricMean": 5.361576460114436,
+    "median": 5.0,
+    "hash": "974186122629f121",
+    "lastUpdate": "2024-05-08"
+  }
+}

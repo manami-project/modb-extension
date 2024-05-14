@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3664",
+    "https://anilist.co/anime/2568",
+    "https://anime-planet.com/anime/kojika-monogatari",
+    "https://anisearch.com/anime/2532",
+    "https://kitsu.io/anime/2333",
+    "https://livechart.me/anime/8856",
+    "https://myanimelist.net/anime/2568",
+    "https://notify.moe/anime/Q1VscKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2088fc1ae6ed907b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.7675380333951765,
+    "arithmeticGeometricMean": 5.737861125998849,
+    "median": 5.321614100185529,
+    "hash": "2088fc1ae6ed907b",
+    "lastUpdate": "2024-05-09"
+  }
+}

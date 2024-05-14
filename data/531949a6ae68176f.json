@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6518",
+    "https://anilist.co/anime/9061",
+    "https://anime-planet.com/anime/rpg-densetsu-hepoi",
+    "https://anisearch.com/anime/5510",
+    "https://kitsu.io/anime/5590",
+    "https://livechart.me/anime/12094",
+    "https://myanimelist.net/anime/9061",
+    "https://notify.moe/anime/wF0ZpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "531949a6ae68176f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.7777742733457025,
+    "arithmeticGeometricMean": 5.74373303564202,
+    "median": 5.221363636363636,
+    "hash": "531949a6ae68176f",
+    "lastUpdate": "2024-05-09"
+  }
+}

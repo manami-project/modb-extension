@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/673",
+    "https://anime-planet.com/anime/my-hime-specials",
+    "https://anisearch.com/anime/6830",
+    "https://kitsu.io/anime/616",
+    "https://livechart.me/anime/6636",
+    "https://myanimelist.net/anime/673",
+    "https://notify.moe/anime/VNnA5Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e8e4f11c7b3a8ac1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.592576994434137,
+    "arithmeticGeometricMean": 6.582558651611045,
+    "median": 6.713,
+    "hash": "e8e4f11c7b3a8ac1",
+    "lastUpdate": "2024-05-06"
+  }
+}

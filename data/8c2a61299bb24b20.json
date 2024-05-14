@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/234",
+    "https://anilist.co/anime/552",
+    "https://anime-planet.com/anime/digimon-adventure",
+    "https://anisearch.com/anime/2710",
+    "https://kitsu.io/anime/509",
+    "https://livechart.me/anime/3730",
+    "https://myanimelist.net/anime/552",
+    "https://notify.moe/anime/CCBT5FmmR"
+  ],
+  "synopsis": {
+    "text": "DigiWorld, a realm of vibrant colors and enigmatic creatures, becomes the unexpected summer destination for seven adventurous children. Transported by peculiar devices during a bizarre snowfall in July, the group finds themselves far from the familiarity of their summer camp. Greeted by peculiar creatures known as Digimon, the children quickly form bonds with their newfound friends. Among the group, the daring Taichi Yagami and his Digimon partner Agumon lead the charge in navigating this strange world.\n\nAs they journey through the DigiWorld, they encounter both benevolent and malevolent Digimon, with some once-gentle creatures corrupted by a dark power. This sinister force embeds Black Gears into the Digimon, transforming them into vicious monsters that wreak havoc across the land. To combat this threat, the children must rely on their Digivices to empower their Digimon partners, enabling them to evolve into powerful champions.\n\nThe seven friends, now known as the DigiDestined, must confront their fears, embrace their inner strengths, and work together to restore balance to the DigiWorld. As they search for a way back home, they uncover the true purpose of their arrival: to protect the Digital World from the evil forces that seek to destroy it. In this extraordinary adventure, the DigiDestined will learn the value of friendship, trust, and teamwork as they strive to save their new friends and find their way back to their own world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8c2a61299bb24b20",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.514129518644367,
+    "arithmeticGeometricMean": 7.50927312056534,
+    "median": 7.731551469753716,
+    "hash": "8c2a61299bb24b20",
+    "lastUpdate": "2024-05-09"
+  }
+}

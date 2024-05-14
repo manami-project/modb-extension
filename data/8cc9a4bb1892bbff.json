@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/20759",
+    "https://anime-planet.com/anime/gatchaman-crowds-embrace",
+    "https://kitsu.io/anime/8424",
+    "https://livechart.me/anime/4356",
+    "https://myanimelist.net/anime/23703",
+    "https://notify.moe/anime/3xDAtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8cc9a4bb1892bbff",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.399919191919192,
+    "arithmeticGeometricMean": 7.399148824484655,
+    "median": 7.351818181818182,
+    "hash": "8cc9a4bb1892bbff",
+    "lastUpdate": "2024-05-06"
+  }
+}

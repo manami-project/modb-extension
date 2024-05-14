@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7510",
+    "https://anilist.co/anime/20077",
+    "https://anime-planet.com/anime/dotanba-no-manners",
+    "https://anisearch.com/anime/6229",
+    "https://kitsu.io/anime/9252",
+    "https://myanimelist.net/anime/20077",
+    "https://notify.moe/anime/GW_-pKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb111bd553d0ef92",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.595454545454547,
+    "arithmeticGeometricMean": 5.544161332569418,
+    "median": 5.0,
+    "hash": "eb111bd553d0ef92",
+    "lastUpdate": "2024-05-08"
+  }
+}

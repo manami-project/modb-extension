@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6875",
+    "https://anilist.co/anime/7527",
+    "https://anime-planet.com/anime/ponsuke-no-udekurabe",
+    "https://anisearch.com/anime/5967",
+    "https://kitsu.io/anime/5017",
+    "https://myanimelist.net/anime/7527",
+    "https://notify.moe/anime/SNikpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "38419a67ffa02323",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.97526283240569,
+    "arithmeticGeometricMean": 3.9079762186718447,
+    "median": 4.272727272727273,
+    "hash": "38419a67ffa02323",
+    "lastUpdate": "2024-05-08"
+  }
+}

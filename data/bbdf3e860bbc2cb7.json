@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9959",
+    "https://anilist.co/anime/138982",
+    "https://anime-planet.com/anime/zukkoke-sannin-gumi-kusunoki-yashiki-no-guruguru-sama",
+    "https://anisearch.com/anime/9081",
+    "https://kitsu.io/anime/40970",
+    "https://myanimelist.net/anime/36559",
+    "https://notify.moe/anime/tfwd2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bbdf3e860bbc2cb7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.439454545454545,
+    "arithmeticGeometricMean": 5.354209943032391,
+    "median": 5.439454545454545,
+    "hash": "bbdf3e860bbc2cb7",
+    "lastUpdate": "2024-05-07"
+  }
+}

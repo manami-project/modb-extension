@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16390",
+    "https://anilist.co/anime/135939",
+    "https://anime-planet.com/anime/lets-make-a-mug-too-2nd-season",
+    "https://anisearch.com/anime/16408",
+    "https://kitsu.io/anime/44787",
+    "https://livechart.me/anime/10654",
+    "https://myanimelist.net/anime/49263",
+    "https://notify.moe/anime/JFvpr3g7R"
+  ],
+  "synopsis": {
+    "text": "Mino ware pottery takes center stage once again as Himeno Toyokawa, now living in her late mother's hometown of Tajimi city, Gifu prefecture, finds herself on a journey of artistic self-discovery. Having learned that her mother was a legendary potter, Himeno joins the pottery club at her mother's alma mater, encouraged by her classmate, Mika Kukuri.\n\nAs the second season unfolds, Himeno's creative mettle is tested when her father, Tokishirou, challenges her to create a new pottery piece to be displayed alongside her mother's works. The weight of her mother's legacy initially sends her into a creative crisis, but with the support of her friends, she manages to rediscover her artistic spark and overcome her fears.\n\nWith the Mino ware contest behind her, Himeno is determined to craft a piece that surpasses her previous work. As she searches for inspiration, she finds herself reflecting on her mother's early work and talent, learning more about her mother's companions in the process.\n\nAs the pressure mounts, with her father suggesting that her next creation should be the centerpiece at the cafe, Himeno and her friends embark on a journey of new encounters and experiences. Through these experiences, they reconnect with the foundation of their passion, exploring the very essence of pottery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8814e05df5499b4a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.974627551020408,
+    "arithmeticGeometricMean": 6.9692899259065735,
+    "median": 7.039795918367346,
+    "hash": "8814e05df5499b4a",
+    "lastUpdate": "2024-05-10"
+  }
+}

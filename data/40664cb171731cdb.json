@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108937",
+    "https://anime-planet.com/anime/kemurikusa-2018",
+    "https://kitsu.io/anime/43263",
+    "https://myanimelist.net/anime/39416"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "40664cb171731cdb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.16,
+    "arithmeticGeometricMean": 6.159156884655034,
+    "median": 6.13,
+    "hash": "40664cb171731cdb",
+    "lastUpdate": "2024-05-07"
+  }
+}

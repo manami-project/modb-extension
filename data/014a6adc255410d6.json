@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17610",
+    "https://anilist.co/anime/168559",
+    "https://anime-planet.com/anime/sylvanian-families-freya-no-happy-diary",
+    "https://anisearch.com/anime/17667",
+    "https://livechart.me/anime/12119",
+    "https://myanimelist.net/anime/52964",
+    "https://notify.moe/anime/hw7hbjn4R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "014a6adc255410d6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.989090909090909,
+    "arithmeticGeometricMean": 6.988045874122096,
+    "median": 6.989090909090909,
+    "hash": "014a6adc255410d6",
+    "lastUpdate": "2024-05-10"
+  }
+}

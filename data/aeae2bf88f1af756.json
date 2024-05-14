@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8123",
+    "https://anilist.co/anime/123119",
+    "https://anime-planet.com/anime/hulu-xiao-jin-gang",
+    "https://anisearch.com/anime/6677",
+    "https://myanimelist.net/anime/41475"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aeae2bf88f1af756",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.985205936920223,
+    "arithmeticGeometricMean": 5.964522676569104,
+    "median": 5.545454545454546,
+    "hash": "aeae2bf88f1af756",
+    "lastUpdate": "2024-05-08"
+  }
+}

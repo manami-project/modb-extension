@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3138",
+    "https://anilist.co/anime/5554",
+    "https://anime-planet.com/anime/eguchi-hisashi-no-nantoka-narudesho",
+    "https://anisearch.com/anime/1274",
+    "https://kitsu.io/anime/4157",
+    "https://myanimelist.net/anime/5554",
+    "https://notify.moe/anime/KAaj5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af4039d11d7e565b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.900674264510998,
+    "arithmeticGeometricMean": 4.863423381512113,
+    "median": 4.67,
+    "hash": "af4039d11d7e565b",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18221",
+    "https://anilist.co/anime/170505",
+    "https://anime-planet.com/anime/project-sekai-colorful-stage-feat-hatsune-miku-journey-to-bloom",
+    "https://anisearch.com/anime/18735",
+    "https://kitsu.io/anime/48180",
+    "https://livechart.me/anime/12351",
+    "https://myanimelist.net/anime/56830",
+    "https://notify.moe/anime/OuElQccSg"
+  ],
+  "synopsis": {
+    "text": "The anime \"Project Sekai Colorful Stage! feat. Hatsune Miku\" is celebrating its third anniversary with a series of short, animated adaptations of the main storylines from the popular mobile game. This special collection, titled \"Journey to Bloom,\" features digest animations from five unique units: Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, Wonderlands x Showtime, and Nightcord at 25:00. Each unit's story is artfully condensed into engaging and vibrant animations, commemorating the game's milestone while offering viewers an immersive experience into the world of Project Sekai. Don't miss out on the chance to join Hatsune Miku and her friends as they embark on their captivating journeys, filled with hope, resolve, happiness, self-discovery, and stellar performances!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ecc3360baa19520b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.5773005565862706,
+    "arithmeticGeometricMean": 6.530089299121923,
+    "median": 6.955,
+    "hash": "ecc3360baa19520b",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8955",
+    "https://anilist.co/anime/11841",
+    "https://anime-planet.com/anime/qin-shi-mingyue-ye-jin-tianming",
+    "https://anisearch.com/anime/7750",
+    "https://kitsu.io/anime/6615",
+    "https://myanimelist.net/anime/11841",
+    "https://notify.moe/anime/1K6StKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "453e8b0055914015",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.613129457843744,
+    "arithmeticGeometricMean": 6.605490909868544,
+    "median": 6.497272727272728,
+    "hash": "453e8b0055914015",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13332",
+    "https://anilist.co/anime/107351",
+    "https://anime-planet.com/anime/haikyuu-tokushuu-harukou-volley-ni-kaketa-seishun",
+    "https://anisearch.com/anime/12676",
+    "https://kitsu.io/anime/41556",
+    "https://livechart.me/anime/5601",
+    "https://myanimelist.net/anime/35321"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b7549ad0ab866b5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.594020143122184,
+    "arithmeticGeometricMean": 7.5781305555352105,
+    "median": 7.545454545454546,
+    "hash": "3b7549ad0ab866b5",
+    "lastUpdate": "2024-05-09"
+  }
+}

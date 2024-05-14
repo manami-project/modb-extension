@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13115",
+    "https://anilist.co/anime/110452",
+    "https://anime-planet.com/anime/neko-to-mata",
+    "https://anisearch.com/anime/12438",
+    "https://kitsu.io/anime/40759",
+    "https://myanimelist.net/anime/35444",
+    "https://notify.moe/anime/2u6vhKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7b4eb5670c772ca3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.084446505875078,
+    "arithmeticGeometricMean": 5.006010874509864,
+    "median": 4.272727272727273,
+    "hash": "7b4eb5670c772ca3",
+    "lastUpdate": "2024-05-08"
+  }
+}

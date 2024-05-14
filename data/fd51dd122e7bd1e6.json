@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/413",
+    "https://myanimelist.net/anime/4364"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd51dd122e7bd1e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.206632653061224,
+    "arithmeticGeometricMean": 5.186662292629904,
+    "median": 5.206632653061224,
+    "hash": "fd51dd122e7bd1e6",
+    "lastUpdate": "2024-05-06"
+  }
+}

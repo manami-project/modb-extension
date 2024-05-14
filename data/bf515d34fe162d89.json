@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14427",
+    "https://anilist.co/anime/104750",
+    "https://anime-planet.com/anime/dimension-high-school",
+    "https://anisearch.com/anime/13931",
+    "https://kitsu.io/anime/41999",
+    "https://livechart.me/anime/3547",
+    "https://myanimelist.net/anime/38449",
+    "https://notify.moe/anime/axtGpYLig"
+  ],
+  "synopsis": {
+    "text": "Thinking it's just an ordinary day, high school student Junpei stumbles upon an odd-looking rock on his way to cram school. Unbeknownst to him, this rock carries an extraordinary secret. During class, the rock magically comes to life, transporting Junpei and four of his classmates to an alternate world filled with animation! In this new realm, they encounter a menacing sphinx who poses a series of puzzles. To return to their three-dimensional world, the group must solve these riddles and prevent the sphinx from wreaking havoc on both worlds. As they navigate through their new animated lives, can these five unlikely heroes work together and restore balance to their universe?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bf515d34fe162d89",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.904615955473098,
+    "arithmeticGeometricMean": 4.847926720420742,
+    "median": 4.638918367346939,
+    "hash": "bf515d34fe162d89",
+    "lastUpdate": "2024-05-09"
+  }
+}

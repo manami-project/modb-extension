@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9165",
+    "https://anilist.co/anime/19177",
+    "https://anime-planet.com/anime/chiisana-love-letter-mariko-to-nemunoki-no-kodomo-tachi",
+    "https://anisearch.com/anime/7805",
+    "https://kitsu.io/anime/9229",
+    "https://myanimelist.net/anime/19177",
+    "https://notify.moe/anime/HSy-pFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ca4d9b7b3b4e5fd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.103100185528757,
+    "arithmeticGeometricMean": 5.027973761505346,
+    "median": 4.636363636363637,
+    "hash": "7ca4d9b7b3b4e5fd",
+    "lastUpdate": "2024-05-08"
+  }
+}

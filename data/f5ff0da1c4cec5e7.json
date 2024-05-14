@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145371",
+    "https://anime-planet.com/anime/meiwaku-danchi",
+    "https://kitsu.io/anime/40927",
+    "https://myanimelist.net/anime/36386",
+    "https://notify.moe/anime/NvfdhFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f5ff0da1c4cec5e7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.469454545454546,
+    "arithmeticGeometricMean": 5.448763312581333,
+    "median": 5.5,
+    "hash": "f5ff0da1c4cec5e7",
+    "lastUpdate": "2024-05-07"
+  }
+}

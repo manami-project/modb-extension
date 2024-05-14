@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121964",
+    "https://anime-planet.com/anime/bloomed-words",
+    "https://anisearch.com/anime/13338",
+    "https://kitsu.io/anime/42721",
+    "https://myanimelist.net/anime/39206"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4b3869c91764489e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.010102040816326,
+    "arithmeticGeometricMean": 4.917762256754798,
+    "median": 5.285,
+    "hash": "4b3869c91764489e",
+    "lastUpdate": "2024-05-07"
+  }
+}

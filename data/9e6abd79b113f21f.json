@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12896",
+    "https://anilist.co/anime/103421",
+    "https://anime-planet.com/anime/fojiao-donghua-dashi-zhi-pusa-nianfo-yuantong-zhang",
+    "https://kitsu.io/anime/10387",
+    "https://myanimelist.net/anime/29857",
+    "https://notify.moe/anime/fgpUpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e6abd79b113f21f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.000436363636363,
+    "arithmeticGeometricMean": 4.952378892746019,
+    "median": 4.818181818181818,
+    "hash": "9e6abd79b113f21f",
+    "lastUpdate": "2024-05-07"
+  }
+}

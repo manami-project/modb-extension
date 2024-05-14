@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/bob-epic-team-collection",
+    "https://livechart.me/anime/8718",
+    "https://myanimelist.net/anime/38291"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e258dd3859ab15d3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.803000000000001,
+    "arithmeticGeometricMean": 5.802770409117839,
+    "median": 5.803000000000001,
+    "hash": "e258dd3859ab15d3",
+    "lastUpdate": "2024-05-09"
+  }
+}

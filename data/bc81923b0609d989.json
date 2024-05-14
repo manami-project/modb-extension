@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6348",
+    "https://anilist.co/anime/7294",
+    "https://anime-planet.com/anime/licca-chan-fushigi-na-mahou-no-ring",
+    "https://anisearch.com/anime/6617",
+    "https://kitsu.io/anime/4930",
+    "https://myanimelist.net/anime/7294",
+    "https://notify.moe/anime/f4ygtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc81923b0609d989",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.268887887622582,
+    "arithmeticGeometricMean": 6.257602351041498,
+    "median": 6.0,
+    "hash": "bc81923b0609d989",
+    "lastUpdate": "2024-05-07"
+  }
+}

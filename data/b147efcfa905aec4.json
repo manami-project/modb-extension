@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18213",
+    "https://anilist.co/anime/169584",
+    "https://anime-planet.com/anime/the-duke-of-death-and-his-maid-3rd-season",
+    "https://anisearch.com/anime/18716",
+    "https://kitsu.io/anime/47984",
+    "https://livechart.me/anime/12347",
+    "https://myanimelist.net/anime/56738",
+    "https://notify.moe/anime/0_Om94WIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b147efcfa905aec4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.434526901669758,
+    "arithmeticGeometricMean": 7.422124329053119,
+    "median": 7.669489795918368,
+    "hash": "b147efcfa905aec4",
+    "lastUpdate": "2024-05-10"
+  }
+}

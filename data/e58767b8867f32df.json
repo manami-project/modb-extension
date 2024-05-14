@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2150",
+    "https://anilist.co/anime/2679",
+    "https://anime-planet.com/anime/the-enemys-the-pirates",
+    "https://anisearch.com/anime/2461",
+    "https://kitsu.io/anime/2442",
+    "https://livechart.me/anime/6812",
+    "https://myanimelist.net/anime/2679",
+    "https://notify.moe/anime/fhYscKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e58767b8867f32df",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.8544309567983035,
+    "arithmeticGeometricMean": 5.837942999060392,
+    "median": 5.852,
+    "hash": "e58767b8867f32df",
+    "lastUpdate": "2024-05-10"
+  }
+}

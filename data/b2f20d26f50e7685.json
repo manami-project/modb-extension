@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11336",
+    "https://anilist.co/anime/145909",
+    "https://anime-planet.com/anime/kumo-no-ito-2000",
+    "https://anisearch.com/anime/10723",
+    "https://kitsu.io/anime/9409",
+    "https://myanimelist.net/anime/26279",
+    "https://notify.moe/anime/hnpBpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b2f20d26f50e7685",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.45673964131107,
+    "arithmeticGeometricMean": 5.432778096678241,
+    "median": 5.21,
+    "hash": "b2f20d26f50e7685",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143202",
+    "https://anime-planet.com/anime/princess-principal-crown-handler-chapter-2-revealing-reviews",
+    "https://kitsu.io/anime/45704",
+    "https://livechart.me/anime/10965",
+    "https://myanimelist.net/anime/50919"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "15587472ecd1ebcc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.851272727272726,
+    "arithmeticGeometricMean": 6.849292829848642,
+    "median": 6.712,
+    "hash": "15587472ecd1ebcc",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6945",
+    "https://anilist.co/anime/102627",
+    "https://anime-planet.com/anime/shin-saru-kani-gassen",
+    "https://anisearch.com/anime/6607",
+    "https://kitsu.io/anime/14225",
+    "https://kitsu.io/anime/9584",
+    "https://myanimelist.net/anime/30045",
+    "https://notify.moe/anime/rumLtFmig",
+    "https://notify.moe/anime/xazDhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0d30c2d685488238",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.926393320964749,
+    "arithmeticGeometricMean": 4.8840548962293155,
+    "median": 4.636363636363637,
+    "hash": "0d30c2d685488238",
+    "lastUpdate": "2024-05-07"
+  }
+}

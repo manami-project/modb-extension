@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102932",
+    "https://anime-planet.com/anime/lite-echolocation",
+    "https://kitsu.io/anime/13810",
+    "https://myanimelist.net/anime/36069",
+    "https://notify.moe/anime/ofKShFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc9805a154f13471",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.689727272727272,
+    "arithmeticGeometricMean": 5.682454332084457,
+    "median": 5.779999999999999,
+    "hash": "cc9805a154f13471",
+    "lastUpdate": "2024-05-06"
+  }
+}

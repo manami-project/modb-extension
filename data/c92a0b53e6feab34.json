@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/8670",
+    "https://anime-planet.com/anime/pozzie",
+    "https://kitsu.io/anime/5432",
+    "https://myanimelist.net/anime/8670",
+    "https://notify.moe/anime/vmlmpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c92a0b53e6feab34",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.636363636363637,
+    "arithmeticGeometricMean": 4.629219758515446,
+    "median": 4.636363636363637,
+    "hash": "c92a0b53e6feab34",
+    "lastUpdate": "2024-05-07"
+  }
+}

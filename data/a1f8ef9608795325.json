@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108057",
+    "https://anime-planet.com/anime/ganbare-memeko-chan",
+    "https://myanimelist.net/anime/38354"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a1f8ef9608795325",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.813272727272728,
+    "arithmeticGeometricMean": 5.785674410930288,
+    "median": 5.28,
+    "hash": "a1f8ef9608795325",
+    "lastUpdate": "2024-05-06"
+  }
+}

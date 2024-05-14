@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/132472",
+    "https://anime-planet.com/anime/banished-disciples-counterattack",
+    "https://kitsu.io/anime/47474"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ba69fdabd730dc69",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.11509090909091,
+    "arithmeticGeometricMean": 7.111991755936483,
+    "median": 7.11509090909091,
+    "hash": "ba69fdabd730dc69",
+    "lastUpdate": "2024-05-05"
+  }
+}

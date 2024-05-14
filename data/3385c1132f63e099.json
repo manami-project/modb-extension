@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11825",
+    "https://anilist.co/anime/21530",
+    "https://anime-planet.com/anime/kochinpa",
+    "https://anisearch.com/anime/11062",
+    "https://kitsu.io/anime/11661",
+    "https://livechart.me/anime/1951",
+    "https://myanimelist.net/anime/32400",
+    "https://notify.moe/anime/IVW3tKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3385c1132f63e099",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.2981001855287575,
+    "arithmeticGeometricMean": 4.253696729730479,
+    "median": 4.1,
+    "hash": "3385c1132f63e099",
+    "lastUpdate": "2024-05-09"
+  }
+}

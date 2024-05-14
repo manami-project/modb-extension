@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6788",
+    "https://anilist.co/anime/7152",
+    "https://anime-planet.com/anime/anyamaru-tantei-kiruminzuu",
+    "https://anisearch.com/anime/5526",
+    "https://kitsu.io/anime/4880",
+    "https://livechart.me/anime/5956",
+    "https://myanimelist.net/anime/7152",
+    "https://notify.moe/anime/rCJRtKimg"
+  ],
+  "synopsis": {
+    "text": "Mikogami sisters, Riko, Rimu, and Nagisa, are a trio of lively girls living in Kamiha City, where they spend their days engrossed in animal research and cosplaying as their favorite creatures. Their ordinary lives take a magical turn when they stumble upon enigmatic devices called 'Kirumin compacts' in their attic, which enable them to physically transform into real animals. As the girls embark on a series of adorable, amusing, and occasionally perilous escapades, they form a detective club to help people and combat mysterious foreign adversaries who seem to have a sinister interest in their newfound abilities. This heartwarming comedy follows the Mikogami sisters as they navigate through their transformed lives, ensuring laughter, excitement, and a touch of mystery at every turn.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc41d874f489654a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.853174131990458,
+    "arithmeticGeometricMean": 6.84089518650213,
+    "median": 7.0,
+    "hash": "cc41d874f489654a",
+    "lastUpdate": "2024-05-08"
+  }
+}

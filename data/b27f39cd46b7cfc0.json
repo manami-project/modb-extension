@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/melu-troubled-night",
+    "https://kitsu.io/anime/41593",
+    "https://myanimelist.net/anime/35735"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b27f39cd46b7cfc0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.804,
+    "arithmeticGeometricMean": 5.796605561505911,
+    "median": 5.804,
+    "hash": "b27f39cd46b7cfc0",
+    "lastUpdate": "2024-05-07"
+  }
+}

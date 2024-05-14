@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7166",
+    "https://anilist.co/anime/18759",
+    "https://anime-planet.com/anime/captain-the-movie",
+    "https://anisearch.com/anime/5642",
+    "https://kitsu.io/anime/9812",
+    "https://livechart.me/anime/11314",
+    "https://myanimelist.net/anime/18759",
+    "https://notify.moe/anime/f23LtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee1005dcbf30bae6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.828471861471861,
+    "arithmeticGeometricMean": 5.80747840223414,
+    "median": 5.734415584415585,
+    "hash": "ee1005dcbf30bae6",
+    "lastUpdate": "2024-05-09"
+  }
+}

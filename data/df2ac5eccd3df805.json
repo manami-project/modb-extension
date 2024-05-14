@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14736",
+    "https://anilist.co/anime/108354",
+    "https://anime-planet.com/anime/the-girl-from-the-other-side-siuil-a-run-ova",
+    "https://anisearch.com/anime/14252",
+    "https://kitsu.io/anime/42185",
+    "https://livechart.me/anime/9267",
+    "https://myanimelist.net/anime/39495",
+    "https://notify.moe/anime/mFhT9d6mR"
+  ],
+  "synopsis": {
+    "text": "Sensei and Shiva, an unlikely duo hailing from a world divided into two distinct realms: the Inside and the Outside, challenge the forbidden norms of their society. Inhabitants of this world are warned against crossing the boundary between the realms, as the Outside is inhabited by cursed, teratomorphic creatures who can curse anyone they touch.\n\nShiva, a young girl from the Inside, finds herself living in a desolate village with her guardian, a demonic beast-like creature from the Outside known only as \"Sensei.\" Despite the strict rules forbidding contact between beings from the two realms, Shiva and Sensei form a unique bond that transcends their physical differences and the mysterious curse that divides their world.\n\nThis heartwarming folktale of two outcasts – one human, the other inhuman – unfolds in a silent OVA, which offers a glimpse into their domestic life together. Based on the critically acclaimed, Angouleme-nominated graphic novel by manga artist Nagabe, this adaptation explores the depths of an extraordinary friendship that blossoms in the face of adversity. When Shiva ventures out to find her grandmother, the secret behind their enigmatic living arrangement is revealed, adding a new layer of intrigue to their unconventional relationship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "df2ac5eccd3df805",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.470428107606679,
+    "arithmeticGeometricMean": 7.466889995963113,
+    "median": 7.593181818181818,
+    "hash": "df2ac5eccd3df805",
+    "lastUpdate": "2024-05-10"
+  }
+}

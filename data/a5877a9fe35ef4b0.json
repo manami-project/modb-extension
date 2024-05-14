@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13808",
+    "https://anilist.co/anime/103333",
+    "https://anime-planet.com/anime/cmfu-xueyuan-shenshi-ji-jijian",
+    "https://anisearch.com/anime/13925",
+    "https://kitsu.io/anime/41245",
+    "https://livechart.me/anime/8004",
+    "https://myanimelist.net/anime/37620",
+    "https://notify.moe/anime/q1by6jnmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5877a9fe35ef4b0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.199341743970315,
+    "arithmeticGeometricMean": 6.165622916141407,
+    "median": 5.408163265306122,
+    "hash": "a5877a9fe35ef4b0",
+    "lastUpdate": "2024-05-09"
+  }
+}

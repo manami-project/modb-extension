@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13005",
+    "https://anilist.co/anime/99934",
+    "https://anime-planet.com/anime/the-king-of-fighters-destiny",
+    "https://anisearch.com/anime/12723",
+    "https://kitsu.io/anime/13713",
+    "https://livechart.me/anime/1992",
+    "https://myanimelist.net/anime/35204",
+    "https://notify.moe/anime/jN342KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d2b7370062f573d1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.536148423005566,
+    "arithmeticGeometricMean": 6.528405435870453,
+    "median": 6.53,
+    "hash": "d2b7370062f573d1",
+    "lastUpdate": "2024-05-10"
+  }
+}

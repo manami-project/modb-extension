@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12995",
+    "https://anilist.co/anime/98479",
+    "https://anime-planet.com/anime/gurazeni-money-pitch",
+    "https://anisearch.com/anime/12370",
+    "https://kitsu.io/anime/13981",
+    "https://livechart.me/anime/2593",
+    "https://myanimelist.net/anime/35183",
+    "https://notify.moe/anime/lrmN2KiiR"
+  ],
+  "synopsis": {
+    "text": "The anime delves into the life of Bonda Natsunosuke, a seasoned left-handed relief pitcher for the Tokyo Spiders, a professional baseball team with a unique hierarchical structure. In this world, a player's annual salary is directly tied to their performance, creating a ruthless environment where survival hinges on skill and strategy.\n\nNatsunosuke, now in his eighth year with the team, earns a respectable 18 million yen annually. However, the harsh reality of professional sports looms large: retirement is imminent, and only a select few can transition into coaching or commentary roles. This fuels Natsunosuke's relentless pursuit of financial security, as he believes that a player's worth is measured by their earnings.\n\nDespite the challenges, Natsunosuke remains resilient, often repeating the phrase, 'There's money buried in the grounds.' This story chronicles his journey, filled with envy, worry, and determination, as he navigates the complexities of professional baseball, aiming to stay on top and secure his future before his time on the mound runs out.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2cf96891badfd582",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.054520047412904,
+    "arithmeticGeometricMean": 6.027854986189485,
+    "median": 6.052,
+    "hash": "2cf96891badfd582",
+    "lastUpdate": "2024-05-09"
+  }
+}

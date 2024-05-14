@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16493",
+    "https://anilist.co/anime/122630",
+    "https://anime-planet.com/anime/the-westward-3rd-season",
+    "https://kitsu.io/anime/44086",
+    "https://livechart.me/anime/10125",
+    "https://myanimelist.net/anime/49098",
+    "https://notify.moe/anime/kRIc7FeGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5db742550a705bb5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.716227272727274,
+    "arithmeticGeometricMean": 6.6991372131101645,
+    "median": 6.8554545454545455,
+    "hash": "5db742550a705bb5",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10427",
+    "https://anilist.co/anime/119793",
+    "https://anime-planet.com/anime/oniku-daisuki-zeushi-kun",
+    "https://anisearch.com/anime/9434",
+    "https://kitsu.io/anime/8532",
+    "https://livechart.me/anime/2021",
+    "https://myanimelist.net/anime/22541",
+    "https://notify.moe/anime/cuy0pKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "615d630165db0e33",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.511203463203462,
+    "arithmeticGeometricMean": 5.4919435739685545,
+    "median": 5.578181818181818,
+    "hash": "615d630165db0e33",
+    "lastUpdate": "2024-05-09"
+  }
+}

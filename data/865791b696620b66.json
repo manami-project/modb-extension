@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18454",
+    "https://anilist.co/anime/174044",
+    "https://anime-planet.com/anime/mayonaka-punch",
+    "https://anisearch.com/anime/19043",
+    "https://kitsu.io/anime/48467",
+    "https://livechart.me/anime/12516",
+    "https://myanimelist.net/anime/57947",
+    "https://notify.moe/anime/qA3zw1hIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "865791b696620b66",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "865791b696620b66",
+    "lastUpdate": "2024-05-11"
+  }
+}

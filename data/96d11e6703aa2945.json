@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/170114",
+    "https://anime-planet.com/anime/nornis-salvia"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "96d11e6703aa2945",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.166363636363637,
+    "arithmeticGeometricMean": 7.16596894518526,
+    "median": 7.166363636363637,
+    "hash": "96d11e6703aa2945",
+    "lastUpdate": "2024-05-07"
+  }
+}

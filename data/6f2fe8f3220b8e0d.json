@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15843",
+    "https://anilist.co/anime/125931",
+    "https://anime-planet.com/anime/sumikko-gurashi-movie-2",
+    "https://anisearch.com/anime/16259",
+    "https://kitsu.io/anime/43774",
+    "https://livechart.me/anime/10215",
+    "https://myanimelist.net/anime/43780",
+    "https://notify.moe/anime/ylirevYMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f2fe8f3220b8e0d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.095589053803339,
+    "arithmeticGeometricMean": 7.082507382096259,
+    "median": 6.8145454545454545,
+    "hash": "6f2fe8f3220b8e0d",
+    "lastUpdate": "2024-05-10"
+  }
+}

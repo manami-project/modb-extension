@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1539",
+    "https://anilist.co/anime/19",
+    "https://anime-planet.com/anime/monster",
+    "https://anisearch.com/anime/1888",
+    "https://kitsu.io/anime/10",
+    "https://livechart.me/anime/3619",
+    "https://myanimelist.net/anime/19",
+    "https://notify.moe/anime/gLmp5FimR"
+  ],
+  "synopsis": {
+    "text": "One fateful night in post-Cold War Germany, renowned Japanese neurosurgeon Dr. Kenzo Tenma faces a life-altering decision: save the life of a critically injured young boy or operate on the town's influential mayor. Defying his superiors and choosing morality over ambition, Tenma saves the child, unknowingly setting off a series of chilling events that would shatter his once-promising career and idyllic life.\n\nAs the hospital's star surgeon, Tenma's future seems secure, with an impending marriage to his boss's daughter and admiration from colleagues and patients alike. But when a string of enigmatic murders occur in close proximity, Tenma's life spirals into a nightmare. The mysterious boy he saved seems to be at the heart of the bloodshed, and Tenma's unwavering belief in the sanctity of all life is pushed to its limits.\n\nWith his reputation in tatters and haunted by guilt, Tenma embarks on a perilous journey across Germany to unravel the true identity of the boy and the dark secrets that surround him. As he delves deeper into the mystery, Tenma discovers that not only are his own morals and sanity at stake, but the fate of the world may be intertwined with the enigmatic child he saved.\n\nJoin Dr. Kenzo Tenma on a gripping quest for redemption and truth, as he confronts the unimaginable consequences of his choice and grapples with the true nature of good and evil.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a6c35295da4ea4ff",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.600140367991528,
+    "arithmeticGeometricMean": 8.599034259556863,
+    "median": 8.522,
+    "hash": "a6c35295da4ea4ff",
+    "lastUpdate": "2024-05-09"
+  }
+}

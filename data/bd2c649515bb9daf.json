@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10639",
+    "https://anilist.co/anime/20719",
+    "https://anime-planet.com/anime/chaika-the-coffin-princess-avenging-battle",
+    "https://anisearch.com/anime/9669",
+    "https://kitsu.io/anime/8577",
+    "https://livechart.me/anime/555",
+    "https://myanimelist.net/anime/24231",
+    "https://notify.moe/anime/ODqAtFiiR"
+  ],
+  "synopsis": {
+    "text": "On a quest to uncover the scattered remains of Emperor Gaz, Chaika grapples with the enigma of her own identity and purpose. As she delves deeper into this mystery, she is joined by her steadfast companions Toru, Akari, and Fredrika. Meanwhile, the relentless Gillette corporation is hot on their trail, determined to capture every last Chaika. As they journey together, they stumble upon a hidden account that could reveal the Emperor's darkest secrets. As the threat of war looms, the fate of the world rests in the hands of Chaika and her friends. Will they be able to stop the coming storm?\n\nAs Chaika and her companions continue their search for the Emperor's remains, they cross paths with one of the eight heroes, the formidable mage Claudia Dodge. In order to claim the coveted trophy, Chaika must defeat Claudia in battle, but the mage seems invincible. As doubts and uncertainties cloud Chaika's mind, she finds herself torn between her mission and her burgeoning feelings for Toru.\n\nWhen a mysterious figure known only as Guy reveals the existence of the Emperor's greatest treasure hidden on a lost island, Chaika must decide whether to pursue it in the hopes of finding answers to her questions. But with the Gillette corporation and the faction led by the Red Chaika still in pursuit, Chaika's journey is fraught with danger and uncertainty. Will she be able to uncover the truth about her past and stop the coming war, or will the secrets of the Emperor remain buried forever?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd2c649515bb9daf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.243149345274455,
+    "arithmeticGeometricMean": 7.2418568635481995,
+    "median": 7.2888701083705465,
+    "hash": "bd2c649515bb9daf",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1717",
+    "https://anilist.co/anime/1382",
+    "https://anime-planet.com/anime/gaogaigar-final",
+    "https://anisearch.com/anime/2795",
+    "https://kitsu.io/anime/1236",
+    "https://livechart.me/anime/7880",
+    "https://myanimelist.net/anime/1382",
+    "https://notify.moe/anime/eI6b5KmiR"
+  ],
+  "synopsis": {
+    "text": "Gao GaiGar, the super-robot created by the Gutsy Galaxy Guard (GGG), has secured a triumphant victory against the Zonder Empire and the 31 Primevals, restoring peace on Earth. However, the tranquility is short-lived as a new menace, BioNet, emerges, intent on dominating the world with their enigmatic Q-Parts technology.\n\nIn the midst of GGG's struggle against BioNet, the unexpected return of Mamoru, a former ally, adds a twist to the tale. Shockingly, Mamoru turns against GGG, orchestrating attacks on their global facilities and stealing the precious Q-Parts, the very components that brought GaoGaiGar to life.\n\nAs GGG grapples with Mamoru's betrayal, they uncover an even more formidable force, the \"Eleven Kings of Sol.\" This ominous entity appears to be manipulating Mamoru, their power surpassing any adversary GGG has previously encountered. With the stakes higher than ever, the fate of the universe hangs in the balance.\n\nJoined by their French ally, Chasseur, and the resolute Renais Cardiff Shishioh, a former BioNet cyborg thirsting for vengeance, GGG embarks on a cosmic journey. Their mission: to confront the Eleven Kings of Sol, rescue Mamoru, and reclaim the stolen Q-Parts. With the United Nations evicting them from Earth, GGG must traverse the galaxy, facing their most daunting challenge yet. The clock is ticking, and the future of the universe rests in their hands.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "df7b4473761aaeda",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.628713490591041,
+    "arithmeticGeometricMean": 7.610597784488736,
+    "median": 7.854,
+    "hash": "df7b4473761aaeda",
+    "lastUpdate": "2024-05-10"
+  }
+}

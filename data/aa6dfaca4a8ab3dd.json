@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2347",
+    "https://anilist.co/anime/3444",
+    "https://anime-planet.com/anime/the-ultraman",
+    "https://anisearch.com/anime/1849",
+    "https://kitsu.io/anime/3014",
+    "https://livechart.me/anime/11021",
+    "https://myanimelist.net/anime/3444",
+    "https://notify.moe/anime/SuPQcFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aa6dfaca4a8ab3dd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.969685131195335,
+    "arithmeticGeometricMean": 5.934141348007034,
+    "median": 6.363636363636363,
+    "hash": "aa6dfaca4a8ab3dd",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13334",
+    "https://anilist.co/anime/100721",
+    "https://anime-planet.com/anime/boruto-jump-festa-2016-special",
+    "https://anisearch.com/anime/12678",
+    "https://kitsu.io/anime/41528",
+    "https://livechart.me/anime/4740",
+    "https://myanimelist.net/anime/35072"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b21ba4aba3da568f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.421561622051418,
+    "arithmeticGeometricMean": 6.404540080354985,
+    "median": 6.408,
+    "hash": "b21ba4aba3da568f",
+    "lastUpdate": "2024-05-09"
+  }
+}

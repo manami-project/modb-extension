@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/117566",
+    "https://anime-planet.com/anime/boku-no-kachi",
+    "https://kitsu.io/anime/42786",
+    "https://myanimelist.net/anime/39910"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec014bc6463d737d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.238545454545454,
+    "arithmeticGeometricMean": 5.215485893803075,
+    "median": 5.31,
+    "hash": "ec014bc6463d737d",
+    "lastUpdate": "2024-05-07"
+  }
+}

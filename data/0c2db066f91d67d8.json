@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13133",
+    "https://anilist.co/anime/103413",
+    "https://anime-planet.com/anime/mori-no-e",
+    "https://kitsu.io/anime/10351",
+    "https://myanimelist.net/anime/29757",
+    "https://notify.moe/anime/UdNUtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0c2db066f91d67d8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.626363636363636,
+    "arithmeticGeometricMean": 5.6039086666141165,
+    "median": 5.537727272727273,
+    "hash": "0c2db066f91d67d8",
+    "lastUpdate": "2024-05-07"
+  }
+}

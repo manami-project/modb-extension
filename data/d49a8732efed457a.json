@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7339",
+    "https://anime-planet.com/anime/maboroshi-mabo-chan",
+    "https://anisearch.com/anime/4874",
+    "https://kitsu.io/anime/9991",
+    "https://myanimelist.net/anime/27965",
+    "https://notify.moe/anime/nhYPpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d49a8732efed457a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.907,
+    "arithmeticGeometricMean": 5.871923401758175,
+    "median": 5.907,
+    "hash": "d49a8732efed457a",
+    "lastUpdate": "2024-05-07"
+  }
+}

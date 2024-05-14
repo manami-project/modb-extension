@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10774",
+    "https://anilist.co/anime/13551",
+    "https://anime-planet.com/anime/shuukan-storyland",
+    "https://anisearch.com/anime/8293",
+    "https://kitsu.io/anime/6991",
+    "https://myanimelist.net/anime/13551",
+    "https://notify.moe/anime/gh-vtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "252d6c74b2432c04",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.125858070500928,
+    "arithmeticGeometricMean": 5.088881645013112,
+    "median": 4.744897959183673,
+    "hash": "252d6c74b2432c04",
+    "lastUpdate": "2024-05-08"
+  }
+}

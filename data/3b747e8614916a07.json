@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/154956",
+    "https://anime-planet.com/anime/a-sisters-all-you-need-specials",
+    "https://anisearch.com/anime/13183",
+    "https://kitsu.io/anime/41715",
+    "https://livechart.me/anime/4413",
+    "https://myanimelist.net/anime/37047"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b747e8614916a07",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.65895794681509,
+    "arithmeticGeometricMean": 6.649351861444157,
+    "median": 6.487272727272727,
+    "hash": "3b747e8614916a07",
+    "lastUpdate": "2024-05-06"
+  }
+}

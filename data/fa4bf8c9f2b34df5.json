@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7358",
+    "https://anilist.co/anime/8157",
+    "https://anime-planet.com/anime/gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha",
+    "https://anisearch.com/anime/5652",
+    "https://kitsu.io/anime/5222",
+    "https://livechart.me/anime/8093",
+    "https://myanimelist.net/anime/8157",
+    "https://notify.moe/anime/QVqzpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fa4bf8c9f2b34df5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.027209647495361,
+    "arithmeticGeometricMean": 6.015220197582978,
+    "median": 6.2263636363636365,
+    "hash": "fa4bf8c9f2b34df5",
+    "lastUpdate": "2024-05-09"
+  }
+}

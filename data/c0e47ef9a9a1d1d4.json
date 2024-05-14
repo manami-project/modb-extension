@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9306",
+    "https://anilist.co/anime/14751",
+    "https://anime-planet.com/anime/pretty-guardian-sailor-moon-crystal",
+    "https://anisearch.com/anime/7836",
+    "https://kitsu.io/anime/7163",
+    "https://livechart.me/anime/113",
+    "https://myanimelist.net/anime/14751",
+    "https://notify.moe/anime/TOtdpFmiR"
+  ],
+  "synopsis": {
+    "text": "Now adays, life takes an unexpected turn for the lively yet slightly clumsy 14-year-old middle school student, Usagi Tsukino, when she encounters Luna, a talking black cat adorned with a crescent moon on her forehead. Bestowed with a magical brooch by Luna, Usagi transforms into the elegant sailor-suited guardian of love and justice, Sailor Moon. As one of the chosen guardians, Usagi's mission revolves around locating the enigmatic Illusionary Silver Crystal and uniting with the other guardians to safeguard the Moon Princess.\n\nAs Usagi navigates through her newfound responsibilities, she must confront the sinister forces dispatched by Queen Beryl, the malevolent ruler of the Dark Kingdom. With the powerful Illusionary Silver Crystal at stake, the queen is determined to seize it for her own nefarious purposes. Amidst these challenges, Usagi must balance her everyday life, including school, family, and love, while striving to protect the world as Sailor Moon.\n\nWill Sailor Moon and her fellow guardians successfully find the Illusionary Silver Crystal and shield the Moon Princess from the clutches of Queen Beryl? Join Usagi on her thrilling journey to discover the truth and watch as the extraordinary tale of Sailor Moon unfolds!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c0e47ef9a9a1d1d4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.981066516143336,
+    "arithmeticGeometricMean": 6.974339259712657,
+    "median": 7.043210405946255,
+    "hash": "c0e47ef9a9a1d1d4",
+    "lastUpdate": "2024-05-09"
+  }
+}

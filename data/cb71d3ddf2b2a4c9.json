@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/548",
+    "https://anilist.co/anime/900",
+    "https://anime-planet.com/anime/dragon-ball-z-movie-7-super-android-13",
+    "https://anisearch.com/anime/1947",
+    "https://kitsu.io/anime/800",
+    "https://livechart.me/anime/4287",
+    "https://myanimelist.net/anime/900",
+    "https://notify.moe/anime/2fg1cFiiR"
+  ],
+  "synopsis": {
+    "text": "Android assassins, unleashed by the late Dr. Gero's computer, wreak havoc across the globe, with a singular mission: to eliminate Goku. Unbeknownst to the world, these cyborgs, Androids #14, #15, and #13, are cloaked in a sinister invisibility, emitting no ki, and thus, undetectable by the martial artists' finely tuned senses.\n\nAs Goku, Trunks, and Vegeta indulge in a seemingly peaceful day at the mall, chaos unfurls as the androids descend upon the city. The unsuspecting heroes are thrust into a battle for survival, as they confront the relentless androids. After a fierce skirmish, #13 absorbs the inner workings of #14 and #15, transforming into a formidable force to be reckoned with.\n\nThe stakes are raised as the androids, fueled by Dr. Gero's posthumous thirst for vengeance, exploit their intimate knowledge of Goku's fighting style. The cyborgs, designed to predict and counter Goku's every move, pose a challenge unlike any he has faced before.\n\nIn a climactic showdown, Goku, Vegeta, and Trunks must marshal their strength and cunning to vanquish this seemingly unstoppable foe. Can our heroes rise to the occasion and save the world from the clutches of Dr. Gero's malevolent creations, or will this be the end of the line for our beloved Saiyans?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb71d3ddf2b2a4c9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.83222680890538,
+    "arithmeticGeometricMean": 6.826325367209119,
+    "median": 6.910454545454546,
+    "hash": "cb71d3ddf2b2a4c9",
+    "lastUpdate": "2024-05-09"
+  }
+}

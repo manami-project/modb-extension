@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2691",
+    "https://anilist.co/anime/2648",
+    "https://anime-planet.com/anime/2112-the-birth-of-doraemon",
+    "https://anisearch.com/anime/510",
+    "https://kitsu.io/anime/2412",
+    "https://livechart.me/anime/6758",
+    "https://myanimelist.net/anime/2648",
+    "https://notify.moe/anime/AK1s5Kiig"
+  ],
+  "synopsis": {
+    "text": "When the calendar flipped to September 3, 2112, Doraemon, a robot cat with a sunny yellow hue and a captivating high-pitched voice, was being assembled at the Matsushiba Robot Factory. However, an unexpected power surge caused by time-traveling terrorists led to a short circuit, leaving Doraemon in a heap of industrial waste. Luckily, Noramyaako, a charming robotic feline, swooped in to save him, sparking an instant connection between the two. Despite his production mishap, Doraemon was sent to a special class for unique robots, where he reunited with Noramyaako. This heartwarming tale serves as a prequel to the beloved series, offering a glimpse into Doraemon's early days, his first love, and his eventual decision to journey back in time to assist the Nobi family.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5eb863e7a9cb27a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.076963689371852,
+    "arithmeticGeometricMean": 7.069004744061013,
+    "median": 7.181818181818182,
+    "hash": "e5eb863e7a9cb27a",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16045",
+    "https://anilist.co/anime/121856",
+    "https://anime-planet.com/anime/the-westward-zhi-zaijian-wukong",
+    "https://kitsu.io/anime/44089",
+    "https://livechart.me/anime/10126",
+    "https://myanimelist.net/anime/42209",
+    "https://notify.moe/anime/CI2vlGMMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f87a060da158d499",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.000181818181819,
+    "arithmeticGeometricMean": 6.993863091488322,
+    "median": 6.9363636363636365,
+    "hash": "f87a060da158d499",
+    "lastUpdate": "2024-05-10"
+  }
+}

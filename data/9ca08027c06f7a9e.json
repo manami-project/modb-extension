@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14438",
+    "https://anilist.co/anime/104460",
+    "https://anime-planet.com/anime/laid-back-camp-movie",
+    "https://anisearch.com/anime/14000",
+    "https://kitsu.io/anime/41977",
+    "https://livechart.me/anime/3551",
+    "https://myanimelist.net/anime/38475",
+    "https://notify.moe/anime/2BW_hfamR"
+  ],
+  "synopsis": {
+    "text": "Yuru Camp is back, and this time, our beloved characters are not just camping, but building a campground from scratch! Rin Shima, now a working woman in Nagoya, receives a surprise message from Chiaki Oogaki, who is tasked with revitalizing a closed campground in Yamanashi Prefecture to boost tourism. Rin suggests involving their old camping buddies, Nadeshiko Kagamihara, Ena Saitou, and Aoi Inuyama, leading to a reunion filled with nostalgia and shared memories of their high school camping days. Together, they embark on this new adventure, combining their skills and passion for camping to create a space for future generations to enjoy, all while reminiscing about their youthful escapades.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9ca08027c06f7a9e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.366273654916512,
+    "arithmeticGeometricMean": 8.363609356214317,
+    "median": 8.31165306122449,
+    "hash": "9ca08027c06f7a9e",
+    "lastUpdate": "2024-05-10"
+  }
+}

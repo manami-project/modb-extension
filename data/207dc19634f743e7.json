@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4415",
+    "https://anilist.co/anime/1771",
+    "https://anime-planet.com/anime/ring-ni-kakero-1-nichibei-kessen-hen",
+    "https://anisearch.com/anime/4084",
+    "https://kitsu.io/anime/1591",
+    "https://livechart.me/anime/11625",
+    "https://myanimelist.net/anime/1771",
+    "https://notify.moe/anime/aEhB5KimR"
+  ],
+  "synopsis": {
+    "text": "Tournament Turbulence! Fresh off his victory as the Japanese Junior Champion, Ryuuji Takane and his crew, including Kazuki, Takeshi, Ishimatsu, and the indomitable Jun Kenzaki, are eager to prove their mettle at the World Junior Boxing Tournament. But before they can step onto the global stage, they must face an unexpected challenge from the American Junior Champion, Black Shaft.\n\nBlack Shaft, driven by his own mysterious motives, seeks to undermine Japan's boxing reputation and has assembled a formidable team of unconventional fighters. Among them are a convict on death row, the ruthless leader of the notorious American gang, the Great Angels, a mysterious woman, and the enigmatic 'Dark Emperor of the South'.\n\nAs the tension mounts, Black Shaft engages in clandestine negotiations with the Italian Junior Champion, Don Juliano, hinting at a potential wildcard in play. With the odds stacked against them, can Ryuuji and his fellow boxers rise to the challenge and demonstrate their world-class skills, or will Black Shaft's unorthodox team claim victory? The stage is set for a thrilling showdown that will determine the true champions of junior boxing.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "207dc19634f743e7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.270652531142328,
+    "arithmeticGeometricMean": 6.2466325771830995,
+    "median": 6.2727272727272725,
+    "hash": "207dc19634f743e7",
+    "lastUpdate": "2024-05-09"
+  }
+}

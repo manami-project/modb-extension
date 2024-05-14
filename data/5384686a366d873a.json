@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12840",
+    "https://anilist.co/anime/8716",
+    "https://anime-planet.com/anime/arigatou-thank-you",
+    "https://anisearch.com/anime/6296",
+    "https://kitsu.io/anime/5455",
+    "https://myanimelist.net/anime/8716",
+    "https://notify.moe/anime/FpCmtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5384686a366d873a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.355992578849722,
+    "arithmeticGeometricMean": 4.26770390649375,
+    "median": 4.181818181818182,
+    "hash": "5384686a366d873a",
+    "lastUpdate": "2024-05-08"
+  }
+}

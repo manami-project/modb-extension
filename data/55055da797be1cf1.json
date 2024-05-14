@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7644",
+    "https://anilist.co/anime/9166",
+    "https://anime-planet.com/anime/attack-no-1-namida-no-sekai-senshuken",
+    "https://anisearch.com/anime/6319",
+    "https://kitsu.io/anime/5620",
+    "https://myanimelist.net/anime/9166",
+    "https://notify.moe/anime/4QBWtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "55055da797be1cf1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.03838713667285,
+    "arithmeticGeometricMean": 6.031471269298352,
+    "median": 6.098979591836734,
+    "hash": "55055da797be1cf1",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9764",
+    "https://anilist.co/anime/17873",
+    "https://anime-planet.com/anime/pokemon-black-and-white-adventures-in-unova-and-beyond",
+    "https://anisearch.com/anime/8513",
+    "https://kitsu.io/anime/7895",
+    "https://livechart.me/anime/831",
+    "https://myanimelist.net/anime/17873",
+    "https://notify.moe/anime/NFeppKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09e019fc0e4f9813",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.549969542362399,
+    "arithmeticGeometricMean": 6.542966684154747,
+    "median": 6.557575757575758,
+    "hash": "09e019fc0e4f9813",
+    "lastUpdate": "2024-05-09"
+  }
+}

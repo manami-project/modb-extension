@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127971",
+    "https://anime-planet.com/anime/daoko-boku-re-arrange",
+    "https://kitsu.io/anime/44040",
+    "https://myanimelist.net/anime/48987"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "852531bcb024c461",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.558121212121212,
+    "arithmeticGeometricMean": 6.554107948766281,
+    "median": 6.636363636363637,
+    "hash": "852531bcb024c461",
+    "lastUpdate": "2024-05-07"
+  }
+}

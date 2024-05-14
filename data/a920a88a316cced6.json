@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9887",
+    "https://anilist.co/anime/18745",
+    "https://anime-planet.com/anime/chihayafuru-ova",
+    "https://anisearch.com/anime/8725",
+    "https://kitsu.io/anime/7814",
+    "https://livechart.me/anime/78",
+    "https://myanimelist.net/anime/18745",
+    "https://notify.moe/anime/iC0ttKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a920a88a316cced6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.993074108431251,
+    "arithmeticGeometricMean": 6.989344933952141,
+    "median": 7.0604545454545455,
+    "hash": "a920a88a316cced6",
+    "lastUpdate": "2024-05-09"
+  }
+}

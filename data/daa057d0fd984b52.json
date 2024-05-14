@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16477",
+    "https://anilist.co/anime/131726",
+    "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-the-sky-adventure",
+    "https://myanimelist.net/anime/43998"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "daa057d0fd984b52",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.090909090909091,
+    "arithmeticGeometricMean": 4.090909090909091,
+    "median": 4.090909090909091,
+    "hash": "daa057d0fd984b52",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/154174",
+    "https://anime-planet.com/anime/hawk-no-onayami-soudanshitsu",
+    "https://kitsu.io/anime/48490",
+    "https://myanimelist.net/anime/42490"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aba693b2e085840a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.427818181818182,
+    "arithmeticGeometricMean": 5.425228943455193,
+    "median": 5.545454545454546,
+    "hash": "aba693b2e085840a",
+    "lastUpdate": "2024-05-07"
+  }
+}

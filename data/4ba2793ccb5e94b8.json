@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17908",
+    "https://anilist.co/anime/162722",
+    "https://anime-planet.com/anime/mahou-tsukai-pretty-cure-2",
+    "https://anisearch.com/anime/18272",
+    "https://kitsu.io/anime/47186",
+    "https://livechart.me/anime/11856",
+    "https://myanimelist.net/anime/54717"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ba2793ccb5e94b8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "4ba2793ccb5e94b8",
+    "lastUpdate": "2024-05-11"
+  }
+}

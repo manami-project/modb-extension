@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1220",
+    "https://anilist.co/anime/1130",
+    "https://anime-planet.com/anime/once-upon-a-time",
+    "https://anisearch.com/anime/2836",
+    "https://kitsu.io/anime/1013",
+    "https://livechart.me/anime/7031",
+    "https://myanimelist.net/anime/1130",
+    "https://notify.moe/anime/HcgbcFmiR"
+  ],
+  "synopsis": {
+    "text": "For centuries, the tranquil maritime kingdom of Isa and the industrialized military state of Paro have coexisted peacefully. However, the ambitious monarch of Paro shatters this harmony, coveting the prosperity of Isa and igniting a devastating war. Caught in the crossfire are two pairs of young lovers: Ahanas, the princess of Isa, and Jill, the prince of Paro, whose love is tested by their families' escalating hostilities; and Izu, an ambitious farmer from the village of Saki, and his devoted wife Marin, whose love is challenged by Izu's decision to join Paro's army in exchange for fame and fortune. As the war intensifies, the village of Saki, nestled between the two kingdoms and home to the sacred Windaria tree, becomes a battleground, leaving the villagers to pray for peace and the safe return of their loved ones. In this tumultuous world of magic and unicorns, will the power of love conquer the ambitions of man, or will it be sacrificed to the whims of war?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "637c65f5e1f9d586",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.242552875695732,
+    "arithmeticGeometricMean": 6.233306456871298,
+    "median": 6.363636363636363,
+    "hash": "637c65f5e1f9d586",
+    "lastUpdate": "2024-05-10"
+  }
+}

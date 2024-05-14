@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7617",
+    "https://anilist.co/anime/130126",
+    "https://anime-planet.com/anime/bunna-yo-ki-kara-orite-koi",
+    "https://anisearch.com/anime/6766",
+    "https://kitsu.io/anime/9221",
+    "https://myanimelist.net/anime/23611",
+    "https://notify.moe/anime/kHE-pKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "34ca6861772257a9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.923933209647495,
+    "arithmeticGeometricMean": 4.914370316670345,
+    "median": 5.0,
+    "hash": "34ca6861772257a9",
+    "lastUpdate": "2024-05-08"
+  }
+}

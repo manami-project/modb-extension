@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3398",
+    "https://anilist.co/anime/2757",
+    "https://anime-planet.com/anime/juuni-senshi-bakuretsu-eto-ranger",
+    "https://anisearch.com/anime/2687",
+    "https://kitsu.io/anime/2517",
+    "https://livechart.me/anime/8910",
+    "https://myanimelist.net/anime/2757",
+    "https://notify.moe/anime/BMey5KimR"
+  ],
+  "synopsis": {
+    "text": "In the celestial realm of Mugen, a land suspended in the sky, 12 brave warriors known as the Eto Rangers stand guard against the forces of chaos. Each of these warriors embodies one of the 12 Chinese zodiac animals, and they are tasked with safeguarding the Novel Worlds, realms born from human imagination and filled with stories both old and new.\n\nTheir adversary is Nyanma, the vengeful Spirit of Cats, who was left out of the zodiac selection and now seeks retribution. She disrupts the harmony of the Novel Worlds by unleashing Jarei Monsters, malevolent creatures that twist the narratives of these realms, turning beloved tales into unrecognizable versions of themselves.\n\nBakumaru, the Spirit of Mice, wields the Genmakyou mirror to unveil the true form of these monsters, often requiring the Eto Rangers to immerse themselves in the altered stories to gather enough clues. Once the evil spirit is revealed, they summon the Space-Time Transmitting Machine Kirinda, which descends from a dimensional rift to purify the monster with a powerful beam of light.\n\nUnder the watchful eye of Princess Aura, who reigns over Mugen from her palace island, the Eto Rangers traverse the Novel Worlds, battling the Jarei Monsters to preserve the integrity of these stories and the well-being of humanity. Their mission is a testament to the enduring power of imagination and the enduring spirit of those who protect it.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee4f103013b403eb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.070633448184468,
+    "arithmeticGeometricMean": 6.023390165981478,
+    "median": 6.04,
+    "hash": "ee4f103013b403eb",
+    "lastUpdate": "2024-05-09"
+  }
+}

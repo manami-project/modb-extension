@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/18871",
+    "https://myanimelist.net/anime/57198"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1200c02fd44d521d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.8455102040816325,
+    "arithmeticGeometricMean": 5.843703228865199,
+    "median": 5.8455102040816325,
+    "hash": "1200c02fd44d521d",
+    "lastUpdate": "2024-05-07"
+  }
+}

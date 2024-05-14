@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16118",
+    "https://anilist.co/anime/136140",
+    "https://anime-planet.com/anime/ryuusatsu-no-kyoukotsu",
+    "https://anisearch.com/anime/16047",
+    "https://kitsu.io/anime/44915",
+    "https://livechart.me/anime/10901",
+    "https://myanimelist.net/anime/48589"
+  ],
+  "score": {
+    "arithmeticMean": 4.871972789115646,
+    "arithmeticGeometricMean": 4.868639610587867,
+    "median": 5.0,
+    "hash": "3ba10ba6f0fd96ef",
+    "lastUpdate": "2024-05-09"
+  }
+}

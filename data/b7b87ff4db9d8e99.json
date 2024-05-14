@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7126",
+    "https://anime-planet.com/anime/code-geass-lelouch-of-the-rebellion-special-edition-black-rebellion",
+    "https://anisearch.com/anime/5294",
+    "https://kitsu.io/anime/3700",
+    "https://livechart.me/anime/4569",
+    "https://myanimelist.net/anime/4596",
+    "https://notify.moe/anime/uZkrcKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b7b87ff4db9d8e99",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.618998975828908,
+    "arithmeticGeometricMean": 7.616939353077475,
+    "median": 7.68,
+    "hash": "b7b87ff4db9d8e99",
+    "lastUpdate": "2024-05-09"
+  }
+}

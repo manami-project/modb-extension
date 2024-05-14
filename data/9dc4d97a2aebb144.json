@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1053",
+    "https://anilist.co/anime/2141",
+    "https://anime-planet.com/anime/oseam",
+    "https://anisearch.com/anime/3108",
+    "https://kitsu.io/anime/1938",
+    "https://livechart.me/anime/7355",
+    "https://myanimelist.net/anime/2141",
+    "https://notify.moe/anime/J6uYcKimR"
+  ],
+  "synopsis": {
+    "text": "The heartwarming and award-winning anime \"Oseam\" follows the journey of two orphaned siblings, five-year-old Gilson and his blind sister Gami, as they search for their missing mother. Based on the popular Korean fairy tale by Jeong Chae-bong, the story takes a turn when the pair are taken in by kind-hearted monks at a secluded temple in Mt. Seorak.\n\nGilson, a lively and curious boy, quickly adapts to life in the temple and befriends all living creatures, even communicating with clouds, birds, and flowers. Despite finding solace in his new home, Gilson still yearns for his mother, leaving Gami feeling helpless and unable to protect him from the local bullies.\n\nOne fateful snowy day, Gilson accompanies one of the monks to a distant mountain temple, setting in motion a series of events that will change their lives forever. With its innocent and heart-stirring tale, \"Oseam\" invites viewers on an hour-long journey of self-discovery and the true meaning of family.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9dc4d97a2aebb144",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.008416644579911,
+    "arithmeticGeometricMean": 6.999951884685747,
+    "median": 7.03,
+    "hash": "9dc4d97a2aebb144",
+    "lastUpdate": "2024-05-09"
+  }
+}

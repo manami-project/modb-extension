@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/153986",
+    "https://anime-planet.com/anime/ado-tot-musica",
+    "https://anisearch.com/anime/17623",
+    "https://kitsu.io/anime/46389",
+    "https://myanimelist.net/anime/52846"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a156c7c4c847120a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.173622263450834,
+    "arithmeticGeometricMean": 8.172141444558052,
+    "median": 8.05,
+    "hash": "a156c7c4c847120a",
+    "lastUpdate": "2024-05-06"
+  }
+}

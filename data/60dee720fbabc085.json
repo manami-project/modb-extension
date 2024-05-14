@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14012",
+    "https://anilist.co/anime/103001",
+    "https://anime-planet.com/anime/susume-karolina",
+    "https://anisearch.com/anime/13566",
+    "https://kitsu.io/anime/41426",
+    "https://livechart.me/anime/6436",
+    "https://myanimelist.net/anime/37684",
+    "https://notify.moe/anime/-KChV0vmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "60dee720fbabc085",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.108262920752717,
+    "arithmeticGeometricMean": 6.078765040062746,
+    "median": 6.55,
+    "hash": "60dee720fbabc085",
+    "lastUpdate": "2024-05-10"
+  }
+}

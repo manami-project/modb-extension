@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/151987",
+    "https://anime-planet.com/anime/the-detective-is-already-dead-mini-anime",
+    "https://kitsu.io/anime/46250",
+    "https://myanimelist.net/anime/49510",
+    "https://notify.moe/anime/cOLGtqRVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "74259d6c24b5596a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.198,
+    "arithmeticGeometricMean": 6.190221086317062,
+    "median": 6.0,
+    "hash": "74259d6c24b5596a",
+    "lastUpdate": "2024-05-07"
+  }
+}

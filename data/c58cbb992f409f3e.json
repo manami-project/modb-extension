@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12505",
+    "https://anilist.co/anime/117876",
+    "https://anime-planet.com/anime/kamigami-no-ki",
+    "https://anisearch.com/anime/11940",
+    "https://kitsu.io/anime/12819",
+    "https://myanimelist.net/anime/34292",
+    "https://notify.moe/anime/IA7ZhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c58cbb992f409f3e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.950449598021026,
+    "arithmeticGeometricMean": 4.86683581702636,
+    "median": 5.181818181818182,
+    "hash": "c58cbb992f409f3e",
+    "lastUpdate": "2024-05-08"
+  }
+}

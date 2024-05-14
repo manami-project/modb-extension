@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/841",
+    "https://anilist.co/anime/1844",
+    "https://anime-planet.com/anime/clamp-school-detectives",
+    "https://anisearch.com/anime/1341",
+    "https://kitsu.io/anime/1661",
+    "https://livechart.me/anime/5503",
+    "https://myanimelist.net/anime/1844",
+    "https://notify.moe/anime/Qmyf5Kmmg"
+  ],
+  "synopsis": {
+    "text": "President Nokoru Imonoyama, Secretary Suoh Takamura, and Treasurer Akira Ijyuuin are the talented trio leading the student council at CLAMP School, a prestigious institution funded by the powerful House of Imonoyama. This massive educational complex, spanning from kindergarten to post-graduate studies, boasts a diverse student body of 10,000 gifted individuals, regardless of their financial backgrounds.\n\nThe three friends, known for their resourcefulness and charm, decide to form the CLAMP School Detective Agency to tackle the various mysteries and crimes that plague the campus. With Nokoru's boundless energy, Suoh's calm demeanor, and Akira's culinary skills, they make a formidable team.\n\nAs they dive headfirst into solving cases, the detective agency becomes a beacon of hope for those in need, including the occasional damsel in distress. Join this dynamic trio as they balance their student council duties with their thrilling detective work, proving that no challenge is too great for the brilliant minds of CLAMP School.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "caf70d8f48059006",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.480129340047708,
+    "arithmeticGeometricMean": 6.472366172759803,
+    "median": 6.602,
+    "hash": "caf70d8f48059006",
+    "lastUpdate": "2024-05-09"
+  }
+}

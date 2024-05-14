@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12630",
+    "https://anilist.co/anime/139901",
+    "https://anime-planet.com/anime/computer-obaa-chan",
+    "https://anisearch.com/anime/6817",
+    "https://kitsu.io/anime/8825",
+    "https://myanimelist.net/anime/22427",
+    "https://notify.moe/anime/UNGbpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4ceee914fca38a3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.911910946196661,
+    "arithmeticGeometricMean": 4.8646026853012,
+    "median": 4.97,
+    "hash": "d4ceee914fca38a3",
+    "lastUpdate": "2024-05-07"
+  }
+}

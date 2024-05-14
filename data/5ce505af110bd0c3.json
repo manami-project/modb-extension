@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145283",
+    "https://anime-planet.com/anime/sachiko-aoyama-vanilla",
+    "https://kitsu.io/anime/43227",
+    "https://myanimelist.net/anime/41039"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ce505af110bd0c3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.223030303030303,
+    "arithmeticGeometricMean": 6.219293119913797,
+    "median": 6.12,
+    "hash": "5ce505af110bd0c3",
+    "lastUpdate": "2024-05-07"
+  }
+}

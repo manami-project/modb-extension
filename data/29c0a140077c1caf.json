@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13363",
+    "https://anilist.co/anime/99750",
+    "https://anime-planet.com/anime/i-want-to-eat-your-pancreas",
+    "https://anisearch.com/anime/12730",
+    "https://kitsu.io/anime/13723",
+    "https://livechart.me/anime/2829",
+    "https://myanimelist.net/anime/36098",
+    "https://notify.moe/anime/3RRI2FiiR"
+  ],
+  "synopsis": {
+    "text": "One spring day, amidst the last blooming cherry blossoms, an introverted bookworm stumbles upon a handwritten book titled \"Living with Dying\" in a hospital waiting room. The book turns out to be a diary belonging to his lively and popular classmate, Sakura Yamauchi, who confides in him that she is secretly battling a pancreatic illness with limited time left. Despite their contrasting personalities, the aloof bookworm becomes Sakura's confidant, and together, they navigate through life's ups and downs. Sakura's free-spirited nature and unpredictable actions slowly chip away at the bookworm's detached demeanor, leading him to experience life in a new light. As they spend more time together, the two form a unique bond that transcends the boundaries of friendship and love. Determined to live life to the fullest, Sakura shows the bookworm the true meaning of living, leaving a lasting impact on his heart.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "29c0a140077c1caf",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.571370047602025,
+    "arithmeticGeometricMean": 8.56991164958786,
+    "median": 8.59,
+    "hash": "29c0a140077c1caf",
+    "lastUpdate": "2024-05-09"
+  }
+}

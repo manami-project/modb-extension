@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14647",
+    "https://anilist.co/anime/108988",
+    "https://anime-planet.com/anime/hua-jianghu-zhi-buliang-ren-iii",
+    "https://anisearch.com/anime/16155",
+    "https://kitsu.io/anime/43751",
+    "https://livechart.me/anime/10609",
+    "https://myanimelist.net/anime/39141",
+    "https://notify.moe/anime/QQ7QueR7R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec76d7e0b6c0e09f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.497318181818182,
+    "arithmeticGeometricMean": 6.479548617947266,
+    "median": 6.5236363636363635,
+    "hash": "ec76d7e0b6c0e09f",
+    "lastUpdate": "2024-05-09"
+  }
+}

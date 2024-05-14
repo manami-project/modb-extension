@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9713",
+    "https://anilist.co/anime/17090",
+    "https://anime-planet.com/anime/agigongryong-doolie-2009",
+    "https://anisearch.com/anime/8835",
+    "https://kitsu.io/anime/7579",
+    "https://myanimelist.net/anime/17090",
+    "https://notify.moe/anime/a655tKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c0672c372d5b5e6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.417159925788497,
+    "arithmeticGeometricMean": 5.391360877585724,
+    "median": 5.0,
+    "hash": "5c0672c372d5b5e6",
+    "lastUpdate": "2024-05-07"
+  }
+}

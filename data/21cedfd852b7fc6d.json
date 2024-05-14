@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3562",
+    "https://anilist.co/anime/280",
+    "https://anime-planet.com/anime/animal-yokocho",
+    "https://anisearch.com/anime/2092",
+    "https://kitsu.io/anime/255",
+    "https://myanimelist.net/anime/280",
+    "https://notify.moe/anime/47thcKmmg"
+  ],
+  "synopsis": {
+    "text": "Animal Yokocho, a realm of whimsical and peculiar creatures, intersects with the world of a young, rational 5-year-old girl named Ami-chan through a secret door in her bedroom floor. Upon moving into her new home, Ami-chan encounters three talking animals: Issa, a gentle and naive panda; Kenta, an anxious bear with a penchant for red scarves and feigning toughness; and Iyo, a self-centered rabbit prioritizing her own well-being and pleasure. Initially hesitant, Ami-chan soon befriends the trio and embraces their daily escapades, which often involve twisted versions of seemingly innocent games. However, these AniYoko-style activities frequently prove to be illogical and perilous for Ami-chan, adding an unexpected layer of chaos and excitement to her life. As more mysterious characters from Animal Yokocho make their appearances, Ami-chan's secret adventures with her newfound friends continue to unfold.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "21cedfd852b7fc6d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.373393586005831,
+    "arithmeticGeometricMean": 6.342448028666408,
+    "median": 6.666,
+    "hash": "21cedfd852b7fc6d",
+    "lastUpdate": "2024-05-07"
+  }
+}

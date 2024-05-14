@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7349",
+    "https://anilist.co/anime/136490",
+    "https://anime-planet.com/anime/kobo-chan-aki-ga-ippai",
+    "https://anisearch.com/anime/6049"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c632d54217ffc17",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.9185454545454546,
+    "arithmeticGeometricMean": 5.875105180219414,
+    "median": 5.9185454545454546,
+    "hash": "4c632d54217ffc17",
+    "lastUpdate": "2024-05-08"
+  }
+}

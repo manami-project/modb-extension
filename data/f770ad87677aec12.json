@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15471",
+    "https://anilist.co/anime/118630",
+    "https://anime-planet.com/anime/duel-masters-king",
+    "https://anisearch.com/anime/15208",
+    "https://kitsu.io/anime/43563",
+    "https://livechart.me/anime/9874",
+    "https://myanimelist.net/anime/41529",
+    "https://notify.moe/anime/gq67r_rWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f770ad87677aec12",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.641141929499073,
+    "arithmeticGeometricMean": 5.623337802623677,
+    "median": 5.693181818181818,
+    "hash": "f770ad87677aec12",
+    "lastUpdate": "2024-05-09"
+  }
+}

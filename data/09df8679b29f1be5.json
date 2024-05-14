@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13069",
+    "https://anilist.co/anime/98546",
+    "https://anime-planet.com/anime/classicaloid-2nd-season",
+    "https://anisearch.com/anime/12380",
+    "https://kitsu.io/anime/13317",
+    "https://livechart.me/anime/2655",
+    "https://myanimelist.net/anime/35334",
+    "https://notify.moe/anime/zhv72Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09df8679b29f1be5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.4391142327060695,
+    "arithmeticGeometricMean": 6.415402371148958,
+    "median": 6.545454545454545,
+    "hash": "09df8679b29f1be5",
+    "lastUpdate": "2024-05-09"
+  }
+}

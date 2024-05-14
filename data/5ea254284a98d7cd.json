@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13569",
+    "https://anilist.co/anime/102661",
+    "https://anime-planet.com/anime/iron-kid",
+    "https://anisearch.com/anime/12993",
+    "https://kitsu.io/anime/8928",
+    "https://livechart.me/anime/8236",
+    "https://myanimelist.net/anime/20945",
+    "https://notify.moe/anime/ugbxpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ea254284a98d7cd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.828313131313132,
+    "arithmeticGeometricMean": 6.819160818271596,
+    "median": 6.881,
+    "hash": "5ea254284a98d7cd",
+    "lastUpdate": "2024-05-09"
+  }
+}

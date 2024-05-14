@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143663",
+    "https://anime-planet.com/anime/bakemonogatari-shaft-seisaku-tokubetsu-pv",
+    "https://anisearch.com/anime/18473",
+    "https://kitsu.io/anime/45896",
+    "https://myanimelist.net/anime/51068"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "483961ffc5c791a6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.1890337662337656,
+    "arithmeticGeometricMean": 7.185351813068138,
+    "median": 6.874,
+    "hash": "483961ffc5c791a6",
+    "lastUpdate": "2024-05-07"
+  }
+}

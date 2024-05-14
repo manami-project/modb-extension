@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/7654",
+    "https://anime-planet.com/anime/tokyo-magnitude-80-recap",
+    "https://anisearch.com/anime/11187",
+    "https://kitsu.io/anime/5069",
+    "https://myanimelist.net/anime/7654",
+    "https://notify.moe/anime/7ZvztKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "122c9ac96b3e23db",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.9512115027829315,
+    "arithmeticGeometricMean": 6.94881012855336,
+    "median": 6.989545454545455,
+    "hash": "122c9ac96b3e23db",
+    "lastUpdate": "2024-05-06"
+  }
+}

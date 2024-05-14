@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7645",
+    "https://anilist.co/anime/9164",
+    "https://anime-planet.com/anime/attack-no-1-namida-no-fushichou",
+    "https://anisearch.com/anime/6321",
+    "https://kitsu.io/anime/5618",
+    "https://myanimelist.net/anime/9164",
+    "https://notify.moe/anime/80BZpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c6dbb27ad1c584ff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.167026592455163,
+    "arithmeticGeometricMean": 6.151552182375195,
+    "median": 6.189897959183673,
+    "hash": "c6dbb27ad1c584ff",
+    "lastUpdate": "2024-05-08"
+  }
+}

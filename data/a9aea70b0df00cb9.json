@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/128392",
+    "https://anime-planet.com/anime/sleepy-princess-in-the-demon-castle-mini-anime",
+    "https://kitsu.io/anime/44324",
+    "https://livechart.me/anime/10514",
+    "https://myanimelist.net/anime/47811"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a9aea70b0df00cb9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.449272727272727,
+    "arithmeticGeometricMean": 6.442495350421509,
+    "median": 6.474,
+    "hash": "a9aea70b0df00cb9",
+    "lastUpdate": "2024-05-09"
+  }
+}

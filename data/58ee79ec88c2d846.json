@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4600",
+    "https://anilist.co/anime/2170",
+    "https://anime-planet.com/anime/aquarion-ova",
+    "https://anisearch.com/anime/3735",
+    "https://kitsu.io/anime/1965",
+    "https://livechart.me/anime/5775",
+    "https://myanimelist.net/anime/2170",
+    "https://notify.moe/anime/jmREcKmmg"
+  ],
+  "synopsis": {
+    "text": "When Earth and Heaven were one, a time of beauty and harmony was marred by fearsome Angels who preyed on humans. In response, humanity rebelled, sparking a war that spanned millennia. Amidst the chaos, an Angel named Apollonius fell in love with a human, Celiane, and renounced his wings to aid humanity in creating the powerful mecha, Aquarion. Betrayed by his former ally Touma and killed by a human prince, Apollonius vowed to return to finish the battle.\n\nTwelve thousand years later, the war between humans and Angels, now known as Shadow Angels, continues. The organization Deava fights against the Shadow Angels, who seek to drain the life-force of humans for the Tree of Life. The reincarnation of Apollonius, Apollo, is a seemingly ordinary human who must confront his past and join forces with his comrades to find the lost Aquarion and prevent the destruction of Earth.\n\nAs Deava recovers from a devastating battle that claimed the life of Silvia's brother, Sirius, Apollo struggles with the knowledge of his true identity. When he encounters Reika and Silvia, they are captured by a boy who blames them for the destruction caused by their battles. As Touma attacks once more, Apollo embraces his destiny as Apollonius, and the original Aquarion emerges to defend humanity. The stage is set for a final confrontation between the forces of Deava, led by the reincarnated Apollonius, and the vengeful Shadow Angel, Touma.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "58ee79ec88c2d846",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.047604558706598,
+    "arithmeticGeometricMean": 7.047150710776628,
+    "median": 7.08,
+    "hash": "58ee79ec88c2d846",
+    "lastUpdate": "2024-05-10"
+  }
+}

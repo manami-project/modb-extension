@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4180",
+    "https://anilist.co/anime/9177",
+    "https://anime-planet.com/anime/burning-blood",
+    "https://anisearch.com/anime/3077",
+    "https://kitsu.io/anime/5625",
+    "https://livechart.me/anime/12368",
+    "https://myanimelist.net/anime/9177",
+    "https://notify.moe/anime/ctLZpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "484021edfeba7372",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.932499690785405,
+    "arithmeticGeometricMean": 5.9223125858330405,
+    "median": 5.879499072356214,
+    "hash": "484021edfeba7372",
+    "lastUpdate": "2024-05-09"
+  }
+}

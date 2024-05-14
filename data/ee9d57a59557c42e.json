@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14277",
+    "https://anilist.co/anime/104380",
+    "https://anime-planet.com/anime/tsukiyo-to-megane",
+    "https://anisearch.com/anime/13829",
+    "https://kitsu.io/anime/12456",
+    "https://myanimelist.net/anime/33691",
+    "https://notify.moe/anime/1IJzhFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee9d57a59557c42e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.031934693877551,
+    "arithmeticGeometricMean": 4.991842081215648,
+    "median": 4.58,
+    "hash": "ee9d57a59557c42e",
+    "lastUpdate": "2024-05-08"
+  }
+}

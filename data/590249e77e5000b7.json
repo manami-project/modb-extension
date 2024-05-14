@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140371",
+    "https://anime-planet.com/anime/doggie-corgi"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "590249e77e5000b7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.545454545454545,
+    "arithmeticGeometricMean": 6.545454545454545,
+    "median": 6.545454545454545,
+    "hash": "590249e77e5000b7",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/114056",
+    "https://anime-planet.com/anime/the-flying-luna-clipper",
+    "https://kitsu.io/anime/42523",
+    "https://myanimelist.net/anime/39020"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "516508d1d97a3fb8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.1478636363636365,
+    "arithmeticGeometricMean": 6.140379607868671,
+    "median": 5.927545454545454,
+    "hash": "516508d1d97a3fb8",
+    "lastUpdate": "2024-05-07"
+  }
+}

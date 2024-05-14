@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14843",
+    "https://anilist.co/anime/103743",
+    "https://anime-planet.com/anime/disco-k2-twins-juicy-jungle",
+    "https://anisearch.com/anime/14423",
+    "https://kitsu.io/anime/12160",
+    "https://myanimelist.net/anime/32092",
+    "https://notify.moe/anime/CZNghKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3f5bc59eff0b8933",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.741935683364254,
+    "arithmeticGeometricMean": 4.728233729341773,
+    "median": 4.684897959183672,
+    "hash": "3f5bc59eff0b8933",
+    "lastUpdate": "2024-05-08"
+  }
+}

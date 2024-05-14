@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104567",
+    "https://anime-planet.com/anime/amakage",
+    "https://kitsu.io/anime/12059",
+    "https://myanimelist.net/anime/37545",
+    "https://notify.moe/anime/YblepFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb3b8e334d7f1adf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.261181818181818,
+    "arithmeticGeometricMean": 5.259106735135456,
+    "median": 5.231363636363636,
+    "hash": "eb3b8e334d7f1adf",
+    "lastUpdate": "2024-05-05"
+  }
+}

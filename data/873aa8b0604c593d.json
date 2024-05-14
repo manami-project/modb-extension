@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10708",
+    "https://anilist.co/anime/20756",
+    "https://anime-planet.com/anime/mobile-suit-gundam-san",
+    "https://anisearch.com/anime/9691",
+    "https://kitsu.io/anime/8541",
+    "https://livechart.me/anime/639",
+    "https://myanimelist.net/anime/24835",
+    "https://notify.moe/anime/b38ApKiiR"
+  ],
+  "synopsis": {
+    "text": "Captain Amuro, Lalah, Char, and other beloved characters from the classic Mobile Suit Gundam franchise find themselves in hilarious, everyday situations in this anime short, inspired by the 4-coma manga of the same name. Filled with side-splitting gags and comical twists, this adaptation brings a fresh, humorous perspective to the iconic real robot anime. The series also features sub-stories, including Captain Zaku-san, which presents anthropomorphic mobile suits, and Gundam Sousei, a dramatization of the creation of the Gundam franchise, featuring Yoshiyuki Tomino and other staff and cast members. Prepare for laughter as you experience the Gundam universe like never before!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "873aa8b0604c593d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.725278558176517,
+    "arithmeticGeometricMean": 5.709326102999319,
+    "median": 5.864,
+    "hash": "873aa8b0604c593d",
+    "lastUpdate": "2024-05-09"
+  }
+}

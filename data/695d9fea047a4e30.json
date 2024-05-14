@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1350",
+    "https://anilist.co/anime/1443",
+    "https://anisearch.com/anime/2348",
+    "https://kitsu.io/anime/1296",
+    "https://livechart.me/anime/9161",
+    "https://myanimelist.net/anime/1443",
+    "https://notify.moe/anime/HlnacKimR"
+  ],
+  "synopsis": {
+    "text": "The Sol Bianca, a starship of unparalleled technology, is the floating abode and command center for an infamous all-women pirate crew. Their primary pursuit? Wealth and fame, which they hope to achieve by hunting down the universe's most coveted treasures, including the mythical Gnosis, a relic rumored to hail from ancient Earth, and pasha, the galaxy's most prized mineral.\n\nDuring one of their customary raids, they cross paths with a young boy, Rim, who possesses knowledge of a colossal treasure stashed away on his home planet. The allure of such a bounty is too powerful for the pirates to resist, propelling them into a high-stakes adventure brimming with potential peril.\n\nTheir quest for the ultimate prize, the Gnosis, takes an unexpected turn when they discover it's in the clutches of Emperor Batros, the merciless ruler of planet Tres. Known for his ruthless military occupation of neighboring planet Uno, Batros is a formidable adversary. But the Sol Bianca crew, armed with a dash of fortune, a sniper rifle capable of firing from orbit, and their technologically superior starship, are prepared to embark on the heist of a lifetime. Will they succeed in their audacious pursuit, or will their daring escapade prove to be their downfall? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "695d9fea047a4e30",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.1778148835291695,
+    "arithmeticGeometricMean": 6.1705456507895855,
+    "median": 6.170454545454545,
+    "hash": "695d9fea047a4e30",
+    "lastUpdate": "2024-05-10"
+  }
+}

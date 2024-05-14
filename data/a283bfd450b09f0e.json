@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13997",
+    "https://anilist.co/anime/18329",
+    "https://anime-planet.com/anime/meoteoldosawa-ttomae",
+    "https://anisearch.com/anime/8635",
+    "https://kitsu.io/anime/9757",
+    "https://myanimelist.net/anime/18329",
+    "https://notify.moe/anime/GqUYtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a283bfd450b09f0e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.132069573283859,
+    "arithmeticGeometricMean": 5.072529443840401,
+    "median": 4.636363636363637,
+    "hash": "a283bfd450b09f0e",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/117560",
+    "https://anime-planet.com/anime/melting-down",
+    "https://anisearch.com/anime/13253",
+    "https://kitsu.io/anime/13289",
+    "https://myanimelist.net/anime/53659",
+    "https://notify.moe/anime/Mbn72Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a6dd7697aa028b1d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.098021026592455,
+    "arithmeticGeometricMean": 4.060049820841909,
+    "median": 4.181818181818182,
+    "hash": "a6dd7697aa028b1d",
+    "lastUpdate": "2024-05-07"
+  }
+}

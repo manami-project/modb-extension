@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13509",
+    "https://anilist.co/anime/102713",
+    "https://anime-planet.com/anime/little-yeyos",
+    "https://anisearch.com/anime/12964",
+    "https://kitsu.io/anime/12166",
+    "https://myanimelist.net/anime/32933",
+    "https://notify.moe/anime/SXNR2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "529f4c095c2ac623",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.612189857761287,
+    "arithmeticGeometricMean": 4.564838389742091,
+    "median": 4.818181818181818,
+    "hash": "529f4c095c2ac623",
+    "lastUpdate": "2024-05-07"
+  }
+}

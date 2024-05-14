@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/946",
+    "https://anilist.co/anime/1244",
+    "https://anime-planet.com/anime/guardian-of-darkness",
+    "https://anisearch.com/anime/380",
+    "https://kitsu.io/anime/1119",
+    "https://myanimelist.net/anime/1244",
+    "https://notify.moe/anime/JXTbcKiig"
+  ],
+  "synopsis": {
+    "text": "According to ancient lore, a trio of malevolent dragons has risen from their slumber, emerging from the depths of the earth to wreak havoc on humanity. These ruthless serpents prey on the vulnerable, drawing strength from the souls of their unsuspecting victims. To stand against this onslaught, the ancient warrior god Takegami, the Darkness Guardian, must awaken within a mortal host. However, the chosen vessel, Koichi, is a reluctant warrior, grappling with his own fears and apprehensions.\n\nSimultaneously, Terumi, a social outcast, seeks solace at the infamous Shrine of the Eight-Headed Dragon, praying for popularity. Unbeknownst to her, an evil dragon spirit resides within the shrine, possessing her body and granting her twisted desires, leaving a chilling trail of devastation. As Terumi's friend, Koichi is tormented by visions of destruction and the cryptic guidance of a mysterious priestess. The prophecy suggests that Koichi must embrace the power of the legendary warrior god Susanoo to vanquish the dragons and save Terumi.\n\nSet in ancient Japan, the story follows Koichi, a young man descended from the guardian of the Shrine of the Eight-Headed Dragon, as he grapples with his destiny. As the reincarnation of the mighty god Susanoo, he is fated to confront the very dragons his ancestor once vanquished. With dragons resurfacing throughout Japan, Koichi must find the courage to protect his childhood friend and face the challenges that lie ahead.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fac8fcd622b5b046",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.577052743175193,
+    "arithmeticGeometricMean": 5.562209844604169,
+    "median": 5.23,
+    "hash": "fac8fcd622b5b046",
+    "lastUpdate": "2024-05-08"
+  }
+}

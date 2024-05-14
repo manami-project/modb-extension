@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7971",
+    "https://anilist.co/anime/9202",
+    "https://anime-planet.com/anime/the-qwaser-of-stigmata-portrait-of-the-empress",
+    "https://anisearch.com/anime/6522",
+    "https://kitsu.io/anime/5629",
+    "https://livechart.me/anime/3281",
+    "https://myanimelist.net/anime/9202",
+    "https://notify.moe/anime/qzEZpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d4d51915ea74265",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.201977581941867,
+    "arithmeticGeometricMean": 6.181775746121873,
+    "median": 6.268909090909091,
+    "hash": "1d4d51915ea74265",
+    "lastUpdate": "2024-05-09"
+  }
+}

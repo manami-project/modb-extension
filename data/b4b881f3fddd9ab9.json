@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5297",
+    "https://anilist.co/anime/2751",
+    "https://anime-planet.com/anime/miyori-no-mori",
+    "https://anisearch.com/anime/4354",
+    "https://kitsu.io/anime/2511",
+    "https://livechart.me/anime/6157",
+    "https://myanimelist.net/anime/2751",
+    "https://notify.moe/anime/Qtqy5Fimg"
+  ],
+  "synopsis": {
+    "text": "With her parents separated and her life upended, 11-year-old Miyori finds herself living with her grandparents in a serene, rural village. Struggling to adapt to her new surroundings, Miyori's world takes an unexpected turn when she stumbles upon a mystical cherry tree deep within the nearby forest. Here, she encounters the enigmatic spirits of the woods who reveal her destiny as the forest's guardian. Initially reluctant to accept this role, Miyori's resolve is tested when she learns of an impending dam construction that threatens to engulf her home and the spirits' sanctuary. In her quest to protect the forest, Miyori forms alliances with her classmates and the woodland spirits, embarking on a heartwarming journey of self-discovery, growth, and friendship. Can Miyori and her friends save their cherished home from the looming danger? Join her in this enchanting adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4b881f3fddd9ab9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.853774715080839,
+    "arithmeticGeometricMean": 6.849824588422015,
+    "median": 6.92,
+    "hash": "b4b881f3fddd9ab9",
+    "lastUpdate": "2024-05-09"
+  }
+}

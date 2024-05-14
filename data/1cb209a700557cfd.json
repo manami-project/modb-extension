@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4299",
+    "https://anilist.co/anime/9383",
+    "https://anime-planet.com/anime/chie-chan-funsenki-jarinko-chie",
+    "https://anisearch.com/anime/5212",
+    "https://kitsu.io/anime/5711",
+    "https://livechart.me/anime/11310",
+    "https://myanimelist.net/anime/9383",
+    "https://notify.moe/anime/9y6ZpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1cb209a700557cfd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.411562152133581,
+    "arithmeticGeometricMean": 6.363360176043589,
+    "median": 5.454545454545455,
+    "hash": "1cb209a700557cfd",
+    "lastUpdate": "2024-05-09"
+  }
+}

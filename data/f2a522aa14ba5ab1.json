@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15085",
+    "https://anilist.co/anime/116384",
+    "https://anime-planet.com/anime/sol-levante",
+    "https://anisearch.com/anime/14607",
+    "https://kitsu.io/anime/43011",
+    "https://livechart.me/anime/9226",
+    "https://myanimelist.net/anime/40597",
+    "https://notify.moe/anime/EEI8HFlWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f2a522aa14ba5ab1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.443025510204081,
+    "arithmeticGeometricMean": 5.417060110321277,
+    "median": 5.245454545454546,
+    "hash": "f2a522aa14ba5ab1",
+    "lastUpdate": "2024-05-10"
+  }
+}

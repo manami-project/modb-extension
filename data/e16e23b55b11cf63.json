@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7150",
+    "https://anilist.co/anime/15607",
+    "https://anime-planet.com/anime/little-women-recaps",
+    "https://anisearch.com/anime/6127",
+    "https://kitsu.io/anime/7281",
+    "https://livechart.me/anime/8118",
+    "https://myanimelist.net/anime/15607",
+    "https://notify.moe/anime/OredtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e16e23b55b11cf63",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.875584415584415,
+    "arithmeticGeometricMean": 5.864532567042002,
+    "median": 5.7,
+    "hash": "e16e23b55b11cf63",
+    "lastUpdate": "2024-05-08"
+  }
+}

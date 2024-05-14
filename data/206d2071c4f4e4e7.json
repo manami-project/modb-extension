@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13017",
+    "https://anilist.co/anime/98501",
+    "https://anime-planet.com/anime/elegant-youkai-apartment-life",
+    "https://anisearch.com/anime/12363",
+    "https://kitsu.io/anime/13260",
+    "https://livechart.me/anime/2607",
+    "https://myanimelist.net/anime/35220",
+    "https://notify.moe/anime/5mg72Kiig"
+  ],
+  "synopsis": {
+    "text": "Another synopsis:\n\nAfter losing his parents, Yuushi Inaba finds himself living with his uncle, feeling like an unwelcome guest. Eager to start anew, he plans to move into a dormitory for high school, only to have it burn down before he can. With limited options and funds, he stumbles upon Kotobuki-so, an affordable yet peculiar apartment complex. To his surprise, the building is inhabited by an assortment of supernatural beings, including ghosts, youkai, and mononoke. Alongside a fellow high schooler named Akine, who possesses the ability to exorcise evil spirits, Yuushi must navigate his unconventional living situation and embrace his extraordinary daily life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "206d2071c4f4e4e7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.093918053650972,
+    "arithmeticGeometricMean": 7.090226691763063,
+    "median": 7.107244897959184,
+    "hash": "206d2071c4f4e4e7",
+    "lastUpdate": "2024-05-10"
+  }
+}

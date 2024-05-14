@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2300",
+    "https://anilist.co/anime/2546",
+    "https://anime-planet.com/anime/alps-stories-my-annette",
+    "https://anisearch.com/anime/1540",
+    "https://kitsu.io/anime/2311",
+    "https://myanimelist.net/anime/2546",
+    "https://notify.moe/anime/9LWs5KiiR"
+  ],
+  "synopsis": {
+    "text": "With the majestic Swiss Alps as a backdrop, a young girl named Annette, aged 12, lives a humble life in a quaint village with her family. After the tragic loss of their mother during the birth of her beloved younger brother, Dani, Annette takes on the responsibility of caring for him with unwavering affection. Lucien, her best friend, adds joy and camaraderie to her life, but their bond faces a severe test when Dani is involved in a devastating accident, resulting in a limp, for which Lucien bears an unwilling responsibility. As the once cheerful days give way to a prolonged period of hardship, Annette must find the courage to forgive, while Lucien embarks on a mission to prove his worth to Annette and the villagers. With the hope of finding a cure for Dani's limp, Lucien is determined to make amends, no matter the cost, in the spirit of friendship. As the story unfolds, Annette and Lucien gradually rediscover their cherished friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e883029fc8a9587b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.546580970050357,
+    "arithmeticGeometricMean": 6.536857620571874,
+    "median": 6.44,
+    "hash": "e883029fc8a9587b",
+    "lastUpdate": "2024-05-08"
+  }
+}

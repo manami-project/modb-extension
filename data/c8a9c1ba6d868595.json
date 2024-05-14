@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/172594",
+    "https://anime-planet.com/anime/elira-pendora-sunbeams",
+    "https://kitsu.io/anime/48371",
+    "https://myanimelist.net/anime/57690"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c8a9c1ba6d868595",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.373818181818182,
+    "arithmeticGeometricMean": 7.373814667035179,
+    "median": 7.373818181818182,
+    "hash": "c8a9c1ba6d868595",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12702",
+    "https://anilist.co/anime/102102",
+    "https://anime-planet.com/anime/master-of-torque-epilogue",
+    "https://anisearch.com/anime/12151",
+    "https://kitsu.io/anime/12974",
+    "https://myanimelist.net/anime/34625",
+    "https://notify.moe/anime/0zyZ2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33545b25da1ba4a9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.913662956091527,
+    "arithmeticGeometricMean": 4.897592159422269,
+    "median": 4.879090909090909,
+    "hash": "33545b25da1ba4a9",
+    "lastUpdate": "2024-05-08"
+  }
+}

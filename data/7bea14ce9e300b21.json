@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10501",
+    "https://anilist.co/anime/7683",
+    "https://anime-planet.com/anime/nostalgia",
+    "https://anisearch.com/anime/9609",
+    "https://kitsu.io/anime/5081",
+    "https://myanimelist.net/anime/7683",
+    "https://notify.moe/anime/S7FktKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7bea14ce9e300b21",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.769965986394557,
+    "arithmeticGeometricMean": 4.7063217660412,
+    "median": 4.744897959183673,
+    "hash": "7bea14ce9e300b21",
+    "lastUpdate": "2024-05-08"
+  }
+}

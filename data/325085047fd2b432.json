@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/dousou-kai-yesterday-once-more",
+    "https://anisearch.com/anime/3252"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "325085047fd2b432",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.426489795918367,
+    "arithmeticGeometricMean": 5.415959503039742,
+    "median": 5.426489795918367,
+    "hash": "325085047fd2b432",
+    "lastUpdate": "2024-05-07"
+  }
+}

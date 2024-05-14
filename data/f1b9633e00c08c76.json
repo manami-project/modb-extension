@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7553",
+    "https://anilist.co/anime/18591",
+    "https://anime-planet.com/anime/sore-ike-anpanman-inochi-no-hoshi-no-dolly",
+    "https://anisearch.com/anime/5327",
+    "https://kitsu.io/anime/9614",
+    "https://livechart.me/anime/11442",
+    "https://myanimelist.net/anime/18591",
+    "https://notify.moe/anime/HAVYtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f1b9633e00c08c76",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.503594063079777,
+    "arithmeticGeometricMean": 5.354278723698545,
+    "median": 5.0,
+    "hash": "f1b9633e00c08c76",
+    "lastUpdate": "2024-05-10"
+  }
+}

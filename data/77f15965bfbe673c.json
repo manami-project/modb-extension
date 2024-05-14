@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6972",
+    "https://anilist.co/anime/20023",
+    "https://anime-planet.com/anime/otanoshimi-anime-gekijou",
+    "https://anisearch.com/anime/10616",
+    "https://kitsu.io/anime/9522",
+    "https://livechart.me/anime/11750",
+    "https://myanimelist.net/anime/20023",
+    "https://notify.moe/anime/HelfpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77f15965bfbe673c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.4069090909090916,
+    "arithmeticGeometricMean": 5.350679764871885,
+    "median": 5.0,
+    "hash": "77f15965bfbe673c",
+    "lastUpdate": "2024-05-09"
+  }
+}

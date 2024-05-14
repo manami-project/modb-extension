@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14654",
+    "https://anilist.co/anime/102556",
+    "https://anime-planet.com/anime/hen-xi-you",
+    "https://kitsu.io/anime/13159",
+    "https://myanimelist.net/anime/33756",
+    "https://notify.moe/anime/xHAM2Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1dda48c5d9d8d92b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.6818181818181817,
+    "arithmeticGeometricMean": 3.64990771445575,
+    "median": 3.6818181818181817,
+    "hash": "1dda48c5d9d8d92b",
+    "lastUpdate": "2024-05-07"
+  }
+}

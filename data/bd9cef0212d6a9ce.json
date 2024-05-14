@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9249",
+    "https://anilist.co/anime/14345",
+    "https://anime-planet.com/anime/btooom",
+    "https://anisearch.com/anime/393",
+    "https://kitsu.io/anime/7113",
+    "https://livechart.me/anime/928",
+    "https://myanimelist.net/anime/14345",
+    "https://notify.moe/anime/06GdpFiig"
+  ],
+  "synopsis": {
+    "text": "Will ing to escape the monotony of his unemployed life, Ryouta Sakamoto, a 22-year-old living with his mother, becomes one of the world's top players in the popular online game, Btooom! However, his mundane existence takes a terrifying turn as he finds himself stranded on a tropical island with no recollection of how he got there. To his horror, he discovers that the island serves as the stage for a real-life version of Btooom!, complete with deadly bombs known as BIMs. The only way to return home is to kill seven other players and claim their green crystals.\n\nInitially reluctant to engage in violence, Ryouta is forced to fight for survival as he realizes that the other players are not as friendly as they seem. Teaming up with Himiko, his in-game wife and fellow Btooom! player, they navigate the deadly island, inching closer to the truth behind this twisted game of life and death. Armed with his in-game skills and a determination to live, Ryouta must adapt to the horrifying reality of the game he once loved and find a way to escape.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd9cef0212d6a9ce",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.300526343832829,
+    "arithmeticGeometricMean": 7.298890868054457,
+    "median": 7.328637842863785,
+    "hash": "bd9cef0212d6a9ce",
+    "lastUpdate": "2024-05-09"
+  }
+}

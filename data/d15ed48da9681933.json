@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10927",
+    "https://anime-planet.com/anime/kaseifu-ga-ita",
+    "https://anisearch.com/anime/10077",
+    "https://kitsu.io/anime/10117",
+    "https://livechart.me/anime/735",
+    "https://myanimelist.net/anime/28361",
+    "https://notify.moe/anime/U-dstKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d15ed48da9681933",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.844765306122449,
+    "arithmeticGeometricMean": 4.714573466240482,
+    "median": 4.925,
+    "hash": "d15ed48da9681933",
+    "lastUpdate": "2024-05-09"
+  }
+}

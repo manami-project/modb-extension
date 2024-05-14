@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/9136",
+    "https://anime-planet.com/anime/black-butler-2-specials",
+    "https://kitsu.io/anime/5614",
+    "https://livechart.me/anime/4205",
+    "https://myanimelist.net/anime/9136",
+    "https://notify.moe/anime/njaWtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7af82f935b61ba8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.47208245243129,
+    "arithmeticGeometricMean": 7.471390799601218,
+    "median": 7.535454545454545,
+    "hash": "d7af82f935b61ba8",
+    "lastUpdate": "2024-05-06"
+  }
+}

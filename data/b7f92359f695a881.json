@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2858",
+    "https://anilist.co/anime/152",
+    "https://anime-planet.com/anime/solty-rei",
+    "https://anisearch.com/anime/2702",
+    "https://kitsu.io/anime/130",
+    "https://livechart.me/anime/4736",
+    "https://myanimelist.net/anime/152",
+    "https://notify.moe/anime/xSUpcFmiR"
+  ],
+  "synopsis": {
+    "text": "Solty’s world is a dystopian future, ravaged by a cataclysmic event known as Blast Fall. This disaster left countless people dead or mutilated, leading to the creation of Resemble technology, which allows for the replacement of body parts with cybernetic ones. The city is divided into the haves and have-nots, with the rich enjoying the benefits of advanced technology, while the poor struggle to survive.\n\nEnter Roy Revant, a former cop turned bounty hunter, who spends his days hunting down criminals who misuse Resemble technology. He's a man haunted by his past, searching for his missing daughter, Rita, who disappeared during Blast Fall.\n\nRoy's life takes a dramatic turn when he is saved from a dangerous criminal by a mysterious girl who falls from the sky. The girl, who has no memory of her past, is named Solty by Roy. He discovers that Solty is made entirely of Resemble technology, making her a target for the RUC Security Bureau. Despite the danger, Roy takes Solty under his wing, treating her as his own daughter.\n\nTogether with a few allies, Roy and Solty embark on a dangerous journey to uncover the truth behind Blast Fall, the RUC, and Solty's mysterious past. As they delve deeper into the conspiracy, they find themselves battling against powerful corporations that control the city. Will they be able to uncover the truth and bring justice to the city's oppressed citizens? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b7f92359f695a881",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.282198515769945,
+    "arithmeticGeometricMean": 7.280158661275119,
+    "median": 7.305,
+    "hash": "b7f92359f695a881",
+    "lastUpdate": "2024-05-10"
+  }
+}

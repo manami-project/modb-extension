@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10749",
+    "https://anilist.co/anime/20790",
+    "https://anime-planet.com/anime/magic-kaito-1412",
+    "https://anisearch.com/anime/9799",
+    "https://kitsu.io/anime/8636",
+    "https://livechart.me/anime/721",
+    "https://myanimelist.net/anime/25517",
+    "https://notify.moe/anime/AkIJtFmmg"
+  ],
+  "synopsis": {
+    "text": "Upon the mysterious demise of his father, an accomplished magician, Kaito Kuroba, a typical high school student, stumbles upon a hidden chamber in his home. This secret room, designed by his late father to be discovered eight years after his death, houses the costume and gadgets of the legendary Phantom Thief Kid. Kaito learns that his father was the original Kid, and that he was murdered by an unknown organization hunting for the mythical Pandora Gem, a stone believed to grant immortality when it sheds a tear during the passing of the Valley Comet.\n\nDetermined to avenge his father's death and prevent the misuse of the gem's power, Kaito assumes the mantle of the Phantom Thief Kid. His quest leads him to steal and investigate various large, historical gems that glow red under the full moon, as these could potentially be the Pandora Gem hidden within them. Despite the high-security areas and the gem's peculiar history, Kaito always returns the gems after the next full moon, staying true to his mission. As he delves deeper into the world of thievery, Kaito uncovers more about his father's past and the identity of his killer.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7fd88cea7680b40",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.785776128633271,
+    "arithmeticGeometricMean": 7.783189963212495,
+    "median": 7.83909090909091,
+    "hash": "d7fd88cea7680b40",
+    "lastUpdate": "2024-05-09"
+  }
+}

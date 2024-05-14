@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2764",
+    "https://anilist.co/anime/1930",
+    "https://anime-planet.com/anime/pretty-cure-max-heart-movie",
+    "https://anisearch.com/anime/1821",
+    "https://kitsu.io/anime/1740",
+    "https://livechart.me/anime/5851",
+    "https://myanimelist.net/anime/1930",
+    "https://notify.moe/anime/IwzY5Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4bea65c825a5b226",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.670991783726478,
+    "arithmeticGeometricMean": 6.65771599919433,
+    "median": 6.728,
+    "hash": "4bea65c825a5b226",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18578",
+    "https://anilist.co/anime/176508",
+    "https://anime-planet.com/anime/shangri-la-frontier-2nd-season",
+    "https://anisearch.com/anime/19161",
+    "https://kitsu.io/anime/48677",
+    "https://livechart.me/anime/12620",
+    "https://myanimelist.net/anime/58572",
+    "https://notify.moe/anime/7zN7Q5bIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d5c8071002a52e13",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 9.081632653061224,
+    "arithmeticGeometricMean": 9.081632653061224,
+    "median": 9.081632653061224,
+    "hash": "d5c8071002a52e13",
+    "lastUpdate": "2024-05-09"
+  }
+}

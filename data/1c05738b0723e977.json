@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5167",
+    "https://anilist.co/anime/8897",
+    "https://anime-planet.com/anime/ganbare-marine-kid",
+    "https://anisearch.com/anime/4261",
+    "https://kitsu.io/anime/5524",
+    "https://livechart.me/anime/11639",
+    "https://myanimelist.net/anime/8897",
+    "https://notify.moe/anime/dZSWpKmmg"
+  ],
+  "synopsis": {
+    "text": "Boy named Marine, transformed by his oceanographer father to excel underwater, embarks on thrilling undersea adventures in the series \"Ganbare! Marine Kid.\" Equipped with Oxygums to breathe and jet boots for propulsion, Marine, alongside his loyal dolphin companion, Whitey, works to protect the ocean. Originally part of the Dolphin Ouji series, this reimagined iteration features character name changes, new additions, and expanded concepts to distinguish it from its predecessor. With improved color and added animation, Marine's journey offers an engaging exploration of the underwater world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c05738b0723e977",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.043238095238095,
+    "arithmeticGeometricMean": 5.002336570395995,
+    "median": 5.0,
+    "hash": "1c05738b0723e977",
+    "lastUpdate": "2024-05-09"
+  }
+}

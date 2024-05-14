@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18004",
+    "https://anime-planet.com/anime/tick-and-tack",
+    "https://kitsu.io/anime/10326",
+    "https://myanimelist.net/anime/29369",
+    "https://notify.moe/anime/pPM8tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75123a944269512d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "75123a944269512d",
+    "lastUpdate": "2024-05-08"
+  }
+}

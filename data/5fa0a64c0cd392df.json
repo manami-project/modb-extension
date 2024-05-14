@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102718",
+    "https://anime-planet.com/anime/imarine-project-deep-blue-song",
+    "https://anisearch.com/anime/12752",
+    "https://kitsu.io/anime/13488",
+    "https://myanimelist.net/anime/39314",
+    "https://notify.moe/anime/AQq7hKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5fa0a64c0cd392df",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.390550401978974,
+    "arithmeticGeometricMean": 6.380357563251589,
+    "median": 6.342272727272728,
+    "hash": "5fa0a64c0cd392df",
+    "lastUpdate": "2024-05-06"
+  }
+}

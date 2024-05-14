@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6245",
+    "https://anilist.co/anime/5460",
+    "https://anime-planet.com/anime/detective-conan-the-raven-chaser",
+    "https://anisearch.com/anime/5128",
+    "https://kitsu.io/anime/4107",
+    "https://livechart.me/anime/5022",
+    "https://myanimelist.net/anime/5460",
+    "https://notify.moe/anime/o52CcKiiR"
+  ],
+  "synopsis": {
+    "text": "Conan’s days of masquerading as Edogawa Conan may be numbered as the menacing Black Syndicate edges closer to uncovering the truth about Kudou Shinichi's survival. In a race against time, Conan must unravel a series of six interconnected murders to protect himself and those around him from a deadly fate. The stakes are raised when he discovers that one of the murder victims was an undercover agent for the syndicate, and the killer now possesses a memory card containing the identities of all their covert envoys. As Conan delves deeper into the investigation, he realizes that the Black Corporation, responsible for administering the Apotoxin-4869 that transformed him into a child, has infiltrated the police force. With someone secretly investigating him, Conan must navigate a dangerous web of deception to uncover the identity of the killer, retrieve the stolen data, and expose the disguised agent codenamed 'Irish' before it's too late. Will Conan's true identity remain hidden, or will the Black Syndicate finally catch up to him?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6317aebb43f86cc9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.105502044252043,
+    "arithmeticGeometricMean": 8.104406983646365,
+    "median": 8.147272727272727,
+    "hash": "6317aebb43f86cc9",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/109344",
+    "https://anime-planet.com/anime/ochichi-wo-suitai",
+    "https://anisearch.com/anime/13235",
+    "https://kitsu.io/anime/47053"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cea03af0b29c3421",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.962894248608534,
+    "arithmeticGeometricMean": 3.850726713067478,
+    "median": 3.962894248608534,
+    "hash": "cea03af0b29c3421",
+    "lastUpdate": "2024-05-06"
+  }
+}

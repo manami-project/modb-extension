@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103978",
+    "https://anime-planet.com/anime/apron-hero",
+    "https://kitsu.io/anime/40881",
+    "https://myanimelist.net/anime/36292",
+    "https://notify.moe/anime/uY2dhKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3c47a73264891bb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.3818787878787875,
+    "arithmeticGeometricMean": 5.350534267976627,
+    "median": 5.43,
+    "hash": "f3c47a73264891bb",
+    "lastUpdate": "2024-05-05"
+  }
+}

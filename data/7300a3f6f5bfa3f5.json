@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/111998",
+    "https://anime-planet.com/anime/notation-of-rotating-earth",
+    "https://kitsu.io/anime/44496",
+    "https://myanimelist.net/anime/39306"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7300a3f6f5bfa3f5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.281818181818181,
+    "arithmeticGeometricMean": 5.264941830421448,
+    "median": 5.3,
+    "hash": "7300a3f6f5bfa3f5",
+    "lastUpdate": "2024-05-07"
+  }
+}

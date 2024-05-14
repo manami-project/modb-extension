@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/58",
+    "https://anilist.co/anime/1177",
+    "https://anime-planet.com/anime/alien-nine",
+    "https://anisearch.com/anime/1206",
+    "https://kitsu.io/anime/1057",
+    "https://livechart.me/anime/5205",
+    "https://myanimelist.net/anime/1177",
+    "https://notify.moe/anime/FxVb5KmiR"
+  ],
+  "synopsis": {
+    "text": "At a Japanese elementary school, the unassuming Yuri Ootani finds herself thrust into an unexpected role: a defender against alien invasions. Joined by the overachieving Kasumi Tomine and the responsibility-dodging Kumi Kawamura, Yuri must confront her deep-seated fear of aliens to protect their school. Equipped with peculiar alien hats that feed on their sweat, the trio is tasked with rounding up stray extraterrestrials. As they face the challenges of capturing aliens, the girls must navigate the emotional complexities of friendship, anxiety, and growing up. But when a formidable alien abducts Kasumi, can Yuri and Kumi rally their strength to save their friend and overcome this daunting extraterrestrial threat?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8ed225a3f9106681",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.702520253555968,
+    "arithmeticGeometricMean": 6.691704094638111,
+    "median": 6.723333333333334,
+    "hash": "8ed225a3f9106681",
+    "lastUpdate": "2024-05-08"
+  }
+}

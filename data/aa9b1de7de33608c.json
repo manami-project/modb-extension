@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11023",
+    "https://anilist.co/anime/21056",
+    "https://anime-planet.com/anime/ghost-in-the-shell-arise-alternate-architecture",
+    "https://anisearch.com/anime/10100",
+    "https://kitsu.io/anime/10229",
+    "https://livechart.me/anime/1358",
+    "https://myanimelist.net/anime/29325",
+    "https://notify.moe/anime/GtUspFimR"
+  ],
+  "synopsis": {
+    "text": "Prefecture Police Detective Togusa and Lieutenant Colonel Kurutsu of the 501 Organization. As they delve deeper into the case, the past of Section 9's members begins to unravel.\n\nIn the world of Ghost in the Shell: Arise, the first eight episodes offer a fresh perspective on the original four movies, while the final two episodes present new content, including the 'Pyrophoric Cult' arc. This thrilling plot explores the dangerous 'Fire Starter' virus and introduces viewers to the enigmatic character Pyromania, setting the stage for the upcoming film.\n\nFollow the journey of Motoko Kusanagi, a highly skilled military operative turned cybernetic detective, as she forms an unlikely alliance with Daisuke Aramaki, the chief of Public Security Section 9. Together, they strive to clear Kusanagi's name and assemble an elite team under Aramaki's guidance. As they navigate the challenges of a post-war world, they'll uncover hidden truths and confront powerful adversaries in their pursuit of justice.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aa9b1de7de33608c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.42841206280492,
+    "arithmeticGeometricMean": 7.425041723416148,
+    "median": 7.43509090909091,
+    "hash": "aa9b1de7de33608c",
+    "lastUpdate": "2024-05-09"
+  }
+}

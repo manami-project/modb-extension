@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17970",
+    "https://anilist.co/anime/147511",
+    "https://anime-planet.com/anime/wu-geng-ji-4th-season-part-ii",
+    "https://kitsu.io/anime/47010",
+    "https://myanimelist.net/anime/52680",
+    "https://notify.moe/anime/kVf-g4oVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e89f174bcbd07c24",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.381454545454545,
+    "arithmeticGeometricMean": 7.372647044127066,
+    "median": 7.636363636363636,
+    "hash": "e89f174bcbd07c24",
+    "lastUpdate": "2024-05-08"
+  }
+}

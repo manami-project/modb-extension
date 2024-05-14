@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7565",
+    "https://anilist.co/anime/3785",
+    "https://anime-planet.com/anime/evangelion-3-0-you-can-not-redo",
+    "https://anisearch.com/anime/4679",
+    "https://kitsu.io/anime/3251",
+    "https://livechart.me/anime/968",
+    "https://myanimelist.net/anime/3785",
+    "https://notify.moe/anime/6LAl5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Befriending the enigmatic Kaworu Nagisa, Shinji Ikari continues his fight against the angels in a world laid to waste 14 years after the Third Impact. Shinji hasn't aged, but the Earth has been devastated, NERV dismantled, and his former allies have turned against him. As Shinji and Kaworu form a bond, they face not only the angels but also their former comrades in a bitter confrontation that could determine the fate of the world. Amidst the chaos, Shinji struggles to come to terms with the consequences of his actions and learns that the past cannot be undone. With the weight of the world on his shoulders, Shinji must fight for his one chance at redemption, even if it means risking everything.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2da8d5111bf60ec0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.639229363229364,
+    "arithmeticGeometricMean": 7.637832718092884,
+    "median": 7.713436933436934,
+    "hash": "2da8d5111bf60ec0",
+    "lastUpdate": "2024-05-09"
+  }
+}

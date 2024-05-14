@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4102",
+    "https://anilist.co/anime/11695",
+    "https://anime-planet.com/anime/ultraman-graffiti",
+    "https://anisearch.com/anime/1799",
+    "https://kitsu.io/anime/6566",
+    "https://myanimelist.net/anime/11695",
+    "https://notify.moe/anime/syyItKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5bd067154118d748",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.018343846629561,
+    "arithmeticGeometricMean": 4.965395606719929,
+    "median": 5.11590909090909,
+    "hash": "5bd067154118d748",
+    "lastUpdate": "2024-05-08"
+  }
+}

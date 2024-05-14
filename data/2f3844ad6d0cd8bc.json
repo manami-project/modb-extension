@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11659",
+    "https://anilist.co/anime/103368",
+    "https://anime-planet.com/anime/le-petit-terezes-ici-la-et-partout",
+    "https://kitsu.io/anime/11429",
+    "https://myanimelist.net/anime/31688",
+    "https://notify.moe/anime/wGe9pFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2f3844ad6d0cd8bc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.058212121212121,
+    "arithmeticGeometricMean": 4.0010391795182425,
+    "median": 3.878181818181818,
+    "hash": "2f3844ad6d0cd8bc",
+    "lastUpdate": "2024-05-08"
+  }
+}

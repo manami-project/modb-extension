@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8431",
+    "https://anilist.co/anime/9973",
+    "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-2-the-tiger-prowess",
+    "https://anisearch.com/anime/7117",
+    "https://kitsu.io/anime/5974",
+    "https://myanimelist.net/anime/9973",
+    "https://notify.moe/anime/VwmnpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "43ee7b52d8c51318",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.335802721088435,
+    "arithmeticGeometricMean": 4.1874952233135305,
+    "median": 4.125,
+    "hash": "43ee7b52d8c51318",
+    "lastUpdate": "2024-05-08"
+  }
+}

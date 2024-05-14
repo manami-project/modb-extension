@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14288",
+    "https://anilist.co/anime/107912",
+    "https://anime-planet.com/anime/scissor-seven",
+    "https://anisearch.com/anime/13757",
+    "https://kitsu.io/anime/42503",
+    "https://livechart.me/anime/9787",
+    "https://myanimelist.net/anime/38409",
+    "https://notify.moe/anime/GHart-bGR"
+  ],
+  "synopsis": {
+    "text": "On an unassuming island, Wu Liuqi, a forgetful assassin with a knack for shape-shifting, runs a humble hair salon alongside his feathered companion, Dai Bo. Despite his intimidating appearance and unique abilities, including telekinetic scissor techniques, Wu's performance in his side job as a contract killer is less than stellar. Often mistakenly targeting the wrong individuals or bungling his missions, Wu's heart doesn't quite align with his line of work.\n\nHowever, these odd jobs serve a greater purpose: to repay his debts and, hopefully, unlock the secrets of his forgotten past. As Wu navigates through his dual life as a hairdresser and assassin, his adventures seem to weave a tapestry that leads him closer to his lost memories. Despite his struggles, Wu's journey is a testament to his resilience and his unyielding quest to rediscover his true identity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc7d808ed940d789",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.8168101259642615,
+    "arithmeticGeometricMean": 7.813752533948983,
+    "median": 7.93,
+    "hash": "bc7d808ed940d789",
+    "lastUpdate": "2024-05-09"
+  }
+}

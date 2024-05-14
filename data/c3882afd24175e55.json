@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3136",
+    "https://anilist.co/anime/130527",
+    "https://anime-planet.com/anime/ol-kaizou-kouza",
+    "https://anisearch.com/anime/521",
+    "https://kitsu.io/anime/9510",
+    "https://myanimelist.net/anime/22275",
+    "https://notify.moe/anime/I0QBpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c3882afd24175e55",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.4696437847866415,
+    "arithmeticGeometricMean": 5.437822840881413,
+    "median": 5.360204081632653,
+    "hash": "c3882afd24175e55",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/125576",
+    "https://anime-planet.com/anime/yi-guan-xing-shen",
+    "https://anisearch.com/anime/15313",
+    "https://kitsu.io/anime/43671",
+    "https://myanimelist.net/anime/43020"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5fb1f2b3fcdced93",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.381869202226346,
+    "arithmeticGeometricMean": 6.372243853328637,
+    "median": 6.528636363636364,
+    "hash": "5fb1f2b3fcdced93",
+    "lastUpdate": "2024-05-07"
+  }
+}

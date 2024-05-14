@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10874",
+    "https://anime-planet.com/anime/narara-superboard-2001"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b4e6663c0076081",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "0b4e6663c0076081",
+    "lastUpdate": "2024-05-11"
+  }
+}

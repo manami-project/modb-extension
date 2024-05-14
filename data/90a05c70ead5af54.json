@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7871",
+    "https://anime-planet.com/anime/kitty-to-daniel-no-odoru-santa-san-no-himitsu",
+    "https://anisearch.com/anime/9020",
+    "https://kitsu.io/anime/10285",
+    "https://myanimelist.net/anime/29549",
+    "https://notify.moe/anime/Qf6ypKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "90a05c70ead5af54",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.663265306122449,
+    "arithmeticGeometricMean": 5.643761500998084,
+    "median": 5.663265306122449,
+    "hash": "90a05c70ead5af54",
+    "lastUpdate": "2024-05-08"
+  }
+}

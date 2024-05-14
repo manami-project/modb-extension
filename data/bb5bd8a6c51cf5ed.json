@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1",
+    "https://anilist.co/anime/290",
+    "https://anime-planet.com/anime/crest-of-the-stars",
+    "https://anisearch.com/anime/3039",
+    "https://kitsu.io/anime/265",
+    "https://livechart.me/anime/4157",
+    "https://myanimelist.net/anime/290",
+    "https://notify.moe/anime/Dx225FimR"
+  ],
+  "score": {
+    "arithmeticMean": 7.770421150278293,
+    "arithmeticGeometricMean": 7.769090375214276,
+    "median": 7.743775510204081,
+    "hash": "bb5bd8a6c51cf5ed",
+    "lastUpdate": "2024-05-09"
+  }
+}

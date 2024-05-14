@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2615",
+    "https://anilist.co/anime/4929",
+    "https://anime-planet.com/anime/ehrgeiz",
+    "https://anisearch.com/anime/1620",
+    "https://kitsu.io/anime/3854",
+    "https://livechart.me/anime/12057",
+    "https://myanimelist.net/anime/4929",
+    "https://notify.moe/anime/w4095KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "558671b32b776e6f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0696066790352505,
+    "arithmeticGeometricMean": 4.9776879183525615,
+    "median": 5.0,
+    "hash": "558671b32b776e6f",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6653",
+    "https://anilist.co/anime/6633",
+    "https://anime-planet.com/anime/queens-blade-2-the-evil-eye",
+    "https://anisearch.com/anime/5461",
+    "https://kitsu.io/anime/4642",
+    "https://livechart.me/anime/4269",
+    "https://myanimelist.net/anime/6633",
+    "https://notify.moe/anime/HXTe5Kimg"
+  ],
+  "synopsis": {
+    "text": "Each season, the prestigious Queen's Blade tournament invites powerful and alluring warriors from all corners of the realm to compete for the throne. Among the contenders is Reina, a seasoned warrior who has overcome countless challenges to reach the capital city of Gainos. Alongside her are a diverse group of fighters, each with their own motivations for participating. From Tomoe and Shizuka, who fight for their homeland of Hinomoto, to Nanael, who has been commanded by the Archangel, every warrior is determined to emerge victorious. Even Reina's own sister, Claudette, seeks to restore the honor of House Vance by winning the tournament.\n\nAs the competition heats up, the warriors must face unexpected obstacles and adversaries. From acid-spitting foes to tentacle-wielding creatures, the tournament is filled with perilous encounters that test the limits of each fighter. In Gynos, the Queen's Capital, best friends may be pitted against each other, and new contenders like Nyx, a master of fire magic, may emerge with a score to settle.\n\nThrough it all, the warriors must rely on their strength, wit, and determination to survive. Only one can claim the throne and become the new queen of the continent. Who will emerge victorious and claim the title of Queen's Blade? Only time, and battle, will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ad1f82b4e1e23da7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.5322028447742735,
+    "arithmeticGeometricMean": 6.5258791520566115,
+    "median": 6.375818181818182,
+    "hash": "ad1f82b4e1e23da7",
+    "lastUpdate": "2024-05-09"
+  }
+}

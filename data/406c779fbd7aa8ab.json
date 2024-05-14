@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/zap-dog"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "406c779fbd7aa8ab",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.058,
+    "arithmeticGeometricMean": 6.058,
+    "median": 6.058,
+    "hash": "406c779fbd7aa8ab",
+    "lastUpdate": "2024-05-08"
+  }
+}

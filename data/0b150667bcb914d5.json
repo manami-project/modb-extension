@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18162",
+    "https://anilist.co/anime/168345",
+    "https://anime-planet.com/anime/dungeon-people",
+    "https://anisearch.com/anime/18627",
+    "https://kitsu.io/anime/47872",
+    "https://livechart.me/anime/12301",
+    "https://myanimelist.net/anime/56348",
+    "https://notify.moe/anime/jyKO6VgIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b150667bcb914d5",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "0b150667bcb914d5",
+    "lastUpdate": "2024-05-11"
+  }
+}

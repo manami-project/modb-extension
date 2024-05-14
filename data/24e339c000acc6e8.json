@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6589",
+    "https://anilist.co/anime/5084",
+    "https://anime-planet.com/anime/mai-mai-miracle",
+    "https://anisearch.com/anime/5358",
+    "https://kitsu.io/anime/3921",
+    "https://livechart.me/anime/5529",
+    "https://myanimelist.net/anime/5084",
+    "https://notify.moe/anime/jMlr5FimR"
+  ],
+  "synopsis": {
+    "text": "Shinko, a lively third-grader with a vivid imagination and a distinctive curl on her forehead, resides in Kokuga, a quaint rural town in 1955 post-war Japan. Once a thriving regional capital during the Feudal Era, Kokuga still holds remnants of the Heian Period, which Shinko frequently envisions herself in. Her daydreams revolve around a secluded princess from a millennium ago, providing a delightful escape from her daily life.\n\nOne day, Kiiko, a reserved girl from Tokyo, joins Shinko's class as her father has moved to the town to work as a factory doctor. Initially, Kiiko struggles to adapt to the slower pace of the small town, but she soon forms a deep bond with Shinko. Together, they embark on a series of adventures, from caring for a goldfish in a makeshift pond to helping a boy cope with a family tragedy.\n\nAs their friendship blossoms, the girls find themselves entangled in a peculiar incident that seems to have roots in the distant past. Through their shared experiences and vivid imaginations, Shinko and Kiiko create a captivating world that bridges the past and present, offering a heartwarming tale of friendship and adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24e339c000acc6e8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.097649880731512,
+    "arithmeticGeometricMean": 7.093689326576883,
+    "median": 7.181818181818182,
+    "hash": "24e339c000acc6e8",
+    "lastUpdate": "2024-05-09"
+  }
+}

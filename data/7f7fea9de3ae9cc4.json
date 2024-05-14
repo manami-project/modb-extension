@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13598",
+    "https://anilist.co/anime/103711",
+    "https://anime-planet.com/anime/taisetsu-na-kazoku-wo-tsutsumu-sono-te",
+    "https://anisearch.com/anime/13058",
+    "https://kitsu.io/anime/41241",
+    "https://myanimelist.net/anime/37790",
+    "https://notify.moe/anime/tiW4hC7iR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f7fea9de3ae9cc4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.818992578849721,
+    "arithmeticGeometricMean": 5.801281918844032,
+    "median": 5.788181818181819,
+    "hash": "7f7fea9de3ae9cc4",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103976",
+    "https://anime-planet.com/anime/henna-ie",
+    "https://kitsu.io/anime/10269",
+    "https://myanimelist.net/anime/29181",
+    "https://notify.moe/anime/nEjytFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1629340096dfed55",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.03890909090909,
+    "arithmeticGeometricMean": 5.022219775099319,
+    "median": 4.904999999999999,
+    "hash": "1629340096dfed55",
+    "lastUpdate": "2024-05-06"
+  }
+}

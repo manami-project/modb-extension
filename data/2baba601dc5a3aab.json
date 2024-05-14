@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106930",
+    "https://anime-planet.com/anime/peek-a-boo",
+    "https://kitsu.io/anime/45207",
+    "https://myanimelist.net/anime/54331"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2baba601dc5a3aab",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.764909090909091,
+    "arithmeticGeometricMean": 5.750117525582016,
+    "median": 5.764909090909091,
+    "hash": "2baba601dc5a3aab",
+    "lastUpdate": "2024-05-08"
+  }
+}

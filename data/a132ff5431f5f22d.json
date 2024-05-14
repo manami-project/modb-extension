@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7497",
+    "https://anilist.co/anime/9007",
+    "https://anime-planet.com/anime/sore-ike-anpanman-black-nose-to-mahou-no-uta",
+    "https://anisearch.com/anime/6222",
+    "https://kitsu.io/anime/5572",
+    "https://livechart.me/anime/11424",
+    "https://myanimelist.net/anime/9007",
+    "https://notify.moe/anime/UytZtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a132ff5431f5f22d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.863813729128014,
+    "arithmeticGeometricMean": 5.815064242955426,
+    "median": 5.0,
+    "hash": "a132ff5431f5f22d",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6606",
+    "https://anilist.co/anime/136227",
+    "https://anime-planet.com/anime/go-go-toraemon",
+    "https://anisearch.com/anime/10659",
+    "https://kitsu.io/anime/9285",
+    "https://myanimelist.net/anime/23245",
+    "https://notify.moe/anime/gm3atFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0cd1be79e550448b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.190476190476191,
+    "arithmeticGeometricMean": 4.169778808446202,
+    "median": 4.0,
+    "hash": "0cd1be79e550448b",
+    "lastUpdate": "2024-05-07"
+  }
+}

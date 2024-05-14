@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6093",
+    "https://anilist.co/anime/6413",
+    "https://anime-planet.com/anime/go-go-ackman",
+    "https://anisearch.com/anime/4693",
+    "https://kitsu.io/anime/4552",
+    "https://myanimelist.net/anime/6413",
+    "https://notify.moe/anime/tGW6cFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "123603fbe1cd38b6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.355615690432018,
+    "arithmeticGeometricMean": 6.350929460374107,
+    "median": 6.411999999999999,
+    "hash": "123603fbe1cd38b6",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3450",
+    "https://anisearch.com/anime/3013",
+    "https://livechart.me/anime/6075"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "72b5e946a3d7893c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.534693877551019,
+    "arithmeticGeometricMean": 6.526397628358201,
+    "median": 6.534693877551019,
+    "hash": "72b5e946a3d7893c",
+    "lastUpdate": "2024-05-09"
+  }
+}

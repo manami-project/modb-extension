@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7114",
+    "https://anime-planet.com/anime/chamebou-shin-gachou-nomi-fuufu-shikaeshi-no-maki",
+    "https://anisearch.com/anime/5980",
+    "https://kitsu.io/anime/9224",
+    "https://myanimelist.net/anime/23187",
+    "https://notify.moe/anime/P-E-pFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "43b254fa8f3ac10f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.0561224489795915,
+    "arithmeticGeometricMean": 4.000253396454777,
+    "median": 4.0561224489795915,
+    "hash": "43b254fa8f3ac10f",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/163",
+    "https://myanimelist.net/anime/2945"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b372c63086b1e518",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.026020408163265,
+    "arithmeticGeometricMean": 4.962170886478355,
+    "median": 5.026020408163265,
+    "hash": "b372c63086b1e518",
+    "lastUpdate": "2024-05-07"
+  }
+}

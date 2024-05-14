@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11406",
+    "https://anilist.co/anime/102467",
+    "https://anime-planet.com/anime/anomalies",
+    "https://anisearch.com/anime/10992",
+    "https://kitsu.io/anime/10160",
+    "https://livechart.me/anime/8916",
+    "https://myanimelist.net/anime/28831",
+    "https://notify.moe/anime/3J0ypFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b3dcfb7677af6769",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.8522358865624176,
+    "arithmeticGeometricMean": 4.83487990614655,
+    "median": 4.673469387755102,
+    "hash": "b3dcfb7677af6769",
+    "lastUpdate": "2024-05-08"
+  }
+}

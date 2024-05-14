@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/1998",
+    "https://anime-planet.com/anime/amazing-nuts",
+    "https://kitsu.io/anime/1798",
+    "https://myanimelist.net/anime/1998",
+    "https://notify.moe/anime/j8vLcFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c119e61a9f955587",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.229818181818182,
+    "arithmeticGeometricMean": 6.222452937028529,
+    "median": 6.090909090909091,
+    "hash": "c119e61a9f955587",
+    "lastUpdate": "2024-05-05"
+  }
+}

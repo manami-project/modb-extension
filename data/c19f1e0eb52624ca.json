@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2375",
+    "https://anilist.co/anime/1909",
+    "https://anime-planet.com/anime/kusatta-kyoushi-no-houteishiki",
+    "https://anisearch.com/anime/757",
+    "https://kitsu.io/anime/1719",
+    "https://livechart.me/anime/8796",
+    "https://myanimelist.net/anime/1909",
+    "https://notify.moe/anime/663f5KiiR"
+  ],
+  "synopsis": {
+    "text": "Atsushi Arisawa, a young boy smitten by his childhood friend Masami, embarks on a journey to reconnect with his lost love at Jougaoka High School, where Masami is believed to work as a teacher. However, Atsushi's dreams are shattered when he encounters Masayoshi, a charismatic yet brusque man who bears no resemblance to the Masami he once knew. Unbeknownst to Atsushi, Masayoshi is actually Masami's brother and the current school nurse. As Atsushi grapples with this unexpected turn of events, he finds himself entangled in a web of unrequited love, mistaken identities, and the relentless pursuit of his childhood friend, Kouji Inagaki. Just when Atsushi begins to warm up to Masayoshi's charms, the truth about his identity comes to light. Amidst the emotional turmoil, Atsushi discovers that Masami has also found love, and it is only during a confrontation with a vengeful gang that Atsushi realizes the true value of his experiences at Jougaoka High School.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c19f1e0eb52624ca",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.366123509143918,
+    "arithmeticGeometricMean": 5.303665056979839,
+    "median": 5.786,
+    "hash": "c19f1e0eb52624ca",
+    "lastUpdate": "2024-05-09"
+  }
+}

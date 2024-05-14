@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14406",
+    "https://anilist.co/anime/104291",
+    "https://anime-planet.com/anime/magimoji-rurumo-the-conclusion",
+    "https://anisearch.com/anime/13921",
+    "https://kitsu.io/anime/42121",
+    "https://livechart.me/anime/3526",
+    "https://myanimelist.net/anime/38357",
+    "https://notify.moe/anime/5ar2OYlmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "324ddffe37be7baa",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.398927179962894,
+    "arithmeticGeometricMean": 7.396596736405164,
+    "median": 7.445272727272727,
+    "hash": "324ddffe37be7baa",
+    "lastUpdate": "2024-05-09"
+  }
+}

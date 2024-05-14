@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1242",
+    "https://anilist.co/anime/1643",
+    "https://anime-planet.com/anime/sailor-victory",
+    "https://anisearch.com/anime/398",
+    "https://kitsu.io/anime/1478",
+    "https://myanimelist.net/anime/1643",
+    "https://notify.moe/anime/Qlqa5Fmig"
+  ],
+  "synopsis": {
+    "text": "Commanding colossal Ninja Robots, five high school friends from Seika Girls' High School form an unlikely alliance as the clandestine crime-fighting unit, Sailor Victory. In the technologically advanced city of Mikado, these young women, known for their ramen delivery skills and captivating appearances, now stand as the city's last line of defense against the malevolent forces threatening its very existence.\n\nWhen a scorned city official succumbs to the allure of darkness, he joins the wicked Queen Margarita in her nefarious plot to annihilate Mikado City. As the city's peace hangs in the balance, the responsibility falls on the shoulders of these sailor-suited heroines. Armed with their formidable robots, Gion, Momoyama, and Sagano, the Sailor Victory team must rise to the challenge and prevent Margarita from wreaking havoc and destruction.\n\nWith the population of Mikado City blissfully unaware of the impending doom, the Sailor Victory team faces a daunting task. Will these seemingly ordinary girls, now transformed into extraordinary warriors, be able to harness their newfound power and save the city from the clutches of evil? Only time will tell, as the thrilling battle between Sailor Victory and Queen Margarita unfolds amidst the futuristic cityscape of Mikado.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "60e1c5a538c304ff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.621278558176518,
+    "arithmeticGeometricMean": 5.582100451059638,
+    "median": 5.636363636363637,
+    "hash": "60e1c5a538c304ff",
+    "lastUpdate": "2024-05-08"
+  }
+}

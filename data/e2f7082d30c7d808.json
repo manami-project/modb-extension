@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/hammerhead",
+    "https://anisearch.com/anime/10599"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e2f7082d30c7d808",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.756755102040817,
+    "arithmeticGeometricMean": 6.756510863808002,
+    "median": 6.756755102040817,
+    "hash": "e2f7082d30c7d808",
+    "lastUpdate": "2024-05-07"
+  }
+}

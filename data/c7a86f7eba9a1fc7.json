@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12770",
+    "https://anilist.co/anime/103541",
+    "https://anime-planet.com/anime/hikaru-genji-taiyou-ga-ippai",
+    "https://anisearch.com/anime/18254",
+    "https://kitsu.io/anime/12262",
+    "https://myanimelist.net/anime/33215",
+    "https://notify.moe/anime/XyPR2FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c7a86f7eba9a1fc7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.175785405071119,
+    "arithmeticGeometricMean": 5.149258267902314,
+    "median": 4.954090909090909,
+    "hash": "c7a86f7eba9a1fc7",
+    "lastUpdate": "2024-05-08"
+  }
+}

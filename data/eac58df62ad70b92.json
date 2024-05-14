@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18195",
+    "https://anilist.co/anime/169315",
+    "https://anime-planet.com/anime/trillion-game",
+    "https://anisearch.com/anime/18705",
+    "https://kitsu.io/anime/47944",
+    "https://livechart.me/anime/12329",
+    "https://myanimelist.net/anime/56662",
+    "https://notify.moe/anime/IjPz2TiIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eac58df62ad70b92",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "eac58df62ad70b92",
+    "lastUpdate": "2024-05-11"
+  }
+}

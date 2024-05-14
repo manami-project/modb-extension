@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7890",
+    "https://anilist.co/anime/8536",
+    "https://anime-planet.com/anime/fortune-arterial",
+    "https://anisearch.com/anime/6448",
+    "https://kitsu.io/anime/5378",
+    "https://livechart.me/anime/3785",
+    "https://myanimelist.net/anime/8536",
+    "https://notify.moe/anime/1p-mpKiig"
+  ],
+  "score": {
+    "arithmeticMean": 6.785722677991652,
+    "arithmeticGeometricMean": 6.782365883508755,
+    "median": 6.76578125,
+    "hash": "c8562c944bf6f241",
+    "lastUpdate": "2024-05-09"
+  }
+}

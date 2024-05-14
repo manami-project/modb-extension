@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10209",
+    "https://anilist.co/anime/19731",
+    "https://anime-planet.com/anime/osamu-to-musashi",
+    "https://anisearch.com/anime/8889",
+    "https://kitsu.io/anime/9029",
+    "https://livechart.me/anime/7295",
+    "https://myanimelist.net/anime/19731",
+    "https://notify.moe/anime/gbqxtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89c1d1ceb4050eab",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.141535559678417,
+    "arithmeticGeometricMean": 6.139276444159038,
+    "median": 6.0830612244897955,
+    "hash": "89c1d1ceb4050eab",
+    "lastUpdate": "2024-05-09"
+  }
+}

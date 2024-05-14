@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/7226",
+    "https://myanimelist.net/anime/11065"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b128c8283f3df4fe",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.129183673469388,
+    "arithmeticGeometricMean": 6.113918145658587,
+    "median": 6.129183673469388,
+    "hash": "b128c8283f3df4fe",
+    "lastUpdate": "2024-05-07"
+  }
+}

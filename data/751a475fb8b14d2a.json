@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15711",
+    "https://anilist.co/anime/123645",
+    "https://anime-planet.com/anime/farewell-my-dear-cramer-movie-first-touch",
+    "https://anisearch.com/anime/15517",
+    "https://kitsu.io/anime/44339",
+    "https://livechart.me/anime/10131",
+    "https://myanimelist.net/anime/42798",
+    "https://notify.moe/anime/0Bh4WsFMR"
+  ],
+  "synopsis": {
+    "text": "Tani Yasuaki, a familiar face from the past, becomes the catalyst for Nozomi Onda's unwavering determination to prove her mettle on the soccer field. As a middle school student, Nozomi finds herself sidelined due to the absence of a girls' soccer club and the coach's reluctance to let her compete against the boys. Fueled by her passion for soccer and the desire to showcase her skills, Nozomi becomes resolute in her quest to challenge the status quo and demonstrate that girls can excel in soccer just as well as boys.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "751a475fb8b14d2a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.103865955473097,
+    "arithmeticGeometricMean": 7.0965060812550735,
+    "median": 7.235909090909091,
+    "hash": "751a475fb8b14d2a",
+    "lastUpdate": "2024-05-09"
+  }
+}

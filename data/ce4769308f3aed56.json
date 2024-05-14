@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7333",
+    "https://anilist.co/anime/16393",
+    "https://anime-planet.com/anime/norakuro-kun",
+    "https://anisearch.com/anime/4139",
+    "https://kitsu.io/anime/7419",
+    "https://myanimelist.net/anime/16393",
+    "https://notify.moe/anime/LRLKpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce4769308f3aed56",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.651512059369202,
+    "arithmeticGeometricMean": 5.61119908427101,
+    "median": 5.249536178107606,
+    "hash": "ce4769308f3aed56",
+    "lastUpdate": "2024-05-08"
+  }
+}

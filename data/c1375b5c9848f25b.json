@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3705",
+    "https://anilist.co/anime/1253",
+    "https://anime-planet.com/anime/saint-seiya-the-hades-chapter-inferno",
+    "https://anisearch.com/anime/2108",
+    "https://kitsu.io/anime/1128",
+    "https://livechart.me/anime/5439",
+    "https://myanimelist.net/anime/1253",
+    "https://notify.moe/anime/xm1xcFimg"
+  ],
+  "synopsis": {
+    "text": "Athena’s brave warriors, Seiya and the surviving Bronze and Gold Saints, have ventured into the Underworld, following a fierce battle in the Sanctuary. Their mission is to locate Athena, who sacrificed herself to confront Hades, and deliver the divine Athena's Cloth, a crucial element in the impending battle against the Lord of the Dead. The journey is treacherous, filled with Hades' minions and formidable obstacles, such as the river Acheron and its uncooperative ferryman, Charon. With unwavering determination, Seiya and his comrades face these challenges, aiming to reunite with Athena and assist her in vanquishing Hades and his sinister forces.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c1375b5c9848f25b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.661113172541744,
+    "arithmeticGeometricMean": 7.659253637614009,
+    "median": 7.74,
+    "hash": "c1375b5c9848f25b",
+    "lastUpdate": "2024-05-09"
+  }
+}

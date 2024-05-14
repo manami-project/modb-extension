@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15873",
+    "https://anilist.co/anime/126659",
+    "https://anime-planet.com/anime/my-hero-academia-movie-3-world-heroes-mission",
+    "https://anisearch.com/anime/15890",
+    "https://kitsu.io/anime/44209",
+    "https://livechart.me/anime/10236",
+    "https://myanimelist.net/anime/44200",
+    "https://notify.moe/anime/H8xzLvLMR"
+  ],
+  "synopsis": {
+    "text": "It's a race against time in the third installment of the Boku no Hero Academia movie franchise, \"World Heroes' Mission.\" A dangerous group, Humarise, believes that individuals with Quirks are diseased and must be eradicated. To achieve their twisted goal, they've set up deadly Trigger Bombs worldwide, causing panic and chaos. As Pro Heroes and Hero Interns join forces to find and defuse these bombs, Izuku \"Deku\" Midoriya, Katsuki Bakugo, and Shoto Todoroki find themselves in the country of Otheon.\n\nIn Otheon, our heroes cross paths with Rodi, a local boy living in a mobile home. As they team up with Rodi, Deku is accused of a crime he didn't commit, forcing him to go on the run with his new ally. With only two hours left to prevent the collapse of civilization, Deku, Bakugo, and Todoroki must put their differences aside and work together to stop Humarise's nefarious plot. As the world teeters on the brink of destruction, can our heroes save the day and clear Deku's name? The fate of hero society hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc58913b113fb068",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.800169140383427,
+    "arithmeticGeometricMean": 7.793603642633424,
+    "median": 7.834090909090909,
+    "hash": "bc58913b113fb068",
+    "lastUpdate": "2024-05-09"
+  }
+}

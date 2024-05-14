@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/116915",
+    "https://anime-planet.com/anime/yume-no-mahou",
+    "https://kitsu.io/anime/44772",
+    "https://myanimelist.net/anime/39911"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73d66a5cb699097a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.517454545454545,
+    "arithmeticGeometricMean": 5.49238006680464,
+    "median": 5.46,
+    "hash": "73d66a5cb699097a",
+    "lastUpdate": "2024-05-07"
+  }
+}

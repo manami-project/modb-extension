@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12787",
+    "https://anilist.co/anime/102386",
+    "https://anime-planet.com/anime/the-pillows-instant-music",
+    "https://anisearch.com/anime/14767",
+    "https://kitsu.io/anime/10814",
+    "https://myanimelist.net/anime/30424",
+    "https://notify.moe/anime/Xb4_tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5d9882d19ad1263b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.952463821892393,
+    "arithmeticGeometricMean": 4.910489940808499,
+    "median": 5.0,
+    "hash": "5d9882d19ad1263b",
+    "lastUpdate": "2024-05-07"
+  }
+}

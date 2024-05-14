@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/510",
+    "https://anilist.co/anime/881",
+    "https://anime-planet.com/anime/green-green-ova",
+    "https://anisearch.com/anime/692",
+    "https://kitsu.io/anime/781",
+    "https://livechart.me/anime/5129",
+    "https://myanimelist.net/anime/881",
+    "https://notify.moe/anime/6KC0cKmmR"
+  ],
+  "synopsis": {
+    "text": "Ichiban boshi and Bacchi-Gu, two mischievous boys from Kanenone Gakuen, an all-boys school, are thrilled when they hear that they will be visiting an all-girls school as part of a trial run for a potential merger. The boys have high hopes for their month-long stay, but the girls at the school are less than thrilled. The boys' antics quickly turn the visit into a nightmare for the girls, who find themselves constantly dodging the boys' attempts to catch a glimpse of them in compromising situations. Meanwhile, Midori, a girl from the all-girls school, is overjoyed to finally be reunited with her long-lost crush, Yuusuke. However, Yuusuke has no memory of Midori, leaving her confused and heartbroken. As the boys' visit continues, tensions rise and secrets are revealed, leading to unexpected alliances and surprising revelations. Will the boys and girls be able to put aside their differences and make the most of their time together, or will their clashing personalities and hidden motives lead to disaster?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4aab9347295db8d0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.932518862090291,
+    "arithmeticGeometricMean": 5.909249909222255,
+    "median": 5.865,
+    "hash": "4aab9347295db8d0",
+    "lastUpdate": "2024-05-09"
+  }
+}

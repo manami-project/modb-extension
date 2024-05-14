@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7574",
+    "https://anime-planet.com/anime/obake-no-q-tarou-susume-1100-daisakusen",
+    "https://anisearch.com/anime/6258",
+    "https://kitsu.io/anime/9914",
+    "https://myanimelist.net/anime/22991",
+    "https://notify.moe/anime/kzdPtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d9d1dbfa2acb7a2c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.168843537414966,
+    "arithmeticGeometricMean": 6.135008676719828,
+    "median": 6.326530612244898,
+    "hash": "d9d1dbfa2acb7a2c",
+    "lastUpdate": "2024-05-08"
+  }
+}

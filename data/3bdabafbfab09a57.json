@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3091",
+    "https://anilist.co/anime/5091",
+    "https://anime-planet.com/anime/manga-sarutobi-sasuke",
+    "https://anisearch.com/anime/1044",
+    "https://kitsu.io/anime/3926",
+    "https://livechart.me/anime/8263",
+    "https://myanimelist.net/anime/5091",
+    "https://notify.moe/anime/GQ_rcKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3bdabafbfab09a57",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.434874635568514,
+    "arithmeticGeometricMean": 6.386703464726939,
+    "median": 6.718,
+    "hash": "3bdabafbfab09a57",
+    "lastUpdate": "2024-05-09"
+  }
+}

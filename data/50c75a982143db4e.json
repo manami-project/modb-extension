@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/112092",
+    "https://anime-planet.com/anime/space-shower-tv-animatope-id",
+    "https://kitsu.io/anime/44803",
+    "https://myanimelist.net/anime/40003"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "50c75a982143db4e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.1321818181818175,
+    "arithmeticGeometricMean": 5.114637729797899,
+    "median": 5.02,
+    "hash": "50c75a982143db4e",
+    "lastUpdate": "2024-05-05"
+  }
+}

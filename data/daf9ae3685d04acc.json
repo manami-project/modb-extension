@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4201",
+    "https://anilist.co/anime/5070",
+    "https://anime-planet.com/anime/beast-wars-ii-chou-seimeitai-transformers",
+    "https://anisearch.com/anime/1442",
+    "https://kitsu.io/anime/3912",
+    "https://livechart.me/anime/7130",
+    "https://myanimelist.net/anime/5070",
+    "https://notify.moe/anime/bpU9cFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "daf9ae3685d04acc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.889117413199046,
+    "arithmeticGeometricMean": 5.863609596739606,
+    "median": 6.090909090909091,
+    "hash": "daf9ae3685d04acc",
+    "lastUpdate": "2024-05-08"
+  }
+}

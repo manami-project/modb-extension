@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9618",
+    "https://anime-planet.com/anime/pyuu-to-fuku-jaguar-return-of-yaku-ichinenburi",
+    "https://anisearch.com/anime/8309",
+    "https://kitsu.io/anime/9555",
+    "https://myanimelist.net/anime/23889",
+    "https://notify.moe/anime/sO6ftKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d90b3158cef71c6a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.285714285714286,
+    "arithmeticGeometricMean": 4.255690009507399,
+    "median": 4.285714285714286,
+    "hash": "d90b3158cef71c6a",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/160850",
+    "https://anime-planet.com/anime/pretty-guardian-sailor-moon-cosmos-movie-2",
+    "https://kitsu.io/anime/47032",
+    "https://livechart.me/anime/11199"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3d62969cea187b07",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.09990909090909,
+    "arithmeticGeometricMean": 8.09970201100526,
+    "median": 8.09990909090909,
+    "hash": "3d62969cea187b07",
+    "lastUpdate": "2024-05-09"
+  }
+}

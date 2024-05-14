@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11707",
+    "https://anilist.co/anime/103716",
+    "https://anime-planet.com/anime/natural-history",
+    "https://anisearch.com/anime/11592",
+    "https://kitsu.io/anime/11672",
+    "https://myanimelist.net/anime/31759",
+    "https://notify.moe/anime/5R7qtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f98f357bf01a6131",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.86973071826133,
+    "arithmeticGeometricMean": 4.822924295720403,
+    "median": 4.88,
+    "hash": "f98f357bf01a6131",
+    "lastUpdate": "2024-05-08"
+  }
+}

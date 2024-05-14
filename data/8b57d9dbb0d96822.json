@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15848",
+    "https://anilist.co/anime/126047",
+    "https://anime-planet.com/anime/battle-game-in-5-seconds",
+    "https://anisearch.com/anime/15747",
+    "https://kitsu.io/anime/44200",
+    "https://livechart.me/anime/10217",
+    "https://myanimelist.net/anime/43814",
+    "https://notify.moe/anime/FQ-OyATGR"
+  ],
+  "synopsis": {
+    "text": "Mion, a mysterious girl, disrupts the mundane life of high school student and gaming enthusiast, Akira Shiroyanagi, by thrusting him into a world of unique abilities and high-stakes battles. Akira, along with others, finds themselves erased from all official records and chosen as test subjects for a clandestine organization. Armed with newfound powers, Akira vows to ascend through the ranks and dismantle the organization from within. As this new generation engages in a battle of extraordinary abilities, Akira's love for games and determination to create change propels him forward in this dangerous, yet thrilling, new reality.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b57d9dbb0d96822",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.920839336129708,
+    "arithmeticGeometricMean": 6.9133740223643105,
+    "median": 7.009545454545455,
+    "hash": "8b57d9dbb0d96822",
+    "lastUpdate": "2024-05-09"
+  }
+}

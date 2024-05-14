@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16278",
+    "https://anilist.co/anime/133007",
+    "https://anime-planet.com/anime/puella-magi-madoka-magica-the-movie-part-4-walpurgisnacht-rising",
+    "https://anisearch.com/anime/16217",
+    "https://kitsu.io/anime/44451",
+    "https://livechart.me/anime/1947",
+    "https://myanimelist.net/anime/48820",
+    "https://notify.moe/anime/pCETTd9MR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e30b0643fb52411a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "e30b0643fb52411a",
+    "lastUpdate": "2024-05-11"
+  }
+}

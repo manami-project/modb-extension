@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11323",
+    "https://anilist.co/anime/21243",
+    "https://anime-planet.com/anime/komori-san-cant-decline",
+    "https://anisearch.com/anime/10535",
+    "https://kitsu.io/anime/11208",
+    "https://livechart.me/anime/1676",
+    "https://myanimelist.net/anime/31091",
+    "https://notify.moe/anime/m3XXpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c0e672353b27f19f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.263463584035012,
+    "arithmeticGeometricMean": 6.256188092737266,
+    "median": 6.254358974358974,
+    "hash": "c0e672353b27f19f",
+    "lastUpdate": "2024-05-09"
+  }
+}

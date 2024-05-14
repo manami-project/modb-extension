@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11662",
+    "https://anime-planet.com/anime/audition",
+    "https://anisearch.com/anime/11832",
+    "https://kitsu.io/anime/11697",
+    "https://myanimelist.net/anime/31730",
+    "https://notify.moe/anime/WvNqpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b72fbfb3dd875a6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "6b72fbfb3dd875a6",
+    "lastUpdate": "2024-05-08"
+  }
+}

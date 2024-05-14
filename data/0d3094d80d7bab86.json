@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/1427",
+    "https://myanimelist.net/anime/3541"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0d3094d80d7bab86",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.6055102040816323,
+    "arithmeticGeometricMean": 3.509952462596288,
+    "median": 3.6055102040816323,
+    "hash": "0d3094d80d7bab86",
+    "lastUpdate": "2024-05-07"
+  }
+}

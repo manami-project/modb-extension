@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17408",
+    "https://anilist.co/anime/145756",
+    "https://anime-planet.com/anime/ashita-aou-ne",
+    "https://kitsu.io/anime/40858",
+    "https://myanimelist.net/anime/36055",
+    "https://notify.moe/anime/Y9FOhKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "87cc5581bc5f25f2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.324666666666666,
+    "arithmeticGeometricMean": 5.268592192908258,
+    "median": 5.33,
+    "hash": "87cc5581bc5f25f2",
+    "lastUpdate": "2024-05-08"
+  }
+}

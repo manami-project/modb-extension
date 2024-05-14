@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11144",
+    "https://anilist.co/anime/21118",
+    "https://anime-planet.com/anime/starmyu",
+    "https://anisearch.com/anime/10300",
+    "https://kitsu.io/anime/10783",
+    "https://livechart.me/anime/1455",
+    "https://myanimelist.net/anime/30375",
+    "https://notify.moe/anime/OfzlpKmmR"
+  ],
+  "synopsis": {
+    "text": "Star ry-eyed and brimming with ambition, Yuuta Hoshitani steps into the prestigious Ayana Academy, a school renowned for nurturing musical talent. The academy is governed by the elite Kao Kai, an influential trio of top-performing students in the music department. The express lane to the music department is through the Star Frame class, a privilege reserved for those recognized by the Kao Kai. However, Yuuta and his fellow aspiring musicians, Touru, Kaito, Kakeru, and Shuu, find themselves grappling to maintain their candidacy for the music department due to personal challenges. A twist of fate brings them under the watchful eye of Kao Kai member Ootori, sparking his curiosity and offering them a glimmer of hope. Under Ootori's guidance, the group strives to overcome their hurdles and secure their place in the coveted Star Frame class, all while navigating the intense competition and politics within the academy.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b775c9779964d12e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.594874287088573,
+    "arithmeticGeometricMean": 6.580980901539546,
+    "median": 6.737181818181819,
+    "hash": "b775c9779964d12e",
+    "lastUpdate": "2024-05-10"
+  }
+}

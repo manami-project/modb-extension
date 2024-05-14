@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9671",
+    "https://anilist.co/anime/17699",
+    "https://anime-planet.com/anime/toriko-movie-secret-recipe-of-gourmet-god",
+    "https://anisearch.com/anime/8345",
+    "https://kitsu.io/anime/7684",
+    "https://livechart.me/anime/44",
+    "https://myanimelist.net/anime/17699",
+    "https://notify.moe/anime/WPXcpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "30935eb7d6785641",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.837168301086669,
+    "arithmeticGeometricMean": 6.810790164118928,
+    "median": 7.1,
+    "hash": "30935eb7d6785641",
+    "lastUpdate": "2024-05-10"
+  }
+}

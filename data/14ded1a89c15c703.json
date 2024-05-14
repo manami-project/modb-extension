@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15231",
+    "https://anilist.co/anime/112748",
+    "https://anime-planet.com/anime/healin-good-pretty-cure",
+    "https://anisearch.com/anime/14880",
+    "https://kitsu.io/anime/42650",
+    "https://livechart.me/anime/9655",
+    "https://myanimelist.net/anime/40610",
+    "https://notify.moe/anime/0k6QH90WR"
+  ],
+  "synopsis": {
+    "text": "Animals with magical healing powers known as 'Healing Animals' protect a secret world called the Healing Garden, which has been caring for the Earth for centuries. When a sinister group called the Byogens threatens to infect the garden and poison the planet, Princess Latte and three medical trainee Healing Animals escape to the human world to find three special individuals who can partner with them and save the Healing Garden. In Sukoyaka City, Nodoka, Chiyu, and Hinata are chosen by the Healing Animals to become Pretty Cures, powerful warriors who can combat the Byogens and protect all life on Earth. As the Byogens continue their attacks, the three Pretty Cures and their animal friends must work together to heal the planet and save the Healing Garden from destruction.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "14ded1a89c15c703",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.069452071737786,
+    "arithmeticGeometricMean": 7.0578970325292305,
+    "median": 7.120909090909091,
+    "hash": "14ded1a89c15c703",
+    "lastUpdate": "2024-05-09"
+  }
+}

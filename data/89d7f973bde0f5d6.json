@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13258",
+    "https://anilist.co/anime/21748",
+    "https://anime-planet.com/anime/flcl-alternative",
+    "https://anisearch.com/anime/12615",
+    "https://kitsu.io/anime/11962",
+    "https://livechart.me/anime/2102",
+    "https://myanimelist.net/anime/35842",
+    "https://notify.moe/anime/TX2epFmmR"
+  ],
+  "synopsis": {
+    "text": "Mechanica and Fraternity wage war across the galaxy, but for Kana and her friends, life in their small Japanese town is as mundane as ever. They spend their days attending school, hanging out, and indulging in hobbies like nail painting and music. Seeking a spark of excitement, they build a bottle rocket, only for it to be destroyed by a falling robot and the sudden arrival of a pink-haired 'Galactic Investigator' named Haruko. As Kana grapples with new emotions, shifting friendships, and unexpected boy troubles, she finds herself entangled in a series of bizarre robot encounters.\n\nIn the latest season of FLCL, years have passed since Naota's adventures with Haruko. Enter Hidomi, a teenage girl resigned to her ordinary life until a new teacher, Haruko, arrives at her school. As Medical Mechanica attacks her town, Hidomi discovers a hidden power within her that could save everyone, a secret only Haruko can unlock. But what brought Haruko back to Earth, and what became of her Rickenbacker 4001 and the humanoid robot 'Canti'?\n\nIn FLCL Alternative, the spotlight shifts to 17-year-old Kana, whose uneventful days with her best friends Mossan, Hijiri, and her pets are disrupted by the sudden crash of a giant robot carrying a mysterious woman named Haruko. As Haruko draws Kana and her friends into her plans involving a powerful entity known as \"ATOMSK,\" Kana must decide if she's willing to risk everything to help Haruko, or if the decision is already out of her hands.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89d7f973bde0f5d6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.697700371057514,
+    "arithmeticGeometricMean": 6.689577974696325,
+    "median": 6.728896103896104,
+    "hash": "89d7f973bde0f5d6",
+    "lastUpdate": "2024-05-09"
+  }
+}

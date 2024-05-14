@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15003",
+    "https://anilist.co/anime/110413",
+    "https://anime-planet.com/anime/lupin-the-3rd-the-first",
+    "https://anisearch.com/anime/14512",
+    "https://kitsu.io/anime/42445",
+    "https://livechart.me/anime/9512",
+    "https://myanimelist.net/anime/40082",
+    "https://notify.moe/anime/msWRF5vZg"
+  ],
+  "synopsis": {
+    "text": "Arsène Lupin III, the legendary \"gentleman thief,\" is back in an exhilarating, globe-trotting escapade! Teaming up with a young woman named Laetitia, Lupin and his vibrant band of underworld cronies embark on a mission to seize the elusive Bresson Diary, a prize that even Lupin's grandfather failed to acquire. The diary is rumored to contain secrets that could revive the Third Reich, making it a target for a sinister cabal that will stop at nothing to claim it.\n\nAs they navigate treacherous tombs, daring aerial stunts, and heart-stopping prison breaks, Lupin and his crew must stay one step ahead of their ruthless adversaries. With Lupin's signature charm and the franchise's iconic visual flair, this thrilling adventure promises to captivate both seasoned fans and newcomers alike. But as the chase for the diary intensifies, loyalties are tested, and alliances may not be as they seem. Will Lupin and Laetitia succeed in their daring heist, or will the diary's secrets fall into the wrong hands? Only time will tell in this electrifying new installment of the Lupin the 3rd saga.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f2787daa7c6fd457",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.752741651205937,
+    "arithmeticGeometricMean": 7.750226618342285,
+    "median": 7.8496938775510205,
+    "hash": "f2787daa7c6fd457",
+    "lastUpdate": "2024-05-09"
+  }
+}

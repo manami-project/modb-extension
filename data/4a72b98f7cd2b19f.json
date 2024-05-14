@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/112155",
+    "https://anime-planet.com/anime/nem-yumekui-shirokuro-baku",
+    "https://kitsu.io/anime/41826",
+    "https://myanimelist.net/anime/37609"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4a72b98f7cd2b19f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.447090909090909,
+    "arithmeticGeometricMean": 6.4359334402991175,
+    "median": 6.7272727272727275,
+    "hash": "4a72b98f7cd2b19f",
+    "lastUpdate": "2024-05-07"
+  }
+}

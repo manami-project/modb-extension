@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18576",
+    "https://anilist.co/anime/176496",
+    "https://anime-planet.com/anime/solo-leveling-season-2-arise-from-the-shadow",
+    "https://anisearch.com/anime/19152",
+    "https://kitsu.io/anime/48671",
+    "https://livechart.me/anime/12618",
+    "https://myanimelist.net/anime/58567",
+    "https://notify.moe/anime/_PDLycxSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "71ed1be6997a772c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.25,
+    "arithmeticGeometricMean": 6.25,
+    "median": 6.25,
+    "hash": "71ed1be6997a772c",
+    "lastUpdate": "2024-05-09"
+  }
+}

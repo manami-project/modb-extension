@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12846",
+    "https://anilist.co/anime/102674",
+    "https://anime-planet.com/anime/megazone-23-sin",
+    "https://anisearch.com/anime/12820",
+    "https://kitsu.io/anime/13473",
+    "https://livechart.me/anime/2556",
+    "https://notify.moe/anime/lTrnhFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0199202ca2a9e71a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "0199202ca2a9e71a",
+    "lastUpdate": "2024-05-09"
+  }
+}

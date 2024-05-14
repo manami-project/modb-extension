@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16572",
+    "https://anilist.co/anime/139775",
+    "https://anime-planet.com/anime/akai-hoshi-aoi-hoshi-tenmon-carat-no-hoshi-kara",
+    "https://kitsu.io/anime/44805",
+    "https://myanimelist.net/anime/42888"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0ed6194352018baa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.75630303030303,
+    "arithmeticGeometricMean": 5.7431315271861845,
+    "median": 5.74,
+    "hash": "0ed6194352018baa",
+    "lastUpdate": "2024-05-07"
+  }
+}

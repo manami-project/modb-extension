@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10150",
+    "https://anilist.co/anime/20550",
+    "https://anime-planet.com/anime/shimajirou-to-kujira-no-uta",
+    "https://anisearch.com/anime/9129",
+    "https://kitsu.io/anime/8288",
+    "https://livechart.me/anime/350",
+    "https://myanimelist.net/anime/20963",
+    "https://notify.moe/anime/BrPTpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f41f8b580fcdce95",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.06167439703154,
+    "arithmeticGeometricMean": 4.910913153635219,
+    "median": 5.181818181818182,
+    "hash": "f41f8b580fcdce95",
+    "lastUpdate": "2024-05-09"
+  }
+}

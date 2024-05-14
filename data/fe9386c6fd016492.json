@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/131073",
+    "https://anime-planet.com/anime/against-the-gods",
+    "https://kitsu.io/anime/45675",
+    "https://myanimelist.net/anime/50230",
+    "https://notify.moe/anime/tUl5HiGIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe9386c6fd016492",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.008727272727273,
+    "arithmeticGeometricMean": 7.0062059768015335,
+    "median": 6.82,
+    "hash": "fe9386c6fd016492",
+    "lastUpdate": "2024-05-07"
+  }
+}

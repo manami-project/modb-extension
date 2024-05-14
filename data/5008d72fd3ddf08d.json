@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1079",
+    "https://anilist.co/anime/1582",
+    "https://anime-planet.com/anime/submarine-707r",
+    "https://anisearch.com/anime/669",
+    "https://kitsu.io/anime/1422",
+    "https://livechart.me/anime/7886",
+    "https://myanimelist.net/anime/1582",
+    "https://notify.moe/anime/RzU-cFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5008d72fd3ddf08d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.223975086138351,
+    "arithmeticGeometricMean": 6.217748845539927,
+    "median": 6.23,
+    "hash": "5008d72fd3ddf08d",
+    "lastUpdate": "2024-05-10"
+  }
+}

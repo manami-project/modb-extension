@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11099",
+    "https://anilist.co/anime/21065",
+    "https://anime-planet.com/anime/nyuru-nyuru-kakusen-kun-2nd-season",
+    "https://anisearch.com/anime/10249",
+    "https://kitsu.io/anime/10677",
+    "https://livechart.me/anime/1417",
+    "https://myanimelist.net/anime/30144",
+    "https://notify.moe/anime/KfJwtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "644f464bf788e242",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.665244279529994,
+    "arithmeticGeometricMean": 4.658362237353098,
+    "median": 4.818181818181818,
+    "hash": "644f464bf788e242",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10446",
+    "https://anilist.co/anime/20518",
+    "https://anime-planet.com/anime/jinsei",
+    "https://anisearch.com/anime/9465",
+    "https://kitsu.io/anime/8157",
+    "https://livechart.me/anime/309",
+    "https://myanimelist.net/anime/23121",
+    "https://notify.moe/anime/kfGTtFmig"
+  ],
+  "synopsis": {
+    "text": "Because Yuuki Akamatsu can't refuse his close cousin, Ayaka Nikaidou, he finds himself roped into joining the Second Newspaper Club at his school. Ayaka, the club's leader, immediately assigns Yuuki to manage the life advice column, which is staffed by three charming but strong-willed girls. Rino Endou, the science whiz, Fumi Kujou, the literary lover, and Ikumi Suzuki, the sports enthusiast, are tasked with answering the questions and concerns of their fellow students. However, these three panelists rarely see eye-to-eye, leading to lively debates and unpredictable solutions. As Yuuki navigates the challenges of his new role, he discovers that the club offers more than just advice; it also provides opportunities for personal growth and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "56240f315419e43d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.3658250360750355,
+    "arithmeticGeometricMean": 6.3572617339994775,
+    "median": 6.301999587713873,
+    "hash": "56240f315419e43d",
+    "lastUpdate": "2024-05-09"
+  }
+}

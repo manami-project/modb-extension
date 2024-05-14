@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/15211",
+    "https://myanimelist.net/anime/38732"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aaa479175edc81f6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.74234693877551,
+    "arithmeticGeometricMean": 6.732774247702158,
+    "median": 6.74234693877551,
+    "hash": "aaa479175edc81f6",
+    "lastUpdate": "2024-05-06"
+  }
+}

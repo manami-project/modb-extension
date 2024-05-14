@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15064",
+    "https://anilist.co/anime/107880",
+    "https://anime-planet.com/anime/the-island-of-giant-insects-movie",
+    "https://anisearch.com/anime/14601",
+    "https://kitsu.io/anime/42941",
+    "https://livechart.me/anime/9574",
+    "https://myanimelist.net/anime/40332",
+    "https://notify.moe/anime/1gPpty8Wg"
+  ],
+  "synopsis": {
+    "text": "Her wilderness skills and knowledge of insects become the lifeline for a group of high school students, including the resourceful Oribe Mutsumi, when their plane crashes, leaving them stranded on an island that's far from deserted. Initially, they anticipate a swift rescue, but the island harbors a terrifying secret: it's home to colossal, lethal insects. As the students' unity crumbles under the pressure of survival, Mutsumi's expertise is their only hope against the relentless onslaught of these monstrous creatures. Will they endure long enough for rescue to arrive, or will their disintegrating team spirit seal their fate?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5eff30162338186",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.153508271490415,
+    "arithmeticGeometricMean": 5.12267913810366,
+    "median": 4.905775510204082,
+    "hash": "a5eff30162338186",
+    "lastUpdate": "2024-05-09"
+  }
+}

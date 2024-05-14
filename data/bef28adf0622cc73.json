@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106556",
+    "https://anime-planet.com/anime/chou-radio-taisou",
+    "https://anisearch.com/anime/14810",
+    "https://kitsu.io/anime/45476"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bef28adf0622cc73",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.36734693877551,
+    "arithmeticGeometricMean": 3.152675244645953,
+    "median": 3.36734693877551,
+    "hash": "bef28adf0622cc73",
+    "lastUpdate": "2024-05-07"
+  }
+}

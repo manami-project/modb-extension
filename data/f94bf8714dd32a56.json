@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13482",
+    "https://anilist.co/anime/104557",
+    "https://anime-planet.com/anime/mobile-suit-gundam-twilight-axis-akaki-zanei",
+    "https://anisearch.com/anime/12834",
+    "https://kitsu.io/anime/40948",
+    "https://livechart.me/anime/2896",
+    "https://myanimelist.net/anime/36436",
+    "https://notify.moe/anime/OXEO2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f94bf8714dd32a56",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.687542362399506,
+    "arithmeticGeometricMean": 5.675315477053723,
+    "median": 5.452272727272728,
+    "hash": "f94bf8714dd32a56",
+    "lastUpdate": "2024-05-09"
+  }
+}

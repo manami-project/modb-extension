@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5845",
+    "https://anilist.co/anime/4187",
+    "https://anime-planet.com/anime/megumi",
+    "https://anisearch.com/anime/4865",
+    "https://kitsu.io/anime/3509",
+    "https://myanimelist.net/anime/4187",
+    "https://notify.moe/anime/WntXcFiiR"
+  ],
+  "synopsis": {
+    "text": "Megumi Yokota, a typical 13-year-old Japanese girl, was snatched from her idyllic life by North Korean agents in 1977. This heartrending anime documentary chronicles the relentless pursuit of her family, spanning three decades, to reclaim their beloved daughter from the clutches of North Korea. Despite the shocking revelation that Megumi was one of many Japanese citizens abducted during the 70s and 80s, the Japanese government's reluctance to act only fuels the Yokota family's determination to uncover the truth and bring their daughter home. With no definitive evidence of Megumi's fate, the family's unwavering resolve serves as a beacon of hope for other families affected by this tragic chapter in history.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3460bdaac74617c4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.770577789557381,
+    "arithmeticGeometricMean": 5.752089738574321,
+    "median": 5.88,
+    "hash": "3460bdaac74617c4",
+    "lastUpdate": "2024-05-07"
+  }
+}

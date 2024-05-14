@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148071",
+    "https://anime-planet.com/anime/kizunakizu",
+    "https://anisearch.com/anime/18533",
+    "https://kitsu.io/anime/40782",
+    "https://myanimelist.net/anime/35526",
+    "https://notify.moe/anime/ramO2Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4bb02d15e0a51f21",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.294545454545455,
+    "arithmeticGeometricMean": 5.287518316290302,
+    "median": 5.294545454545455,
+    "hash": "4bb02d15e0a51f21",
+    "lastUpdate": "2024-05-06"
+  }
+}

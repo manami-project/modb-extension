@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5377",
+    "https://anilist.co/anime/99031",
+    "https://anime-planet.com/anime/the-five-killers",
+    "https://anisearch.com/anime/4461",
+    "https://kitsu.io/anime/11168",
+    "https://livechart.me/anime/6768",
+    "https://myanimelist.net/anime/30916",
+    "https://notify.moe/anime/Q-YXtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "04f867e40b0b1f9c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.151255234561356,
+    "arithmeticGeometricMean": 6.133055174782478,
+    "median": 6.02,
+    "hash": "04f867e40b0b1f9c",
+    "lastUpdate": "2024-05-10"
+  }
+}

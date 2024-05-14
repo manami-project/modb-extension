@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139015",
+    "https://anime-planet.com/anime/after-man",
+    "https://myanimelist.net/anime/50028"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "518a20d8baf86971",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.918454545454546,
+    "arithmeticGeometricMean": 5.88934808074332,
+    "median": 5.918454545454546,
+    "hash": "518a20d8baf86971",
+    "lastUpdate": "2024-05-05"
+  }
+}

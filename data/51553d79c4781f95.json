@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4248",
+    "https://anilist.co/anime/16586",
+    "https://anime-planet.com/anime/michiteru-kuru-toki-no-mukou-ni",
+    "https://anisearch.com/anime/1136",
+    "https://kitsu.io/anime/7467",
+    "https://myanimelist.net/anime/16586",
+    "https://notify.moe/anime/D3XFtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "51553d79c4781f95",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.764897217068645,
+    "arithmeticGeometricMean": 5.744301250255459,
+    "median": 5.15,
+    "hash": "51553d79c4781f95",
+    "lastUpdate": "2024-05-07"
+  }
+}

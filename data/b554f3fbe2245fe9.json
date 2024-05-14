@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2297",
+    "https://anilist.co/anime/2554",
+    "https://anime-planet.com/anime/ai-shoujo-pollyanna-monogatari",
+    "https://anisearch.com/anime/983",
+    "https://kitsu.io/anime/2319",
+    "https://livechart.me/anime/10301",
+    "https://myanimelist.net/anime/2554",
+    "https://notify.moe/anime/pfMs5KiiR"
+  ],
+  "synopsis": {
+    "text": "Together with her father, Pollyanna, a spirited and optimistic young girl, enjoyed a blissful existence, despite the absence of her mother from birth. However, a tragic turn of events leaves Pollyanna orphaned, forcing her to relocate and live with her estranged aunt, a stern and seemingly unapproachable woman. As time unfolds, Pollyanna's infectious cheerfulness and warm-hearted nature begin to thaw her aunt's icy demeanor, forming an unbreakable bond between them.\n\nIn the quaint town where they reside, Pollyanna's sunny disposition and boundless energy captivate the hearts of the townsfolk, transforming even the most cynical of souls. Despite the harsh realities and challenges life throws her way, Pollyanna remains steadfast in her positive outlook, never allowing adversity to dampen her spirit.\n\nJoin Pollyanna and her friends as they embark on a series of thrilling escapades, exploring the trials and triumphs of life in this heartwarming tale of love, resilience, and the transformative power of optimism.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b554f3fbe2245fe9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.626761728067851,
+    "arithmeticGeometricMean": 6.61697206099197,
+    "median": 6.818181818181818,
+    "hash": "b554f3fbe2245fe9",
+    "lastUpdate": "2024-05-08"
+  }
+}

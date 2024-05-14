@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/12223",
+    "https://anime-planet.com/anime/scryed-alteration-ii-quan",
+    "https://kitsu.io/anime/6689",
+    "https://livechart.me/anime/1044",
+    "https://myanimelist.net/anime/12223",
+    "https://notify.moe/anime/IwDNpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ecc944eba4039ed",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.605018181818181,
+    "arithmeticGeometricMean": 6.575078067159172,
+    "median": 6.79,
+    "hash": "7ecc944eba4039ed",
+    "lastUpdate": "2024-05-06"
+  }
+}

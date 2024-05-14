@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16508",
+    "https://anilist.co/anime/137308",
+    "https://anime-planet.com/anime/oh-suddenly-egyptian-god-2nd-season",
+    "https://anisearch.com/anime/17390",
+    "https://kitsu.io/anime/44945",
+    "https://livechart.me/anime/10731",
+    "https://myanimelist.net/anime/49522",
+    "https://notify.moe/anime/dEu-lbMng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9fffdd98a95a982a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.692893836322408,
+    "arithmeticGeometricMean": 6.67711713294013,
+    "median": 6.624,
+    "hash": "9fffdd98a95a982a",
+    "lastUpdate": "2024-05-10"
+  }
+}

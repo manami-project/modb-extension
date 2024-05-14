@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17118",
+    "https://anilist.co/anime/143417",
+    "https://anime-planet.com/anime/teppen",
+    "https://anisearch.com/anime/17111",
+    "https://kitsu.io/anime/45729",
+    "https://livechart.me/anime/11018",
+    "https://myanimelist.net/anime/50760",
+    "https://notify.moe/anime/tr6unIxnR"
+  ],
+  "synopsis": {
+    "text": "Kazuki High School, nestled in Osaka's vibrant Nanba district, a renowned birthplace of comedic legends, welcomes its newest student, Yayoi Sakamoto. A fervent admirer of comedy acts, Yayoi is thrilled to reconnect with her childhood friend and former comedy partner, Yomogi Takahashi. Together, they once formed the comedy duo 'Konamonzu', and now, they're eager to reignite their shared passion.\n\nIn preparation for a local shopping area's comedy contest, they find themselves back in a familiar setting, a park where they used to practice their routines. As they immerse themselves in their comedic endeavors, an unexpected interruption occurs. A mysterious girl approaches them, potentially altering the course of their comedic journey.\n\nAs they progress, Yayoi, Yomogi, and a new friend, Yuzu Hosono, form a stand-up comedy trio, Young Wai-Wai. Their ultimate goal is to win the prestigious Teppen Grand Prix, a competition that celebrates the art of stand-up comedy. To achieve this, they must outshine other talented trios in the final round. Living in a dormitory that has housed many comedians before them, they seize this opportunity to prove their comedic mettle and bring laughter to their audience like never before.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f6b13624914eb112",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.355323283858998,
+    "arithmeticGeometricMean": 6.321654021635184,
+    "median": 6.619202226345083,
+    "hash": "f6b13624914eb112",
+    "lastUpdate": "2024-05-10"
+  }
+}

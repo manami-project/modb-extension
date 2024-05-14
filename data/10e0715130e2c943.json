@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14446",
+    "https://anilist.co/anime/106493",
+    "https://anime-planet.com/anime/doraemon-nobita-no-getsumen-tansaki",
+    "https://anisearch.com/anime/14055",
+    "https://kitsu.io/anime/47920",
+    "https://livechart.me/anime/3560",
+    "https://myanimelist.net/anime/38530"
+  ],
+  "score": {
+    "arithmeticMean": 6.989633395176253,
+    "arithmeticGeometricMean": 6.97971852327857,
+    "median": 6.38,
+    "hash": "10e0715130e2c943",
+    "lastUpdate": "2024-05-09"
+  }
+}

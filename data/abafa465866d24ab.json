@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1424",
+    "https://anilist.co/anime/315",
+    "https://anime-planet.com/anime/xiao-qian",
+    "https://anisearch.com/anime/3479",
+    "https://kitsu.io/anime/284",
+    "https://livechart.me/anime/8503",
+    "https://myanimelist.net/anime/315",
+    "https://notify.moe/anime/uV12cFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "abafa465866d24ab",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.348303560385192,
+    "arithmeticGeometricMean": 6.340481468646735,
+    "median": 6.37,
+    "hash": "abafa465866d24ab",
+    "lastUpdate": "2024-05-10"
+  }
+}

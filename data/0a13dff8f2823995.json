@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8608",
+    "https://anime-planet.com/anime/angel-ga-tonda-hi",
+    "https://anisearch.com/anime/7261",
+    "https://kitsu.io/anime/9189",
+    "https://myanimelist.net/anime/22959",
+    "https://notify.moe/anime/05x-tFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0a13dff8f2823995",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.663265306122449,
+    "arithmeticGeometricMean": 5.643761500998084,
+    "median": 5.663265306122449,
+    "hash": "0a13dff8f2823995",
+    "lastUpdate": "2024-05-08"
+  }
+}

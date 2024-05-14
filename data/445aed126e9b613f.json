@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6491",
+    "https://anilist.co/anime/16954",
+    "https://anime-planet.com/anime/milky-passion-dougenzaka-ai-no-shiro",
+    "https://anisearch.com/anime/4223",
+    "https://kitsu.io/anime/7558",
+    "https://myanimelist.net/anime/16954",
+    "https://notify.moe/anime/And5tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "445aed126e9b613f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.1903265306122455,
+    "arithmeticGeometricMean": 5.182241967276457,
+    "median": 5.035,
+    "hash": "445aed126e9b613f",
+    "lastUpdate": "2024-05-07"
+  }
+}

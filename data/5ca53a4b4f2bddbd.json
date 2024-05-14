@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9193",
+    "https://anisearch.com/anime/7800"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ca53a4b4f2bddbd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.489795918367346,
+    "arithmeticGeometricMean": 4.489795918367346,
+    "median": 4.489795918367346,
+    "hash": "5ca53a4b4f2bddbd",
+    "lastUpdate": "2024-05-08"
+  }
+}

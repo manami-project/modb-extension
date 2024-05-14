@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10735",
+    "https://anilist.co/anime/109363",
+    "https://anime-planet.com/anime/dangobei-torimonochou-hirake-goma-no-maki",
+    "https://anisearch.com/anime/10065",
+    "https://kitsu.io/anime/10166",
+    "https://myanimelist.net/anime/28057",
+    "https://notify.moe/anime/fd1ytKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f0f606a1b7a65f36",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.865314162028448,
+    "arithmeticGeometricMean": 4.847755948158596,
+    "median": 4.863636363636363,
+    "hash": "f0f606a1b7a65f36",
+    "lastUpdate": "2024-05-07"
+  }
+}

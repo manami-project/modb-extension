@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/i-see-you",
+    "https://anisearch.com/anime/16765"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9a33412712224db0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.408163265306122,
+    "arithmeticGeometricMean": 5.408163265306122,
+    "median": 5.408163265306122,
+    "hash": "9a33412712224db0",
+    "lastUpdate": "2024-05-06"
+  }
+}

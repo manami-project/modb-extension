@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/976",
+    "https://anilist.co/anime/1439",
+    "https://anime-planet.com/anime/lupin-the-3rd-special-9-island-of-assassins",
+    "https://anisearch.com/anime/635",
+    "https://kitsu.io/anime/1292",
+    "https://livechart.me/anime/9305",
+    "https://myanimelist.net/anime/1439",
+    "https://notify.moe/anime/wvnacFiig"
+  ],
+  "synopsis": {
+    "text": "Lupin’s latest escapade takes him to a clandestine island, known only as the Island of Assassins, a place shrouded in secrecy with the help of high-ranking government officials who use its deadly inhabitants for their own nefarious purposes. Lupin's mission is twofold: to unravel a sinister mystery from his past and to pilfer the island's legendary gold stash. However, the island is home to the Tarantulas, the world's most lethal group of assassins, and Lupin must infiltrate their ranks, all while battling an 'incurable' poison and navigating a plot that has divided the island's residents.\n\nWhen Lupin is implicated in the murder of Inspector Zenigata, he is drawn into a web of intrigue that leads him to this deadly island. The murder weapon, a silver Walther P38, is a gun that Lupin once owned, prompting him to investigate further. As he delves deeper into the mystery, Lupin finds himself unwillingly recruited into the Tarantulas' ranks, making both allies and enemies along the way.\n\nAmidst the chaos, Lupin must also find a cure for the 'incurable' poison and, in true Lupin style, he has his eyes set on the island's fabled treasure. With his trusted companions Jigen, Goemon, and Fujiko by his side, Lupin must outwit the Tarantulas, clear his name, and escape the Island of Assassins. Will Lupin succeed in his daring mission, or will the Island of Assassins prove to be his final heist? Only time will tell in this thrilling adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "72a0e0e1ccbee410",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.384820920576023,
+    "arithmeticGeometricMean": 7.3841905723745755,
+    "median": 7.41,
+    "hash": "72a0e0e1ccbee410",
+    "lastUpdate": "2024-05-09"
+  }
+}

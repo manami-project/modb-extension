@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17707",
+    "https://anilist.co/anime/156727",
+    "https://anime-planet.com/anime/i-ris-the-movie-full-energy",
+    "https://anisearch.com/anime/18485",
+    "https://kitsu.io/anime/48545",
+    "https://livechart.me/anime/11600",
+    "https://myanimelist.net/anime/53534",
+    "https://notify.moe/anime/j7eNklu4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bf735deea292d980",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "bf735deea292d980",
+    "lastUpdate": "2024-05-11"
+  }
+}

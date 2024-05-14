@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5905",
+    "https://anilist.co/anime/10527",
+    "https://anime-planet.com/anime/duel-masters-cross",
+    "https://anisearch.com/anime/5083",
+    "https://kitsu.io/anime/6224",
+    "https://myanimelist.net/anime/10527",
+    "https://notify.moe/anime/ohIVpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b920e050d26224a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.7683132785581765,
+    "arithmeticGeometricMean": 5.720306685517248,
+    "median": 6.184000000000001,
+    "hash": "5b920e050d26224a",
+    "lastUpdate": "2024-05-08"
+  }
+}

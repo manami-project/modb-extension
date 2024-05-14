@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12785",
+    "https://anilist.co/anime/118034",
+    "https://anime-planet.com/anime/suzukisan-torikaekko-please",
+    "https://anisearch.com/anime/12213",
+    "https://kitsu.io/anime/13014",
+    "https://myanimelist.net/anime/33898",
+    "https://notify.moe/anime/hXuZ2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e251e3fcd9945fd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.792955208057249,
+    "arithmeticGeometricMean": 4.774552162069028,
+    "median": 4.75,
+    "hash": "9e251e3fcd9945fd",
+    "lastUpdate": "2024-05-08"
+  }
+}

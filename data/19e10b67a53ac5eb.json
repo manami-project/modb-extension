@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3658",
+    "https://anilist.co/anime/950",
+    "https://anime-planet.com/anime/street-fighter-alpha-generations",
+    "https://anisearch.com/anime/3434",
+    "https://kitsu.io/anime/842",
+    "https://livechart.me/anime/7396",
+    "https://myanimelist.net/anime/950",
+    "https://notify.moe/anime/YxI15Kmig"
+  ],
+  "synopsis": {
+    "text": "Will ing to pay tribute to his late mentor, Ryu finds himself haunted by the memories of his master's demise. As he embarks on a journey to perfect his martial arts prowess and free himself from the clutches of the Dark Hadou, Ryu must face his greatest adversary yet - the menacing Gouki. Meanwhile, a dark cloud looms over Ryu and Ken's reunion as they confront a battle unlike any other. Struggling against the evil forces consuming him, Ryu discovers his long-lost brother, Shun, is alive but held captive by the sinister Shadowlaw organization. In order to save Shun and control the powers threatening him, Ryu must embark on a journey of self-discovery. But as his confidence wanes, will he have the strength to defeat Gouki, the ruthless master of the dark \"Hadou\"?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "19e10b67a53ac5eb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.174083674451022,
+    "arithmeticGeometricMean": 6.164519693358558,
+    "median": 6.286,
+    "hash": "19e10b67a53ac5eb",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4136",
+    "https://anilist.co/anime/1979",
+    "https://anime-planet.com/anime/tobira-wo-akete-1995",
+    "https://anisearch.com/anime/3369",
+    "https://kitsu.io/anime/1781",
+    "https://livechart.me/anime/7586",
+    "https://myanimelist.net/anime/1979",
+    "https://notify.moe/anime/0xIL5Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "675692165032e756",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.660976764731866,
+    "arithmeticGeometricMean": 5.638512055297491,
+    "median": 6.0,
+    "hash": "675692165032e756",
+    "lastUpdate": "2024-05-10"
+  }
+}

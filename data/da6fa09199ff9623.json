@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13945",
+    "https://anilist.co/anime/101348",
+    "https://anime-planet.com/anime/vinland-saga",
+    "https://anisearch.com/anime/13486",
+    "https://kitsu.io/anime/41084",
+    "https://livechart.me/anime/3169",
+    "https://myanimelist.net/anime/37521",
+    "https://notify.moe/anime/Y3IK2Fiig"
+  ],
+  "synopsis": {
+    "text": "He ed the call of \"Vinland Saga,\" an anime adaptation of Makoto Yukimura's bestselling manga, and immerse yourself in the thrilling journey of Thorfinn, a prodigious young Viking warrior. Thorfinn's life is driven by a single, burning desire: to avenge his father's murder at the hands of Askeladd, the cunning and ruthless leader of a Viking band. To earn the right to challenge Askeladd to a duel, Thorfinn must first prove his worth by performing various deeds for him, from sabotage to eliminating enemy generals.\n\nBorn into a world where the Vikings' thirst for violence is legendary, Thorfinn's childhood is spent honing his skills on the battlefield, his dreams of a peaceful life shattered by the brutal murder of his family. As he navigates the treacherous waters of war and vengeance, Thorfinn clings to the tales of his idol, Leif Ericson, about a mythical land to the west - Vinland, a place of peace and fertility, free from war and slavery.\n\nCaught in the midst of a war for the crown of England, Thorfinn's quest for revenge and a peaceful land seems an impossible dream. Will Thorfinn succeed in his quest for vengeance against Askeladd, and if so, what will become of him? Will he continue his life of violence, or will he find the strength to seek out the fabled land of Vinland? Join Thorfinn in this epic saga of war, revenge, and the search for a better world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da6fa09199ff9623",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.612342609771181,
+    "arithmeticGeometricMean": 8.61104683310864,
+    "median": 8.666515151515153,
+    "hash": "da6fa09199ff9623",
+    "lastUpdate": "2024-05-10"
+  }
+}

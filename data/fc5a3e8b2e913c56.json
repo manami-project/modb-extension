@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/593",
+    "https://anilist.co/anime/550",
+    "https://anime-planet.com/anime/yu-gi-oh",
+    "https://anisearch.com/anime/482",
+    "https://kitsu.io/anime/507",
+    "https://livechart.me/anime/3987",
+    "https://myanimelist.net/anime/550",
+    "https://notify.moe/anime/Yafo5KimR"
+  ],
+  "synopsis": {
+    "text": "Anzu Mazaki is always there to defend her frail and weak friend, Yuugi Mutou, from bullies. But Yuugi's life takes a dramatic turn when he solves the ancient Egyptian Millennium Puzzle, a mysterious artifact given to him by his grandfather. The puzzle contains a dark soul that grants Yuugi incredible powers and transforms him into a master of games. Whenever Yuugi or his friends are threatened, the dark soul takes over Yuugi's body and challenges the bad guys to a \"Shadow Game.\" The stakes are high, and the consequences are dire if the opponent tries to cheat. The nature of the Shadow Game varies depending on the situation, but it always reveals the darkness within the opponent's heart. With his newfound powers, Yuugi becomes a force to be reckoned with, dishing out justice and punishment to those who deserve it. Will Yuugi's new persona help him find the true friend he's always wanted, or will it lead him down a darker path?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc5a3e8b2e913c56",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.903987487754556,
+    "arithmeticGeometricMean": 6.893090408386489,
+    "median": 7.088549208903191,
+    "hash": "fc5a3e8b2e913c56",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/kerakera",
+    "https://kitsu.io/anime/41057",
+    "https://myanimelist.net/anime/37461",
+    "https://notify.moe/anime/VJGF2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "306b3004b1964af4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.342,
+    "arithmeticGeometricMean": 6.342,
+    "median": 6.342,
+    "hash": "306b3004b1964af4",
+    "lastUpdate": "2024-05-07"
+  }
+}

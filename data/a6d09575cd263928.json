@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6607",
+    "https://anilist.co/anime/18339",
+    "https://anime-planet.com/anime/pro-yakyuu-wo-10-bai-tanoshiku-miru-houhou",
+    "https://anisearch.com/anime/8564",
+    "https://kitsu.io/anime/9928",
+    "https://myanimelist.net/anime/18339",
+    "https://notify.moe/anime/ChKEtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a6d09575cd263928",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.822201607915894,
+    "arithmeticGeometricMean": 3.7130477649942053,
+    "median": 4.272727272727273,
+    "hash": "a6d09575cd263928",
+    "lastUpdate": "2024-05-07"
+  }
+}

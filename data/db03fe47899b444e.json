@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/436",
+    "https://anilist.co/anime/2291",
+    "https://anime-planet.com/anime/fight-iczer-one",
+    "https://anisearch.com/anime/2514",
+    "https://kitsu.io/anime/2076",
+    "https://livechart.me/anime/7363",
+    "https://myanimelist.net/anime/2291",
+    "https://notify.moe/anime/uItPcFmmg"
+  ],
+  "synopsis": {
+    "text": "Earth is on the brink of catastrophe as the Cthulhu, an all-female alien race, plot its invasion. Rather than engaging in outright war, they deploy the Vedims, parasitic creatures that transform humans into hideous monsters. Defying her own kind, Iczer-One, a Cthulhu warrior, takes it upon herself to eradicate these creatures on Earth. To unlock her mecha Iczer-Robo's full potential, she must find a compatible human partner. Enter Nagisa, an ordinary high school student whose life takes a dramatic turn when she's chosen by Iczer-One. Now, Nagisa finds herself and her loved ones in the crosshairs of the alien invaders. With no other choice, Nagisa and Iczer-One must join forces to fight back, bracing themselves for the harsh battles ahead. As the Cthulhu show no mercy, the duo must accept that Earth will bear the brunt of this conflict, all while striving to escape this living nightmare.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db03fe47899b444e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.910655181553141,
+    "arithmeticGeometricMean": 5.9009276027310404,
+    "median": 5.868,
+    "hash": "db03fe47899b444e",
+    "lastUpdate": "2024-05-10"
+  }
+}

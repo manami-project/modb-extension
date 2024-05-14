@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17859",
+    "https://anilist.co/anime/161441",
+    "https://anime-planet.com/anime/resident-evil-death-island",
+    "https://anisearch.com/anime/18204",
+    "https://kitsu.io/anime/47079",
+    "https://livechart.me/anime/11812",
+    "https://myanimelist.net/anime/54398",
+    "https://notify.moe/anime/otoWNXLVg"
+  ],
+  "synopsis": {
+    "text": "Redfield, a seasoned B.S.A.A. agent, and Kennedy, a skilled D.S.O. operative, find themselves entangled in a web of horrors as they pursue separate missions that converge on the infamous Alcatraz Island. Kennedy's objective is to rescue Dr. Antonio Taylor, a scientist who's been kidnapped, but his efforts are frustrated by an enigmatic woman. Redfield, on the other hand, is investigating a bizarre zombie outbreak in San Francisco that seems to be linked to recent visits to Alcatraz Island.\n\nBack in 1998, the Umbrella Corporation sought assistance from a private military unit when Raccoon City's citizens inexplicably turned into zombies. Tragically, all but two members of the unit suffered the same fate. Fast forward to 2015, Kennedy is assigned to apprehend Dr. Taylor, who stands accused of selling sensitive information to foreign entities. However, his mission takes an unexpected turn when he crosses paths with the kidnappers and a notorious criminal, Mario Gomez.\n\nMeanwhile, Redfield, his sister Claire, and Jill Valentine discover that a modified version of the T-virus is behind the recent infections and deaths, including that of a killer whale. Their investigation leads them straight to Alcatraz Island, where unspeakable horrors await them. (Source: Reinterpreted from provided synopses)",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "856e5573feba46ba",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.811123376623376,
+    "arithmeticGeometricMean": 6.7992758258002945,
+    "median": 6.8019480519480515,
+    "hash": "856e5573feba46ba",
+    "lastUpdate": "2024-05-09"
+  }
+}

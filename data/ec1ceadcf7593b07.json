@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8135",
+    "https://anilist.co/anime/10013",
+    "https://anime-planet.com/anime/shouwa-monogatari",
+    "https://anisearch.com/anime/6675",
+    "https://kitsu.io/anime/5993",
+    "https://myanimelist.net/anime/10013",
+    "https://notify.moe/anime/jB77pFiig"
+  ],
+  "synopsis": {
+    "text": "Year Showa 39 (1964) in Tokyo is marked by the grandeur of the Summer Olympics, serving as the backdrop for the compelling narrative of the Yamazaki family. The family, residing in Tokyo, is composed of Yuuzou, the patriarch, Kanoko, the matriarch, Yoshi, the grandmother, Taichi, the eldest son pursuing his university education, Yuuko, the eldest daughter attending high school, and Kouhei, the youngest member attending primary school. Amidst the chaos and disagreements within the family, the Tokyo Olympics unites the Yamazakis, offering a sense of togetherness and shared experiences.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec1ceadcf7593b07",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.35181606148953,
+    "arithmeticGeometricMean": 6.333959650891565,
+    "median": 6.326530612244898,
+    "hash": "ec1ceadcf7593b07",
+    "lastUpdate": "2024-05-08"
+  }
+}

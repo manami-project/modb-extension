@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/422",
+    "https://myanimelist.net/anime/4000"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "21c91316354140c1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.895918367346939,
+    "arithmeticGeometricMean": 4.832654970177987,
+    "median": 4.895918367346939,
+    "hash": "21c91316354140c1",
+    "lastUpdate": "2024-05-07"
+  }
+}

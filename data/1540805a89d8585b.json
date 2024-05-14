@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7327",
+    "https://anilist.co/anime/100110",
+    "https://anime-planet.com/anime/dragon-fist",
+    "https://anisearch.com/anime/3729",
+    "https://kitsu.io/anime/8877",
+    "https://livechart.me/anime/7833",
+    "https://myanimelist.net/anime/21179",
+    "https://notify.moe/anime/JvFbpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1540805a89d8585b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.95643413729128,
+    "arithmeticGeometricMean": 4.940753510014133,
+    "median": 5.0,
+    "hash": "1540805a89d8585b",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6847",
+    "https://anilist.co/anime/104422",
+    "https://anime-planet.com/anime/baguda-jou-no-touzoku",
+    "https://anisearch.com/anime/9395",
+    "https://kitsu.io/anime/10163",
+    "https://myanimelist.net/anime/28041",
+    "https://notify.moe/anime/p30stFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "96236e86bf3e42e2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.983169891333157,
+    "arithmeticGeometricMean": 4.957272971995601,
+    "median": 4.96,
+    "hash": "96236e86bf3e42e2",
+    "lastUpdate": "2024-05-08"
+  }
+}

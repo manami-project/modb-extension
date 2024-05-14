@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2225",
+    "https://anilist.co/anime/3752",
+    "https://anime-planet.com/anime/puss-in-boots-travels-around-the-world-in-80-days",
+    "https://anisearch.com/anime/3086",
+    "https://kitsu.io/anime/3230",
+    "https://livechart.me/anime/12183",
+    "https://myanimelist.net/anime/3752",
+    "https://notify.moe/anime/Axt_5KiiR"
+  ],
+  "synopsis": {
+    "text": "It's all in for the daring feline, Pero, in a high-stakes wager against the cunning and wealthy Gourmont. The challenge: to circumnavigate the globe in a mere 80 days. If successful, Pero will claim Gourmont's fortune as his own, but failure means a lifetime of servitude to the greedy swine.\n\nEmbarking on this audacious journey, Pero is accompanied by his steadfast companions, the colossal Kato and the fearless little mouse. However, Gourmont is not one to concede without a fight, employing every trick in the book to thwart their progress. From dispatching his ruthless assistant, Dr. Garigari, to trailing Pero with a trio of relentless tomcats, Gourmont is determined to maintain his wealth and status.\n\nDespite these formidable obstacles, Pero remains resolute, refusing to abandon his quest. The clock is ticking, and the world awaits: can Pero triumph against all odds and claim victory in this grand adventure?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "69f7f9ed97c88fc5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.023229790617546,
+    "arithmeticGeometricMean": 5.979384672314189,
+    "median": 6.1818181818181825,
+    "hash": "69f7f9ed97c88fc5",
+    "lastUpdate": "2024-05-09"
+  }
+}

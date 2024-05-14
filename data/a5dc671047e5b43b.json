@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102668",
+    "https://anime-planet.com/anime/utsukushii-hoshi",
+    "https://kitsu.io/anime/10778",
+    "https://myanimelist.net/anime/30330",
+    "https://notify.moe/anime/ssg_pKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5dc671047e5b43b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.5227272727272725,
+    "arithmeticGeometricMean": 5.513628976935736,
+    "median": 5.515454545454546,
+    "hash": "a5dc671047e5b43b",
+    "lastUpdate": "2024-05-07"
+  }
+}

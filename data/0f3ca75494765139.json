@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14559",
+    "https://anilist.co/anime/124341",
+    "https://anime-planet.com/anime/arad-reversal-of-fate",
+    "https://anisearch.com/anime/15490",
+    "https://livechart.me/anime/3538",
+    "https://myanimelist.net/anime/38416",
+    "https://notify.moe/anime/SxSiRadGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0f3ca75494765139",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.2373939393939395,
+    "arithmeticGeometricMean": 6.227092848565606,
+    "median": 5.93,
+    "hash": "0f3ca75494765139",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9819",
+    "https://anilist.co/anime/18227",
+    "https://anime-planet.com/anime/bakujuu-gasshin-ziguru-hazeru",
+    "https://anisearch.com/anime/8587",
+    "https://kitsu.io/anime/9161",
+    "https://livechart.me/anime/6677",
+    "https://myanimelist.net/anime/18227",
+    "https://notify.moe/anime/f0hatFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33fdb9fa881a544d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.304267161410018,
+    "arithmeticGeometricMean": 4.2348674022787645,
+    "median": 4.108534322820036,
+    "hash": "33fdb9fa881a544d",
+    "lastUpdate": "2024-05-08"
+  }
+}

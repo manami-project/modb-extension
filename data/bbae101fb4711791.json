@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/estima-sense-of-wonder",
+    "https://kitsu.io/anime/12581",
+    "https://myanimelist.net/anime/33871",
+    "https://notify.moe/anime/mzni2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bbae101fb4711791",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.803999999999999,
+    "arithmeticGeometricMean": 4.775956017393674,
+    "median": 4.62,
+    "hash": "bbae101fb4711791",
+    "lastUpdate": "2024-05-07"
+  }
+}

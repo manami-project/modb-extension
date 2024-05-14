@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11706",
+    "https://anilist.co/anime/115040",
+    "https://anime-planet.com/anime/serenade",
+    "https://anisearch.com/anime/11655",
+    "https://kitsu.io/anime/11726",
+    "https://myanimelist.net/anime/31761",
+    "https://notify.moe/anime/wOK3pKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "83319b14a9289907",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.714364519833907,
+    "arithmeticGeometricMean": 4.679926564067983,
+    "median": 4.58,
+    "hash": "83319b14a9289907",
+    "lastUpdate": "2024-05-08"
+  }
+}

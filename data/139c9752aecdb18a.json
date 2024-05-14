@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6040",
+    "https://anilist.co/anime/4884",
+    "https://anime-planet.com/anime/tales-of-the-abyss",
+    "https://anisearch.com/anime/4971",
+    "https://kitsu.io/anime/3836",
+    "https://livechart.me/anime/3907",
+    "https://myanimelist.net/anime/4884",
+    "https://notify.moe/anime/mHt95Kmmg"
+  ],
+  "synopsis": {
+    "text": "Their world is dictated by an ancient prophecy known as the Score, and the inhabitants of Auldrant have no choice but to follow its predetermined path. In the midst of a war between two powerful nations, Kimlasca-Lanvaldear and the Malkuth Empire, a young man named Luke von Fabre finds himself thrust into a journey that will challenge the very foundations of their society.\n\nLuke, the son of a prominent Duke, has lived a life of confinement within his family's mansion ever since a traumatic kidnapping incident seven years prior left him without any memories of his past. However, his mundane existence is turned upside down when a mysterious woman named Tear infiltrates the estate in an attempt to assassinate his master. In the ensuing struggle, Luke and Tear are transported to a distant land, setting them on a quest that will reveal the truth behind the Score and potentially alter the course of history.\n\nAs Luke navigates this new world, he grapples with the knowledge that he is the prophesied \"Light of the Sacred Flame,\" destined to bring prosperity to Kimlasca. But as he uncovers the secrets surrounding his own identity and the true nature of the Score, he must decide whether to embrace his fate or forge his own path. With the future of Auldrant hanging in the balance, Luke's choices will have far-reaching consequences for both himself and the world around him.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "139c9752aecdb18a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.243717726625534,
+    "arithmeticGeometricMean": 7.242152705895796,
+    "median": 7.256279069767443,
+    "hash": "139c9752aecdb18a",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17138",
+    "https://anilist.co/anime/139436",
+    "https://anime-planet.com/anime/foodie-boys-classic-of-mountains-seas",
+    "https://kitsu.io/anime/45603",
+    "https://myanimelist.net/anime/50295"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8ec35bd94aaee3e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.0,
+    "arithmeticGeometricMean": 4.0,
+    "median": 4.0,
+    "hash": "b8ec35bd94aaee3e",
+    "lastUpdate": "2024-05-08"
+  }
+}

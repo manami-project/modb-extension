@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6799",
+    "https://anilist.co/anime/4794",
+    "https://anime-planet.com/anime/pikachus-pikaboo",
+    "https://anisearch.com/anime/5734",
+    "https://kitsu.io/anime/3788",
+    "https://livechart.me/anime/5345",
+    "https://myanimelist.net/anime/4794",
+    "https://notify.moe/anime/3ZOrcFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1fd48ca45fb4aab8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.378783074068788,
+    "arithmeticGeometricMean": 6.365137665428513,
+    "median": 6.373272727272727,
+    "hash": "1fd48ca45fb4aab8",
+    "lastUpdate": "2024-05-09"
+  }
+}

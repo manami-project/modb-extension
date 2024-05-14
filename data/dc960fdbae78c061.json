@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7551",
+    "https://anilist.co/anime/174124",
+    "https://anime-planet.com/anime/sore-ike-anpanman-yumeneko-no-kuni-no-nyanii",
+    "https://anisearch.com/anime/5331",
+    "https://kitsu.io/anime/9053",
+    "https://livechart.me/anime/11394",
+    "https://myanimelist.net/anime/21969",
+    "https://notify.moe/anime/A1k-tFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc960fdbae78c061",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.286015769944341,
+    "arithmeticGeometricMean": 5.17570306269021,
+    "median": 5.590909090909092,
+    "hash": "dc960fdbae78c061",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/679",
+    "https://anilist.co/anime/597",
+    "https://anime-planet.com/anime/the-cat-returns",
+    "https://anisearch.com/anime/541",
+    "https://kitsu.io/anime/552",
+    "https://livechart.me/anime/3085",
+    "https://myanimelist.net/anime/597",
+    "https://notify.moe/anime/AZrTcFmiR"
+  ],
+  "synopsis": {
+    "text": "As a mundane life unfolds for the high school student Haru Yoshioka, a sudden twist of fate thrusts her into an extraordinary adventure. When she impulsively saves a peculiar cat from the brink of death, she unwittingly sets off a chain of events that leads her to the enigmatic Cat Kingdom. The cat she rescued is none other than Prince Lune, and in gratitude, the Cat King showers her with gifts and an unexpected marriage proposal. Miscommunication ensues, and Haru finds herself whisked away to the Cat Kingdom, her life taking a feline turn.\n\nIn this strange new world, Haru's human identity begins to blur as she becomes increasingly cat-like. Desperate to return home and regain her true self, she seeks help from the Cat Bureau's Baron and Muta. As they navigate the challenges of the Cat Kingdom, they are pursued by the relentless cat horde, with the enigmatic Baron Humbert von Gikkingen following close behind.\n\nThroughout her journey, Haru embarks on a path of self-discovery, learning to embrace her inner strength and make decisions independently. With the risk of permanently transforming into a cat looming over her, Haru must find her true self and escape the Cat Kingdom. Can she break free from this cat's cradle and emerge as a more confident and self-assured individual? Only time will tell in this whimsical tale of adventure, friendship, and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b833e5dfc3a4786f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.7006904864976295,
+    "arithmeticGeometricMean": 7.6989625219032085,
+    "median": 7.695,
+    "hash": "b833e5dfc3a4786f",
+    "lastUpdate": "2024-05-09"
+  }
+}

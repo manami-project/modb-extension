@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6957",
+    "https://anilist.co/anime/19999",
+    "https://anime-planet.com/anime/sobakasu-pucchi",
+    "https://anisearch.com/anime/9063",
+    "https://kitsu.io/anime/9043",
+    "https://myanimelist.net/anime/19999",
+    "https://notify.moe/anime/NFg-tKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dcb049e4594f55b9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.59630303030303,
+    "arithmeticGeometricMean": 5.570634436834226,
+    "median": 5.090909090909091,
+    "hash": "dcb049e4594f55b9",
+    "lastUpdate": "2024-05-08"
+  }
+}

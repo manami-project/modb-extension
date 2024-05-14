@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2099",
+    "https://anilist.co/anime/2980",
+    "https://anime-planet.com/anime/kuso-kagaku-sekai-gulliver-boy",
+    "https://anisearch.com/anime/2373",
+    "https://kitsu.io/anime/2695",
+    "https://myanimelist.net/anime/2980",
+    "https://notify.moe/anime/FKa85KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "93ec937076754cd2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.825632122979061,
+    "arithmeticGeometricMean": 5.696710627395822,
+    "median": 6.2727272727272725,
+    "hash": "93ec937076754cd2",
+    "lastUpdate": "2024-05-08"
+  }
+}

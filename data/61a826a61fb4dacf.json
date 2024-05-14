@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7077",
+    "https://anilist.co/anime/10706",
+    "https://anime-planet.com/anime/vegetable-fairies-ny-salad-2nd-series",
+    "https://anisearch.com/anime/10367",
+    "https://kitsu.io/anime/6306",
+    "https://myanimelist.net/anime/10706",
+    "https://notify.moe/anime/2GxVtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "61a826a61fb4dacf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.777859925788498,
+    "arithmeticGeometricMean": 5.753902074626488,
+    "median": 5.708719851576994,
+    "hash": "61a826a61fb4dacf",
+    "lastUpdate": "2024-05-07"
+  }
+}

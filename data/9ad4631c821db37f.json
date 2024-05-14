@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7777",
+    "https://anime-planet.com/anime/hello-kitty-no-mahou-no-ringo",
+    "https://anisearch.com/anime/6392",
+    "https://kitsu.io/anime/9850",
+    "https://myanimelist.net/anime/22479",
+    "https://notify.moe/anime/AwmEpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9ad4631c821db37f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.82654081632653,
+    "arithmeticGeometricMean": 5.805374798370104,
+    "median": 5.709081632653061,
+    "hash": "9ad4631c821db37f",
+    "lastUpdate": "2024-05-07"
+  }
+}

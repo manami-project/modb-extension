@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/161923",
+    "https://anime-planet.com/anime/vinland-saga-season-2-drowning-in-the-shadow",
+    "https://anisearch.com/anime/18595",
+    "https://kitsu.io/anime/47074",
+    "https://myanimelist.net/anime/54463"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a9ee0772ddc21d9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.348556586270872,
+    "arithmeticGeometricMean": 7.343538799994616,
+    "median": 7.28,
+    "hash": "5a9ee0772ddc21d9",
+    "lastUpdate": "2024-05-07"
+  }
+}

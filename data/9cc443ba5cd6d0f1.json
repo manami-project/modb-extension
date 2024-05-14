@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11828",
+    "https://anilist.co/anime/21518",
+    "https://anime-planet.com/anime/food-wars-the-second-plate",
+    "https://anisearch.com/anime/10982",
+    "https://kitsu.io/anime/11612",
+    "https://livechart.me/anime/1955",
+    "https://myanimelist.net/anime/32282",
+    "https://notify.moe/anime/3xrjtFmmg"
+  ],
+  "synopsis": {
+    "text": "Souma Yukihira, a seasoned chef from a humble family diner, takes on the prestigious Totsuki Teahouse Culinary Academy, a school notorious for its low graduation rate. As he navigates through the challenges and refines his culinary prowess, he forms alliances with fellow students and encounters influential figures. Earning a spot in the elite Autumn Elections, Souma competes against seven other talented first-years, including Megumi, Takumi, Hisako, Alice, Kurokiba, Hayama, and Mimasaka. With the stakes high and the competition fierce, the chefs engage in one-on-one culinary battles, each with unique themes and judges.\n\nAs the Autumn Elections progress, the eight contestants must prove their skills in a bento showdown. Souma faces off against Alice, the chemistry-focused granddaughter of the Academy's director, in a high-stakes bento boxing match. With the competition heating up, who among these gifted chefs will rise to the top and claim the title of the best cook in their grade? In the cutthroat world of Totsuki Culinary Academy, only the strongest will survive and earn the chance to become a master chef.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9cc443ba5cd6d0f1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.21266668799181,
+    "arithmeticGeometricMean": 8.211399366242947,
+    "median": 8.181097178683386,
+    "hash": "9cc443ba5cd6d0f1",
+    "lastUpdate": "2024-05-10"
+  }
+}

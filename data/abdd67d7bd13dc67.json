@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11569",
+    "https://anilist.co/anime/21354",
+    "https://anime-planet.com/anime/ketsuekigata-kun-3",
+    "https://anisearch.com/anime/10801",
+    "https://kitsu.io/anime/11389",
+    "https://livechart.me/anime/1811",
+    "https://myanimelist.net/anime/31566",
+    "https://notify.moe/anime/NysrtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "abdd67d7bd13dc67",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.928120682039049,
+    "arithmeticGeometricMean": 5.910434230630418,
+    "median": 6.166666666666667,
+    "hash": "abdd67d7bd13dc67",
+    "lastUpdate": "2024-05-09"
+  }
+}

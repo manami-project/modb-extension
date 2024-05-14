@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3704",
+    "https://anilist.co/anime/1845",
+    "https://anime-planet.com/anime/gaiking-legend-of-daiku-maryu",
+    "https://anisearch.com/anime/3411",
+    "https://kitsu.io/anime/1662",
+    "https://livechart.me/anime/7114",
+    "https://myanimelist.net/anime/1845",
+    "https://notify.moe/anime/tSyf5Kimg"
+  ],
+  "synopsis": {
+    "text": "While on a fishing trip with his father five years ago, Daiya Tsuwabuki's life was forever changed when they were attacked by colossal monsters. Though his father disappeared during the incident, Daiya was saved by a mysterious organization. Despite the skepticism of those around him, Daiya remains steadfast in his belief that the monsters were real and his father is still alive. As history begins to repeat itself, the same monsters resurface, threatening his city. In the midst of chaos, Daiya encounters Gaiking, a powerful giant mech. After successfully piloting Gaiking to defeat the monster, Daiya learns that the mech belongs to the Daikû Maryû, the same group that rescued him years ago. Determined to find his father and protect his city, Daiya joins the Daikû Maryû on their mission to explore the subterranean world of Darius and prevent the monsters from overtaking the surface world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6848384f7bad282d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.7595865359130665,
+    "arithmeticGeometricMean": 6.7421405066893705,
+    "median": 7.0,
+    "hash": "6848384f7bad282d",
+    "lastUpdate": "2024-05-09"
+  }
+}

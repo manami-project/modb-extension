@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103727",
+    "https://anime-planet.com/anime/grim",
+    "https://kitsu.io/anime/11226",
+    "https://myanimelist.net/anime/31263",
+    "https://notify.moe/anime/fn6upKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb16e7eb64ce810c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.975454545454545,
+    "arithmeticGeometricMean": 5.959224549298718,
+    "median": 5.71,
+    "hash": "eb16e7eb64ce810c",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5343",
+    "https://anilist.co/anime/2876",
+    "https://anime-planet.com/anime/hoshi-no-orpheus",
+    "https://anisearch.com/anime/4388",
+    "https://kitsu.io/anime/2617",
+    "https://livechart.me/anime/12002",
+    "https://myanimelist.net/anime/2876",
+    "https://notify.moe/anime/AgdUcKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "27fdd79f313ac99a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.899159554730983,
+    "arithmeticGeometricMean": 4.876674780615223,
+    "median": 4.809090909090909,
+    "hash": "27fdd79f313ac99a",
+    "lastUpdate": "2024-05-09"
+  }
+}

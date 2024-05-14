@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9026",
+    "https://anilist.co/anime/20185",
+    "https://anime-planet.com/anime/pa-pa-pa-the-movie-perman",
+    "https://anisearch.com/anime/7672",
+    "https://kitsu.io/anime/9529",
+    "https://myanimelist.net/anime/20185",
+    "https://notify.moe/anime/rQuBpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2581f01824a6e153",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.133541743970315,
+    "arithmeticGeometricMean": 6.0853547133372405,
+    "median": 6.472727272727273,
+    "hash": "2581f01824a6e153",
+    "lastUpdate": "2024-05-07"
+  }
+}

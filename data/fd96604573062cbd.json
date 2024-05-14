@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3654",
+    "https://anilist.co/anime/586",
+    "https://anime-planet.com/anime/ayakashi-japanese-classic-horror",
+    "https://anisearch.com/anime/2040",
+    "https://kitsu.io/anime/541",
+    "https://livechart.me/anime/4256",
+    "https://myanimelist.net/anime/586",
+    "https://notify.moe/anime/5vlocFmig"
+  ],
+  "synopsis": {
+    "text": "Himekawa Zushonosuke, a falconer, is dispatched by his lord to retrieve a lost falcon from the haunted Sirasagi castle. En route, he encounters Tomihime, a divine being of ethereal beauty, and finds himself inexplicably drawn to her. As their forbidden love blossoms, Zushonosuke is thrust into a world of forgotten gods who prey on humans, setting the stage for a violent confrontation between the shogun's army and the clan of these gods. Amidst the ensuing chaos, Zushonosuke faces a harrowing decision: will he relinquish his humanity to be with Tomihime?\n\nIn another tale, Oiwa, a beautiful woman, is betrayed by her samurai husband, Tamiya Iemon, who seeks to marry a wealthy woman to escape poverty. Scorned and abandoned, Oiwa curses all who cross her path. This story is a retelling of Yotsuya Kaidan, a classic Japanese ghost story penned by 18th-century playwright Tsuruya Nanboku.\n\nLastly, a malevolent demon wreaks havoc on a samurai family during the Edo period, killing the daughter just before her wedding. A wandering medicine seller suspects the involvement of a Bakeneko, a cat ghost, and seeks to uncover the truth behind its appearance and the family's dark secrets.\n\nThese three chilling tales, each with distinct animation styles and tones, share a common thread: the exploration of the darker aspects of the human heart.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd96604573062cbd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.267235621521337,
+    "arithmeticGeometricMean": 7.264882596849009,
+    "median": 7.305,
+    "hash": "fd96604573062cbd",
+    "lastUpdate": "2024-05-08"
+  }
+}

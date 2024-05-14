@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/158631",
+    "https://anime-planet.com/anime/battle-mode",
+    "https://kitsu.io/anime/44780",
+    "https://myanimelist.net/anime/45626"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b75c701807ec1753",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.016909090909091,
+    "arithmeticGeometricMean": 6.0013525738816185,
+    "median": 6.01,
+    "hash": "b75c701807ec1753",
+    "lastUpdate": "2024-05-06"
+  }
+}

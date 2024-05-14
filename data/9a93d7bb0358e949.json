@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104407",
+    "https://anime-planet.com/anime/calling-you",
+    "https://kitsu.io/anime/45138"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9a93d7bb0358e949",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.545454545454546,
+    "arithmeticGeometricMean": 5.545454545454546,
+    "median": 5.545454545454546,
+    "hash": "9a93d7bb0358e949",
+    "lastUpdate": "2024-05-07"
+  }
+}

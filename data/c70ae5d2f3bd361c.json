@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139003",
+    "https://anime-planet.com/anime/nakano-harada-kekkon-kyousoukyoku",
+    "https://kitsu.io/anime/14167",
+    "https://myanimelist.net/anime/36673",
+    "https://notify.moe/anime/nguNhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c70ae5d2f3bd361c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.741454545454545,
+    "arithmeticGeometricMean": 4.718249161464586,
+    "median": 4.710909090909091,
+    "hash": "c70ae5d2f3bd361c",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/725",
+    "https://anilist.co/anime/1000",
+    "https://anime-planet.com/anime/captain-harlock",
+    "https://anisearch.com/anime/1017",
+    "https://kitsu.io/anime/890",
+    "https://livechart.me/anime/4510",
+    "https://myanimelist.net/anime/1000",
+    "https://notify.moe/anime/i521cKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d02e5e641eebbbec",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.361821892393321,
+    "arithmeticGeometricMean": 7.3553630882175804,
+    "median": 7.428571428571429,
+    "hash": "d02e5e641eebbbec",
+    "lastUpdate": "2024-05-10"
+  }
+}

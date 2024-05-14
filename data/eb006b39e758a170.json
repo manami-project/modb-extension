@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137684",
+    "https://anime-planet.com/anime/gei-wo-lai-ge-xiao-heshang",
+    "https://kitsu.io/anime/48325",
+    "https://myanimelist.net/anime/57078"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb006b39e758a170",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 1.4545454545454546,
+    "arithmeticGeometricMean": 1.4545454545454546,
+    "median": 1.4545454545454546,
+    "hash": "eb006b39e758a170",
+    "lastUpdate": "2024-05-07"
+  }
+}

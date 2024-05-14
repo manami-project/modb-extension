@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/810",
+    "https://anilist.co/anime/1436",
+    "https://anime-planet.com/anime/lupin-the-3rd-special-8-secret-of-the-twilight-gemini",
+    "https://anisearch.com/anime/1113",
+    "https://kitsu.io/anime/1289",
+    "https://livechart.me/anime/9307",
+    "https://myanimelist.net/anime/1436",
+    "https://notify.moe/anime/WXG-5KmiR"
+  ],
+  "synopsis": {
+    "text": "Don Dolune, a former rival and mentor to the cunning thief Lupin, bestows upon him a flawless diamond known as Twilight on his deathbed. This gem is said to be the key to unlocking the hidden treasure of the Gelt tribe, concealed somewhere in Morocco. However, the Twilight diamond is just one half of a larger gem, the Twilight Gemini, and Lupin must find the other half to unveil the treasure's location.\n\nAs Lupin embarks on this perilous quest, he becomes entangled in a web of danger and deception. A mysterious assassin is hot on his trail, and the Higo people seem to have a vested interest in the treasure. To complicate matters further, a power struggle within the Gelt tribe threatens to boil over, with both factions vying for control of the coveted diamond.\n\nWith the relentless Inspector Zenigata and even the head of Interpol on his tail, Lupin must navigate this treacherous landscape, all while grappling with his feelings for the enigmatic Lara and keeping his sometimes-ally, sometimes-adversary Fujiko at bay. As the sands of time run out, Lupin finds himself at the center of a storm that could determine the fate of the Gelt tribe and reveal the truth behind the legendary Twilight Gemini.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "25632b988ed50d2b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.915729658097006,
+    "arithmeticGeometricMean": 6.914056913355124,
+    "median": 6.932653061224489,
+    "hash": "25632b988ed50d2b",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10235",
+    "https://anilist.co/anime/102636",
+    "https://anime-planet.com/anime/buddy-spirits",
+    "https://anisearch.com/anime/9165",
+    "https://kitsu.io/anime/8226",
+    "https://livechart.me/anime/6715",
+    "https://myanimelist.net/anime/21107",
+    "https://notify.moe/anime/4atopFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd3bd24371a6b98b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.503451895043732,
+    "arithmeticGeometricMean": 5.486215558592263,
+    "median": 5.408163265306122,
+    "hash": "bd3bd24371a6b98b",
+    "lastUpdate": "2024-05-09"
+  }
+}

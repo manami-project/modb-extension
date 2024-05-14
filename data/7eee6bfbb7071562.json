@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18424",
+    "https://anilist.co/anime/173533",
+    "https://anime-planet.com/anime/monogatari-series-off-and-monster-season",
+    "https://anisearch.com/anime/19020",
+    "https://kitsu.io/anime/48434",
+    "https://livechart.me/anime/12502",
+    "https://myanimelist.net/anime/57864",
+    "https://notify.moe/anime/V24-7x5Sg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7eee6bfbb7071562",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.244897959183673,
+    "arithmeticGeometricMean": 7.244897959183673,
+    "median": 7.244897959183673,
+    "hash": "7eee6bfbb7071562",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12895",
+    "https://anilist.co/anime/98962",
+    "https://anime-planet.com/anime/kakinoki-mokkii",
+    "https://kitsu.io/anime/10231",
+    "https://myanimelist.net/anime/29481",
+    "https://notify.moe/anime/8P8spFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cd63400179354f46",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.3128,
+    "arithmeticGeometricMean": 5.298564590346315,
+    "median": 5.0,
+    "hash": "cd63400179354f46",
+    "lastUpdate": "2024-05-08"
+  }
+}

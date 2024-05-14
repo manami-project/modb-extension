@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10330",
+    "https://anilist.co/anime/104101",
+    "https://anime-planet.com/anime/sumire-uesaka-kakumei-teki-broadway-shugisha-doumei",
+    "https://anisearch.com/anime/9304",
+    "https://kitsu.io/anime/8720",
+    "https://myanimelist.net/anime/22059",
+    "https://notify.moe/anime/kzyJtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8ca8110181cb9b79",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.12759872780281,
+    "arithmeticGeometricMean": 5.106807569934087,
+    "median": 5.090909090909091,
+    "hash": "8ca8110181cb9b79",
+    "lastUpdate": "2024-05-07"
+  }
+}

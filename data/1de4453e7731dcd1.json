@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/7690",
+    "https://myanimelist.net/anime/13221"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1de4453e7731dcd1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.856632653061224,
+    "arithmeticGeometricMean": 6.847743220460083,
+    "median": 6.856632653061224,
+    "hash": "1de4453e7731dcd1",
+    "lastUpdate": "2024-05-07"
+  }
+}

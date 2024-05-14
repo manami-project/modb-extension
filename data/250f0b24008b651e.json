@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11552",
+    "https://anilist.co/anime/21330",
+    "https://anime-planet.com/anime/prince-of-stride-alternative",
+    "https://anisearch.com/anime/10726",
+    "https://kitsu.io/anime/11364",
+    "https://livechart.me/anime/1807",
+    "https://myanimelist.net/anime/31559",
+    "https://notify.moe/anime/98xrtFmmg"
+  ],
+  "synopsis": {
+    "text": "Stride, a thrilling and intense sport that unites parkour, free running, relay, and sprinting, has captivated the hearts of first-year high school students, Takeru Fujiwara and Nana Sakurai. With a burning desire to join the Stride club at Honan Academy, they are disheartened to find it inactive and merged with the shogi club. Determined to revive the club and compete in the prestigious End of Summer competition, Takeru and Nana set out to recruit members, with their sights set on the talented and versatile athlete, Riku Yagami. Despite his initial reluctance to engage in Stride, the duo persistently attempts to persuade Riku, dragging him into the clubroom in hopes of changing his mind.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "250f0b24008b651e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.851463291183656,
+    "arithmeticGeometricMean": 6.843519945871535,
+    "median": 6.969090909090909,
+    "hash": "250f0b24008b651e",
+    "lastUpdate": "2024-05-09"
+  }
+}

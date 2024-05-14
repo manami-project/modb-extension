@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/101157",
+    "https://anime-planet.com/anime/fence-of-defense-data-no6",
+    "https://kitsu.io/anime/44864",
+    "https://myanimelist.net/anime/48920"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3cb4d49636b424d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.899757575757576,
+    "arithmeticGeometricMean": 5.896378300995513,
+    "median": 5.7272727272727275,
+    "hash": "d3cb4d49636b424d",
+    "lastUpdate": "2024-05-07"
+  }
+}

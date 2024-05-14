@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12778",
+    "https://anilist.co/anime/98862",
+    "https://anime-planet.com/anime/yaoguai-mingdan",
+    "https://anisearch.com/anime/11454",
+    "https://kitsu.io/anime/10340",
+    "https://livechart.me/anime/1356",
+    "https://myanimelist.net/anime/29089",
+    "https://notify.moe/anime/1x48pFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9bdab2dfdcba63a3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.489493241452424,
+    "arithmeticGeometricMean": 6.484552099520594,
+    "median": 6.532,
+    "hash": "9bdab2dfdcba63a3",
+    "lastUpdate": "2024-05-10"
+  }
+}

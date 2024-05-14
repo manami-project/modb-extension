@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16646",
+    "https://anilist.co/anime/130190",
+    "https://anime-planet.com/anime/white-snake-2-green-snake",
+    "https://anime-planet.com/anime/white-snake-ii-green-snake",
+    "https://anisearch.com/anime/16812",
+    "https://kitsu.io/anime/44173",
+    "https://livechart.me/anime/11090",
+    "https://myanimelist.net/anime/49409"
+  ],
+  "synopsis": {
+    "text": "This anime follows the journey of Xiao Qing, a green snake-demon, who finds herself trapped in the modern and dystopian city of Asuraville after a failed attempt to rescue her husband and sister from the powerful monk Fahai. Stripped of her demonic powers, Xiao Qing must navigate through a world filled with creatures from various eras, including a clan of ox warriors causing chaos and terror. Along the way, she encounters a mysterious man suffering from amnesia and a cunning fox demon who offers her a chance to escape the city in exchange for all her memories. With few alternatives and danger lurking around every corner, Xiao Qing must find a way to save her sister, Blanca, and escape the clutches of Fahai while surviving in this unfamiliar world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c0b99569c53f4e3c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.601035250463823,
+    "arithmeticGeometricMean": 7.596666125261874,
+    "median": 7.7272727272727275,
+    "hash": "c0b99569c53f4e3c",
+    "lastUpdate": "2024-05-08"
+  }
+}

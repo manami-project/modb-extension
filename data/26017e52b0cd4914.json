@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6594",
+    "https://anilist.co/anime/2669",
+    "https://anime-planet.com/anime/doraemon-movie-6-nobitas-little-star-wars",
+    "https://anisearch.com/anime/5119",
+    "https://kitsu.io/anime/2432",
+    "https://livechart.me/anime/7693",
+    "https://myanimelist.net/anime/2669",
+    "https://notify.moe/anime/tzBy5Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "26017e52b0cd4914",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.9153463203463215,
+    "arithmeticGeometricMean": 6.901703716226605,
+    "median": 7.135,
+    "hash": "26017e52b0cd4914",
+    "lastUpdate": "2024-05-09"
+  }
+}

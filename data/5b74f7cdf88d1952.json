@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16472",
+    "https://anilist.co/anime/131599",
+    "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-adventures-in-the-primitive-world",
+    "https://myanimelist.net/anime/43993"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b74f7cdf88d1952",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.909090909090909,
+    "arithmeticGeometricMean": 4.909090909090909,
+    "median": 4.909090909090909,
+    "hash": "5b74f7cdf88d1952",
+    "lastUpdate": "2024-05-08"
+  }
+}

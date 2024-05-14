@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13571",
+    "https://anime-planet.com/anime/girls-und-panzer-dai-63-kaisen-shadou-zenkoku-koukousei-taikai",
+    "https://anisearch.com/anime/12992",
+    "https://kitsu.io/anime/41669",
+    "https://livechart.me/anime/6109",
+    "https://myanimelist.net/anime/36783"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9d29ef87a83324a5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.291804081632653,
+    "arithmeticGeometricMean": 7.280699056663159,
+    "median": 7.13,
+    "hash": "9d29ef87a83324a5",
+    "lastUpdate": "2024-05-09"
+  }
+}

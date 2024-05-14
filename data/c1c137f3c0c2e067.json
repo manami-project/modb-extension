@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9539",
+    "https://anime-planet.com/anime/monchicchiisu",
+    "https://anisearch.com/anime/8213",
+    "https://kitsu.io/anime/11507",
+    "https://myanimelist.net/anime/31924",
+    "https://notify.moe/anime/rLcCpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c1c137f3c0c2e067",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "c1c137f3c0c2e067",
+    "lastUpdate": "2024-05-07"
+  }
+}

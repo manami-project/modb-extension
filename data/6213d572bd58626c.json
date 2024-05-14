@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3497",
+    "https://anilist.co/anime/3194",
+    "https://anime-planet.com/anime/adventures-of-the-little-mermaid",
+    "https://anisearch.com/anime/1443",
+    "https://kitsu.io/anime/2850",
+    "https://myanimelist.net/anime/3194",
+    "https://notify.moe/anime/nEGwcFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6213d572bd58626c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.645142857142858,
+    "arithmeticGeometricMean": 5.59591755653035,
+    "median": 5.818181818181818,
+    "hash": "6213d572bd58626c",
+    "lastUpdate": "2024-05-08"
+  }
+}

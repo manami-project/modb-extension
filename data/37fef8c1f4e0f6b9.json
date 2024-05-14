@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3543",
+    "https://anilist.co/anime/2708",
+    "https://anime-planet.com/anime/wankorobee",
+    "https://anisearch.com/anime/1905",
+    "https://kitsu.io/anime/2470",
+    "https://myanimelist.net/anime/2708",
+    "https://notify.moe/anime/emws5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "37fef8c1f4e0f6b9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.790352504638219,
+    "arithmeticGeometricMean": 3.6058860537436423,
+    "median": 4.636363636363637,
+    "hash": "37fef8c1f4e0f6b9",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3621",
+    "https://anilist.co/anime/2110",
+    "https://anime-planet.com/anime/rockman-exe-beast",
+    "https://anisearch.com/anime/2544",
+    "https://kitsu.io/anime/1909",
+    "https://livechart.me/anime/11204",
+    "https://myanimelist.net/anime/2110",
+    "https://notify.moe/anime/BwULcKmmR"
+  ],
+  "synopsis": {
+    "text": "Trill, a childlike Net Navi with a mysterious power, finds himself in Japan after a rift in time and space, drawing the attention of the monstrous Zoanoroids who seek to capture him. Hailing from the primitive land of Beyondard, Trill is the key to ending a war between two colossal cyber beasts, Gregar and Falzar, with the Zoanoroids serving as their loyal followers.\n\nNetto Hikari and his Net Navi, Rockman, stumble upon Trill and form a bond with him. Intrigued by his mysterious origins and unknown abilities, they vow to protect Trill from the relentless Zoanoroids. As they delve deeper into the enigma surrounding Trill, Netto and Rockman face the possibility of being stranded in Beyondard, but their resolve to safeguard their new friend remains unwavering.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c279707400b5c2d0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.674061489530877,
+    "arithmeticGeometricMean": 6.664345944539384,
+    "median": 6.856,
+    "hash": "c279707400b5c2d0",
+    "lastUpdate": "2024-05-09"
+  }
+}

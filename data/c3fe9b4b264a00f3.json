@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7018",
+    "https://anilist.co/anime/6518",
+    "https://anime-planet.com/anime/tamagotchi-movie-1",
+    "https://anisearch.com/anime/4708",
+    "https://kitsu.io/anime/4591",
+    "https://livechart.me/anime/8598",
+    "https://myanimelist.net/anime/6518",
+    "https://notify.moe/anime/F1NecFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c3fe9b4b264a00f3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.795431045145331,
+    "arithmeticGeometricMean": 5.766880196210308,
+    "median": 5.775,
+    "hash": "c3fe9b4b264a00f3",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4898",
+    "https://anilist.co/anime/9832",
+    "https://anime-planet.com/anime/katte-ni-shirokuma",
+    "https://anisearch.com/anime/4015",
+    "https://kitsu.io/anime/5894",
+    "https://livechart.me/anime/6954",
+    "https://myanimelist.net/anime/9832",
+    "https://notify.moe/anime/S3sGpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7db15b8c989a45c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.222094001236858,
+    "arithmeticGeometricMean": 5.2052039390126215,
+    "median": 5.136363636363637,
+    "hash": "d7db15b8c989a45c",
+    "lastUpdate": "2024-05-09"
+  }
+}

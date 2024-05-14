@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1883",
+    "https://anilist.co/anime/19681",
+    "https://anime-planet.com/anime/hustle-punch",
+    "https://anisearch.com/anime/655",
+    "https://kitsu.io/anime/9330",
+    "https://myanimelist.net/anime/19681",
+    "https://notify.moe/anime/xJWBpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "66b2a55ec67fa75d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.777623995052566,
+    "arithmeticGeometricMean": 4.66248007287764,
+    "median": 4.954545454545455,
+    "hash": "66b2a55ec67fa75d",
+    "lastUpdate": "2024-05-08"
+  }
+}

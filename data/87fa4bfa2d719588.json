@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8450",
+    "https://anilist.co/anime/5241",
+    "https://anime-planet.com/anime/mofu-mofu",
+    "https://anisearch.com/anime/7180",
+    "https://kitsu.io/anime/4008",
+    "https://myanimelist.net/anime/5241",
+    "https://notify.moe/anime/GBWj5Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "87fa4bfa2d719588",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.531509585652443,
+    "arithmeticGeometricMean": 4.389303944393266,
+    "median": 5.035,
+    "hash": "87fa4bfa2d719588",
+    "lastUpdate": "2024-05-08"
+  }
+}

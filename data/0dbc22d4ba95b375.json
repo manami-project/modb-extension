@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/98536",
+    "https://anime-planet.com/anime/amanchu-the-story-of-the-promised-summer-and-new-memories",
+    "https://anisearch.com/anime/12098",
+    "https://kitsu.io/anime/12471",
+    "https://livechart.me/anime/2278",
+    "https://myanimelist.net/anime/33818",
+    "https://notify.moe/anime/pEaz2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0dbc22d4ba95b375",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.468652663662867,
+    "arithmeticGeometricMean": 7.4677185882889985,
+    "median": 7.446,
+    "hash": "0dbc22d4ba95b375",
+    "lastUpdate": "2024-05-05"
+  }
+}

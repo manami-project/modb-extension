@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1872",
+    "https://anilist.co/anime/3497",
+    "https://anime-planet.com/anime/steady-x-study",
+    "https://anisearch.com/anime/2813",
+    "https://kitsu.io/anime/3051",
+    "https://myanimelist.net/anime/3497",
+    "https://notify.moe/anime/oUuQ5KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d04779e326294c01",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.766184291898577,
+    "arithmeticGeometricMean": 4.711609150933796,
+    "median": 4.836734693877551,
+    "hash": "d04779e326294c01",
+    "lastUpdate": "2024-05-07"
+  }
+}

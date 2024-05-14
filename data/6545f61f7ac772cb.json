@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7843",
+    "https://anime-planet.com/anime/hello-kitty-no-nemureru-mori-no-bijo",
+    "https://anisearch.com/anime/7062",
+    "https://kitsu.io/anime/9000",
+    "https://myanimelist.net/anime/17955",
+    "https://notify.moe/anime/mRuxtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6545f61f7ac772cb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.4567836734693875,
+    "arithmeticGeometricMean": 5.444201866347309,
+    "median": 5.0,
+    "hash": "6545f61f7ac772cb",
+    "lastUpdate": "2024-05-08"
+  }
+}

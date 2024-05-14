@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4119",
+    "https://anilist.co/anime/20143",
+    "https://anime-planet.com/anime/kazu-and-yasu-hero-tanjou",
+    "https://anisearch.com/anime/3244",
+    "https://kitsu.io/anime/9872",
+    "https://myanimelist.net/anime/20143",
+    "https://notify.moe/anime/Vv7EtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8da656366aecf899",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.867859925788498,
+    "arithmeticGeometricMean": 5.836651553272081,
+    "median": 5.708719851576994,
+    "hash": "8da656366aecf899",
+    "lastUpdate": "2024-05-07"
+  }
+}

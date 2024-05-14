@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11580",
+    "https://anilist.co/anime/21349",
+    "https://anime-planet.com/anime/all-out",
+    "https://anisearch.com/anime/10741",
+    "https://kitsu.io/anime/11373",
+    "https://livechart.me/anime/1816",
+    "https://myanimelist.net/anime/31588",
+    "https://notify.moe/anime/yafrtFiiR"
+  ],
+  "synopsis": {
+    "text": "First-year student Kenji Gion, despite his diminutive stature and feisty demeanor, is eager to prove himself in the world of high school rugby. At Kanagawa High School, he encounters the reserved and towering Sumiaki Iwashimizu, who is reluctant to join the rugby team due to past experiences. The duo, along with the supportive vice-captain Hachioji and their enigmatic captain Sekizan, must learn to work together and overcome their differences in order to achieve their ultimate goal: becoming the champions of the national high school rugby tournament, Hanazono. As they grow and evolve both on and off the field, these diverse teammates will discover that in rugby, anyone can be a star when they hold the ball.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e2112658a4996dc5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.930918319365364,
+    "arithmeticGeometricMean": 6.92472172010161,
+    "median": 7.007758620689655,
+    "hash": "e2112658a4996dc5",
+    "lastUpdate": "2024-05-08"
+  }
+}

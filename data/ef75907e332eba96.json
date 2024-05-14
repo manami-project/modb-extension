@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9052",
+    "https://anilist.co/anime/18821",
+    "https://anime-planet.com/anime/rainbow-mountain",
+    "https://anisearch.com/anime/7835",
+    "https://kitsu.io/anime/9194",
+    "https://myanimelist.net/anime/18821",
+    "https://notify.moe/anime/0ex-pKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef75907e332eba96",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1109925788497215,
+    "arithmeticGeometricMean": 5.098397837110669,
+    "median": 5.139795918367347,
+    "hash": "ef75907e332eba96",
+    "lastUpdate": "2024-05-08"
+  }
+}

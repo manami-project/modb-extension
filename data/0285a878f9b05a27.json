@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12295",
+    "https://anime-planet.com/anime/after-school",
+    "https://anisearch.com/anime/12117",
+    "https://kitsu.io/anime/12753",
+    "https://livechart.me/anime/8819",
+    "https://notify.moe/anime/n1XmhFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0285a878f9b05a27",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "0285a878f9b05a27",
+    "lastUpdate": "2024-05-08"
+  }
+}

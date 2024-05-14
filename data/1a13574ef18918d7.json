@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6084",
+    "https://anilist.co/anime/5089",
+    "https://anime-planet.com/anime/noramimi-2",
+    "https://anisearch.com/anime/4962",
+    "https://kitsu.io/anime/3924",
+    "https://livechart.me/anime/10076",
+    "https://myanimelist.net/anime/5089",
+    "https://notify.moe/anime/gJ_95KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1a13574ef18918d7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.053194063079777,
+    "arithmeticGeometricMean": 4.941872558951929,
+    "median": 5.0,
+    "hash": "1a13574ef18918d7",
+    "lastUpdate": "2024-05-09"
+  }
+}

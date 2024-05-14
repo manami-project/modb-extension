@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140219",
+    "https://anime-planet.com/anime/harumaki-gohan-aster",
+    "https://kitsu.io/anime/46069",
+    "https://myanimelist.net/anime/50116"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "14c9f5467b29a69f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.275333333333333,
+    "arithmeticGeometricMean": 6.272752363023518,
+    "median": 6.21,
+    "hash": "14c9f5467b29a69f",
+    "lastUpdate": "2024-05-05"
+  }
+}

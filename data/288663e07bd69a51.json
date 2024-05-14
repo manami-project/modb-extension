@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/101819",
+    "https://anime-planet.com/anime/acchi-wa-kocchi",
+    "https://anisearch.com/anime/6801",
+    "https://kitsu.io/anime/9177",
+    "https://livechart.me/anime/8142",
+    "https://myanimelist.net/anime/22419",
+    "https://notify.moe/anime/faAapFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "288663e07bd69a51",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.622349618635333,
+    "arithmeticGeometricMean": 6.610036349146183,
+    "median": 6.651836734693878,
+    "hash": "288663e07bd69a51",
+    "lastUpdate": "2024-05-05"
+  }
+}

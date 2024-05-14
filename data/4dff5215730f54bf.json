@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13392",
+    "https://anilist.co/anime/107070",
+    "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf",
+    "https://anisearch.com/anime/11144",
+    "https://kitsu.io/anime/11271",
+    "https://myanimelist.net/anime/31150",
+    "https://notify.moe/anime/xlM9pKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4dff5215730f54bf",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.335303153988868,
+    "arithmeticGeometricMean": 5.169712210203722,
+    "median": 4.0,
+    "hash": "4dff5215730f54bf",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13019",
+    "https://anilist.co/anime/98504",
+    "https://anime-planet.com/anime/mobile-suit-gundam-twilight-axis",
+    "https://anisearch.com/anime/12405",
+    "https://kitsu.io/anime/13267",
+    "https://livechart.me/anime/2609",
+    "https://myanimelist.net/anime/35224",
+    "https://notify.moe/anime/ZbknhFimg"
+  ],
+  "synopsis": {
+    "text": "Danton Haireg, a former test pilot, and Arlette Armaju, an ex-weapons developer for the Principality of Zeon, join a special task force known as 'Mastema' in the late Universal Century 0096. Led by First Lieutenant Mehmet Merka, the team is tasked with investigating the shattered asteroid Axis, which poses a threat to the Earth Federation government due to the presence of a 'Psycho Frame.' As they delve deeper into the seemingly abandoned base, they are ambushed by a private army, 'Birnam,' equipped with a Newtype Gundam. Using their expertise and the red 'Zaku III Custom' mobile suit, Danton and Arlette fight back. Meanwhile, Arlette, harboring hidden feelings, is drawn to the remnants of the Sazabi left on Axis's surface, hinting at a personal and mysterious agenda.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24636b9c7a203130",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.941760402862443,
+    "arithmeticGeometricMean": 4.9347399113865515,
+    "median": 4.97,
+    "hash": "24636b9c7a203130",
+    "lastUpdate": "2024-05-09"
+  }
+}

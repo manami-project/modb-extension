@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15902",
+    "https://anilist.co/anime/126819",
+    "https://anime-planet.com/anime/gintama-the-semi-final",
+    "https://anisearch.com/anime/15390",
+    "https://kitsu.io/anime/43829",
+    "https://livechart.me/anime/10036",
+    "https://myanimelist.net/anime/44087",
+    "https://notify.moe/anime/4tdpvu0Mg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2829ec681e61ef47",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.330291743970315,
+    "arithmeticGeometricMean": 8.3275418954054,
+    "median": 8.357363636363637,
+    "hash": "2829ec681e61ef47",
+    "lastUpdate": "2024-05-09"
+  }
+}

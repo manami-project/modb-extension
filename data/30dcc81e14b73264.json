@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/209",
+    "https://anilist.co/anime/326",
+    "https://anime-planet.com/anime/pet-shop-of-horrors",
+    "https://anisearch.com/anime/2238",
+    "https://kitsu.io/anime/293",
+    "https://livechart.me/anime/4455",
+    "https://myanimelist.net/anime/326",
+    "https://notify.moe/anime/dKbhcKimR"
+  ],
+  "synopsis": {
+    "text": "Orcot, a seasoned detective, finds himself entangled in a web of peculiar deaths, all leading back to the same source: a mysterious pet shop nestled in the heart of Chinatown. Run by the enigmatic Count D, this isn't your typical pet store. Here, you can find the rarest and most exotic creatures, but each purchase comes with a binding contract. Break the rules, and you'll find yourself facing consequences far darker than you could ever imagine. As Orcot delves deeper into the mystery, he realizes that the patrons of Count D's shop often find themselves confronted by their own haunting pasts. Will Orcot unravel the truth behind these uncanny occurrences, or will he become the next victim of Count D's sinister pet shop?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "30dcc81e14b73264",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.100500927643784,
+    "arithmeticGeometricMean": 7.096564931357452,
+    "median": 7.13,
+    "hash": "30dcc81e14b73264",
+    "lastUpdate": "2024-05-09"
+  }
+}

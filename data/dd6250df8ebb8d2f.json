@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7642",
+    "https://anilist.co/anime/9163",
+    "https://anime-planet.com/anime/attack-no-1-1970",
+    "https://anisearch.com/anime/6316",
+    "https://kitsu.io/anime/5617",
+    "https://myanimelist.net/anime/9163",
+    "https://notify.moe/anime/1cfWpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd6250df8ebb8d2f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.276275200989487,
+    "arithmeticGeometricMean": 6.264518789534553,
+    "median": 6.431734693877551,
+    "hash": "dd6250df8ebb8d2f",
+    "lastUpdate": "2024-05-08"
+  }
+}

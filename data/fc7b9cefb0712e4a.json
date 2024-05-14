@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17241",
+    "https://anilist.co/anime/122585",
+    "https://anime-planet.com/anime/wu-shan-wu-xing-xichuan-huan-zi-lin",
+    "https://anisearch.com/anime/17148",
+    "https://kitsu.io/anime/45557",
+    "https://livechart.me/anime/11590",
+    "https://myanimelist.net/anime/50407",
+    "https://notify.moe/anime/6hb3FvRIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc7b9cefb0712e4a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.836291280148424,
+    "arithmeticGeometricMean": 7.822550961087993,
+    "median": 7.986090909090908,
+    "hash": "fc7b9cefb0712e4a",
+    "lastUpdate": "2024-05-10"
+  }
+}

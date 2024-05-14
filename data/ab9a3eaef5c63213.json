@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/rilakkuma-korilakkuma-no-yancha-na-mainichi"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ab9a3eaef5c63213",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.292,
+    "arithmeticGeometricMean": 6.292,
+    "median": 6.292,
+    "hash": "ab9a3eaef5c63213",
+    "lastUpdate": "2024-05-08"
+  }
+}

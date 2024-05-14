@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3493",
+    "https://anilist.co/anime/10917",
+    "https://anime-planet.com/anime/pokemon-pikachus-winter-vacation-2001",
+    "https://anisearch.com/anime/1864",
+    "https://kitsu.io/anime/6405",
+    "https://livechart.me/anime/5627",
+    "https://myanimelist.net/anime/10917",
+    "https://notify.moe/anime/dHgStFmiR"
+  ],
+  "synopsis": {
+    "text": "Wooper, Pikachu, and their Pokémon pals are reveling in the joy of a snowy winter wonderland, engaging in delightful games and festive cheer. However, their merriment takes an unexpected turn when Totodile's snowball accidentally strikes a passing Delibird, scattering its precious cargo of Christmas presents across the landscape. As the clock ticks towards midnight, the determined Pokémon crew embarks on a mission to recover the lost gifts and save Christmas for everyone.\n\nIn another heartwarming adventure, the friends build a snowman, but Totodile decides to create a unique 'Snow'lax instead. To their surprise, the snow creation comes to life and requests Pikachu and friends' assistance to reunite with its fellow Snorlax.\n\nAmidst the fun and games, a mishap occurs when the Pichu Brothers' playful scuffle sends one of them soaring high above the town on a skateboard, with Wooper in hot pursuit. Now, the remaining Pokémon must join forces to find the missing Pichu Brother and bring the siblings back together. This enchanting series of winter tales promises laughter, camaraderie, and holiday spirit for all.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0509c394baba106c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.460897495361781,
+    "arithmeticGeometricMean": 6.449231607062432,
+    "median": 6.422272727272727,
+    "hash": "0509c394baba106c",
+    "lastUpdate": "2024-05-09"
+  }
+}

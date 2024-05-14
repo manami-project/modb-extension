@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12573",
+    "https://anilist.co/anime/98105",
+    "https://anime-planet.com/anime/gijinka-de-manabo",
+    "https://anisearch.com/anime/12146",
+    "https://kitsu.io/anime/12889",
+    "https://myanimelist.net/anime/34464",
+    "https://notify.moe/anime/GzcZhFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "08b3700084dd7bdf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.363727272727273,
+    "arithmeticGeometricMean": 5.310700634903274,
+    "median": 5.31,
+    "hash": "08b3700084dd7bdf",
+    "lastUpdate": "2024-05-07"
+  }
+}

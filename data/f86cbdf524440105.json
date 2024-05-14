@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12923",
+    "https://anilist.co/anime/8446",
+    "https://anime-planet.com/anime/sai-zenpen-mawaru-meguru-sono-kaku-e",
+    "https://anisearch.com/anime/6739",
+    "https://kitsu.io/anime/5338",
+    "https://myanimelist.net/anime/8446",
+    "https://notify.moe/anime/41pipFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f86cbdf524440105",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.9552054068380595,
+    "arithmeticGeometricMean": 5.930644872832388,
+    "median": 6.0,
+    "hash": "f86cbdf524440105",
+    "lastUpdate": "2024-05-08"
+  }
+}

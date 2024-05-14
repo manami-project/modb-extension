@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14281",
+    "https://anilist.co/anime/120610",
+    "https://anime-planet.com/anime/omusubi-kororin",
+    "https://anisearch.com/anime/13824",
+    "https://kitsu.io/anime/12390",
+    "https://myanimelist.net/anime/33343",
+    "https://notify.moe/anime/8zvk2Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d69a468cc4a4be38",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.040346567717996,
+    "arithmeticGeometricMean": 4.994722869223466,
+    "median": 4.23,
+    "hash": "d69a468cc4a4be38",
+    "lastUpdate": "2024-05-07"
+  }
+}

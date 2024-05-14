@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1109",
+    "https://anilist.co/anime/2778",
+    "https://anime-planet.com/anime/generation-of-chaos-iii",
+    "https://anisearch.com/anime/2342",
+    "https://kitsu.io/anime/2534",
+    "https://myanimelist.net/anime/2778",
+    "https://notify.moe/anime/W-zU5KmiR"
+  ],
+  "synopsis": {
+    "text": "Alfred's bloodline holds the key to unlocking an ancient seal of power, making him a prime target for the formidable Zenon empire. Set in the Fuujin Year 130, amidst a war-torn Old Fuujin Continent, the small kingdom of Randia (or Radia) struggles to maintain its sovereignty. When news of the sealed power spreads, Zenon intensifies its attacks, forcing Alfred and his loyal friend, Welles, to defend their homeland.\n\nKnown as the 'Galloping Winds' on the battlefield, Alfred and Welles are joined by Welles' younger sister, Teefa, and a former loyal subject, Rea. Together, they embark on a perilous journey to unravel the mystery of the seal and protect their kingdom from Zenon's tyranny. With the weight of their country's future resting on their shoulders, the group races against time to unlock the true potential of the prince's blood relation and bring peace to their war-ravaged land.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e798960b7230602b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.971320788055482,
+    "arithmeticGeometricMean": 3.9194214293990743,
+    "median": 3.61,
+    "hash": "e798960b7230602b",
+    "lastUpdate": "2024-05-08"
+  }
+}

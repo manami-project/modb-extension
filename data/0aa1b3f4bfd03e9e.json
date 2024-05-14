@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/109102",
+    "https://anime-planet.com/anime/big-fish-and-begonia-2004",
+    "https://kitsu.io/anime/44764",
+    "https://myanimelist.net/anime/39264"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0aa1b3f4bfd03e9e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.823515151515152,
+    "arithmeticGeometricMean": 5.82036433849952,
+    "median": 5.93,
+    "hash": "0aa1b3f4bfd03e9e",
+    "lastUpdate": "2024-05-07"
+  }
+}

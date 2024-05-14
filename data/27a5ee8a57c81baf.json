@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4040",
+    "https://anilist.co/anime/3418",
+    "https://anime-planet.com/anime/jungle-king-tar-chan",
+    "https://anisearch.com/anime/3259",
+    "https://kitsu.io/anime/2994",
+    "https://livechart.me/anime/11787",
+    "https://myanimelist.net/anime/3418",
+    "https://notify.moe/anime/SyBQ5Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "27a5ee8a57c81baf",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.3534124922696344,
+    "arithmeticGeometricMean": 6.333505545941362,
+    "median": 6.5227272727272725,
+    "hash": "27a5ee8a57c81baf",
+    "lastUpdate": "2024-05-09"
+  }
+}

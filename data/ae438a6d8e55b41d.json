@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5904",
+    "https://anilist.co/anime/4362",
+    "https://anime-planet.com/anime/fireball",
+    "https://anisearch.com/anime/4743",
+    "https://kitsu.io/anime/3571",
+    "https://livechart.me/anime/7831",
+    "https://myanimelist.net/anime/4362",
+    "https://notify.moe/anime/P0fu5FmiR"
+  ],
+  "synopsis": {
+    "text": "Von Flügel, a high-ranking robot royalty, and her faithful cyclops-arachnid servant, Gedächtnis, reside in the grand Tempest Tower, far into the 49th millennium. Amidst a raging war between humans and machines, the eccentric duo remains unbothered, engaging in light-hearted conversations and nonsensical activities. Joined by Schadenfreude, a monkey-robot, the trio explores the complexities of human life, from letter writing to verbal communication, in a delightfully clueless manner, providing a humorous and engaging escape from the ongoing conflict.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ae438a6d8e55b41d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.321127219719057,
+    "arithmeticGeometricMean": 6.309387263154088,
+    "median": 6.545454545454545,
+    "hash": "ae438a6d8e55b41d",
+    "lastUpdate": "2024-05-09"
+  }
+}

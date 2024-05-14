@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12622",
+    "https://anilist.co/anime/99939",
+    "https://anime-planet.com/anime/nekopara",
+    "https://anisearch.com/anime/12605",
+    "https://kitsu.io/anime/13121",
+    "https://livechart.me/anime/2497",
+    "https://myanimelist.net/anime/34658",
+    "https://notify.moe/anime/p6dM2KimR"
+  ],
+  "synopsis": {
+    "text": "When Kashou Minazuki, a member of a distinguished family of Japanese confectionery makers, leaves home to open his own patisserie, La Soleil, he doesn't expect to find two of his beloved catgirls, Chocola and Vanilla, hidden in his luggage. Despite his initial surprise and reluctance, Kashou decides to let the two feline-eared girls stay, and together they embark on a heartwarming and comedic journey to make La Soleil a success. With the help of his supportive sister Shigure and the well-intentioned (but sometimes clumsy) efforts of Chocola and Vanilla, Kashou discovers that having a few extra paws around might just be the secret ingredient he needs to achieve his dream.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7ab07a10e1f56a7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.91889935064935,
+    "arithmeticGeometricMean": 6.914861531309648,
+    "median": 6.943,
+    "hash": "d7ab07a10e1f56a7",
+    "lastUpdate": "2024-05-09"
+  }
+}

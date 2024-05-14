@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6693",
+    "https://anilist.co/anime/5874",
+    "https://anime-planet.com/anime/sanko-to-tako-hyakuman-ryo-chinsodo",
+    "https://anisearch.com/anime/5671",
+    "https://kitsu.io/anime/4315",
+    "https://myanimelist.net/anime/5874",
+    "https://notify.moe/anime/KlmqcFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ced6fa4195cf5197",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.15051736019083,
+    "arithmeticGeometricMean": 5.134240685968397,
+    "median": 5.0,
+    "hash": "ced6fa4195cf5197",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6352",
+    "https://anilist.co/anime/5193",
+    "https://anime-planet.com/anime/shinjuku-shin-chan-patrol-warui-otona-ni-ki-wo-tsukete",
+    "https://anisearch.com/anime/5301",
+    "https://kitsu.io/anime/3974",
+    "https://myanimelist.net/anime/5193",
+    "https://notify.moe/anime/W6er5Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c3aa734c6e27331c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.098587507730365,
+    "arithmeticGeometricMean": 5.050756059493035,
+    "median": 5.214489795918367,
+    "hash": "c3aa734c6e27331c",
+    "lastUpdate": "2024-05-07"
+  }
+}

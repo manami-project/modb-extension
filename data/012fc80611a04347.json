@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2125",
+    "https://anilist.co/anime/3104",
+    "https://anime-planet.com/anime/geisters",
+    "https://anisearch.com/anime/3480",
+    "https://kitsu.io/anime/2797",
+    "https://myanimelist.net/anime/3104",
+    "https://notify.moe/anime/Mbq85KimR"
+  ],
+  "synopsis": {
+    "text": "Dean Honos, Alcion Fama, Cris Vesta, Victor Deicius, and Shai Tanna are the Geisters, an elite squad of warriors with extraordinary abilities and advanced weaponry, tasked with defending humanity from the monstrous Siliconians that now roam the Earth. Four centuries ago, a catastrophic asteroid impact left the planet uninhabitable, forcing the survivors to either flee into space or seek refuge underground. The Dobias, a faction of scientists and nobles, chose the former, while the Shioru, comprised of farmers and nomads, opted for the latter.\n\nUpon their return to the surface, both groups discovered that Earth had transformed into a hostile environment, overrun by Siliconians, DNA-consuming creatures that emerged from the ashes of destruction. As the Dobias and Shioru engage in a bitter struggle for control over the scarce remaining resources, the Geisters must not only contend with the Siliconian threat but also maintain unity among themselves and prevent political tensions from boiling over.\n\nIn this post-apocalyptic world, the Geisters represent humanity's last beacon of hope. Can they overcome the challenges that lie ahead and secure a future for their people, or will they succumb to the relentless onslaught of their newfound foes and the escalating conflict between the Dobias and Shioru?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "012fc80611a04347",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.420639455782314,
+    "arithmeticGeometricMean": 5.382445737563235,
+    "median": 5.59,
+    "hash": "012fc80611a04347",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7937",
+    "https://anilist.co/anime/7024",
+    "https://anime-planet.com/anime/the-room",
+    "https://anisearch.com/anime/6488",
+    "https://kitsu.io/anime/4837",
+    "https://livechart.me/anime/7261",
+    "https://myanimelist.net/anime/7024",
+    "https://notify.moe/anime/QaFgtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d2450c069f6b3ba",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.510469387755102,
+    "arithmeticGeometricMean": 3.4518223152476497,
+    "median": 3.7272727272727275,
+    "hash": "4d2450c069f6b3ba",
+    "lastUpdate": "2024-05-09"
+  }
+}

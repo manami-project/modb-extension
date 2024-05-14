@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3667",
+    "https://anilist.co/anime/3807",
+    "https://anime-planet.com/anime/honoo-no-alpenrose-jeudi-and-lundi",
+    "https://anisearch.com/anime/1228",
+    "https://kitsu.io/anime/3263",
+    "https://livechart.me/anime/7786",
+    "https://myanimelist.net/anime/3807",
+    "https://notify.moe/anime/jRb_cFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "15b0e030555aebaf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.924119268486614,
+    "arithmeticGeometricMean": 6.91985315915641,
+    "median": 6.932653061224489,
+    "hash": "15b0e030555aebaf",
+    "lastUpdate": "2024-05-09"
+  }
+}

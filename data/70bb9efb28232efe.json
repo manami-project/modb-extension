@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148608",
+    "https://anime-planet.com/anime/kuma-no-nuigurumi",
+    "https://anisearch.com/anime/13447",
+    "https://kitsu.io/anime/40902",
+    "https://myanimelist.net/anime/36350",
+    "https://notify.moe/anime/yNJd2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "70bb9efb28232efe",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.290919294990723,
+    "arithmeticGeometricMean": 5.262381046085708,
+    "median": 5.191020408163265,
+    "hash": "70bb9efb28232efe",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18201",
+    "https://anilist.co/anime/169417",
+    "https://anime-planet.com/anime/re-monster",
+    "https://anisearch.com/anime/18700",
+    "https://kitsu.io/anime/47964",
+    "https://livechart.me/anime/12334",
+    "https://myanimelist.net/anime/56690",
+    "https://notify.moe/anime/OD2G1umIR"
+  ],
+  "synopsis": {
+    "text": "Tomokui Kanata, once a powerful individual in his human life, meets an untimely end due to a misunderstanding with a stalker. Instead of a peaceful afterlife, he finds himself reborn in a world filled with magic and danger as a lowly goblin, now known as Rou. Despite his new form, Rou retains his human intellect and memories, which sets him apart from his fellow goblins. In this world, power is gained through consumption, and Rou quickly discovers his unique ability to absorb the strength and abilities of the creatures he devours. With his cunning mind, former life experiences, and insatiable appetite, Rou embarks on a journey to conquer his new world and reclaim his position at the top of the food chain. Follow Rou's thrilling adventures as he evolves, gathers loyal companions, and faces the challenges of this fantastical realm where only the strongest survive.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af73bdac758fe8ad",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.0456125099390405,
+    "arithmeticGeometricMean": 7.027056828411122,
+    "median": 7.373469387755102,
+    "hash": "af73bdac758fe8ad",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/185",
+    "https://anilist.co/anime/949",
+    "https://anime-planet.com/anime/gunbuster",
+    "https://anisearch.com/anime/3201",
+    "https://kitsu.io/anime/841",
+    "https://livechart.me/anime/3961",
+    "https://myanimelist.net/anime/949",
+    "https://notify.moe/anime/HcS15FmmR"
+  ],
+  "synopsis": {
+    "text": "Among the stars, humanity's exploration beyond the solar system has been met with the emergence of formidable, insect-like aliens that threaten to extinguish the human race. To counter this looming menace, Earth has engineered colossal fighting robots, with the mighty Gunbuster standing as the pinnacle of human ingenuity.\n\nEnter Noriko Takaya, an ordinary girl nursing a dream to become a space pilot like her late father, a revered admiral who fell in battle against the alien forces. Despite her questionable talent, Noriko enrolls in a prestigious space pilot training school, where she is unexpectedly chosen as a candidate for the Gunbuster's elite pilot roster.\n\nAlongside Kazumi Amano, the school's top performer, Noriko embarks on a grueling journey to prove herself worthy of the Gunbuster's cockpit. Driven by a desire to honor her father's legacy and an admiration for Kazumi, Noriko must confront her own insecurities and the scars of war as she strives to become the hero humanity needs to turn the tide against the relentless alien invasion.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "650915d60278698d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.663686069077251,
+    "arithmeticGeometricMean": 7.661638749674761,
+    "median": 7.645,
+    "hash": "650915d60278698d",
+    "lastUpdate": "2024-05-10"
+  }
+}

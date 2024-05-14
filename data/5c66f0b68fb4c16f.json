@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14610",
+    "https://anime-planet.com/anime/cheorin-sacheonwang",
+    "https://kitsu.io/anime/10955",
+    "https://myanimelist.net/anime/30228",
+    "https://notify.moe/anime/hg__pKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c66f0b68fb4c16f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "5c66f0b68fb4c16f",
+    "lastUpdate": "2024-05-07"
+  }
+}

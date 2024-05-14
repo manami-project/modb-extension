@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2392",
+    "https://anilist.co/anime/69",
+    "https://anime-planet.com/anime/cluster-edge",
+    "https://anisearch.com/anime/3034",
+    "https://kitsu.io/anime/50",
+    "https://livechart.me/anime/6279",
+    "https://myanimelist.net/anime/69",
+    "https://notify.moe/anime/ykKpcKmmR"
+  ],
+  "synopsis": {
+    "text": "It is at the prestigious Cluster Edge Academy, a school attended by the progeny of the elite, where our story unfolds. The academy is a breeding ground for future leaders in a world teetering on the brink of chaos, with religious factions and artificial soldiers vying for dominance. Enter Agate Fluorite, an enigmatic transfer student whose infectious enthusiasm and unconventional demeanor breathe new life into the otherwise monotonous lives of his classmates.\n\nUnbeknownst to many, Agate harbors a secret: he possesses an extraordinary power that defies explanation, allowing him to perform what can only be described as miracles. His arrival sets off a chain of events that threatens to upend the delicate balance of power in this precarious world.\n\nMeanwhile, a group of artificial soldiers, led by Chrome, the younger brother of a former Cluster Edge Academy student, stage a rebellion against the military upon learning of his brother's demise. Their quest for understanding their own humanity intersects with Agate's journey, further complicating matters as they find themselves entangled in the military's pursuit of Agate's miraculous abilities.\n\nAs Agate and his newfound friends navigate the tumultuous waters of political intrigue, religious strife, and military conflict, they may inadvertently reshape the very fabric of their world. The clock is ticking, and it's only a matter of time before the truth behind Agate's power comes to light, potentially altering the course of history forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "11a2eb6a6bf3ccb7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.893034720381659,
+    "arithmeticGeometricMean": 5.880544116951287,
+    "median": 5.92,
+    "hash": "11a2eb6a6bf3ccb7",
+    "lastUpdate": "2024-05-09"
+  }
+}

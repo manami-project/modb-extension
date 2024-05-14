@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/131964",
+    "https://anime-planet.com/anime/rakka-sei",
+    "https://anisearch.com/anime/16423",
+    "https://kitsu.io/anime/45983",
+    "https://myanimelist.net/anime/51438"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6c6fd8412c5fb52f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.290980519480518,
+    "arithmeticGeometricMean": 6.288172694047484,
+    "median": 6.226818181818182,
+    "hash": "6c6fd8412c5fb52f",
+    "lastUpdate": "2024-05-07"
+  }
+}

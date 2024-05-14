@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121039",
+    "https://anime-planet.com/anime/s-13",
+    "https://kitsu.io/anime/43325",
+    "https://myanimelist.net/anime/42246"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d2d70064109c7cdf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.051818181818181,
+    "arithmeticGeometricMean": 5.034977149513539,
+    "median": 4.72,
+    "hash": "d2d70064109c7cdf",
+    "lastUpdate": "2024-05-07"
+  }
+}

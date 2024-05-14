@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12845",
+    "https://anilist.co/anime/102675",
+    "https://anime-planet.com/anime/megazone-23-xi",
+    "https://anisearch.com/anime/12819",
+    "https://kitsu.io/anime/13474",
+    "https://livechart.me/anime/2557",
+    "https://notify.moe/anime/P-r7hKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e9417cf29ee9d85e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "e9417cf29ee9d85e",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3059",
+    "https://anilist.co/anime/1540",
+    "https://anime-planet.com/anime/touch-miss-lonely-yesterday-arekara-kimi-wa",
+    "https://anisearch.com/anime/1421",
+    "https://kitsu.io/anime/1381",
+    "https://livechart.me/anime/12202",
+    "https://myanimelist.net/anime/1540",
+    "https://notify.moe/anime/fBJa5Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5e3256033791c3d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.74130612244898,
+    "arithmeticGeometricMean": 6.739274806665926,
+    "median": 6.657142857142857,
+    "hash": "e5e3256033791c3d",
+    "lastUpdate": "2024-05-10"
+  }
+}

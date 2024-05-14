@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18160",
+    "https://anime-planet.com/anime/fategrand-order-memorial-movie-2023",
+    "https://anisearch.com/anime/18583",
+    "https://myanimelist.net/anime/56350"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3f5d127ff8574e42",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.492761904761903,
+    "arithmeticGeometricMean": 7.488799031231994,
+    "median": 7.644,
+    "hash": "3f5d127ff8574e42",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14114",
+    "https://anime-planet.com/anime/ice-kuritarou",
+    "https://anisearch.com/anime/13688",
+    "https://kitsu.io/anime/41497",
+    "https://myanimelist.net/anime/37951",
+    "https://notify.moe/anime/qdSy3pFiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ff33db6a5d647e23",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.689265306122449,
+    "arithmeticGeometricMean": 6.684343332089637,
+    "median": 6.689265306122449,
+    "hash": "ff33db6a5d647e23",
+    "lastUpdate": "2024-05-08"
+  }
+}

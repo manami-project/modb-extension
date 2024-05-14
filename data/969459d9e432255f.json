@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102609",
+    "https://anime-planet.com/anime/bakuman-2-special",
+    "https://anisearch.com/anime/9787",
+    "https://kitsu.io/anime/8766",
+    "https://livechart.me/anime/6162",
+    "https://myanimelist.net/anime/23369",
+    "https://notify.moe/anime/-d9JtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "969459d9e432255f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.623720381659157,
+    "arithmeticGeometricMean": 6.605308278817506,
+    "median": 6.67,
+    "hash": "969459d9e432255f",
+    "lastUpdate": "2024-05-05"
+  }
+}

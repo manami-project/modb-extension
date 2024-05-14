@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13554",
+    "https://anime-planet.com/anime/wake-up-girl-zoo-miyagi-pr-de-go",
+    "https://anisearch.com/anime/12789",
+    "https://kitsu.io/anime/12027",
+    "https://livechart.me/anime/6803",
+    "https://myanimelist.net/anime/33105",
+    "https://notify.moe/anime/5sY6pFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7a41a07e88f42e9b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.768030509173367,
+    "arithmeticGeometricMean": 5.7551913999651765,
+    "median": 5.58,
+    "hash": "7a41a07e88f42e9b",
+    "lastUpdate": "2024-05-10"
+  }
+}

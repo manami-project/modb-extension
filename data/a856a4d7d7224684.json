@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5073",
+    "https://anilist.co/anime/19985",
+    "https://anime-planet.com/anime/uchuujin-pipi",
+    "https://anisearch.com/anime/4180",
+    "https://kitsu.io/anime/9684",
+    "https://myanimelist.net/anime/19985",
+    "https://notify.moe/anime/tMTLpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a856a4d7d7224684",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.2813852813852815,
+    "arithmeticGeometricMean": 4.26135197816507,
+    "median": 4.272727272727273,
+    "hash": "a856a4d7d7224684",
+    "lastUpdate": "2024-05-08"
+  }
+}

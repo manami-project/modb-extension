@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5971",
+    "https://anilist.co/anime/4021",
+    "https://anime-planet.com/anime/antique-bakery",
+    "https://anisearch.com/anime/4764",
+    "https://kitsu.io/anime/3415",
+    "https://livechart.me/anime/5260",
+    "https://myanimelist.net/anime/4021",
+    "https://notify.moe/anime/3Tgu5FmmR"
+  ],
+  "synopsis": {
+    "text": "Eiji, a retired boxing champion, Ono, a world-class pastry chef with a magnetic charm, and Tachibana, a former high-ranking employee, all find themselves working together in a bakery. The bakery, aptly named Antique, is the brainchild of Tachibana, who left his corporate job for this new venture. Ono, who has a history of being fired from his previous jobs due to his irresistible charm, finds himself working under Tachibana, his high school crush who once rejected him. Despite Tachibana's initial relief that Ono doesn't remember their past, he soon finds himself the target of Ono's affections. Meanwhile, Eiji, who is not Ono's type, is hired as a trainee, and Chikage, Tachibana's childhood friend, joins the crew. As they all work together, they must navigate their personal pasts and overcome their individual challenges to make Antique a success. The question remains: why did Tachibana leave his successful career to open a bakery, and how does it connect to his forgotten past?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ffbfedbf148e1ad6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.909658858998145,
+    "arithmeticGeometricMean": 6.902162373857157,
+    "median": 6.8975,
+    "hash": "ffbfedbf148e1ad6",
+    "lastUpdate": "2024-05-09"
+  }
+}

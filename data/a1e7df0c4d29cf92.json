@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/110634",
+    "https://anime-planet.com/anime/abedon-beautiful-day"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a1e7df0c4d29cf92",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.961363636363636,
+    "arithmeticGeometricMean": 5.941392861902386,
+    "median": 5.961363636363636,
+    "hash": "a1e7df0c4d29cf92",
+    "lastUpdate": "2024-05-05"
+  }
+}

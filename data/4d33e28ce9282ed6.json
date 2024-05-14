@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14037",
+    "https://anilist.co/anime/102501",
+    "https://anime-planet.com/anime/zhonghua-xiaozi",
+    "https://anisearch.com/anime/11642",
+    "https://kitsu.io/anime/9935",
+    "https://myanimelist.net/anime/27811",
+    "https://notify.moe/anime/bD5EpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d33e28ce9282ed6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.7390383426097715,
+    "arithmeticGeometricMean": 5.6873634020541015,
+    "median": 5.782727272727273,
+    "hash": "4d33e28ce9282ed6",
+    "lastUpdate": "2024-05-08"
+  }
+}

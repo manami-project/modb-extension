@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/1331",
+    "https://myanimelist.net/anime/4731"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d658502957b4251f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.075204081632653,
+    "arithmeticGeometricMean": 4.005466103036071,
+    "median": 4.075204081632653,
+    "hash": "d658502957b4251f",
+    "lastUpdate": "2024-05-07"
+  }
+}

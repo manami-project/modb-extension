@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/524",
+    "https://anilist.co/anime/2561",
+    "https://anime-planet.com/anime/captain-future",
+    "https://anisearch.com/anime/3353",
+    "https://kitsu.io/anime/2326",
+    "https://livechart.me/anime/7115",
+    "https://myanimelist.net/anime/2561",
+    "https://notify.moe/anime/VbnycFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "850092caf0876b05",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.909976146302677,
+    "arithmeticGeometricMean": 6.9073471641341335,
+    "median": 6.909090909090909,
+    "hash": "850092caf0876b05",
+    "lastUpdate": "2024-05-09"
+  }
+}

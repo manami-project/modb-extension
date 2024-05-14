@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15901",
+    "https://anilist.co/anime/130777",
+    "https://anime-planet.com/anime/mewkledreamy-mix",
+    "https://anisearch.com/anime/16009",
+    "https://kitsu.io/anime/44172",
+    "https://livechart.me/anime/10248",
+    "https://myanimelist.net/anime/44273",
+    "https://notify.moe/anime/M3A4kvgnR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7c5724b783face26",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.963379591836734,
+    "arithmeticGeometricMean": 6.954423057872683,
+    "median": 7.0,
+    "hash": "7c5724b783face26",
+    "lastUpdate": "2024-05-09"
+  }
+}

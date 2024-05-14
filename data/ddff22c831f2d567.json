@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1309",
+    "https://anilist.co/anime/3015",
+    "https://anime-planet.com/anime/legend-of-the-galactic-heroes-golden-wings",
+    "https://anisearch.com/anime/3070",
+    "https://kitsu.io/anime/2725",
+    "https://livechart.me/anime/5588",
+    "https://myanimelist.net/anime/3015",
+    "https://notify.moe/anime/eSyUcFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ddff22c831f2d567",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.351677179962893,
+    "arithmeticGeometricMean": 6.345866354237788,
+    "median": 6.363636363636363,
+    "hash": "ddff22c831f2d567",
+    "lastUpdate": "2024-05-09"
+  }
+}

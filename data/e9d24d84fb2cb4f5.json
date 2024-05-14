@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13081",
+    "https://anilist.co/anime/19239",
+    "https://anime-planet.com/anime/people-in-the-box-old-city-ward",
+    "https://anisearch.com/anime/10907",
+    "https://kitsu.io/anime/8721",
+    "https://myanimelist.net/anime/19239",
+    "https://notify.moe/anime/sGsJtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e9d24d84fb2cb4f5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.325269546779751,
+    "arithmeticGeometricMean": 5.308778287162228,
+    "median": 5.2727272727272725,
+    "hash": "e9d24d84fb2cb4f5",
+    "lastUpdate": "2024-05-08"
+  }
+}

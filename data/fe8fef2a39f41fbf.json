@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17953",
+    "https://anilist.co/anime/163144",
+    "https://anime-planet.com/anime/trigun-stampede-kanketsu-hen",
+    "https://anisearch.com/anime/18323",
+    "https://kitsu.io/anime/47243",
+    "https://livechart.me/anime/11910",
+    "https://myanimelist.net/anime/54863",
+    "https://notify.moe/anime/Zl1Bmxf4R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe8fef2a39f41fbf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.163265306122447,
+    "arithmeticGeometricMean": 8.163265306122447,
+    "median": 8.163265306122447,
+    "hash": "fe8fef2a39f41fbf",
+    "lastUpdate": "2024-05-10"
+  }
+}

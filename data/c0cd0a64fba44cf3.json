@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1274",
+    "https://anilist.co/anime/2740",
+    "https://anime-planet.com/anime/monkey-turn",
+    "https://anisearch.com/anime/1451",
+    "https://kitsu.io/anime/2500",
+    "https://livechart.me/anime/9169",
+    "https://myanimelist.net/anime/2740",
+    "https://notify.moe/anime/m99y5FimR"
+  ],
+  "synopsis": {
+    "text": "Monkey Turn, a thrilling sports anime, dives into the world of professional speed boat racing, drawing inspiration from Kawai Katsutoshi's manga. The series follows the journey of Tadano Kenji, a young man with a dream to become a professional baseball player. Unfortunately, his short stature becomes an obstacle, leading his coach to suggest an alternative path: boat racing.\n\nOne fateful day, Kenji reconnects with his former girlfriend, leading to a heartfelt exchange of promises. In return for her loyalty, Kenji vows to become Japan's top racer within three years. Inspired by his girlfriend, Kenji devises a unique boat maneuver known as the 'Monkey Turn,' which gives him a significant edge over his competitors. However, the question remains: will this innovative move be enough to propel Kenji to the top of the racing world?\n\nInitially, Kenji was drawn to baseball but was deterred by the fact that one player's error could negatively impact the entire team. After witnessing a hydroboat race and a captivating maneuver called the Monkey Turn, Kenji's interest in boat racing is sparked. Despite an initial mishap while attempting the Monkey Turn, Kenji becomes determined to excel in this new sport.\n\nTwo years later, Kenji graduates from the prestigious Yamato training school and makes a solemn promise to his friend Sumi Ubukata: he will become Japan's number one hydroboat racer within three years. Alongside fellow racers like Hiroshi, Kenji embarks on a rigorous training regimen, pushing himself to the limit to achieve his dream. Will Kenji's unwavering determination and innovative Monkey Turn technique be enough to secure his place as Japan's top racer? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c0cd0a64fba44cf3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.895588126159554,
+    "arithmeticGeometricMean": 5.837443112264874,
+    "median": 6.026,
+    "hash": "c0cd0a64fba44cf3",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10405",
+    "https://anilist.co/anime/20760",
+    "https://anime-planet.com/anime/gintama-yorinuki-gintama-san-on-theater-2d",
+    "https://anisearch.com/anime/9441",
+    "https://kitsu.io/anime/8608",
+    "https://livechart.me/anime/4331",
+    "https://myanimelist.net/anime/21899",
+    "https://notify.moe/anime/qkZJpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b0529560e3c1d172",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.175035250463822,
+    "arithmeticGeometricMean": 8.17300860324315,
+    "median": 8.186363636363637,
+    "hash": "b0529560e3c1d172",
+    "lastUpdate": "2024-05-09"
+  }
+}

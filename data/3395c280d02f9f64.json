@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104408",
+    "https://anime-planet.com/anime/from-the-dolphin",
+    "https://kitsu.io/anime/44842",
+    "https://myanimelist.net/anime/53705"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3395c280d02f9f64",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.2669999999999995,
+    "arithmeticGeometricMean": 4.262818114887497,
+    "median": 4.2669999999999995,
+    "hash": "3395c280d02f9f64",
+    "lastUpdate": "2024-05-07"
+  }
+}

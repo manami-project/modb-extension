@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3573",
+    "https://anilist.co/anime/587",
+    "https://anime-planet.com/anime/looking-up-at-the-half-moon",
+    "https://anisearch.com/anime/1826",
+    "https://kitsu.io/anime/542",
+    "https://livechart.me/anime/3872",
+    "https://myanimelist.net/anime/587",
+    "https://notify.moe/anime/1TlT5Fiig"
+  ],
+  "synopsis": {
+    "text": "Yuuichi Ezaki, a 17-year-old high school student, finds himself confined to a hospital after being diagnosed with hepatitis. To escape the monotony of hospital life, he frequently sneaks out, only to be reprimanded by his stern nurse, Akiko. One day, he encounters a girl his age named Rika Akiba, who is staying in the hospital's serious illness ward. Strikingly beautiful but selfish and moody, Rika initially seems unapproachable. However, Akiko encourages Yuuichi to befriend her, leading to a unique bond between the two teenagers. As they spend more time together, Yuuichi discovers that Rika's selfish demeanor is a result of her grave illness, which may not leave her with much time left to live. Despite this, they find solace in each other's company, experiencing the ups and downs of a blossoming teenage romance tinged with the sadness of their circumstances.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e10785c5acc38781",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.51508596165739,
+    "arithmeticGeometricMean": 7.5136996919545735,
+    "median": 7.5354823747680895,
+    "hash": "e10785c5acc38781",
+    "lastUpdate": "2024-05-09"
+  }
+}

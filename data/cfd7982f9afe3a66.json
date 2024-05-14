@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14973",
+    "https://anilist.co/anime/110124",
+    "https://anime-planet.com/anime/business-fish",
+    "https://anisearch.com/anime/14486",
+    "https://kitsu.io/anime/42419",
+    "https://livechart.me/anime/9473",
+    "https://myanimelist.net/anime/39979"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cfd7982f9afe3a66",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.391742115027829,
+    "arithmeticGeometricMean": 5.355487322857921,
+    "median": 5.373,
+    "hash": "cfd7982f9afe3a66",
+    "lastUpdate": "2024-05-09"
+  }
+}

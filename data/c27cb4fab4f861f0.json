@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/921",
+    "https://anilist.co/anime/1120",
+    "https://anime-planet.com/anime/pokemon-movie-5-heroes-latias-and-latios",
+    "https://anisearch.com/anime/164",
+    "https://kitsu.io/anime/1004",
+    "https://livechart.me/anime/4148",
+    "https://myanimelist.net/anime/1120",
+    "https://notify.moe/anime/z93JcFmiR"
+  ],
+  "synopsis": {
+    "text": "Pokémon trainers Ash, Misty, and Brock find themselves on the enchanting island of Altomare, known for its canals and the thrilling Pokémon Water Race. As they get entangled in a series of mysterious events, Ash and Pikachu encounter a seemingly vulnerable girl who turns out to be the powerful Pokémon Latias in disguise. Along with her guardian counterpart Latios, they protect the city and the legendary Soul Dew, a mystical gem with unimaginable power.\n\nWhen a pair of cunning thieves, Zanner and Lyon, set their sights on capturing Latias, Latios, and the Soul Dew, Ash and his friends must rally their Pokémon to safeguard the city and prevent a catastrophic disaster. As the annual race unfolds, our heroes uncover the island's ancient legend, connecting the Eon Pokémon and the Soul Dew to the very fate of Altomare. With newfound determination, Ash, Misty, and Brock must protect the protectors and preserve the peace of this historic water town.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c27cb4fab4f861f0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.9985276883663285,
+    "arithmeticGeometricMean": 6.992381579487988,
+    "median": 7.137496653279786,
+    "hash": "c27cb4fab4f861f0",
+    "lastUpdate": "2024-05-09"
+  }
+}

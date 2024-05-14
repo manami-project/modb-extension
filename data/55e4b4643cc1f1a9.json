@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16764",
+    "https://anilist.co/anime/124243",
+    "https://anime-planet.com/anime/miao-qiansui-de-chengnian-li",
+    "https://myanimelist.net/anime/42834"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "55e4b4643cc1f1a9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.636363636363637,
+    "arithmeticGeometricMean": 5.636363636363637,
+    "median": 5.636363636363637,
+    "hash": "55e4b4643cc1f1a9",
+    "lastUpdate": "2024-05-08"
+  }
+}

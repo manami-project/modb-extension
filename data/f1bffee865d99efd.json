@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21559",
+    "https://anime-planet.com/anime/pripara-3",
+    "https://kitsu.io/anime/12683",
+    "https://notify.moe/anime/5ubihFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f1bffee865d99efd",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.76340909090909,
+    "arithmeticGeometricMean": 7.761386714763663,
+    "median": 7.731363636363636,
+    "hash": "f1bffee865d99efd",
+    "lastUpdate": "2024-05-07"
+  }
+}

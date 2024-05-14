@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10603",
+    "https://anilist.co/anime/20654",
+    "https://anime-planet.com/anime/hello-kinmoza",
+    "https://anisearch.com/anime/9614",
+    "https://kitsu.io/anime/8431",
+    "https://livechart.me/anime/474",
+    "https://myanimelist.net/anime/23269",
+    "https://notify.moe/anime/XadAtKimg"
+  ],
+  "synopsis": {
+    "text": "Japanese high school student Shinobu Oomiya, a lover of languages, finds herself in a whirlwind of unexpected challenges as a new school year begins. Despite her passion for linguistics, she and her friends often find themselves sidetracked from their studies by the ever-changing dynamics of high school life. To add to the mix, Shinobu's cherished British friend Alice Cartelet joins her in Japan, bridging the gap between their diverse cultures.\n\nAdjusting to new classes and teachers proves difficult for the group, with Alice and Yoko struggling to adapt to being separated from Shinobu and Aya. Meanwhile, Karen grapples with her new homeroom teacher, who seems to be at odds with her students. Amidst the chaos, the girls' bond is tested, but shared experiences and adventures help them grow closer, even when their plans don't go as expected.\n\nAs the group navigates the ups and downs of high school, they find that the power of friendship and their shared love for languages can bring everyone together, creating heartwarming memories in the delightful world of HELLO!! KINMOZA!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e9d6f5bc9cb7f43e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.502625660471526,
+    "arithmeticGeometricMean": 7.501510702906288,
+    "median": 7.527727272727272,
+    "hash": "e9d6f5bc9cb7f43e",
+    "lastUpdate": "2024-05-09"
+  }
+}

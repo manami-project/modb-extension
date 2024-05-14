@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10143",
+    "https://anilist.co/anime/102416",
+    "https://anime-planet.com/anime/chiaki-kuriyama-0",
+    "https://anisearch.com/anime/9010",
+    "https://kitsu.io/anime/8925",
+    "https://myanimelist.net/anime/20707",
+    "https://notify.moe/anime/Ff1bpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7298d671bf751c88",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.893038961038961,
+    "arithmeticGeometricMean": 4.8867825753115035,
+    "median": 4.818181818181818,
+    "hash": "7298d671bf751c88",
+    "lastUpdate": "2024-05-07"
+  }
+}

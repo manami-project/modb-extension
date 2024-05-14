@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/fact-rise",
+    "https://myanimelist.net/anime/38752"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0b3f6f30a652ceca",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.756,
+    "arithmeticGeometricMean": 5.7461380280406305,
+    "median": 5.756,
+    "hash": "0b3f6f30a652ceca",
+    "lastUpdate": "2024-05-07"
+  }
+}

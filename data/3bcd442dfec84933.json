@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121796",
+    "https://anime-planet.com/anime/echo-chamber",
+    "https://anisearch.com/anime/11946",
+    "https://kitsu.io/anime/12857",
+    "https://myanimelist.net/anime/33319",
+    "https://notify.moe/anime/IvOZhFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3bcd442dfec84933",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.863636363636363,
+    "arithmeticGeometricMean": 4.862680308852148,
+    "median": 4.863636363636363,
+    "hash": "3bcd442dfec84933",
+    "lastUpdate": "2024-05-06"
+  }
+}

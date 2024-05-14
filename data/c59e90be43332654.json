@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2583",
+    "https://anilist.co/anime/2457",
+    "https://anime-planet.com/anime/majokko-tsukune-chan",
+    "https://anisearch.com/anime/2945",
+    "https://kitsu.io/anime/2231",
+    "https://myanimelist.net/anime/2457",
+    "https://notify.moe/anime/ZclP5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c59e90be43332654",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.790653237918543,
+    "arithmeticGeometricMean": 6.78625674356043,
+    "median": 6.66,
+    "hash": "c59e90be43332654",
+    "lastUpdate": "2024-05-07"
+  }
+}

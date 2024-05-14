@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11499",
+    "https://anime-planet.com/anime/minna-atsumare-falcom-gakuen-3",
+    "https://anisearch.com/anime/11031",
+    "https://kitsu.io/anime/11720",
+    "https://livechart.me/anime/1779",
+    "https://notify.moe/anime/RxdqpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d45049a7aaa32bb0",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "d45049a7aaa32bb0",
+    "lastUpdate": "2024-05-09"
+  }
+}

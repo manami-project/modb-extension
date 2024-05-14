@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12584",
+    "https://anilist.co/anime/103928",
+    "https://anime-planet.com/anime/bucket-no-ana",
+    "https://anisearch.com/anime/13640",
+    "https://kitsu.io/anime/10714",
+    "https://myanimelist.net/anime/30202",
+    "https://notify.moe/anime/gLPwpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "98f151672ba4a19c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.574496598639455,
+    "arithmeticGeometricMean": 4.51419874077942,
+    "median": 4.889489795918367,
+    "hash": "98f151672ba4a19c",
+    "lastUpdate": "2024-05-08"
+  }
+}

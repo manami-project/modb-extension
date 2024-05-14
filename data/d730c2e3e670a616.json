@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1043",
+    "https://anilist.co/anime/894",
+    "https://anime-planet.com/anime/dragon-ball-z-movie-1-dead-zone",
+    "https://anisearch.com/anime/68",
+    "https://kitsu.io/anime/794",
+    "https://livechart.me/anime/4219",
+    "https://myanimelist.net/anime/894",
+    "https://notify.moe/anime/vb605Kiig"
+  ],
+  "synopsis": {
+    "text": "He ading towards a peaceful era after Son Goku's victory at the 23rd Tenkaichi Tournament, a new threat emerges in the form of Garlic Jr., the vengeful son of an evil demon who once sought to claim Kami's throne. To fulfill his father's ambition and rule the world with his army of demons, Garlic Jr. seeks immortality by gathering the seven Dragon Balls.\n\nIn his pursuit, Garlic Jr.'s minions kidnap Goku's young son, Gohan, and defeat Piccolo during his training. As Goku rushes home to find his wife Chi-Chi injured, he realizes the gravity of the situation and borrows the Dragon Radar from Kame House to locate the Dragon Balls and his kidnapped son.\n\nGoku arrives at Garlic Jr.'s fortress just in time to witness the summoning of the Eternal Dragon, granting the villain his desired immortality. Despite the combined efforts of Krillin and Piccolo, they are no match for Garlic Jr., who creates a deadly black hole, the 'Dead Zone,' to eliminate our heroes.\n\nAs all hope seems lost, Gohan begins to tap into his hidden power. Will this unexpected strength be enough to save his friends, family, and the world from Garlic Jr.'s tyranny? Join Goku, Piccolo, and the rest of the Z-Warriors in this thrilling adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d730c2e3e670a616",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.587238868274583,
+    "arithmeticGeometricMean": 6.579261347621876,
+    "median": 6.680389610389611,
+    "hash": "d730c2e3e670a616",
+    "lastUpdate": "2024-05-09"
+  }
+}

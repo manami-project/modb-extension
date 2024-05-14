@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13848",
+    "https://anilist.co/anime/101239",
+    "https://anime-planet.com/anime/ahiru-no-sora",
+    "https://anisearch.com/anime/13416",
+    "https://kitsu.io/anime/41399",
+    "https://livechart.me/anime/3123",
+    "https://myanimelist.net/anime/37403",
+    "https://notify.moe/anime/Ig-64AvmR"
+  ],
+  "synopsis": {
+    "text": "With a heart full of passion and a stature that's deceptively small, Sora Kurumatani steps into Kuzuryuu High School with a single, powerful goal: to rule the high school basketball tournament in honor of his mother's wish. But his dreams face a formidable hurdle when he discovers that the school's basketball club is nothing more than a sanctuary for troublemakers, where basketball is the last thing on anyone's mind.\n\nDespite his diminutive height, Sora's love for basketball is a towering force, fueled by years of dedication and practice. He's joined by Momoharu Hanazono, a prodigious blocker with a knack for power jumps but a glaring weakness in shooting, and his twin brother Chiaki, a gifted point guard whose interest in the sport has waned.\n\nUndeterred, Sora challenges the club members to a thrilling, adrenaline-pumping match. His swift moves, agile footwork, and an uncanny ability to score three-pointers spark a dormant love for the game in the hearts of his fellow club members. As the flames of their passion for basketball reignite, they find themselves drawn back to the court, ready to support Sora in his quest to make his mother's dream a reality.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3a7886f03c68830f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.305918866847438,
+    "arithmeticGeometricMean": 7.301892086420302,
+    "median": 7.341465677179963,
+    "hash": "3a7886f03c68830f",
+    "lastUpdate": "2024-05-08"
+  }
+}

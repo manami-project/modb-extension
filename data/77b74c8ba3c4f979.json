@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9499",
+    "https://anilist.co/anime/16211",
+    "https://anime-planet.com/anime/bakumatsu-ginjinden-roman",
+    "https://anisearch.com/anime/8182",
+    "https://kitsu.io/anime/7388",
+    "https://livechart.me/anime/874",
+    "https://myanimelist.net/anime/16211",
+    "https://notify.moe/anime/Jo0KpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "77b74c8ba3c4f979",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.972578938068734,
+    "arithmeticGeometricMean": 5.96799771626841,
+    "median": 6.0,
+    "hash": "77b74c8ba3c4f979",
+    "lastUpdate": "2024-05-08"
+  }
+}

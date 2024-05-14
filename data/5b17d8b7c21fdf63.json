@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18100",
+    "https://anilist.co/anime/166715",
+    "https://anime-planet.com/anime/black-butler-public-school-arc",
+    "https://anisearch.com/anime/18516",
+    "https://kitsu.io/anime/47688",
+    "https://livechart.me/anime/12244",
+    "https://myanimelist.net/anime/55855",
+    "https://notify.moe/anime/s8gAFL94R"
+  ],
+  "synopsis": {
+    "text": "Lord Ciel Phantomhive, a 13-year-old prodigy and the Queen's trusted guard dog, teams up with his unnaturally skilled butler, Sebastian Michaelis, to investigate the mysterious disappearances of several students at Weston College, one of England's top public schools. Among the missing is Derrick, a relative of Queen Victoria herself. As Ciel enrolls in the college and Sebastian assumes the role of a professor, they must navigate the school's stringent rules, the watchful eyes of the exemplary prefects known as the P4, and the less-than-welcoming attitude of their fellow students to unravel the secrets that lie within the institution.\n\nHaunted by a tragic past that has left him with deep emotional scars, Ciel is no ordinary boy. Having endured the loss of his parents and unimaginable torture, he has struck a deal with Sebastian, a demon butler from the depths of hell, in exchange for his soul and a chance at vengeance. Together, they patrol the darkest corners of 19th-century England, seeking to eliminate those who prey on the innocent.\n\nAs Ciel and Sebastian delve deeper into the enigma surrounding Weston College, they find that gaining the trust of the P4, the only ones with direct access to the headmaster, is crucial to their mission. However, the college and its students harbor hidden complexities that make this task more daunting than they had initially imagined. Will the young earl and his infernal butler be able to uncover the truth and fulfill the Queen's request, or will the shadows of Weston College consume them?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5b17d8b7c21fdf63",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.699940630797774,
+    "arithmeticGeometricMean": 7.672993101861783,
+    "median": 8.110454545454544,
+    "hash": "5b17d8b7c21fdf63",
+    "lastUpdate": "2024-05-09"
+  }
+}

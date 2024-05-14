@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/122",
+    "https://anilist.co/anime/1102",
+    "https://anime-planet.com/anime/urda",
+    "https://anisearch.com/anime/1",
+    "https://kitsu.io/anime/987",
+    "https://livechart.me/anime/6091",
+    "https://myanimelist.net/anime/1102",
+    "https://notify.moe/anime/dtr15Kmig"
+  ],
+  "synopsis": {
+    "text": "Chris, a girl hailing from the future, finds herself in the midst of World War II, in 1943 Europe, following an unexpected time warp that brings a mysterious ship along with her. As the Nazis scheme to locate the ship and execute a secret plan known as Urda, two skilled agents, Janet and Erna, are deployed to thwart their efforts. The agents' mission is twofold: to prevent the Nazis from capturing Chris and locating the ship, and to disrupt the implementation of the sinister Urda project. The fate of the world rests on their success.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "387ae449115e17f6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.841072886297376,
+    "arithmeticGeometricMean": 4.819492800186112,
+    "median": 4.852,
+    "hash": "387ae449115e17f6",
+    "lastUpdate": "2024-05-10"
+  }
+}

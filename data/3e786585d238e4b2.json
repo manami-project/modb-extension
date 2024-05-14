@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/994",
+    "https://anilist.co/anime/1440",
+    "https://anime-planet.com/anime/ninja-cadets",
+    "https://anisearch.com/anime/588",
+    "https://kitsu.io/anime/1293",
+    "https://livechart.me/anime/6995",
+    "https://myanimelist.net/anime/1440",
+    "https://notify.moe/anime/3pn-5Kmig"
+  ],
+  "synopsis": {
+    "text": "Castle Byakuro, once a symbol of peace during Japan's feudal era, became the epicenter of a bitter conflict between two rival ninja clans, the Byakuro and the Kabusu. In a daring attempt to seize the Byakuro's infant princess, the Kabusu orchestrated a ruthless attack on the castle. However, their plans were thwarted by a devoted Byakuro ninja, who spirited the princess away to safety, raising her as a ninja in a quiet village.\n\nFast forward several years, and five young ninja trainees - Kaoru, Hayashi, Yume, Matsuri, and Sakura - are on the cusp of completing their training. Their final mission? To infiltrate the now Kabusu-occupied Byakuro castle and retrieve a sacred scroll, a task that promises to elevate them to the rank of true ninjas. But unbeknownst to them, one of their own is the princess they've sworn to protect, and the Kabusu, wielding dark sorcery, are hot on their trail, eager to capture her once more.\n\nAs they navigate the perilous castle, these young ninjas will face not only the Kabusu and their sinister magic but also hidden truths about their own identities. Will their skills be enough to overcome these challenges, or will the secrets they uncover tear them apart? Only time will tell in this thrilling tale of loyalty, courage, and the relentless pursuit of power.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3e786585d238e4b2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.575144447389346,
+    "arithmeticGeometricMean": 5.560860299413612,
+    "median": 5.67,
+    "hash": "3e786585d238e4b2",
+    "lastUpdate": "2024-05-09"
+  }
+}

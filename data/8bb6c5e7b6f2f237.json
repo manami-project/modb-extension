@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15153",
+    "https://anime-planet.com/anime/dou-long-zhanshi-movie",
+    "https://myanimelist.net/anime/44449"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8bb6c5e7b6f2f237",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "8bb6c5e7b6f2f237",
+    "lastUpdate": "2024-05-11"
+  }
+}

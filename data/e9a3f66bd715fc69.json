@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17643",
+    "https://anilist.co/anime/154982",
+    "https://anime-planet.com/anime/the-way-of-the-househusband-2",
+    "https://anisearch.com/anime/17743",
+    "https://kitsu.io/anime/46542",
+    "https://livechart.me/anime/11525",
+    "https://myanimelist.net/anime/53148",
+    "https://notify.moe/anime/bs5DuV44R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e9a3f66bd715fc69",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.551006957328386,
+    "arithmeticGeometricMean": 7.54691431715588,
+    "median": 7.647755102040817,
+    "hash": "e9a3f66bd715fc69",
+    "lastUpdate": "2024-05-09"
+  }
+}

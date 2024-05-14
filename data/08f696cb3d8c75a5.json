@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15119",
+    "https://anime-planet.com/anime/road-to-you-kioku-ni-mau-konayuki",
+    "https://anisearch.com/anime/14654"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "08f696cb3d8c75a5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.524993197278911,
+    "arithmeticGeometricMean": 5.51715074565443,
+    "median": 5.77,
+    "hash": "08f696cb3d8c75a5",
+    "lastUpdate": "2024-05-07"
+  }
+}

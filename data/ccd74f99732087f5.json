@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/6272",
+    "https://anime-planet.com/anime/zakuro-yashiki",
+    "https://anisearch.com/anime/4432",
+    "https://kitsu.io/anime/4500",
+    "https://myanimelist.net/anime/6272",
+    "https://notify.moe/anime/sYXqcFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ccd74f99732087f5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.355509461966605,
+    "arithmeticGeometricMean": 5.273902100260966,
+    "median": 5.0,
+    "hash": "ccd74f99732087f5",
+    "lastUpdate": "2024-05-07"
+  }
+}

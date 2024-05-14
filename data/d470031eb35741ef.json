@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1083",
+    "https://anilist.co/anime/3432",
+    "https://anime-planet.com/anime/chou-mashin-eiyuuden-wataru",
+    "https://anisearch.com/anime/745",
+    "https://kitsu.io/anime/3005",
+    "https://livechart.me/anime/9806",
+    "https://myanimelist.net/anime/3432",
+    "https://notify.moe/anime/23LwcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d470031eb35741ef",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.447874370527431,
+    "arithmeticGeometricMean": 6.401470735731291,
+    "median": 6.909090909090909,
+    "hash": "d470031eb35741ef",
+    "lastUpdate": "2024-05-09"
+  }
+}

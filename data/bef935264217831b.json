@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11688",
+    "https://anilist.co/anime/104342",
+    "https://anime-planet.com/anime/teo-the-magic-planet",
+    "https://anisearch.com/anime/11920",
+    "https://kitsu.io/anime/12424",
+    "https://myanimelist.net/anime/32732",
+    "https://notify.moe/anime/yitk2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bef935264217831b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.230784786641929,
+    "arithmeticGeometricMean": 5.21113347891342,
+    "median": 5.204081632653061,
+    "hash": "bef935264217831b",
+    "lastUpdate": "2024-05-07"
+  }
+}

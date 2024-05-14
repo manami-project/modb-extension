@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7737",
+    "https://anilist.co/anime/141057",
+    "https://anime-planet.com/anime/sore-ike-anpanman-dokin-chan-no-dokidoki-calendar",
+    "https://anisearch.com/anime/4549",
+    "https://kitsu.io/anime/9046",
+    "https://livechart.me/anime/11405",
+    "https://myanimelist.net/anime/22037",
+    "https://notify.moe/anime/LEg-pFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd27dd238e5c4997",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.695221706864563,
+    "arithmeticGeometricMean": 5.644499779902225,
+    "median": 5.454545454545454,
+    "hash": "dd27dd238e5c4997",
+    "lastUpdate": "2024-05-10"
+  }
+}

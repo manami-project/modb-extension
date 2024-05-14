@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6321",
+    "https://anilist.co/anime/6798",
+    "https://anime-planet.com/anime/lets-go-tamagotchi",
+    "https://anisearch.com/anime/5232",
+    "https://kitsu.io/anime/4722",
+    "https://myanimelist.net/anime/6798",
+    "https://notify.moe/anime/N2u65KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35aa460d2e54490c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.153330879249246,
+    "arithmeticGeometricMean": 5.107814127232667,
+    "median": 5.545454545454546,
+    "hash": "35aa460d2e54490c",
+    "lastUpdate": "2024-05-08"
+  }
+}

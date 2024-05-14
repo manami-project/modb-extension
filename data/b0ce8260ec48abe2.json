@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17857",
+    "https://anilist.co/anime/160382",
+    "https://anime-planet.com/anime/the-soul-of-soldier-master-part-ii",
+    "https://kitsu.io/anime/46994",
+    "https://myanimelist.net/anime/54261",
+    "https://notify.moe/anime/vKO73JTVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b0ce8260ec48abe2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.454545454545455,
+    "arithmeticGeometricMean": 6.454545454545455,
+    "median": 6.454545454545455,
+    "hash": "b0ce8260ec48abe2",
+    "lastUpdate": "2024-05-08"
+  }
+}

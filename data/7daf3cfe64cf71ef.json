@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1644",
+    "https://anilist.co/anime/2704",
+    "https://anime-planet.com/anime/steam-detectives",
+    "https://anisearch.com/anime/3079",
+    "https://kitsu.io/anime/2466",
+    "https://livechart.me/anime/8484",
+    "https://myanimelist.net/anime/2704",
+    "https://notify.moe/anime/70UycFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7daf3cfe64cf71ef",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.2451364961569045,
+    "arithmeticGeometricMean": 6.2258089813252235,
+    "median": 6.363636363636363,
+    "hash": "7daf3cfe64cf71ef",
+    "lastUpdate": "2024-05-09"
+  }
+}

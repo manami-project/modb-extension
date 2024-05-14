@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2312",
+    "https://anilist.co/anime/9376",
+    "https://anime-planet.com/anime/yamato-takeru-after-war",
+    "https://anisearch.com/anime/1792",
+    "https://kitsu.io/anime/5709",
+    "https://myanimelist.net/anime/9376",
+    "https://notify.moe/anime/0DeWpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9282ae762745a479",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.78378478664193,
+    "arithmeticGeometricMean": 5.768365123621024,
+    "median": 5.587272727272728,
+    "hash": "9282ae762745a479",
+    "lastUpdate": "2024-05-07"
+  }
+}

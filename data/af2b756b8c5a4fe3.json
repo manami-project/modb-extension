@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17352",
+    "https://anilist.co/anime/148401",
+    "https://anime-planet.com/anime/umayuru",
+    "https://anisearch.com/anime/17388",
+    "https://kitsu.io/anime/46100",
+    "https://livechart.me/anime/11206",
+    "https://myanimelist.net/anime/51772",
+    "https://notify.moe/anime/FBS0BLX7g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af2b756b8c5a4fe3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.545887940630797,
+    "arithmeticGeometricMean": 6.539342792265704,
+    "median": 6.326530612244898,
+    "hash": "af2b756b8c5a4fe3",
+    "lastUpdate": "2024-05-10"
+  }
+}

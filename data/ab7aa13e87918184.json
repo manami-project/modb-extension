@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1677",
+    "https://anilist.co/anime/251",
+    "https://anime-planet.com/anime/kyo-kara-maoh",
+    "https://anisearch.com/anime/407",
+    "https://kitsu.io/anime/226",
+    "https://myanimelist.net/anime/251",
+    "https://notify.moe/anime/JcH25Fiig"
+  ],
+  "synopsis": {
+    "text": "Mazoku's next ruler is none other than Shibuya Yuuri, an ordinary high school student who, while defending a friend from bullies, finds himself transported to an alternate world through a toilet portal. In this new realm of magic and flying skeletons, Yuuri is crowned as the Demon King due to his distinctive black hair and eyes. However, unlike his predecessors, Yuuri's kind heart and human background lead him to pursue a peaceful coexistence between humans and Mazoku. As he navigates through a series of awkward and challenging situations, Yuuri must learn to embrace his new role and prevent the impending war. Can he successfully balance his human compassion with his royal responsibilities and bring lasting peace to the Mazoku kingdom?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ab7aa13e87918184",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.514571958653592,
+    "arithmeticGeometricMean": 7.51364378026518,
+    "median": 7.49,
+    "hash": "ab7aa13e87918184",
+    "lastUpdate": "2024-05-08"
+  }
+}

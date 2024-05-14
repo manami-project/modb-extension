@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7894",
+    "https://anime-planet.com/anime/ooioo-umo",
+    "https://anisearch.com/anime/6579",
+    "https://kitsu.io/anime/10843",
+    "https://myanimelist.net/anime/30241",
+    "https://notify.moe/anime/s7OltFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c550ad42c05456e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.559110204081632,
+    "arithmeticGeometricMean": 4.511050695962888,
+    "median": 3.74,
+    "hash": "1c550ad42c05456e",
+    "lastUpdate": "2024-05-07"
+  }
+}

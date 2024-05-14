@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11661",
+    "https://anilist.co/anime/103374",
+    "https://anime-planet.com/anime/sugahara-shinsuke-master-blaster",
+    "https://anisearch.com/anime/11461",
+    "https://kitsu.io/anime/11427",
+    "https://myanimelist.net/anime/31501",
+    "https://notify.moe/anime/ICqrtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f7d62279fd4993b1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.335948582030214,
+    "arithmeticGeometricMean": 4.293294844772479,
+    "median": 4.41,
+    "hash": "f7d62279fd4993b1",
+    "lastUpdate": "2024-05-07"
+  }
+}

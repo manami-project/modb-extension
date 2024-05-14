@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13149",
+    "https://anilist.co/anime/102304",
+    "https://anime-planet.com/anime/yi-wan-nian-yi-hou",
+    "https://anisearch.com/anime/15670",
+    "https://kitsu.io/anime/13515",
+    "https://myanimelist.net/anime/35432",
+    "https://notify.moe/anime/vqmV2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "79930ec8c912f5cf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.883208410636982,
+    "arithmeticGeometricMean": 4.847917080032501,
+    "median": 4.742727272727272,
+    "hash": "79930ec8c912f5cf",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11395",
+    "https://anilist.co/anime/21587",
+    "https://anime-planet.com/anime/3-gatsu-no-lion-meets-bump-of-chicken",
+    "https://anisearch.com/anime/10981",
+    "https://kitsu.io/anime/10063",
+    "https://livechart.me/anime/4125",
+    "https://myanimelist.net/anime/28789",
+    "https://notify.moe/anime/RDzstFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "293b8a48bceeee68",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.917286757884972,
+    "arithmeticGeometricMean": 6.911671233096201,
+    "median": 6.89030612244898,
+    "hash": "293b8a48bceeee68",
+    "lastUpdate": "2024-05-08"
+  }
+}

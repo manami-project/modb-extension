@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8785",
+    "https://anilist.co/anime/9558",
+    "https://anime-planet.com/anime/changjiang-qi-hao-ai-diqiu",
+    "https://anisearch.com/anime/7538",
+    "https://kitsu.io/anime/5790",
+    "https://myanimelist.net/anime/9558",
+    "https://notify.moe/anime/n5DGpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c912cb7496f0a32",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.87643413729128,
+    "arithmeticGeometricMean": 5.847420671980085,
+    "median": 5.07,
+    "hash": "1c912cb7496f0a32",
+    "lastUpdate": "2024-05-07"
+  }
+}

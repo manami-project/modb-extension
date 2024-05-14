@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2057",
+    "https://anilist.co/anime/2696",
+    "https://anime-planet.com/anime/crusher-joe",
+    "https://anisearch.com/anime/408",
+    "https://kitsu.io/anime/2458",
+    "https://livechart.me/anime/11401",
+    "https://myanimelist.net/anime/2696",
+    "https://notify.moe/anime/BAsy5FmiR"
+  ],
+  "synopsis": {
+    "text": "And so, we venture into the vast cosmos of the 22nd century, where the United Space Force can't always lend a helping hand. Enter the Crushers: the ultimate problem solvers for hire, with no job too big or too complex, as long as it's legal and ethical. At the helm is none other than the legendary Crusher Joe, accompanied by his skilled crew: Alfin, Ricky, Talos, and their trusty robot sidekick, Dongo.\n\nIn \"Crusher Joe: The OVA's,\" witness two thrilling escapades that put our heroes' expertise to the test. First, they must stabilize a perilous ice asteroid that doubles as a prison before it plummets from its decaying orbit. Then, they're dispatched to rescue the people of Bandor from a deadly bomb that looms over their world, threatening to obliterate all life.\n\nBut as seasoned Crushers know all too well, every mission has its unforeseen twists and turns. From navigating warp lanes to terraforming and asteroid busting, Crusher Joe and his team must employ every tool, trick, and ounce of knowledge they possess to save the day. Brace yourself for a thrilling ride through space, where the stakes are high, and the challenges are out of this world!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3a4173547952fa60",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.572531672409225,
+    "arithmeticGeometricMean": 6.553583239676945,
+    "median": 6.818181818181818,
+    "hash": "3a4173547952fa60",
+    "lastUpdate": "2024-05-09"
+  }
+}

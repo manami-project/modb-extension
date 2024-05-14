@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3602",
+    "https://anilist.co/anime/3176",
+    "https://anime-planet.com/anime/nessa-no-haou-gandalla",
+    "https://anisearch.com/anime/2838",
+    "https://kitsu.io/anime/2840",
+    "https://myanimelist.net/anime/3176",
+    "https://notify.moe/anime/B2WwcKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e5d5c3a04779323",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.413791589363018,
+    "arithmeticGeometricMean": 5.403535169098419,
+    "median": 5.432272727272728,
+    "hash": "4e5d5c3a04779323",
+    "lastUpdate": "2024-05-08"
+  }
+}

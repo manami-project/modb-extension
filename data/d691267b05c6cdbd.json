@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2398",
+    "https://anilist.co/anime/8109",
+    "https://anime-planet.com/anime/hamtaro-movie-4-hamtaro-to-fushigi-no-oni-no-emon-tou",
+    "https://anisearch.com/anime/3499",
+    "https://kitsu.io/anime/5198",
+    "https://myanimelist.net/anime/8109",
+    "https://notify.moe/anime/i4uztFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d691267b05c6cdbd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.654597402597403,
+    "arithmeticGeometricMean": 5.610700727985555,
+    "median": 6.284000000000001,
+    "hash": "d691267b05c6cdbd",
+    "lastUpdate": "2024-05-08"
+  }
+}

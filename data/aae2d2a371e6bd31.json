@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9631",
+    "https://anilist.co/anime/18283",
+    "https://anime-planet.com/anime/sonyeon-007-eunhateukgongdae",
+    "https://anisearch.com/anime/3855",
+    "https://kitsu.io/anime/9768",
+    "https://myanimelist.net/anime/18283",
+    "https://notify.moe/anime/GN_LtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aae2d2a371e6bd31",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.7102659245516385,
+    "arithmeticGeometricMean": 4.702528928564648,
+    "median": 4.948979591836734,
+    "hash": "aae2d2a371e6bd31",
+    "lastUpdate": "2024-05-08"
+  }
+}

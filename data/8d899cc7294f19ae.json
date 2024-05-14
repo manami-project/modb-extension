@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/779",
+    "https://anilist.co/anime/1350",
+    "https://anime-planet.com/anime/parasite-dolls",
+    "https://anisearch.com/anime/1157",
+    "https://kitsu.io/anime/1205",
+    "https://livechart.me/anime/6586",
+    "https://myanimelist.net/anime/1350",
+    "https://notify.moe/anime/rgXbcFimg"
+  ],
+  "synopsis": {
+    "text": "Branch, an elite division of the AD Police, is tasked with handling crimes perpetrated by humanoid robots called Boomers in the bustling city of Tokyo, 2034. As society struggles to adapt to the presence of these artificial beings, the line between human and robot becomes increasingly blurred. Officer Buzz, partnered with a Boomer, must navigate this complex world alongside fellow officers Michaelson, Reiko, Bill, and Elza. Together, they strive to protect the citizens from defective Boomers while investigating a mysterious drug that seems to be causing these robots to go berserk. As they delve deeper into the case, they uncover a political conspiracy that threatens not only the Boomers but also the very fabric of their society. Set within the captivating universe of Bubblegum Crisis, this gripping tale explores the intricate relationship between humans and their synthetic creations in a world teetering on the brink of chaos.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8d899cc7294f19ae",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.4169780015902464,
+    "arithmeticGeometricMean": 6.415326484669866,
+    "median": 6.47,
+    "hash": "8d899cc7294f19ae",
+    "lastUpdate": "2024-05-09"
+  }
+}

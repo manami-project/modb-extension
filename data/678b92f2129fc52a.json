@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8351",
+    "https://anilist.co/anime/10547",
+    "https://anime-planet.com/anime/oretachi-ni-tsubasa-wa-nai-hada-iro-ritsu-kyuu-wari-zou",
+    "https://anisearch.com/anime/6965",
+    "https://kitsu.io/anime/6236",
+    "https://livechart.me/anime/4407",
+    "https://myanimelist.net/anime/10547",
+    "https://notify.moe/anime/8RD4tFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "678b92f2129fc52a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.1541006493506485,
+    "arithmeticGeometricMean": 6.126227616530856,
+    "median": 6.381818181818182,
+    "hash": "678b92f2129fc52a",
+    "lastUpdate": "2024-05-09"
+  }
+}

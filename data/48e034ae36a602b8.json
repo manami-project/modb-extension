@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1529",
+    "https://anilist.co/anime/5197",
+    "https://anime-planet.com/anime/dragon-league",
+    "https://anisearch.com/anime/3312",
+    "https://kitsu.io/anime/3977",
+    "https://livechart.me/anime/9075",
+    "https://myanimelist.net/anime/5197",
+    "https://notify.moe/anime/hSRj5Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "48e034ae36a602b8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.808184704184704,
+    "arithmeticGeometricMean": 6.803974655688075,
+    "median": 6.787857142857142,
+    "hash": "48e034ae36a602b8",
+    "lastUpdate": "2024-05-09"
+  }
+}

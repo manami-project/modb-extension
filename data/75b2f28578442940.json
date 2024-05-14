@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8449",
+    "https://anime-planet.com/anime/gohan-kaijuu-pap",
+    "https://anisearch.com/anime/7126",
+    "https://kitsu.io/anime/9832",
+    "https://myanimelist.net/anime/22669",
+    "https://notify.moe/anime/vBgPtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75b2f28578442940",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.760244897959184,
+    "arithmeticGeometricMean": 4.63149764526511,
+    "median": 5.0,
+    "hash": "75b2f28578442940",
+    "lastUpdate": "2024-05-07"
+  }
+}

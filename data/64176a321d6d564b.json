@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103511",
+    "https://anime-planet.com/anime/mndsgn-alluptoyou",
+    "https://kitsu.io/anime/13961",
+    "https://myanimelist.net/anime/36092",
+    "https://notify.moe/anime/gtgHhFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "64176a321d6d564b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.152863636363636,
+    "arithmeticGeometricMean": 5.136966943555487,
+    "median": 4.970000000000001,
+    "hash": "64176a321d6d564b",
+    "lastUpdate": "2024-05-05"
+  }
+}

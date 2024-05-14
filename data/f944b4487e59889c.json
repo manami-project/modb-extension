@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11916",
+    "https://anilist.co/anime/21635",
+    "https://anime-planet.com/anime/battle-spirits-double-drive",
+    "https://anisearch.com/anime/11166",
+    "https://kitsu.io/anime/11820",
+    "https://livechart.me/anime/2025",
+    "https://myanimelist.net/anime/32670",
+    "https://notify.moe/anime/JlU3pFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f944b4487e59889c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.289551638837353,
+    "arithmeticGeometricMean": 5.254917078277059,
+    "median": 5.181818181818182,
+    "hash": "f944b4487e59889c",
+    "lastUpdate": "2024-05-08"
+  }
+}

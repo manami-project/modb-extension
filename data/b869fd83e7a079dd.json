@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17934",
+    "https://anilist.co/anime/163072",
+    "https://anime-planet.com/anime/special-kid-factory",
+    "https://anisearch.com/anime/18486",
+    "https://kitsu.io/anime/47230",
+    "https://livechart.me/anime/11898",
+    "https://myanimelist.net/anime/54833",
+    "https://notify.moe/anime/7rQJpcBVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b869fd83e7a079dd",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "b869fd83e7a079dd",
+    "lastUpdate": "2024-05-11"
+  }
+}

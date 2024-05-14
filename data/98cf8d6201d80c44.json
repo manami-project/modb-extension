@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14674",
+    "https://anilist.co/anime/101550",
+    "https://anime-planet.com/anime/wo-shi-jiang-xiaobai-ova",
+    "https://anisearch.com/anime/13873",
+    "https://kitsu.io/anime/41306",
+    "https://livechart.me/anime/8197",
+    "https://myanimelist.net/anime/37886",
+    "https://notify.moe/anime/UGorjiDiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "98cf8d6201d80c44",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.158164325470449,
+    "arithmeticGeometricMean": 7.140044316788002,
+    "median": 7.090909090909091,
+    "hash": "98cf8d6201d80c44",
+    "lastUpdate": "2024-05-10"
+  }
+}

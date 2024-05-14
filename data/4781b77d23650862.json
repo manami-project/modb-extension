@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7782",
+    "https://anilist.co/anime/168867",
+    "https://anime-planet.com/anime/hello-kitty-no-cinderella",
+    "https://anisearch.com/anime/6394",
+    "https://kitsu.io/anime/5659",
+    "https://myanimelist.net/anime/9291",
+    "https://notify.moe/anime/y5_ZpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4781b77d23650862",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.822916512059369,
+    "arithmeticGeometricMean": 5.793835001142485,
+    "median": 6.056,
+    "hash": "4781b77d23650862",
+    "lastUpdate": "2024-05-08"
+  }
+}

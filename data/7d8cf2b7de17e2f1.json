@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/484",
+    "https://anilist.co/anime/1491",
+    "https://anime-planet.com/anime/galaxy-express-999",
+    "https://anisearch.com/anime/713",
+    "https://kitsu.io/anime/1337",
+    "https://livechart.me/anime/6299",
+    "https://myanimelist.net/anime/1491",
+    "https://notify.moe/anime/caF-5Fimg"
+  ],
+  "synopsis": {
+    "text": "An impoverished boy, Tetsurou Hoshino, residing in a future where immortality is achievable through mechanical bodies, dreams of boarding the Galaxy Express 999, a space-bound train that promises a free robotic body at the end of its journey. After his mother is tragically murdered by the ruthless Count Mecha, Tetsurou's life takes a turn when he is saved by Maetel, an enigmatic blonde woman bearing a striking resemblance to his mother. Offering him a ticket to the Galaxy Express, Maetel proposes they embark on the journey together, leading Tetsurou on a captivating adventure through various planets in pursuit of immortality and vengeance. As they traverse the cosmos in a train reminiscent of 19th-century locomotives, Tetsurou and Maetel encounter diverse worlds and intriguing experiences, inching closer to the Immortal Planet and a confrontation with the tyrant who altered Tetsurou's life forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d8cf2b7de17e2f1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.316356921989575,
+    "arithmeticGeometricMean": 7.306056811696927,
+    "median": 7.45,
+    "hash": "7d8cf2b7de17e2f1",
+    "lastUpdate": "2024-05-09"
+  }
+}

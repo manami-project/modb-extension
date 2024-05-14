@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13999",
+    "https://anime-planet.com/anime/caribadix-2nd-season",
+    "https://anisearch.com/anime/13562",
+    "https://myanimelist.net/anime/37653"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "12b224602ea679dc",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.650265306122449,
+    "arithmeticGeometricMean": 6.646322536152361,
+    "median": 6.650265306122449,
+    "hash": "12b224602ea679dc",
+    "lastUpdate": "2024-05-07"
+  }
+}

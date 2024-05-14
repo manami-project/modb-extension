@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21687",
+    "https://anime-planet.com/anime/soul-eater-late-night-show",
+    "https://anisearch.com/anime/9212",
+    "https://kitsu.io/anime/8597",
+    "https://livechart.me/anime/5116",
+    "https://myanimelist.net/anime/21195",
+    "https://notify.moe/anime/FDk1pKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b48638d1b4d0a10",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.9036899019348,
+    "arithmeticGeometricMean": 6.90025978118248,
+    "median": 6.86,
+    "hash": "6b48638d1b4d0a10",
+    "lastUpdate": "2024-05-10"
+  }
+}

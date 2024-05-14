@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4756",
+    "https://anilist.co/anime/17291",
+    "https://anime-planet.com/anime/jinzou-konchuu-kabutoborg-vxv",
+    "https://anisearch.com/anime/3899",
+    "https://kitsu.io/anime/7628",
+    "https://livechart.me/anime/12348",
+    "https://myanimelist.net/anime/17291",
+    "https://notify.moe/anime/SKactFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b36a3d128fc44068",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.387207792207793,
+    "arithmeticGeometricMean": 5.318038371270476,
+    "median": 5.525,
+    "hash": "b36a3d128fc44068",
+    "lastUpdate": "2024-05-09"
+  }
+}

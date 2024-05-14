@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8693",
+    "https://anilist.co/anime/19727",
+    "https://anime-planet.com/anime/claris-nexus",
+    "https://anisearch.com/anime/7333",
+    "https://kitsu.io/anime/8732",
+    "https://myanimelist.net/anime/19727",
+    "https://notify.moe/anime/KwU1pKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc06a5f9986b169c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.676471243042672,
+    "arithmeticGeometricMean": 5.661787543174639,
+    "median": 5.89,
+    "hash": "bc06a5f9986b169c",
+    "lastUpdate": "2024-05-08"
+  }
+}

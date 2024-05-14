@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137806",
+    "https://anime-planet.com/anime/ed-sheeran-bad-habits",
+    "https://anisearch.com/anime/16527",
+    "https://kitsu.io/anime/45302",
+    "https://myanimelist.net/anime/49600"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ac1782629839dcc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.00950371057514,
+    "arithmeticGeometricMean": 5.976295097618741,
+    "median": 6.177272727272728,
+    "hash": "4ac1782629839dcc",
+    "lastUpdate": "2024-05-05"
+  }
+}

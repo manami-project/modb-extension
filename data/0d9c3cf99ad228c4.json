@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/139067",
+    "https://anime-planet.com/anime/dr-slump-arale-chan-penguin-mura-no-shouboutai",
+    "https://anisearch.com/anime/17004",
+    "https://kitsu.io/anime/41516",
+    "https://myanimelist.net/anime/34878"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0d9c3cf99ad228c4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.3160881261595545,
+    "arithmeticGeometricMean": 6.297188916066392,
+    "median": 6.237,
+    "hash": "0d9c3cf99ad228c4",
+    "lastUpdate": "2024-05-06"
+  }
+}

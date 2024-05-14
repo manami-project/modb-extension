@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/153973",
+    "https://anime-planet.com/anime/ado-fleeting-lullaby",
+    "https://anisearch.com/anime/17626",
+    "https://kitsu.io/anime/46387",
+    "https://myanimelist.net/anime/52872"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ba76643d1bd2ebf4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.456699072356214,
+    "arithmeticGeometricMean": 7.448467895901215,
+    "median": 7.38,
+    "hash": "ba76643d1bd2ebf4",
+    "lastUpdate": "2024-05-07"
+  }
+}

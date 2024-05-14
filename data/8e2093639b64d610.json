@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13099",
+    "https://anilist.co/anime/98566",
+    "https://anime-planet.com/anime/teekyuu-9",
+    "https://anisearch.com/anime/12415",
+    "https://kitsu.io/anime/13342",
+    "https://livechart.me/anime/2665",
+    "https://myanimelist.net/anime/35370",
+    "https://notify.moe/anime/6Gt7hKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8e2093639b64d610",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.776666048237476,
+    "arithmeticGeometricMean": 6.771244354930899,
+    "median": 6.7468460111317246,
+    "hash": "8e2093639b64d610",
+    "lastUpdate": "2024-05-10"
+  }
+}

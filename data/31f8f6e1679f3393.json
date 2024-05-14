@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10379",
+    "https://anilist.co/anime/103429",
+    "https://anime-planet.com/anime/higenashi-gogejabaru",
+    "https://anisearch.com/anime/9315",
+    "https://kitsu.io/anime/9318",
+    "https://myanimelist.net/anime/21833",
+    "https://notify.moe/anime/aZiBpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "31f8f6e1679f3393",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.032437847866419,
+    "arithmeticGeometricMean": 4.989214021344291,
+    "median": 4.94,
+    "hash": "31f8f6e1679f3393",
+    "lastUpdate": "2024-05-08"
+  }
+}

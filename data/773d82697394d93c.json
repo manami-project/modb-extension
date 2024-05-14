@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1623",
+    "https://anilist.co/anime/1381",
+    "https://anime-planet.com/anime/crest-of-the-stars-tokubetsu-hen",
+    "https://anisearch.com/anime/874",
+    "https://kitsu.io/anime/1235",
+    "https://myanimelist.net/anime/1381",
+    "https://notify.moe/anime/5WebcKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "773d82697394d93c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.884203021468328,
+    "arithmeticGeometricMean": 6.864272479382189,
+    "median": 7.12,
+    "hash": "773d82697394d93c",
+    "lastUpdate": "2024-05-08"
+  }
+}

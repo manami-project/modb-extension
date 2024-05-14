@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3296",
+    "https://anilist.co/anime/777",
+    "https://anime-planet.com/anime/hellsing-ultimate",
+    "https://anisearch.com/anime/3391",
+    "https://kitsu.io/anime/695",
+    "https://livechart.me/anime/3598",
+    "https://myanimelist.net/anime/777",
+    "https://notify.moe/anime/KJTAcKmmR"
+  ],
+  "synopsis": {
+    "text": "There exists a covert organization known as Hellsing, a force dedicated to eradicating supernatural threats and preserving humanity's safety in the shadows. Led by the indomitable Integra Wingates Hellsing, this secret British agency employs a formidable army, but their true power lies in their enigmatic vampire ally, Alucard. Despite being a creature of the night himself, Alucard serves Hellsing as their ultimate weapon against the undead.\n\nAlucard's latest recruit, Seras Victoria, defies the norm by surviving a vampire's bite and becoming his apprentice. Together, they face a sinister organization known as Millennium, whose origins can be traced back to a war over half a century ago. As this nefarious group orchestrates a resurgence of vampire activity throughout England, the stakes have never been higher for the Hellsing organization.\n\nThe battle lines are drawn, and the Hellsing organization, under Integra's command, must confront not only the growing vampire menace but also a rival faction from the Vatican. As the world teeters on the brink of chaos, Alucard, Seras, and their allies must navigate the treacherous landscape of friends and foes alike. Will they be able to prevent an all-out war and protect humanity, or will the world descend into darkness and destruction? Join the fight in Hellsing Ultimate, where appearances can be deceiving, and nightmares may just be humanity's last hope.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "312e727bce0e69e3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.328238881816828,
+    "arithmeticGeometricMean": 8.327940099965224,
+    "median": 8.32021897810219,
+    "hash": "312e727bce0e69e3",
+    "lastUpdate": "2024-05-09"
+  }
+}

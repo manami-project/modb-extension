@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/yokomin-your-master",
+    "https://kitsu.io/anime/42192"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "20bc9cf6191d3eef",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.389999999999999,
+    "arithmeticGeometricMean": 6.389999999999999,
+    "median": 6.389999999999999,
+    "hash": "20bc9cf6191d3eef",
+    "lastUpdate": "2024-05-07"
+  }
+}

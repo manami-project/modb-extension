@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4886",
+    "https://anilist.co/anime/4689",
+    "https://anime-planet.com/anime/kaze-no-toori-michi",
+    "https://anisearch.com/anime/6776",
+    "https://kitsu.io/anime/3740",
+    "https://myanimelist.net/anime/4689",
+    "https://notify.moe/anime/V77r5FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "52c2705100e39be9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.138811555791148,
+    "arithmeticGeometricMean": 6.130224288549076,
+    "median": 5.97,
+    "hash": "52c2705100e39be9",
+    "lastUpdate": "2024-05-08"
+  }
+}

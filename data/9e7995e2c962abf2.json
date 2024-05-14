@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4333",
+    "https://anilist.co/anime/4114",
+    "https://anime-planet.com/anime/onegai-my-melody-kuru-kuru-shuffle",
+    "https://anisearch.com/anime/3588",
+    "https://kitsu.io/anime/3474",
+    "https://livechart.me/anime/11067",
+    "https://myanimelist.net/anime/4114",
+    "https://notify.moe/anime/MaNucKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e7995e2c962abf2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.8266853962364165,
+    "arithmeticGeometricMean": 6.796791948682706,
+    "median": 7.196,
+    "hash": "9e7995e2c962abf2",
+    "lastUpdate": "2024-05-09"
+  }
+}

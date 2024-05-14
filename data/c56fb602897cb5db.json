@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2839",
+    "https://anilist.co/anime/411",
+    "https://anime-planet.com/anime/gun-x-sword",
+    "https://anisearch.com/anime/1448",
+    "https://kitsu.io/anime/376",
+    "https://livechart.me/anime/4220",
+    "https://myanimelist.net/anime/411",
+    "https://notify.moe/anime/80e2cFmig"
+  ],
+  "synopsis": {
+    "text": "Man of mystery and vengeance, Van, a swordsman with a unique transforming blade, roams a desolate, lawless world, seeking the elusive Claw Man who brutally murdered his beloved. His solitary journey takes him through the once-thriving city of Evergreen, now besieged by ruthless bandits intent on plundering its riches. Amidst the chaos, Van encounters Wendy, a determined young girl searching for her abducted brother. Despite his initial reluctance to get involved, Van's own vendetta leads him to confront the bandits, uncovering a sinister connection between them and his sworn enemy. As they traverse the perilous landscape, Van and Wendy, now reluctant partners, face a myriad of dangers and enigmatic adversaries, all while drawing closer to the horrifying truth behind the Claw Man's atrocities. Little do they know, their journey will test their resolve and redefine their understanding of vengeance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c56fb602897cb5db",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.339440836940836,
+    "arithmeticGeometricMean": 7.335357529538219,
+    "median": 7.305,
+    "hash": "c56fb602897cb5db",
+    "lastUpdate": "2024-05-09"
+  }
+}

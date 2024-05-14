@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/128371",
+    "https://anime-planet.com/anime/kicell-hitotsu-dake-kaeta",
+    "https://kitsu.io/anime/44646",
+    "https://myanimelist.net/anime/48963"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "05475a17ffad11df",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.933181818181819,
+    "arithmeticGeometricMean": 5.929466693922378,
+    "median": 5.933181818181819,
+    "hash": "05475a17ffad11df",
+    "lastUpdate": "2024-05-07"
+  }
+}

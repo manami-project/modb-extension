@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/8713",
+    "https://anime-planet.com/anime/akai-ito",
+    "https://anisearch.com/anime/8798",
+    "https://kitsu.io/anime/5454",
+    "https://myanimelist.net/anime/8713",
+    "https://notify.moe/anime/KDCipFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f8eccc55d4dda148",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.005452690166975,
+    "arithmeticGeometricMean": 5.989892034074789,
+    "median": 6.198909090909091,
+    "hash": "f8eccc55d4dda148",
+    "lastUpdate": "2024-05-05"
+  }
+}

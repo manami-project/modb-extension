@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/490",
+    "https://myanimelist.net/anime/9316"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ed85378ea42c1a00",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.252244897959184,
+    "arithmeticGeometricMean": 4.211474331040905,
+    "median": 4.252244897959184,
+    "hash": "ed85378ea42c1a00",
+    "lastUpdate": "2024-05-07"
+  }
+}

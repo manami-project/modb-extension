@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2272",
+    "https://anilist.co/anime/8500",
+    "https://anime-planet.com/anime/haguregumo",
+    "https://anisearch.com/anime/227",
+    "https://kitsu.io/anime/5362",
+    "https://livechart.me/anime/9295",
+    "https://myanimelist.net/anime/8500",
+    "https://notify.moe/anime/J60mtFmmR"
+  ],
+  "synopsis": {
+    "text": "Cloud, a retired samurai turned town fool, leads a life of leisure in the waning days of the Tokugawa era in Japan. Known for his laziness, stubbornness, and womanizing ways, he's a stark contrast to his responsible and level-headed 11-year-old son, Shinnosuke. At home, Cloud's wife, Turtle, and their tomboyish daughter, Flower, add to the family's dynamic, often clashing with Cloud's carefree lifestyle. As Shinnosuke grapples with his father's reputation and navigates his own path towards honor, the family's daily life unfolds in a humorous and heartwarming tale, set against the backdrop of a changing Japan.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3e82b6fc4ac708d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.119696793002916,
+    "arithmeticGeometricMean": 6.103198615073463,
+    "median": 6.06,
+    "hash": "f3e82b6fc4ac708d",
+    "lastUpdate": "2024-05-09"
+  }
+}

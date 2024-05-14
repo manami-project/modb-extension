@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18297",
+    "https://anilist.co/anime/171040",
+    "https://anime-planet.com/anime/astro-note",
+    "https://anisearch.com/anime/18901",
+    "https://kitsu.io/anime/48277",
+    "https://livechart.me/anime/12108",
+    "https://myanimelist.net/anime/57391",
+    "https://notify.moe/anime/CsikKbvSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "000454bc041a26ae",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.453060606060606,
+    "arithmeticGeometricMean": 6.432537715407963,
+    "median": 6.465999999999999,
+    "hash": "000454bc041a26ae",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16620",
+    "https://anilist.co/anime/126394",
+    "https://anime-planet.com/anime/swarm",
+    "https://anisearch.com/anime/17469",
+    "https://kitsu.io/anime/46693",
+    "https://myanimelist.net/anime/50439"
+  ],
+  "synopsis": {
+    "text": "As a routine bus journey takes an unexpected turn, a seemingly mundane accident draws in a multitude of factions. Amidst the chaos, a series of shocking revelations begins to unfold, far surpassing the wildest imaginations of those involved. Unbeknownst to humanity, as they probe the depths of their own capabilities, they stand once more on the precipice of evolution, heralding the dawn of an extraordinary epoch.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "21087d71d328bf7c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.321363636363636,
+    "arithmeticGeometricMean": 6.321270082987939,
+    "median": 6.321363636363636,
+    "hash": "21087d71d328bf7c",
+    "lastUpdate": "2024-05-07"
+  }
+}

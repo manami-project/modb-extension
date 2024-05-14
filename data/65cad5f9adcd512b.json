@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8682",
+    "https://anilist.co/anime/107302",
+    "https://anime-planet.com/anime/fuichin-san",
+    "https://anisearch.com/anime/7318",
+    "https://kitsu.io/anime/9263",
+    "https://myanimelist.net/anime/23983",
+    "https://notify.moe/anime/rpuatFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "65cad5f9adcd512b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.6427272727272735,
+    "arithmeticGeometricMean": 5.632630932965905,
+    "median": 5.818181818181818,
+    "hash": "65cad5f9adcd512b",
+    "lastUpdate": "2024-05-08"
+  }
+}

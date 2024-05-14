@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14364",
+    "https://anilist.co/anime/103490",
+    "https://anime-planet.com/anime/sarasoujuu-no-hana-no-iro",
+    "https://anisearch.com/anime/10303",
+    "https://kitsu.io/anime/10503",
+    "https://myanimelist.net/anime/29675",
+    "https://notify.moe/anime/u79UtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "25ecb42b1c9df490",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.9963549783549785,
+    "arithmeticGeometricMean": 4.960038485371546,
+    "median": 4.613636363636363,
+    "hash": "25ecb42b1c9df490",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2634",
+    "https://anilist.co/anime/5075",
+    "https://anime-planet.com/anime/brave-police-j-decker",
+    "https://anisearch.com/anime/3377",
+    "https://kitsu.io/anime/3916",
+    "https://livechart.me/anime/6833",
+    "https://myanimelist.net/anime/5075",
+    "https://notify.moe/anime/a6895Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "90727dc0b49bdc99",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.578091174131989,
+    "arithmeticGeometricMean": 6.5320225529445315,
+    "median": 6.882,
+    "hash": "90727dc0b49bdc99",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2142",
+    "https://anilist.co/anime/143",
+    "https://anime-planet.com/anime/destiny-of-the-shrine-maiden",
+    "https://anisearch.com/anime/1407",
+    "https://kitsu.io/anime/121",
+    "https://livechart.me/anime/4046",
+    "https://myanimelist.net/anime/143",
+    "https://notify.moe/anime/afEt5KmmR"
+  ],
+  "synopsis": {
+    "text": "Academy students Himeko and Chikane, despite their contrasting personalities and backgrounds, share an unbreakable bond. Their peaceful lives in the serene village of Mahoroba take a dramatic turn when they discover they are reincarnated priestesses destined to combat the resurrected god of darkness, Orochi. As Orochi's agents close in, the girls must navigate their newfound powers and the complexities of their deepening relationship while attempting to seal away the malevolent deity once more. The journey is fraught with danger as even those closest to them become potential threats, making survival a precarious endeavor. Set against the backdrop of a prestigious academy and steeped in ancient lore, this tale of friendship, love, and destiny unfolds as two unlikely heroes strive to protect their world from the looming darkness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0608dab61da0a260",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.822263450834879,
+    "arithmeticGeometricMean": 6.818457008995163,
+    "median": 6.767142857142858,
+    "hash": "0608dab61da0a260",
+    "lastUpdate": "2024-05-09"
+  }
+}

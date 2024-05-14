@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127888",
+    "https://anime-planet.com/anime/seaweed-buildings",
+    "https://kitsu.io/anime/44482",
+    "https://myanimelist.net/anime/45616"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "86d309dba635893c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.132303030303031,
+    "arithmeticGeometricMean": 5.094374435479448,
+    "median": 5.06,
+    "hash": "86d309dba635893c",
+    "lastUpdate": "2024-05-07"
+  }
+}

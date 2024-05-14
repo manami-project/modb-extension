@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16450",
+    "https://anilist.co/anime/155911",
+    "https://anime-planet.com/anime/kirakira-kirari",
+    "https://anisearch.com/anime/16784",
+    "https://kitsu.io/anime/46627",
+    "https://livechart.me/anime/11056",
+    "https://myanimelist.net/anime/49844"
+  ],
+  "synopsis": {
+    "text": "As a reserved young artist named Kirari spends her days engrossed in her sketches, her world takes an unexpected turn when she encounters an enigmatic girl. This mysterious new acquaintance encourages Kirari to break free from her comfort zone and explore the world around her. Together, they embark on a journey of discovery, capturing the beauty of their surroundings in their art, and forging a bond that transforms Kirari's solitary passion into a shared experience. This heartwarming tale is one of the four short films produced for the Young Animator Training Project Anime no Tane 2022.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "089790cf7021c204",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.5556935064935065,
+    "arithmeticGeometricMean": 6.551127135099819,
+    "median": 6.43,
+    "hash": "089790cf7021c204",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8239",
+    "https://anime-planet.com/anime/kiki-to-lala-no-hansel-to-gretel",
+    "https://anisearch.com/anime/6869",
+    "https://kitsu.io/anime/8364",
+    "https://myanimelist.net/anime/17483",
+    "https://notify.moe/anime/D0z0tKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce5956e5dbf3de0f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.682326530612245,
+    "arithmeticGeometricMean": 5.6412123743825004,
+    "median": 5.0,
+    "hash": "ce5956e5dbf3de0f",
+    "lastUpdate": "2024-05-08"
+  }
+}

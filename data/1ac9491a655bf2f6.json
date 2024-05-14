@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5293",
+    "https://anilist.co/anime/5997",
+    "https://anime-planet.com/anime/sabu-to-ichi-torimono-hikae",
+    "https://anisearch.com/anime/4350",
+    "https://kitsu.io/anime/4379",
+    "https://livechart.me/anime/11658",
+    "https://myanimelist.net/anime/5997",
+    "https://notify.moe/anime/mcK35Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ac9491a655bf2f6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.817844155844156,
+    "arithmeticGeometricMean": 5.752580583682197,
+    "median": 6.116818181818182,
+    "hash": "1ac9491a655bf2f6",
+    "lastUpdate": "2024-05-09"
+  }
+}

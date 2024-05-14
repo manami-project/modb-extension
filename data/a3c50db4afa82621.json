@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9270",
+    "https://anilist.co/anime/14951",
+    "https://anime-planet.com/anime/wonderful-rush",
+    "https://anisearch.com/anime/7920",
+    "https://kitsu.io/anime/7188",
+    "https://myanimelist.net/anime/14951",
+    "https://notify.moe/anime/9e1dtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a3c50db4afa82621",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.914549042793941,
+    "arithmeticGeometricMean": 6.908833578242192,
+    "median": 7.076923076923077,
+    "hash": "a3c50db4afa82621",
+    "lastUpdate": "2024-05-08"
+  }
+}

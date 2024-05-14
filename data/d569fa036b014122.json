@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3636",
+    "https://anilist.co/anime/3837",
+    "https://anime-planet.com/anime/mashin-eiyuuden-wataru",
+    "https://anisearch.com/anime/2288",
+    "https://kitsu.io/anime/3289",
+    "https://livechart.me/anime/9805",
+    "https://myanimelist.net/anime/3837",
+    "https://notify.moe/anime/BgY_cFimg"
+  ],
+  "synopsis": {
+    "text": "Super Robot adventures await Wataru Ikusabe, a young fourth-grader who stumbles upon an alternate universe after school. In this magical realm of the gods called Soukaizan, Wataru is entrusted with a monumental task: to save the world from the tyranny of the wicked King Doakudar. To achieve this, he transforms a clay sculpture into a small, semi-autonomous Super Robot named Ryujinmaru. As the pilot of this comical robot, Wataru embarks on a mission to defeat King Doakudar, who has seized control of Mt. Soukai and drained the colors from the rainbow in the sky. Joined by the youthful Shinobu clan leader Himiko, the rugged Shibaraku, and the feathered spy Kuruma, Wataru must scale the mountain and vanquish the forces of evil to restore the vibrant hues to the sky.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d569fa036b014122",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.354627617280678,
+    "arithmeticGeometricMean": 6.313071169570803,
+    "median": 6.636363636363637,
+    "hash": "d569fa036b014122",
+    "lastUpdate": "2024-05-09"
+  }
+}

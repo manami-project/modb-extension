@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6258",
+    "https://anilist.co/anime/5678",
+    "https://anime-planet.com/anime/kobato",
+    "https://anisearch.com/anime/5183",
+    "https://kitsu.io/anime/4239",
+    "https://livechart.me/anime/3807",
+    "https://myanimelist.net/anime/5678",
+    "https://notify.moe/anime/ph8CcKimg"
+  ],
+  "synopsis": {
+    "text": "However, she must not fall in love with a particular boy she works with and whose heart she must heal.\n\nIn the heartwarming world of Kobato, we meet our cheerful and innocent protagonist, Kobato Hanato, who finds herself on a mission of love and healing. Hailing from an unknown realm, Kobato must fill a mystical bottle with the healed fragments of broken hearts, known as 'konpeito.' The stakes are high, as her most cherished wish to journey to a certain place hinges on the success of her mission.\n\nGuided by her wise yet cantankerous stuffed animal companion, Ioryogi, Kobato embarks on a quest to mend the hearts of those in distress. From family disputes to romantic entanglements, no challenge is too great for Kobato's boundless optimism and empathy. As she touches the lives of those around her, she collects the precious konpeito, inching ever closer to her goal.\n\nBut there's a catch - Kobato must not fall in love with anyone whose heart she heals. This becomes increasingly difficult as she forms deep connections with the people she helps. With only one year to complete her mission, Kobato must navigate the complexities of love and friendship while remaining focused on her ultimate objective.\n\nJoin Kobato on her heartfelt journey, filled with laughter, tears, and the magical power of love. Will she succeed in filling her bottle and realizing her dream, or will the challenges of the human heart prove too much for her to handle? Only time will tell in this enchanting tale of love, growth, and the power of healing.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "352cc050cda79f9f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.789116883116883,
+    "arithmeticGeometricMean": 7.788108285290625,
+    "median": 7.83609090909091,
+    "hash": "352cc050cda79f9f",
+    "lastUpdate": "2024-05-09"
+  }
+}

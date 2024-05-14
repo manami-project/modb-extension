@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15479",
+    "https://anilist.co/anime/116979",
+    "https://anime-planet.com/anime/aikatsu-on-parade-2020",
+    "https://anisearch.com/anime/15139",
+    "https://kitsu.io/anime/43104",
+    "https://livechart.me/anime/9824",
+    "https://myanimelist.net/anime/41555",
+    "https://notify.moe/anime/D4QJW7jZg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c4334b10e1e9980e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.7537341637953885,
+    "arithmeticGeometricMean": 6.746577319885269,
+    "median": 6.806,
+    "hash": "c4334b10e1e9980e",
+    "lastUpdate": "2024-05-08"
+  }
+}

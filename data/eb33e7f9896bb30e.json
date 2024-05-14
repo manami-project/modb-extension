@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7336",
+    "https://anilist.co/anime/9303",
+    "https://anime-planet.com/anime/noels-fantastic-trip",
+    "https://anisearch.com/anime/6045",
+    "https://kitsu.io/anime/5661",
+    "https://myanimelist.net/anime/9303",
+    "https://notify.moe/anime/xf_WpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eb33e7f9896bb30e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.924896103896104,
+    "arithmeticGeometricMean": 4.877110185008013,
+    "median": 4.954545454545455,
+    "hash": "eb33e7f9896bb30e",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4071",
+    "https://anilist.co/anime/4940",
+    "https://anime-planet.com/anime/captain-kuppa",
+    "https://anisearch.com/anime/512",
+    "https://kitsu.io/anime/3861",
+    "https://myanimelist.net/anime/4940",
+    "https://notify.moe/anime/HG195KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec794c065f107e5d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.8375417439703154,
+    "arithmeticGeometricMean": 5.817681074541984,
+    "median": 5.845083487940631,
+    "hash": "ec794c065f107e5d",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/little-astro-boy",
+    "https://kitsu.io/anime/42541",
+    "https://myanimelist.net/anime/40377"
+  ],
+  "synopsis": {
+    "text": "Professor O'Shay's latest creation, Astro Boy, is a cheerful, adventurous, and powerful robot disguised as an ordinary 5-year-old. Living in a futuristic town where robots and humans coexist, Astro Boy learns about the world around him alongside his robot parents and human friends. With his ability to fly and his incredible strength, Astro Boy often finds himself in thrilling escapades, but his innocent and curious nature sometimes leads him to make mistakes.\n\nAstro Boy's adventures are frequently interrupted by the nefarious plans of Hamegg, a mansion-dwelling criminal who desires Astro Boy's abilities. Along with his partners in crime, the cunning scientist Dr. Flau and the purple gorilla robot Gora, Hamegg attempts to outwit, outshine, or even collaborate with Astro Boy and his friends. Despite the challenges they face, Astro Boy and his companions' brave exploits ultimately teach them valuable lessons about the world's wonders and the importance of friendship.\n\nIn this 11-minute episode series aimed at preschool children, Astro Boy's heartwarming and exciting adventures will captivate young audiences as they follow the robot boy's journey through a world filled with both triumphs and learning experiences.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85f2a35ffc3e246b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.167,
+    "arithmeticGeometricMean": 6.162922973315763,
+    "median": 6.167,
+    "hash": "85f2a35ffc3e246b",
+    "lastUpdate": "2024-05-07"
+  }
+}

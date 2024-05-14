@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9612",
+    "https://anime-planet.com/anime/hong-gildong-janggun",
+    "https://anisearch.com/anime/8652",
+    "https://myanimelist.net/anime/43703"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6d5c654b458f2b8a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.694897959183673,
+    "arithmeticGeometricMean": 4.692656591929749,
+    "median": 4.694897959183673,
+    "hash": "6d5c654b458f2b8a",
+    "lastUpdate": "2024-05-08"
+  }
+}

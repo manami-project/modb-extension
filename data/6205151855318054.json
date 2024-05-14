@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/612",
+    "https://anilist.co/anime/17",
+    "https://anime-planet.com/anime/hungry-heart-wild-striker",
+    "https://anisearch.com/anime/1071",
+    "https://kitsu.io/anime/8",
+    "https://livechart.me/anime/6720",
+    "https://myanimelist.net/anime/17",
+    "https://notify.moe/anime/gFmp5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Jyoyo Akanegaoko High School's newest freshman, Kyousuke Kanou, once held a deep passion for soccer, but his love for the game faded under the constant weight of comparison to his older brother, a renowned midfielder for AC Milan. After years of living in his brother's shadow, Kyousuke vowed never to play soccer again. However, fate has other plans when a chance encounter with the girls' soccer team captain, Miki Tsujiwaki, and the boys' team manager, Mori Kazuto, leads him to coach the girls' team. As Kyousuke reconnects with his love for the game, he finds himself drawn back to the field, joining the boys' team with the ambition to become the world's best striker. Alongside new friends and teammates, Kyousuke embarks on a journey to step out of his brother's shadow and lead his team to victory in the national tournament, reigniting his dream to become a professional soccer player.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6205151855318054",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.47570547309833,
+    "arithmeticGeometricMean": 7.470165397844204,
+    "median": 7.594,
+    "hash": "6205151855318054",
+    "lastUpdate": "2024-05-09"
+  }
+}

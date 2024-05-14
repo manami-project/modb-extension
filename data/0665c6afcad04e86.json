@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14123",
+    "https://anime-planet.com/anime/gaikan-chiba",
+    "https://anisearch.com/anime/13665",
+    "https://kitsu.io/anime/41858",
+    "https://myanimelist.net/anime/37906",
+    "https://notify.moe/anime/4PYDlOAmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0665c6afcad04e86",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.676734693877552,
+    "arithmeticGeometricMean": 5.646148008564101,
+    "median": 5.57,
+    "hash": "0665c6afcad04e86",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7809",
+    "https://anime-planet.com/anime/ahiru-no-pekkle-no-hihou-wo-sagase",
+    "https://anisearch.com/anime/6434",
+    "https://kitsu.io/anime/8819",
+    "https://myanimelist.net/anime/22621",
+    "https://notify.moe/anime/TJWbpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "95930ff4883def7e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.57770612244898,
+    "arithmeticGeometricMean": 5.534081668801548,
+    "median": 5.0,
+    "hash": "95930ff4883def7e",
+    "lastUpdate": "2024-05-08"
+  }
+}

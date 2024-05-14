@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15076",
+    "https://anilist.co/anime/114234",
+    "https://anime-planet.com/anime/egg-car",
+    "https://anisearch.com/anime/14651",
+    "https://kitsu.io/anime/42595",
+    "https://livechart.me/anime/9590",
+    "https://myanimelist.net/anime/40368",
+    "https://notify.moe/anime/0SQrlqhWR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f70cfaed7ac6db15",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.0106679035250465,
+    "arithmeticGeometricMean": 3.9595428390877334,
+    "median": 4.0106679035250465,
+    "hash": "f70cfaed7ac6db15",
+    "lastUpdate": "2024-05-09"
+  }
+}

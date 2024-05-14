@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5434",
+    "https://anilist.co/anime/3153",
+    "https://anime-planet.com/anime/gatchaman-the-movie",
+    "https://anisearch.com/anime/4464",
+    "https://kitsu.io/anime/2826",
+    "https://livechart.me/anime/8943",
+    "https://myanimelist.net/anime/3153",
+    "https://notify.moe/anime/Qfzw5KiiR"
+  ],
+  "synopsis": {
+    "text": "Berg Katse, a menacing mutant, leads the international terrorist group, GALACTOR, in a ruthless assault on Earth, deploying legions of minions and colossal weapons of destruction. But hope is not lost! The Science Ninja Team, equipped with extraordinary combat skills and the formidable God Phoenix spaceship, prepares to counterattack. Ken the Eagle, Joe the Condor, Jun the Swan, Jinpei the Swallow, and Ryu the Owl, under the guidance of their leader, Dr. Nambu, are ready to save humanity. Witness these five heroic commandos defend our world with their powerful flying kicks in this thrilling theatrical adaptation of the original TV series' first season!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "056a870178573a79",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.817208057248874,
+    "arithmeticGeometricMean": 5.7848373165080575,
+    "median": 6.0,
+    "hash": "056a870178573a79",
+    "lastUpdate": "2024-05-09"
+  }
+}

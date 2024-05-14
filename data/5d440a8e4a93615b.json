@@ -1,0 +1,28 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17052",
+    "https://anilist.co/anime/137728",
+    "https://anime-planet.com/anime/fights-break-sphere-5th-season",
+    "https://anisearch.com/anime/18455",
+    "https://anisearch.com/anime/19239",
+    "https://kitsu.io/anime/45946",
+    "https://livechart.me/anime/11682",
+    "https://myanimelist.net/anime/51039",
+    "https://notify.moe/anime/4W3NzekVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5d440a8e4a93615b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.291707924728334,
+    "arithmeticGeometricMean": 8.275016205358034,
+    "median": 8.13,
+    "hash": "5d440a8e4a93615b",
+    "lastUpdate": "2024-05-13"
+  }
+}

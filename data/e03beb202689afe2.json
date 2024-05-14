@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13707",
+    "https://anilist.co/anime/103785",
+    "https://anime-planet.com/anime/on-happiness-road",
+    "https://anisearch.com/anime/13174",
+    "https://kitsu.io/anime/41228",
+    "https://myanimelist.net/anime/51992",
+    "https://notify.moe/anime/4GB1viMmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e03beb202689afe2",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.636768089053803,
+    "arithmeticGeometricMean": 6.614727267897777,
+    "median": 6.920454545454545,
+    "hash": "e03beb202689afe2",
+    "lastUpdate": "2024-05-07"
+  }
+}

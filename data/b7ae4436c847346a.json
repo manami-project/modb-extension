@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13611",
+    "https://anilist.co/anime/100656",
+    "https://anime-planet.com/anime/sorcery-in-the-big-city",
+    "https://anisearch.com/anime/13072",
+    "https://kitsu.io/anime/14041",
+    "https://livechart.me/anime/2994",
+    "https://myanimelist.net/anime/36861",
+    "https://notify.moe/anime/RUdH2Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b7ae4436c847346a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.016599169537946,
+    "arithmeticGeometricMean": 6.012528742815792,
+    "median": 5.92,
+    "hash": "b7ae4436c847346a",
+    "lastUpdate": "2024-05-09"
+  }
+}

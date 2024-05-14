@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11562",
+    "https://anilist.co/anime/102711",
+    "https://anime-planet.com/anime/embah",
+    "https://anisearch.com/anime/11622",
+    "https://kitsu.io/anime/10563",
+    "https://livechart.me/anime/8925",
+    "https://myanimelist.net/anime/29954",
+    "https://notify.moe/anime/1liwpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "58dd9bfd07c5e808",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.073503313013517,
+    "arithmeticGeometricMean": 4.007308411891699,
+    "median": 3.96,
+    "hash": "58dd9bfd07c5e808",
+    "lastUpdate": "2024-05-09"
+  }
+}

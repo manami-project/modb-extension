@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13878",
+    "https://anilist.co/anime/102786",
+    "https://anime-planet.com/anime/otousan-wa-ai-no-hito",
+    "https://kitsu.io/anime/13038",
+    "https://myanimelist.net/anime/34117",
+    "https://notify.moe/anime/KeqZ2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aeffd49d46aa9eaf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.516404040404041,
+    "arithmeticGeometricMean": 6.499045630682448,
+    "median": 6.487727272727272,
+    "hash": "aeffd49d46aa9eaf",
+    "lastUpdate": "2024-05-07"
+  }
+}

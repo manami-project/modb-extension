@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13467",
+    "https://anilist.co/anime/102165",
+    "https://anime-planet.com/anime/fighter-of-the-destiny-2nd-season",
+    "https://anisearch.com/anime/13122",
+    "https://kitsu.io/anime/41196",
+    "https://livechart.me/anime/8190",
+    "https://myanimelist.net/anime/37184",
+    "https://notify.moe/anime/IrHyKiGiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "56f110bad0e99f7a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.062922873045322,
+    "arithmeticGeometricMean": 7.057256567972885,
+    "median": 6.92,
+    "hash": "56f110bad0e99f7a",
+    "lastUpdate": "2024-05-10"
+  }
+}

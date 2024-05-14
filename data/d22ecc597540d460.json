@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13135",
+    "https://anilist.co/anime/104575",
+    "https://anime-planet.com/anime/lyu-lyu-bungaku-shounen-no-yuuutsu",
+    "https://anisearch.com/anime/12111",
+    "https://kitsu.io/anime/12765",
+    "https://myanimelist.net/anime/32760",
+    "https://notify.moe/anime/UCjihFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d22ecc597540d460",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.378143475572046,
+    "arithmeticGeometricMean": 5.366154355664274,
+    "median": 5.431818181818182,
+    "hash": "d22ecc597540d460",
+    "lastUpdate": "2024-05-07"
+  }
+}

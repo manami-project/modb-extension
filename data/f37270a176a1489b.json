@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10077",
+    "https://anilist.co/anime/20476",
+    "https://anime-planet.com/anime/goannai-shimasu-another-world-e",
+    "https://anisearch.com/anime/8986",
+    "https://kitsu.io/anime/9831",
+    "https://myanimelist.net/anime/20703",
+    "https://notify.moe/anime/-0RPpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f37270a176a1489b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0516964749536175,
+    "arithmeticGeometricMean": 5.016257167127623,
+    "median": 4.272727272727273,
+    "hash": "f37270a176a1489b",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15431",
+    "https://anilist.co/anime/116415",
+    "https://anime-planet.com/anime/bakugan-armored-alliance",
+    "https://anisearch.com/anime/15061",
+    "https://kitsu.io/anime/43043",
+    "https://livechart.me/anime/9830",
+    "https://myanimelist.net/anime/41405"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eada71d3b13c2676",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.574469016697588,
+    "arithmeticGeometricMean": 5.559167684134561,
+    "median": 5.408163265306122,
+    "hash": "eada71d3b13c2676",
+    "lastUpdate": "2024-05-08"
+  }
+}

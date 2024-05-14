@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15646",
+    "https://anilist.co/anime/121962",
+    "https://anime-planet.com/anime/cardfight-vanguard-overdress",
+    "https://anisearch.com/anime/15428",
+    "https://kitsu.io/anime/44181",
+    "https://livechart.me/anime/10077",
+    "https://myanimelist.net/anime/42516",
+    "https://notify.moe/anime/KUINXoBGR"
+  ],
+  "synopsis": {
+    "text": "Dreamland Wonder Hill, an enchanting nighttime amusement park in Kanazawa, Kaga Province, becomes the unexpected haven for Yu-yu, a sensitive 15-year-old junior high school student. Yu-yu, burdened by his inability to decline others' requests, finds himself constantly coerced into his sisters' eccentric hobbies. Overwhelmed, Yu-yu runs away from home, only to be rescued by the kind-hearted Megumi Okura.\n\nMegumi introduces Yu-yu to her group of friends, known as Team Blackout, who gather at Wonder Hill every night to engage in intense battles of the card game, Vanguard. Among the team members are Zakusa Ishikame, Tomari Seto, and the formidable leader, Danji Momoyama. Tonight, a high-stakes battle ensues as Danji defends the team's flag against the enigmatic and powerful Tohya Ebata.\n\nAs Yu-yu watches the riveting card fight unfold, he is transported into a world of vivid imagery, captivated by the allure of Vanguard. With newfound friends and a fascinating universe to explore, Yu-yu embarks on a thrilling journey filled with adventure, camaraderie, and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "64e75fb2fe2bdd72",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.922684601113173,
+    "arithmeticGeometricMean": 5.888282068781226,
+    "median": 6.0604545454545455,
+    "hash": "64e75fb2fe2bdd72",
+    "lastUpdate": "2024-05-09"
+  }
+}

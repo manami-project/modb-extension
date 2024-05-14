@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10317",
+    "https://anilist.co/anime/12917",
+    "https://anime-planet.com/anime/daisy-a-hen-into-the-wild",
+    "https://anisearch.com/anime/9463",
+    "https://kitsu.io/anime/6847",
+    "https://livechart.me/anime/7685",
+    "https://myanimelist.net/anime/12917",
+    "https://notify.moe/anime/fPgDpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5cb492b6e891cb2b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.41558335542009,
+    "arithmeticGeometricMean": 7.4094553014578075,
+    "median": 7.34,
+    "hash": "5cb492b6e891cb2b",
+    "lastUpdate": "2024-05-09"
+  }
+}

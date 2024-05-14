@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/151511",
+    "https://anime-planet.com/anime/xianwu-heaven",
+    "https://anisearch.com/anime/18018",
+    "https://kitsu.io/anime/47167",
+    "https://myanimelist.net/anime/52221"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "02e2394b9bd8ef91",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.50690909090909,
+    "arithmeticGeometricMean": 7.436840451211309,
+    "median": 6.908818181818181,
+    "hash": "02e2394b9bd8ef91",
+    "lastUpdate": "2024-05-07"
+  }
+}

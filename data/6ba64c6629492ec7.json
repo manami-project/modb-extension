@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14035",
+    "https://anime-planet.com/anime/tico-dong-ji-pian",
+    "https://anisearch.com/anime/15771",
+    "https://myanimelist.net/anime/39189",
+    "https://myanimelist.net/anime/45787"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ba64c6629492ec7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "6ba64c6629492ec7",
+    "lastUpdate": "2024-05-11"
+  }
+}

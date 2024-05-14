@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14680",
+    "https://anilist.co/anime/110633",
+    "https://anime-planet.com/anime/pokemon-eevee-and-colorful-friends",
+    "https://anisearch.com/anime/14754",
+    "https://kitsu.io/anime/40791",
+    "https://myanimelist.net/anime/35551",
+    "https://notify.moe/anime/YPZdhFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "97632bfa5311fe42",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.3527641134375825,
+    "arithmeticGeometricMean": 6.345356255050052,
+    "median": 6.326530612244898,
+    "hash": "97632bfa5311fe42",
+    "lastUpdate": "2024-05-08"
+  }
+}

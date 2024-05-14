@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2526",
+    "https://anime-planet.com/anime/curry-no-kuni-no-coburoux",
+    "https://anisearch.com/anime/1537",
+    "https://kitsu.io/anime/40844",
+    "https://myanimelist.net/anime/35817",
+    "https://notify.moe/anime/J4Od2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "02438a38d17c414c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.886489795918367,
+    "arithmeticGeometricMean": 5.8488616334351375,
+    "median": 5.886489795918367,
+    "hash": "02438a38d17c414c",
+    "lastUpdate": "2024-05-08"
+  }
+}

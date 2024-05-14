@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/817",
+    "https://anilist.co/anime/2016",
+    "https://anime-planet.com/anime/mermaid-forest",
+    "https://anisearch.com/anime/2785",
+    "https://kitsu.io/anime/1815",
+    "https://myanimelist.net/anime/2016",
+    "https://notify.moe/anime/bO5L5FmiR"
+  ],
+  "synopsis": {
+    "text": "And so begins the enigmatic tale of Mermaid Forest, where Mana and Yuta find themselves entwined in the cryptic world of the Kannagi Family. Having gained immortality by consuming mermaid flesh, the pair seeks a way to revert to their mortal selves. Their journey leads them to the last remaining members of the Kannagi clan: an elderly woman and a young girl with hair as white as freshly fallen snow.\n\nThe duo's quest for normalcy intertwines with Towa Kannagi's own pursuit of complete immortality. Fifty-five years ago, Towa received mermaid blood from her sister, Sawa, to cure a deadly illness. However, the transformation left her with a beastly arm and snow-white hair, fueling her obsession to restore her original form.\n\nWhen Mana is mistaken for dead and brought to Towa for a blood transfusion, Yuta must race against time to save his friend. As Towa's relentless search for the legendary mermaid flesh wreaks havoc, the secrets of Mermaid Forest and the Kannagi clan slowly begin to unravel. Will Yuta and Mana finally find the key to regaining their mortality, or will they become permanent players in this mysterious game of immortality?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee487f136119c547",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.5349541478929245,
+    "arithmeticGeometricMean": 6.530554020770209,
+    "median": 6.55,
+    "hash": "ee487f136119c547",
+    "lastUpdate": "2024-05-08"
+  }
+}

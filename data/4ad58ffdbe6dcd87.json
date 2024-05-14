@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140584",
+    "https://anime-planet.com/anime/kimi-to-rendezvous",
+    "https://anisearch.com/anime/16338"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ad58ffdbe6dcd87",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.082374768089053,
+    "arithmeticGeometricMean": 5.075550014966007,
+    "median": 5.082374768089053,
+    "hash": "4ad58ffdbe6dcd87",
+    "lastUpdate": "2024-05-07"
+  }
+}

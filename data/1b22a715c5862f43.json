@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/698",
+    "https://anilist.co/anime/2499",
+    "https://anime-planet.com/anime/slam-dunk-movie-4",
+    "https://anisearch.com/anime/2942",
+    "https://kitsu.io/anime/2268",
+    "https://livechart.me/anime/5690",
+    "https://myanimelist.net/anime/2499",
+    "https://notify.moe/anime/y7eEcKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1b22a715c5862f43",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.5891692949907235,
+    "arithmeticGeometricMean": 7.582626251888101,
+    "median": 7.611000000000001,
+    "hash": "1b22a715c5862f43",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13825",
+    "https://anime-planet.com/anime/turning-mecard-w-movie-black-mirror-ui-buhwal",
+    "https://anisearch.com/anime/12178",
+    "https://kitsu.io/anime/40584",
+    "https://myanimelist.net/anime/35545",
+    "https://notify.moe/anime/70OD2Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4b376d1562a59919",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.790530612244898,
+    "arithmeticGeometricMean": 4.53539289552109,
+    "median": 4.790530612244898,
+    "hash": "4b376d1562a59919",
+    "lastUpdate": "2024-05-08"
+  }
+}

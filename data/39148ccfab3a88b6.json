@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4409",
+    "https://anilist.co/anime/2805",
+    "https://anime-planet.com/anime/onegai-samia-don",
+    "https://anisearch.com/anime/3693",
+    "https://kitsu.io/anime/2561",
+    "https://livechart.me/anime/9170",
+    "https://myanimelist.net/anime/2805",
+    "https://notify.moe/anime/M3MU5Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "39148ccfab3a88b6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.657800247371676,
+    "arithmeticGeometricMean": 6.637041940456108,
+    "median": 6.907,
+    "hash": "39148ccfab3a88b6",
+    "lastUpdate": "2024-05-09"
+  }
+}

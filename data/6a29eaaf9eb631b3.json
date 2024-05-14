@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14668",
+    "https://anilist.co/anime/102563",
+    "https://anime-planet.com/anime/through-the-windows",
+    "https://anisearch.com/anime/14998",
+    "https://kitsu.io/anime/13741",
+    "https://myanimelist.net/anime/34907",
+    "https://notify.moe/anime/JQiI2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6a29eaaf9eb631b3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.334276702888948,
+    "arithmeticGeometricMean": 5.2766208159126275,
+    "median": 5.59,
+    "hash": "6a29eaaf9eb631b3",
+    "lastUpdate": "2024-05-08"
+  }
+}

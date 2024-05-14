@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7869",
+    "https://anime-planet.com/anime/patty-jimmy-no-kimikoso-superstar",
+    "https://anisearch.com/anime/13315",
+    "https://kitsu.io/anime/9922",
+    "https://myanimelist.net/anime/22609",
+    "https://notify.moe/anime/1XdPtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7b20f361b5a805ff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.131395918367347,
+    "arithmeticGeometricMean": 5.087447749600964,
+    "median": 4.5,
+    "hash": "7b20f361b5a805ff",
+    "lastUpdate": "2024-05-07"
+  }
+}

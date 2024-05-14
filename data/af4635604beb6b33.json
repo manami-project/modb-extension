@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13289",
+    "https://anilist.co/anime/115191",
+    "https://anime-planet.com/anime/yura-yura-suizokukan",
+    "https://anisearch.com/anime/12707",
+    "https://kitsu.io/anime/14178",
+    "https://myanimelist.net/anime/35957",
+    "https://notify.moe/anime/o59N2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af4635604beb6b33",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.859692022263451,
+    "arithmeticGeometricMean": 5.812143483568798,
+    "median": 6.326530612244898,
+    "hash": "af4635604beb6b33",
+    "lastUpdate": "2024-05-08"
+  }
+}

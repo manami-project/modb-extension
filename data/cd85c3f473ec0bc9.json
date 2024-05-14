@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9043",
+    "https://anilist.co/anime/14467",
+    "https://anime-planet.com/anime/k-anime",
+    "https://anisearch.com/anime/7651",
+    "https://kitsu.io/anime/7125",
+    "https://livechart.me/anime/948",
+    "https://myanimelist.net/anime/14467",
+    "https://notify.moe/anime/EDSOtKmig"
+  ],
+  "synopsis": {
+    "text": "On an island off the coast of a technologically advanced Shizume City lies Ashinaka High School, where Yashiro Isana, a seemingly ordinary student, spends his days lounging on rooftops with his cat, Neko. Known for his laid-back demeanor and forgetfulness, Yashiro's life takes a drastic turn when a video surfaces implicating him in the murder of a prominent Red Clansman. The suspect in the video bears an uncanny resemblance to Yashiro, who is now targeted by the vengeful Red Clansmen of HOMRA and the peacekeeping Blue Clansmen.\n\nIn this alternate world, charismatic individuals known as Kings wield extraordinary powers and lead their respective clans. With the recent murder linked to Yashiro, the supposed Colorless King, he becomes the target of Kuroh Yatogami, a skilled swordsman and former vassal of the previous Colorless King, who is determined to eliminate any unworthy successors.\n\nAs Yashiro's life spirals into chaos, he encounters a mysterious naked girl named Neko, who possesses magical abilities. With no recollection of the murder or any connection to the Kings, Yashiro must navigate the complex web of power struggles, prove his innocence, and unravel the truth behind his mysterious past. With his life on the line, Yashiro must confront the Kings and their clans, as the fate of the world hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cd85c3f473ec0bc9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.415318019120967,
+    "arithmeticGeometricMean": 7.41301511857895,
+    "median": 7.456836734693876,
+    "hash": "cd85c3f473ec0bc9",
+    "lastUpdate": "2024-05-09"
+  }
+}

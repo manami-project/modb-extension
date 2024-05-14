@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2293",
+    "https://anilist.co/anime/2557",
+    "https://anime-planet.com/anime/the-trapp-family-story",
+    "https://anisearch.com/anime/866",
+    "https://kitsu.io/anime/2322",
+    "https://livechart.me/anime/6959",
+    "https://myanimelist.net/anime/2557",
+    "https://notify.moe/anime/nRnscKiig"
+  ],
+  "synopsis": {
+    "text": "Will ful and spirited Maria embarks on a journey to Salzburg, Austria, with aspirations to become a nun. However, her unconventional demeanor clashes with the serene and disciplined life of the convent. In search of a solution, the nuns send Maria to the von Trapp household as a governess to the widowed Captain's seven unruly children.\n\nAs Maria navigates the challenges posed by the strict Captain, the conservative housekeeper, and the mischievous children, she introduces music into their lives. The power of music, coupled with Maria's warm and friendly nature, soon transforms the von Trapp family, and she finds herself winning over their hearts. The Captain, initially engaged to another, realizes Maria's profound impact on his family and begins to develop feelings for her.\n\nMaria's musical talents and the children's newfound love for singing lead them to perform concerts in Vienna. Embracing this life filled with music and love, Maria and the Captain marry, forming a beautiful family. However, their happiness is threatened by the looming shadow of Hitler's regime. To protect their family and escape the treacherous grasp of some Nazi acquaintances, they decide to flee to America. Will they successfully overcome the challenges and start a new life in the land of opportunity?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c5d63bfd09d76f0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.177418676561534,
+    "arithmeticGeometricMean": 7.16307167233681,
+    "median": 7.333333333333333,
+    "hash": "1c5d63bfd09d76f0",
+    "lastUpdate": "2024-05-10"
+  }
+}

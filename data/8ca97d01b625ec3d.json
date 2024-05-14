@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5157",
+    "https://anilist.co/anime/3073",
+    "https://anime-planet.com/anime/robby-to-kerobby",
+    "https://anisearch.com/anime/4183",
+    "https://kitsu.io/anime/2771",
+    "https://myanimelist.net/anime/3073",
+    "https://notify.moe/anime/REXUcKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8ca97d01b625ec3d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.723401669758813,
+    "arithmeticGeometricMean": 4.598313003459213,
+    "median": 4.727272727272727,
+    "hash": "8ca97d01b625ec3d",
+    "lastUpdate": "2024-05-08"
+  }
+}

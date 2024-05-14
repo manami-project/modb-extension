@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3656",
+    "https://anilist.co/anime/710",
+    "https://anime-planet.com/anime/rec",
+    "https://anisearch.com/anime/1681",
+    "https://kitsu.io/anime/644",
+    "https://livechart.me/anime/3869",
+    "https://myanimelist.net/anime/710",
+    "https://notify.moe/anime/8XHA5KimR"
+  ],
+  "synopsis": {
+    "text": "Mere moments away from discarding his movie tickets after being stood up, marketing employee Fumihiko Matsumaru's life takes an unexpected turn when a lively aspiring voice actress, Aka Onda, steps in and requests to join him. As the night unfolds, the pair discover they share the same neighborhood, only for fate to intervene once more when Aka's apartment is engulfed in flames. With no other option, Fumihiko offers her shelter, leading to a complex living arrangement that blurs the lines between friendship and romance.\n\nAs they strive to conceal their newfound connection from the world, the two find their professional lives becoming increasingly intertwined. Aka secures the role of voicing the mascot designed by Fumihiko for his company's latest product, further complicating their situation. Together, they navigate the challenges of their respective careers while attempting to maintain their secret cohabitation, forging a bond that transcends the boundaries of a typical friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a95459104147f87d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.413872395833334,
+    "arithmeticGeometricMean": 7.412095501701692,
+    "median": 7.356999999999999,
+    "hash": "a95459104147f87d",
+    "lastUpdate": "2024-05-09"
+  }
+}

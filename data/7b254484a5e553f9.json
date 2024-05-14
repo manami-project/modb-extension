@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16420",
+    "https://anilist.co/anime/138060",
+    "https://anime-planet.com/anime/star-wars-visions",
+    "https://anisearch.com/anime/15813",
+    "https://kitsu.io/anime/43804",
+    "https://livechart.me/anime/10679",
+    "https://myanimelist.net/anime/49357",
+    "https://notify.moe/anime/ChnrRaMng"
+  ],
+  "synopsis": {
+    "text": "Studio giants from the anime world reimagine the Star Wars universe in \"Star Wars: Visions,\" an anthology of animated short films that showcases diverse cultural perspectives and unique storytelling.\n\nIn \"The Duel,\" a lone Ronin and his Druid companion defend a village from evil invaders, but the Ronin's dark secret could jeopardize their mission. \"Tatooine Rhapsody\" follows a young Padawan-turned-musician who must prove his worth to Jabba the Hutt and Boba Fett to save his band and pursue their dream of becoming the best in the galaxy.\n\n\"The Twins\" tells the story of siblings Karre and Am, who were born to serve the Dark Side. But when Karre decides to switch allegiances, he must escape his sister's wrath with the help of a druid and a powerful kyber crystal. In \"The Village Bride,\" a young Padawan and her master protect a village from bandits who threaten to take the village elder hostage.\n\n\"The Ninth Jedi\" sees a new generation of Jedi emerge after a war that nearly wiped them out. Markgrave Juro summons seven masterless Jedi to his planet to give them lightsabers, but can they trust him? In \"T0-B1,\" a robot boy created by a scientist dreams of becoming a Jedi and exploring the world, but his adventures take an unexpected turn.\n\n\"The Elder\" follows a Jedi Master and his Padawan as they investigate a disturbance in the Force on a remote planet. In \"Lop and Ochou,\" an orphaned girl finds a new family, but when the Empire threatens their way of life, she must make a difficult decision. Finally, in \"Akakiri,\" a Jedi teams up with an",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7b254484a5e553f9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.187836270871985,
+    "arithmeticGeometricMean": 7.183759861586876,
+    "median": 7.213163265306122,
+    "hash": "7b254484a5e553f9",
+    "lastUpdate": "2024-05-10"
+  }
+}

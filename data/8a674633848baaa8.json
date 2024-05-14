@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/honkai-star-rail-a-flash",
+    "https://anisearch.com/anime/18413",
+    "https://livechart.me/anime/12020"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a674633848baaa8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.733959183673468,
+    "arithmeticGeometricMean": 7.733835087549181,
+    "median": 7.733959183673468,
+    "hash": "8a674633848baaa8",
+    "lastUpdate": "2024-05-09"
+  }
+}

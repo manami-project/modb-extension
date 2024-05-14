@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17958",
+    "https://anilist.co/anime/163205",
+    "https://anime-planet.com/anime/malevolent-spirits-mononogatari-part-ii",
+    "https://anisearch.com/anime/18322",
+    "https://kitsu.io/anime/47269",
+    "https://livechart.me/anime/11914",
+    "https://myanimelist.net/anime/54883",
+    "https://notify.moe/anime/-xZgGLBVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7fc5b338f31c1ad",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.436026437847866,
+    "arithmeticGeometricMean": 7.4335849086231205,
+    "median": 7.450742115027829,
+    "hash": "d7fc5b338f31c1ad",
+    "lastUpdate": "2024-05-09"
+  }
+}

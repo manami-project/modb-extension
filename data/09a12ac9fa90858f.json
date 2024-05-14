@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10255",
+    "https://anilist.co/anime/20516",
+    "https://anime-planet.com/anime/go-go-575",
+    "https://anisearch.com/anime/9260",
+    "https://kitsu.io/anime/8092",
+    "https://livechart.me/anime/301",
+    "https://myanimelist.net/anime/21267",
+    "https://notify.moe/anime/Px_hpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09a12ac9fa90858f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.779556019377448,
+    "arithmeticGeometricMean": 5.758834221039903,
+    "median": 5.594183673469388,
+    "hash": "09a12ac9fa90858f",
+    "lastUpdate": "2024-05-09"
+  }
+}

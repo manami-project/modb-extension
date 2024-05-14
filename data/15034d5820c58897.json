@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14943",
+    "https://anilist.co/anime/103922",
+    "https://anime-planet.com/anime/wan-jie-xian-zong",
+    "https://anisearch.com/anime/15590",
+    "https://kitsu.io/anime/41363",
+    "https://livechart.me/anime/10269",
+    "https://myanimelist.net/anime/37937",
+    "https://notify.moe/anime/i-zCbCDiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "15034d5820c58897",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.202575757575757,
+    "arithmeticGeometricMean": 7.193748705947444,
+    "median": 7.19590909090909,
+    "hash": "15034d5820c58897",
+    "lastUpdate": "2024-05-10"
+  }
+}

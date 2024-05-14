@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16128",
+    "https://anilist.co/anime/131005",
+    "https://anime-planet.com/anime/amaim-warrior-at-the-borderline",
+    "https://anisearch.com/anime/16063",
+    "https://kitsu.io/anime/44197",
+    "https://livechart.me/anime/10466",
+    "https://myanimelist.net/anime/48466",
+    "https://notify.moe/anime/THGj5gwGR"
+  ],
+  "synopsis": {
+    "text": "While the world is under the iron grip of four dominant economic blocs in 2061, Japan has become the epicenter of their power struggle. The once peaceful nation is now a battleground, patrolled by colossal humanoid robots known as AMAIM. Amidst the chaos, a young, introverted mechanic named Amou Shiiba discovers an autonomous AI called Gai, which sparks his journey to fight against the oppressive forces.\n\nEquipped with his mechanical prowess, Amou constructs his own AMAIM, Kenbu, with the help of Gai. As they join the resistance, Amou and Kenbu become beacons of hope for the Japanese people, who yearn for freedom from their tyrannical overlords. With courage and determination, Amou embarks on a dangerous path to reclaim his homeland, igniting the flames of rebellion in the hearts of his fellow citizens.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "72e0701cdacea661",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.518079777365492,
+    "arithmeticGeometricMean": 6.505735790628902,
+    "median": 6.52,
+    "hash": "72e0701cdacea661",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8171",
+    "https://anilist.co/anime/10196",
+    "https://anime-planet.com/anime/baby-princess-3d-paradise-0-love",
+    "https://anisearch.com/anime/6718",
+    "https://kitsu.io/anime/6071",
+    "https://livechart.me/anime/4372",
+    "https://myanimelist.net/anime/10196",
+    "https://notify.moe/anime/yFb7pFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7612fde9ae372b52",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.355960111317254,
+    "arithmeticGeometricMean": 6.345833427765205,
+    "median": 6.3,
+    "hash": "7612fde9ae372b52",
+    "lastUpdate": "2024-05-08"
+  }
+}

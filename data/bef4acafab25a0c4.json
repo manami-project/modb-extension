@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7232",
+    "https://anilist.co/anime/6231",
+    "https://anime-planet.com/anime/detective-conan-magic-file-3",
+    "https://anisearch.com/anime/5424",
+    "https://kitsu.io/anime/4487",
+    "https://livechart.me/anime/6442",
+    "https://myanimelist.net/anime/6231",
+    "https://notify.moe/anime/bZl3cFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bef4acafab25a0c4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.314981447124305,
+    "arithmeticGeometricMean": 7.309806025571403,
+    "median": 7.455,
+    "hash": "bef4acafab25a0c4",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14355",
+    "https://anilist.co/anime/109390",
+    "https://anime-planet.com/anime/ikedaya-soudou",
+    "https://anisearch.com/anime/10316",
+    "https://kitsu.io/anime/10495",
+    "https://myanimelist.net/anime/29651",
+    "https://notify.moe/anime/FWXUpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e00f5415df58be37",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.54704143475572,
+    "arithmeticGeometricMean": 4.509477014333746,
+    "median": 4.286818181818182,
+    "hash": "e00f5415df58be37",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5491",
+    "https://anilist.co/anime/8685",
+    "https://anime-planet.com/anime/ryuuichi-manga-gekijou-onbu-obake",
+    "https://anisearch.com/anime/4521",
+    "https://kitsu.io/anime/5442",
+    "https://myanimelist.net/anime/8685",
+    "https://notify.moe/anime/dEuitFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a62abd5d3d033ac",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.485454545454545,
+    "arithmeticGeometricMean": 5.446287339873164,
+    "median": 5.0,
+    "hash": "8a62abd5d3d033ac",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12693",
+    "https://anilist.co/anime/97995",
+    "https://anime-planet.com/anime/yu-no-a-girl-who-chants-love-at-the-bound-of-this-world",
+    "https://anisearch.com/anime/12155",
+    "https://kitsu.io/anime/13469",
+    "https://livechart.me/anime/2492",
+    "https://myanimelist.net/anime/34620",
+    "https://notify.moe/anime/geXn2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b91fe31bd60bdd24",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.577977451120309,
+    "arithmeticGeometricMean": 6.572621249597728,
+    "median": 6.564230769230769,
+    "hash": "b91fe31bd60bdd24",
+    "lastUpdate": "2024-05-09"
+  }
+}

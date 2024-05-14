@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16755",
+    "https://anilist.co/anime/139435",
+    "https://anime-planet.com/anime/the-duke-of-death-and-his-maid-2nd-season",
+    "https://anisearch.com/anime/16605",
+    "https://kitsu.io/anime/45229",
+    "https://livechart.me/anime/10799",
+    "https://myanimelist.net/anime/49858",
+    "https://notify.moe/anime/pcEpEiHng"
+  ],
+  "synopsis": {
+    "text": "Alice, a vivacious maid, finds herself captivated by her master, a kind-hearted duke who harbors a dark secret. Afflicted by a curse that brings death to everything he touches, the duke navigates life with utmost care, cherishing every living being from delicate flowers to his beloved Alice. As the duke's feelings for Alice deepen, he becomes increasingly determined to break the curse, not for the sake of his family inheritance, but to protect those dear to him.\n\nWith the deadline set by his mother looming, the duke, Alice, and their friends, Zain and Cuff, embark on a journey filled with supernatural escapades to uncover the identity of the witch responsible for the curse. Amidst the laughter, camaraderie, and shared challenges, the duke remains steadfast in his resolve to find a solution that doesn't compromise the trust of his friends.\n\nAs they delve deeper into the world of magic and mystery, the group must also confront their own challenges. Zain and Cuff, both witches, struggle to maintain their anonymity within the Circus Gemini, where their abilities and appearances could raise suspicion. With the clock ticking and the stakes higher than ever, the Duke of Death and his companions must unravel the curse before spring arrives, or risk losing everything they hold dear.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3558f4add7e70ce",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.727508812615955,
+    "arithmeticGeometricMean": 7.719781298122923,
+    "median": 7.688126159554731,
+    "hash": "d3558f4add7e70ce",
+    "lastUpdate": "2024-05-10"
+  }
+}

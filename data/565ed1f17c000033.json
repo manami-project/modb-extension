@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17615",
+    "https://anilist.co/anime/154473",
+    "https://anime-planet.com/anime/arifureta-from-commonplace-to-worlds-strongest-3rd-season",
+    "https://anisearch.com/anime/17661",
+    "https://kitsu.io/anime/46454",
+    "https://livechart.me/anime/11465",
+    "https://myanimelist.net/anime/52995",
+    "https://notify.moe/anime/LrDPj3MVR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "565ed1f17c000033",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.698979591836736,
+    "arithmeticGeometricMean": 6.512057951577636,
+    "median": 6.698979591836736,
+    "hash": "565ed1f17c000033",
+    "lastUpdate": "2024-05-08"
+  }
+}

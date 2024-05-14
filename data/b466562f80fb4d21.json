@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/111026",
+    "https://anime-planet.com/anime/youki-ni-utaeba",
+    "https://kitsu.io/anime/46216",
+    "https://myanimelist.net/anime/39874"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b466562f80fb4d21",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2552121212121214,
+    "arithmeticGeometricMean": 5.224683026267735,
+    "median": 5.08,
+    "hash": "b466562f80fb4d21",
+    "lastUpdate": "2024-05-07"
+  }
+}

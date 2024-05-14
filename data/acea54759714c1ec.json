@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12522",
+    "https://anilist.co/anime/102928",
+    "https://anime-planet.com/anime/hulaing-babies",
+    "https://anisearch.com/anime/12611",
+    "https://kitsu.io/anime/12806",
+    "https://livechart.me/anime/2404",
+    "https://myanimelist.net/anime/34332",
+    "https://notify.moe/anime/OQWWhFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "acea54759714c1ec",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.481067585475749,
+    "arithmeticGeometricMean": 5.450634960784185,
+    "median": 5.392,
+    "hash": "acea54759714c1ec",
+    "lastUpdate": "2024-05-09"
+  }
+}

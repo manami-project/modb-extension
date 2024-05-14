@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6091",
+    "https://anilist.co/anime/4195",
+    "https://anime-planet.com/anime/kodomo-no-jikan-ni-gakki",
+    "https://anisearch.com/anime/4833",
+    "https://kitsu.io/anime/3515",
+    "https://livechart.me/anime/4708",
+    "https://myanimelist.net/anime/4195",
+    "https://notify.moe/anime/1z2u5FiiR"
+  ],
+  "synopsis": {
+    "text": "Seiji Aoki, a dedicated teacher, faces another year of challenges as his students, Rin, Mimi, and Kuro, advance to the fourth grade. The spirited Rin, now with added responsibilities at school and home, remains undeterred in her pursuit of Aoki as her boyfriend, often resorting to unconventional methods to win his affection. Meanwhile, Kuro finds herself idolizing Shirai-sensei, while Mimi struggles with self-confidence. Amidst these trials, Rin's new role as class representative only adds to Aoki's bewilderment, as he grapples with understanding Rin's precocious nature. As the classroom dynamics evolve, can Aoki navigate through the complexities of his students' lives and maintain order in this lively, unpredictable environment?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4dc34d84e4db8da4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.196083487940631,
+    "arithmeticGeometricMean": 7.194499718809632,
+    "median": 7.2,
+    "hash": "4dc34d84e4db8da4",
+    "lastUpdate": "2024-05-09"
+  }
+}

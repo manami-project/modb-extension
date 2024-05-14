@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1277",
+    "https://anilist.co/anime/681",
+    "https://anime-planet.com/anime/tenbatsu-angel-rabbie",
+    "https://anisearch.com/anime/1647",
+    "https://kitsu.io/anime/622",
+    "https://livechart.me/anime/10536",
+    "https://myanimelist.net/anime/681",
+    "https://notify.moe/anime/4i40cKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e2cab430c2506fe3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.903100980652001,
+    "arithmeticGeometricMean": 4.88237265124794,
+    "median": 5.08,
+    "hash": "e2cab430c2506fe3",
+    "lastUpdate": "2024-05-10"
+  }
+}

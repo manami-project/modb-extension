@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140634",
+    "https://anime-planet.com/anime/hana-to-larva",
+    "https://kitsu.io/anime/45671"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8565d17162dd7afd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.363636363636363,
+    "arithmeticGeometricMean": 6.363636363636363,
+    "median": 6.363636363636363,
+    "hash": "8565d17162dd7afd",
+    "lastUpdate": "2024-05-07"
+  }
+}

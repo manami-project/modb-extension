@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3955",
+    "https://anilist.co/anime/8896",
+    "https://anime-planet.com/anime/natsufuku-no-shoujotachi",
+    "https://anisearch.com/anime/1187",
+    "https://kitsu.io/anime/5523",
+    "https://myanimelist.net/anime/8896",
+    "https://notify.moe/anime/MeVWtFimR"
+  ],
+  "synopsis": {
+    "text": "Hiroshima, 1945: Amidst the turmoil of World War II, the lives of young girls attending a local school are dramatically upended when their senior peers are sent off to work in war factories. The remaining 220 first-year students find themselves the only adolescents in a town that's nearly deserted, striving to find joy and camaraderie in their new circumstances despite the hardships of wartime. Their world takes a drastic turn on August 7th, following the arrival of an American bomber, forever altering their destinies. This poignant tale commemorates the lives of the girls who fell victim to the atomic bomb, as it was broadcast on the 43rd anniversary of the Hiroshima tragedy.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9ff302b515776bb7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.026617015637425,
+    "arithmeticGeometricMean": 6.009495960343323,
+    "median": 6.090909090909091,
+    "hash": "9ff302b515776bb7",
+    "lastUpdate": "2024-05-07"
+  }
+}

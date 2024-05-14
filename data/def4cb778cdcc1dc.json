@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8670",
+    "https://anilist.co/anime/107618",
+    "https://anime-planet.com/anime/fair-then-partly-piggy",
+    "https://anisearch.com/anime/7329",
+    "https://kitsu.io/anime/10752",
+    "https://livechart.me/anime/12018",
+    "https://myanimelist.net/anime/24877",
+    "https://notify.moe/anime/WiCQpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "def4cb778cdcc1dc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.654789115646257,
+    "arithmeticGeometricMean": 5.623019963815709,
+    "median": 5.5,
+    "hash": "def4cb778cdcc1dc",
+    "lastUpdate": "2024-05-09"
+  }
+}

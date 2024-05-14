@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1936",
+    "https://anilist.co/anime/3022",
+    "https://anime-planet.com/anime/haai-step-jun",
+    "https://anisearch.com/anime/3296",
+    "https://kitsu.io/anime/2730",
+    "https://myanimelist.net/anime/3022",
+    "https://notify.moe/anime/ers8cFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ff01c5c2bd75a18f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.990880643166357,
+    "arithmeticGeometricMean": 5.972008754570352,
+    "median": 5.83909090909091,
+    "hash": "ff01c5c2bd75a18f",
+    "lastUpdate": "2024-05-08"
+  }
+}

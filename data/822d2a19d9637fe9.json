@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6917",
+    "https://anime-planet.com/anime/chokin-no-susume",
+    "https://anisearch.com/anime/8715",
+    "https://kitsu.io/anime/9232",
+    "https://myanimelist.net/anime/23191",
+    "https://notify.moe/anime/Lbs-tKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "822d2a19d9637fe9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.0561224489795915,
+    "arithmeticGeometricMean": 4.000253396454777,
+    "median": 4.0561224489795915,
+    "hash": "822d2a19d9637fe9",
+    "lastUpdate": "2024-05-08"
+  }
+}

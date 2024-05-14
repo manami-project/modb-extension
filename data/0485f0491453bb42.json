@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9665",
+    "https://anilist.co/anime/17247",
+    "https://anime-planet.com/anime/unbreakable-machine-doll",
+    "https://anisearch.com/anime/8330",
+    "https://kitsu.io/anime/7617",
+    "https://livechart.me/anime/61",
+    "https://myanimelist.net/anime/17247",
+    "https://notify.moe/anime/fb15pFmig"
+  ],
+  "synopsis": {
+    "text": "Royal Walpurgis Academy of Machinart, established in the 20th century, is the birthplace of Machinart, a groundbreaking blend of magic and technology that breathes life and intelligence into mechanical beings known as Automatons. These sentient machines and their masters, the Puppeteers, have revolutionized the global military landscape.\n\nRaishin Akabane, an ambitious Puppeteer, enrolls at the academy with his Automaton, Yaya, aiming to become the world's finest. However, a disastrous entrance exam performance leaves him at the bottom of the class. Undeterred, Raishin sets his sights on the prestigious Evening Party, a tournament that crowns the strongest Puppeteer as the \"Wiseman,\" granting them access to forbidden arts.\n\nTo secure a spot among the top 100 students, Raishin must defeat one of them in a duel. His first challenge is against Charlotte Belew and her Automaton, Sigmund. However, the duel is interrupted by an attack on Sigmund. After rescuing his opponents, Raishin cancels the duel, leaving him to find another way to earn his place in the Evening Party.\n\nDriven by past tragedies, Raishin, alongside Yaya, battles his way through a class filled with formidable adversaries. Despite his academic shortcomings, his exceptional combat skills and unwavering determination make him a force to be reckoned with in his quest to claim the title of Wiseman.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0485f0491453bb42",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.108522519919905,
+    "arithmeticGeometricMean": 7.1070278749634594,
+    "median": 7.161726443315981,
+    "hash": "0485f0491453bb42",
+    "lastUpdate": "2024-05-09"
+  }
+}

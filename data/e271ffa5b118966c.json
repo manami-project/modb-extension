@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14176",
+    "https://anime-planet.com/anime/fantastica-a-boonie-bears-adventure",
+    "https://anisearch.com/anime/12541",
+    "https://kitsu.io/anime/40991",
+    "https://myanimelist.net/anime/37100",
+    "https://notify.moe/anime/iV9O2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e271ffa5b118966c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 2.6530612244897958,
+    "arithmeticGeometricMean": 2.6530612244897958,
+    "median": 2.6530612244897958,
+    "hash": "e271ffa5b118966c",
+    "lastUpdate": "2024-05-08"
+  }
+}

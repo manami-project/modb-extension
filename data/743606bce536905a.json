@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/flash-and-dash-2",
+    "https://anisearch.com/anime/12336",
+    "https://kitsu.io/anime/44343",
+    "https://myanimelist.net/anime/38378"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "743606bce536905a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.445,
+    "arithmeticGeometricMean": 6.433023982738728,
+    "median": 6.445,
+    "hash": "743606bce536905a",
+    "lastUpdate": "2024-05-07"
+  }
+}

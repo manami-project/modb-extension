@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10423",
+    "https://anilist.co/anime/20653",
+    "https://anime-planet.com/anime/nandaka-velonica",
+    "https://anisearch.com/anime/9435",
+    "https://kitsu.io/anime/8324",
+    "https://livechart.me/anime/425",
+    "https://myanimelist.net/anime/22381",
+    "https://notify.moe/anime/5OuotKmiR"
+  ],
+  "synopsis": {
+    "text": "President Velonica, the self-absorbed alien heiress of the Galaxy Network, the universe's most extensive communication service, embarks on a mission to Earth, a planet she views as primitive and filled with frivolous activities like laughter and human connections. Her objective is to negotiate a deal with Earth's leader to install a massive antenna, thereby connecting the planet to the Galaxy Network.\n\nUpon arrival, Velonica encounters a world without a single leader, a revelation that leaves her baffled. She must navigate the complexities of this \"backwater\" planet before her father, the Galaxy Network's President, steps in.\n\nAmidst the chaos, Velonica crosses paths with Konpei, an Earthling boy, leading to a potential romantic spark. Torn between her newfound feelings and her commitment to the arts, Velonica must make sense of her unexpected journey on Earth. Will she find a way to connect Earth to her network, or will she succumb to the charm of human relationships? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef763aeae2a83781",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.017874900609594,
+    "arithmeticGeometricMean": 5.986190192033189,
+    "median": 6.058,
+    "hash": "ef763aeae2a83781",
+    "lastUpdate": "2024-05-09"
+  }
+}

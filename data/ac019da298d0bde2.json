@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17017",
+    "https://anilist.co/anime/142216",
+    "https://anime-planet.com/anime/girl-gaku-ii-lucky-stars",
+    "https://anisearch.com/anime/16885",
+    "https://kitsu.io/anime/45549",
+    "https://livechart.me/anime/10918",
+    "https://myanimelist.net/anime/50495",
+    "https://notify.moe/anime/3jYZrcT7R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ac019da298d0bde2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.068540507111936,
+    "arithmeticGeometricMean": 6.0671616928961125,
+    "median": 5.97,
+    "hash": "ac019da298d0bde2",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15612",
+    "https://anilist.co/anime/120534",
+    "https://anime-planet.com/anime/battle-athletes-victory-restart",
+    "https://anisearch.com/anime/15356",
+    "https://kitsu.io/anime/43252",
+    "https://livechart.me/anime/10044",
+    "https://myanimelist.net/anime/42321",
+    "https://notify.moe/anime/Ft3OCODGR"
+  ],
+  "synopsis": {
+    "text": "As the 5100th year dawns, ambitious female athletes from every corner of the cosmos converge for the prestigious 'Daiundoukai' tournament, where the victor is hailed as the illustrious 'Cosmo Beauty.' Among the diverse group of contenders is Kanata Akehoshi, an affable potato farmer hailing from Earth. As a child, Kanata stumbled upon a crashed spaceship and a weakened girl who bestowed her with wristbands and a promise: to compete in the Daiundoukai and claim the Cosmo Beauty title.\n\nNow, having secured her place as Earth's representative, Kanata embarks on her journey at the University Satellite, where she and her fellow competitors train for the games. Here, Kanata forges friendships with an eclectic mix of athletes, including a lunar refugee accompanied by her kangaroo, the enigmatic heir to an arms-dealing empire, and a solitary mystery woman.\n\nAs the tournament unfolds, rivalries blossom into camaraderie, and Kanata edges ever closer to fulfilling her promise and uncovering the enigma surrounding the Daiundoukai.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "20b24c6d7cd93d3f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.6389452690166975,
+    "arithmeticGeometricMean": 5.5956741961481224,
+    "median": 5.599,
+    "hash": "20b24c6d7cd93d3f",
+    "lastUpdate": "2024-05-08"
+  }
+}

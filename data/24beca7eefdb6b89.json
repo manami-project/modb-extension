@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121430",
+    "https://anime-planet.com/anime/kuma-no-kojima"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24beca7eefdb6b89",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.563454545454546,
+    "arithmeticGeometricMean": 6.554935329357051,
+    "median": 6.563454545454546,
+    "hash": "24beca7eefdb6b89",
+    "lastUpdate": "2024-05-07"
+  }
+}

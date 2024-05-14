@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5800",
+    "https://anilist.co/anime/4136",
+    "https://anime-planet.com/anime/penguin-musume-heart",
+    "https://anisearch.com/anime/4778",
+    "https://kitsu.io/anime/3485",
+    "https://livechart.me/anime/5890",
+    "https://myanimelist.net/anime/4136",
+    "https://notify.moe/anime/3uDucFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cfb0219df11c81d8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.600211502782932,
+    "arithmeticGeometricMean": 6.587209397962837,
+    "median": 6.454545454545455,
+    "hash": "cfb0219df11c81d8",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11925",
+    "https://anilist.co/anime/21641",
+    "https://anime-planet.com/anime/ozmafia",
+    "https://anisearch.com/anime/11177",
+    "https://kitsu.io/anime/11829",
+    "https://livechart.me/anime/2032",
+    "https://myanimelist.net/anime/32697",
+    "https://notify.moe/anime/Q0_3pFiiR"
+  ],
+  "synopsis": {
+    "text": "Having moved to a new school, Oz Academy, Scarlet quickly finds himself in a predicament. Fortunately, three boys - Caramia, Kyrie, and Axel - come to his aid in his moment of distress. Meanwhile, Fuuka, a girl with no recollection of her past, finds herself navigating an unfamiliar town while being pursued by an unknown entity. The Oz Family, one of the local mafia clans, comes to her rescue. In this town where alliances and conflict coexist, Fuuka must decide who to trust. The original story of OZMAFIA!! has been reimagined as a school-based narrative, but the central mystery remains: why can't Fuuka remember anything?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "335c592899ce2709",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.391044784580499,
+    "arithmeticGeometricMean": 5.356332581325729,
+    "median": 5.2924444444444445,
+    "hash": "335c592899ce2709",
+    "lastUpdate": "2024-05-09"
+  }
+}

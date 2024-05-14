@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3333",
+    "https://anilist.co/anime/3518",
+    "https://anime-planet.com/anime/ursa-minor-blue",
+    "https://anisearch.com/anime/935",
+    "https://kitsu.io/anime/3069",
+    "https://myanimelist.net/anime/3518",
+    "https://notify.moe/anime/qIqwcKiiR"
+  ],
+  "synopsis": {
+    "text": "That stars are vanishing from the night sky is the first sign of an impending cosmic calamity for young Urey and his elderly companion, who reside in a serene laboratory nestled on a lake. The constellation Ursa Minor, also known as the Little Dipper, is no longer recognizable as a bear; instead, it has morphed into a fish shape due to the addition of an unfamiliar star.\n\nDetermined to restore the cosmic balance, the duo embarks on an extraordinary journey across the Milky Way, following the trail of the mysterious Star Fish, a creature believed to be the cause of the stars' disappearance. As they navigate the celestial waters, they seek a powerful weapon capable of defeating the destructive sea beast and restoring the constellation to its original form.\n\nThis adventurous tale weaves together elements of fantasy and cosmic exploration, creating an engaging narrative that invites viewers to join the protagonists on their quest to save the stars and unravel the mystery behind the Star Fish's destructive rampage.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "490dd1e904feb52a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.9842888947786905,
+    "arithmeticGeometricMean": 5.958584703833927,
+    "median": 6.278,
+    "hash": "490dd1e904feb52a",
+    "lastUpdate": "2024-05-08"
+  }
+}

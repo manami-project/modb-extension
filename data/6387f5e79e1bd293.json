@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/101083",
+    "https://anime-planet.com/anime/overlord-ii-play-play-pleiades",
+    "https://anisearch.com/anime/13285",
+    "https://kitsu.io/anime/14269",
+    "https://livechart.me/anime/3021",
+    "https://myanimelist.net/anime/37087",
+    "https://notify.moe/anime/uY4v2KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6387f5e79e1bd293",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.941108501192685,
+    "arithmeticGeometricMean": 6.938493957421512,
+    "median": 6.862,
+    "hash": "6387f5e79e1bd293",
+    "lastUpdate": "2024-05-06"
+  }
+}

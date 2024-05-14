@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1005",
+    "https://anilist.co/anime/1832",
+    "https://anime-planet.com/anime/hades-project-zeorymer",
+    "https://anisearch.com/anime/1233",
+    "https://kitsu.io/anime/1649",
+    "https://livechart.me/anime/7188",
+    "https://myanimelist.net/anime/1832",
+    "https://notify.moe/anime/yhYBcKimg"
+  ],
+  "synopsis": {
+    "text": "The life of an ordinary student, Akitsu Masato, takes a dramatic turn when he is abducted by a clandestine government initiative, 'Last Guardian'. Shockingly, he learns that his mundane existence was a facade and that he is destined to pilot an extraordinary robot, 'Zeorymer of the Heavens'. This revelation is solidified when Masato witnesses his parents accepting compensation for raising him. The Last Guardian is gearing up to counter the imminent revival of 'Hau Dragon', a sinister organization with ambitions of global domination.\n\nFifteen years prior, Hau Dragon had engineered eight formidable robots, each embodying a natural force. However, their creator, Kihara Masaki, demolished all but the leader, Zeorymer, and handed it over to the government along with an embryo, which would later become Masato. Now, with the seven other robots reconstructed, Hau Dragon is on the hunt for the eighth. Masato, alongside the enigmatic Himuro, must navigate the complexities of piloting Zeorymer to combat Hau Dragon. Yet, both Masato and Himuro harbor secrets that could alter the course of their mission.\n\nAs the world teeters on the brink of chaos, Masato finds himself at the epicenter of a battle between colossal forces. Each skirmish propels him closer to the truth about his birth, Zeorymer, and his role in this global conflict. The reality, however, may be a bitter pill to swallow.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3f929b143e39308f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.093654916512059,
+    "arithmeticGeometricMean": 6.085880450646531,
+    "median": 6.090909090909091,
+    "hash": "3f929b143e39308f",
+    "lastUpdate": "2024-05-09"
+  }
+}

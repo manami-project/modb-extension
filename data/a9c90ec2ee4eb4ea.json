@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12909",
+    "https://anime-planet.com/anime/to-love-ru-multiplication-mae-kara-ushiro-kara",
+    "https://anisearch.com/anime/12747",
+    "https://kitsu.io/anime/14159",
+    "https://livechart.me/anime/2976",
+    "https://myanimelist.net/anime/35000",
+    "https://notify.moe/anime/B3QNhFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a9c90ec2ee4eb4ea",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.1809579578584675,
+    "arithmeticGeometricMean": 7.176494897259838,
+    "median": 7.16,
+    "hash": "a9c90ec2ee4eb4ea",
+    "lastUpdate": "2024-05-10"
+  }
+}

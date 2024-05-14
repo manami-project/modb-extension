@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9174",
+    "https://anilist.co/anime/126320",
+    "https://anime-planet.com/anime/shura-ga-yuku",
+    "https://anisearch.com/anime/7784",
+    "https://kitsu.io/anime/9597",
+    "https://myanimelist.net/anime/24085",
+    "https://notify.moe/anime/ehMLpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "013d3e7661b1e14d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.617810760667903,
+    "arithmeticGeometricMean": 4.613802575945779,
+    "median": 4.489795918367346,
+    "hash": "013d3e7661b1e14d",
+    "lastUpdate": "2024-05-07"
+  }
+}

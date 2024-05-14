@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9870",
+    "https://anilist.co/anime/17913",
+    "https://anime-planet.com/anime/livetune-redial",
+    "https://anisearch.com/anime/8606",
+    "https://kitsu.io/anime/8609",
+    "https://myanimelist.net/anime/17913",
+    "https://notify.moe/anime/zIW1tFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fa57b40563f49257",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.331995052566481,
+    "arithmeticGeometricMean": 6.32458740773322,
+    "median": 6.276,
+    "hash": "fa57b40563f49257",
+    "lastUpdate": "2024-05-07"
+  }
+}

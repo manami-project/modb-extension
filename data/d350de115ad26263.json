@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2999",
+    "https://anilist.co/anime/2314",
+    "https://anime-planet.com/anime/tobe-kujira-no-peek",
+    "https://anisearch.com/anime/2909",
+    "https://kitsu.io/anime/2096",
+    "https://myanimelist.net/anime/2314",
+    "https://notify.moe/anime/9CTE5Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d350de115ad26263",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.175270606944076,
+    "arithmeticGeometricMean": 6.155476198676256,
+    "median": 6.326530612244898,
+    "hash": "d350de115ad26263",
+    "lastUpdate": "2024-05-08"
+  }
+}

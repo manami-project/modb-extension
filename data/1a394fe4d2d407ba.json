@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11684",
+    "https://anilist.co/anime/21408",
+    "https://anime-planet.com/anime/bottom-biting-bug-4",
+    "https://anisearch.com/anime/10805",
+    "https://kitsu.io/anime/11590",
+    "https://livechart.me/anime/1852",
+    "https://myanimelist.net/anime/31747",
+    "https://notify.moe/anime/XvQCtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1a394fe4d2d407ba",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.1788985776128635,
+    "arithmeticGeometricMean": 5.174963239718398,
+    "median": 5.1988775510204075,
+    "hash": "1a394fe4d2d407ba",
+    "lastUpdate": "2024-05-09"
+  }
+}

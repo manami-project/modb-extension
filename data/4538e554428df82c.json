@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/9290",
+    "https://anime-planet.com/anime/moyashimon-cgi-anime",
+    "https://kitsu.io/anime/5658",
+    "https://livechart.me/anime/7103",
+    "https://myanimelist.net/anime/9290",
+    "https://notify.moe/anime/JNlZtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4538e554428df82c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.013454545454545,
+    "arithmeticGeometricMean": 5.9936400716738865,
+    "median": 5.7272727272727275,
+    "hash": "4538e554428df82c",
+    "lastUpdate": "2024-05-06"
+  }
+}

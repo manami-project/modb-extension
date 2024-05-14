@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/18377",
+    "https://myanimelist.net/anime/55181"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73469ca9770ef7c7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.103673469387754,
+    "arithmeticGeometricMean": 6.101384830597411,
+    "median": 6.103673469387754,
+    "hash": "73469ca9770ef7c7",
+    "lastUpdate": "2024-05-07"
+  }
+}

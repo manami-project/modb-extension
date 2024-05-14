@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3184",
+    "https://anilist.co/anime/2282",
+    "https://anime-planet.com/anime/tezuka-osamu-no-kyuuyaku-seisho-monogatari-in-the-beginning",
+    "https://anisearch.com/anime/4644",
+    "https://kitsu.io/anime/2067",
+    "https://myanimelist.net/anime/2282",
+    "https://notify.moe/anime/3icPcKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ae603984d6c7da4c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.922204700061843,
+    "arithmeticGeometricMean": 5.874887255414435,
+    "median": 5.946818181818182,
+    "hash": "ae603984d6c7da4c",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103440",
+    "https://anime-planet.com/anime/kumorina-namae-no-nai-hi",
+    "https://kitsu.io/anime/13843",
+    "https://myanimelist.net/anime/35978",
+    "https://notify.moe/anime/jQoS2Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a69ad7d5bc2e2d4d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.983284848484848,
+    "arithmeticGeometricMean": 5.959434295439279,
+    "median": 5.333333333333333,
+    "hash": "a69ad7d5bc2e2d4d",
+    "lastUpdate": "2024-05-07"
+  }
+}

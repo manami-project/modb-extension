@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7268",
+    "https://anilist.co/anime/7724",
+    "https://anime-planet.com/anime/shiki",
+    "https://anisearch.com/anime/5859",
+    "https://kitsu.io/anime/5098",
+    "https://livechart.me/anime/3611",
+    "https://myanimelist.net/anime/7724",
+    "https://notify.moe/anime/BdtkpFmig"
+  ],
+  "synopsis": {
+    "text": "Abandoned by modernity, the tranquil village of Sotoba, home to a mere 1300 souls, finds itself engulfed in a whirlwind of inexplicable deaths during a sweltering summer. The village's only doctor, Toshio Ozaki, is left baffled as the death toll rises, with no discernible cause or pattern. The first to fall prey to this mysterious affliction is Megumi Shimizu, a vibrant teenager with dreams of urban glamour. As the village mourns her loss, a peculiar family, the Kirishikis, move into the long-abandoned Kanemasa mansion.\n\nSuspicion and fear begin to fester among the villagers as more bodies pile up, and the doctor's efforts to save his patients prove futile. Toshio, along with Natsuno Yuuki, an introverted city youth, and Megumi's friends, Kaori and Akira Tanaka, embark on a chilling quest to uncover the truth behind these bizarre occurrences. Their investigation leads them to a horrifying revelation: the dead are returning to life with an insatiable thirst for human blood.\n\nAs the line between man and monster blurs, Toshio and his allies must confront the Shiki, as the vampires call themselves, in a desperate struggle for survival. Adapted from Fuyumi Ono's horror novel, Shiki is a haunting exploration of the boundaries of humanity and the terrifying cost of survival when one is abandoned by God and left to face the unknown.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4de9b588c34270c9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.7331474762744605,
+    "arithmeticGeometricMean": 7.732790711658822,
+    "median": 7.723636363636364,
+    "hash": "4de9b588c34270c9",
+    "lastUpdate": "2024-05-09"
+  }
+}

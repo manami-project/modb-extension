@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/transformers-war-for-cybertron-siege",
+    "https://kitsu.io/anime/43294"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "90eed266bd78f495",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.550181818181818,
+    "arithmeticGeometricMean": 7.549474165430093,
+    "median": 7.550181818181818,
+    "hash": "90eed266bd78f495",
+    "lastUpdate": "2024-05-06"
+  }
+}

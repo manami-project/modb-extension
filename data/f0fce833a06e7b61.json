@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8452",
+    "https://anilist.co/anime/5987",
+    "https://anime-planet.com/anime/marin-to-yamato-fushigi-na-nichiyoubi",
+    "https://anisearch.com/anime/7132",
+    "https://kitsu.io/anime/4373",
+    "https://myanimelist.net/anime/5987",
+    "https://notify.moe/anime/YLO3cFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f0fce833a06e7b61",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.991005565862709,
+    "arithmeticGeometricMean": 4.9798215037813085,
+    "median": 4.7272727272727275,
+    "hash": "f0fce833a06e7b61",
+    "lastUpdate": "2024-05-08"
+  }
+}

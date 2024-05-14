@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2436",
+    "https://anilist.co/anime/67",
+    "https://anime-planet.com/anime/basilisk",
+    "https://anisearch.com/anime/3167",
+    "https://kitsu.io/anime/48",
+    "https://livechart.me/anime/3787",
+    "https://myanimelist.net/anime/67",
+    "https://notify.moe/anime/FfdtcKimg"
+  ],
+  "synopsis": {
+    "text": "Oboro Iga and Gennosuke Kouga, heirs to two ancient and bitterly opposed ninja clans, dream of uniting their people through marriage, ending centuries of bloodshed. However, their hopes are shattered when the powerful warlord Ieyasu Tokugawa commands the clans to engage in a brutal battle royale, pitting their ten best warriors against each other. The cause: a dispute over the rightful heir to the shogunate.\n\nAs the bloody conflict reignites, Oboro and Gennosuke find themselves torn between their love for one another and their duty to their respective clans. The stakes are high: the winning clan will secure the Tokugawa shogunate's favor for a thousand years, while the losing clan faces annihilation.\n\nIn this heart-wrenching tale of love and loyalty, the star-crossed lovers must navigate the treacherous waters of war and politics, ultimately deciding the fate of their clans. Will their love survive the brutal circumstances, or will they succumb to the relentless tide of war?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "abaed4b36c701f13",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.5038420873399865,
+    "arithmeticGeometricMean": 7.502518931699918,
+    "median": 7.514106753812636,
+    "hash": "abaed4b36c701f13",
+    "lastUpdate": "2024-05-08"
+  }
+}

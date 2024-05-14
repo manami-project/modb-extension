@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15958",
+    "https://anime-planet.com/anime/emerald-no-wa",
+    "https://anisearch.com/anime/16292"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80492993e105f13c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.620877551020408,
+    "arithmeticGeometricMean": 5.612518345551625,
+    "median": 5.620877551020408,
+    "hash": "80492993e105f13c",
+    "lastUpdate": "2024-05-08"
+  }
+}

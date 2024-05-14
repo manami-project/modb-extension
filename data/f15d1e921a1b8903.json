@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17715",
+    "https://anilist.co/anime/157062",
+    "https://anime-planet.com/anime/zen-grogu-and-dust-bunnies",
+    "https://anisearch.com/anime/17843",
+    "https://kitsu.io/anime/46724",
+    "https://livechart.me/anime/11609",
+    "https://myanimelist.net/anime/53599",
+    "https://notify.moe/anime/mtpDOTFVR"
+  ],
+  "synopsis": {
+    "text": "Grogu, a young and sensitive being attuned to the Force, is captured in a moment of tranquil meditation, hovering over a reflective puddle amidst a serene environment. Leaves gently dance in the wind, creating a peaceful ambiance. This poignant scene is from \"Zen: Grogu and Dust Bunnies,\" a commemorative short film for the third anniversary of the acclaimed Star Wars series, \"The Mandalorian.\"\n\nAs Grogu immerses himself in his contemplative state, he attracts the attention of playful dust bunnies, also known as Soot Spirits. Intrigued by the youngling, they begin to frolic and swirl around him, adding a touch of whimsy and delight to the serene atmosphere.\n\nThe film unfolds with the tender interaction between Grogu and these spirited creatures, presenting a heartwarming spectacle that encapsulates the essence of innocent fun and camaraderie.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f15d1e921a1b8903",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.956907500662602,
+    "arithmeticGeometricMean": 5.929787307163214,
+    "median": 6.13,
+    "hash": "f15d1e921a1b8903",
+    "lastUpdate": "2024-05-10"
+  }
+}

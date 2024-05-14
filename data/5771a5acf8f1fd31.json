@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15582",
+    "https://anilist.co/anime/119113",
+    "https://anime-planet.com/anime/attack-on-titan-movie-4-chronicle",
+    "https://anisearch.com/anime/15289",
+    "https://kitsu.io/anime/43212",
+    "https://livechart.me/anime/9996",
+    "https://myanimelist.net/anime/42091",
+    "https://notify.moe/anime/yQjTRLzGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5771a5acf8f1fd31",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.6867208822923105,
+    "arithmeticGeometricMean": 7.679408322403925,
+    "median": 7.779999999999999,
+    "hash": "5771a5acf8f1fd31",
+    "lastUpdate": "2024-05-10"
+  }
+}

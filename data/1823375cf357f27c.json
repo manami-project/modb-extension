@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/208",
+    "https://anilist.co/anime/117",
+    "https://anime-planet.com/anime/el-hazard-the-magnificent-world",
+    "https://anisearch.com/anime/301",
+    "https://kitsu.io/anime/96",
+    "https://livechart.me/anime/7549",
+    "https://myanimelist.net/anime/117",
+    "https://notify.moe/anime/t0xp5FmmR"
+  ],
+  "synopsis": {
+    "text": "Shinanome High School student Makoto Mizuhara finds himself in a perilous situation when he becomes the target of the school council president, Jinnai, for exposing his corrupt activities. In a bizarre turn of events, Makoto stumbles upon an ancient artifact hidden in the school's basement, which leads him to encounter a mysterious woman who has been waiting for him for millennia. In her weakened state, she transports Makoto and three others - Jinnai, his fiery sister Nanami, and their alcoholic teacher Fujisawa - to the fantastical world of El-Hazard.\n\nIn this parallel universe, the group is unwittingly thrust into an elaborate sword-and-sorcery tale involving the Eye of God, a powerful weapon created by a long-lost civilization. As they navigate through this strange world filled with castles, royalty, and giant armored insects, Makoto is mistaken for Fatora, a missing princess, and is believed to be the savior who can prevent an impending war.\n\nWith each member of the group granted special powers, they must learn to adapt to their new environment and the challenges it presents. As Makoto fends off female advances and tries to clear his name, Jinnai seizes the opportunity to exact his revenge, plotting to destroy Makoto and his newfound friends. In his quest for ultimate power, Jinnai seeks control of the demon Ifurita, who is revealed to be the same woman responsible for bringing them to El-Hazard. As the battle for control unfolds, Makoto and his friends must find a way to stop Jinnai and save El-Hazard from destruction.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1823375cf357f27c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.159142857142856,
+    "arithmeticGeometricMean": 7.155176620157989,
+    "median": 7.25,
+    "hash": "1823375cf357f27c",
+    "lastUpdate": "2024-05-10"
+  }
+}

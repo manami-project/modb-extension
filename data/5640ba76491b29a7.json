@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/3",
+    "https://myanimelist.net/anime/3890"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5640ba76491b29a7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.012755102040816,
+    "arithmeticGeometricMean": 3.957065827012828,
+    "median": 4.012755102040816,
+    "hash": "5640ba76491b29a7",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/19191",
+    "https://kitsu.io/anime/7856",
+    "https://livechart.me/anime/127",
+    "https://myanimelist.net/anime/19191",
+    "https://notify.moe/anime/wN8ttKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1823c9f6622faaef",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.607982905982906,
+    "arithmeticGeometricMean": 7.60714666541578,
+    "median": 7.48,
+    "hash": "1823c9f6622faaef",
+    "lastUpdate": "2024-05-06"
+  }
+}

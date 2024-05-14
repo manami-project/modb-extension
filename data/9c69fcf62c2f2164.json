@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/happy-kappy-recap",
+    "https://anisearch.com/anime/15612",
+    "https://kitsu.io/anime/6504",
+    "https://myanimelist.net/anime/11389",
+    "https://notify.moe/anime/SThIpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9c69fcf62c2f2164",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.758132653061224,
+    "arithmeticGeometricMean": 5.7460140819717065,
+    "median": 5.853,
+    "hash": "9c69fcf62c2f2164",
+    "lastUpdate": "2024-05-07"
+  }
+}

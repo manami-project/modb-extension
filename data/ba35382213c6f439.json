@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7960",
+    "https://anilist.co/anime/9523",
+    "https://anime-planet.com/anime/minori-scramble",
+    "https://anisearch.com/anime/6516",
+    "https://kitsu.io/anime/5773",
+    "https://livechart.me/anime/7760",
+    "https://myanimelist.net/anime/9523",
+    "https://notify.moe/anime/9IIMtKimg"
+  ],
+  "synopsis": {
+    "text": "She's just a fifth-grader, but Tamaki Kakegawa has already had enough of penguins. With a father who's a dedicated penguin researcher, she's been surrounded by these flightless birds all her life, even accompanying him on expeditions. But instead of growing fond of them, Tamaki has developed a strong dislike, almost a phobia, for penguins. To help her overcome this aversion, her father creates a unique solution: a penguin-android hybrid named Minori. Designed with the body of a penguin and the face of a cute little girl, Minori is meant to befriend Tamaki and change her perspective on penguins. However, Minori's unexpected love for prawns leads to a series of chaotic adventures around the neighborhood, with Tamaki often finding herself in the middle of the trouble. Will Minori's antics help Tamaki learn to love penguins, or will they just add to her penguin-related traumas? Only time will tell in this heartwarming and humorous tale.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ba35382213c6f439",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.30767824012722,
+    "arithmeticGeometricMean": 6.304006959699457,
+    "median": 6.26,
+    "hash": "ba35382213c6f439",
+    "lastUpdate": "2024-05-09"
+  }
+}

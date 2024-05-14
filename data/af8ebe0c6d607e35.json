@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5396",
+    "https://anilist.co/anime/7967",
+    "https://anime-planet.com/anime/hiroshima-ni-ichiban-densha-ga-hashitta",
+    "https://anisearch.com/anime/4419",
+    "https://kitsu.io/anime/5164",
+    "https://myanimelist.net/anime/7967",
+    "https://notify.moe/anime/UhPkpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af8ebe0c6d607e35",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.145361781076066,
+    "arithmeticGeometricMean": 6.121228987933504,
+    "median": 5.96,
+    "hash": "af8ebe0c6d607e35",
+    "lastUpdate": "2024-05-08"
+  }
+}

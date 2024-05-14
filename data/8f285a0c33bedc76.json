@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7456",
+    "https://anilist.co/anime/8492",
+    "https://anime-planet.com/anime/kikansha-yaemon",
+    "https://anisearch.com/anime/6178",
+    "https://kitsu.io/anime/5357",
+    "https://myanimelist.net/anime/8492",
+    "https://notify.moe/anime/rF0ipKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f285a0c33bedc76",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.48278293135436,
+    "arithmeticGeometricMean": 5.44187302968154,
+    "median": 4.954545454545455,
+    "hash": "8f285a0c33bedc76",
+    "lastUpdate": "2024-05-07"
+  }
+}

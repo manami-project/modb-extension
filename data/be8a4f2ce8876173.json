@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17556",
+    "https://anilist.co/anime/153344",
+    "https://anime-planet.com/anime/mix-season-2",
+    "https://anisearch.com/anime/17583",
+    "https://kitsu.io/anime/46308",
+    "https://livechart.me/anime/11355",
+    "https://myanimelist.net/anime/52614",
+    "https://notify.moe/anime/E1TnjqkVR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "be8a4f2ce8876173",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.082647230320701,
+    "arithmeticGeometricMean": 7.075302076103953,
+    "median": 7.12,
+    "hash": "be8a4f2ce8876173",
+    "lastUpdate": "2024-05-09"
+  }
+}

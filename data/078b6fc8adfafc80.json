@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1869",
+    "https://anilist.co/anime/1901",
+    "https://anime-planet.com/anime/they-were-eleven",
+    "https://anisearch.com/anime/2234",
+    "https://kitsu.io/anime/1711",
+    "https://livechart.me/anime/5913",
+    "https://myanimelist.net/anime/1901",
+    "https://notify.moe/anime/_9jBcKmmg"
+  ],
+  "synopsis": {
+    "text": "Alliance of Interstellar nations has established Cosmo Academy, the most prestigious institution in the galaxy, with its graduates securing top-tier positions in society. Among the hopeful candidates is Tadatos Lane, a Terran orphan, who has made it to the final stage of the academy's rigorous entrance exam. The last test requires the group of ten candidates to survive for 53 days aboard the Esperanza, a derelict spaceship, with no communication to the outside world. However, the test takes a sinister turn when they discover an eleventh member among them, leading to suspicion, paranoia, and a desperate search for the imposter before it's too late. Can Tadatos and the others uncover the truth and survive the test, or will the mysterious imposter jeopardize their chances at a better future?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "078b6fc8adfafc80",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.019246399858645,
+    "arithmeticGeometricMean": 7.015502204574773,
+    "median": 7.13,
+    "hash": "078b6fc8adfafc80",
+    "lastUpdate": "2024-05-08"
+  }
+}

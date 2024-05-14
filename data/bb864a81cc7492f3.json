@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9558",
+    "https://anilist.co/anime/17068",
+    "https://anime-planet.com/anime/livetune-transfer",
+    "https://anisearch.com/anime/8249",
+    "https://kitsu.io/anime/8776",
+    "https://myanimelist.net/anime/17068",
+    "https://notify.moe/anime/3ujJpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bb864a81cc7492f3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.15872462231646,
+    "arithmeticGeometricMean": 6.150435857338659,
+    "median": 6.192,
+    "hash": "bb864a81cc7492f3",
+    "lastUpdate": "2024-05-07"
+  }
+}

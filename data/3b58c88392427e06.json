@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12747",
+    "https://anilist.co/anime/102159",
+    "https://anime-planet.com/anime/monkey-king-hero-is-back",
+    "https://anisearch.com/anime/11807",
+    "https://kitsu.io/anime/12135",
+    "https://myanimelist.net/anime/32534",
+    "https://notify.moe/anime/2PMghFiiR"
+  ],
+  "synopsis": {
+    "text": "King Sun Wukong, the unrivaled Monkey King, was once a formidable force, capable of traversing the realms of earth, heaven, and hell. However, his defiance of divine laws led to his imprisonment in an icy cage by the gods. In the absence of the Monkey King, China plunged into an era of darkness and chaos. Half a millennium later, a young boy named Liuer, while evading mountain trolls, stumbles upon the Monkey King's icy prison and inadvertently releases him. As darkness continues to engulf China, the newly freed Wukong and Liuer embark on a journey to restore peace and light to their homeland in the epic adventure, Monkey King: Hero is Back.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b58c88392427e06",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.80560667903525,
+    "arithmeticGeometricMean": 6.788949455126573,
+    "median": 6.6,
+    "hash": "3b58c88392427e06",
+    "lastUpdate": "2024-05-07"
+  }
+}

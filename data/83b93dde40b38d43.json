@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14366",
+    "https://anilist.co/anime/102393",
+    "https://anime-planet.com/anime/ki-renka",
+    "https://anisearch.com/anime/10308",
+    "https://kitsu.io/anime/10504",
+    "https://myanimelist.net/anime/29679",
+    "https://notify.moe/anime/Rdr8tKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "83b93dde40b38d43",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.2657625231910945,
+    "arithmeticGeometricMean": 4.249471758366111,
+    "median": 4.04,
+    "hash": "83b93dde40b38d43",
+    "lastUpdate": "2024-05-08"
+  }
+}

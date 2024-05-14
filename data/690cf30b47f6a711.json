@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8847",
+    "https://anilist.co/anime/14989",
+    "https://anime-planet.com/anime/chou-soku-henkei-gyrozetter",
+    "https://anisearch.com/anime/7511",
+    "https://kitsu.io/anime/7191",
+    "https://livechart.me/anime/932",
+    "https://myanimelist.net/anime/14989",
+    "https://notify.moe/anime/FaxdpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "690cf30b47f6a711",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.972087728597933,
+    "arithmeticGeometricMean": 5.95818513566571,
+    "median": 6.090909090909091,
+    "hash": "690cf30b47f6a711",
+    "lastUpdate": "2024-05-09"
+  }
+}

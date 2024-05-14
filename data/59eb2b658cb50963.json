@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/90",
+    "https://anilist.co/anime/45",
+    "https://anime-planet.com/anime/rurouni-kenshin",
+    "https://anisearch.com/anime/2363",
+    "https://kitsu.io/anime/27",
+    "https://livechart.me/anime/3719",
+    "https://myanimelist.net/anime/45",
+    "https://notify.moe/anime/784t5FimR"
+  ],
+  "synopsis": {
+    "text": "Kenkaku Romantan follows the journey of a legendary assassin, Hitokiri Battousai, who has abandoned his blood-soaked past and assumed the identity of Kenshin Himura, a wandering swordsman. During the final years of the Bakumatsu era, Battousai was an unrivaled killer, feared by all. However, he mysteriously disappeared during the Japanese Revolution and has been living in peace for ten years.\n\nNow, Kenshin is a cheerful and strong-willed man who vows never to kill again. Instead, he dedicates himself to protecting the weak. While traveling, he encounters Kaoru Kamiya, a female Kendo master whose dojo is being threatened by an imposter claiming to be Battousai. After helping Kaoru, Kenshin is allowed to stay at the dojo, temporarily halting his travels.\n\nHowever, enemies from Kenshin's past and present begin to emerge, threatening the peace he has built for himself. Together with Kaoru, a former thief, a brawler, and a doctor, all with their own secrets, Kenshin fights to uphold his new ideals and protect those in need.\n\nAs the greatest killer of the Edo dynasty, Kenshin must face the demons of his past, including the villainous Shishio Makoto, who threatens the new Meiji Era. Can Kenshin overcome his dark past and ensure a peaceful future for Japan?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "59eb2b658cb50963",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.080442138897027,
+    "arithmeticGeometricMean": 8.077925515947479,
+    "median": 8.165454545454544,
+    "hash": "59eb2b658cb50963",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/200",
+    "https://anilist.co/anime/1793",
+    "https://anime-planet.com/anime/a-wind-named-amnesia",
+    "https://anisearch.com/anime/609",
+    "https://kitsu.io/anime/1613",
+    "https://livechart.me/anime/6872",
+    "https://myanimelist.net/anime/1793",
+    "https://notify.moe/anime/-V0fcFimR"
+  ],
+  "synopsis": {
+    "text": "Thousands of years of human progress were erased in an instant when a mysterious wind swept across the globe, stealing every individual's memories and leaving society in ruins. Cars crashed, planes fell from the sky, and civilization crumbled as people forgot how to communicate, who they were, and how to use the technology that once powered their lives. In this post-apocalyptic world, one young man named Wataru finds himself with a unique advantage after stumbling upon a military facility and meeting Johnny, a boy whose memory was preserved through experimental treatment. With Johnny's help, Wataru learns about the world that once was and sets out on a journey across America to discover what remains of humanity. Along the way, he meets Sophia, a silver-haired woman who remains tight-lipped about her past, and together they traverse a devastated landscape, learning about the essence of humanity and searching for others who may have retained their memories. As they journey towards New York, Wataru and Sophia must navigate a world without rules, where survival is a constant struggle, and the future of humankind hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc561d63a012061a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.282069116824219,
+    "arithmeticGeometricMean": 6.275578434768412,
+    "median": 6.38,
+    "hash": "dc561d63a012061a",
+    "lastUpdate": "2024-05-09"
+  }
+}

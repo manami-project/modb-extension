@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103400",
+    "https://anime-planet.com/anime/hatoya",
+    "https://kitsu.io/anime/14049",
+    "https://myanimelist.net/anime/36670",
+    "https://notify.moe/anime/fyFNhKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a983a3fb19f3a72c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.936272727272727,
+    "arithmeticGeometricMean": 4.91746549086124,
+    "median": 5.079545454545455,
+    "hash": "a983a3fb19f3a72c",
+    "lastUpdate": "2024-05-06"
+  }
+}

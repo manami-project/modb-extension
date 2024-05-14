@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17065",
+    "https://anilist.co/anime/142877",
+    "https://anime-planet.com/anime/rurouni-kenshin-2023",
+    "https://anisearch.com/anime/16951",
+    "https://kitsu.io/anime/45616",
+    "https://livechart.me/anime/10958",
+    "https://myanimelist.net/anime/50613",
+    "https://notify.moe/anime/mTBkTao7R"
+  ],
+  "synopsis": {
+    "text": "Tokugawa shogunate's fall marked the end of Bakumatsu era and the emergence of a new era in Japan. During this time, the feared Imperialist warrior, 'Hitokiri Battosai,' disappeared, leaving behind his legacy as the strongest Revolutionary warrior. Years later, in the bustling streets of Tokyo during the 11th year of Meiji, a wandering swordsman named Himura Kenshin crosses paths with Kamiya Kaoru, the head instructor of the Kamiya Kasshin-ryu sword style. Carrying a sakabato, a reverse blade sword, Kenshin vows never to kill again.\n\nKenshin and Kaoru join forces to uncover the truth behind a series of murders committed by a stranger who claims to be the legendary Battousai, tarnishing the name of Kaoru's dojo. As they work together, Kaoru invites Kenshin to stay at her dojo, marking an end to his life as a lone wanderer. Alongside newfound friends – Myoujin Yahiko, a descendant of a samurai-class family, and Sagara Sanosuke, a fighter for hire – Kenshin faces adversaries from his past who seek to settle old scores.\n\nThis inspiring tale follows Kenshin and his resolute companions as they navigate the new Meiji Era, confronting ghosts from the past and forging new friendships. Together, they protect the weak and uphold justice in a world still grappling with the aftermath of war.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "440554d9b0697dc6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.542892857142856,
+    "arithmeticGeometricMean": 7.540391188061551,
+    "median": 7.623181818181818,
+    "hash": "440554d9b0697dc6",
+    "lastUpdate": "2024-05-09"
+  }
+}

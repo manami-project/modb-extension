@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16084",
+    "https://anilist.co/anime/130512",
+    "https://anime-planet.com/anime/mazica-party",
+    "https://anisearch.com/anime/16021",
+    "https://kitsu.io/anime/44218",
+    "https://livechart.me/anime/10440",
+    "https://myanimelist.net/anime/48391",
+    "https://notify.moe/anime/vKH5Gl8Mg"
+  ],
+  "synopsis": {
+    "text": "Party card game that has just hit the market. To his astonishment, the characters depicted on the cards mirror those he encountered in his dream. An invitation from the prestigious Mazica company leads him to meet the CEO, Jeff Johns, who entrusts Kezuru with a Mazica Gear. As he returns home, an airship-like creature assaults him, triggering his Mazica Gear and revealing a magical book. By scratching a card, Kezuru forms a pact with Barunya, a mazin with the peculiar combination of an airship and a feline. The enigmatic girl, Anya, informs Kezuru that he and others like him will become the genuine wizards destined to protect the world. As Kezuru joins the Mazica Academy, he finds himself engaged in Mazica Party card battles with his mazin ally, embarking on a thrilling journey to become a true wizard.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b1e791b916426f79",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.028003710575139,
+    "arithmeticGeometricMean": 4.9748215076488576,
+    "median": 4.946011131725417,
+    "hash": "b1e791b916426f79",
+    "lastUpdate": "2024-05-09"
+  }
+}

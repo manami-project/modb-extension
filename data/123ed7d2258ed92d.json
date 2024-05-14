@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3513",
+    "https://anilist.co/anime/2389",
+    "https://anime-planet.com/anime/gatchaman",
+    "https://anisearch.com/anime/2644",
+    "https://kitsu.io/anime/2166",
+    "https://livechart.me/anime/5560",
+    "https://myanimelist.net/anime/2389",
+    "https://notify.moe/anime/ZBfE5FiiR"
+  ],
+  "synopsis": {
+    "text": "Due to the escalating threats of dwindling resources and mounting pollution, the International Scientific Organization (ISO) is formed to enhance global environmental conditions. However, an international criminal syndicate, Gallactor, seeks world dominance by seizing control of the ISO. Orchestrated by an enigmatic extraterrestrial entity, Generalissimo X, Gallactor executes its sinister plans through its earthly chief commander, the masked Berg Katse. To combat Gallactor and its robotic monstrosities, ISO's Dr. Nambu recruits a valiant team of five young warriors, known as the Gatchaman Squad, or Science Commandos. Equipped with unique scientific abilities and striking bird-inspired costumes, the Gatchaman Squad stands ready to confront Gallactor's menace anywhere on Earth.\n\nLeading the team is the sagacious Ken, the Eagle, who is joined by the impetuous Joe, the Condor, the charming Jun, the Swan, the enthusiastic Jinpei, the Swallow, and the powerful Ryu, the Horned Owl. Each member wields individual scientific weaponry, but their collective might lies in their transformable aircraft, the Phoenix. Capable of morphing into a blazing arrow, the Phoenix can penetrate even the most colossal adversaries. GATCHAMAN unfolds as a thrilling saga of action and suspense, with Ken, Joe, Jun, Jinpei, and Ryu maintaining unwavering vigilance to counteract each new menace unleashed by Gallactor in its quest for global conquest.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "123ed7d2258ed92d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.462769345544856,
+    "arithmeticGeometricMean": 6.447131898222822,
+    "median": 6.452,
+    "hash": "123ed7d2258ed92d",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11297",
+    "https://anilist.co/anime/102296",
+    "https://anime-planet.com/anime/lao-fu-zi-fan-dou-zhen-tan",
+    "https://anisearch.com/anime/10852",
+    "https://kitsu.io/anime/10648",
+    "https://myanimelist.net/anime/30098",
+    "https://notify.moe/anime/dm2QpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ea2bd4dd78f60e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.282961038961039,
+    "arithmeticGeometricMean": 5.235229923213786,
+    "median": 4.909090909090909,
+    "hash": "6ea2bd4dd78f60e6",
+    "lastUpdate": "2024-05-07"
+  }
+}

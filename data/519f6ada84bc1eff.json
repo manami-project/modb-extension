@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9490",
+    "https://anilist.co/anime/16123",
+    "https://anime-planet.com/anime/saki-the-nationals",
+    "https://anisearch.com/anime/8147",
+    "https://kitsu.io/anime/7375",
+    "https://livechart.me/anime/173",
+    "https://myanimelist.net/anime/16123",
+    "https://notify.moe/anime/DA2KtFimR"
+  ],
+  "synopsis": {
+    "text": "Even after triumphing at the regional tournament, the Kiyosumi High School mahjong team finds themselves in unfamiliar territory as they advance to the National High School Tournament in Tokyo. In \"Saki: The Nationals,\" the team, led by Saki Miyanaga and Nodoka, has a chance to reconnect with old friends and rivals, while also reflecting on their journey over the past two years. However, the calm before the storm quickly fades as the tournament begins, and the team realizes that their opponents are not to be underestimated. With her sights set on facing her estranged sister Teru, Saki remains determined to overcome any obstacle in her path, even if it means facing opponents who are just as skilled, if not more so, than herself. The road to the top is filled with fierce competition from various mahjong clubs, including Achiga High, but the Kiyosumi team is ready to prove themselves in the arena and come out on top.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "519f6ada84bc1eff",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.399392118463547,
+    "arithmeticGeometricMean": 7.397228268027189,
+    "median": 7.4725925925925925,
+    "hash": "519f6ada84bc1eff",
+    "lastUpdate": "2024-05-09"
+  }
+}

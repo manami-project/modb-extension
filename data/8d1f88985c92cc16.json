@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15572",
+    "https://anilist.co/anime/118971",
+    "https://anime-planet.com/anime/monster-strike-zetsubou-funsai-shoujo-amida",
+    "https://anisearch.com/anime/15282",
+    "https://kitsu.io/anime/43372",
+    "https://livechart.me/anime/9988",
+    "https://myanimelist.net/anime/42156"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8d1f88985c92cc16",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.658881880024737,
+    "arithmeticGeometricMean": 6.649605639662394,
+    "median": 6.609554730983302,
+    "hash": "8d1f88985c92cc16",
+    "lastUpdate": "2024-05-10"
+  }
+}

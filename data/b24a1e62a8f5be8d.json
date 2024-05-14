@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15747",
+    "https://anilist.co/anime/124561",
+    "https://anime-planet.com/anime/pokemon-gotcha",
+    "https://anisearch.com/anime/15585",
+    "https://kitsu.io/anime/43585",
+    "https://myanimelist.net/anime/42984"
+  ],
+  "synopsis": {
+    "text": "October 22 marks the release of 'The Crown Tundra,' the second expansion for the popular Nintendo Switch role-playing games, Pokémon Sword and Pokémon Shield. To commemorate this event, The Pokémon Company has released a special music video titled 'Gotcha!', featuring the song 'Acacia' by BUMP OF CHICKEN.\n\nThe video, animated by BONES, takes viewers on a vibrant journey through a sprawling metropolis where a young boy and girl are on a mission to find their partners. As they navigate the city's towering skyscrapers and bustling streets, they cross paths with familiar faces from the Pokémon universe, including villains, champions, rivals, and professors.\n\nSet to the tune of 'Acacia,' the video serves as a tribute to the Pokémon series of games, offering a nostalgic trip through the electrifying world of Pokémon. The video is a technicolor spectacle that encapsulates the essence of the franchise, promising a thrilling ride for both new and old fans alike.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b24a1e62a8f5be8d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.0171768707483,
+    "arithmeticGeometricMean": 8.013041890313309,
+    "median": 8.079712430426715,
+    "hash": "b24a1e62a8f5be8d",
+    "lastUpdate": "2024-05-08"
+  }
+}

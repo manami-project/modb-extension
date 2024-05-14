@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126760",
+    "https://anime-planet.com/anime/gudetama-tango"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a14ce3ebe4e54510",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0097272727272735,
+    "arithmeticGeometricMean": 6.00074381611888,
+    "median": 6.0097272727272735,
+    "hash": "a14ce3ebe4e54510",
+    "lastUpdate": "2024-05-07"
+  }
+}

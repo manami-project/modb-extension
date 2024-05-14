@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/555",
+    "https://anilist.co/anime/107",
+    "https://anime-planet.com/anime/jing-king-of-bandits",
+    "https://anisearch.com/anime/2463",
+    "https://kitsu.io/anime/86",
+    "https://livechart.me/anime/5683",
+    "https://myanimelist.net/anime/107",
+    "https://notify.moe/anime/9k1tcFiig"
+  ],
+  "synopsis": {
+    "text": "King of Bandits, Jing, is a cunning and skilled thief who roams from town to town, stealing the most valuable treasures with his trusty feathered accomplice, Kir. Despite his youthful appearance, Jing is feared worldwide for his unmatched thieving abilities. In times of danger, Kir transforms into a powerful weapon, the Kir Royale, to aid Jing in his escapades. No treasure is safe from Jing's grasp, be it in heavily guarded fortresses or royal palaces. As the duo embarks on thrilling adventures, they encounter mysterious characters like Postino, who always seems to appear with crucial information. With his identity remaining a mystery, the legendary exploits of the King of Bandits continue to captivate the world. Join Jing and Kir as they seek out the most magnificent treasures and uncover the secrets that lie ahead.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a36d184dfe4f7141",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.977796072974645,
+    "arithmeticGeometricMean": 6.969200345138972,
+    "median": 7.12,
+    "hash": "a36d184dfe4f7141",
+    "lastUpdate": "2024-05-09"
+  }
+}

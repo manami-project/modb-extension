@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13037",
+    "https://anilist.co/anime/98515",
+    "https://anime-planet.com/anime/hatena-illusion",
+    "https://anisearch.com/anime/12467",
+    "https://kitsu.io/anime/13704",
+    "https://livechart.me/anime/2626",
+    "https://myanimelist.net/anime/35252",
+    "https://notify.moe/anime/sX94hKmiR"
+  ],
+  "synopsis": {
+    "text": "When Makoto Shiranui, a young boy with dreams of becoming a magician, journeys to Tokyo to learn under the tutelage of his idol and family friend, Mamoru Hoshisato, he finds himself in a whirlwind of unexpected encounters. As a child, Makoto was captivated by Mamoru's magic show, which featured his wife Maeve, and vowed to become a magician himself. However, upon his arrival at the haunted Hoshisato mansion, he is greeted not only by the family butler Jeeves and maid Emma but also by his estranged childhood friend, Hatena, Mamoru's daughter.\n\nAs Makoto navigates the bustling city of Tokyo, plagued by a series of burglaries committed by a mysterious and alluring thief, he finds solace in Hatena's presence. Unfortunately, their reunion is far from pleasant, as the two no longer see eye to eye. Despite the awkwardness between them, Makoto remains determined to learn the art of magic and rekindle his friendship with Hatena, all while unraveling the secrets behind the enigmatic Artifacts and the true purpose of the Hoshisato family.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b7893442a75267b0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.669294455544455,
+    "arithmeticGeometricMean": 5.652423093739491,
+    "median": 5.404999999999999,
+    "hash": "b7893442a75267b0",
+    "lastUpdate": "2024-05-09"
+  }
+}

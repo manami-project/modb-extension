@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18220",
+    "https://anilist.co/anime/169755",
+    "https://anime-planet.com/anime/bleach-thousand-year-blood-war-part-iii-the-conflict",
+    "https://anisearch.com/anime/18732",
+    "https://kitsu.io/anime/48015",
+    "https://livechart.me/anime/11468",
+    "https://myanimelist.net/anime/56784",
+    "https://notify.moe/anime/WKrRryZSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e185d257549a2ae7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 9.540816326530614,
+    "arithmeticGeometricMean": 9.540816326530614,
+    "median": 9.540816326530614,
+    "hash": "e185d257549a2ae7",
+    "lastUpdate": "2024-05-09"
+  }
+}

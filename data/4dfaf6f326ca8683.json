@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136110",
+    "https://anime-planet.com/anime/beyblade-shogun-steel-specials",
+    "https://anisearch.com/anime/9418",
+    "https://kitsu.io/anime/9073",
+    "https://livechart.me/anime/6592",
+    "https://myanimelist.net/anime/21479",
+    "https://notify.moe/anime/GdW-tFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4dfaf6f326ca8683",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.170882498453927,
+    "arithmeticGeometricMean": 6.161639590298255,
+    "median": 5.973,
+    "hash": "4dfaf6f326ca8683",
+    "lastUpdate": "2024-05-06"
+  }
+}

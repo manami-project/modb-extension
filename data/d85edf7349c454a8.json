@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15318",
+    "https://anilist.co/anime/114030",
+    "https://anime-planet.com/anime/katana-maidens-tomoshibi",
+    "https://anisearch.com/anime/14827",
+    "https://kitsu.io/anime/43592",
+    "https://livechart.me/anime/9723",
+    "https://myanimelist.net/anime/40901",
+    "https://notify.moe/anime/6iuN9dKMg"
+  ],
+  "synopsis": {
+    "text": "On the brink of modernity, an age-old battle persists as sword-wielding shrine maidens, known as Toji, face off against monstrous entities called Aradama, who threaten humanity's peaceful existence. These Toji, dressed in school uniforms and armed with sacred swords called Okatana, form an elite unit within the police force, tasked with maintaining the delicate balance between the human realm and the supernatural.\n\nIn the aftermath of the catastrophic End-of-the-Year Great Disaster, caused by the secessions of the seemingly defeated Tagitsuhime, the Toji find themselves busier than ever. Aradama sightings have surged, leaving the Toji with little time to rest, let alone prepare for the upcoming tournament. Mihono Asakura, a member of the Akabane Swords Investigation Team, finds herself caught between her rigorous training and her team's mission to locate lost Okatana and investigate Aradama incidents.\n\nAs spring approaches, the top Toji from five specialized schools across the nation gather for a prestigious tournament, a tradition that showcases their unique abilities and fosters a spirit of competition. Amidst this backdrop, Mihono's team is dispatched to Enoshima to track down a mysterious humanoid Aradama that has eluded capture. The ensuing encounter challenges their expectations, adding a new layer of complexity to their mission.\n\nWith the tournament looming, the Toji must hone their skills, confront unexpected adversaries, and uphold their sacred duty to protect humanity from the ever-encroaching Aradama threat.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d85edf7349c454a8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.736128014842301,
+    "arithmeticGeometricMean": 6.721990535827392,
+    "median": 6.747090909090909,
+    "hash": "d85edf7349c454a8",
+    "lastUpdate": "2024-05-10"
+  }
+}

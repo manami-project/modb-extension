@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10656",
+    "https://anime-planet.com/anime/inui-san",
+    "https://anisearch.com/anime/9672",
+    "https://kitsu.io/anime/8551",
+    "https://livechart.me/anime/595",
+    "https://myanimelist.net/anime/24501",
+    "https://notify.moe/anime/xdlAtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "55a1a12fb34c3a5d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.36734693877551,
+    "arithmeticGeometricMean": 3.152675244645953,
+    "median": 3.36734693877551,
+    "hash": "55a1a12fb34c3a5d",
+    "lastUpdate": "2024-05-09"
+  }
+}

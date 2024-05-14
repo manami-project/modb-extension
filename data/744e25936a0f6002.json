@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143290",
+    "https://anime-planet.com/anime/twenty-one-pilots-saturday",
+    "https://anisearch.com/anime/16566",
+    "https://myanimelist.net/anime/50151"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "744e25936a0f6002",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.9187374768089045,
+    "arithmeticGeometricMean": 5.897046881027056,
+    "median": 6.080454545454545,
+    "hash": "744e25936a0f6002",
+    "lastUpdate": "2024-05-08"
+  }
+}

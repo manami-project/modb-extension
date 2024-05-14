@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12808",
+    "https://anilist.co/anime/98476",
+    "https://anime-planet.com/anime/biblia-koshodou-no-jiken-techou",
+    "https://anisearch.com/anime/12224",
+    "https://kitsu.io/anime/40633",
+    "https://livechart.me/anime/2544",
+    "https://notify.moe/anime/X10D2FiiR"
+  ],
+  "synopsis": {
+    "text": "Hidden in the quaint town of Kamakura lies a bookstore that holds more than just books. Biblia Antiquarian Bookshop, owned by the young and introverted Shioriko Shinokawa, is a haven for rare and ancient books that carry secrets waiting to be unraveled. Shioriko, despite her shy demeanor, is a master of her craft. Her extensive knowledge and deep passion for literature allow her to decipher the mysteries hidden within the pages of the books that find their way into her store.\n\nWhen Daisuke, a young man with a 'phobia' for books, stumbles upon the store with an autographed collection of Natsume Soseki's works inherited from his grandmother, a series of intriguing events unfold. Despite his difficulty with reading, Daisuke becomes Shioriko's unlikely ally, helping her solve mysteries that range from the curious to the complex.\n\nTogether, the pair delves into the world of vintage books, uncovering hidden meanings and providing answers to those in search of them. The true answers, however, are never as straightforward as they seem. Join Shioriko and Daisuke as they embark on a journey of mystery and discovery in Biblia Koshodou no Jiken Techou.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe915be62b885760",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "fe915be62b885760",
+    "lastUpdate": "2024-05-11"
+  }
+}

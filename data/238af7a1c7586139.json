@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6085",
+    "https://anilist.co/anime/129045",
+    "https://anime-planet.com/anime/kiku-chan-to-ookami",
+    "https://anisearch.com/anime/4961",
+    "https://kitsu.io/anime/3973",
+    "https://myanimelist.net/anime/5192",
+    "https://notify.moe/anime/Ruer5Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "238af7a1c7586139",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.896376004947434,
+    "arithmeticGeometricMean": 5.879541328626246,
+    "median": 5.9791280148423,
+    "hash": "238af7a1c7586139",
+    "lastUpdate": "2024-05-07"
+  }
+}

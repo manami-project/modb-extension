@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1125",
+    "https://anilist.co/anime/3288",
+    "https://anime-planet.com/anime/mobile-suit-gundam-evolve",
+    "https://anisearch.com/anime/746",
+    "https://kitsu.io/anime/2911",
+    "https://livechart.me/anime/6504",
+    "https://myanimelist.net/anime/3288",
+    "https://notify.moe/anime/Zd5Q5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Explore the vast expanse of the Gundam Universe through a series of captivating short films, each offering a unique perspective on the iconic Mobile Suit Gundam series. From side-stories and alternative scenes to training sessions and romantic tiffs, these films bring together a diverse range of animation styles, including traditional cels, 3-D CG rendering, and cel-shaded 2-D animation.\n\nWitness Amuro Ray's intense battle against Quess Paraya in \"Char's Counterattack,\" or follow Domon Kasshu's rigorous training and a hint of romance with Rain Mikamura in \"G Gundam.\" Delve into Kamille Bidan's journey as he masters the Gundam Mk.II in \"Zeta Gundam,\" and watch Canard Pars and Prayer Reverie lock horns in a thrilling duel from the \"Gundam SEED X Astray\" manga.\n\nWith fifteen action-packed films featuring fan-favorite characters such as Heero Yuy from \"Gundam Wing\" and a fresh take on episode 39 of the original \"Mobile Suit Gundam\" TV series, \"Gundam Evolve\" offers an unparalleled visual experience for both seasoned fans and newcomers alike. Each short film, often ranging from 3 to 5 minutes, highlights a specific Gundam or Mobile Suit and its pilot, showcasing their unique abilities and the conflicts they face.\n\nEmbark on this thrilling journey through the Gundam Universe, and discover the untold stories of its legendary heroes and their mighty Mobile Suits.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "331133ead2ce40c9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.331431221839385,
+    "arithmeticGeometricMean": 6.325602215210353,
+    "median": 6.5,
+    "hash": "331133ead2ce40c9",
+    "lastUpdate": "2024-05-09"
+  }
+}

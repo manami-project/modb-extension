@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3115",
+    "https://anilist.co/anime/4244",
+    "https://anime-planet.com/anime/galactic-whirlwind-sasuraiger",
+    "https://anisearch.com/anime/571",
+    "https://kitsu.io/anime/3536",
+    "https://livechart.me/anime/7846",
+    "https://myanimelist.net/anime/4244",
+    "https://notify.moe/anime/pv1X5KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b49a48997bb56154",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.260532467532467,
+    "arithmeticGeometricMean": 6.243260599586991,
+    "median": 6.052597402597402,
+    "hash": "b49a48997bb56154",
+    "lastUpdate": "2024-05-09"
+  }
+}

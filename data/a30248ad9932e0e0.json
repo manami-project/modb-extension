@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1811",
+    "https://anilist.co/anime/307",
+    "https://anime-planet.com/anime/kerokko-demetan",
+    "https://anisearch.com/anime/1502",
+    "https://kitsu.io/anime/9016",
+    "https://livechart.me/anime/11838",
+    "https://myanimelist.net/anime/307",
+    "https://notify.moe/anime/Aq9bpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a30248ad9932e0e0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.77864139941691,
+    "arithmeticGeometricMean": 5.7137913956696895,
+    "median": 5.906,
+    "hash": "a30248ad9932e0e0",
+    "lastUpdate": "2024-05-09"
+  }
+}

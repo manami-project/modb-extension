@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14867",
+    "https://anilist.co/anime/101907",
+    "https://anime-planet.com/anime/zhanguo-fan",
+    "https://anisearch.com/anime/12620",
+    "https://kitsu.io/anime/14012",
+    "https://livechart.me/anime/8331",
+    "https://myanimelist.net/anime/36428",
+    "https://notify.moe/anime/Vs4H2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f280bdbb21b48a6d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.129090909090909,
+    "arithmeticGeometricMean": 5.00491727424045,
+    "median": 5.1431818181818185,
+    "hash": "f280bdbb21b48a6d",
+    "lastUpdate": "2024-05-10"
+  }
+}

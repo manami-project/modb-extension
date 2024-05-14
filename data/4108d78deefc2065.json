@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10624",
+    "https://anilist.co/anime/20717",
+    "https://anime-planet.com/anime/nobunaga-concerto",
+    "https://anisearch.com/anime/9648",
+    "https://kitsu.io/anime/8558",
+    "https://livechart.me/anime/543",
+    "https://myanimelist.net/anime/24135",
+    "https://notify.moe/anime/GOXAtKmig"
+  ],
+  "synopsis": {
+    "text": "The narrative unfolds as Saburō, an indifferent high school student, finds himself inexplicably transported back in time to the Sengoku Era of Japan. In this new reality, he encounters the frail yet formidable Oda Nobunaga, a renowned warlord with an ambition to unify Japan. Strikingly resembling Nobunaga, Saburō is entrusted with the daunting task of impersonating the warlord. With only his contemporary knowledge and a sudden responsibility to uphold, Saburō embarks on an unforeseen journey to fulfill Nobunaga's dream of a united Japan.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4108d78deefc2065",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.46465723562152,
+    "arithmeticGeometricMean": 7.462776710762316,
+    "median": 7.513999999999999,
+    "hash": "4108d78deefc2065",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11797",
+    "https://anilist.co/anime/21504",
+    "https://anime-planet.com/anime/pretty-cure-all-stars-minna-de-utau-kiseki-no-mahou",
+    "https://anisearch.com/anime/10996",
+    "https://kitsu.io/anime/11911",
+    "https://livechart.me/anime/1934",
+    "https://myanimelist.net/anime/32160",
+    "https://notify.moe/anime/jyn6tFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d5d8796fc7e62db7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.084575404187649,
+    "arithmeticGeometricMean": 7.08034994425956,
+    "median": 7.21,
+    "hash": "d5d8796fc7e62db7",
+    "lastUpdate": "2024-05-09"
+  }
+}

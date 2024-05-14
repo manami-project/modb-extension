@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17302",
+    "https://anilist.co/anime/169766",
+    "https://anime-planet.com/anime/tsukiuta-rabbits-kingdom-the-movie",
+    "https://anisearch.com/anime/17340",
+    "https://kitsu.io/anime/46543",
+    "https://livechart.me/anime/11172",
+    "https://myanimelist.net/anime/51539",
+    "https://notify.moe/anime/qsUiizwng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "137a1f0c3a7e3040",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "137a1f0c3a7e3040",
+    "lastUpdate": "2024-05-11"
+  }
+}

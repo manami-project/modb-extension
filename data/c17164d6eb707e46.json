@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17867",
+    "https://anilist.co/anime/161632",
+    "https://anime-planet.com/anime/kuromis-pretty-journey",
+    "https://anisearch.com/anime/18244",
+    "https://kitsu.io/anime/47106",
+    "https://livechart.me/anime/11813",
+    "https://myanimelist.net/anime/54535",
+    "https://notify.moe/anime/jDgEyJbVg"
+  ],
+  "synopsis": {
+    "text": "Story revolves around Kuromi, a determined young woman on a global quest to find her lost sister, Romina. When Kuromi receives a mysterious photograph of Romina, her search intensifies, and she becomes more resolute than ever to reunite with her. Along the way, Kuromi gains a group of loyal friends who join her on this emotional journey. However, their path is fraught with danger as they encounter members of a sinister organization intent on thwarting their progress. Will Kuromi and her newfound companions have what it takes to overcome these obstacles and find Romina? Join them on this thrilling adventure to find out!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c17164d6eb707e46",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.33065120593692,
+    "arithmeticGeometricMean": 6.299283454183883,
+    "median": 6.719545454545455,
+    "hash": "c17164d6eb707e46",
+    "lastUpdate": "2024-05-09"
+  }
+}

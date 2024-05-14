@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7951",
+    "https://anilist.co/anime/9518",
+    "https://anime-planet.com/anime/ichigo-ichie-kimi-no-kotoba",
+    "https://anisearch.com/anime/6512",
+    "https://kitsu.io/anime/5768",
+    "https://livechart.me/anime/11603",
+    "https://myanimelist.net/anime/9518",
+    "https://notify.moe/anime/eb4MtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8e731158021d788b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.166357452071737,
+    "arithmeticGeometricMean": 5.164894135495996,
+    "median": 5.090909090909091,
+    "hash": "8e731158021d788b",
+    "lastUpdate": "2024-05-09"
+  }
+}

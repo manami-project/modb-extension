@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anilist.co/anime/8062",
+    "https://anime-planet.com/anime/my-hime-kuro-no-mai-saigo-no-bansan",
+    "https://anisearch.com/anime/6832",
+    "https://anisearch.com/anime/6833",
+    "https://kitsu.io/anime/5182",
+    "https://livechart.me/anime/7124",
+    "https://myanimelist.net/anime/8062",
+    "https://notify.moe/anime/7bUztFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "15466e4021771eab",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.441163530347204,
+    "arithmeticGeometricMean": 6.421559868007383,
+    "median": 6.64,
+    "hash": "15466e4021771eab",
+    "lastUpdate": "2024-05-06"
+  }
+}

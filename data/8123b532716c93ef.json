@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6623",
+    "https://anilist.co/anime/7816",
+    "https://anime-planet.com/anime/dr-slump-arale-chan-n-cha-penguin-mura-wa-hare-nochi-hare",
+    "https://anisearch.com/anime/5658",
+    "https://kitsu.io/anime/5133",
+    "https://livechart.me/anime/10993",
+    "https://myanimelist.net/anime/7816",
+    "https://notify.moe/anime/b0bktFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8123b532716c93ef",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.025840975351179,
+    "arithmeticGeometricMean": 5.985671948192662,
+    "median": 6.090909090909091,
+    "hash": "8123b532716c93ef",
+    "lastUpdate": "2024-05-09"
+  }
+}

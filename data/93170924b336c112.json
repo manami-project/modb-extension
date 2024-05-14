@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11663",
+    "https://anime-planet.com/anime/gogulyeoui-jeolm-eun-musadeul",
+    "https://anisearch.com/anime/12357",
+    "https://kitsu.io/anime/11847",
+    "https://myanimelist.net/anime/31692",
+    "https://notify.moe/anime/9kCqpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "93170924b336c112",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.122448979591836,
+    "arithmeticGeometricMean": 6.0704528257091965,
+    "median": 6.122448979591836,
+    "hash": "93170924b336c112",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18547",
+    "https://anilist.co/anime/176273",
+    "https://anime-planet.com/anime/zenshu",
+    "https://anisearch.com/anime/19137",
+    "https://kitsu.io/anime/48638",
+    "https://livechart.me/anime/12601",
+    "https://myanimelist.net/anime/58502",
+    "https://notify.moe/anime/HlejcEJSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca34004c0dda67e3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "ca34004c0dda67e3",
+    "lastUpdate": "2024-05-11"
+  }
+}

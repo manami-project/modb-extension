@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17321",
+    "https://anilist.co/anime/126367",
+    "https://anime-planet.com/anime/rift",
+    "https://anisearch.com/anime/17132",
+    "https://kitsu.io/anime/44602",
+    "https://myanimelist.net/anime/50443"
+  ],
+  "synopsis": {
+    "text": "Only when the fabric of our reality is torn apart by the unstable energies of another realm does a gateway form, allowing monstrous beings from the other side to infiltrate our world. In the face of this imminent threat, a select group of individuals, gifted with extraordinary abilities, rise to the challenge. Positioning themselves at the very edge of the rift, they stand as the world's last line of defense against the invading forces. These brave warriors dedicate their lives to safeguarding humanity and preventing the further encroachment of these otherworldly creatures.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "53da14f5ceafe938",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.944480890538034,
+    "arithmeticGeometricMean": 5.907525241505944,
+    "median": 4.87,
+    "hash": "53da14f5ceafe938",
+    "lastUpdate": "2024-05-08"
+  }
+}

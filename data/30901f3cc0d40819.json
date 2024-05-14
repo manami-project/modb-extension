@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12572",
+    "https://anilist.co/anime/97887",
+    "https://anime-planet.com/anime/sentai-hero-sukiyaki-force",
+    "https://anisearch.com/anime/12123",
+    "https://kitsu.io/anime/12838",
+    "https://livechart.me/anime/2435",
+    "https://myanimelist.net/anime/34456",
+    "https://notify.moe/anime/LzNW2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "30901f3cc0d40819",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.380723562152133,
+    "arithmeticGeometricMean": 5.310708133184143,
+    "median": 5.663265306122449,
+    "hash": "30901f3cc0d40819",
+    "lastUpdate": "2024-05-09"
+  }
+}

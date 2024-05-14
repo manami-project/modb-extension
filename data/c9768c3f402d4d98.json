@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14621",
+    "https://anilist.co/anime/108734",
+    "https://anime-planet.com/anime/kedama-no-gonjirou",
+    "https://anisearch.com/anime/14229",
+    "https://kitsu.io/anime/42405",
+    "https://livechart.me/anime/9200",
+    "https://myanimelist.net/anime/39040"
+  ],
+  "synopsis": {
+    "text": "Gonjirou, a peculiar ball of twine with an uncanny ability to transform, finds a home with Makoto, a reserved fifth-grade student. Upon discovering the mysterious creature, Makoto assumes it to be a stray cat and takes it under his wing. However, the following day, Gonjirou reveals its true form and pledges to serve its newfound master.\n\nWith its shapeshifting capabilities, Gonjirou can seamlessly adapt to any situation and is eager to help Makoto navigate the challenges of daily life. The pair's unlikely friendship leads to a series of hilarious and heartwarming misadventures, as they learn to rely on each other in unexpected ways.\n\nKedama no Gonjirou is a delightful comedy that follows the exploits of Makoto and his enigmatic companion. As Gonjirou's extraordinary abilities unfold, the series promises to captivate viewers with its unique blend of humor and warmth, weaving its way into their hearts.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c9768c3f402d4d98",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.060597402597403,
+    "arithmeticGeometricMean": 4.964680080602867,
+    "median": 4.636363636363637,
+    "hash": "c9768c3f402d4d98",
+    "lastUpdate": "2024-05-09"
+  }
+}

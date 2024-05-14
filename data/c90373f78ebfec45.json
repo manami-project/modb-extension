@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103341",
+    "https://anime-planet.com/anime/zoojazoo-watashi-no-onaka",
+    "https://kitsu.io/anime/14006",
+    "https://myanimelist.net/anime/35734",
+    "https://notify.moe/anime/TXnHhKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c90373f78ebfec45",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.25,
+    "arithmeticGeometricMean": 5.242203008728423,
+    "median": 5.0,
+    "hash": "c90373f78ebfec45",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/idol-fantasy",
+    "https://anisearch.com/anime/15263",
+    "https://kitsu.io/anime/42690",
+    "https://myanimelist.net/anime/38471"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "112dd3e86de7ff53",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.8553741496598635,
+    "arithmeticGeometricMean": 5.850611022585484,
+    "median": 6.07,
+    "hash": "112dd3e86de7ff53",
+    "lastUpdate": "2024-05-07"
+  }
+}

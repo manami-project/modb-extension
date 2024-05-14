@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2231",
+    "https://anilist.co/anime/6653",
+    "https://anime-planet.com/anime/galaxy-express-999-glass-no-clair",
+    "https://anisearch.com/anime/987",
+    "https://kitsu.io/anime/4649",
+    "https://livechart.me/anime/8596",
+    "https://myanimelist.net/anime/6653",
+    "https://notify.moe/anime/Kj06cKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8c9b35f7d7e26635",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2838552875695735,
+    "arithmeticGeometricMean": 6.2669873932605595,
+    "median": 6.454545454545455,
+    "hash": "8c9b35f7d7e26635",
+    "lastUpdate": "2024-05-09"
+  }
+}

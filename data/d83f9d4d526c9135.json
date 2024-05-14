@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13027",
+    "https://anilist.co/anime/98628",
+    "https://anime-planet.com/anime/jingisukan-no-jin-kun",
+    "https://anisearch.com/anime/12736",
+    "https://kitsu.io/anime/40725",
+    "https://livechart.me/anime/2618",
+    "https://myanimelist.net/anime/35233",
+    "https://notify.moe/anime/8fXDhFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d83f9d4d526c9135",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.75417439703154,
+    "arithmeticGeometricMean": 4.619434893262672,
+    "median": 4.75417439703154,
+    "hash": "d83f9d4d526c9135",
+    "lastUpdate": "2024-05-09"
+  }
+}

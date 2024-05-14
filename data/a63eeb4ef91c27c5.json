@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16341",
+    "https://anime-planet.com/anime/moonlight-adventure",
+    "https://myanimelist.net/anime/54085"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a63eeb4ef91c27c5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "a63eeb4ef91c27c5",
+    "lastUpdate": "2024-05-11"
+  }
+}

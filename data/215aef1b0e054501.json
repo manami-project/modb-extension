@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/real-koke-kun",
+    "https://kitsu.io/anime/45026",
+    "https://myanimelist.net/anime/42358"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "215aef1b0e054501",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.882,
+    "arithmeticGeometricMean": 5.857190511077221,
+    "median": 5.882,
+    "hash": "215aef1b0e054501",
+    "lastUpdate": "2024-05-07"
+  }
+}

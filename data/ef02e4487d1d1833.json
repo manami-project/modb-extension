@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8238",
+    "https://anilist.co/anime/17981",
+    "https://anime-planet.com/anime/kiki-to-lala-no-hoshi-no-dance-shoes",
+    "https://anisearch.com/anime/6866",
+    "https://kitsu.io/anime/9888",
+    "https://myanimelist.net/anime/17981",
+    "https://notify.moe/anime/a4IPpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef02e4487d1d1833",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.562622758194187,
+    "arithmeticGeometricMean": 5.5403395493597305,
+    "median": 5.215909090909091,
+    "hash": "ef02e4487d1d1833",
+    "lastUpdate": "2024-05-07"
+  }
+}

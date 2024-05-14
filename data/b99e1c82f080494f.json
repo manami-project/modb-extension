@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14681",
+    "https://anime-planet.com/anime/cardfight-vanguard-zoku-koukousei-hen"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b99e1c82f080494f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.253,
+    "arithmeticGeometricMean": 6.230226962236699,
+    "median": 6.253,
+    "hash": "b99e1c82f080494f",
+    "lastUpdate": "2024-05-08"
+  }
+}

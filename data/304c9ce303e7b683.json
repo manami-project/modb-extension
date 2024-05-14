@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12451",
+    "https://anilist.co/anime/97683",
+    "https://anime-planet.com/anime/angels-3-piece",
+    "https://anisearch.com/anime/11825",
+    "https://kitsu.io/anime/12624",
+    "https://livechart.me/anime/2360",
+    "https://myanimelist.net/anime/34177",
+    "https://notify.moe/anime/SlOihFimg"
+  ],
+  "synopsis": {
+    "text": "Based on the award-winning light novel by Sagu Aoyama, Tenshi no 3P! follows the story of Kyou Nukui, a high school student who spends his days composing music and posting it online. After uploading a new composition under a different name, Kyou receives an email from someone who praises his music and invites him to meet in person. To his surprise, he finds three elementary school girls waiting for him at the meeting place. The girls, Jun Gotou, Nozomi Momijidani, and Sora Kaneshiro, are fans of Kyou's music and want his help to hold a concert at their orphanage, which is an old church. Although hesitant at first, Kyou agrees to help them after seeing their musical abilities. The story follows Kyou as he helps the three girls, who he refers to as his \"angels,\" prepare for the concert and how they change his life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "304c9ce303e7b683",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.667205902563045,
+    "arithmeticGeometricMean": 6.661694654793689,
+    "median": 6.582727272727272,
+    "hash": "304c9ce303e7b683",
+    "lastUpdate": "2024-05-10"
+  }
+}

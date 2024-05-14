@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11632",
+    "https://anilist.co/anime/102456",
+    "https://anime-planet.com/anime/guitar",
+    "https://anisearch.com/anime/11950",
+    "https://kitsu.io/anime/11710",
+    "https://myanimelist.net/anime/31510",
+    "https://notify.moe/anime/V1v3pFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d65d1652aad794f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.456100803957947,
+    "arithmeticGeometricMean": 4.354396773730944,
+    "median": 4.636363636363637,
+    "hash": "7d65d1652aad794f",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/146655",
+    "https://anime-planet.com/anime/azki-hakkoutai-solar-cycle",
+    "https://anisearch.com/anime/17321",
+    "https://kitsu.io/anime/43990",
+    "https://kitsu.io/anime/46012",
+    "https://myanimelist.net/anime/51375"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "223ee3864b501320",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.328484230055659,
+    "arithmeticGeometricMean": 6.306983817624589,
+    "median": 6.544090909090909,
+    "hash": "223ee3864b501320",
+    "lastUpdate": "2024-05-06"
+  }
+}

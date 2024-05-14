@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15128",
+    "https://anilist.co/anime/112719",
+    "https://anime-planet.com/anime/futsal-boys",
+    "https://anisearch.com/anime/14658",
+    "https://kitsu.io/anime/43126",
+    "https://livechart.me/anime/9621",
+    "https://myanimelist.net/anime/40488",
+    "https://notify.moe/anime/D2Et44xMg"
+  ],
+  "synopsis": {
+    "text": "Despite his initial indifference, Haru Yamato finds himself captivated by the thrilling sport of futsal after witnessing the mesmerizing performance of Tokinari Tennoji at the U-18 World Cup. Inspired by Tennoji's prowess, Haru eagerly joins the futsal club at Koyo Gakuen High School on his first day. Among the talented team members, he encounters the skilled captain, Toi Tsukioka, who once played alongside Tennoji. Despite being a novice, Haru's determination to become a formidable player drives him to persevere alongside his newfound friends, as they strive to elevate their team to rival the best in the sport.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4efd663e8ac34794",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.520839285714286,
+    "arithmeticGeometricMean": 5.469569051762268,
+    "median": 5.692857142857142,
+    "hash": "4efd663e8ac34794",
+    "lastUpdate": "2024-05-09"
+  }
+}

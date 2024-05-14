@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14283",
+    "https://anilist.co/anime/120872",
+    "https://anime-planet.com/anime/kamotori-gonbee",
+    "https://kitsu.io/anime/12161",
+    "https://myanimelist.net/anime/33177",
+    "https://notify.moe/anime/6SHghFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ebb2a5f617cf99a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.212121212121212,
+    "arithmeticGeometricMean": 5.1207169132124255,
+    "median": 5.0,
+    "hash": "1ebb2a5f617cf99a",
+    "lastUpdate": "2024-05-08"
+  }
+}

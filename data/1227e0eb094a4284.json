@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3119",
+    "https://anilist.co/anime/10055",
+    "https://anime-planet.com/anime/black-jack-heian-sento",
+    "https://anisearch.com/anime/715",
+    "https://kitsu.io/anime/6012",
+    "https://livechart.me/anime/6767",
+    "https://myanimelist.net/anime/10055",
+    "https://notify.moe/anime/90HnpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1227e0eb094a4284",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.454245781429455,
+    "arithmeticGeometricMean": 6.4495378378417385,
+    "median": 6.37,
+    "hash": "1227e0eb094a4284",
+    "lastUpdate": "2024-05-09"
+  }
+}

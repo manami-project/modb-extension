@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106563",
+    "https://anime-planet.com/anime/reinventing-the-square-wheel",
+    "https://anisearch.com/anime/14483",
+    "https://kitsu.io/anime/45137"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0135a1ed6a74dff2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.261317254174397,
+    "arithmeticGeometricMean": 3.194672985962163,
+    "median": 3.261317254174397,
+    "hash": "0135a1ed6a74dff2",
+    "lastUpdate": "2024-05-07"
+  }
+}

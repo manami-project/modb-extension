@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13839",
+    "https://anilist.co/anime/101379",
+    "https://anime-planet.com/anime/pastel-memories",
+    "https://anisearch.com/anime/13384",
+    "https://kitsu.io/anime/41430",
+    "https://livechart.me/anime/3115",
+    "https://myanimelist.net/anime/37374",
+    "https://notify.moe/anime/tC0t40viR"
+  ],
+  "synopsis": {
+    "text": "Otaku culture, once vibrant and thriving in the bustling city of Akihabara, is now on the brink of extinction due to a mysterious virus causing widespread memory loss. In a future where this once sacred otaku haven has been reduced to a mundane office town, a few remaining otaku shops stand as the last bastions of hope.\n\nIn one such shop, a determined manager, Izumi, and her team of passionate otaku girls embark on a mission to restore the lost memories of anime and manga enthusiasts. As the world of creative works crumbles under the virus's assault, these brave girls fight to preserve the cherished memories of people's favorite manga and anime, striving to return Akihabara to its former glory.\n\nIn this role-playing game, players join Izumi and her team as shopkeepers, aiding in the battle against the virus while nurturing the talents of the otaku girls. Together, they aim to reclaim the lost otaku memories and revive the vibrant culture that once made Akihabara the holy land of otaku.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4589c180df747f63",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.2684120284477425,
+    "arithmeticGeometricMean": 5.239559729045648,
+    "median": 5.1466666666666665,
+    "hash": "4589c180df747f63",
+    "lastUpdate": "2024-05-09"
+  }
+}

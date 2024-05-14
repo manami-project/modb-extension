@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6916",
+    "https://anime-planet.com/anime/kachikachi-yama",
+    "https://anisearch.com/anime/8717",
+    "https://kitsu.io/anime/6334",
+    "https://myanimelist.net/anime/10757",
+    "https://notify.moe/anime/h2P4pKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a1f76d6fd30a413d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.500748299319728,
+    "arithmeticGeometricMean": 4.438832570132073,
+    "median": 5.0,
+    "hash": "a1f76d6fd30a413d",
+    "lastUpdate": "2024-05-07"
+  }
+}

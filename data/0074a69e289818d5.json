@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16443",
+    "https://anilist.co/anime/136880",
+    "https://anime-planet.com/anime/beastars-final-season",
+    "https://anisearch.com/anime/16524",
+    "https://kitsu.io/anime/44914",
+    "https://livechart.me/anime/10715",
+    "https://myanimelist.net/anime/49469",
+    "https://notify.moe/anime/DCzg6xMnR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0074a69e289818d5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.867346938775509,
+    "arithmeticGeometricMean": 5.867346938775509,
+    "median": 5.867346938775509,
+    "hash": "0074a69e289818d5",
+    "lastUpdate": "2024-05-08"
+  }
+}

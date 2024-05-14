@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6018",
+    "https://anilist.co/anime/4726",
+    "https://anime-planet.com/anime/tower-of-druaga-the-sword-of-uruk",
+    "https://anisearch.com/anime/4952",
+    "https://kitsu.io/anime/3764",
+    "https://livechart.me/anime/4060",
+    "https://myanimelist.net/anime/4726",
+    "https://notify.moe/anime/I0S95KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe9ef658278a2834",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.18417508055854,
+    "arithmeticGeometricMean": 7.181625918018415,
+    "median": 7.165,
+    "hash": "fe9ef658278a2834",
+    "lastUpdate": "2024-05-09"
+  }
+}

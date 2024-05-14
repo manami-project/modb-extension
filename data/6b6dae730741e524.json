@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3384",
+    "https://anilist.co/anime/4176",
+    "https://anime-planet.com/anime/wannabes",
+    "https://anisearch.com/anime/3332",
+    "https://kitsu.io/anime/3502",
+    "https://livechart.me/anime/12077",
+    "https://myanimelist.net/anime/4176",
+    "https://notify.moe/anime/_jKXcKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b6dae730741e524",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.987394999558265,
+    "arithmeticGeometricMean": 4.943925055738732,
+    "median": 5.13,
+    "hash": "6b6dae730741e524",
+    "lastUpdate": "2024-05-10"
+  }
+}

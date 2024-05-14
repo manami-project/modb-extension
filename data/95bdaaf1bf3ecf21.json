@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9646",
+    "https://anilist.co/anime/16820",
+    "https://anime-planet.com/anime/beongae-atom",
+    "https://anisearch.com/anime/8892",
+    "https://kitsu.io/anime/7533",
+    "https://myanimelist.net/anime/16820",
+    "https://notify.moe/anime/5e7cpKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "95bdaaf1bf3ecf21",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.92243228200371,
+    "arithmeticGeometricMean": 4.832680336846293,
+    "median": 4.727272727272727,
+    "hash": "95bdaaf1bf3ecf21",
+    "lastUpdate": "2024-05-08"
+  }
+}

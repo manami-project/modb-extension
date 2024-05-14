@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1297",
+    "https://anilist.co/anime/158",
+    "https://anime-planet.com/anime/maria-watches-over-us",
+    "https://anisearch.com/anime/3295",
+    "https://kitsu.io/anime/7815",
+    "https://livechart.me/anime/4056",
+    "https://myanimelist.net/anime/158",
+    "https://notify.moe/anime/cZJppKiig"
+  ],
+  "synopsis": {
+    "text": "Rosa Sinensis, Rosa Gigantea, and Rosa Foetida - the three roses of the Lillian Girls' Academy, a prestigious all-girls Catholic school in Tokyo, represent the epitome of grace, beauty, and leadership. When Yumi Fukuzawa, a timid first-year student, unexpectedly captures the interest of Sachiko Ogasawara, a revered member of the student council and one of the school's most admired roses, her life takes a dramatic turn.\n\nSachiko offers Yumi the esteemed position of being her soeur, or 'sister', who will guide and support her throughout her academic journey. However, the prospect of being constantly in the limelight alongside Sachiko leaves Yumi both flattered and apprehensive. As whispers of their budding relationship spread throughout the campus, Yumi struggles with her decision.\n\nThe tradition of the soeurs at Lillian Girls' Academy is an age-old practice, fostering bonds of sisterhood and mentorship. Why Sachiko has chosen Yumi as her potential soeur remains a mystery, but this enigmatic connection promises to alter the course of their lives.\n\nMaria-sama ga Miteru is a delicate exploration of the complexities of friendship, forbidden love, and the everyday experiences of school life, as Yumi navigates the intricate web of relationships between the roses and their soeurs while discovering her own feelings for Sachiko.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c0d017ce75334e1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.2835728603694445,
+    "arithmeticGeometricMean": 7.281426222770349,
+    "median": 7.250909090909091,
+    "hash": "5c0d017ce75334e1",
+    "lastUpdate": "2024-05-09"
+  }
+}

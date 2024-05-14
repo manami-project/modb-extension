@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2357",
+    "https://anilist.co/anime/2254",
+    "https://anime-planet.com/anime/sentou-mecha-xabungle",
+    "https://anisearch.com/anime/1226",
+    "https://kitsu.io/anime/2042",
+    "https://livechart.me/anime/6834",
+    "https://myanimelist.net/anime/2254",
+    "https://notify.moe/anime/OdvP5KimR"
+  ],
+  "synopsis": {
+    "text": "Xabungle unfolds on the lawless planet of Zora, where a unique rule allows individuals to keep stolen goods if they can evade capture for three days. Amidst this chaos, Jiron Amos, a determined young man, seeks vengeance against the outlaw responsible for his parents' murder. However, the three-day rule and the advanced society of the 'Innocent' pose significant obstacles to his quest for justice.\n\nTo overcome these challenges, Jiron sets his sights on stealing Xabungle, a state-of-the-art mecha owned by the powerful merchant, Carring Cargo. In his pursuit, Jiron joins forces with the Sandrats, a notorious motorcycle gang, and finds himself embroiled in a larger conflict between the oppressed 'Civilians' and the privileged 'Innocent'. As Jiron's quest for revenge intensifies, it sparks a rebellion that could forever alter the balance of power on Zora.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1f5fc76940930320",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.799406838059899,
+    "arithmeticGeometricMean": 6.771424351794414,
+    "median": 7.148,
+    "hash": "1f5fc76940930320",
+    "lastUpdate": "2024-05-09"
+  }
+}

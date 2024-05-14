@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1655",
+    "https://anilist.co/anime/3061",
+    "https://anime-planet.com/anime/alien-defender-geo-armor-kishin-corps",
+    "https://anisearch.com/anime/3142",
+    "https://kitsu.io/anime/2760",
+    "https://livechart.me/anime/6885",
+    "https://myanimelist.net/anime/3061",
+    "https://notify.moe/anime/kElU5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9bc706071a03e260",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2249302941956,
+    "arithmeticGeometricMean": 6.210510632141024,
+    "median": 6.24,
+    "hash": "9bc706071a03e260",
+    "lastUpdate": "2024-05-09"
+  }
+}

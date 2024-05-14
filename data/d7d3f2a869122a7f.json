@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13620",
+    "https://anilist.co/anime/100666",
+    "https://anime-planet.com/anime/akuma-no-memumemu-chan",
+    "https://anisearch.com/anime/13136",
+    "https://kitsu.io/anime/41203",
+    "https://livechart.me/anime/2999",
+    "https://myanimelist.net/anime/36875",
+    "https://notify.moe/anime/Tu_QdmMmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d7d3f2a869122a7f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.691182613305062,
+    "arithmeticGeometricMean": 5.678018279420709,
+    "median": 5.58,
+    "hash": "d7d3f2a869122a7f",
+    "lastUpdate": "2024-05-08"
+  }
+}

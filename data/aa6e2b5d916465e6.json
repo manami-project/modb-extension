@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/147935",
+    "https://anime-planet.com/anime/ryo-haruka-montage",
+    "https://anisearch.com/anime/17196",
+    "https://myanimelist.net/anime/55414"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aa6e2b5d916465e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2275238095238095,
+    "arithmeticGeometricMean": 6.213301303316372,
+    "median": 6.0,
+    "hash": "aa6e2b5d916465e6",
+    "lastUpdate": "2024-05-07"
+  }
+}

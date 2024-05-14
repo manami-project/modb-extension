@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1907",
+    "https://anilist.co/anime/2827",
+    "https://anime-planet.com/anime/calimero",
+    "https://anisearch.com/anime/872",
+    "https://kitsu.io/anime/2581",
+    "https://livechart.me/anime/7492",
+    "https://myanimelist.net/anime/2827",
+    "https://notify.moe/anime/QJS85KiiR"
+  ],
+  "synopsis": {
+    "text": "When most birds can effortlessly take flight, Calimero, a small black chick with an eggshell atop his head, finds himself earthbound. Despite the relentless mockery from his fellow birds, Calimero remains undeterred in his pursuit to soar the skies. Encouraged by his loyal girlfriend, Priscilla, and accompanied by his friend, Pierro the duck, Calimero resides on a quaint farm in the charming town of Palermo, where they all attend primary school.\n\nAlthough Calimero's attempts at flying often result in failure, his intelligence and resourcefulness shine through as he constantly devises new strategies to achieve his dream. Even when faced with setbacks, Priscilla's unwavering support and the occasional teasing from Pierro keep Calimero's spirits high. As a kind-hearted bird, Calimero frequently finds himself in various predicaments, but his resilience and optimism always propel him forward in this delightful tale of determination and friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75c1f9d7e08e4abe",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.808531672409224,
+    "arithmeticGeometricMean": 5.780062010630201,
+    "median": 6.0,
+    "hash": "75c1f9d7e08e4abe",
+    "lastUpdate": "2024-05-09"
+  }
+}

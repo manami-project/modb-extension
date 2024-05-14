@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2447",
+    "https://anilist.co/anime/1867",
+    "https://anime-planet.com/anime/mighty-space-miners",
+    "https://anisearch.com/anime/2271",
+    "https://kitsu.io/anime/1684",
+    "https://livechart.me/anime/8791",
+    "https://myanimelist.net/anime/1867",
+    "https://notify.moe/anime/Fvlf5Kiig"
+  ],
+  "synopsis": {
+    "text": "Tortaris, a space mining station in the mid-21st century, is home to a diverse crew, including 12-year-old Ushiwaka Nanbu, the first and only child to survive being born in space. The station, owned by Planet Catcher Corporation, is responsible for capturing asteroids and comets to extract valuable resources for Earth. When a military satellite accidentally triggers a catastrophic event during an operation to capture Halley's Comet, the crew is left stranded amidst the wreckage. Abandoned by both their country and their company, Ushiwaka and his fellow colonists must navigate the debris and find a way to escape before the nuclear reactor on the asteroid melts down, threatening to engulf them all in a fiery end. With time running out and the odds stacked against them, can they survive and find their way back home, or will they perish among the stars they once called home?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ea5c0111d35c1e3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.490875165650676,
+    "arithmeticGeometricMean": 6.473040441164645,
+    "median": 6.548,
+    "hash": "5ea5c0111d35c1e3",
+    "lastUpdate": "2024-05-09"
+  }
+}

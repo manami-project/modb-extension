@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103790",
+    "https://anime-planet.com/anime/cell-no-koi",
+    "https://anisearch.com/anime/6758",
+    "https://kitsu.io/anime/13869",
+    "https://myanimelist.net/anime/35785",
+    "https://notify.moe/anime/AhaS2Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d4ee244c9fc02922",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.433063450834879,
+    "arithmeticGeometricMean": 5.412357620693665,
+    "median": 5.0,
+    "hash": "d4ee244c9fc02922",
+    "lastUpdate": "2024-05-06"
+  }
+}

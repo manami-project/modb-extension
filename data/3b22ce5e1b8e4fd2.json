@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4605",
+    "https://anilist.co/anime/6266",
+    "https://anime-planet.com/anime/joseito",
+    "https://anisearch.com/anime/3739",
+    "https://kitsu.io/anime/4495",
+    "https://livechart.me/anime/10981",
+    "https://myanimelist.net/anime/6266",
+    "https://notify.moe/anime/CkX3cKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b22ce5e1b8e4fd2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.964146832759078,
+    "arithmeticGeometricMean": 4.91720076086167,
+    "median": 5.181818181818182,
+    "hash": "3b22ce5e1b8e4fd2",
+    "lastUpdate": "2024-05-09"
+  }
+}

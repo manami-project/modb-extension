@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11255",
+    "https://anilist.co/anime/21201",
+    "https://anime-planet.com/anime/schwarzesmarken",
+    "https://anisearch.com/anime/10570",
+    "https://kitsu.io/anime/10938",
+    "https://livechart.me/anime/1607",
+    "https://myanimelist.net/anime/30806",
+    "https://notify.moe/anime/R2s_pFmmR"
+  ],
+  "synopsis": {
+    "text": "BETA's, an alien life form with a destructive agenda, have invaded Earth in the midst of the Cold War era of 1983. As humanity struggles to survive, soldiers are deployed to pilot large combat suits known as Tactical Surface Fighters (TSF) to fend off the extraterrestrial threat. In East Germany, the 666th TSF Squadron, also known as \"Schwarzesmarken,\" is a ruthless special-response unit that specializes in counterassault attacks on laser-class BETA forces. Led by the esteemed war hero Captain Irisdina Bernhard, the unit is notorious for prioritizing mission completion over human life, often ignoring allied distress calls that would interfere with their objectives.\n\nThe story revolves around Second Lieutenant Theodor Eberbach and his fellow squadron members as they navigate the challenges of battling the alien invaders while dealing with internal conflicts. The arrival of an optimistic rookie, Katia Waldheim, brings additional complications as she attracts the attention of East Germany's secret police, the Stasi. As the front line is pushed back towards the remaining cities, the 666th TSF Squadron must utilize advanced technology and unconventional tactics to drive back the relentless BETA forces and protect humanity from the brink of extinction. Will their efforts be enough to bring peace to Earth and reconcile the conflicting personalities within the squadron? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4614ed75f024cfbb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.68500068656122,
+    "arithmeticGeometricMean": 6.68162854761394,
+    "median": 6.65963910988124,
+    "hash": "4614ed75f024cfbb",
+    "lastUpdate": "2024-05-09"
+  }
+}

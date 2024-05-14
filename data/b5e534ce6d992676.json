@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106222",
+    "https://anime-planet.com/anime/group-inou-therapy",
+    "https://myanimelist.net/anime/50126"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b5e534ce6d992676",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.106090909090909,
+    "arithmeticGeometricMean": 6.102694738524846,
+    "median": 6.106090909090909,
+    "hash": "b5e534ce6d992676",
+    "lastUpdate": "2024-05-08"
+  }
+}

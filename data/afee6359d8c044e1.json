@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11267",
+    "https://anime-planet.com/anime/gegege-no-kitarou-youkai-japan-rally-3d",
+    "https://anisearch.com/anime/10667",
+    "https://kitsu.io/anime/10173",
+    "https://myanimelist.net/anime/28103",
+    "https://notify.moe/anime/f4bspFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "afee6359d8c044e1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.3717061224489795,
+    "arithmeticGeometricMean": 5.291662374468256,
+    "median": 5.0,
+    "hash": "afee6359d8c044e1",
+    "lastUpdate": "2024-05-07"
+  }
+}

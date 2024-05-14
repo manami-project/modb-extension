@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107741",
+    "https://anime-planet.com/anime/roselia-neo-aspect",
+    "https://anisearch.com/anime/13807",
+    "https://kitsu.io/anime/41869",
+    "https://myanimelist.net/anime/37954",
+    "https://notify.moe/anime/Hb7GiKXiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e111fb1062064967",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.0350166975881265,
+    "arithmeticGeometricMean": 7.021438211438116,
+    "median": 7.243,
+    "hash": "e111fb1062064967",
+    "lastUpdate": "2024-05-06"
+  }
+}

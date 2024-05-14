@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140595",
+    "https://anime-planet.com/anime/tonai"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e0911e6680318607",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.818181818181818,
+    "arithmeticGeometricMean": 4.818181818181818,
+    "median": 4.818181818181818,
+    "hash": "e0911e6680318607",
+    "lastUpdate": "2024-05-06"
+  }
+}

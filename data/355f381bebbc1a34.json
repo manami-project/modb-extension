@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8667",
+    "https://anilist.co/anime/11665",
+    "https://anime-planet.com/anime/natsumes-book-of-friends-season-4",
+    "https://anisearch.com/anime/7310",
+    "https://kitsu.io/anime/6557",
+    "https://livechart.me/anime/1154",
+    "https://myanimelist.net/anime/11665",
+    "https://notify.moe/anime/mAEStFmmg"
+  ],
+  "synopsis": {
+    "text": "Madara—or Nyanko-sensei, as he is fondly known—is the self-proclaimed bodyguard of Natsume Takashi, a young man with a unique ability to see yokai. Natsume's late grandmother, Reiko, had the Yujin-chou, a book containing names of yokai who pledged their allegiance to her. Now in Natsume's possession, the book has brought him countless encounters with yokai, some of whom seek to retrieve their names. With a heart full of empathy, Natsume embarks on a journey to return the names to their rightful owners, accompanied by the ever-watchful Nyanko-sensei.\n\nAs Natsume delves deeper into the world of yokai, he finds himself growing as a person and forming bonds with both humans and yokai alike. However, danger lurks in the shadows, as the Matoba Clan, a long-standing enemy, seeks to exploit Natsume's abilities. In a desperate attempt to capture him, a group of masked, monkey-like yokai kidnaps Natsume, leading Nyanko-sensei and Natsume's friends to mount a daring rescue operation.\n\nThroughout his adventures, Natsume is forced to confront the complexities of his past and the uncertainty of his future. As he navigates the delicate balance between the human and yokai worlds, Natsume learns valuable lessons about friendship, trust, and the power of understanding. With each name he returns, Natsume not only frees the yokai but also discovers more about himself and his unique place in the world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "355f381bebbc1a34",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.476429078780674,
+    "arithmeticGeometricMean": 8.475313204221093,
+    "median": 8.443170860577242,
+    "hash": "355f381bebbc1a34",
+    "lastUpdate": "2024-05-09"
+  }
+}

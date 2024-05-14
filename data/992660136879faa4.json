@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104554",
+    "https://anime-planet.com/anime/shiawase-no-tokei",
+    "https://kitsu.io/anime/10713",
+    "https://myanimelist.net/anime/30201",
+    "https://notify.moe/anime/Z1PwpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "992660136879faa4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.952181818181819,
+    "arithmeticGeometricMean": 4.913047053350843,
+    "median": 4.7713636363636365,
+    "hash": "992660136879faa4",
+    "lastUpdate": "2024-05-08"
+  }
+}

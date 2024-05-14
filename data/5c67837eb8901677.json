@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4122",
+    "https://anilist.co/anime/6735",
+    "https://anime-planet.com/anime/ginga-tetsudou-999-kimi-wa-haha-no-you-ni-aiseru-ka",
+    "https://anisearch.com/anime/487",
+    "https://kitsu.io/anime/4692",
+    "https://myanimelist.net/anime/6735",
+    "https://notify.moe/anime/UhE6cFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c67837eb8901677",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.238254969520275,
+    "arithmeticGeometricMean": 6.213605087700718,
+    "median": 6.44,
+    "hash": "5c67837eb8901677",
+    "lastUpdate": "2024-05-08"
+  }
+}

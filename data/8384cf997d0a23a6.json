@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16092",
+    "https://anilist.co/anime/130558",
+    "https://anime-planet.com/anime/aria-the-benedizione",
+    "https://anisearch.com/anime/16264",
+    "https://kitsu.io/anime/44171",
+    "https://livechart.me/anime/10446",
+    "https://myanimelist.net/anime/48411",
+    "https://notify.moe/anime/3p3elZUMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8384cf997d0a23a6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.870145949288807,
+    "arithmeticGeometricMean": 7.868211106262805,
+    "median": 7.833333333333333,
+    "hash": "8384cf997d0a23a6",
+    "lastUpdate": "2024-05-08"
+  }
+}

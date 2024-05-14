@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14716",
+    "https://anilist.co/anime/108146",
+    "https://anime-planet.com/anime/yichang-shengwu-jianwen-lu",
+    "https://anisearch.com/anime/14227",
+    "https://kitsu.io/anime/42471",
+    "https://livechart.me/anime/9249",
+    "https://myanimelist.net/anime/39421",
+    "https://notify.moe/anime/dH0rdcvWg"
+  ],
+  "synopsis": {
+    "text": "Yoshihito, a 23-year-old man with an unremarkable life, finds himself in a whirlwind of extraordinary circumstances. Struggling to make ends meet and find a girlfriend, he decides to rent out rooms in his distant home. His life takes a dramatic turn when his first tenant, Lily, is attacked by a vampire named Vivian. Yoshihito soon discovers that Lily is not what she seems, as she is a werewolf. Despite their rocky start, the two become tenants in Yoshihito's home, though their constant bickering leaves his furniture in tatters.\n\nJust as Yoshihito's job search seems to be looking up, he receives an unusual job offer from a mysterious organization responsible for maintaining order in parallel universes. As a new official, Yoshihito must house and care for various supernatural beings alongside Lily and Vivian. With each passing day, his dream of being an ordinary landlord fades further away, replaced by a chaotic life filled with strange and fantastical creatures. Little does he know, this is only the beginning of his extraordinary journey.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "32b77eff738bf7b7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.570442949907235,
+    "arithmeticGeometricMean": 6.55832213185918,
+    "median": 6.531818181818181,
+    "hash": "32b77eff738bf7b7",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9541",
+    "https://anilist.co/anime/16498",
+    "https://anime-planet.com/anime/attack-on-titan",
+    "https://anisearch.com/anime/8219",
+    "https://kitsu.io/anime/7442",
+    "https://livechart.me/anime/38",
+    "https://myanimelist.net/anime/16498",
+    "https://notify.moe/anime/tzUFpKiig"
+  ],
+  "synopsis": {
+    "text": "Centuries prior, humanity was nearly wiped out by colossal humanoid creatures known as Titans, forcing the survivors to take refuge behind towering walls. These monstrous beings derive pleasure from consuming humans, rather than doing so out of necessity. A century of peace is shattered when a Titan of unprecedented size breaches the outer wall, unleashing chaos and reigniting humanity's struggle for survival against these terrifying abominations.\n\nEren Yeager, a young man, witnesses the horrifying death of his mother at the hands of these invading creatures. Driven by vengeance and a desire to protect humanity, Eren enlists in the elite military unit known as the Survey Corps, alongside his adopted sister Mikasa Ackerman and childhood friend Armin Arlert. Together, they join the brutal battle against the Titans, racing against time to discover a means to defeat these monstrous adversaries before the last walls are breached and humanity is lost forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fbc8a9ad1b52c48a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.551158229763068,
+    "arithmeticGeometricMean": 8.550392048844365,
+    "median": 8.56,
+    "hash": "fbc8a9ad1b52c48a",
+    "lastUpdate": "2024-05-10"
+  }
+}

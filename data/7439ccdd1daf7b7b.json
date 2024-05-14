@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/rhymester-hands",
+    "https://anisearch.com/anime/8998"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7439ccdd1daf7b7b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.434918367346939,
+    "arithmeticGeometricMean": 4.411451013595257,
+    "median": 4.434918367346939,
+    "hash": "7439ccdd1daf7b7b",
+    "lastUpdate": "2024-05-07"
+  }
+}

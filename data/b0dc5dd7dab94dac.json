@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/nike-japan-just-do-it",
+    "https://kitsu.io/anime/43645"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b0dc5dd7dab94dac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.856,
+    "arithmeticGeometricMean": 5.856,
+    "median": 5.856,
+    "hash": "b0dc5dd7dab94dac",
+    "lastUpdate": "2024-05-07"
+  }
+}

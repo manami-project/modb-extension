@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3147",
+    "https://anime-planet.com/anime/nine",
+    "https://anisearch.com/anime/2521",
+    "https://kitsu.io/anime/5546",
+    "https://livechart.me/anime/12142",
+    "https://myanimelist.net/anime/8953",
+    "https://notify.moe/anime/35dWtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "afafd3542bd4ca86",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.21690612244898,
+    "arithmeticGeometricMean": 6.194685358931697,
+    "median": 5.9,
+    "hash": "afafd3542bd4ca86",
+    "lastUpdate": "2024-05-09"
+  }
+}

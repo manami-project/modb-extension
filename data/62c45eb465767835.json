@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11682",
+    "https://anilist.co/anime/21409",
+    "https://anime-planet.com/anime/king-of-prism-by-pretty-rhythm",
+    "https://anisearch.com/anime/10826",
+    "https://kitsu.io/anime/11562",
+    "https://livechart.me/anime/1857",
+    "https://myanimelist.net/anime/31762",
+    "https://notify.moe/anime/V_BjtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "62c45eb465767835",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.258895838855023,
+    "arithmeticGeometricMean": 6.245426161383576,
+    "median": 6.2727272727272725,
+    "hash": "62c45eb465767835",
+    "lastUpdate": "2024-05-09"
+  }
+}

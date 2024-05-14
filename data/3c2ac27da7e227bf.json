@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12727",
+    "https://anime-planet.com/anime/kuma-no-gakkou-movie-2-patissier-jackie-to-ohisama-no-sweets",
+    "https://anisearch.com/anime/12448",
+    "https://kitsu.io/anime/13016",
+    "https://livechart.me/anime/2681",
+    "https://myanimelist.net/anime/34755",
+    "https://notify.moe/anime/eWrZ2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c2ac27da7e227bf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.583659863945577,
+    "arithmeticGeometricMean": 5.552432460102716,
+    "median": 5.0,
+    "hash": "3c2ac27da7e227bf",
+    "lastUpdate": "2024-05-09"
+  }
+}

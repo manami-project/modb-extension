@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3",
+    "https://anilist.co/anime/1225",
+    "https://anime-planet.com/anime/3x3-eyes-seima-densetsu",
+    "https://anisearch.com/anime/3354",
+    "https://kitsu.io/anime/1102",
+    "https://livechart.me/anime/6605",
+    "https://myanimelist.net/anime/1225",
+    "https://notify.moe/anime/J2tbcFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af283720da5990ff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.9640174927113705,
+    "arithmeticGeometricMean": 6.96229247266498,
+    "median": 6.95,
+    "hash": "af283720da5990ff",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11295",
+    "https://anilist.co/anime/99658",
+    "https://anime-planet.com/anime/school-shock",
+    "https://anisearch.com/anime/10580",
+    "https://kitsu.io/anime/10533",
+    "https://livechart.me/anime/1396",
+    "https://myanimelist.net/anime/29876",
+    "https://notify.moe/anime/iI6UpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "41a407718a4c0da6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.016518231768231,
+    "arithmeticGeometricMean": 6.000275712445954,
+    "median": 5.9239999999999995,
+    "hash": "41a407718a4c0da6",
+    "lastUpdate": "2024-05-09"
+  }
+}

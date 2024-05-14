@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/40meterp-do-re-mi-fa-rondo",
+    "https://kitsu.io/anime/13338",
+    "https://notify.moe/anime/xBcnhKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5a9b8e0d71445ad",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.375,
+    "arithmeticGeometricMean": 5.36844932659813,
+    "median": 5.375,
+    "hash": "a5a9b8e0d71445ad",
+    "lastUpdate": "2024-05-05"
+  }
+}

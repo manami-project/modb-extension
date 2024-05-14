@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2080",
+    "https://anime-planet.com/anime/maple-town-movie",
+    "https://anisearch.com/anime/944",
+    "https://kitsu.io/anime/40620",
+    "https://myanimelist.net/anime/34826",
+    "https://notify.moe/anime/Ne2v2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "860be53e6c8f6a1f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.9440544217687075,
+    "arithmeticGeometricMean": 5.917726606688121,
+    "median": 5.408163265306122,
+    "hash": "860be53e6c8f6a1f",
+    "lastUpdate": "2024-05-07"
+  }
+}

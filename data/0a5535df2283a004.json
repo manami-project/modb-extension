@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10784",
+    "https://anilist.co/anime/20815",
+    "https://anime-planet.com/anime/the-rolling-girls",
+    "https://anisearch.com/anime/9763",
+    "https://kitsu.io/anime/8667",
+    "https://livechart.me/anime/770",
+    "https://myanimelist.net/anime/25867",
+    "https://notify.moe/anime/g0tJtFmmR"
+  ],
+  "synopsis": {
+    "text": "After the devastating Great Tokyo War, Japan is left fractured into ten independent nations, each governed by a powerful leader known as a Mosa, who commands an army of followers known as Mobs. In this post-apocalyptic landscape, four brave and charming girls – Nozomi, Yukina, Ai, and Chiaya – embark on an epic motorcycle journey across the war-torn country. Tasked by their Mosa to intervene in conflicts between rival nations and clans, these fearless friends strive to grow stronger and protect their loved ones while navigating the treacherous world left in the wake of the Great Tokyo War. Along the way, they encounter various challenges, forge new friendships, and uncover sinister conspiracies in this thrilling adventure that will change their lives forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0a5535df2283a004",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.608488265002972,
+    "arithmeticGeometricMean": 6.60309992411776,
+    "median": 6.549771241830065,
+    "hash": "0a5535df2283a004",
+    "lastUpdate": "2024-05-09"
+  }
+}

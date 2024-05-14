@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4828",
+    "https://anilist.co/anime/2238",
+    "https://anime-planet.com/anime/fuyu-no-semi",
+    "https://anisearch.com/anime/3956",
+    "https://kitsu.io/anime/2029",
+    "https://livechart.me/anime/6526",
+    "https://myanimelist.net/anime/2238",
+    "https://notify.moe/anime/3hSEcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8073958a0e7bec0f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.120302676914922,
+    "arithmeticGeometricMean": 7.118055791312775,
+    "median": 7.0,
+    "hash": "8073958a0e7bec0f",
+    "lastUpdate": "2024-05-09"
+  }
+}

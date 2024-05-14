@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15026",
+    "https://anilist.co/anime/110788",
+    "https://anime-planet.com/anime/zoids-wild-zero",
+    "https://anisearch.com/anime/14529",
+    "https://kitsu.io/anime/42468",
+    "https://livechart.me/anime/9546",
+    "https://myanimelist.net/anime/40166",
+    "https://notify.moe/anime/bPWCdcvWg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1da6a10f89a954fe",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.738724180581323,
+    "arithmeticGeometricMean": 5.691400449760376,
+    "median": 5.61317254174397,
+    "hash": "1da6a10f89a954fe",
+    "lastUpdate": "2024-05-10"
+  }
+}

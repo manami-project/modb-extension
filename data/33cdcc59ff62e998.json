@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104094",
+    "https://anime-planet.com/anime/sheep-wolf",
+    "https://kitsu.io/anime/9577",
+    "https://myanimelist.net/anime/26007",
+    "https://notify.moe/anime/zkiLpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33cdcc59ff62e998",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.992136363636363,
+    "arithmeticGeometricMean": 4.983823447627293,
+    "median": 4.955,
+    "hash": "33cdcc59ff62e998",
+    "lastUpdate": "2024-05-07"
+  }
+}

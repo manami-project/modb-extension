@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11940",
+    "https://anilist.co/anime/108838",
+    "https://anime-planet.com/anime/boo-boo-boy",
+    "https://anisearch.com/anime/10492",
+    "https://kitsu.io/anime/11024",
+    "https://livechart.me/anime/1636",
+    "https://myanimelist.net/anime/30892",
+    "https://notify.moe/anime/-2iupKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "99422266609c5a10",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.2266920222634505,
+    "arithmeticGeometricMean": 5.185925203878947,
+    "median": 4.901020408163265,
+    "hash": "99422266609c5a10",
+    "lastUpdate": "2024-05-09"
+  }
+}

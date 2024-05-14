@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16130",
+    "https://anilist.co/anime/131019",
+    "https://anime-planet.com/anime/irina-the-vampire-cosmonaut",
+    "https://anisearch.com/anime/16065",
+    "https://kitsu.io/anime/44192",
+    "https://livechart.me/anime/10469",
+    "https://myanimelist.net/anime/48471",
+    "https://notify.moe/anime/xvWeLmwGg"
+  ],
+  "synopsis": {
+    "text": "Following the end of World War II, the world is divided between two superpowers, the Federal Republic of Zirnitra in the East and the United Kingdom of Arnack in the West. As they shift their territorial ambitions towards space, a fierce space race ensues. In 1960, the Republic's leader, Gergiev, announces Project Mechtat, a manned space flight program that could be the first of its kind for humankind. To achieve this goal, the secret Nosferatu Project is established, utilizing vampires as test subjects due to their biological similarities with humans.\n\nLev Leps, a former astronaut candidate, is recalled for a top-secret mission to oversee the training of Irina Luminesk, a vampire girl chosen for the Nosferatu Project. Despite the constant setbacks, political tensions, and ego clashes among the top brass, Lev and Irina share a genuine passion for reaching the cosmos. As they work together, their bond deepens, and they strive to make their shared dream of touching the stars a reality, even as the space race between the two superpowers intensifies.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b6e99e7277f8bc75",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.368691094619667,
+    "arithmeticGeometricMean": 7.366851720998392,
+    "median": 7.341818181818182,
+    "hash": "b6e99e7277f8bc75",
+    "lastUpdate": "2024-05-10"
+  }
+}

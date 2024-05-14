@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/582",
+    "https://anilist.co/anime/1024",
+    "https://anime-planet.com/anime/knights-hunter-ova",
+    "https://anisearch.com/anime/1151",
+    "https://kitsu.io/anime/914",
+    "https://livechart.me/anime/8633",
+    "https://myanimelist.net/anime/1024",
+    "https://notify.moe/anime/Z3J1cKmmg"
+  ],
+  "synopsis": {
+    "text": "The lives of Akira and Kaori are shattered when their parents are tragically killed in an accident orchestrated by the American military. Fueled by vengeance, the siblings embark on a dangerous mission to take down the perpetrators, even if it means breaking the law. As they hack into the military's database and plot their revenge, a shadowy organization known as Weiss Kreuz is tasked with stopping them.\n\nWeiss Kreuz is a team of four skilled assassins, but they find themselves caught in a deadly game of deception that threatens to tear them apart. As they struggle to balance their duty with their personal beliefs, they are drawn deeper into a web of danger and betrayal. With their lives on the line, the team must fight to survive and uncover the truth behind the sinister plot that threatens to destroy them.\n\nAs Akira and Kaori's quest for revenge collides with Weiss Kreuz's mission, the stakes are raised and the lines between friend and foe become blurred. In this treacherous world of secrets and lies, only one thing is certain: there can be only one victor in this deadly game. Will Weiss Kreuz emerge victorious, or will they fall victim to the ruthless organization that seeks their destruction? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f2764d1366daa57",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.801682127396414,
+    "arithmeticGeometricMean": 6.797738612542271,
+    "median": 6.785714285714285,
+    "hash": "8f2764d1366daa57",
+    "lastUpdate": "2024-05-10"
+  }
+}

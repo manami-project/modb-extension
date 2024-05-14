@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102793",
+    "https://anime-planet.com/anime/akb48-yume-no-kawa",
+    "https://anisearch.com/anime/11153",
+    "https://myanimelist.net/anime/37605"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2c7dab42bdff2a21",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.735205009276438,
+    "arithmeticGeometricMean": 5.719081989323927,
+    "median": 5.591818181818182,
+    "hash": "2c7dab42bdff2a21",
+    "lastUpdate": "2024-05-07"
+  }
+}

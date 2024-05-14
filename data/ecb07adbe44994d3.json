@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12880",
+    "https://anilist.co/anime/113703",
+    "https://anime-planet.com/anime/kisha-no-hattatsu",
+    "https://anisearch.com/anime/12282",
+    "https://kitsu.io/anime/13409",
+    "https://notify.moe/anime/uIL7hFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ecb07adbe44994d3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.841282374768089,
+    "arithmeticGeometricMean": 4.790036521491447,
+    "median": 3.9387755102040813,
+    "hash": "ecb07adbe44994d3",
+    "lastUpdate": "2024-05-08"
+  }
+}

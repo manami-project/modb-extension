@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3060",
+    "https://anilist.co/anime/2305",
+    "https://anime-planet.com/anime/mobile-suit-sd-gundam-mk-iii",
+    "https://anisearch.com/anime/2541",
+    "https://kitsu.io/anime/2087",
+    "https://livechart.me/anime/7514",
+    "https://myanimelist.net/anime/2305",
+    "https://notify.moe/anime/Iw2P5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "94f294b6eb7b9944",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.5302067320434665,
+    "arithmeticGeometricMean": 5.512966809127653,
+    "median": 5.5,
+    "hash": "94f294b6eb7b9944",
+    "lastUpdate": "2024-05-09"
+  }
+}

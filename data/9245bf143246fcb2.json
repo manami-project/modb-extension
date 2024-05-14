@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11689",
+    "https://anilist.co/anime/21407",
+    "https://anime-planet.com/anime/yowamushi-pedal-new-generation",
+    "https://anisearch.com/anime/10820",
+    "https://kitsu.io/anime/11583",
+    "https://livechart.me/anime/1864",
+    "https://myanimelist.net/anime/31783",
+    "https://notify.moe/anime/JSUCtFimg"
+  ],
+  "synopsis": {
+    "text": "The Sohoku High bicycle racing team emerges victorious against the defending champions, Hakone Academy, in the prestigious Interhigh national race. As the summer season concludes, veteran team members Kinjou, Makishima, and Tadokoro bid farewell, paving the way for a fresh lineup. Rising to the challenge, first-year members Onoda Sakamichi, Imaizumi Shunsuke, and Naruko Shoukichi join forces with second-year captain Teshima Junta and vice-captain Aoyagi Hajime, as they set their sights on securing a consecutive Interhigh title.\n\nMeanwhile, their rivals at Hakone Academy are not backing down, as they too welcome new talent and gear up for a rematch. The formidable Kyoto Fushimi High, led by the fearsome racer Midousuji Akira, adds to the competitive landscape, as top schools from across the nation sharpen their skills in pursuit of Interhigh glory. Prepare for an exhilarating new season of Yowamushi Pedal, where teamwork, determination, and intense cycling action converge.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9245bf143246fcb2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.685183557513914,
+    "arithmeticGeometricMean": 7.683238550039198,
+    "median": 7.69,
+    "hash": "9245bf143246fcb2",
+    "lastUpdate": "2024-05-10"
+  }
+}

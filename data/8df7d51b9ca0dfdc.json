@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7494",
+    "https://anilist.co/anime/8609",
+    "https://anime-planet.com/anime/detective-conan-kid-in-trap-island",
+    "https://anisearch.com/anime/6220",
+    "https://kitsu.io/anime/5402",
+    "https://livechart.me/anime/6545",
+    "https://myanimelist.net/anime/8609",
+    "https://notify.moe/anime/7-PitKiig"
+  ],
+  "synopsis": {
+    "text": "Kid, the elusive phantom thief, has set his sights on a precious gem, the Artemis' Tear, nestled in a luxurious hotel on the secluded Koyakejima Island. Despite the heavy security, including Inspector Nakamori and a specialized police force, Kid leverages the remote-controlled lighthouse beam to his advantage. Coincidentally, Conan and his fellow young detectives, Ayumi, Mitsuhiko, Genta, along with Ran and Sonoko, find themselves on the same island. As Kid's plans unfold, the junior detectives leap into action, determined to apprehend the cunning thief. Even as Kid attempts to outwit them, the island's hidden surprises promise an intriguing challenge for both the thief and the young sleuths.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8df7d51b9ca0dfdc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.712845174666604,
+    "arithmeticGeometricMean": 7.70716266671981,
+    "median": 7.755,
+    "hash": "8df7d51b9ca0dfdc",
+    "lastUpdate": "2024-05-09"
+  }
+}

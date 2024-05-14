@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4057",
+    "https://anilist.co/anime/5968",
+    "https://anime-planet.com/anime/kinnikuman-ii-sei-ultimate-muscle-2",
+    "https://anisearch.com/anime/858",
+    "https://kitsu.io/anime/4367",
+    "https://livechart.me/anime/8070",
+    "https://myanimelist.net/anime/5968",
+    "https://notify.moe/anime/0_v3cFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "63696d15de998f7a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.780809435462496,
+    "arithmeticGeometricMean": 6.774832680672912,
+    "median": 6.76,
+    "hash": "63696d15de998f7a",
+    "lastUpdate": "2024-05-09"
+  }
+}

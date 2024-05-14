@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7955",
+    "https://anilist.co/anime/9536",
+    "https://anime-planet.com/anime/robin-kun-to-100-nin-no-otomodachi",
+    "https://anisearch.com/anime/6517",
+    "https://kitsu.io/anime/5780",
+    "https://myanimelist.net/anime/9536",
+    "https://notify.moe/anime/KWHMtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "404caebf2e8ff2fe",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.673030797773654,
+    "arithmeticGeometricMean": 4.617826264694278,
+    "median": 4.16,
+    "hash": "404caebf2e8ff2fe",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102686",
+    "https://anime-planet.com/anime/a-portrait-of-keiichi-tanaami",
+    "https://kitsu.io/anime/9655",
+    "https://livechart.me/anime/9340",
+    "https://myanimelist.net/anime/22171",
+    "https://notify.moe/anime/AxKYpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d68eec6bf6e77ffe",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.710818181818182,
+    "arithmeticGeometricMean": 4.688351022247391,
+    "median": 4.835,
+    "hash": "d68eec6bf6e77ffe",
+    "lastUpdate": "2024-05-06"
+  }
+}

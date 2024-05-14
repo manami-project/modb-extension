@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9264",
+    "https://anilist.co/anime/9447",
+    "https://anime-planet.com/anime/byulbyul-iyagi-2",
+    "https://anisearch.com/anime/8066",
+    "https://kitsu.io/anime/5739",
+    "https://myanimelist.net/anime/9447",
+    "https://notify.moe/anime/XriGpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "509402d4285c58a6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.675269016697587,
+    "arithmeticGeometricMean": 5.664291822038481,
+    "median": 5.6872727272727275,
+    "hash": "509402d4285c58a6",
+    "lastUpdate": "2024-05-08"
+  }
+}

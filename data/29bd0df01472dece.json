@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4050",
+    "https://anilist.co/anime/5920",
+    "https://anime-planet.com/anime/xanadu-dragonslayer-densetsu",
+    "https://anisearch.com/anime/1759",
+    "https://kitsu.io/anime/4337",
+    "https://myanimelist.net/anime/5920",
+    "https://notify.moe/anime/Rsn3cFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "29bd0df01472dece",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.7017916777100455,
+    "arithmeticGeometricMean": 5.687358151084709,
+    "median": 5.481632653061224,
+    "hash": "29bd0df01472dece",
+    "lastUpdate": "2024-05-07"
+  }
+}

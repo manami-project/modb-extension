@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15375",
+    "https://anilist.co/anime/114120",
+    "https://anime-planet.com/anime/jiang-ziya",
+    "https://anisearch.com/anime/14903",
+    "https://kitsu.io/anime/43348",
+    "https://livechart.me/anime/9963",
+    "https://myanimelist.net/anime/42106",
+    "https://notify.moe/anime/4f5sbEiGg"
+  ],
+  "synopsis": {
+    "text": "Demon-slayer and top divine commander Jiang Ziya is on the cusp of ascending to godhood, but first, he must execute the Nine-Tailed Fox Demon, a threat to humanity and his divine ascension. However, when he discovers an innocent girl trapped within the demon, Jiang Ziya's loyalties are tested, leading to his banishment to the mortal realm. Ten years later, Jiang Ziya encounters a mysterious girl who resembles the illusion he once saw. As they journey together, Jiang Ziya must confront the truth about the past war and decide whether to follow heaven's will or forge his own path to righteousness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "98fec45fe48b7187",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.2125761993108926,
+    "arithmeticGeometricMean": 7.200837310702314,
+    "median": 7.454545454545454,
+    "hash": "98fec45fe48b7187",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18177",
+    "https://anilist.co/anime/169227",
+    "https://anime-planet.com/anime/matsuinu",
+    "https://anisearch.com/anime/18685",
+    "https://livechart.me/anime/12316",
+    "https://myanimelist.net/anime/56487",
+    "https://notify.moe/anime/ZsZpNEzSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "20fabe202d3b08d7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.4337523191094625,
+    "arithmeticGeometricMean": 5.42231428173387,
+    "median": 5.29795918367347,
+    "hash": "20fabe202d3b08d7",
+    "lastUpdate": "2024-05-09"
+  }
+}

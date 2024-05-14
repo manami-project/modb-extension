@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13796",
+    "https://anilist.co/anime/102554",
+    "https://anime-planet.com/anime/kenshi-yonezu-eine-kleine",
+    "https://anisearch.com/anime/13452",
+    "https://kitsu.io/anime/11246",
+    "https://myanimelist.net/anime/30907",
+    "https://notify.moe/anime/4nmrpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "74d98b3308c78413",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.452164325470448,
+    "arithmeticGeometricMean": 6.4311025207953385,
+    "median": 6.834,
+    "hash": "74d98b3308c78413",
+    "lastUpdate": "2024-05-08"
+  }
+}

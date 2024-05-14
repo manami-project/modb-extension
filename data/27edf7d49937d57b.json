@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12919",
+    "https://anilist.co/anime/101339",
+    "https://anime-planet.com/anime/eureka-seven-ao-final-episode-one-more-time-lord-dont-slow-me-down",
+    "https://anisearch.com/anime/12308",
+    "https://kitsu.io/anime/13329",
+    "https://livechart.me/anime/2511",
+    "https://myanimelist.net/anime/34776",
+    "https://notify.moe/anime/JpFn2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "27edf7d49937d57b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.852213623111582,
+    "arithmeticGeometricMean": 6.84727250221538,
+    "median": 6.918,
+    "hash": "27edf7d49937d57b",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4187",
+    "https://anilist.co/anime/1506",
+    "https://anime-planet.com/anime/detective-conan-the-private-eyes-requiem",
+    "https://anisearch.com/anime/982",
+    "https://kitsu.io/anime/1352",
+    "https://livechart.me/anime/5033",
+    "https://myanimelist.net/anime/1506",
+    "https://notify.moe/anime/cJt-cFimg"
+  ],
+  "synopsis": {
+    "text": "And so, the renowned detective Kogoro Mouri, his daughter Ran, the clever Conan Edogawa, and the adventurous Detective Boys find themselves lured to the vibrant Miracle Land amusement park by an enigmatic stranger. Little do they know, this seemingly innocent invitation is a cunning trap set by their mysterious host. With a deadly deadline looming, Kogoro and Conan must race against time to unravel an unsolved case or face the dire consequences.\n\nTo ensure their full cooperation, the sinister client has taken the Detective Boys and Ran as unwitting hostages, attaching explosive devices to their park passes. As the clock ticks away, the stakes are raised even higher when it becomes clear that their elusive captor is aware of Conan's hidden identity as the brilliant Shinichi Kudo.\n\nIn this perilous game of cat and mouse, our heroes are not alone. The renowned High School Detective of the West, Heiji Hattori, and the notorious phantom thief Kaito Kid join the fray. With the combined intellect and skills of these legendary detectives, can they unmask the true identity of their captor and solve the mystery before time runs out? The lives of their friends and their own fates hang in the balance in this thrilling, high-stakes adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "39c90e8f6fb1d492",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.980573134045725,
+    "arithmeticGeometricMean": 7.98002005511401,
+    "median": 8.009043927648579,
+    "hash": "39c90e8f6fb1d492",
+    "lastUpdate": "2024-05-09"
+  }
+}

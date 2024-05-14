@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/afternoon-class",
+    "https://kitsu.io/anime/46495",
+    "https://myanimelist.net/anime/53069"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "466bca97d45ba3df",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.7829999999999995,
+    "arithmeticGeometricMean": 6.781765420148868,
+    "median": 6.7829999999999995,
+    "hash": "466bca97d45ba3df",
+    "lastUpdate": "2024-05-05"
+  }
+}

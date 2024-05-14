@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11129",
+    "https://anilist.co/anime/103418",
+    "https://anime-planet.com/anime/begon-bell-care",
+    "https://anisearch.com/anime/10484",
+    "https://kitsu.io/anime/10315",
+    "https://myanimelist.net/anime/29311",
+    "https://notify.moe/anime/N5ZUtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee2afbd0607aeccd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.755260005300822,
+    "arithmeticGeometricMean": 4.715687799257947,
+    "median": 4.68,
+    "hash": "ee2afbd0607aeccd",
+    "lastUpdate": "2024-05-08"
+  }
+}

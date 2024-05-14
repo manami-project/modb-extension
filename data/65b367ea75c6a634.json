@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6017",
+    "https://anilist.co/anime/4752",
+    "https://anime-planet.com/anime/vampire-knight-guilty",
+    "https://anisearch.com/anime/4745",
+    "https://kitsu.io/anime/3023",
+    "https://livechart.me/anime/3813",
+    "https://myanimelist.net/anime/4752",
+    "https://notify.moe/anime/ymUw5FmiR"
+  ],
+  "synopsis": {
+    "text": "Kiryu Zero returns to Cross Academy, resuming his prefect duties alongside Yuuki Cross, after recovering from his injuries. As guardians, they oversee the Day Class students, who are unaware of the true identity of the Night Class - a group of elite, beautiful vampires. Kaname Kuran, a pureblood vampire, intervenes when the Supreme Vampire Council attempts to execute Zero for killing a pureblood, Shizuka. As Kaname hides the truth about Shizuka's death, suspicions arise, and Yuuki begins to experience flashbacks, leading her to explore her blood-stained past.\n\nZero, plagued by visions, seeks answers, while Yuuki's own hallucinations drive her to seek solace in Kaname, who holds the key to her past. As the truth begins to unravel, the sinister manipulations of an unknown faction threaten the delicate balance between vampires and humans. Kaname vows to protect Yuuki, the only person dear to him, while Zero remains steadfast in his duty to care for and protect her as well.\n\nAs Yuuki delves deeper into her past, she must confront the secrets that have been hidden from her and make a choice between Kaname, the one who gave her life, and Zero, the one she has always wanted to protect. The stage is set for a new mystery and a forbidden love, as the vampire factions prepare for an inevitable showdown.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "65b367ea75c6a634",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.214282253077183,
+    "arithmeticGeometricMean": 7.211800441160048,
+    "median": 7.27,
+    "hash": "65b367ea75c6a634",
+    "lastUpdate": "2024-05-10"
+  }
+}

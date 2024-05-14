@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12711",
+    "https://anilist.co/anime/8679",
+    "https://anime-planet.com/anime/saboten-ga-nikui",
+    "https://anisearch.com/anime/6755",
+    "https://kitsu.io/anime/5438",
+    "https://myanimelist.net/anime/8679",
+    "https://notify.moe/anime/ZVumpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b07657a9f5f0d87f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.858335807050092,
+    "arithmeticGeometricMean": 4.835591619413055,
+    "median": 4.836734693877551,
+    "hash": "b07657a9f5f0d87f",
+    "lastUpdate": "2024-05-08"
+  }
+}

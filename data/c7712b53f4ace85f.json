@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127402",
+    "https://anime-planet.com/anime/yoasobi-haruka",
+    "https://anisearch.com/anime/16368",
+    "https://kitsu.io/anime/44699",
+    "https://myanimelist.net/anime/49104"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c7712b53f4ace85f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.929033395176251,
+    "arithmeticGeometricMean": 6.927921365465102,
+    "median": 6.987612244897958,
+    "hash": "c7712b53f4ace85f",
+    "lastUpdate": "2024-05-06"
+  }
+}

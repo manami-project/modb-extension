@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140633",
+    "https://anime-planet.com/anime/ohana-and-osora",
+    "https://anisearch.com/anime/13148"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd28180d33184472",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.37430426716141,
+    "arithmeticGeometricMean": 4.2807901767390675,
+    "median": 4.37430426716141,
+    "hash": "dd28180d33184472",
+    "lastUpdate": "2024-05-07"
+  }
+}

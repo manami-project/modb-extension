@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7917",
+    "https://anilist.co/anime/17405",
+    "https://anime-planet.com/anime/hino-hideshi-toukaidou-yotsuya-kaidan",
+    "https://anisearch.com/anime/6473",
+    "https://kitsu.io/anime/8942",
+    "https://myanimelist.net/anime/17405",
+    "https://notify.moe/anime/6f-xpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0cfce8d52b587d2f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.362744897959184,
+    "arithmeticGeometricMean": 5.344200014900825,
+    "median": 5.0,
+    "hash": "0cfce8d52b587d2f",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140352",
+    "https://anime-planet.com/anime/hiromi",
+    "https://kitsu.io/anime/40915",
+    "https://myanimelist.net/anime/36372",
+    "https://notify.moe/anime/D_xdhFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "417fd0c5a99bc568",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.4861818181818185,
+    "arithmeticGeometricMean": 5.452149968069518,
+    "median": 5.44,
+    "hash": "417fd0c5a99bc568",
+    "lastUpdate": "2024-05-06"
+  }
+}

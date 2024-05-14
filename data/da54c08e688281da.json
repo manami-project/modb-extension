@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17122",
+    "https://anilist.co/anime/132530",
+    "https://anime-planet.com/anime/hanhua-riji-3rd-season",
+    "https://anisearch.com/anime/17128",
+    "https://kitsu.io/anime/46645",
+    "https://livechart.me/anime/11593",
+    "https://myanimelist.net/anime/50401",
+    "https://notify.moe/anime/xjRbE8cIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da54c08e688281da",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.317706122448979,
+    "arithmeticGeometricMean": 7.298686325917951,
+    "median": 6.63,
+    "hash": "da54c08e688281da",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15672",
+    "https://anilist.co/anime/122349",
+    "https://anime-planet.com/anime/my-hero-academia-make-it-do-or-die-survival-training",
+    "https://anisearch.com/anime/15480",
+    "https://kitsu.io/anime/43485",
+    "https://livechart.me/anime/10100",
+    "https://myanimelist.net/anime/42603",
+    "https://notify.moe/anime/PUBYGeVMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b53937bcc727dfb3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.301273821192284,
+    "arithmeticGeometricMean": 7.294810635084433,
+    "median": 7.391363636363637,
+    "hash": "b53937bcc727dfb3",
+    "lastUpdate": "2024-05-09"
+  }
+}

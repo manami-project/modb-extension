@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8988",
+    "https://anilist.co/anime/13087",
+    "https://anime-planet.com/anime/youkoso-uchuujin",
+    "https://anisearch.com/anime/7626",
+    "https://kitsu.io/anime/6879",
+    "https://myanimelist.net/anime/13087",
+    "https://notify.moe/anime/vCWDtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c3948bae1df79050",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.842184910327767,
+    "arithmeticGeometricMean": 4.8220892703309906,
+    "median": 4.863636363636363,
+    "hash": "c3948bae1df79050",
+    "lastUpdate": "2024-05-07"
+  }
+}

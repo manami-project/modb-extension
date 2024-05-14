@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5867",
+    "https://anilist.co/anime/19817",
+    "https://anime-planet.com/anime/namakemono-ga-miteta",
+    "https://anisearch.com/anime/4845",
+    "https://kitsu.io/anime/9474",
+    "https://myanimelist.net/anime/19817",
+    "https://notify.moe/anime/NmYBtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b10b804d917d7b0b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.585961657390229,
+    "arithmeticGeometricMean": 4.576578816133215,
+    "median": 4.7272727272727275,
+    "hash": "b10b804d917d7b0b",
+    "lastUpdate": "2024-05-08"
+  }
+}

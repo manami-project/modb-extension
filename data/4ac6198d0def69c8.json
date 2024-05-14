@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6801",
+    "https://anilist.co/anime/5529",
+    "https://anime-planet.com/anime/pokemon-gotta-dance",
+    "https://anisearch.com/anime/5739",
+    "https://kitsu.io/anime/4137",
+    "https://livechart.me/anime/6031",
+    "https://myanimelist.net/anime/5529",
+    "https://notify.moe/anime/_pxjcFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ac6198d0def69c8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.051306299143033,
+    "arithmeticGeometricMean": 6.042558996623969,
+    "median": 6.138,
+    "hash": "4ac6198d0def69c8",
+    "lastUpdate": "2024-05-09"
+  }
+}

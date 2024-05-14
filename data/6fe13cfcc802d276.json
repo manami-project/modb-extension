@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103512",
+    "https://anime-planet.com/anime/candy-no-yume",
+    "https://kitsu.io/anime/13828",
+    "https://myanimelist.net/anime/36302",
+    "https://notify.moe/anime/RCtIhFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6fe13cfcc802d276",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.446545454545454,
+    "arithmeticGeometricMean": 5.425364664723903,
+    "median": 5.175,
+    "hash": "6fe13cfcc802d276",
+    "lastUpdate": "2024-05-06"
+  }
+}

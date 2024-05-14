@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12729",
+    "https://anilist.co/anime/169044",
+    "https://anime-planet.com/anime/3-d-heaven",
+    "https://anisearch.com/anime/10496",
+    "https://kitsu.io/anime/9105",
+    "https://myanimelist.net/anime/24783",
+    "https://notify.moe/anime/_b4-tKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "70be4467d873fb3d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.630256559766763,
+    "arithmeticGeometricMean": 4.587291433641974,
+    "median": 4.45,
+    "hash": "70be4467d873fb3d",
+    "lastUpdate": "2024-05-08"
+  }
+}

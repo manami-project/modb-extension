@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6358",
+    "https://anilist.co/anime/117933",
+    "https://anime-planet.com/anime/maya-no-isshou",
+    "https://anisearch.com/anime/5269",
+    "https://kitsu.io/anime/9437",
+    "https://myanimelist.net/anime/25301",
+    "https://notify.moe/anime/z-0ftKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5bc5c9b0fea1196",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.954545454545455,
+    "arithmeticGeometricMean": 4.9544411982585785,
+    "median": 4.954545454545455,
+    "hash": "e5bc5c9b0fea1196",
+    "lastUpdate": "2024-05-07"
+  }
+}

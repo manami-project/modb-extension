@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11302",
+    "https://anilist.co/anime/99211",
+    "https://anime-planet.com/anime/12-gatsu-no-uta",
+    "https://anisearch.com/anime/10289",
+    "https://kitsu.io/anime/10365",
+    "https://myanimelist.net/anime/29411",
+    "https://notify.moe/anime/9MO8pFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a2c5521bc01b6c7f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.831285979326795,
+    "arithmeticGeometricMean": 4.8084198580760775,
+    "median": 4.5,
+    "hash": "a2c5521bc01b6c7f",
+    "lastUpdate": "2024-05-08"
+  }
+}

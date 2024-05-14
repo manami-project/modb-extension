@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11382",
+    "https://anilist.co/anime/103380",
+    "https://anime-planet.com/anime/modern",
+    "https://anisearch.com/anime/10882",
+    "https://kitsu.io/anime/10080",
+    "https://myanimelist.net/anime/28587",
+    "https://notify.moe/anime/UsMytFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "965624ecf2a9e9ee",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.968691403834261,
+    "arithmeticGeometricMean": 4.923850911390614,
+    "median": 4.9,
+    "hash": "965624ecf2a9e9ee",
+    "lastUpdate": "2024-05-08"
+  }
+}

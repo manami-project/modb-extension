@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12419",
+    "https://anilist.co/anime/97889",
+    "https://anime-planet.com/anime/gintama-2017",
+    "https://anisearch.com/anime/11789",
+    "https://kitsu.io/anime/12553",
+    "https://livechart.me/anime/2336",
+    "https://myanimelist.net/anime/34096",
+    "https://notify.moe/anime/NBRihFmig"
+  ],
+  "synopsis": {
+    "text": "Earth has been invaded by aliens, transforming the once tranquil Edo Period Japan into a bustling metropolis filled with skyscrapers, trains, and motorbikes. Amidst this chaos, one man clings to the spirit of the samurai: Gintoki Sakata, also known as Yorozuya Gin-san. Gintoki, along with his companions Kagura and Shinpachi, find themselves hiding with Katsura and the Joui rebels after rebelling against the bakufu.\n\nImai Nobume approaches the Yorozuya with a mission, revealing a plot involving the Harusame pirates turning against Kamui and Takasugi. The Kiheitai and Kaientai of Sakamoto join forces with the Yorozuya to save Takasugi and Kamui from the clutches of Utsuro and his Harusame. As tensions escalate on Rakuyou, Kagura's home planet, the Yorozuya, Katsura, and the various factions prepare for a colossal showdown.\n\nMeanwhile, Nobume exposes the existence of the Tendoushuu, a secret organization manipulating numerous factions, and their leader Utsuro, who bears a striking resemblance to Gintoki's former teacher. With political strife and long-held grudges reaching a boiling point, the stage is set for a climactic battle that will determine the fate of Rakuyou and the future of this alien-infested world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fbf1d852561d5632",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.710623360348924,
+    "arithmeticGeometricMean": 8.709175598171148,
+    "median": 8.823675259577515,
+    "hash": "fbf1d852561d5632",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/14400",
+    "https://myanimelist.net/anime/39794"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a0e7abbe95afb624",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.132959183673469,
+    "arithmeticGeometricMean": 6.132193520807255,
+    "median": 6.132959183673469,
+    "hash": "a0e7abbe95afb624",
+    "lastUpdate": "2024-05-07"
+  }
+}

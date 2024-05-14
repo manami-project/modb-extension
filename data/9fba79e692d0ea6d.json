@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/get-up-get-live-episode-0",
+    "https://kitsu.io/anime/43280",
+    "https://livechart.me/anime/10050",
+    "https://myanimelist.net/anime/42345",
+    "https://notify.moe/anime/bgX3-5GGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9fba79e692d0ea6d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.626,
+    "arithmeticGeometricMean": 4.626,
+    "median": 4.626,
+    "hash": "9fba79e692d0ea6d",
+    "lastUpdate": "2024-05-06"
+  }
+}

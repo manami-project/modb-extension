@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13167",
+    "https://anilist.co/anime/99731",
+    "https://anime-planet.com/anime/gundam-build-fighters-battlogue",
+    "https://anisearch.com/anime/12662",
+    "https://kitsu.io/anime/13711",
+    "https://livechart.me/anime/2698",
+    "https://myanimelist.net/anime/35567",
+    "https://notify.moe/anime/7jCVhKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e398f13557bdabd",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.53812774980122,
+    "arithmeticGeometricMean": 6.530367774784962,
+    "median": 6.77,
+    "hash": "0e398f13557bdabd",
+    "lastUpdate": "2024-05-09"
+  }
+}

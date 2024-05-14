@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12873",
+    "https://anilist.co/anime/98969",
+    "https://anime-planet.com/anime/an-expression",
+    "https://anisearch.com/anime/12268",
+    "https://kitsu.io/anime/13754",
+    "https://myanimelist.net/anime/35402",
+    "https://notify.moe/anime/chMS2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7c0e325eea0b2965",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.0942979061754565,
+    "arithmeticGeometricMean": 4.050335853629658,
+    "median": 3.96,
+    "hash": "7c0e325eea0b2965",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/15272",
+    "https://kitsu.io/anime/42816",
+    "https://myanimelist.net/anime/38744"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "842706aca12fe7f3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.883775510204082,
+    "arithmeticGeometricMean": 5.883401832432859,
+    "median": 5.883775510204082,
+    "hash": "842706aca12fe7f3",
+    "lastUpdate": "2024-05-07"
+  }
+}

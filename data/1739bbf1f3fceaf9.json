@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8160",
+    "https://anilist.co/anime/10087",
+    "https://anime-planet.com/anime/fate-zero",
+    "https://anisearch.com/anime/6691",
+    "https://kitsu.io/anime/6028",
+    "https://livechart.me/anime/1185",
+    "https://myanimelist.net/anime/10087",
+    "https://notify.moe/anime/HVK7tKmmg"
+  ],
+  "synopsis": {
+    "text": "Among the bustling streets of Fuyuki, Japan, a clandestine battle unfolds: the Fourth Holy Grail War. Seven formidable magicians, known as Masters, emerge from the shadows, each vying for the omnipotent Holy Grail, a legendary artifact that grants the deepest desires of the victor. Ten years prior to the events of \"Fate/stay night,\" this ruthless war draws in the enigmatic Kiritsugu Emiya, a notorious 'Mage Killer' with a burning ambition to reshape the world for the better.\n\nHired by the influential Einzbern family and bound by marriage to their only daughter Irisviel, Kiritsugu is thrust into a deadly game of survival against six rival Masters, each accompanied by their own ancient, summoned warriors known as Servants. Among these foes, Kiritsugu finds his greatest adversary in the conflicted priest Kirei Kotomine, a man desperately seeking solace from his inner emptiness.\n\nAs the war wages on, Kiritsugu and his indomitable Servant, Saber, must navigate a treacherous landscape of shifting alliances and unyielding ambition, where no one is guaranteed to survive. In this battle royale, the line between friend and foe blurs, and the true cost of attaining one's desires is laid bare.\n\n\"Fate/Zero\" chronicles the events leading up to \"Fate/stay night,\" weaving a tale of sacrifice, determination, and the unyielding pursuit of dreams. In this high-stakes war, where the line between right and wrong is obscured, only one question remains: Who will emerge victorious and claim the power of the Holy Grail?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1739bbf1f3fceaf9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.26502211502077,
+    "arithmeticGeometricMean": 8.264841672016887,
+    "median": 8.26982686453577,
+    "hash": "1739bbf1f3fceaf9",
+    "lastUpdate": "2024-05-09"
+  }
+}

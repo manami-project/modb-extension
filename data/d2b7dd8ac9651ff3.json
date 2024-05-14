@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11049",
+    "https://anilist.co/anime/21034",
+    "https://anime-planet.com/anime/is-the-order-a-rabbit-season-2",
+    "https://anisearch.com/anime/10175",
+    "https://kitsu.io/anime/10346",
+    "https://livechart.me/anime/1383",
+    "https://myanimelist.net/anime/29787",
+    "https://notify.moe/anime/f0IUpKmiR"
+  ],
+  "synopsis": {
+    "text": "Japanese high schooler Cocoa finds herself in a new town, eager to embark on her high school journey. She stumbles upon Rabbit House, a charming café filled with an eclectic mix of girls, including the petite and cool Chino, the soldier-like Lize, the quintessentially Japanese Chiyo, and the dignified Sharo. As Cocoa settles into her new life at Rabbit House, she discovers that every day brings a new adventure with her unique friends.\n\nAfter a year of living at Rabbit House, Cocoa decides to send a heartfelt letter to her mother and older sister, unaware that the letter will hold a surprise for her as well. As the friends navigate through the ups and downs of school, they must face the challenges of growing up, including the daunting prospect of graduation.\n\nMeanwhile, Rabbit House faces its own set of challenges when a magazine fails to mention the café in an article about local eateries. As the friends investigate a mysterious occurrence at Sharo's house, they must also confront the arrival of Cocoa's older sister, which may prove to be a blessing or a disaster.\n\nWith its unique cast of characters, including waitresses who collect firearms and a talking rabbit, Rabbit House is anything but ordinary. Join Cocoa and her friends as they navigate the trials and tribulations of everyday life, where excitement and surprises are always just around the corner.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d2b7dd8ac9651ff3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.804788244851205,
+    "arithmeticGeometricMean": 7.8038900701455285,
+    "median": 7.82009090909091,
+    "hash": "d2b7dd8ac9651ff3",
+    "lastUpdate": "2024-05-09"
+  }
+}

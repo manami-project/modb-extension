@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2292",
+    "https://anilist.co/anime/2913",
+    "https://anime-planet.com/anime/daisougen-no-chiisana-tenshi-bush-baby",
+    "https://anisearch.com/anime/2448",
+    "https://kitsu.io/anime/2641",
+    "https://livechart.me/anime/7142",
+    "https://myanimelist.net/anime/2913",
+    "https://notify.moe/anime/jDpUcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ccd62ee2a301f41",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.585449244632918,
+    "arithmeticGeometricMean": 6.564064481413564,
+    "median": 6.63,
+    "hash": "5ccd62ee2a301f41",
+    "lastUpdate": "2024-05-09"
+  }
+}

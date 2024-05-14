@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4220",
+    "https://anilist.co/anime/16259",
+    "https://anime-planet.com/anime/inferious-wakusei-senshi-gaiden-condition-green",
+    "https://anisearch.com/anime/403",
+    "https://kitsu.io/anime/7398",
+    "https://livechart.me/anime/7461",
+    "https://myanimelist.net/anime/16259",
+    "https://notify.moe/anime/-QJKtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "055cbbb440aa681a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.233057513914656,
+    "arithmeticGeometricMean": 5.218842388921026,
+    "median": 5.204081632653061,
+    "hash": "055cbbb440aa681a",
+    "lastUpdate": "2024-05-09"
+  }
+}

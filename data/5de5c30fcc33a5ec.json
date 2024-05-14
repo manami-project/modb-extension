@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3095",
+    "https://anilist.co/anime/8786",
+    "https://anime-planet.com/anime/inakappe-taishou",
+    "https://anisearch.com/anime/2876",
+    "https://kitsu.io/anime/5495",
+    "https://livechart.me/anime/11741",
+    "https://myanimelist.net/anime/8786",
+    "https://notify.moe/anime/O0mZpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5de5c30fcc33a5ec",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.201700680272109,
+    "arithmeticGeometricMean": 5.14953960363549,
+    "median": 4.855102040816327,
+    "hash": "5de5c30fcc33a5ec",
+    "lastUpdate": "2024-05-09"
+  }
+}

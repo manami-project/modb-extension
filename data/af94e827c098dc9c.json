@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102699",
+    "https://anime-planet.com/anime/abstract-feat-alkama",
+    "https://anisearch.com/anime/12859",
+    "https://kitsu.io/anime/14087",
+    "https://myanimelist.net/anime/36182",
+    "https://notify.moe/anime/o0AN2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "af94e827c098dc9c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.023177489177489,
+    "arithmeticGeometricMean": 4.966551931038857,
+    "median": 5.055454545454545,
+    "hash": "af94e827c098dc9c",
+    "lastUpdate": "2024-05-05"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1068",
+    "https://anilist.co/anime/1009",
+    "https://anime-planet.com/anime/art-of-fighting",
+    "https://anisearch.com/anime/3446",
+    "https://kitsu.io/anime/899",
+    "https://livechart.me/anime/7801",
+    "https://myanimelist.net/anime/1009",
+    "https://notify.moe/anime/NwTJcFmig"
+  ],
+  "synopsis": {
+    "text": "Despite their humble beginnings as a martial arts instructor and a pet detective, Ryo Sakazaki and his best friend Robert Garcia find themselves in a dangerous underworld of crime and violence after a series of unfortunate events. While attempting to rescue a stray cat, they accidentally witness a mob hit, becoming the only witnesses to the crime. With the ruthless gang leader, Mr. Big, hot on their heels, Ryo and Robert are shot at, run off the road, and nearly blown up. But things get personal when Mr. Big kidnaps Ryo's sister, Yuri, to force them to find a missing diamond. With no other options, Ryo and Robert must use their martial arts skills to fight their way through Mr. Big's army of enforcers and save Yuri before it's too late. Based on the hit video game, this action-packed anime follows Ryo and Robert as they take on the Southtown underworld to save Yuri and clear their names.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "11d05671d6448c95",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.292517360190829,
+    "arithmeticGeometricMean": 5.266170683666351,
+    "median": 4.982,
+    "hash": "11d05671d6448c95",
+    "lastUpdate": "2024-05-08"
+  }
+}

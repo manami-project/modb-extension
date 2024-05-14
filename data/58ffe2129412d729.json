@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13126",
+    "https://anilist.co/anime/103412",
+    "https://anime-planet.com/anime/hietsuki-bushi",
+    "https://kitsu.io/anime/11854",
+    "https://myanimelist.net/anime/32618",
+    "https://notify.moe/anime/Vn3qtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "58ffe2129412d729",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.118109090909091,
+    "arithmeticGeometricMean": 5.110054470396387,
+    "median": 5.0,
+    "hash": "58ffe2129412d729",
+    "lastUpdate": "2024-05-08"
+  }
+}

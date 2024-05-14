@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2328",
+    "https://anilist.co/anime/1367",
+    "https://anime-planet.com/anime/detective-conan-magician-of-the-silver-sky",
+    "https://anisearch.com/anime/320",
+    "https://kitsu.io/anime/1221",
+    "https://livechart.me/anime/4710",
+    "https://myanimelist.net/anime/1367",
+    "https://notify.moe/anime/JiCxcFimg"
+  ],
+  "synopsis": {
+    "text": "Phantom Thief Kaito Kid sets his sights on a new prize in this thrilling Detective Conan movie installment: a star sapphire known as the Jewel of Destiny. Actress Juri Maki enlists the help of Detective Mouri to protect her precious gem, but despite their best efforts, Kaito Kid, disguised as Shinichi, manages to outwit them and escape. As a token of gratitude, Juri invites Mouri, Conan, and their friends to a performance in Sapporo. However, the journey turns into a high-stakes adventure when a dangerous plot unfolds mid-flight, threatening the lives of everyone on board. With the jewel's safety still at risk and a mystery to solve, Conan must rise to the challenge and uncover the truth hidden among the clouds.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "67a9d2174db81fea",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.041361815433245,
+    "arithmeticGeometricMean": 8.040334690095843,
+    "median": 8.04,
+    "hash": "67a9d2174db81fea",
+    "lastUpdate": "2024-05-09"
+  }
+}

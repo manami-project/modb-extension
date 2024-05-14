@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9960",
+    "https://anilist.co/anime/19319",
+    "https://anime-planet.com/anime/gundam-build-fighters",
+    "https://anisearch.com/anime/8757",
+    "https://kitsu.io/anime/7852",
+    "https://livechart.me/anime/89",
+    "https://myanimelist.net/anime/19319",
+    "https://notify.moe/anime/VrsttFmmg"
+  ],
+  "synopsis": {
+    "text": "Plastic models inspired by the iconic Mobile Suit Gundam series, known as Gunpla, have sparked a global craze in the near future. The enthusiasm for Gunpla has been reignited with the advent of Gunpla Battles, thrilling competitions that bring these models to life in virtual reality combat. Sei Iori, a middle school student and the son of a model shop owner, is a gifted Gunpla builder but lacks experience in the high-stakes battles. When he crosses paths with Reiji, an enigmatic boy with an uncanny knack for Gunpla combat, they form an unstoppable duo. With Sei's custom-built Build Strike Gundam and Reiji's battle prowess, they embark on a journey to conquer the Gunpla Battle world championships.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f79fcf13dec0e2b9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.604576015254587,
+    "arithmeticGeometricMean": 7.600928196906437,
+    "median": 7.724747474747475,
+    "hash": "f79fcf13dec0e2b9",
+    "lastUpdate": "2024-05-09"
+  }
+}

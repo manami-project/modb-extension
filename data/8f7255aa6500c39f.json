@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3663",
+    "https://anilist.co/anime/8373",
+    "https://anime-planet.com/anime/the-new-adventures-of-maya-the-honeybee",
+    "https://anisearch.com/anime/154",
+    "https://kitsu.io/anime/5320",
+    "https://livechart.me/anime/6259",
+    "https://myanimelist.net/anime/8373",
+    "https://notify.moe/anime/FtdmtKiiR"
+  ],
+  "synopsis": {
+    "text": "Each day brings new adventures for Maaya, a lively and curious little bee, who breaks free from the confines of her beehive to explore the vast meadow beyond. Joined by her fellow bee companion, Willi, and Flip, an energetic grasshopper, Maaya embarks on a series of thrilling escapades. Along the way, they encounter various inhabitants of the meadow, such as field mice, ants, ladybugs, beetles, and even a cross spider.\n\nThroughout these experiences, Maaya and her friends learn valuable life lessons that resonate with young viewers. 'The Adventures of Maya the Honeybee' is a heartwarming and engaging tale that follows this spirited bee as she navigates the wonders and challenges of the world outside her hive. This charming sequel to 'Mitsubachi Maya no Bouken' promises to captivate audiences with its delightful blend of adventure, humor, and wisdom.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f7255aa6500c39f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.313702093824543,
+    "arithmeticGeometricMean": 6.299191848007487,
+    "median": 6.432,
+    "hash": "8f7255aa6500c39f",
+    "lastUpdate": "2024-05-09"
+  }
+}

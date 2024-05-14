@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17484",
+    "https://anilist.co/anime/151659",
+    "https://anime-planet.com/anime/knights-of-the-zodiac-saint-seiya-battle-for-sanctuary",
+    "https://anisearch.com/anime/17500",
+    "https://kitsu.io/anime/46220",
+    "https://livechart.me/anime/11304",
+    "https://myanimelist.net/anime/52273",
+    "https://notify.moe/anime/cEyRcdeng"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e351c4a3876be468",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.846058132343846,
+    "arithmeticGeometricMean": 5.823508938162526,
+    "median": 6.210909090909091,
+    "hash": "e351c4a3876be468",
+    "lastUpdate": "2024-05-09"
+  }
+}

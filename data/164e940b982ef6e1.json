@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148965",
+    "https://anime-planet.com/anime/shi-no-shounin",
+    "https://kitsu.io/anime/46487",
+    "https://myanimelist.net/anime/52856"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "164e940b982ef6e1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.559454545454545,
+    "arithmeticGeometricMean": 6.551074051688211,
+    "median": 6.559454545454545,
+    "hash": "164e940b982ef6e1",
+    "lastUpdate": "2024-05-07"
+  }
+}

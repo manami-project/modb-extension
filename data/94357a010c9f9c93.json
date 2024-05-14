@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13214",
+    "https://anilist.co/anime/100361",
+    "https://anime-planet.com/anime/midnight-crazy-trail",
+    "https://anisearch.com/anime/12927",
+    "https://kitsu.io/anime/13978",
+    "https://livechart.me/anime/2718",
+    "https://myanimelist.net/anime/35683",
+    "https://notify.moe/anime/t1mNhKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "94357a010c9f9c93",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.548421768707484,
+    "arithmeticGeometricMean": 5.5203408604216495,
+    "median": 5.140000000000001,
+    "hash": "94357a010c9f9c93",
+    "lastUpdate": "2024-05-09"
+  }
+}

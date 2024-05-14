@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2007",
+    "https://anilist.co/anime/2762",
+    "https://anime-planet.com/anime/iga-no-kagamaru",
+    "https://anisearch.com/anime/139",
+    "https://kitsu.io/anime/2522",
+    "https://livechart.me/anime/7097",
+    "https://myanimelist.net/anime/2762",
+    "https://notify.moe/anime/iqescKmiR"
+  ],
+  "synopsis": {
+    "text": "Kabamaru's life takes a drastic turn when his rigorous ninja training under his stern grandfather, Saizou, in a secluded mountain village comes to an end with Saizou's passing. Eager for a life filled with culinary delights and urban adventures, Kabamaru heads to Tokyo under the watchful eye of Ran Akoko, an elderly woman who claims to have been entrusted with his care by his late grandfather. As he immerses himself in city life and enrolls in a seemingly ordinary school, Kabamaru soon discovers that his new educational institution is anything but normal, and he becomes entangled in an escalating rivalry between two public schools.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7e204a2bca42c6ca",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.1209748210972705,
+    "arithmeticGeometricMean": 7.089294498635419,
+    "median": 7.682,
+    "hash": "7e204a2bca42c6ca",
+    "lastUpdate": "2024-05-09"
+  }
+}

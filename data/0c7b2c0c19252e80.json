@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/908",
+    "https://anilist.co/anime/91",
+    "https://anime-planet.com/anime/mobile-suit-gundam-wing-endless-waltz",
+    "https://anisearch.com/anime/1861",
+    "https://kitsu.io/anime/7964",
+    "https://livechart.me/anime/5039",
+    "https://myanimelist.net/anime/91",
+    "https://notify.moe/anime/prI2pKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0c7b2c0c19252e80",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.5381781076066785,
+    "arithmeticGeometricMean": 7.534534032438014,
+    "median": 7.5600000000000005,
+    "hash": "0c7b2c0c19252e80",
+    "lastUpdate": "2024-05-09"
+  }
+}

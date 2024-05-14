@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/15266",
+    "https://livechart.me/anime/10317"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3ef36334fd32baad",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.408163265306122,
+    "arithmeticGeometricMean": 5.408163265306122,
+    "median": 5.408163265306122,
+    "hash": "3ef36334fd32baad",
+    "lastUpdate": "2024-05-09"
+  }
+}

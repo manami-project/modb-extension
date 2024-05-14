@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11571",
+    "https://anilist.co/anime/103747",
+    "https://anime-planet.com/anime/kana-bunke-oppai-ga-ippai",
+    "https://anisearch.com/anime/11623",
+    "https://kitsu.io/anime/10691",
+    "https://myanimelist.net/anime/30160",
+    "https://notify.moe/anime/X2awpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e1b5e9b26dafb7e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.916557204700061,
+    "arithmeticGeometricMean": 4.885997499951524,
+    "median": 4.713181818181818,
+    "hash": "e1b5e9b26dafb7e6",
+    "lastUpdate": "2024-05-08"
+  }
+}

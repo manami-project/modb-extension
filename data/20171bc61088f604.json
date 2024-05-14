@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7328",
+    "https://anilist.co/anime/14623",
+    "https://anime-planet.com/anime/chikyuu-sos-sore-ike-kororin",
+    "https://anisearch.com/anime/3642",
+    "https://kitsu.io/anime/7142",
+    "https://myanimelist.net/anime/14623",
+    "https://notify.moe/anime/EROOpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "20171bc61088f604",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.303696969696969,
+    "arithmeticGeometricMean": 5.228251198369244,
+    "median": 5.0,
+    "hash": "20171bc61088f604",
+    "lastUpdate": "2024-05-08"
+  }
+}

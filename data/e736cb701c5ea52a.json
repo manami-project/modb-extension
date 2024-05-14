@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2551",
+    "https://anilist.co/anime/5475",
+    "https://anime-planet.com/anime/time-bokan-2000-kaitou-kiramekiman",
+    "https://anisearch.com/anime/1380",
+    "https://kitsu.io/anime/4116",
+    "https://livechart.me/anime/11834",
+    "https://myanimelist.net/anime/5475",
+    "https://notify.moe/anime/hhojcKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e736cb701c5ea52a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.304728509585652,
+    "arithmeticGeometricMean": 5.2706126486504505,
+    "median": 5.181818181818182,
+    "hash": "e736cb701c5ea52a",
+    "lastUpdate": "2024-05-10"
+  }
+}

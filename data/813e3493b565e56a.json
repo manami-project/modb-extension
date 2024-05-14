@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10578",
+    "https://anilist.co/anime/20620",
+    "https://anime-planet.com/anime/pretty-rhythm-all-star-selection",
+    "https://anisearch.com/anime/9578",
+    "https://kitsu.io/anime/8393",
+    "https://livechart.me/anime/423",
+    "https://myanimelist.net/anime/22215",
+    "https://notify.moe/anime/BsG0pFiiR"
+  ],
+  "synopsis": {
+    "text": "This new anime series is the latest installment in the Pretty Rhythm franchise, featuring an aspiring young idol named Lala Manaka. With dreams of stardom in her eyes, Lala receives guidance from none other than the beloved protagonists of the previous Pretty Rhythm series: Aira, Mia, and Naru. As they recount their own experiences and past Prism Shows, they impart valuable lessons on what it truly means to be an idol. Join Lala on her journey as she learns from the best and discovers her own path to shine in the world of Prism Shows.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "813e3493b565e56a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.851312483434932,
+    "arithmeticGeometricMean": 6.845190603689889,
+    "median": 6.636363636363637,
+    "hash": "813e3493b565e56a",
+    "lastUpdate": "2024-05-09"
+  }
+}

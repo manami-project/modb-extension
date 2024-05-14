@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/3620",
+    "https://anime-planet.com/anime/blue-seed-specials",
+    "https://anisearch.com/anime/9073",
+    "https://kitsu.io/anime/3146",
+    "https://myanimelist.net/anime/3620",
+    "https://notify.moe/anime/uIG_5Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "810c57ad110d80b3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.369162028447743,
+    "arithmeticGeometricMean": 6.342945563253783,
+    "median": 6.537272727272727,
+    "hash": "810c57ad110d80b3",
+    "lastUpdate": "2024-05-06"
+  }
+}

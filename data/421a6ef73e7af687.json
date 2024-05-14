@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/5458",
+    "https://anime-planet.com/anime/yu-gi-oh-duel-monsters-battle-city-special",
+    "https://kitsu.io/anime/4106",
+    "https://livechart.me/anime/5401",
+    "https://myanimelist.net/anime/5458",
+    "https://notify.moe/anime/8ShCcKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "421a6ef73e7af687",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.15260606060606,
+    "arithmeticGeometricMean": 7.14989451999615,
+    "median": 7.101000000000001,
+    "hash": "421a6ef73e7af687",
+    "lastUpdate": "2024-05-06"
+  }
+}

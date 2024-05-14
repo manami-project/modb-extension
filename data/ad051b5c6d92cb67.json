@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/9739",
+    "https://myanimelist.net/anime/7343"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ad051b5c6d92cb67",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.016020408163265,
+    "arithmeticGeometricMean": 3.950695362016515,
+    "median": 4.016020408163265,
+    "hash": "ad051b5c6d92cb67",
+    "lastUpdate": "2024-05-07"
+  }
+}

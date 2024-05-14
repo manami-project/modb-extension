@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/109",
+    "https://anilist.co/anime/276",
+    "https://anime-planet.com/anime/mahoromatic",
+    "https://anisearch.com/anime/728",
+    "https://kitsu.io/anime/251",
+    "https://livechart.me/anime/3991",
+    "https://myanimelist.net/anime/276",
+    "https://notify.moe/anime/o1c2cFiig"
+  ],
+  "synopsis": {
+    "text": "If you're looking for a unique blend of sci-fi, comedy, and heartwarming slice-of-life, look no further than the story of Mahoro, a powerful battle android turned maid. As a member of the clandestine organization Vesper, Mahoro has spent years defending Earth from alien invaders. However, with her energy reserves dwindling, she faces a crucial decision: continue fighting and face imminent shutdown, or abandon her weapons to prolong her life. Choosing the latter, Mahoro is transformed into a civilian android, complete with a new role as a maid for Suguru, a high school student living alone after the loss of his parents. Despite her new peaceful existence, Mahoro's past is never far behind, and she must navigate the challenges of everyday life while hiding her true nature and the secret connection she shares with Suguru. With a colorful cast of characters, including a lovestruck teacher and Suguru's curious classmates, this tale of love, loss, and laughter will capture your heart and keep you guessing until the very end.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef540977b927532c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.185897616358797,
+    "arithmeticGeometricMean": 7.182438711733406,
+    "median": 7.203,
+    "hash": "ef540977b927532c",
+    "lastUpdate": "2024-05-09"
+  }
+}

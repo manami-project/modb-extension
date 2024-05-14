@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/108053",
+    "https://anime-planet.com/anime/kenji-nojima-dont-worry-monotarinai-monogatari",
+    "https://anisearch.com/anime/13469",
+    "https://myanimelist.net/anime/39242"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fe1eeadcc39c773a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.606812615955473,
+    "arithmeticGeometricMean": 5.580526227426169,
+    "median": 5.667727272727273,
+    "hash": "fe1eeadcc39c773a",
+    "lastUpdate": "2024-05-07"
+  }
+}

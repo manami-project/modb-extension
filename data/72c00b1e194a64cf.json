@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18504",
+    "https://anilist.co/anime/175137",
+    "https://anime-planet.com/anime/nights-with-a-cat-season-3",
+    "https://anisearch.com/anime/19094",
+    "https://kitsu.io/anime/48567",
+    "https://livechart.me/anime/12541",
+    "https://myanimelist.net/anime/58199",
+    "https://notify.moe/anime/2zjEjlTSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "72c00b1e194a64cf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "72c00b1e194a64cf",
+    "lastUpdate": "2024-05-11"
+  }
+}

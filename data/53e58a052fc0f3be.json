@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12910",
+    "https://anilist.co/anime/102564",
+    "https://anime-planet.com/anime/crocotires-traction-aaa",
+    "https://anisearch.com/anime/13445",
+    "https://kitsu.io/anime/12896",
+    "https://myanimelist.net/anime/34716",
+    "https://notify.moe/anime/Tq5W2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "53e58a052fc0f3be",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.992620284477428,
+    "arithmeticGeometricMean": 4.972554553562441,
+    "median": 4.863636363636363,
+    "hash": "53e58a052fc0f3be",
+    "lastUpdate": "2024-05-08"
+  }
+}

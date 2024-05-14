@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13294",
+    "https://anilist.co/anime/100255",
+    "https://anime-planet.com/anime/onyankopon",
+    "https://anisearch.com/anime/12722",
+    "https://kitsu.io/anime/13908",
+    "https://livechart.me/anime/2867",
+    "https://myanimelist.net/anime/35971",
+    "https://notify.moe/anime/GVQI2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "54445323328a25c4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.39576941425921,
+    "arithmeticGeometricMean": 4.357629857776251,
+    "median": 4.51,
+    "hash": "54445323328a25c4",
+    "lastUpdate": "2024-05-09"
+  }
+}

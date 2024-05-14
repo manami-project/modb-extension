@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1952",
+    "https://anilist.co/anime/2419",
+    "https://anime-planet.com/anime/spirit-of-wonder-miss-chinas-ring",
+    "https://anisearch.com/anime/2045",
+    "https://kitsu.io/anime/2195",
+    "https://livechart.me/anime/7294",
+    "https://myanimelist.net/anime/2419",
+    "https://notify.moe/anime/3jyP5FimR"
+  ],
+  "synopsis": {
+    "text": "She's known as Miss China, a young woman of Asian descent who manages a bustling boarding house and restaurant in a quaint seaside town during the late 1800s. Among her tenants are a quirky inventor, Dr. Breckenridge, and Jim, a charming watchmaker's apprentice who has captured Miss China's heart. Despite their constant struggle to pay rent on time due to their eccentric pursuits, they manage to create an extraordinary invention that promises to change everything.\n\nAs Miss China longs for Jim's affection, believing he's courting the local flower girl, Jim devises an incredible plan to present her with the most stunning ring in the world. Using the mad scientist's latest invention, the trio embarks on a breathtaking journey to the moon. In a world where the spirit of wonder thrives and the impossible becomes possible, join Miss China, Jim, and Dr. Breckenridge as they navigate through love, friendship, and lunar adventures.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3794065daa8f0ad",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.358901846452867,
+    "arithmeticGeometricMean": 6.353513291136838,
+    "median": 6.4,
+    "hash": "f3794065daa8f0ad",
+    "lastUpdate": "2024-05-10"
+  }
+}

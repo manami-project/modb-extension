@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/moom-hajimari-no-monogatari",
+    "https://anisearch.com/anime/17564",
+    "https://kitsu.io/anime/41886",
+    "https://myanimelist.net/anime/38029"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aeefd8a0f8e26735",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.35447619047619,
+    "arithmeticGeometricMean": 5.263035287917664,
+    "median": 5.73,
+    "hash": "aeefd8a0f8e26735",
+    "lastUpdate": "2024-05-07"
+  }
+}

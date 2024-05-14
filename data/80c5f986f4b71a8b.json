@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3510",
+    "https://anilist.co/anime/5845",
+    "https://anime-planet.com/anime/pikachus-summer-festival",
+    "https://anisearch.com/anime/2446",
+    "https://kitsu.io/anime/4302",
+    "https://livechart.me/anime/6047",
+    "https://myanimelist.net/anime/5845",
+    "https://notify.moe/anime/BZz35FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "80c5f986f4b71a8b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.997342580322171,
+    "arithmeticGeometricMean": 5.989801040196819,
+    "median": 6.0,
+    "hash": "80c5f986f4b71a8b",
+    "lastUpdate": "2024-05-09"
+  }
+}

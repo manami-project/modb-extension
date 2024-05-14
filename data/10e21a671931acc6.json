@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143306",
+    "https://kitsu.io/anime/10212",
+    "https://myanimelist.net/anime/28693",
+    "https://notify.moe/anime/eFEstKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "10e21a671931acc6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.863636363636363,
+    "arithmeticGeometricMean": 4.862680308852148,
+    "median": 4.863636363636363,
+    "hash": "10e21a671931acc6",
+    "lastUpdate": "2024-05-07"
+  }
+}

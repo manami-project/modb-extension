@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/111950",
+    "https://anime-planet.com/anime/silent-smile",
+    "https://kitsu.io/anime/43183"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eaf9cc765df6921d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.519909090909091,
+    "arithmeticGeometricMean": 6.515522463185231,
+    "median": 6.519909090909091,
+    "hash": "eaf9cc765df6921d",
+    "lastUpdate": "2024-05-07"
+  }
+}

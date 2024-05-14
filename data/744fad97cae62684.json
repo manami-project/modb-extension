@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13162",
+    "https://anilist.co/anime/99732",
+    "https://anime-planet.com/anime/gundam-build-fighters-gm-no-gyakushuu",
+    "https://anisearch.com/anime/12663",
+    "https://kitsu.io/anime/13756",
+    "https://livechart.me/anime/2694",
+    "https://myanimelist.net/anime/35982",
+    "https://notify.moe/anime/QPMI2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "744fad97cae62684",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.0641117810760665,
+    "arithmeticGeometricMean": 7.052701803518722,
+    "median": 7.225909090909091,
+    "hash": "744fad97cae62684",
+    "lastUpdate": "2024-05-09"
+  }
+}

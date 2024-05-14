@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16363",
+    "https://anilist.co/anime/135108",
+    "https://anime-planet.com/anime/yamishibai-japanese-ghost-stories-9th-season",
+    "https://anisearch.com/anime/16352",
+    "https://kitsu.io/anime/44664",
+    "https://livechart.me/anime/10620",
+    "https://myanimelist.net/anime/49110",
+    "https://notify.moe/anime/26haHTeGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b3e9342344021f37",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.959883580705009,
+    "arithmeticGeometricMean": 5.928584632610835,
+    "median": 5.866,
+    "hash": "b3e9342344021f37",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/112448",
+    "https://anime-planet.com/anime/psycho-nyanya",
+    "https://kitsu.io/anime/43648",
+    "https://myanimelist.net/anime/50347"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "daa32a29ad36bec3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.302545454545454,
+    "arithmeticGeometricMean": 6.296397326677334,
+    "median": 6.302545454545454,
+    "hash": "daa32a29ad36bec3",
+    "lastUpdate": "2024-05-07"
+  }
+}

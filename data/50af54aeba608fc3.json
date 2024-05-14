@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3385",
+    "https://anilist.co/anime/1140",
+    "https://anime-planet.com/anime/origin-spirits-of-the-past",
+    "https://anisearch.com/anime/3238",
+    "https://kitsu.io/anime/1021",
+    "https://livechart.me/anime/3941",
+    "https://myanimelist.net/anime/1140",
+    "https://notify.moe/anime/HAkx5Kiig"
+  ],
+  "synopsis": {
+    "text": "Agito's world is far from ordinary, where a botched DNA experiment granted plants sentience and sparked a war against humanity. The forest, now a formidable adversary, maintains an uneasy truce with the remaining human enclaves. Agito's city thrives in this verdant landscape, thanks to a select group of humans who have embraced the forest's influence. When Agito stumbles upon a forgotten relic containing a girl named Toola, who has been asleep for centuries, he inadvertently sets in motion a chain of events that could tip the scales in humanity's favor.\n\nToola, who carries the key to restore civilization, becomes the target of Shunack, a ruthless soldier determined to annihilate the forest. Agito, however, sees the forest not as an enemy, but as a partner in coexistence. To save Toola from Shunack's clutches and prevent the impending destruction, Agito forges a bond with the forest, gaining forbidden powers in the process. In a world teetering on the brink of chaos, Agito must navigate the complexities of human ambition, ancient technology, and the will of the forest to safeguard Toola and forge a path towards unity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "50af54aeba608fc3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.129761080189652,
+    "arithmeticGeometricMean": 7.127003780564462,
+    "median": 7.171111111111111,
+    "hash": "50af54aeba608fc3",
+    "lastUpdate": "2024-05-09"
+  }
+}

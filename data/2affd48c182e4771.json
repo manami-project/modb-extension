@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10721",
+    "https://anilist.co/anime/21121",
+    "https://anime-planet.com/anime/happiness-charge-pretty-cure-movie-ningyou-no-kuni-no-ballerina",
+    "https://anisearch.com/anime/9755",
+    "https://kitsu.io/anime/8417",
+    "https://livechart.me/anime/460",
+    "https://myanimelist.net/anime/23083",
+    "https://notify.moe/anime/ngD0tKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2affd48c182e4771",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.027059810937361,
+    "arithmeticGeometricMean": 7.017296125367792,
+    "median": 7.181818181818182,
+    "hash": "2affd48c182e4771",
+    "lastUpdate": "2024-05-09"
+  }
+}

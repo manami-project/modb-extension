@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/130040",
+    "https://anime-planet.com/anime/kiara-takanashi-heart-challenger",
+    "https://kitsu.io/anime/44078",
+    "https://myanimelist.net/anime/50113"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92bfdb4f9eadd6bd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.806909090909091,
+    "arithmeticGeometricMean": 6.80118119169688,
+    "median": 6.838000000000001,
+    "hash": "92bfdb4f9eadd6bd",
+    "lastUpdate": "2024-05-07"
+  }
+}

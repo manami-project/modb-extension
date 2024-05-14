@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12750",
+    "https://anilist.co/anime/8680",
+    "https://anime-planet.com/anime/fuyu-no-yoru-no-ohanashi",
+    "https://anisearch.com/anime/6740",
+    "https://kitsu.io/anime/5439",
+    "https://notify.moe/anime/qDuitKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85e936df266bde48",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.400594434137291,
+    "arithmeticGeometricMean": 4.318416084372605,
+    "median": 3.2,
+    "hash": "85e936df266bde48",
+    "lastUpdate": "2024-05-08"
+  }
+}

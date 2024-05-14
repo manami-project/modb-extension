@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/barangay-143",
+    "https://kitsu.io/anime/42062"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c223ab2c8c579ceb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.91,
+    "arithmeticGeometricMean": 6.91,
+    "median": 6.91,
+    "hash": "c223ab2c8c579ceb",
+    "lastUpdate": "2024-05-05"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2644",
+    "https://anilist.co/anime/464",
+    "https://anime-planet.com/anime/one-piece-movie-6-baron-omatsuri-and-the-secret-island",
+    "https://anisearch.com/anime/2553",
+    "https://kitsu.io/anime/426",
+    "https://livechart.me/anime/4104",
+    "https://myanimelist.net/anime/464",
+    "https://notify.moe/anime/5aIo5Fimg"
+  ],
+  "synopsis": {
+    "text": "Monkey D. Luffy and his Straw Hat Pirates embark on a journey to the enigmatic Omatsuri Island, the Grand Line's exclusive recreational resort, lured by an intriguing invitation promising luxurious spas, delectable cuisine, and enchanting beauties. Upon their arrival, they are greeted by the island's flamboyant master, Baron Omatsuri, who challenges them to undergo a series of hellish trials to earn their relaxation.\n\nAs the crew reluctantly accepts the challenge, they find themselves entangled in a web of deceit and danger. The once-unified pirates begin to turn against one another, as the island's sinister secrets start to unravel. With the Straw Hat Pirates being the only visitors on the island, they must navigate through the mysterious contests and uncover the truth behind Baron Omatsuri's true intentions.\n\nAs they delve deeper into the island's enigma, a seemingly innocuous flower may hold the key to the dark forces at play. Can Luffy and his crew overcome the challenges and restore their camaraderie, or will they fall victim to the malevolent forces lurking on Omatsuri Island?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "600e47fa7712ee6e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.628815359412624,
+    "arithmeticGeometricMean": 7.6266466909688555,
+    "median": 7.710999999999999,
+    "hash": "600e47fa7712ee6e",
+    "lastUpdate": "2024-05-09"
+  }
+}

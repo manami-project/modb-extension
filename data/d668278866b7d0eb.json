@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/143154",
+    "https://anime-planet.com/anime/the-fullmoon-tradition-indra-pilot",
+    "https://myanimelist.net/anime/49351"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d668278866b7d0eb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.786727272727273,
+    "arithmeticGeometricMean": 5.71918086985303,
+    "median": 5.786727272727273,
+    "hash": "d668278866b7d0eb",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5544",
+    "https://anilist.co/anime/3366",
+    "https://anime-planet.com/anime/persona-trinity-soul",
+    "https://anisearch.com/anime/4577",
+    "https://kitsu.io/anime/2959",
+    "https://livechart.me/anime/4266",
+    "https://myanimelist.net/anime/3366",
+    "https://notify.moe/anime/IwJwcFmiR"
+  ],
+  "synopsis": {
+    "text": "High school student Shin Kanzato and his younger brother Jun reunite with their estranged elder brother, Ryou, the police chief of Ayanagi City, a futuristic city by the Japan Sea, after a decade of separation. The city is still recovering from the devastating 'Apathy Syndrome' that struck ten years ago, and now, a series of bizarre incidents have begun to unfold. Submarine crews are inexplicably vanishing, a spiritless symptom is resurfacing, and corpses are being discovered with their insides grotesquely turned outwards. As Ryou delves deeper into these strange occurrences, Shin unwittingly becomes entangled in the mystery and awakens his own 'Persona'. Now, Shin must navigate this new world of supernatural abilities and unravel the truth behind the enigmatic organization orchestrating these events.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b129f4e91b8ec1a3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.522769686662543,
+    "arithmeticGeometricMean": 6.514341322085012,
+    "median": 6.5280000000000005,
+    "hash": "b129f4e91b8ec1a3",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/1-2-3-4"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "098fa3c007d2df85",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.198,
+    "arithmeticGeometricMean": 4.198,
+    "median": 4.198,
+    "hash": "098fa3c007d2df85",
+    "lastUpdate": "2024-05-05"
+  }
+}

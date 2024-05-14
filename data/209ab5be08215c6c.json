@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10815",
+    "https://anilist.co/anime/20566",
+    "https://anime-planet.com/anime/the-disappearance-of-nagato-yuki-chan",
+    "https://anisearch.com/anime/9298",
+    "https://kitsu.io/anime/8144",
+    "https://livechart.me/anime/363",
+    "https://myanimelist.net/anime/26351",
+    "https://notify.moe/anime/OCkTtFimg"
+  ],
+  "synopsis": {
+    "text": "Ryoko Asakura, a lively and determined girl, joins forces with her introverted best friend, Yuki Nagato, to preserve their high school literature club from disbandment. As the club president, Yuki, who is also a timid bookworm, struggles to recruit members. In this alternate universe, Yuki finds herself captivated by Kyon, a fellow club member, and endeavors to win his heart with Ryoko's assistance. The trio's peaceful club life is frequently disrupted by the antics of the boisterous Tsuruya and her companion Mikuru, as well as the eccentric Haruhi Suzumiya and her friend Itsuki Koizumi. As Yuki navigates through high school experiences and emotions, she must also confront unexpected challenges that threaten her relationship with Kyon.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "209ab5be08215c6c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.695044520838639,
+    "arithmeticGeometricMean": 6.691334475018495,
+    "median": 6.673996265172735,
+    "hash": "209ab5be08215c6c",
+    "lastUpdate": "2024-05-09"
+  }
+}

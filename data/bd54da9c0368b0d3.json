@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11359",
+    "https://anilist.co/anime/103477",
+    "https://anime-planet.com/anime/columbos",
+    "https://anisearch.com/anime/10160",
+    "https://kitsu.io/anime/10165",
+    "https://myanimelist.net/anime/28955",
+    "https://notify.moe/anime/HVJytKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd54da9c0368b0d3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.023953882851842,
+    "arithmeticGeometricMean": 4.988495715420021,
+    "median": 4.84,
+    "hash": "bd54da9c0368b0d3",
+    "lastUpdate": "2024-05-07"
+  }
+}

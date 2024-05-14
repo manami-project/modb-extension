@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/135",
+    "https://anilist.co/anime/185",
+    "https://anime-planet.com/anime/initial-d",
+    "https://anisearch.com/anime/986",
+    "https://kitsu.io/anime/162",
+    "https://livechart.me/anime/3850",
+    "https://myanimelist.net/anime/185",
+    "https://notify.moe/anime/l1CtcKimg"
+  ],
+  "synopsis": {
+    "text": "Keisuke, a renowned amateur racer, is left in the dust by an unassuming Toyota AE86 Trueno one night, sparking his curiosity about the driver's identity and skills. The driver turns out to be Takumi Fujiwara, an indifferent high school student who works at a gas station and helps his father deliver tofu every morning. Unbeknownst to his friends and the Akina Speed Stars, Takumi has been honing his driving skills on the treacherous roads of Mount Akina for years. As his natural talent catches the attention of racing groups across Gunma, Takumi finds himself drawn into the thrilling world of street racing. With his father's modified Toyota Sprinter AE86 Trueno, he must face the challenges that await him on the mountain passes and prove himself as a formidable hill-climb driver. Will Takumi embrace the call of the mountain roads or shy away from the adrenaline-fueled contests? Join him in \"Initial D: First Stage\" as he embarks on a journey to become a legendary road racer.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b77d47f3ba55d907",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.23518142606186,
+    "arithmeticGeometricMean": 8.234536105349944,
+    "median": 8.253,
+    "hash": "b77d47f3ba55d907",
+    "lastUpdate": "2024-05-09"
+  }
+}

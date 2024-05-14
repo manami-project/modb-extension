@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2984",
+    "https://anilist.co/anime/126",
+    "https://anime-planet.com/anime/futakoi-alternative",
+    "https://anisearch.com/anime/3224",
+    "https://kitsu.io/anime/105",
+    "https://livechart.me/anime/4698",
+    "https://myanimelist.net/anime/126",
+    "https://notify.moe/anime/yeap5KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e599c3b2ec23b6b3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.894861089024355,
+    "arithmeticGeometricMean": 6.892402663138524,
+    "median": 6.89,
+    "hash": "e599c3b2ec23b6b3",
+    "lastUpdate": "2024-05-09"
+  }
+}

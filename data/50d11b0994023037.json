@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17066",
+    "https://anilist.co/anime/120125",
+    "https://anime-planet.com/anime/legend-of-sho",
+    "https://anisearch.com/anime/16846",
+    "https://kitsu.io/anime/45574",
+    "https://myanimelist.net/anime/46924"
+  ],
+  "synopsis": {
+    "text": "Hangu Pass, during the Tang Dynasty, is under siege by malevolent demons. Amidst this chaos, a young man named Li Haobai, accompanied by his friend Hu Jian, sets out from Shu with a burning ambition to join the army and protect their land. Along the way, Li Haobai stumbles upon a mystical artifact, the Lixi Pearl, hidden within a dragon beast. Unbeknownst to him, this discovery transforms him into a target for various factions, including the Emperor's men, who seek the pearl to create an elixir of immortality.\n\nAs the Lixi Pearl merges with Li Haobai, he gains the power of the black dragon, making him an even more valuable prize. The news of the pearl spreads far and wide, attracting unwanted attention from strange individuals who pursue him relentlessly. During their perilous journey, Li Haobai and his companions encounter a wandering girl named Ahimu and a mysterious white dragon that symbolizes 'yang.'\n\nMeanwhile, in Chengdu, an old Taoist named Free Spirit battles demons, while in Chang'an, the cunning Taoist Xun Guosi manipulates the Emperor into seeking immortality. As Li Haobai navigates through this world of turmoil, he must find a way to return the Lixi Pearl to the Dragon Veins before it causes a catastrophic disturbance, all while evading the forces that hunt him. In this epic tale of adventure, Li Haobai uncovers his true destiny and becomes entangled in the struggles of the three realms.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "50d11b0994023037",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.27,
+    "arithmeticGeometricMean": 7.1841138820016885,
+    "median": 6.6049999999999995,
+    "hash": "50d11b0994023037",
+    "lastUpdate": "2024-05-08"
+  }
+}

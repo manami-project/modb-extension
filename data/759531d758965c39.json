@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12037",
+    "https://anilist.co/anime/21753",
+    "https://anime-planet.com/anime/kinmoza-pretty-days",
+    "https://anisearch.com/anime/11553",
+    "https://kitsu.io/anime/12140",
+    "https://livechart.me/anime/2121",
+    "https://myanimelist.net/anime/33034",
+    "https://notify.moe/anime/1-7g2KiiR"
+  ],
+  "synopsis": {
+    "text": "Shinobu's class is buzzing with excitement as the school festival approaches, and she's been tasked with the monumental job of writing a script and creating costumes for their play. Despite her enthusiasm, Shinobu's energy seems to be waning, as her friends Youko and Alice notice her struggling to rise and shine each morning. As the preparations continue, a wave of insecurity washes over Aya, who questions the depth of her friendship with Shinobu compared to Youko's primary school bond with her. In an attempt to lift Aya's spirits, Youko recounts tales of their shared past and the sacrifices they made for one another. Meanwhile, the group of friends rally together to support Shinobu and ensure their class play is a success, reflecting on cherished memories and forging new ones along the way. Will their combined efforts be enough to pull off an unforgettable performance and strengthen the ties that bind them? Only time will tell as the festival curtains are set to rise.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "759531d758965c39",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.577885126777984,
+    "arithmeticGeometricMean": 7.575359000658303,
+    "median": 7.542727272727273,
+    "hash": "759531d758965c39",
+    "lastUpdate": "2024-05-09"
+  }
+}

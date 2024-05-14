@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16955",
+    "https://anilist.co/anime/141063",
+    "https://anime-planet.com/anime/on-air-dekinai",
+    "https://anisearch.com/anime/16759",
+    "https://kitsu.io/anime/45576",
+    "https://livechart.me/anime/10800",
+    "https://myanimelist.net/anime/50285",
+    "https://notify.moe/anime/Qb694aK7g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5560c3293e7dec10",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.836705751391466,
+    "arithmeticGeometricMean": 5.8207377272319905,
+    "median": 5.818181818181818,
+    "hash": "5560c3293e7dec10",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/116705",
+    "https://anime-planet.com/anime/toumei-ningen",
+    "https://anisearch.com/anime/10310",
+    "https://kitsu.io/anime/11099",
+    "https://myanimelist.net/anime/29667",
+    "https://notify.moe/anime/cT5utFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2a4ac91b9b02c79a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0331807050092765,
+    "arithmeticGeometricMean": 5.004781915108476,
+    "median": 4.545454545454545,
+    "hash": "2a4ac91b9b02c79a",
+    "lastUpdate": "2024-05-06"
+  }
+}

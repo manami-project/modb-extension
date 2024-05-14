@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14875",
+    "https://anilist.co/anime/104105",
+    "https://anime-planet.com/anime/flowering-heart-2",
+    "https://anisearch.com/anime/17026",
+    "https://kitsu.io/anime/14183",
+    "https://myanimelist.net/anime/36618",
+    "https://notify.moe/anime/0gCNhKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "451400121fe24e52",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.272671614100185,
+    "arithmeticGeometricMean": 6.181263040799947,
+    "median": 5.99,
+    "hash": "451400121fe24e52",
+    "lastUpdate": "2024-05-08"
+  }
+}

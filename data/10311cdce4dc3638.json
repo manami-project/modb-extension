@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12364",
+    "https://anime-planet.com/anime/henna-omamesan",
+    "https://kitsu.io/anime/12483",
+    "https://livechart.me/anime/8960",
+    "https://myanimelist.net/anime/33545",
+    "https://notify.moe/anime/0OLz2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "10311cdce4dc3638",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.853054545454546,
+    "arithmeticGeometricMean": 4.816602630521415,
+    "median": 4.39,
+    "hash": "10311cdce4dc3638",
+    "lastUpdate": "2024-05-09"
+  }
+}

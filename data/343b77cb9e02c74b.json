@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4983",
+    "https://anilist.co/anime/2636",
+    "https://anime-planet.com/anime/dorami-chan-arara-shounen-sanzokudan",
+    "https://anisearch.com/anime/4078",
+    "https://kitsu.io/anime/2400",
+    "https://myanimelist.net/anime/2636",
+    "https://notify.moe/anime/lQoy5Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "343b77cb9e02c74b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.82391651205937,
+    "arithmeticGeometricMean": 5.805236243549124,
+    "median": 5.814749536178107,
+    "hash": "343b77cb9e02c74b",
+    "lastUpdate": "2024-05-08"
+  }
+}

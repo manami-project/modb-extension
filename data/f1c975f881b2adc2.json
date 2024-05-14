@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13071",
+    "https://anilist.co/anime/98553",
+    "https://anime-planet.com/anime/world-fool-news-part-ii",
+    "https://anisearch.com/anime/12392",
+    "https://kitsu.io/anime/13320",
+    "https://livechart.me/anime/2659",
+    "https://myanimelist.net/anime/35332",
+    "https://notify.moe/anime/XRdnhFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f1c975f881b2adc2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.606453750331302,
+    "arithmeticGeometricMean": 5.583879055729717,
+    "median": 5.454545454545455,
+    "hash": "f1c975f881b2adc2",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/618",
+    "https://anilist.co/anime/257",
+    "https://anime-planet.com/anime/ikkitousen",
+    "https://anisearch.com/anime/1865",
+    "https://kitsu.io/anime/232",
+    "https://livechart.me/anime/3836",
+    "https://myanimelist.net/anime/257",
+    "https://notify.moe/anime/7vDhcFimg"
+  ],
+  "synopsis": {
+    "text": "Their battleground is not just the classrooms, but the entire Kanto region, as seven high schools engage in a relentless power struggle. Each student, chosen by sacred beads, embodies the spirit of ancient warriors from the Three Kingdoms era. Among them is Sonsaku Hakufu, a seemingly ordinary transfer student at Nanyou Academy, who carries the powerful spirit of the legendary warlord Sun Ce. Hakufu's arrival sets off a chain of events that disrupts the fragile balance between the schools, as she is thrust into a world of intense battles and dark conspiracies. With her newfound allies, including her cousin Koukin Shuyu and the formidable 'Big Four,' Hakufu must navigate the treacherous waters of her destiny and unite the warring schools. But as her enemies close in and her own powers threaten to consume her, Hakufu must confront the truth behind her existence and the shadow that looms over her fate. In this thrilling tale of courage, friendship, and determination, one girl will rise above the chaos and redefine her own destiny.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "459ce970f52d47a5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.398677588694831,
+    "arithmeticGeometricMean": 6.3931581564100535,
+    "median": 6.38,
+    "hash": "459ce970f52d47a5",
+    "lastUpdate": "2024-05-09"
+  }
+}

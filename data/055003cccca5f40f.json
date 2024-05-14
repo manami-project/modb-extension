@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2413",
+    "https://anilist.co/anime/8561",
+    "https://anime-planet.com/anime/saint-elmo-hikari-no-raihousha",
+    "https://anisearch.com/anime/424",
+    "https://kitsu.io/anime/5391",
+    "https://myanimelist.net/anime/8561",
+    "https://notify.moe/anime/RHLitKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "055003cccca5f40f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.586797155225727,
+    "arithmeticGeometricMean": 5.56979057873892,
+    "median": 5.677755102040816,
+    "hash": "055003cccca5f40f",
+    "lastUpdate": "2024-05-08"
+  }
+}

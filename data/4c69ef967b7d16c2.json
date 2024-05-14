@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6431",
+    "https://anilist.co/anime/6172",
+    "https://anime-planet.com/anime/professor-layton-and-the-eternal-diva",
+    "https://anisearch.com/anime/5316",
+    "https://kitsu.io/anime/4459",
+    "https://livechart.me/anime/4886",
+    "https://myanimelist.net/anime/6172",
+    "https://notify.moe/anime/q7PqcKmiR"
+  ],
+  "synopsis": {
+    "text": "Professor Hershel Layton and his apprentice, Luke, are invited by the celebrated opera singer, Jenis Quatlane, to witness her latest performance. Quatlane seeks their help in unraveling a mystery involving her friend Melina, who died a year ago but reappeared as a seven-year-old girl claiming to have uncovered the secret to eternal life. Intrigued, Layton and Luke head to the Crown Petone opera house, while their associate Remi remains in London, investigating a series of missing girls.\n\nThe opera tells the tale of a lost kingdom, the Kingdom of Immortals, where a beloved music-loving queen fell gravely ill. Despite the kingdom's efforts, she succumbed to her illness, but not before the completion of a potion for immortality. In hopes of meeting their reincarnated queen, the kingdom's people consumed the potion, transforming the kingdom into a realm waiting for its queen's return.\n\nAs the opera concludes, a masked man emerges, proposing a game with eternal life as the reward for the winner and death for the losers. Layton and Luke must navigate this deadly game, uncover the secret of eternal life, and solve the enigma surrounding Melina's return. Set between the events of \"Professor Layton and the Last Specter\" and \"Professor Layton and the Miracle Mask,\" this thrilling adventure tests the duo's wit and courage as they strive to protect the lives of those around them.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c69ef967b7d16c2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.532001890966177,
+    "arithmeticGeometricMean": 7.529020336773293,
+    "median": 7.648181818181818,
+    "hash": "4c69ef967b7d16c2",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6108",
+    "https://anilist.co/anime/3446",
+    "https://anime-planet.com/anime/resident-evil-degeneration",
+    "https://anisearch.com/anime/5039",
+    "https://kitsu.io/anime/3015",
+    "https://livechart.me/anime/5256",
+    "https://myanimelist.net/anime/3446",
+    "https://notify.moe/anime/FePw5KmmR"
+  ],
+  "synopsis": {
+    "text": "United States, Autumn 2005 - a seemingly tranquil season takes a horrifying turn as zombies infiltrate an unsuspecting airport, threatening to trigger a full-blown outbreak. In the aftermath of the Resident Evil 4 game, this unexplained resurgence of the undead brings back memories of the Umbrella Corporation's dark deeds.\n\nLeon S. Kennedy and Claire Redfield, veterans in the battle against the sinister corporation, find themselves once again on the frontlines. The airport, now a breeding ground for chaos, forces them to confront a vengeful rogue warrior, whose family fell victim to the atrocities in Raccoon City. Amidst the turmoil, the lethal G-Virus resurfaces, spawning a grotesque mutated monster that wreaks havoc.\n\nSeven years have passed since the government annihilated Raccoon City, the birthplace of the T-Virus, via a missile strike. The devastating blow led to Umbrella Corporation's downfall, paving the way for a new pharmaceutical company, WilPharma, to rise from its ashes. Dedicated to developing a vaccine for the virus, WilPharma becomes a beacon of hope.\n\nHowever, as Claire arrives in WilPharma's town to meet a friend, she is greeted by a scene straight out of her nightmares - a zombie-infested bloodbath. Leon, along with the Special Response Team, races against time to save Claire and other survivors from the airport, securing a crucial WilPharma member in the process.\n\nAs the T-Virus reemerges, Claire and Leon must unravel the mystery behind its return and thwart the wicked schemes of their advers",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eecb4d25852ebd5a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.978045506081219,
+    "arithmeticGeometricMean": 6.975079988987475,
+    "median": 6.958888888888889,
+    "hash": "eecb4d25852ebd5a",
+    "lastUpdate": "2024-05-09"
+  }
+}

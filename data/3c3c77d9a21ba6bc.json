@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6046",
+    "https://anilist.co/anime/5494",
+    "https://anime-planet.com/anime/before-green-gables",
+    "https://anisearch.com/anime/3534",
+    "https://kitsu.io/anime/4124",
+    "https://livechart.me/anime/8267",
+    "https://myanimelist.net/anime/5494",
+    "https://notify.moe/anime/Lh0j5Kiig"
+  ],
+  "synopsis": {
+    "text": "She is not just Ann, but Anne Shirley, a spirited orphan brimming with curiosity and a heart full of kindness. Living with the troubled Thomas family, Anne faces numerous challenges, from dealing with the abusive Mr. Thomas to assisting the struggling Mrs. Thomas with household chores and managing the mischievous antics of Horace and Edward. Despite these hardships, Anne's infectious optimism and vivid imagination transform her everyday life into a series of captivating adventures. As she explores her surroundings and delves deeper into her past, Anne uncovers the true essence of who she is while leaving a lasting impact on the diverse and quirky individuals she encounters along the way. This is the enchanting tale of Anne's journey before she finds her home in Green Gables.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c3c77d9a21ba6bc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.1444362576199305,
+    "arithmeticGeometricMean": 7.1264184317775365,
+    "median": 7.545454545454546,
+    "hash": "3c3c77d9a21ba6bc",
+    "lastUpdate": "2024-05-09"
+  }
+}

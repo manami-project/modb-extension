@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/153959",
+    "https://anime-planet.com/anime/ado-new-genesis",
+    "https://anisearch.com/anime/17470",
+    "https://kitsu.io/anime/46384",
+    "https://myanimelist.net/anime/52832"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e221dba9fd215f73",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.9102248608534325,
+    "arithmeticGeometricMean": 7.907415634118523,
+    "median": 7.794,
+    "hash": "e221dba9fd215f73",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2912",
+    "https://anilist.co/anime/2111",
+    "https://anime-planet.com/anime/rockmanexe-hikari-to-yami-no-program",
+    "https://anisearch.com/anime/2646",
+    "https://kitsu.io/anime/1910",
+    "https://myanimelist.net/anime/2111",
+    "https://notify.moe/anime/xj8YcKmiR"
+  ],
+  "synopsis": {
+    "text": "Will Forte, a dormant entity in the cybernetic afterlife of the UnderNet, finds himself awakened by a mysterious force. He is confronted by a menacing, laughing face within a colossal purple blob, which curses and captures him. In the real world, a peaceful city is thrown into chaos when a shimmering purple light expands into a towering pillar, absorbing everything in its path before disintegrating, leaving behind a trail of cybernetic residue.\n\nMeanwhile, the Dematerialization Phenomenon, a process that transforms the physical world into a digital one, poses a significant threat to humanity. Netto and Rockman, determined to resolve this crisis, embark on a mission to find their father, the renowned Network Researcher, Dr. Yuuichirou. Following his trail, they discover an ominous message hinting at an impending cyber invasion.\n\nIn their quest to halt the Dematerialization Phenomenon, Netto and Rockman are forced to confront old adversaries and battle new ones deep within the digital realm. Among these threats, the vicious cyber-life, Nebula Grey, awakens, proving to be their most formidable enemy yet. The fate of the world hangs in the balance as Netto and Rockman strive to defeat Nebula Grey and restore the balance between the real and cyber worlds. Will they succeed in their perilous mission? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4f640fc1c8875e5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.553024648820567,
+    "arithmeticGeometricMean": 6.512699773507157,
+    "median": 6.909090909090909,
+    "hash": "b4f640fc1c8875e5",
+    "lastUpdate": "2024-05-08"
+  }
+}

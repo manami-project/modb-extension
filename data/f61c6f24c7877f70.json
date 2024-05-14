@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/176143",
+    "https://anime-planet.com/anime/snowdrop",
+    "https://kitsu.io/anime/40907",
+    "https://myanimelist.net/anime/36355",
+    "https://notify.moe/anime/YuJO2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f61c6f24c7877f70",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.379,
+    "arithmeticGeometricMean": 5.288733440760874,
+    "median": 5.379,
+    "hash": "f61c6f24c7877f70",
+    "lastUpdate": "2024-05-07"
+  }
+}

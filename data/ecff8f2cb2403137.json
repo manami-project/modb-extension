@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8186",
+    "https://anilist.co/anime/19717",
+    "https://anime-planet.com/anime/zoku-naniwa-yuukyouden",
+    "https://anisearch.com/anime/11378",
+    "https://kitsu.io/anime/9715",
+    "https://myanimelist.net/anime/19717",
+    "https://notify.moe/anime/WjxYpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ecff8f2cb2403137",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.193333333333333,
+    "arithmeticGeometricMean": 5.189818665634456,
+    "median": 5.0,
+    "hash": "ecff8f2cb2403137",
+    "lastUpdate": "2024-05-08"
+  }
+}

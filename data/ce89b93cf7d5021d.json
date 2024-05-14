@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13082",
+    "https://anilist.co/anime/141251",
+    "https://anime-planet.com/anime/susume-godzilland",
+    "https://anisearch.com/anime/15944",
+    "https://kitsu.io/anime/40618",
+    "https://myanimelist.net/anime/34813",
+    "https://notify.moe/anime/AshDhKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce89b93cf7d5021d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.201995547309833,
+    "arithmeticGeometricMean": 5.062338521856759,
+    "median": 4.489795918367346,
+    "hash": "ce89b93cf7d5021d",
+    "lastUpdate": "2024-05-08"
+  }
+}

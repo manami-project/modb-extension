@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8744",
+    "https://anilist.co/anime/4761",
+    "https://anime-planet.com/anime/tokyo-loop",
+    "https://anisearch.com/anime/7391",
+    "https://kitsu.io/anime/3775",
+    "https://livechart.me/anime/9323",
+    "https://myanimelist.net/anime/4761",
+    "https://notify.moe/anime/aJN9cFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "98115a745d906e5c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.067419029949642,
+    "arithmeticGeometricMean": 4.969413432281896,
+    "median": 5.181818181818182,
+    "hash": "98115a745d906e5c",
+    "lastUpdate": "2024-05-10"
+  }
+}

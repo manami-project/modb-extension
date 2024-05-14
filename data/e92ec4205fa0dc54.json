@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1454",
+    "https://anilist.co/anime/8158",
+    "https://anime-planet.com/anime/gegege-no-kitarou-jigoku-hen",
+    "https://anisearch.com/anime/49",
+    "https://kitsu.io/anime/5223",
+    "https://livechart.me/anime/8082",
+    "https://myanimelist.net/anime/8158",
+    "https://notify.moe/anime/JO3kpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e92ec4205fa0dc54",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.960246753246754,
+    "arithmeticGeometricMean": 5.939451317431375,
+    "median": 5.85974025974026,
+    "hash": "e92ec4205fa0dc54",
+    "lastUpdate": "2024-05-09"
+  }
+}

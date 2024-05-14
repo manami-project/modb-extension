@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4588",
+    "https://anilist.co/anime/3367",
+    "https://anime-planet.com/anime/furusato-japan",
+    "https://anisearch.com/anime/3726",
+    "https://kitsu.io/anime/2960",
+    "https://myanimelist.net/anime/3367",
+    "https://notify.moe/anime/0zxQcKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "88136746d6c9c6ee",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.643467267426452,
+    "arithmeticGeometricMean": 6.620790299459152,
+    "median": 6.78,
+    "hash": "88136746d6c9c6ee",
+    "lastUpdate": "2024-05-07"
+  }
+}

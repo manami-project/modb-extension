@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7755",
+    "https://anilist.co/anime/121825",
+    "https://anime-planet.com/anime/sore-ike-anpanman-anpanman-to-happy-otanjoubi",
+    "https://anisearch.com/anime/6380",
+    "https://kitsu.io/anime/9602",
+    "https://livechart.me/anime/11408",
+    "https://myanimelist.net/anime/21933",
+    "https://notify.moe/anime/Dm7LpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "74bdb574766fc8a2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.218584415584415,
+    "arithmeticGeometricMean": 5.139075823422334,
+    "median": 5.045454545454545,
+    "hash": "74bdb574766fc8a2",
+    "lastUpdate": "2024-05-10"
+  }
+}

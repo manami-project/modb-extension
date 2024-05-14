@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17292",
+    "https://anilist.co/anime/146914",
+    "https://anime-planet.com/anime/hua-jianghu-zhi-buliang-ren-vi",
+    "https://myanimelist.net/anime/51897",
+    "https://notify.moe/anime/nVF74FoVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c8cc16847d49f4b2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.636363636363637,
+    "arithmeticGeometricMean": 8.636363636363637,
+    "median": 8.636363636363637,
+    "hash": "c8cc16847d49f4b2",
+    "lastUpdate": "2024-05-07"
+  }
+}

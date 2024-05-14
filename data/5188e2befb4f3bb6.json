@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2349",
+    "https://anilist.co/anime/4536",
+    "https://anime-planet.com/anime/muteki-robo-trider-g7",
+    "https://anisearch.com/anime/644",
+    "https://kitsu.io/anime/3669",
+    "https://myanimelist.net/anime/4536",
+    "https://notify.moe/anime/Xn3X5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5188e2befb4f3bb6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.8783419913419905,
+    "arithmeticGeometricMean": 5.849935812568636,
+    "median": 5.825454545454545,
+    "hash": "5188e2befb4f3bb6",
+    "lastUpdate": "2024-05-08"
+  }
+}

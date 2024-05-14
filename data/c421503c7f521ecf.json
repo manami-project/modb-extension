@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1899",
+    "https://anilist.co/anime/3870",
+    "https://anime-planet.com/anime/kick-no-oni",
+    "https://anisearch.com/anime/1016",
+    "https://kitsu.io/anime/3312",
+    "https://livechart.me/anime/11713",
+    "https://myanimelist.net/anime/3870",
+    "https://notify.moe/anime/1m8lcKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c421503c7f521ecf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.359945578231293,
+    "arithmeticGeometricMean": 5.3200500464159175,
+    "median": 5.18,
+    "hash": "c421503c7f521ecf",
+    "lastUpdate": "2024-05-09"
+  }
+}

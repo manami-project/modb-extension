@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5055",
+    "https://anilist.co/anime/4616",
+    "https://anime-planet.com/anime/yumemiru-topo-gigio",
+    "https://anisearch.com/anime/4152",
+    "https://kitsu.io/anime/3713",
+    "https://livechart.me/anime/12152",
+    "https://myanimelist.net/anime/4616",
+    "https://notify.moe/anime/_ez95KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1190f0ec8c19785f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.667936390140473,
+    "arithmeticGeometricMean": 5.596595898865745,
+    "median": 5.818181818181818,
+    "hash": "1190f0ec8c19785f",
+    "lastUpdate": "2024-05-10"
+  }
+}

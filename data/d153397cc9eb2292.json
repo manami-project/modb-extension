@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12581",
+    "https://anilist.co/anime/139002",
+    "https://anime-planet.com/anime/awate-tokoya",
+    "https://kitsu.io/anime/9803",
+    "https://myanimelist.net/anime/24785",
+    "https://notify.moe/anime/uyCLtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d153397cc9eb2292",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.915490909090909,
+    "arithmeticGeometricMean": 4.897681233324595,
+    "median": 4.545454545454545,
+    "hash": "d153397cc9eb2292",
+    "lastUpdate": "2024-05-08"
+  }
+}

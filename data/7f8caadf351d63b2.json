@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11612",
+    "https://anilist.co/anime/176874",
+    "https://anime-planet.com/anime/sore-ike-anpanman-tanoshiku-teasobi-mama-ni-natta-kokin-chan",
+    "https://anime-planet.com/anime/sore-ike-anpanman-tanoshikute-asobi-mama-ni-natta-kokin-chan",
+    "https://anisearch.com/anime/11668",
+    "https://livechart.me/anime/11455",
+    "https://myanimelist.net/anime/52473"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f8caadf351d63b2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.305272727272728,
+    "arithmeticGeometricMean": 6.276412126386633,
+    "median": 6.305272727272728,
+    "hash": "7f8caadf351d63b2",
+    "lastUpdate": "2024-05-10"
+  }
+}

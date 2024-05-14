@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6952",
+    "https://anilist.co/anime/103936",
+    "https://anime-planet.com/anime/fukusuke",
+    "https://anisearch.com/anime/6215",
+    "https://kitsu.io/anime/10548",
+    "https://myanimelist.net/anime/29923",
+    "https://notify.moe/anime/YuRQtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "167791d006e140cb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.6153363371322556,
+    "arithmeticGeometricMean": 5.579218423170081,
+    "median": 5.32,
+    "hash": "167791d006e140cb",
+    "lastUpdate": "2024-05-08"
+  }
+}

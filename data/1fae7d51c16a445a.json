@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11791",
+    "https://anilist.co/anime/111122",
+    "https://anime-planet.com/anime/cook-no-polka",
+    "https://anisearch.com/anime/11882",
+    "https://kitsu.io/anime/9815",
+    "https://myanimelist.net/anime/24901",
+    "https://notify.moe/anime/tl3LtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1fae7d51c16a445a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.513595547309833,
+    "arithmeticGeometricMean": 4.473304678254544,
+    "median": 4.485909090909091,
+    "hash": "1fae7d51c16a445a",
+    "lastUpdate": "2024-05-08"
+  }
+}

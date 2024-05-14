@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7387",
+    "https://anilist.co/anime/6246",
+    "https://anime-planet.com/anime/black-jack-the-child-who-came-from-the-sky",
+    "https://anisearch.com/anime/6082",
+    "https://kitsu.io/anime/4491",
+    "https://livechart.me/anime/6290",
+    "https://myanimelist.net/anime/6246",
+    "https://notify.moe/anime/uJlq5Fmmg"
+  ],
+  "synopsis": {
+    "text": "Andrei’s life hangs in the balance as his desperate parents, led by a rogue ex-major, make a daring escape from the U-ran Union in a stolen fighter jet. Their destination: the residence of the legendary unlicensed surgeon, Black Jack. The boy's affliction is a mysterious and incurable disease, one that even the skilled hands of Black Jack find challenging.\n\nDespite the initial refusal and a tense standoff involving a gun, Black Jack finds himself moved by the family's plight and embarks on a relentless quest to uncover a cure. In a bold move, he decides to perform an experimental surgery, potentially the only hope left for Andrei.\n\nThe operation is a success, but the cost remains uncertain. As Andrei clings to newfound life, the repercussions of his salvation unfold, leaving viewers questioning the true price of survival.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47464a8f2191efd2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.014344553405778,
+    "arithmeticGeometricMean": 7.004052646542578,
+    "median": 6.818181818181818,
+    "hash": "47464a8f2191efd2",
+    "lastUpdate": "2024-05-09"
+  }
+}

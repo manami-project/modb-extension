@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/111",
+    "https://anilist.co/anime/1080",
+    "https://anime-planet.com/anime/yukikaze",
+    "https://anisearch.com/anime/895",
+    "https://kitsu.io/anime/965",
+    "https://livechart.me/anime/5786",
+    "https://myanimelist.net/anime/1080",
+    "https://notify.moe/anime/fVQJ5Kmmg"
+  ],
+  "synopsis": {
+    "text": "With the sudden emergence of a mysterious alien race, known as the JAM, in the distant future, Earth finds itself in the throes of an interstellar war. The JAM, having opened a portal in the heart of Antarctica, were initially met with fierce resistance from the unified forces of Earth, forcing them back to their home planet, Fairy. The war, however, is far from over.\n\nLieutenant Rei Fukai, a solitary figure within the elite ranks of the Special Air Force (SAF), is entrusted with the responsibility of piloting the Yukikaze, an advanced reconnaissance fighter jet equipped with a highly intelligent AI system. His mission: to gather crucial intelligence on the JAM and their tactics, all while navigating the treacherous skies of Fairy.\n\nAs the war reaches its climax, a new and unexpected threat emerges, blurring the lines between friend and foe. A rogue aircraft, eerily similar to the Yukikaze, begins to wreak havoc, leaving Fukai and his AI companion as the last line of defense. With the fate of humanity hanging in the balance, Fukai must confront this enigmatic enemy and unravel the secrets that lie within the Passageway.\n\nIn this thrilling tale of courage, resilience, and trust, Fukai and the Yukikaze embark on a perilous journey to determine the outcome of the war and safeguard the future of mankind.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a17566109e996427",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.000230055658627,
+    "arithmeticGeometricMean": 6.993518537985297,
+    "median": 7.090909090909091,
+    "hash": "a17566109e996427",
+    "lastUpdate": "2024-05-09"
+  }
+}

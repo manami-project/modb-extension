@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17876",
+    "https://anilist.co/anime/159497",
+    "https://anime-planet.com/anime/golden-courtyard-new-year-wishes-in-winter",
+    "https://anisearch.com/anime/18134",
+    "https://livechart.me/anime/11721",
+    "https://myanimelist.net/anime/54035",
+    "https://notify.moe/anime/EcuigVT4R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "84e6f3e0b5a348b4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.9339981447124295,
+    "arithmeticGeometricMean": 6.858865656283324,
+    "median": 7.377448979591836,
+    "hash": "84e6f3e0b5a348b4",
+    "lastUpdate": "2024-05-09"
+  }
+}

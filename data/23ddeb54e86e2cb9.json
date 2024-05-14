@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16081",
+    "https://anilist.co/anime/130389",
+    "https://anime-planet.com/anime/the-irregular-at-magic-high-school-reminiscence-arc",
+    "https://anisearch.com/anime/16019",
+    "https://kitsu.io/anime/44397",
+    "https://livechart.me/anime/10439",
+    "https://myanimelist.net/anime/48375",
+    "https://notify.moe/anime/JCb64zUGR"
+  ],
+  "synopsis": {
+    "text": "Tatsuya and Miyuki Shiba, a pair of gifted siblings, share an unbreakable bond as they embark on their second year at the prestigious First High School for magicians. Yet, their close relationship wasn't always so. In 2092, Miyuki, then a middle school student, found herself ill at ease around her older brother. Treated as a mere servant by their family, Tatsuya was tasked with safeguarding Miyuki, despite being perceived as emotionless and devoid of personal desires. However, a seemingly ordinary family trip to Okinawa turned their world upside down, forever altering their sibling dynamics. Amidst an unexpected invasion by an unknown enemy force, Tatsuya's unwavering protection became the sole beacon of hope for Miyuki and her mother, setting the stage for a profound transformation in their relationship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "23ddeb54e86e2cb9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.863231601731602,
+    "arithmeticGeometricMean": 7.860190674382888,
+    "median": 7.936,
+    "hash": "23ddeb54e86e2cb9",
+    "lastUpdate": "2024-05-09"
+  }
+}

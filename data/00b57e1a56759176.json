@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9144",
+    "https://anilist.co/anime/14949",
+    "https://anime-planet.com/anime/yurumates-2012",
+    "https://anisearch.com/anime/7770"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "00b57e1a56759176",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.739788497217069,
+    "arithmeticGeometricMean": 5.728610796087992,
+    "median": 5.960454545454546,
+    "hash": "00b57e1a56759176",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4845",
+    "https://anilist.co/anime/3619",
+    "https://anime-planet.com/anime/nanako-sos",
+    "https://anisearch.com/anime/3963",
+    "https://kitsu.io/anime/3145",
+    "https://livechart.me/anime/7793",
+    "https://myanimelist.net/anime/3619",
+    "https://notify.moe/anime/pWG_cFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fa48a8cee8f16c7c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.3610182878346135,
+    "arithmeticGeometricMean": 6.348218392631564,
+    "median": 6.138,
+    "hash": "fa48a8cee8f16c7c",
+    "lastUpdate": "2024-05-09"
+  }
+}

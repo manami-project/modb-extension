@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102578",
+    "https://anime-planet.com/anime/the-gift",
+    "https://anisearch.com/anime/17834",
+    "https://kitsu.io/anime/13797",
+    "https://myanimelist.net/anime/36099",
+    "https://notify.moe/anime/SzOIhFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3933cf22d1fcf1f5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.69577810760668,
+    "arithmeticGeometricMean": 5.686431780365676,
+    "median": 5.408163265306122,
+    "hash": "3933cf22d1fcf1f5",
+    "lastUpdate": "2024-05-06"
+  }
+}

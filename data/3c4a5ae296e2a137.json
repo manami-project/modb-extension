@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8652",
+    "https://anilist.co/anime/11547",
+    "https://anime-planet.com/anime/sengoku-paradise-kiwami",
+    "https://anisearch.com/anime/7302",
+    "https://kitsu.io/anime/6535",
+    "https://livechart.me/anime/8291",
+    "https://myanimelist.net/anime/11547",
+    "https://notify.moe/anime/IBxSpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c4a5ae296e2a137",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.474646170156374,
+    "arithmeticGeometricMean": 5.450962293690399,
+    "median": 5.630000000000001,
+    "hash": "3c4a5ae296e2a137",
+    "lastUpdate": "2024-05-09"
+  }
+}

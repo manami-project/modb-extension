@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/116787",
+    "https://anime-planet.com/anime/happy-smile-dream",
+    "https://anime-planet.com/anime/origami-ninja-koyankinte",
+    "https://kitsu.io/anime/43081",
+    "https://livechart.me/anime/9837",
+    "https://myanimelist.net/anime/41458"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8baab0a792805039",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.090909090909091,
+    "arithmeticGeometricMean": 4.090909090909091,
+    "median": 4.090909090909091,
+    "hash": "8baab0a792805039",
+    "lastUpdate": "2024-05-06"
+  }
+}

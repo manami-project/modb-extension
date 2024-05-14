@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/156905",
+    "https://anime-planet.com/anime/lupin-shanshei-pilot",
+    "https://kitsu.io/anime/12153",
+    "https://myanimelist.net/anime/31984",
+    "https://notify.moe/anime/8nIR2FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e49f8d9d99e684d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.612454545454545,
+    "arithmeticGeometricMean": 5.607243927971842,
+    "median": 5.634,
+    "hash": "0e49f8d9d99e684d",
+    "lastUpdate": "2024-05-07"
+  }
+}

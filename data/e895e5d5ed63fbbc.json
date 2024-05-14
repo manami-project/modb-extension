@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10505",
+    "https://anilist.co/anime/20649",
+    "https://anime-planet.com/anime/samurai-jam-bakumatsu-rock",
+    "https://anisearch.com/anime/9503",
+    "https://kitsu.io/anime/8533",
+    "https://livechart.me/anime/455",
+    "https://myanimelist.net/anime/23037",
+    "https://notify.moe/anime/zey0tKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e895e5d5ed63fbbc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.8716726963512675,
+    "arithmeticGeometricMean": 5.8486897207472905,
+    "median": 5.786054421768707,
+    "hash": "e895e5d5ed63fbbc",
+    "lastUpdate": "2024-05-08"
+  }
+}

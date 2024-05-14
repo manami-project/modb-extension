@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9142",
+    "https://anilist.co/anime/18491",
+    "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-movie-4-mission-incredible-adventures-on-the-dragons-trail",
+    "https://anisearch.com/anime/8009",
+    "https://kitsu.io/anime/9061",
+    "https://myanimelist.net/anime/18491",
+    "https://notify.moe/anime/OJiapKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0083c6fcf552298d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.550850958565244,
+    "arithmeticGeometricMean": 4.440475886779612,
+    "median": 4.431818181818182,
+    "hash": "0083c6fcf552298d",
+    "lastUpdate": "2024-05-08"
+  }
+}

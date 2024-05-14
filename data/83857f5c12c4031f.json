@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7452",
+    "https://anilist.co/anime/8353",
+    "https://anime-planet.com/anime/ketsuinu",
+    "https://anisearch.com/anime/6154",
+    "https://kitsu.io/anime/5303",
+    "https://myanimelist.net/anime/8353",
+    "https://notify.moe/anime/8FHmpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "83857f5c12c4031f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.2603586889301175,
+    "arithmeticGeometricMean": 5.231995521730016,
+    "median": 5.0,
+    "hash": "83857f5c12c4031f",
+    "lastUpdate": "2024-05-07"
+  }
+}

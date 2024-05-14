@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6242",
+    "https://anilist.co/anime/9785",
+    "https://anime-planet.com/anime/detective-conan-conan-vs-kid-shark-and-jewel",
+    "https://anisearch.com/anime/5180",
+    "https://kitsu.io/anime/5866",
+    "https://livechart.me/anime/7349",
+    "https://myanimelist.net/anime/9785",
+    "https://notify.moe/anime/vDBGtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a6d368b30023bbb7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.489341873545954,
+    "arithmeticGeometricMean": 7.481744382778899,
+    "median": 7.582,
+    "hash": "a6d368b30023bbb7",
+    "lastUpdate": "2024-05-09"
+  }
+}

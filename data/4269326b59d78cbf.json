@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/122062",
+    "https://anime-planet.com/anime/chein-kuro-nikuru",
+    "https://kitsu.io/anime/12917",
+    "https://livechart.me/anime/5760",
+    "https://myanimelist.net/anime/34765",
+    "https://notify.moe/anime/SBoZ2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4269326b59d78cbf",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.476590909090909,
+    "arithmeticGeometricMean": 5.449096176406634,
+    "median": 5.265000000000001,
+    "hash": "4269326b59d78cbf",
+    "lastUpdate": "2024-05-06"
+  }
+}

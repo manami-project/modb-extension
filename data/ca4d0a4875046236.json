@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/pokemon-sports-day",
+    "https://kitsu.io/anime/46290",
+    "https://myanimelist.net/anime/51884"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ca4d0a4875046236",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.889,
+    "arithmeticGeometricMean": 5.8849431451287275,
+    "median": 5.889,
+    "hash": "ca4d0a4875046236",
+    "lastUpdate": "2024-05-06"
+  }
+}

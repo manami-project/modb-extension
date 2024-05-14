@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102630",
+    "https://anime-planet.com/anime/youshi-kei-mou-hitotsu-no-nijiiro-toshi",
+    "https://kitsu.io/anime/10930",
+    "https://myanimelist.net/anime/30667",
+    "https://notify.moe/anime/gTP_pKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "89ee1fa7a857bf1a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.648909090909091,
+    "arithmeticGeometricMean": 4.611346937509685,
+    "median": 4.865,
+    "hash": "89ee1fa7a857bf1a",
+    "lastUpdate": "2024-05-07"
+  }
+}

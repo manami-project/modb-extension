@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13865",
+    "https://anilist.co/anime/102094",
+    "https://anime-planet.com/anime/suna-asobi",
+    "https://anisearch.com/anime/13983",
+    "https://kitsu.io/anime/10318",
+    "https://myanimelist.net/anime/29505",
+    "https://notify.moe/anime/tsWUtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c4f60a510c348638",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.305496598639455,
+    "arithmeticGeometricMean": 5.2915801707918355,
+    "median": 5.0,
+    "hash": "c4f60a510c348638",
+    "lastUpdate": "2024-05-08"
+  }
+}

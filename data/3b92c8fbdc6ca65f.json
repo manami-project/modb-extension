@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13948",
+    "https://anilist.co/anime/101349",
+    "https://anime-planet.com/anime/babylon",
+    "https://anisearch.com/anime/13495",
+    "https://kitsu.io/anime/41085",
+    "https://livechart.me/anime/3170",
+    "https://myanimelist.net/anime/37525",
+    "https://notify.moe/anime/qiNK2Fiig"
+  ],
+  "synopsis": {
+    "text": "Atsuhiko Fumio and Zen Seizaki, two dedicated prosecutors from the Tokyo District Public Prosecutors Office, find themselves entangled in a complex web of corruption and deceit while investigating a seemingly straightforward case of false advertising by a pharmaceutical company. As they delve deeper into the case, they uncover a conspiracy that threatens to shake the very foundation of the Japanese justice system and challenge their own sense of right and wrong.\n\nThe case takes a dark turn when Seizaki discovers a blood-stained document containing a mysterious letter 'F' and a mixture of hair and skin. The document is linked to a deceased anesthesiologist and a powerful political figure who is a favorite in the upcoming mayoral election for a newly established autonomous zone in western Tokyo. As the body count rises, Seizaki and Fumio must navigate a treacherous path through the city's political scene, uncovering the truth behind the election, the establishment of the new zone, and the mysterious woman associated with it all.\n\nThe investigation becomes increasingly complex, leading Seizaki and Fumio to suspect a scandal that could tear apart the burgeoning political scene in the new zone. With the stakes higher than ever, they must work together to expose the corruption and bring those responsible to justice. The case will test their resolve, challenge their beliefs, and force them to confront the darker side of power and politics.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b92c8fbdc6ca65f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.724545319887486,
+    "arithmeticGeometricMean": 6.716889864011776,
+    "median": 6.738636363636363,
+    "hash": "3b92c8fbdc6ca65f",
+    "lastUpdate": "2024-05-08"
+  }
+}

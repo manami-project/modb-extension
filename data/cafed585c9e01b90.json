@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11577",
+    "https://anilist.co/anime/21341",
+    "https://anime-planet.com/anime/ajin-demi-human",
+    "https://anisearch.com/anime/10732",
+    "https://kitsu.io/anime/11368",
+    "https://livechart.me/anime/1815",
+    "https://myanimelist.net/anime/31580",
+    "https://notify.moe/anime/5--9pKiig"
+  ],
+  "synopsis": {
+    "text": "Nagai’s life takes an unexpected turn when a seemingly fatal accident reveals his true identity as an Ajin, a rare and immortal being first discovered on an African battlefield 17 years ago. As one of only 46 known Ajin in the world, Nagai becomes a target for both the government and those seeking a generous reward for his capture. With his dreams of becoming a doctor shattered, Nagai must navigate a dangerous world where he is feared and hunted, and where the secrets of his newfound powers may be the key to his survival. As he fights to evade capture and protect those he cares about, Nagai must confront the reality of his existence and decide what it truly means to be an Ajin.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cafed585c9e01b90",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.4713698721913,
+    "arithmeticGeometricMean": 7.470331629325327,
+    "median": 7.514906204906205,
+    "hash": "cafed585c9e01b90",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9368",
+    "https://anilist.co/anime/15959",
+    "https://anime-planet.com/anime/nura-rise-of-the-youkai-clan-ova",
+    "https://anisearch.com/anime/8001",
+    "https://kitsu.io/anime/7347",
+    "https://livechart.me/anime/5967",
+    "https://myanimelist.net/anime/15959",
+    "https://notify.moe/anime/SEDFpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5cfac7519bc2c8e2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.631885435992578,
+    "arithmeticGeometricMean": 7.629305017496741,
+    "median": 7.715,
+    "hash": "5cfac7519bc2c8e2",
+    "lastUpdate": "2024-05-09"
+  }
+}

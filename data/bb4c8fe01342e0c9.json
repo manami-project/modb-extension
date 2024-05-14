@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1006",
+    "https://anilist.co/anime/1279",
+    "https://anime-planet.com/anime/the-mysterious-cities-of-gold",
+    "https://anisearch.com/anime/2073",
+    "https://kitsu.io/anime/1154",
+    "https://livechart.me/anime/5896",
+    "https://myanimelist.net/anime/1279",
+    "https://notify.moe/anime/Smfx5FmiR"
+  ],
+  "synopsis": {
+    "text": "Tao, Zia, and Esteban - three young adventurers with intertwining destinies - embark on an epic journey in the year 1532 to uncover the enigmatic Cities of Gold. Esteban, a Spanish orphan, possesses a mysterious medallion and an extraordinary ability to summon the sun. Raised by a kind navigator named Mendoza, Esteban sets sail for the New World after his adoptive father's death, in search of his true identity and his long-lost father.\n\nAlong the way, Esteban encounters Zia, an Inca girl who shares a similar medallion and a quest to find her own father. They are joined by Tao, the last descendant of the ancient and advanced Mu Empire, who seeks remnants of his once-great civilization. As they traverse the vast and uncharted lands of the Americas, the trio discovers forgotten technological marvels, including the Golden Condor, a magnificent solar-powered airship.\n\nThroughout their adventure, Esteban, Zia, and Tao are relentlessly pursued by the ruthless Gomez and Gaspard, who will stop at nothing to claim the Cities of Gold and their treasures for themselves. With their medallions guiding them under the watchful eye of the shining star Coyolite, the three friends forge ahead, unaware of the secrets and challenges that lie in wait. The search for the Cities of Gold promises not only untold riches but also the answers to the questions that have haunted each of them for a lifetime.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bb4c8fe01342e0c9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.440132481275339,
+    "arithmeticGeometricMean": 7.421580669947605,
+    "median": 7.68,
+    "hash": "bb4c8fe01342e0c9",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15211",
+    "https://anilist.co/anime/110787",
+    "https://anime-planet.com/anime/22-7-nani-mo-shite-agerarenai",
+    "https://anisearch.com/anime/14807",
+    "https://kitsu.io/anime/42536",
+    "https://myanimelist.net/anime/40147"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "103ed46f0b24c020",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.008448361162646,
+    "arithmeticGeometricMean": 5.99796872408228,
+    "median": 6.004,
+    "hash": "103ed46f0b24c020",
+    "lastUpdate": "2024-05-08"
+  }
+}

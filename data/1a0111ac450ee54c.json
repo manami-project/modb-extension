@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1366",
+    "https://anilist.co/anime/2086",
+    "https://anime-planet.com/anime/ng-knight-lamune-and-40-dx-wakuwaku-jikuu-honoo-no-daisousasen",
+    "https://anisearch.com/anime/1970",
+    "https://kitsu.io/anime/1885",
+    "https://myanimelist.net/anime/2086",
+    "https://notify.moe/anime/SaLY5Fiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1a0111ac450ee54c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.184058132343847,
+    "arithmeticGeometricMean": 6.166383419577453,
+    "median": 6.254174397031541,
+    "hash": "1a0111ac450ee54c",
+    "lastUpdate": "2024-05-08"
+  }
+}

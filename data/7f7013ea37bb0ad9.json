@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18116",
+    "https://anilist.co/anime/167141",
+    "https://anime-planet.com/anime/sword-art-online-alternative-gun-gale-online-ii",
+    "https://anisearch.com/anime/18540",
+    "https://kitsu.io/anime/47748",
+    "https://livechart.me/anime/12265",
+    "https://myanimelist.net/anime/55994",
+    "https://notify.moe/anime/E7hwsTCVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f7013ea37bb0ad9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.913265306122449,
+    "arithmeticGeometricMean": 6.900788004175506,
+    "median": 6.913265306122449,
+    "hash": "7f7013ea37bb0ad9",
+    "lastUpdate": "2024-05-10"
+  }
+}

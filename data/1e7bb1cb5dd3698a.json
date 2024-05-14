@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/104347",
+    "https://anime-planet.com/anime/mr-children-himawari",
+    "https://kitsu.io/anime/14045",
+    "https://myanimelist.net/anime/36763",
+    "https://notify.moe/anime/4HKNhFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1e7bb1cb5dd3698a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.099757575757575,
+    "arithmeticGeometricMean": 6.094443818551879,
+    "median": 5.98,
+    "hash": "1e7bb1cb5dd3698a",
+    "lastUpdate": "2024-05-06"
+  }
+}

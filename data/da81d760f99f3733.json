@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2498",
+    "https://anilist.co/anime/1803",
+    "https://anime-planet.com/anime/dirty-pair-with-love-from-the-lovely-angels",
+    "https://anisearch.com/anime/2744",
+    "https://kitsu.io/anime/1622",
+    "https://livechart.me/anime/11240",
+    "https://myanimelist.net/anime/1803",
+    "https://notify.moe/anime/tTJB5Fiig"
+  ],
+  "synopsis": {
+    "text": "Released as a direct-to-video OVA after the cancellation of the original TV series, \"Dirty Pair: With Love From the Lovely Angels\" presents the final two episodes of the show, featuring the dynamic duo Kei and Yuri, known as the Lovely Angels or the Dirty Pair. In the first episode, \"Eek! The Boy in the Manor Is a Terminator,\" Kei joins forces with a former Trouble Consultant, Calico, to apprehend a forger named Jobs Garou, who has an unusual robot guarding his villa. Meanwhile, Yuri's date takes a backseat to the action. In the second episode, \"R-Really!? For Beautiful Women, ‘Canon’ Is the Keyword to Escape,\" Kei and Yuri's supervisor is kidnapped when the WWWA's weapons research lab is raided. The chairman deems any rescue attempt too difficult and initiates a self-destruct sequence, but the determined agents embark on a mission to save their boss, resulting in explosive repercussions. In the end, the Dirty Pair must stop a megalomaniac from holding Chief Gooley and Eleanor City hostage.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da81d760f99f3733",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.830710840180227,
+    "arithmeticGeometricMean": 6.804795789165928,
+    "median": 7.12,
+    "hash": "da81d760f99f3733",
+    "lastUpdate": "2024-05-09"
+  }
+}

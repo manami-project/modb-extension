@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/2265",
+    "https://anime-planet.com/anime/transformers-the-movie",
+    "https://anisearch.com/anime/3360",
+    "https://kitsu.io/anime/2053",
+    "https://livechart.me/anime/5757",
+    "https://notify.moe/anime/7LOE5FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4cfe5b205c544e0d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.576070500927644,
+    "arithmeticGeometricMean": 7.561361107154856,
+    "median": 7.545454545454546,
+    "hash": "4cfe5b205c544e0d",
+    "lastUpdate": "2024-05-06"
+  }
+}

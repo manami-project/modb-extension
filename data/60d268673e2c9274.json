@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/3035",
+    "https://myanimelist.net/anime/368"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "60d268673e2c9274",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.499183673469387,
+    "arithmeticGeometricMean": 6.498932426751993,
+    "median": 6.499183673469387,
+    "hash": "60d268673e2c9274",
+    "lastUpdate": "2024-05-07"
+  }
+}

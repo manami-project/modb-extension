@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113315",
+    "https://anime-planet.com/anime/nosferatu-maiden",
+    "https://kitsu.io/anime/44628",
+    "https://myanimelist.net/anime/49314"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "44f10d91f1d058e3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.276909090909091,
+    "arithmeticGeometricMean": 6.274841726798971,
+    "median": 6.2727272727272725,
+    "hash": "44f10d91f1d058e3",
+    "lastUpdate": "2024-05-07"
+  }
+}

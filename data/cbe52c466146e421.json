@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5893",
+    "https://anime-planet.com/anime/dokushin-apartment-dokudami-sou",
+    "https://anisearch.com/anime/4858",
+    "https://kitsu.io/anime/5756",
+    "https://myanimelist.net/anime/9499",
+    "https://notify.moe/anime/1mnMtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cbe52c466146e421",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.003295609152752,
+    "arithmeticGeometricMean": 4.926251228187726,
+    "median": 4.945,
+    "hash": "cbe52c466146e421",
+    "lastUpdate": "2024-05-08"
+  }
+}

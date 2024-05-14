@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/899",
+    "https://anilist.co/anime/929",
+    "https://anime-planet.com/anime/aura-battler-dunbine",
+    "https://anisearch.com/anime/623",
+    "https://kitsu.io/anime/827",
+    "https://livechart.me/anime/5824",
+    "https://myanimelist.net/anime/929",
+    "https://notify.moe/anime/hmnJcKmiR"
+  ],
+  "synopsis": {
+    "text": "Lord Drake Luft, a power-hungry ruler in the mystical realm of Byston Well, summons Shou Zama, a young motocross racer from Tokyo, to pilot his formidable Aura Battlers – colossal robot warriors created by merging Byston Well's magic with Earth's technology. Situated between sea and land, Byston Well is only accessible through the Aura Road, which few can open. Shou, possessing an exceptionally strong aura, is forced to participate in Luft's conquest. However, when Marvel, an Earth woman, reveals Luft's true sinister intentions, Shou must make a choice: remain loyal to Luft or join the resistance, led by Neal Given, to protect both Byston Well and Earth from impending doom. In this unique world where magic and mecha coexist, an epic adventure unfolds, filled with courage, betrayal, and the struggle for power.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b57e09d93c90099",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.4814359925788505,
+    "arithmeticGeometricMean": 6.456041137862942,
+    "median": 6.562,
+    "hash": "9b57e09d93c90099",
+    "lastUpdate": "2024-05-09"
+  }
+}

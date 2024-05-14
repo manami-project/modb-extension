@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3695",
+    "https://anilist.co/anime/5602",
+    "https://anime-planet.com/anime/navia-dratp",
+    "https://anisearch.com/anime/575",
+    "https://kitsu.io/anime/4192",
+    "https://myanimelist.net/anime/5602",
+    "https://notify.moe/anime/yqfj5FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4dd4fcc2190c99f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.779404187649085,
+    "arithmeticGeometricMean": 4.7180351402019145,
+    "median": 4.76,
+    "hash": "b4dd4fcc2190c99f",
+    "lastUpdate": "2024-05-08"
+  }
+}

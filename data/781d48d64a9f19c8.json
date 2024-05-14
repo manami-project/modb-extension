@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9754",
+    "https://anilist.co/anime/17573",
+    "https://anime-planet.com/anime/planetarium-space-brothers-one-point-of-light",
+    "https://anisearch.com/anime/8534",
+    "https://kitsu.io/anime/7999",
+    "https://livechart.me/anime/1059",
+    "https://myanimelist.net/anime/17573",
+    "https://notify.moe/anime/ght2tKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "781d48d64a9f19c8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.412988073151338,
+    "arithmeticGeometricMean": 6.404669164031246,
+    "median": 6.52,
+    "hash": "781d48d64a9f19c8",
+    "lastUpdate": "2024-05-10"
+  }
+}

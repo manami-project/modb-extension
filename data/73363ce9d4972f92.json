@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12708",
+    "https://anilist.co/anime/148610",
+    "https://anime-planet.com/anime/tanoshii-sansuu",
+    "https://anisearch.com/anime/11597",
+    "https://kitsu.io/anime/10320",
+    "https://myanimelist.net/anime/29103",
+    "https://notify.moe/anime/heZ8pKiiR"
+  ],
+  "synopsis": {
+    "text": "Children’s voices fill the air in a delightful music video titled \"Tanoshii Sansuu,\" featured on NHK's popular program \"Minna no Uta.\" This catchy tune, a creation of Seiji Tanaka in collaboration with the NHK Tokyo Children's Choir, revolves around the theme of arithmetic, making learning fun and engaging for young audiences. The music video beautifully complements the song, visually representing the joy of numbers and calculations.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73363ce9d4972f92",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.349413729128015,
+    "arithmeticGeometricMean": 4.322795313555943,
+    "median": 3.7272727272727275,
+    "hash": "73363ce9d4972f92",
+    "lastUpdate": "2024-05-08"
+  }
+}

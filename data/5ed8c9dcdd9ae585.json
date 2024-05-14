@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13153",
+    "https://anilist.co/anime/98659",
+    "https://anime-planet.com/anime/classroom-of-the-elite",
+    "https://anisearch.com/anime/12495",
+    "https://kitsu.io/anime/13503",
+    "https://livechart.me/anime/2688",
+    "https://myanimelist.net/anime/35507",
+    "https://notify.moe/anime/4qRV2Fmig"
+  ],
+  "synopsis": {
+    "text": "Kushida Kikyou, Horikita Suzune, and Ayanokouji Kiyotaka find themselves in the unenviable position of being assigned to Class D at the prestigious Tokyo Koudo Ikusei Senior High School, where academic achievement is rewarded with privilege and freedom. The school boasts an impressive track record, with nearly all of its students going on to college or securing employment. However, the laissez-faire policies and luxurious amenities are reserved for the top-performing students, leaving those in Class D to fend for themselves.\n\nAyanokouji, who intentionally scored low on his entrance exam, is initially content to fly under the radar. However, his classmates Horikita and Kushida have different plans. Horikita, a loner with a sharp intellect, is determined to climb her way to the top-ranked Class A, while Kushida, a popular and friendly student, seeks to make as many friends as possible.\n\nAs the students of Class D navigate the cutthroat environment, they quickly learn that the school's seemingly perfect facade hides a darker truth. With monthly awards of points worth 100,000 yen and few restrictions on how students can advance, the competition is fierce, and sabotage is not uncommon.\n\nIn this high-stakes game of academic survival, can Ayanokouji, Horikita, and Kushida overcome the odds and rise to the top? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ed8c9dcdd9ae585",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.910271200450131,
+    "arithmeticGeometricMean": 7.906890398916604,
+    "median": 7.968090367663232,
+    "hash": "5ed8c9dcdd9ae585",
+    "lastUpdate": "2024-05-10"
+  }
+}

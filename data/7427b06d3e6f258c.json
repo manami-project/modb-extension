@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136143",
+    "https://anime-planet.com/anime/aquors-ku-ru-ku-ru-cruller",
+    "https://anisearch.com/anime/16454",
+    "https://myanimelist.net/anime/49880"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7427b06d3e6f258c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.279708719851577,
+    "arithmeticGeometricMean": 7.275287800772127,
+    "median": 7.184,
+    "hash": "7427b06d3e6f258c",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/133410",
+    "https://anime-planet.com/anime/eve-yoru-wa-honoka",
+    "https://anisearch.com/anime/16258",
+    "https://kitsu.io/anime/44507",
+    "https://myanimelist.net/anime/48876"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "22cfbee4fc190a47",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.600132838589983,
+    "arithmeticGeometricMean": 7.596529476039471,
+    "median": 7.57,
+    "hash": "22cfbee4fc190a47",
+    "lastUpdate": "2024-05-07"
+  }
+}

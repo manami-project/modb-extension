@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/373",
+    "https://anilist.co/anime/867",
+    "https://anime-planet.com/anime/slayers-gorgeous",
+    "https://anisearch.com/anime/2115",
+    "https://kitsu.io/anime/768",
+    "https://livechart.me/anime/5860",
+    "https://myanimelist.net/anime/867",
+    "https://notify.moe/anime/aGuA5Kimg"
+  ],
+  "synopsis": {
+    "text": "While savoring a meal in an unnamed village, the renowned sorceresses Lina Inverse and Naga the Serpent find themselves in the midst of a peculiar conflict. The tranquility of the village is shattered by the arrival of two armies: one human and the other a formidable force of dragons led by a young, armored girl named Marlene. As the skirmish unfolds, Lina learns that Marlene is the rebellious daughter of the village's ruler, and their battles are rooted in a domestic dispute over Marlene's allowance. Lina aligns herself with the ruler, while Naga seizes the opportunity to join Marlene's cause, adding a twist to this magical family feud. As Lina and Naga face off on opposite sides, a more ominous threat to the village may be lurking in the shadows.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2764eeb453268e87",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.078537569573284,
+    "arithmeticGeometricMean": 7.057012946610318,
+    "median": 7.260909090909091,
+    "hash": "2764eeb453268e87",
+    "lastUpdate": "2024-05-10"
+  }
+}

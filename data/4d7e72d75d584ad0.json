@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7302",
+    "https://anilist.co/anime/6525",
+    "https://anime-planet.com/anime/peeping-life",
+    "https://anisearch.com/anime/6016",
+    "https://kitsu.io/anime/4597",
+    "https://livechart.me/anime/7126",
+    "https://myanimelist.net/anime/6525",
+    "https://notify.moe/anime/YODe5KmmR"
+  ],
+  "synopsis": {
+    "text": "Japanese animation takes a unique turn with this 'slow-life' comedy series that captures the mundane yet amusing aspects of daily life. Using motion-captured improvisational acting and computer animation, the series presents a collection of comedy shorts that resonate with real-life situations and conversations. From the music debut of a budding idol to the more personal topic of underwear, the series covers a variety of entertaining subjects. Originally screened in Japanese cinemas to liven up waiting times, this ennui-style comedy offers a refreshing take on the ordinary.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d7e72d75d584ad0",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.9456957328385895,
+    "arithmeticGeometricMean": 4.925457086490696,
+    "median": 4.99,
+    "hash": "4d7e72d75d584ad0",
+    "lastUpdate": "2024-05-09"
+  }
+}

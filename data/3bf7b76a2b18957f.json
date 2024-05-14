@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10887",
+    "https://anilist.co/anime/20907",
+    "https://anime-planet.com/anime/steins-gate-soumei-eichi-no-cognitive-computing",
+    "https://anisearch.com/anime/9921",
+    "https://kitsu.io/anime/9957",
+    "https://livechart.me/anime/3673",
+    "https://myanimelist.net/anime/27957",
+    "https://notify.moe/anime/l1hEtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3bf7b76a2b18957f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.226963239841391,
+    "arithmeticGeometricMean": 7.222573106260443,
+    "median": 7.37,
+    "hash": "3bf7b76a2b18957f",
+    "lastUpdate": "2024-05-10"
+  }
+}

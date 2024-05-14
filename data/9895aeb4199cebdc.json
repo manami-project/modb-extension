@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115518",
+    "https://anime-planet.com/anime/flower-and-steam",
+    "https://kitsu.io/anime/45778"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9895aeb4199cebdc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.818181818181818,
+    "arithmeticGeometricMean": 4.818181818181818,
+    "median": 4.818181818181818,
+    "hash": "9895aeb4199cebdc",
+    "lastUpdate": "2024-05-07"
+  }
+}

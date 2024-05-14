@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11292",
+    "https://anilist.co/anime/21234",
+    "https://anime-planet.com/anime/erased",
+    "https://anisearch.com/anime/10494",
+    "https://kitsu.io/anime/11110",
+    "https://livechart.me/anime/1666",
+    "https://myanimelist.net/anime/31043",
+    "https://notify.moe/anime/estXpKmmg"
+  ],
+  "synopsis": {
+    "text": "Protagonist Satoru Fujinuma, a 29-year-old manga artist struggling to establish himself, has a peculiar supernatural ability called \"Revival.\" This power forces him to travel back in time to prevent life-threatening incidents, enabling him to save lives. When a tragic event unfolds, Satoru is accused of murder and is thrust back to his elementary school days. He finds himself one month before his classmate Kayo Hinazuki's disappearance, presenting him with an opportunity to solve the mystery surrounding a series of kidnappings and protect his friends. As Satoru delves deeper into the past, he uncovers truths that could change his future. Follow Satoru's journey as he races against time to save Kayo and unravel the enigma behind her vanishing.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "084739b1f74ba520",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.382278295295318,
+    "arithmeticGeometricMean": 8.380324026510625,
+    "median": 8.33818181818182,
+    "hash": "084739b1f74ba520",
+    "lastUpdate": "2024-05-09"
+  }
+}

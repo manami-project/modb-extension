@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15760",
+    "https://anilist.co/anime/121199",
+    "https://anime-planet.com/anime/jingju-mao-2-zhi-xinnian-de-maoxian",
+    "https://kitsu.io/anime/43331",
+    "https://myanimelist.net/anime/42144"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c81dbf0e85c85cf2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.909090909090909,
+    "arithmeticGeometricMean": 4.909090909090909,
+    "median": 4.909090909090909,
+    "hash": "c81dbf0e85c85cf2",
+    "lastUpdate": "2024-05-08"
+  }
+}

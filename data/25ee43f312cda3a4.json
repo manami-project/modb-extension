@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4527",
+    "https://anilist.co/anime/1911",
+    "https://anime-planet.com/anime/gunbuster-2-movie",
+    "https://anisearch.com/anime/3916",
+    "https://kitsu.io/anime/1721",
+    "https://livechart.me/anime/5944",
+    "https://myanimelist.net/anime/1911",
+    "https://notify.moe/anime/dHeBcFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "25ee43f312cda3a4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.191821892393321,
+    "arithmeticGeometricMean": 7.188016119938176,
+    "median": 7.272727272727273,
+    "hash": "25ee43f312cda3a4",
+    "lastUpdate": "2024-05-10"
+  }
+}

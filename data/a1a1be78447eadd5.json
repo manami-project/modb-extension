@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3425",
+    "https://anilist.co/anime/3137",
+    "https://anime-planet.com/anime/tsurikichi-sanpei",
+    "https://anisearch.com/anime/1280",
+    "https://kitsu.io/anime/2819",
+    "https://livechart.me/anime/8252",
+    "https://myanimelist.net/anime/3137",
+    "https://notify.moe/anime/argQcFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a1a1be78447eadd5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.934984362576199,
+    "arithmeticGeometricMean": 6.907830837473805,
+    "median": 6.818181818181818,
+    "hash": "a1a1be78447eadd5",
+    "lastUpdate": "2024-05-10"
+  }
+}

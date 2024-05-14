@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/155391",
+    "https://anime-planet.com/anime/fubuki-shirakami-konkon-beats",
+    "https://kitsu.io/anime/46592",
+    "https://myanimelist.net/anime/53333"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "be480b60c71e5d37",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.786606060606061,
+    "arithmeticGeometricMean": 6.781452872398209,
+    "median": 6.888,
+    "hash": "be480b60c71e5d37",
+    "lastUpdate": "2024-05-07"
+  }
+}

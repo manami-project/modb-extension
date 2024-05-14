@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3390",
+    "https://anilist.co/anime/1369",
+    "https://anime-planet.com/anime/detective-conan-conan-vs-kid-vs-yaiba-houtou-soudatsu-daikessen",
+    "https://anisearch.com/anime/2450",
+    "https://kitsu.io/anime/1223",
+    "https://livechart.me/anime/6391",
+    "https://myanimelist.net/anime/1369",
+    "https://notify.moe/anime/XFCbcKmig"
+  ],
+  "synopsis": {
+    "text": "Boys and their manga! Conan Edogawa finds himself in possession of a mountain of comics, courtesy of Mitsuhiko Tsuburaya. But before he can delve into the thrilling tales, a real-life adventure knocks at his door. Kogorou Mouri, the private detective, is tasked with safeguarding a priceless sword belonging to the Mine family. The notorious phantom thief, Kaitou Kid, has his eyes set on the treasure, and the family fears an imminent heist.\n\nAs Conan and the Detective Boys join forces with the young swordsman, Yaiba Kurogane, they prepare to outwit the cunning thief. But amidst the chaos, Conan senses an uncanny mystery surrounding the case. Will they be able to protect the sword and unravel the enigma? Only time will tell!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0f16c3331aaf60aa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.191620058512916,
+    "arithmeticGeometricMean": 7.183431699927785,
+    "median": 7.266,
+    "hash": "0f16c3331aaf60aa",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18309",
+    "https://anilist.co/anime/138612",
+    "https://anime-planet.com/anime/the-westward-anying-mo-cheng",
+    "https://anisearch.com/anime/18830",
+    "https://kitsu.io/anime/48849",
+    "https://myanimelist.net/anime/54033",
+    "https://notify.moe/anime/CySo7EAVg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "54fa46c5af997aba",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.636363636363637,
+    "arithmeticGeometricMean": 6.636363636363637,
+    "median": 6.636363636363637,
+    "hash": "54fa46c5af997aba",
+    "lastUpdate": "2024-05-13"
+  }
+}

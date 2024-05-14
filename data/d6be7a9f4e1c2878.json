@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6360",
+    "https://anime-planet.com/anime/the-man-who-has-changed-the-history-a-drannage-of-lake-biwa",
+    "https://anisearch.com/anime/5290",
+    "https://kitsu.io/anime/9973",
+    "https://myanimelist.net/anime/28091",
+    "https://notify.moe/anime/OybEtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d6be7a9f4e1c2878",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "d6be7a9f4e1c2878",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/168210",
+    "https://anime-planet.com/anime/eve-adventure-log",
+    "https://anisearch.com/anime/18603",
+    "https://kitsu.io/anime/47978",
+    "https://myanimelist.net/anime/56247"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5320baf9ffd15187",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.934814471243043,
+    "arithmeticGeometricMean": 6.926437588472908,
+    "median": 6.946363636363637,
+    "hash": "5320baf9ffd15187",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10522",
+    "https://anilist.co/anime/21023",
+    "https://anime-planet.com/anime/duel-masters-versus",
+    "https://anisearch.com/anime/9520",
+    "https://kitsu.io/anime/8392",
+    "https://livechart.me/anime/503",
+    "https://myanimelist.net/anime/23409",
+    "https://notify.moe/anime/uaMAtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "45367e242f8c9abd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.262534322820037,
+    "arithmeticGeometricMean": 5.20599054731174,
+    "median": 5.0,
+    "hash": "45367e242f8c9abd",
+    "lastUpdate": "2024-05-09"
+  }
+}

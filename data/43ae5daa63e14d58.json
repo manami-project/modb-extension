@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4720",
+    "https://anilist.co/anime/17649",
+    "https://anime-planet.com/anime/udauda-yatteru-hima-wa-nee",
+    "https://anisearch.com/anime/3852",
+    "https://kitsu.io/anime/9685",
+    "https://myanimelist.net/anime/17649",
+    "https://notify.moe/anime/4HoLpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "43ae5daa63e14d58",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.2891156462585025,
+    "arithmeticGeometricMean": 5.281476941573487,
+    "median": 5.0,
+    "hash": "43ae5daa63e14d58",
+    "lastUpdate": "2024-05-07"
+  }
+}

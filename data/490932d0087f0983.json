@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9650",
+    "https://anilist.co/anime/16780",
+    "https://anime-planet.com/anime/gongnyong-baengmannyeon-ttori",
+    "https://anisearch.com/anime/8905",
+    "https://kitsu.io/anime/7514",
+    "https://myanimelist.net/anime/16780",
+    "https://notify.moe/anime/8KWctKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "490932d0087f0983",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.649659863945578,
+    "arithmeticGeometricMean": 4.6376957809622,
+    "median": 4.948979591836734,
+    "hash": "490932d0087f0983",
+    "lastUpdate": "2024-05-08"
+  }
+}

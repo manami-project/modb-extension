@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11195",
+    "https://anilist.co/anime/105973",
+    "https://anime-planet.com/anime/anime-gatari",
+    "https://anisearch.com/anime/10395",
+    "https://kitsu.io/anime/10884",
+    "https://livechart.me/anime/1379",
+    "https://myanimelist.net/anime/30617",
+    "https://notify.moe/anime/rfTlpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5a7c336162657aec",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.959561622051417,
+    "arithmeticGeometricMean": 5.930066772179329,
+    "median": 5.909090909090908,
+    "hash": "5a7c336162657aec",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16584",
+    "https://anilist.co/anime/137746",
+    "https://anime-planet.com/anime/thousand-autumns-2nd-season",
+    "https://anisearch.com/anime/17269",
+    "https://kitsu.io/anime/45072",
+    "https://myanimelist.net/anime/49558"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "239f3e79abf6ca2f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "239f3e79abf6ca2f",
+    "lastUpdate": "2024-05-11"
+  }
+}

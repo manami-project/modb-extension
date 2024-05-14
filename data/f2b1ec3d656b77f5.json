@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16003",
+    "https://anilist.co/anime/120194",
+    "https://anime-planet.com/anime/knights-on-debris",
+    "https://kitsu.io/anime/43906",
+    "https://livechart.me/anime/10314",
+    "https://myanimelist.net/anime/44410",
+    "https://notify.moe/anime/NY9ShP1GR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f2b1ec3d656b77f5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.317418181818182,
+    "arithmeticGeometricMean": 6.293662855008382,
+    "median": 6.0,
+    "hash": "f2b1ec3d656b77f5",
+    "lastUpdate": "2024-05-10"
+  }
+}

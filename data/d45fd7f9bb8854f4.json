@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2304",
+    "https://anilist.co/anime/2549",
+    "https://anime-planet.com/anime/perrine-monogatari",
+    "https://anisearch.com/anime/3410",
+    "https://kitsu.io/anime/2314",
+    "https://livechart.me/anime/7484",
+    "https://myanimelist.net/anime/2549",
+    "https://notify.moe/anime/cZGs5Kimg"
+  ],
+  "synopsis": {
+    "text": "Perrine's life takes a dramatic turn when she embarks on a journey from Bosnia to France with her mother, following her father's death. Their mission: to reunite with her grandfather, whom her father had left behind after a bitter dispute. Equipped with a camera, a sturdy donkey named Palikare, and a loyal dog, they traverse the challenging terrain, capturing photographs to fund their expedition.\n\nUnbeknownst to Perrine, her arrival in the quaint French village is far from welcomed, as her grandfather holds a grudge against her father for marrying an Indian woman against his wishes. Tragedy strikes when Perrine's mother falls ill and eventually passes away in Paris, leaving Perrine with the daunting task of winning her estranged grandfather's affection without revealing her true identity.\n\nIn order to support herself, Perrine is forced to part with her cherished donkey and secure a job at her grandfather's factory, which serves as the village's primary source of income. As she navigates the complexities of her new life, Perrine remains steadfast in her quest to mend her grandfather's hardened heart.\n\nThroughout her journey, Perrine faces numerous obstacles and heartaches, but her unwavering determination and kindness ultimately lead her to the man she has been searching for. As she forges a connection with her blind and reclusive grandfather, a renowned ophthalmologist arrives from Paris, offering a glimmer of hope for their fractured family. Will this encounter finally bring Perrine the love and acceptance she has longed for?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d45fd7f9bb8854f4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.238350914391731,
+    "arithmeticGeometricMean": 7.226941283401725,
+    "median": 7.363636363636363,
+    "hash": "d45fd7f9bb8854f4",
+    "lastUpdate": "2024-05-09"
+  }
+}

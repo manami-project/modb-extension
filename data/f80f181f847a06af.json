@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14186",
+    "https://anime-planet.com/anime/kaeru-ouji-to-imomushi-henry",
+    "https://anisearch.com/anime/13737",
+    "https://myanimelist.net/anime/38010"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f80f181f847a06af",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.490306122448979,
+    "arithmeticGeometricMean": 5.391054255043402,
+    "median": 5.490306122448979,
+    "hash": "f80f181f847a06af",
+    "lastUpdate": "2024-05-08"
+  }
+}

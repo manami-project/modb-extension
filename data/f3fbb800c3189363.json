@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5816",
+    "https://anilist.co/anime/2916",
+    "https://anime-planet.com/anime/genki-bakuhatsu-ganbaruger",
+    "https://anisearch.com/anime/4646",
+    "https://kitsu.io/anime/2643",
+    "https://livechart.me/anime/6769",
+    "https://myanimelist.net/anime/2916",
+    "https://notify.moe/anime/l1pUcKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f3fbb800c3189363",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.939397031539888,
+    "arithmeticGeometricMean": 5.863913534639579,
+    "median": 6.092272727272728,
+    "hash": "f3fbb800c3189363",
+    "lastUpdate": "2024-05-09"
+  }
+}

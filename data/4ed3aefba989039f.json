@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/813",
+    "https://anilist.co/anime/2500",
+    "https://anime-planet.com/anime/the-cockpit",
+    "https://anisearch.com/anime/2554",
+    "https://kitsu.io/anime/2269",
+    "https://livechart.me/anime/5447",
+    "https://myanimelist.net/anime/2500",
+    "https://notify.moe/anime/GceEcFiiR"
+  ],
+  "synopsis": {
+    "text": "Things take a dramatic turn in the skies during World War II in \"The Cockpit,\" a collection of three heart-wrenching tales directed by different visionaries. In \"Slipstream,\" a Luftwaffe pilot is torn between his loyalty to his country and the world at large. He must decide whether to safeguard a bomber carrying Germany's last hope for victory – the world's first atomic bomb, or let it be shot down by enemy fire, altering the course of history. However, the stakes are raised when he discovers that the woman he loves is also aboard the plane.\n\n\"Sonic Boom Squadron\" follows a young Japanese pilot, once filled with dreams of exploring space, who now finds himself part of one of the deadliest kamikaze attacks in the Pacific War. Flying a missile towards an American ship, he sacrifices his life for the honor of his homeland.\n\nIn \"Knight of the Iron Dragon,\" two Japanese soldiers return to a captured airfield on the Philippine island of Leyte, determined to keep a promise they made to each other. However, the cruel reality of war makes it impossible for either of them to fulfill their vow. A rusty old motorcycle serves as a poignant reminder of their unbreakable bond and unfulfilled promise.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ed3aefba989039f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.096276172806786,
+    "arithmeticGeometricMean": 7.094930979371884,
+    "median": 7.09,
+    "hash": "4ed3aefba989039f",
+    "lastUpdate": "2024-05-10"
+  }
+}

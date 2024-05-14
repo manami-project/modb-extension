@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8312",
+    "https://anilist.co/anime/10589",
+    "https://anime-planet.com/anime/naruto-shippuden-movie-5-blood-prison",
+    "https://anisearch.com/anime/7002",
+    "https://kitsu.io/anime/6256",
+    "https://livechart.me/anime/3799",
+    "https://myanimelist.net/anime/10589",
+    "https://notify.moe/anime/CJK4pKmmR"
+  ],
+  "synopsis": {
+    "text": "Fourth Raikage's assassination attempt and the murder of Jounin from Kirigakure and Iwagakure have led to Naruto Uzumaki's imprisonment in the notorious Blood Prison, also known as Houzukijou. The prison's master, Mui, uses a powerful jutsu to steal the powers of the prisoners, leaving them helpless. Naruto, who vehemently denies the charges, finds himself in a dangerous situation as an unknown threat targets his life. In his quest to prove his innocence and uncover the truth, Naruto teams up with fellow inmates and embarks on a perilous journey to escape the prison and expose its dark secrets. With his powers suppressed and the odds stacked against him, can Naruto unravel the mystery behind the crime and clear his name? Only time will tell as the young ninja and his allies face the challenges that lie ahead in the legendary detention facility.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ad8b1c8f8ad0ccc4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.4006779358207915,
+    "arithmeticGeometricMean": 7.396898433615124,
+    "median": 7.462188552188552,
+    "hash": "ad8b1c8f8ad0ccc4",
+    "lastUpdate": "2024-05-09"
+  }
+}

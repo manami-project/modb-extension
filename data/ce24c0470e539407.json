@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16641",
+    "https://anilist.co/anime/120521",
+    "https://anime-planet.com/anime/sansan-de-ezuoju-chufang",
+    "https://myanimelist.net/anime/42330",
+    "https://notify.moe/anime/BRmeKSMMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ce24c0470e539407",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 3.454545454545454,
+    "arithmeticGeometricMean": 3.454545454545454,
+    "median": 3.454545454545454,
+    "hash": "ce24c0470e539407",
+    "lastUpdate": "2024-05-08"
+  }
+}

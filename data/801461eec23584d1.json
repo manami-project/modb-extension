@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14332",
+    "https://anilist.co/anime/10549",
+    "https://anime-planet.com/anime/pretty-cure-all-stars-gogo-dream-live",
+    "https://anisearch.com/anime/9252",
+    "https://kitsu.io/anime/6237",
+    "https://livechart.me/anime/6275",
+    "https://myanimelist.net/anime/10549",
+    "https://notify.moe/anime/MnvVtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "801461eec23584d1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.857191094619665,
+    "arithmeticGeometricMean": 6.847927353030886,
+    "median": 6.89,
+    "hash": "801461eec23584d1",
+    "lastUpdate": "2024-05-09"
+  }
+}

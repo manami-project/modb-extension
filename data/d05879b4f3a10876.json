@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15210",
+    "https://anilist.co/anime/104611",
+    "https://anime-planet.com/anime/22-7-rikai-sha",
+    "https://anisearch.com/anime/13790",
+    "https://kitsu.io/anime/41896",
+    "https://myanimelist.net/anime/38051",
+    "https://notify.moe/anime/I0bFpD0ig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d05879b4f3a10876",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.301099390405513,
+    "arithmeticGeometricMean": 6.290237598302841,
+    "median": 6.21,
+    "hash": "d05879b4f3a10876",
+    "lastUpdate": "2024-05-08"
+  }
+}

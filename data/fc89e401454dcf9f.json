@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/121478",
+    "https://anime-planet.com/anime/growing-up-with-my-daughter",
+    "https://kitsu.io/anime/42713",
+    "https://myanimelist.net/anime/49814"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fc89e401454dcf9f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.2055454545454545,
+    "arithmeticGeometricMean": 7.202494615776571,
+    "median": 7.2055454545454545,
+    "hash": "fc89e401454dcf9f",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10253",
+    "https://anilist.co/anime/20515",
+    "https://anime-planet.com/anime/stand-by-me-doraemon",
+    "https://anisearch.com/anime/9270",
+    "https://kitsu.io/anime/8566",
+    "https://livechart.me/anime/4681",
+    "https://myanimelist.net/anime/21469",
+    "https://notify.moe/anime/k5r0tFiig"
+  ],
+  "synopsis": {
+    "text": "Frustrated by the bleak future of his great-great-grandfather, Nobita, a young boy plagued by misfortune, laziness, and bullying, Sewashi sends back a robotic cat named Doraemon from the 22nd century to set things right. Equipped with an array of futuristic gadgets and a newfound mission, Doraemon forms an unlikely friendship with Nobita as they navigate the trials and tribulations of childhood together. In order to secure a brighter future for Nobita and ensure his own return to the 22nd century, Doraemon must help Nobita overcome his fears, stand up to bullies, and discover his true potential. Join this dynamic duo as they embark on thrilling adventures through time and space, learning valuable life lessons along the way. Can Doraemon succeed in turning Nobita's life around and return to his own time? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2b27cd800d41e77e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.893242563642447,
+    "arithmeticGeometricMean": 7.88991133987373,
+    "median": 8.023636363636363,
+    "hash": "2b27cd800d41e77e",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106564",
+    "https://anime-planet.com/anime/return-to-dust",
+    "https://anisearch.com/anime/14243",
+    "https://kitsu.io/anime/45796"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aea73f438cd6981a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.642857142857143,
+    "arithmeticGeometricMean": 3.5105126180330752,
+    "median": 3.642857142857143,
+    "hash": "aea73f438cd6981a",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/5037",
+    "https://anime-planet.com/anime/toward-the-terra-tv-specials",
+    "https://kitsu.io/anime/3897",
+    "https://livechart.me/anime/8577",
+    "https://myanimelist.net/anime/5037",
+    "https://notify.moe/anime/EOP9cFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d6b8486b2d2625fb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.415963636363637,
+    "arithmeticGeometricMean": 6.3923302182454815,
+    "median": 6.454545454545455,
+    "hash": "d6b8486b2d2625fb",
+    "lastUpdate": "2024-05-06"
+  }
+}

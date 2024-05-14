@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10601",
+    "https://anilist.co/anime/20698",
+    "https://anime-planet.com/anime/my-teen-romantic-comedy-snafu-too",
+    "https://anisearch.com/anime/9606",
+    "https://kitsu.io/anime/8478",
+    "https://livechart.me/anime/530",
+    "https://myanimelist.net/anime/23847",
+    "https://notify.moe/anime/Pk0AtFmmg"
+  ],
+  "synopsis": {
+    "text": "Hiratsuka Shizuka, a guidance counselor, successfully coaxes the introverted Hikigaya Hachiman into joining the Service Club, where he, alongside the stunning Yukinoshita Yukino and the charming Yuigahama Yui, tackle a myriad of challenges presented by their fellow students. As the trio prepares for an upcoming field trip to Kyoto, a new request emerges that demands the Service Club's attention.\n\nAs the Volunteer Service Club gains recognition, it attracts students seeking assistance with various problems, ranging from social dilemmas to organizational hurdles. However, the club members often find themselves at odds, with Hachiman's pragmatic suggestions clashing with Yukino's idealistic views, straining their relationships. Despite these differences, the trio perseveres in search of common ground, which may ultimately lead to personal growth and self-discovery.\n\nIn this continuation of \"My Teen Romantic Comedy SNAFU,\" Hachiman, Yukino, and Yui continue to navigate the complexities of their school's social landscape while addressing their own shortcomings. As they confront an array of issues, the rift within the group widens, forcing Hachiman to acknowledge that his ability to swiftly identify the core of others' problems can sometimes be more detrimental than helpful.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47f823612f55b17b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.180354606323156,
+    "arithmeticGeometricMean": 8.17897616621333,
+    "median": 8.263363636363636,
+    "hash": "47f823612f55b17b",
+    "lastUpdate": "2024-05-10"
+  }
+}

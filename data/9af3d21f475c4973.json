@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/4380",
+    "https://myanimelist.net/anime/9257"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9af3d21f475c4973",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.6468367346938777,
+    "arithmeticGeometricMean": 3.4686029726204466,
+    "median": 3.6468367346938777,
+    "hash": "9af3d21f475c4973",
+    "lastUpdate": "2024-05-07"
+  }
+}

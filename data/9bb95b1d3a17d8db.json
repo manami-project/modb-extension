@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15429",
+    "https://anilist.co/anime/132696",
+    "https://anime-planet.com/anime/oshiri-tantei-4th-season",
+    "https://anisearch.com/anime/16185",
+    "https://livechart.me/anime/9827",
+    "https://myanimelist.net/anime/41778",
+    "https://notify.moe/anime/iEz6IVwMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9bb95b1d3a17d8db",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.090909090909091,
+    "arithmeticGeometricMean": 5.090909090909091,
+    "median": 5.090909090909091,
+    "hash": "9bb95b1d3a17d8db",
+    "lastUpdate": "2024-05-09"
+  }
+}

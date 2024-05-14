@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13484",
+    "https://anilist.co/anime/103809",
+    "https://anime-planet.com/anime/touken-ranbu-hanamaru-makuai-kaisouroku",
+    "https://anisearch.com/anime/12844",
+    "https://kitsu.io/anime/40951",
+    "https://livechart.me/anime/2898",
+    "https://myanimelist.net/anime/36444",
+    "https://notify.moe/anime/qIsO2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "91420bd2cff2c067",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.5723614718614725,
+    "arithmeticGeometricMean": 6.554750136655757,
+    "median": 6.665584415584415,
+    "hash": "91420bd2cff2c067",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14121",
+    "https://anilist.co/anime/130742",
+    "https://anime-planet.com/anime/prism-season",
+    "https://anisearch.com/anime/7906",
+    "https://kitsu.io/anime/40629",
+    "https://myanimelist.net/anime/34868",
+    "https://notify.moe/anime/ZmAD2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47ba323bbbc4f270",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.284007421150278,
+    "arithmeticGeometricMean": 5.227195451484244,
+    "median": 4.636363636363637,
+    "hash": "47ba323bbbc4f270",
+    "lastUpdate": "2024-05-08"
+  }
+}

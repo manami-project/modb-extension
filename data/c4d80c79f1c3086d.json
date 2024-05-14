@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/536",
+    "https://anilist.co/anime/2010",
+    "https://anime-planet.com/anime/youre-under-arrest-no-mercy",
+    "https://anisearch.com/anime/2971",
+    "https://kitsu.io/anime/1809",
+    "https://livechart.me/anime/7580",
+    "https://myanimelist.net/anime/2010",
+    "https://notify.moe/anime/XJKLcKiig"
+  ],
+  "synopsis": {
+    "text": "California's sunny streets are the new battleground for two formidable Japanese police officers, Miyuki and Natsumi, as they join the ranks of the LAPD. Their assignment? To tackle the city's escalating car theft problem. As they delve deeper into the case, the stakes become personal when Miyuki's prized 1973 Ford Mustang Mach 1 disappears in a flash. Their investigation leads them to a shocking revelation: the mastermind behind the thefts may be a former colleague from their homeland. With their determination unwavering and their friendship unyielding, the duo will stop at nothing to bring the culprit to justice, even if it means confronting their past. Brace yourself for a thrilling ride filled with high-speed chases, unexpected twists, and a relentless pursuit of justice.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c4d80c79f1c3086d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.558398621786378,
+    "arithmeticGeometricMean": 6.553247392305933,
+    "median": 6.51,
+    "hash": "c4d80c79f1c3086d",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/152001",
+    "https://anime-planet.com/anime/peach-boy-riverside-mini-anime",
+    "https://anisearch.com/anime/18957",
+    "https://livechart.me/anime/10616",
+    "https://myanimelist.net/anime/49214"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "247b2a7e77150c66",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.4550853432282,
+    "arithmeticGeometricMean": 5.4371930070620955,
+    "median": 5.597272727272728,
+    "hash": "247b2a7e77150c66",
+    "lastUpdate": "2024-05-09"
+  }
+}

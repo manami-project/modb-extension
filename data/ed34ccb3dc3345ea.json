@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2208",
+    "https://anilist.co/anime/5098",
+    "https://anime-planet.com/anime/andersen-monogatari-movie",
+    "https://anisearch.com/anime/2623",
+    "https://kitsu.io/anime/3929",
+    "https://livechart.me/anime/9072",
+    "https://myanimelist.net/anime/5098",
+    "https://notify.moe/anime/AkurcKimg"
+  ],
+  "synopsis": {
+    "text": "Little Hans Christian Andersen, a young boy brimming with imagination and a knack for storytelling, brings joy and hope to those around him through his captivating tales and melodious voice. Despite his humble beginnings, Hans discovers his talent for weaving stories and singing while attempting to buy opera tickets. With his optimistic outlook and an entourage of friends from various species, he uplifts the spirits of everyone he encounters.\n\nThe movie beautifully intertwines elements from Andersen's own stories, with a particular focus on The Red Shoes and The Little Match Girl. As Hans and his friends immerse themselves in these classic tales, the lines between reality and fantasy blur, creating a mesmerizing world that captivates the audience. Join Hans on his enchanting journey as he uses his gift of storytelling to help those in need and escape into a daydream-like universe.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ed34ccb3dc3345ea",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.501532467532468,
+    "arithmeticGeometricMean": 5.489230431307165,
+    "median": 5.222142857142857,
+    "hash": "ed34ccb3dc3345ea",
+    "lastUpdate": "2024-05-08"
+  }
+}

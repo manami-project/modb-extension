@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7832",
+    "https://anime-planet.com/anime/pochacco-no-wakuwaku-birthday",
+    "https://anisearch.com/anime/6490",
+    "https://kitsu.io/anime/9926",
+    "https://myanimelist.net/anime/22617",
+    "https://notify.moe/anime/34FPpFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8440e280b973c70a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.758843537414966,
+    "arithmeticGeometricMean": 5.744828246035335,
+    "median": 5.95,
+    "hash": "8440e280b973c70a",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/916",
+    "https://anilist.co/anime/95",
+    "https://anime-planet.com/anime/turn-a-gundam",
+    "https://anisearch.com/anime/1440",
+    "https://kitsu.io/anime/74",
+    "https://livechart.me/anime/5293",
+    "https://myanimelist.net/anime/95",
+    "https://notify.moe/anime/XMopcFimg"
+  ],
+  "synopsis": {
+    "text": "As humanity enters the year 2345 of the Correct Century, Earth has reverted to a simpler, pre-industrial era, having forgotten the advanced technology that once propelled them through space. Meanwhile, the Moonrace, an advanced civilization residing on the moon, yearns to return to their home planet. To assess Earth's suitability for resettlement, the Moonrace sends three teenagers, including Loran Cehack, to live among the Earth's inhabitants.\n\nAfter two years, the Moonrace initiates their return, but the people of Earth misinterpret this as an invasion, sparking a war between the two factions. Caught in the middle, Loran, now a pilot of the legendary Turn A Gundam, strives to prevent a catastrophic conflict. As ancient giants and atomic bombs resurface, the stakes escalate, threatening to plunge both civilizations into chaos.\n\nWith negotiations crumbling and the war intensifying, Loran, alongside the people of Earth and the Moonrace, must navigate the complexities of their shared history and forge a path towards coexistence. Will they succeed in bridging the gap between their long-separated branches, or will they be consumed by the dawn of a new war?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec33dd1cd4bf8996",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.632267470624614,
+    "arithmeticGeometricMean": 7.621027221310839,
+    "median": 7.77,
+    "hash": "ec33dd1cd4bf8996",
+    "lastUpdate": "2024-05-10"
+  }
+}

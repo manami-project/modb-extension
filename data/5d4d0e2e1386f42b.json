@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145274",
+    "https://anime-planet.com/anime/seishun-no-kao",
+    "https://kitsu.io/anime/45246",
+    "https://myanimelist.net/anime/50147"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5d4d0e2e1386f42b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.874545454545455,
+    "arithmeticGeometricMean": 5.834538578298742,
+    "median": 5.874545454545455,
+    "hash": "5d4d0e2e1386f42b",
+    "lastUpdate": "2024-05-07"
+  }
+}

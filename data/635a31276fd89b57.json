@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10369",
+    "https://anilist.co/anime/103752",
+    "https://anime-planet.com/anime/chou-akuukan-bouheki-cheese-napolitan",
+    "https://anisearch.com/anime/9325",
+    "https://kitsu.io/anime/8433",
+    "https://livechart.me/anime/7623",
+    "https://myanimelist.net/anime/21875",
+    "https://notify.moe/anime/vqOAtKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "635a31276fd89b57",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.267680360455871,
+    "arithmeticGeometricMean": 5.245233569325121,
+    "median": 5.29,
+    "hash": "635a31276fd89b57",
+    "lastUpdate": "2024-05-09"
+  }
+}

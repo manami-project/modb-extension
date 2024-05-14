@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14635",
+    "https://anilist.co/anime/107441",
+    "https://anime-planet.com/anime/eve-were-still-underground",
+    "https://anisearch.com/anime/14143",
+    "https://kitsu.io/anime/42132",
+    "https://myanimelist.net/anime/39065",
+    "https://notify.moe/anime/ULWmN4umg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9bb1b8b7a4e3086c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.021245516388373,
+    "arithmeticGeometricMean": 7.001723223112136,
+    "median": 7.47,
+    "hash": "9bb1b8b7a4e3086c",
+    "lastUpdate": "2024-05-08"
+  }
+}

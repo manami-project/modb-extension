@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15284",
+    "https://anilist.co/anime/113595",
+    "https://anime-planet.com/anime/planetarian-snow-globe",
+    "https://anisearch.com/anime/14806",
+    "https://kitsu.io/anime/42824",
+    "https://livechart.me/anime/9686",
+    "https://myanimelist.net/anime/40778",
+    "https://notify.moe/anime/JcgFpyCZg"
+  ],
+  "synopsis": {
+    "text": "Against the backdrop of a war-ravaged world, \"Planetarian: Hoshi no Hito\" unfolds a captivating tale that intertwines elements from its visual-novel origins and the Hoshi no Hito light-novel sequel. In the desolate remains of a deserted city, a young scavenger, known as a 'Junker,' stumbles upon an unexpected discovery: a dutiful service robot patiently waiting for patrons in a rooftop planetarium atop a department store. Defying his practical instincts, the Junker aids the robot in restoring the planetarium's projector, a choice that will forever alter their destinies.\n\nThe accompanying OVA presents a prequel narrative titled 'Snow Globe,' which was initially introduced in a limited-edition novel volume of the original PC game. This story takes us back to a time before the catastrophic war, focusing on Hoshino Yumemi, an android employed as a presenter at the Hanabishi Department store's Planetarium. Despite her colleagues' annoyance, Yumemi persistently ventures outside the building in search of potential visitors.\n\n\"Planetarian: Snow Globe\" serves as an introduction to the main storyline, delving into the events preceding the war that led to the world's downfall. Yumemi Hoshino, an android who has dedicated ten years of service to the Flowercrest Department Store Planetarium, suddenly malfunctions and vanishes. The responsibility falls on Satomi Kurahashi to locate the robot and return it to the planetarium. Will she succeed before Yumemi's battery depletes completely?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "86573b4b287ebb00",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.284693568336427,
+    "arithmeticGeometricMean": 7.282159043180734,
+    "median": 7.301818181818182,
+    "hash": "86573b4b287ebb00",
+    "lastUpdate": "2024-05-09"
+  }
+}

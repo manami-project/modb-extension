@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13389",
+    "https://anilist.co/anime/99856",
+    "https://anime-planet.com/anime/oretacha-youkai-ningen",
+    "https://anisearch.com/anime/12743",
+    "https://kitsu.io/anime/13916",
+    "https://livechart.me/anime/2833",
+    "https://myanimelist.net/anime/36135",
+    "https://notify.moe/anime/uOlI2FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "282624184968e404",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.672465058750773,
+    "arithmeticGeometricMean": 4.610192118984881,
+    "median": 4.727272727272727,
+    "hash": "282624184968e404",
+    "lastUpdate": "2024-05-09"
+  }
+}

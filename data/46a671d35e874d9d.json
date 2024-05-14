@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7221",
+    "https://anilist.co/anime/7311",
+    "https://anime-planet.com/anime/the-disappearance-of-haruhi-suzumiya",
+    "https://anisearch.com/anime/5781",
+    "https://kitsu.io/anime/4938",
+    "https://livechart.me/anime/3596",
+    "https://myanimelist.net/anime/7311",
+    "https://notify.moe/anime/RS8RpKmiR"
+  ],
+  "synopsis": {
+    "text": "Nagato Yuki, Asahina Mikuru, Koizumi Itsuki, and the ever-enthusiastic Haruhi Suzumiya, along with their reluctant member Kyon, are all set to celebrate Christmas with their SOS Brigade. However, Kyon's world turns upside down when he wakes up one day to find Haruhi missing, and the rest of his friends either absent or with no recollection of him or their club. Even more bizarre, the once quiet Literature Club member, Yuki Nagato, is now the only occupant of the SOS Brigade's clubroom.\n\nAs the only person aware of the drastic changes, Kyon is left to navigate this new reality. With Haruhi's disappearance and the SOS Brigade seemingly erased from existence, Kyon must confront the possibility of living the normal life he always desired. But as he delves deeper into this mystery, he begins to question if this new world is truly better than his chaotic yet familiar one. Will Kyon uncover the truth behind this altered reality and find a way to restore his old life, or will he embrace this new world and the chance at normality it offers? Join Kyon on his journey in Suzumiya Haruhi no Shoushitsu, a thrilling adventure based on the fourth light novel of the acclaimed Haruhi series.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "46a671d35e874d9d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.59182153164296,
+    "arithmeticGeometricMean": 8.591193065256455,
+    "median": 8.629999999999999,
+    "hash": "46a671d35e874d9d",
+    "lastUpdate": "2024-05-10"
+  }
+}

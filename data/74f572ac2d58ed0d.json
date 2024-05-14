@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10898",
+    "https://anilist.co/anime/104457",
+    "https://anime-planet.com/anime/kokoro-no-chikara",
+    "https://anisearch.com/anime/10215",
+    "https://kitsu.io/anime/10198",
+    "https://myanimelist.net/anime/28047",
+    "https://notify.moe/anime/_RYytFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "74f572ac2d58ed0d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.982799363901405,
+    "arithmeticGeometricMean": 4.941431600223706,
+    "median": 5.0,
+    "hash": "74f572ac2d58ed0d",
+    "lastUpdate": "2024-05-08"
+  }
+}

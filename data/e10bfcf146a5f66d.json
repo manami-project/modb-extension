@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103997",
+    "https://anime-planet.com/anime/jinkou-no-rakuen",
+    "https://kitsu.io/anime/10928",
+    "https://myanimelist.net/anime/30664",
+    "https://notify.moe/anime/2VElpFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e10bfcf146a5f66d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.9401818181818182,
+    "arithmeticGeometricMean": 3.8976053286935883,
+    "median": 3.9713636363636367,
+    "hash": "e10bfcf146a5f66d",
+    "lastUpdate": "2024-05-06"
+  }
+}

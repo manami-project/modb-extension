@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15298",
+    "https://anilist.co/anime/113717",
+    "https://anime-planet.com/anime/ranking-of-kings",
+    "https://anisearch.com/anime/14814",
+    "https://kitsu.io/anime/43849",
+    "https://livechart.me/anime/9706",
+    "https://myanimelist.net/anime/40834",
+    "https://notify.moe/anime/QDwxZfhGR"
+  ],
+  "synopsis": {
+    "text": "Bojji’s kingdom reveres strength and power, ranking seventh in the prestigious Ranking of Kings. However, Bojji, the first prince, is far from the typical heir to the throne. Born deaf and physically weak, he struggles to wield even a child's sword. Despite his dreams of becoming the greatest king, his subjects dismiss him as unfit for the throne. But Bojji's life takes an unexpected turn when he meets Kage, a shadowy figure who becomes his first true friend. Kage, a survivor of the Kage assassin clan, now makes a living through stealing. Together, Bojji and Kage embark on a journey of self-discovery, forming an unlikely bond that challenges societal norms and redefines what it truly means to be a king.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e83bdefe97ecf2cb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.458422541743971,
+    "arithmeticGeometricMean": 8.456555831818651,
+    "median": 8.527727272727272,
+    "hash": "e83bdefe97ecf2cb",
+    "lastUpdate": "2024-05-09"
+  }
+}

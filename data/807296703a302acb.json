@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/suntory-cm"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "807296703a302acb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.62,
+    "arithmeticGeometricMean": 5.62,
+    "median": 5.62,
+    "hash": "807296703a302acb",
+    "lastUpdate": "2024-05-07"
+  }
+}

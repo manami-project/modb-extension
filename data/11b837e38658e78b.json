@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14872",
+    "https://anilist.co/anime/115825",
+    "https://anime-planet.com/anime/bai-gui-youeryuan-2nd-season",
+    "https://anisearch.com/anime/14387",
+    "https://kitsu.io/anime/43376",
+    "https://livechart.me/anime/10711",
+    "https://myanimelist.net/anime/42444"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "11b837e38658e78b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.223223562152134,
+    "arithmeticGeometricMean": 6.215378088351462,
+    "median": 6.198265306122449,
+    "hash": "11b837e38658e78b",
+    "lastUpdate": "2024-05-08"
+  }
+}

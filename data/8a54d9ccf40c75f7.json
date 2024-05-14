@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103531",
+    "https://anime-planet.com/anime/yunomi-robotic-girl",
+    "https://kitsu.io/anime/14032",
+    "https://myanimelist.net/anime/36752",
+    "https://notify.moe/anime/fTDHhKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a54d9ccf40c75f7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.090909090909091,
+    "arithmeticGeometricMean": 6.090099091053758,
+    "median": 6.07,
+    "hash": "8a54d9ccf40c75f7",
+    "lastUpdate": "2024-05-07"
+  }
+}

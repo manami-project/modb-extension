@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/114749",
+    "https://anime-planet.com/anime/yumemi-no-e",
+    "https://kitsu.io/anime/42891",
+    "https://myanimelist.net/anime/40238"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a2c11a72936904d3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.228424242424243,
+    "arithmeticGeometricMean": 6.218470779319134,
+    "median": 6.04,
+    "hash": "a2c11a72936904d3",
+    "lastUpdate": "2024-05-07"
+  }
+}

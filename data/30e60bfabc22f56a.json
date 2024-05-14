@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9956",
+    "https://anilist.co/anime/19291",
+    "https://anime-planet.com/anime/pokemon-xy",
+    "https://anisearch.com/anime/8744",
+    "https://kitsu.io/anime/7850",
+    "https://livechart.me/anime/124",
+    "https://myanimelist.net/anime/19291",
+    "https://notify.moe/anime/XJsptKmmg"
+  ],
+  "synopsis": {
+    "text": "Region of Kalos, a land brimming with splendor and teeming with never-before-seen Pokémon, becomes the new battleground for our intrepid hero, Ash Ketchum, and his loyal Pikachu. As they navigate through Miare City, they encounter Citron, a prodigious inventor, and his younger sister, Eureka, leading to an impromptu battle. But chaos ensues when Team Rocket's nefarious schemes result in a rampaging Gaburias wreaking havoc on the city.\n\nMeanwhile, nestled in the tranquil Asame Town, a young girl named Serena, under her mother's guidance, diligently practices Sihorn riding. A chance encounter with a televised event in Miare City triggers a memory of a boy from her past, propelling her on a quest to find him again.\n\nAs the group traverses the Kalos region, each pursues their own dreams: Ash challenges Pokémon gyms, Citron learns under Ash's mentorship, and Serena embarks on a journey of self-discovery. Along the way, they forge new friendships, face formidable rivals, and continue to thwart Team Rocket's sinister plans. All the while, they unravel the enigmatic mysteries surrounding mega evolution.\n\nThe XY series, inspired by the Generation VI games, witnesses Ash's journey towards the Kalos League, beginning in Lumiose City. Alongside new companions Serena, Clemont, and Bonnie, Ash continues his relentless pursuit of becoming a Pokémon Master, promising an exhilarating adventure filled with action, camaraderie, and discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "30e60bfabc22f56a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.385408983873269,
+    "arithmeticGeometricMean": 7.3824782911526015,
+    "median": 7.491272727272727,
+    "hash": "30e60bfabc22f56a",
+    "lastUpdate": "2024-05-09"
+  }
+}

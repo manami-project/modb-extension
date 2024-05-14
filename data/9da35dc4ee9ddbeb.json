@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/112471",
+    "https://kitsu.io/anime/12096",
+    "https://livechart.me/anime/7522",
+    "https://myanimelist.net/anime/32158",
+    "https://notify.moe/anime/vseepKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9da35dc4ee9ddbeb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.23,
+    "arithmeticGeometricMean": 5.2250805084494365,
+    "median": 5.0,
+    "hash": "9da35dc4ee9ddbeb",
+    "lastUpdate": "2024-05-06"
+  }
+}

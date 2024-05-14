@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13902",
+    "https://anime-planet.com/anime/sword-gai-3dcg-promotional-movie",
+    "https://anisearch.com/anime/9055",
+    "https://kitsu.io/anime/13135",
+    "https://myanimelist.net/anime/31966",
+    "https://notify.moe/anime/6j5M2Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b0d1642d1e03fdc7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.742414965986394,
+    "arithmeticGeometricMean": 5.719625494610888,
+    "median": 5.57,
+    "hash": "b0d1642d1e03fdc7",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4045",
+    "https://anilist.co/anime/12793",
+    "https://anime-planet.com/anime/yanbou-ninbou-tonbou",
+    "https://anisearch.com/anime/2870",
+    "https://kitsu.io/anime/6815",
+    "https://myanimelist.net/anime/12793",
+    "https://notify.moe/anime/Ed9HpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "500f1c7d3277484a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.126777983920841,
+    "arithmeticGeometricMean": 4.049481276686951,
+    "median": 4.7272727272727275,
+    "hash": "500f1c7d3277484a",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4665",
+    "https://anilist.co/anime/7681",
+    "https://anime-planet.com/anime/kyouryuu-wakusei",
+    "https://anisearch.com/anime/3795",
+    "https://kitsu.io/anime/5080",
+    "https://livechart.me/anime/7359",
+    "https://myanimelist.net/anime/7681",
+    "https://notify.moe/anime/gzKktFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c26f06279af79c1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.934727272727272,
+    "arithmeticGeometricMean": 5.900460675035343,
+    "median": 5.8554545454545455,
+    "hash": "3c26f06279af79c1",
+    "lastUpdate": "2024-05-09"
+  }
+}

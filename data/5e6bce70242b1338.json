@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3153",
+    "https://anilist.co/anime/5396",
+    "https://anime-planet.com/anime/the-brave-command-dagwon-the-boy-with-crystal-eyes",
+    "https://anisearch.com/anime/2290",
+    "https://kitsu.io/anime/4083",
+    "https://livechart.me/anime/12023",
+    "https://myanimelist.net/anime/5396",
+    "https://notify.moe/anime/j9cC5Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5e6bce70242b1338",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.683602350030921,
+    "arithmeticGeometricMean": 5.651488496963627,
+    "median": 5.67,
+    "hash": "5e6bce70242b1338",
+    "lastUpdate": "2024-05-10"
+  }
+}

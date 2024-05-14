@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3973",
+    "https://anilist.co/anime/3070",
+    "https://anime-planet.com/anime/negadon-the-monster-from-mars",
+    "https://anisearch.com/anime/2534",
+    "https://kitsu.io/anime/2768",
+    "https://myanimelist.net/anime/3070",
+    "https://notify.moe/anime/9vXU5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Japanese scientist Ryuuichi Narasaki finds himself as humanity's last hope in the year 2025, as Earth's overpopulated world of 10 billion people looks to Mars for a new home. The Mars Terraforming Project is underway, but disaster strikes when a Japanese spaceship returning from Mars crash-lands in Tokyo, releasing a monstrous creature called Negadon. With his background in robot engineering and a past haunted by tragedy, Narasaki must confront the colossal alien beast wreaking havoc on the city. Can he and his robot, Miroku, save humanity from the brink of destruction and secure a future for mankind? The epic battle between Narasaki and Negadon unfolds in this thrilling anime adventure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9499ec4be6d510bd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.375026769149217,
+    "arithmeticGeometricMean": 5.351859037808247,
+    "median": 5.324,
+    "hash": "9499ec4be6d510bd",
+    "lastUpdate": "2024-05-08"
+  }
+}

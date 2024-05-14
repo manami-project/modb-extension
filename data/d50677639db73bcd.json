@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/138869",
+    "https://anime-planet.com/anime/aimer-everlasting-snow",
+    "https://anisearch.com/anime/12109",
+    "https://kitsu.io/anime/43434",
+    "https://myanimelist.net/anime/42438"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d50677639db73bcd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.2791317254174395,
+    "arithmeticGeometricMean": 6.268176772945126,
+    "median": 6.536,
+    "hash": "d50677639db73bcd",
+    "lastUpdate": "2024-05-06"
+  }
+}

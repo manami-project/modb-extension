@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/320",
+    "https://anilist.co/anime/1430",
+    "https://anime-planet.com/anime/lupin-the-3rd-the-castle-of-cagliostro",
+    "https://anisearch.com/anime/2328",
+    "https://kitsu.io/anime/1283",
+    "https://livechart.me/anime/4320",
+    "https://myanimelist.net/anime/1430",
+    "https://notify.moe/anime/iqZ-5KmiR"
+  ],
+  "synopsis": {
+    "text": "Once again, the legendary thief Lupin III and his trusted accomplice, Jigen, find themselves duped with counterfeit money after a seemingly successful heist. Determined to track down the source, they journey to the secluded European nation of Cagliostro, infamous for producing the world's most convincing fake currency. Upon arrival, they stumble upon a high-speed chase involving a beautiful princess, Clarisse, who is being pursued by the Duke of Cagliostro's henchmen. After a failed rescue attempt, Lupin becomes entangled in a web of danger and deceit, as the Duke plans to wed Clarisse against her will to seize her family's hidden treasure.\n\nWith the help of his ex-girlfriend Fujiko, the skilled swordsman Goemon, and the relentless Inspector Zenigata, Lupin embarks on a daring mission to save the princess, expose the counterfeiting operation, and uncover the long-lost treasure hidden within the Castle of Cagliostro. To succeed, they must navigate a gauntlet of deadly traps, infiltrate the heavily fortified castle, and outwit the sinister Count Cagliostro. Will Lupin and his friends emerge victorious, or will they fall prey to the castle's dark secrets? Join them in this thrilling adventure filled with excitement and mayhem!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dca0d8d4ba0b8702",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.9418905380333955,
+    "arithmeticGeometricMean": 7.940003768021976,
+    "median": 7.959,
+    "hash": "dca0d8d4ba0b8702",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5533",
+    "https://anilist.co/anime/3298",
+    "https://anime-planet.com/anime/hatenkou-yuugi",
+    "https://anisearch.com/anime/4586",
+    "https://kitsu.io/anime/2917",
+    "https://livechart.me/anime/5135",
+    "https://myanimelist.net/anime/3298",
+    "https://notify.moe/anime/lGtQ5Kimg"
+  ],
+  "synopsis": {
+    "text": "This engaging anime follows the adventures of Rahzel, a young, confident girl from a wealthy family, who is unexpectedly sent on a journey by her father to 'see the world.' Along her travels, she encounters Alzeid, a stoic, silver-haired young man driven by vengeance for his father's murder. Despite their contrasting personalities, they find themselves inexplicably drawn to one another, possibly due to their shared magical abilities or a budding attraction.\n\nTogether with the enigmatic and somewhat lecherous Baroqueheat, the trio embarks on a journey filled with excitement and self-discovery. As they traverse from town to town, they use their magical powers to aid those in need, all while uncovering their own unique paths in life. With every twist and turn, Rahzel, Alzeid, and Baroqueheat encounter new friends and foes, making their adventure even more thrilling and unpredictable.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0bfba31cc15a4e43",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.069536178107606,
+    "arithmeticGeometricMean": 7.063095198391514,
+    "median": 7.1,
+    "hash": "0bfba31cc15a4e43",
+    "lastUpdate": "2024-05-09"
+  }
+}

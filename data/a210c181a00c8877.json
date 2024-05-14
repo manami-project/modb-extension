@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9660",
+    "https://anilist.co/anime/104345",
+    "https://anime-planet.com/anime/neo-faust",
+    "https://anisearch.com/anime/8906",
+    "https://kitsu.io/anime/10727",
+    "https://myanimelist.net/anime/30217",
+    "https://notify.moe/anime/zxUwpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a210c181a00c8877",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.358469387755101,
+    "arithmeticGeometricMean": 5.351803208065806,
+    "median": 5.270408163265305,
+    "hash": "a210c181a00c8877",
+    "lastUpdate": "2024-05-07"
+  }
+}

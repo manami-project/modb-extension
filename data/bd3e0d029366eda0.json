@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14885",
+    "https://anilist.co/anime/126258",
+    "https://anime-planet.com/anime/hana-no-zundamaru-junk",
+    "https://anisearch.com/anime/9622",
+    "https://kitsu.io/anime/9163",
+    "https://myanimelist.net/anime/22953",
+    "https://notify.moe/anime/o82-pKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd3e0d029366eda0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.462665429808287,
+    "arithmeticGeometricMean": 4.44537390369109,
+    "median": 4.611363636363636,
+    "hash": "bd3e0d029366eda0",
+    "lastUpdate": "2024-05-08"
+  }
+}

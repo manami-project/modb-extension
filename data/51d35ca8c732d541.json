@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13894",
+    "https://anisearch.com/anime/13441"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "51d35ca8c732d541",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.662244897959184,
+    "arithmeticGeometricMean": 7.660000204058732,
+    "median": 7.662244897959184,
+    "hash": "51d35ca8c732d541",
+    "lastUpdate": "2024-05-08"
+  }
+}

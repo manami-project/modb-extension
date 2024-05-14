@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6889",
+    "https://anilist.co/anime/103729",
+    "https://anime-planet.com/anime/muku-no-ki-no-hanashi",
+    "https://anisearch.com/anime/10500",
+    "https://kitsu.io/anime/10416",
+    "https://myanimelist.net/anime/29895",
+    "https://notify.moe/anime/qsA8tKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c54057f6547b5e3c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.22869387755102,
+    "arithmeticGeometricMean": 5.215548849683155,
+    "median": 5.16,
+    "hash": "c54057f6547b5e3c",
+    "lastUpdate": "2024-05-07"
+  }
+}

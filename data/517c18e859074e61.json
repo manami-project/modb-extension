@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13451",
+    "https://anilist.co/anime/103970",
+    "https://anime-planet.com/anime/bai-bian-zhu-zhu-xia",
+    "https://anisearch.com/anime/13093",
+    "https://myanimelist.net/anime/38121"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "517c18e859074e61",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.498656771799628,
+    "arithmeticGeometricMean": 4.340269580845032,
+    "median": 4.090909090909091,
+    "hash": "517c18e859074e61",
+    "lastUpdate": "2024-05-08"
+  }
+}

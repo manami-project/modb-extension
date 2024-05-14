@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/happy-twinkle",
+    "https://anisearch.com/anime/18050",
+    "https://kitsu.io/anime/41663",
+    "https://myanimelist.net/anime/36757"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8276838a247f26bb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.9636734693877544,
+    "arithmeticGeometricMean": 5.963284465984447,
+    "median": 5.9636734693877544,
+    "hash": "8276838a247f26bb",
+    "lastUpdate": "2024-05-07"
+  }
+}

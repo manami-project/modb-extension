@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13561",
+    "https://anime-planet.com/anime/pig-the-dam-keeper-poems",
+    "https://anisearch.com/anime/12046",
+    "https://kitsu.io/anime/12723",
+    "https://livechart.me/anime/2407",
+    "https://myanimelist.net/anime/34346",
+    "https://notify.moe/anime/ngUihFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8612a7e2a9d0f8f6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.608506122448979,
+    "arithmeticGeometricMean": 6.602325322163456,
+    "median": 6.326530612244898,
+    "hash": "8612a7e2a9d0f8f6",
+    "lastUpdate": "2024-05-09"
+  }
+}

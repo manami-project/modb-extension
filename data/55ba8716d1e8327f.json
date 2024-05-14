@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11362",
+    "https://anilist.co/anime/103451",
+    "https://anime-planet.com/anime/the-great-rabbit",
+    "https://anisearch.com/anime/10861",
+    "https://kitsu.io/anime/10175",
+    "https://myanimelist.net/anime/28641",
+    "https://notify.moe/anime/LhxytFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "55ba8716d1e8327f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.570600583090379,
+    "arithmeticGeometricMean": 4.546843826250191,
+    "median": 4.48,
+    "hash": "55ba8716d1e8327f",
+    "lastUpdate": "2024-05-07"
+  }
+}

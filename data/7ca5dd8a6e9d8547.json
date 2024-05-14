@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13134",
+    "https://anilist.co/anime/102654",
+    "https://anime-planet.com/anime/hideyoshi-yuu-no-mahou",
+    "https://kitsu.io/anime/12076",
+    "https://myanimelist.net/anime/32850",
+    "https://notify.moe/anime/mzjetKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ca5dd8a6e9d8547",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.148654545454545,
+    "arithmeticGeometricMean": 5.127282821517292,
+    "median": 4.7272727272727275,
+    "hash": "7ca5dd8a6e9d8547",
+    "lastUpdate": "2024-05-08"
+  }
+}

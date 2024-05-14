@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/403",
+    "https://anilist.co/anime/1184",
+    "https://anime-planet.com/anime/lost-universe",
+    "https://anisearch.com/anime/1365",
+    "https://kitsu.io/anime/1064",
+    "https://livechart.me/anime/6702",
+    "https://myanimelist.net/anime/1184",
+    "https://notify.moe/anime/a1Ix5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Their journey begins when Millennium \"Milly\" Nocturne, a determined young detective with a burning desire to be the universe's best, crosses paths with Kane Blueriver, the skilled master of the starship Swordbreaker, and Canal, the ship's witty holographic AI. Together, this unlikely trio embarks on a series of thrilling adventures as they navigate the cosmos, tackling dangerous bounty cases and confronting formidable adversaries, including intergalactic crime lords and rogue starships.\n\nAs they delve deeper into the mysteries surrounding Kane's inheritance of the Swordbreaker from his grandmother, they uncover a hidden connection between the legendary Lost Ships and their own pasts. This revelation draws them closer to the looming threat of Nightmare, a sinister crime syndicate bent on ruling the universe.\n\nWith each new challenge, these trouble contractors find themselves entangled in increasingly perilous situations, testing the limits of their abilities and forging unbreakable bonds. As they hurtle through space, they leave a trail of excitement, laughter, and danger in their wake, unraveling a captivating tale that will keep you on the edge of your seat.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c8dd21fb42959ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.8808444208852375,
+    "arithmeticGeometricMean": 6.874153452817191,
+    "median": 7.01,
+    "hash": "3c8dd21fb42959ac",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4270",
+    "https://anilist.co/anime/10353",
+    "https://anime-planet.com/anime/okama-hakusho",
+    "https://anisearch.com/anime/236",
+    "https://kitsu.io/anime/6143",
+    "https://myanimelist.net/anime/10353",
+    "https://notify.moe/anime/-H97pFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eaeb7e12b04b628e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.356276437847867,
+    "arithmeticGeometricMean": 5.325542983931518,
+    "median": 5.272727272727273,
+    "hash": "eaeb7e12b04b628e",
+    "lastUpdate": "2024-05-08"
+  }
+}

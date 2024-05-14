@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17057",
+    "https://anilist.co/anime/142826",
+    "https://anime-planet.com/anime/yamishibai-japanese-ghost-stories-10th-season",
+    "https://anisearch.com/anime/16923",
+    "https://kitsu.io/anime/45601",
+    "https://livechart.me/anime/10953",
+    "https://myanimelist.net/anime/50599",
+    "https://notify.moe/anime/EDQFrcTnR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b077034257cbea1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.068474489795919,
+    "arithmeticGeometricMean": 6.022494409817495,
+    "median": 6.164,
+    "hash": "3b077034257cbea1",
+    "lastUpdate": "2024-05-10"
+  }
+}

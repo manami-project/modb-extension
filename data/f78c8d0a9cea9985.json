@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12692",
+    "https://anilist.co/anime/121181",
+    "https://anime-planet.com/anime/hei-mao-jing-zhang",
+    "https://anisearch.com/anime/10128",
+    "https://kitsu.io/anime/12796",
+    "https://livechart.me/anime/8021",
+    "https://myanimelist.net/anime/34510",
+    "https://notify.moe/anime/_0iZhFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f78c8d0a9cea9985",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.46295238095238,
+    "arithmeticGeometricMean": 5.420983726526733,
+    "median": 5.505,
+    "hash": "f78c8d0a9cea9985",
+    "lastUpdate": "2024-05-09"
+  }
+}

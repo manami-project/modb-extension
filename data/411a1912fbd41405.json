@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113668",
+    "https://anime-planet.com/anime/attakai-tte-gohoubi-da",
+    "https://anisearch.com/anime/14981",
+    "https://kitsu.io/anime/42839",
+    "https://myanimelist.net/anime/40799"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "411a1912fbd41405",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2962471243042675,
+    "arithmeticGeometricMean": 6.284294837526083,
+    "median": 6.090909090909091,
+    "hash": "411a1912fbd41405",
+    "lastUpdate": "2024-05-05"
+  }
+}

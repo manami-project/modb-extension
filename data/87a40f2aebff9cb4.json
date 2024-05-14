@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5943",
+    "https://anilist.co/anime/5689",
+    "https://anime-planet.com/anime/eien-no-filena",
+    "https://anisearch.com/anime/4926",
+    "https://kitsu.io/anime/4247",
+    "https://livechart.me/anime/8152",
+    "https://myanimelist.net/anime/5689",
+    "https://notify.moe/anime/3z_jcKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "87a40f2aebff9cb4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.555767470624613,
+    "arithmeticGeometricMean": 5.51958316100727,
+    "median": 5.533302411873841,
+    "hash": "87a40f2aebff9cb4",
+    "lastUpdate": "2024-05-09"
+  }
+}

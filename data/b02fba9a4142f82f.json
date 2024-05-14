@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10556",
+    "https://anime-planet.com/anime/sagashita-no-wa-oheya-mitsuketa-no-wa-mirai",
+    "https://anisearch.com/anime/9566",
+    "https://kitsu.io/anime/8529",
+    "https://myanimelist.net/anime/23621",
+    "https://notify.moe/anime/e5y0pFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b02fba9a4142f82f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.572187755102041,
+    "arithmeticGeometricMean": 5.565587613880061,
+    "median": 5.34,
+    "hash": "b02fba9a4142f82f",
+    "lastUpdate": "2024-05-08"
+  }
+}

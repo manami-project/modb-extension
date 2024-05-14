@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5546",
+    "https://anilist.co/anime/4062",
+    "https://anime-planet.com/anime/musashi-no-ken",
+    "https://anisearch.com/anime/4208",
+    "https://kitsu.io/anime/3440",
+    "https://livechart.me/anime/9050",
+    "https://myanimelist.net/anime/4062",
+    "https://notify.moe/anime/OsZX5Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b752053e844f327b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.597206997084548,
+    "arithmeticGeometricMean": 6.569225221619564,
+    "median": 6.65,
+    "hash": "b752053e844f327b",
+    "lastUpdate": "2024-05-09"
+  }
+}

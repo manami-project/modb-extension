@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6398",
+    "https://anilist.co/anime/6098",
+    "https://anime-planet.com/anime/sora-no-manimani",
+    "https://anisearch.com/anime/5268",
+    "https://kitsu.io/anime/4427",
+    "https://livechart.me/anime/4415",
+    "https://myanimelist.net/anime/6098",
+    "https://notify.moe/anime/qE13cKmig"
+  ],
+  "synopsis": {
+    "text": "After a seven-year hiatus, Saku Ooyagi finds himself back in his hometown, ready to start anew at Sōei High School. On his first day, he crosses paths with Mihoshi Akeno, his lively childhood friend with a passion for astronomy. Despite their last memory together involving a near-disastrous tree-climbing incident, Mihoshi is eager to rekindle their friendship and recruits Saku into her astronomy club. As the club grows with the addition of Hime Makita, a girl with her sights set on winning Saku's heart, the group embarks on a journey of self-discovery and growth. Through the lens of their shared love for the cosmos, the members navigate the trials and triumphs of high school, each emerging with a fresh perspective on life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "19743ae9bc805fe1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.095915893630179,
+    "arithmeticGeometricMean": 7.089924777562205,
+    "median": 7.080454545454545,
+    "hash": "19743ae9bc805fe1",
+    "lastUpdate": "2024-05-10"
+  }
+}

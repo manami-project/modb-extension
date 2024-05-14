@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14981",
+    "https://anilist.co/anime/114945",
+    "https://anime-planet.com/anime/the-chronicles-of-rebecca",
+    "https://anisearch.com/anime/14732",
+    "https://kitsu.io/anime/42999",
+    "https://livechart.me/anime/9497",
+    "https://myanimelist.net/anime/40035",
+    "https://notify.moe/anime/d2CjoyUZR"
+  ],
+  "synopsis": {
+    "text": "After the tragic death of her father, Rebecca, a vivacious 10-year-old girl who is the second eldest of seven siblings, finds herself in a difficult situation as her family falls into financial hardship. Set in a quaint rural town in Maine, USA, at the end of the 19th century, Rebecca is compelled to live with her two aunts, Miranda and Jane. While Rebecca finds solace and affection in the gentle presence of her aunt Jane, she struggles to cope with the stern and nagging disposition of her aunt Miranda. One fateful day, an altercation over a handmade pink dress and a hurtful insult about her deceased father pushes Rebecca to her limits, causing her to storm out of the house in a fit of anger. This heartwarming and emotional tale is part of the Anime Tamago 2020 lineup, although its screening was cancelled due to COVID-19 concerns.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da7614b2d3060793",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.162578849721707,
+    "arithmeticGeometricMean": 6.156139480105521,
+    "median": 6.175,
+    "hash": "da7614b2d3060793",
+    "lastUpdate": "2024-05-09"
+  }
+}

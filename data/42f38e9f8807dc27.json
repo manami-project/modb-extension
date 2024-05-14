@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/155739",
+    "https://anime-planet.com/anime/magic-knight-rayearth-pilot",
+    "https://kitsu.io/anime/42958",
+    "https://myanimelist.net/anime/38372"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "42f38e9f8807dc27",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.333030303030302,
+    "arithmeticGeometricMean": 6.324945275834563,
+    "median": 6.12,
+    "hash": "42f38e9f8807dc27",
+    "lastUpdate": "2024-05-07"
+  }
+}

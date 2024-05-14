@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15967",
+    "https://anilist.co/anime/126347",
+    "https://anime-planet.com/anime/fairies-albums-2nd-season",
+    "https://anisearch.com/anime/17289",
+    "https://kitsu.io/anime/43789",
+    "https://livechart.me/anime/10738",
+    "https://myanimelist.net/anime/44067",
+    "https://notify.moe/anime/-9Ep3nbMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b304be1e55e48162",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.2365590599876315,
+    "arithmeticGeometricMean": 7.215457242110599,
+    "median": 7.50704081632653,
+    "hash": "b304be1e55e48162",
+    "lastUpdate": "2024-05-08"
+  }
+}

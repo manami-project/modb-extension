@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/114127",
+    "https://anime-planet.com/anime/wormy",
+    "https://kitsu.io/anime/46746",
+    "https://myanimelist.net/anime/39220"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b9a34f9162e7fe75",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.824545454545455,
+    "arithmeticGeometricMean": 5.814843685757665,
+    "median": 5.62,
+    "hash": "b9a34f9162e7fe75",
+    "lastUpdate": "2024-05-07"
+  }
+}

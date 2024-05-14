@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16531",
+    "https://anilist.co/anime/136484",
+    "https://anime-planet.com/anime/link-click-2nd-season",
+    "https://anisearch.com/anime/16584",
+    "https://kitsu.io/anime/45504",
+    "https://livechart.me/anime/10696",
+    "https://myanimelist.net/anime/49413",
+    "https://notify.moe/anime/3hznFvgSR"
+  ],
+  "synopsis": {
+    "text": "Faced with the imminent closure of Time Photo Studio, Cheng Xiaoshi and Lu Guang, both possessing unique superpowers, team up to fulfill customer commissions by entering their photos. In a bustling city, the duo navigates through the dangers that come with each job, determined to save their small photography shop. However, their mission takes a dark turn when a mysterious killer begins to wreak havoc, putting Lu Guang's life in peril and ensnaring Qiao Ling in a sinister plot. As Cheng Xiaoshi finds himself arrested for a crime he didn't commit, he must learn from past mistakes and act quickly to unravel the deadly conspiracy before it's too late. With only a single clue left behind, can Cheng Xiaoshi and Lu Guang's team unmask the elusive enemy and put an end to the devastating chain of events?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a29e995ac56db5d3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.374015306122448,
+    "arithmeticGeometricMean": 8.367273390218438,
+    "median": 8.450909090909091,
+    "hash": "a29e995ac56db5d3",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12663",
+    "https://anilist.co/anime/99662",
+    "https://anime-planet.com/anime/elsword-el-ui-yeoin",
+    "https://anisearch.com/anime/12127",
+    "https://kitsu.io/anime/11575",
+    "https://livechart.me/anime/4653",
+    "https://myanimelist.net/anime/32613",
+    "https://notify.moe/anime/wYECtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "181cc5fb6c297ea4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.1129461558849325,
+    "arithmeticGeometricMean": 6.108990010791525,
+    "median": 5.958,
+    "hash": "181cc5fb6c297ea4",
+    "lastUpdate": "2024-05-09"
+  }
+}

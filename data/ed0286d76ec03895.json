@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6593",
+    "https://anilist.co/anime/2657",
+    "https://anime-planet.com/anime/doraemon-movie-8-nobita-and-the-dragon-rider",
+    "https://anisearch.com/anime/5112",
+    "https://kitsu.io/anime/2421",
+    "https://livechart.me/anime/8892",
+    "https://myanimelist.net/anime/2657",
+    "https://notify.moe/anime/8Jxs5Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ed0286d76ec03895",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.843199840975351,
+    "arithmeticGeometricMean": 6.828497486353798,
+    "median": 7.06,
+    "hash": "ed0286d76ec03895",
+    "lastUpdate": "2024-05-09"
+  }
+}

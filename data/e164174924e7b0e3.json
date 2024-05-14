@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11150",
+    "https://anilist.co/anime/21115",
+    "https://anime-planet.com/anime/aquarion-logos",
+    "https://anisearch.com/anime/10319",
+    "https://kitsu.io/anime/10764",
+    "https://livechart.me/anime/1459",
+    "https://myanimelist.net/anime/30382",
+    "https://notify.moe/anime/ZY3wpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e164174924e7b0e3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.735778550814265,
+    "arithmeticGeometricMean": 5.709834066146724,
+    "median": 5.698181818181818,
+    "hash": "e164174924e7b0e3",
+    "lastUpdate": "2024-05-08"
+  }
+}

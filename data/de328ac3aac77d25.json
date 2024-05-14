@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/letters-from-hibakusha",
+    "https://anisearch.com/anime/13053",
+    "https://kitsu.io/anime/40864",
+    "https://livechart.me/anime/10438",
+    "https://myanimelist.net/anime/36127",
+    "https://notify.moe/anime/EBcOhFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de328ac3aac77d25",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.674142857142856,
+    "arithmeticGeometricMean": 6.657783128362417,
+    "median": 6.674142857142856,
+    "hash": "de328ac3aac77d25",
+    "lastUpdate": "2024-05-05"
+  }
+}

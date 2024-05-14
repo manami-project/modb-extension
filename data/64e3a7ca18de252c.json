@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2581",
+    "https://anilist.co/anime/1904",
+    "https://anime-planet.com/anime/harukanaru-toki-no-naka-de-2-shiroki-ryuu-no-miko",
+    "https://anisearch.com/anime/24",
+    "https://kitsu.io/anime/1714",
+    "https://livechart.me/anime/8443",
+    "https://myanimelist.net/anime/1904",
+    "https://notify.moe/anime/OdqfcFimg"
+  ],
+  "synopsis": {
+    "text": "She was just an ordinary student, but Karin's life takes a dramatic turn when she is unexpectedly transported to the mystical realm of Kyou, a land reminiscent of Kyoto during the Heian period. Kyou is in a state of chaos, plagued by a power struggle between the current and former emperors, and its citizens live in constant fear of an impending apocalypse. As the newly appointed priestess of the White Dragon, Karin must rise to the challenge and restore balance to this beleaguered land. However, her task is far from easy, as she finds herself navigating a complex web of political intrigue and struggling to unite her guardians, who are divided by their loyalties. To complicate matters further, Karin is haunted by visions of an enigmatic man, and the sudden appearance of a second priestess throws her mission into doubt. Can Karin overcome these challenges and save Kyou from destruction? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "64e3a7ca18de252c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.298351621167948,
+    "arithmeticGeometricMean": 6.286287911265307,
+    "median": 6.333333333333333,
+    "hash": "64e3a7ca18de252c",
+    "lastUpdate": "2024-05-09"
+  }
+}

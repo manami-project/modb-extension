@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14090",
+    "https://anilist.co/anime/102288",
+    "https://anime-planet.com/anime/to-the-moon",
+    "https://anisearch.com/anime/13628",
+    "https://kitsu.io/anime/41323",
+    "https://livechart.me/anime/3267",
+    "https://notify.moe/anime/14mvbNDmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8188a4c5f7a4c498",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "8188a4c5f7a4c498",
+    "lastUpdate": "2024-05-11"
+  }
+}

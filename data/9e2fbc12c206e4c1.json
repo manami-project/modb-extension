@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12146",
+    "https://anilist.co/anime/130561",
+    "https://anime-planet.com/anime/xiyue-qi-tong-2006",
+    "https://anisearch.com/anime/12013",
+    "https://kitsu.io/anime/11647",
+    "https://myanimelist.net/anime/32270",
+    "https://notify.moe/anime/VBzqtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e2fbc12c206e4c1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.833024118738404,
+    "arithmeticGeometricMean": 4.816711804173034,
+    "median": 5.0,
+    "hash": "9e2fbc12c206e4c1",
+    "lastUpdate": "2024-05-08"
+  }
+}

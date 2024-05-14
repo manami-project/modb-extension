@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/eating",
+    "https://myanimelist.net/anime/51749"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "122aacef2ab8d19f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.898,
+    "arithmeticGeometricMean": 6.898,
+    "median": 6.898,
+    "hash": "122aacef2ab8d19f",
+    "lastUpdate": "2024-05-06"
+  }
+}

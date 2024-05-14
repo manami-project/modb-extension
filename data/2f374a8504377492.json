@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12924",
+    "https://anilist.co/anime/7512",
+    "https://anime-planet.com/anime/dambo",
+    "https://anisearch.com/anime/5979",
+    "https://kitsu.io/anime/5010",
+    "https://myanimelist.net/anime/7512",
+    "https://notify.moe/anime/5tzkpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2f374a8504377492",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.685409488470713,
+    "arithmeticGeometricMean": 4.641715870387855,
+    "median": 4.84,
+    "hash": "2f374a8504377492",
+    "lastUpdate": "2024-05-08"
+  }
+}

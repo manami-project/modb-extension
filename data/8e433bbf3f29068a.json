@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6971",
+    "https://anilist.co/anime/18063",
+    "https://anime-planet.com/anime/tiger-mask-fuku-men-league-sen",
+    "https://anisearch.com/anime/7143",
+    "https://kitsu.io/anime/9056",
+    "https://myanimelist.net/anime/18063",
+    "https://notify.moe/anime/39z-pFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8e433bbf3f29068a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.078431251288394,
+    "arithmeticGeometricMean": 6.0668092595001735,
+    "median": 6.094545454545454,
+    "hash": "8e433bbf3f29068a",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14713",
+    "https://anime-planet.com/anime/bakutsuri-bar-hunter-movie-nazo-no-bar-code-triangle-bakutsure-shinkaigyo-poseidon",
+    "https://anisearch.com/anime/15038",
+    "https://kitsu.io/anime/42371",
+    "https://livechart.me/anime/9248",
+    "https://myanimelist.net/anime/39412"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8712b4fb247970b1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "8712b4fb247970b1",
+    "lastUpdate": "2024-05-11"
+  }
+}

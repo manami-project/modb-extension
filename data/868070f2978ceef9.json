@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/mah-sect",
+    "https://kitsu.io/anime/43147",
+    "https://myanimelist.net/anime/39171"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "868070f2978ceef9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.531000000000001,
+    "arithmeticGeometricMean": 6.516196140494525,
+    "median": 6.531000000000001,
+    "hash": "868070f2978ceef9",
+    "lastUpdate": "2024-05-07"
+  }
+}

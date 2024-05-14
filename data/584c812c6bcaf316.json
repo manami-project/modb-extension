@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17190",
+    "https://anilist.co/anime/145000",
+    "https://anime-planet.com/anime/zenryoku-usagi-new",
+    "https://anisearch.com/anime/17120",
+    "https://livechart.me/anime/11079",
+    "https://myanimelist.net/anime/50995",
+    "https://notify.moe/anime/2pHGrtZSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "584c812c6bcaf316",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.454545454545454,
+    "arithmeticGeometricMean": 3.454545454545454,
+    "median": 3.454545454545454,
+    "hash": "584c812c6bcaf316",
+    "lastUpdate": "2024-05-10"
+  }
+}

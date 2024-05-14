@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7571",
+    "https://anilist.co/anime/14183",
+    "https://anime-planet.com/anime/aitsu-to-lullaby-suiyobi-no-cinderella",
+    "https://anisearch.com/anime/5613",
+    "https://kitsu.io/anime/7092",
+    "https://myanimelist.net/anime/14183",
+    "https://notify.moe/anime/vskdtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3cbd9b31128a6691",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.744466914038344,
+    "arithmeticGeometricMean": 5.723384265924287,
+    "median": 5.706400742115028,
+    "hash": "3cbd9b31128a6691",
+    "lastUpdate": "2024-05-08"
+  }
+}

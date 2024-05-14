@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10124",
+    "https://anilist.co/anime/18799",
+    "https://anime-planet.com/anime/livetune-take-your-way",
+    "https://anisearch.com/anime/9000",
+    "https://kitsu.io/anime/8775",
+    "https://myanimelist.net/anime/18799",
+    "https://notify.moe/anime/BsCJpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3cb06ed8122c6f69",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.370886474070147,
+    "arithmeticGeometricMean": 6.36803691303672,
+    "median": 6.333333333333333,
+    "hash": "3cb06ed8122c6f69",
+    "lastUpdate": "2024-05-07"
+  }
+}

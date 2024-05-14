@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9792",
+    "https://anilist.co/anime/121835",
+    "https://anime-planet.com/anime/sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix",
+    "https://anisearch.com/anime/8933",
+    "https://kitsu.io/anime/9612",
+    "https://livechart.me/anime/11416",
+    "https://myanimelist.net/anime/27569",
+    "https://notify.moe/anime/4N4LtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0038f34bd1ba099c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.875124304267162,
+    "arithmeticGeometricMean": 5.845342412534663,
+    "median": 5.0,
+    "hash": "0038f34bd1ba099c",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/merci-merci-me-grasshopper-adventures"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73e7d223f3e3fc41",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.772,
+    "arithmeticGeometricMean": 6.772,
+    "median": 6.772,
+    "hash": "73e7d223f3e3fc41",
+    "lastUpdate": "2024-05-08"
+  }
+}

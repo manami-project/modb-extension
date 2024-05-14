@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1676",
+    "https://anilist.co/anime/844",
+    "https://anime-planet.com/anime/zatch-bell-movie-1-101st-devil",
+    "https://anisearch.com/anime/1252",
+    "https://kitsu.io/anime/748",
+    "https://livechart.me/anime/9123",
+    "https://myanimelist.net/anime/844",
+    "https://notify.moe/anime/XAsA5Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5f4f4ad2dbe2b926",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.174349324145242,
+    "arithmeticGeometricMean": 7.172313077328289,
+    "median": 7.181818181818182,
+    "hash": "5f4f4ad2dbe2b926",
+    "lastUpdate": "2024-05-09"
+  }
+}

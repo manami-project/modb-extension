@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1370",
+    "https://anilist.co/anime/3670",
+    "https://anime-planet.com/anime/genesis-climber-mospeada",
+    "https://anisearch.com/anime/3450",
+    "https://kitsu.io/anime/3182",
+    "https://livechart.me/anime/5541",
+    "https://myanimelist.net/anime/3670",
+    "https://notify.moe/anime/J9Sl5Kmmg"
+  ],
+  "synopsis": {
+    "text": "Stig's journey unfolds in the 21st century, a time when humanity, plagued by pollution and overpopulation, has colonized Mars and developed hydrogen fuel called 'HBT' as an alternative to fossil fuels. In 2050, Earth is invaded by enigmatic aliens known as the Invid, forcing the remnants of humanity to seek refuge on the Moon and Mars. The Invid, operating from their main base, Reflex Point, show no hostility towards humans unless provoked and can sense the presence of HBT.\n\nMars Base, now a massive military complex, launches several failed attempts to recapture Earth, with the latest assault led by Lieutenant Stig Bernard in 2083. After a devastating defeat that claims the life of his fiancée, Marlene, Stig crash-lands in South America. Fueled by vengeance, he embarks on a perilous journey to destroy Reflex Point. Along the way, he encounters a diverse group of individuals, each waging their own battles against the Invid. Together, they form a close-knit team of freedom fighters, determined to reclaim their home.\n\nAs the story progresses, it's revealed that the Invid's true purpose for invading Earth is to evolve into more complex beings. However, their actions inadvertently threaten the existence of both humans and Invid. With the help of human-like Invid allies and their transformable mecha, MOSPEADA and Legioss, Stig and his team must convince the Invid's supreme ruler, the Refles, to abandon Earth. The fate of both species rests in their hands as they strive to liberate their home world from the clutches of the Invid.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7e85babac6f0208d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.545095679830374,
+    "arithmeticGeometricMean": 6.516289642982123,
+    "median": 6.7272727272727275,
+    "hash": "7e85babac6f0208d",
+    "lastUpdate": "2024-05-09"
+  }
+}

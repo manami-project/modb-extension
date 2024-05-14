@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11451",
+    "https://anilist.co/anime/20975",
+    "https://anime-planet.com/anime/mattsu-yamma-and-moburi-the-mystery-of-the-seven-gems-and-the-flying-castle",
+    "https://anisearch.com/anime/9986",
+    "https://kitsu.io/anime/9960",
+    "https://myanimelist.net/anime/27949",
+    "https://notify.moe/anime/GgTEtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a53a440d1d57594",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.93799628942486,
+    "arithmeticGeometricMean": 4.925575950043591,
+    "median": 4.904090909090909,
+    "hash": "8a53a440d1d57594",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2512",
+    "https://anilist.co/anime/613",
+    "https://anime-planet.com/anime/onmyou-taisenki",
+    "https://anisearch.com/anime/1300",
+    "https://kitsu.io/anime/568",
+    "https://livechart.me/anime/6451",
+    "https://myanimelist.net/anime/613",
+    "https://notify.moe/anime/PFqTcKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "756ec8e75a53c485",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.657318844420885,
+    "arithmeticGeometricMean": 6.642378409839878,
+    "median": 6.746,
+    "hash": "756ec8e75a53c485",
+    "lastUpdate": "2024-05-09"
+  }
+}

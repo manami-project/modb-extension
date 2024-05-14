@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7724",
+    "https://anilist.co/anime/17313",
+    "https://anime-planet.com/anime/pro-golfer-saru",
+    "https://anisearch.com/anime/5617",
+    "https://kitsu.io/anime/7636",
+    "https://livechart.me/anime/12212",
+    "https://myanimelist.net/anime/17313",
+    "https://notify.moe/anime/HuactKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5390afb4ba613204",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.212768089053803,
+    "arithmeticGeometricMean": 5.1613340579541775,
+    "median": 4.710204081632653,
+    "hash": "5390afb4ba613204",
+    "lastUpdate": "2024-05-09"
+  }
+}

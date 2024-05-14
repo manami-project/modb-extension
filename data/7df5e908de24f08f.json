@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/doraemon-1979-special-5-dora-q-perman"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7df5e908de24f08f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.194,
+    "arithmeticGeometricMean": 7.194,
+    "median": 7.194,
+    "hash": "7df5e908de24f08f",
+    "lastUpdate": "2024-05-08"
+  }
+}

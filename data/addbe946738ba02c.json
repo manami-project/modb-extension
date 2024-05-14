@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/kodansha-morning-cm",
+    "https://kitsu.io/anime/43293"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "addbe946738ba02c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.27,
+    "arithmeticGeometricMean": 5.27,
+    "median": 5.27,
+    "hash": "addbe946738ba02c",
+    "lastUpdate": "2024-05-07"
+  }
+}

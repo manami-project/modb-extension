@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8065",
+    "https://anilist.co/anime/11729",
+    "https://anime-planet.com/anime/space-neko-theater",
+    "https://anisearch.com/anime/6646",
+    "https://kitsu.io/anime/6576",
+    "https://myanimelist.net/anime/11729",
+    "https://notify.moe/anime/GTwItKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "efd015a3890886bc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.135217775421856,
+    "arithmeticGeometricMean": 5.1125072547397945,
+    "median": 5.29,
+    "hash": "efd015a3890886bc",
+    "lastUpdate": "2024-05-08"
+  }
+}

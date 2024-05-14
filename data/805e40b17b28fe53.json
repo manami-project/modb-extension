@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/99883",
+    "https://anime-planet.com/anime/hetalia-the-world-twinkle-specials",
+    "https://anisearch.com/anime/14199",
+    "https://kitsu.io/anime/11274",
+    "https://livechart.me/anime/1817",
+    "https://myanimelist.net/anime/31158",
+    "https://notify.moe/anime/6znrtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "805e40b17b28fe53",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.173598845598846,
+    "arithmeticGeometricMean": 7.169667100547813,
+    "median": 7.1,
+    "hash": "805e40b17b28fe53",
+    "lastUpdate": "2024-05-06"
+  }
+}

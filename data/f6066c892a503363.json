@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2147",
+    "https://anilist.co/anime/546",
+    "https://anime-planet.com/anime/wind-a-breath-of-heart",
+    "https://anisearch.com/anime/2976",
+    "https://kitsu.io/anime/504",
+    "https://livechart.me/anime/5893",
+    "https://myanimelist.net/anime/546",
+    "https://notify.moe/anime/2Sfo5Fmmg"
+  ],
+  "synopsis": {
+    "text": "He returns to his hometown of Kazune, a place known for its supernatural powers and mysterious disappearances, after years of separation. Makoto, along with his sister Hinata, is reunited with his childhood friend, Narukaze Minamo, under the enchanting melody of a harmonica. As children, they made a promise to each other, sealed with a harmonica, that they would one day marry. Now, as they navigate the complexities of high school alongside friends like Tachibana Tsutomu and Shikouin Kasumi, they find themselves entangled in the secrets of their town. As they spend their days together, the group of friends begins to unravel the hidden truths behind the inexplicable events that have touched their lives, all while trying to keep their true feelings hidden. Their journey in this captivating and enigmatic town is just beginning.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f6066c892a503363",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.966536443148688,
+    "arithmeticGeometricMean": 5.959328144678058,
+    "median": 6.04,
+    "hash": "f6066c892a503363",
+    "lastUpdate": "2024-05-10"
+  }
+}

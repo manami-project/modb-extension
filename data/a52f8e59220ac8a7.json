@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17853",
+    "https://anilist.co/anime/121514",
+    "https://anime-planet.com/anime/dali-si-rizhi-2nd-season",
+    "https://kitsu.io/anime/45489",
+    "https://myanimelist.net/anime/50240"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a52f8e59220ac8a7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.367272727272727,
+    "arithmeticGeometricMean": 7.367014257712937,
+    "median": 7.367272727272727,
+    "hash": "a52f8e59220ac8a7",
+    "lastUpdate": "2024-05-08"
+  }
+}

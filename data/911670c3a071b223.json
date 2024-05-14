@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9116",
+    "https://anime-planet.com/anime/kankou-taisen-saitama-sakutya-no-tatakai",
+    "https://anisearch.com/anime/8059",
+    "https://kitsu.io/anime/10819",
+    "https://myanimelist.net/anime/30435",
+    "https://notify.moe/anime/14IltFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "911670c3a071b223",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.6618673469387755,
+    "arithmeticGeometricMean": 4.5608455832906865,
+    "median": 4.59,
+    "hash": "911670c3a071b223",
+    "lastUpdate": "2024-05-08"
+  }
+}

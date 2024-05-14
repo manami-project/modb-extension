@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13858",
+    "https://anime-planet.com/anime/neko-konogoro",
+    "https://kitsu.io/anime/12288",
+    "https://livechart.me/anime/9486",
+    "https://myanimelist.net/anime/33398",
+    "https://notify.moe/anime/MPug2FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2e84cd4484daea47",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.091,
+    "arithmeticGeometricMean": 6.041647274908188,
+    "median": 6.091,
+    "hash": "2e84cd4484daea47",
+    "lastUpdate": "2024-05-09"
+  }
+}

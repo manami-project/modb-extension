@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9446",
+    "https://anilist.co/anime/15651",
+    "https://anime-planet.com/anime/phi-brain-puzzle-of-god-3",
+    "https://anisearch.com/anime/8113",
+    "https://kitsu.io/anime/7288",
+    "https://livechart.me/anime/109",
+    "https://myanimelist.net/anime/15651",
+    "https://notify.moe/anime/JgzFpFiiR"
+  ],
+  "synopsis": {
+    "text": "Kaito, a high school student with a passion for puzzles, embarks on a mission to restore the memory of his childhood mentor, Jin Makata. Along with his friends, he journeys to England, exploring an underground maze beneath a church, a place that holds significant memories for Kaito, Rook, and Jin. However, their adventure takes an unexpected turn when a mysterious girl named Raetsel appears, seemingly familiar with Jin. Raetsel's sudden disappearance with Jin triggers the maze's traps, putting Kaito and his friends in danger.\n\nMeanwhile, Raetsel's revelation about Jin's past adds another layer of complexity to their mission. She claims that Jin, despite Kaito's beliefs, hated puzzles and established an organization called Master Brain to eliminate them. As Kaito and his friends face challenges from Master Brain members, they must also unravel the mystery surrounding Jin's true feelings about puzzles.\n\nThis story is set against the backdrop of Kaito's involvement with 'PHI BRAIN,' a group dedicated to solving life-threatening 'philosopher's puzzles' created by the enigmatic group P.O.G. (Puzzle Of God). As Kaito and his fellow Solvers navigate these challenges, they find themselves drawn into a larger conflict involving the Orpheus Order and Master Brain, with Jin's memories and the fate of puzzles in the world at stake.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cdfb3fe2709837d2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.1403627087198505,
+    "arithmeticGeometricMean": 7.134059308250921,
+    "median": 7.261632653061223,
+    "hash": "cdfb3fe2709837d2",
+    "lastUpdate": "2024-05-09"
+  }
+}

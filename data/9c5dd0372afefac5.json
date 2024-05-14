@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13938",
+    "https://anilist.co/anime/102646",
+    "https://anime-planet.com/anime/samurai-noodles-the-originator",
+    "https://anisearch.com/anime/15465",
+    "https://kitsu.io/anime/12608",
+    "https://myanimelist.net/anime/33734",
+    "https://notify.moe/anime/xHHm2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9c5dd0372afefac5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.241575404187649,
+    "arithmeticGeometricMean": 6.225787777344511,
+    "median": 6.2727272727272725,
+    "hash": "9c5dd0372afefac5",
+    "lastUpdate": "2024-05-08"
+  }
+}

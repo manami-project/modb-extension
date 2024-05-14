@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10573",
+    "https://anilist.co/anime/136169",
+    "https://anime-planet.com/anime/gisoku-no-moses",
+    "https://anisearch.com/anime/9607",
+    "https://kitsu.io/anime/8449",
+    "https://myanimelist.net/anime/42104",
+    "https://notify.moe/anime/115ApFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "994e934aa9d98776",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.895045832474405,
+    "arithmeticGeometricMean": 6.889037080916037,
+    "median": 6.968,
+    "hash": "994e934aa9d98776",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11764",
+    "https://anilist.co/anime/21477",
+    "https://anime-planet.com/anime/show-by-rock-short",
+    "https://anisearch.com/anime/11098",
+    "https://kitsu.io/anime/11493",
+    "https://livechart.me/anime/1918",
+    "https://myanimelist.net/anime/32039",
+    "https://notify.moe/anime/2MFjtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7c138fb026735708",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.333014160209538,
+    "arithmeticGeometricMean": 6.318046562524285,
+    "median": 6.362272727272727,
+    "hash": "7c138fb026735708",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9083",
+    "https://anilist.co/anime/14629",
+    "https://anime-planet.com/anime/starship-troopers-invasion",
+    "https://anisearch.com/anime/7691",
+    "https://kitsu.io/anime/7144",
+    "https://livechart.me/anime/1061",
+    "https://myanimelist.net/anime/14629",
+    "https://notify.moe/anime/XDOOtFimR"
+  ],
+  "synopsis": {
+    "text": "Daughtery’s unit aboard the fast attack ship Alesia is dispatched to the distant Federation outpost Fort Casey, which is under siege by hostile extraterrestrial arachnids. Their mission is to evacuate the survivors and the Starship John A. Warden, safeguarding crucial military intelligence. However, the mission takes a mysterious turn when Carl Jenkins, the head of the Ministry of Paranormal Warfare, commandeers the John A. Warden for a secret operation and vanishes in a nebula. As the battle-hardened troopers embark on a daring rescue mission, they uncover a far more ominous threat lurking in the shadows, one that could jeopardize the very existence of Earth. Accompanied by Captain Carmen Ibanez, the squad must navigate treacherous encounters with the alien bugs, as they race against time to save humanity from an impending catastrophe.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ffab299406b4942e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.5374344023323605,
+    "arithmeticGeometricMean": 6.533303316807784,
+    "median": 6.60204081632653,
+    "hash": "ffab299406b4942e",
+    "lastUpdate": "2024-05-10"
+  }
+}

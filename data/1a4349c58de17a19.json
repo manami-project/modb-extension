@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7171",
+    "https://anime-planet.com/anime/yosan-seiji",
+    "https://anisearch.com/anime/9393",
+    "https://kitsu.io/anime/48517",
+    "https://myanimelist.net/anime/49253"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1a4349c58de17a19",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.571428571428571,
+    "arithmeticGeometricMean": 3.571428571428571,
+    "median": 3.571428571428571,
+    "hash": "1a4349c58de17a19",
+    "lastUpdate": "2024-05-07"
+  }
+}

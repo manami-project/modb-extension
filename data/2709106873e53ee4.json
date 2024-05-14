@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11121",
+    "https://anilist.co/anime/21338",
+    "https://anime-planet.com/anime/triage-x-recollection-xoxo",
+    "https://anisearch.com/anime/10436",
+    "https://kitsu.io/anime/10842",
+    "https://livechart.me/anime/1429",
+    "https://myanimelist.net/anime/30250",
+    "https://notify.moe/anime/NROlpKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2709106873e53ee4",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.607589156874871,
+    "arithmeticGeometricMean": 6.600171264124765,
+    "median": 6.527777777777778,
+    "hash": "2709106873e53ee4",
+    "lastUpdate": "2024-05-10"
+  }
+}

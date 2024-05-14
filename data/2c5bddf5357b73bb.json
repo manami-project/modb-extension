@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14657",
+    "https://anilist.co/anime/109149",
+    "https://anime-planet.com/anime/qing-chi-hong-xiaodou-ba-di-er-ji",
+    "https://anisearch.com/anime/14190",
+    "https://kitsu.io/anime/48223",
+    "https://livechart.me/anime/10033",
+    "https://myanimelist.net/anime/39230",
+    "https://notify.moe/anime/N6SMtSMMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2c5bddf5357b73bb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.009858998144711,
+    "arithmeticGeometricMean": 5.9986021018379265,
+    "median": 5.903636363636364,
+    "hash": "2c5bddf5357b73bb",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/568",
+    "https://anilist.co/anime/909",
+    "https://anime-planet.com/anime/geneshaft",
+    "https://anisearch.com/anime/1373",
+    "https://kitsu.io/anime/809",
+    "https://livechart.me/anime/5297",
+    "https://myanimelist.net/anime/909",
+    "https://notify.moe/anime/ROiJ5FiiR"
+  ],
+  "synopsis": {
+    "text": "Five women, genetically engineered for specific skills, embark on a mission to investigate a colossal alien ring that has appeared in Earth's orbit in the 23rd century. In a world where genetic manipulation has replaced evolution and love has been eradicated, women outnumber men nine to one to maintain a stable, totalitarian society. The mysterious ring, which relays information back to an alien race, becomes a threat when terrorists infiltrate the mission, causing an explosion that nearly kills the mission's leader, Mir Lotus. In retaliation, the ring fires a powerful energy beam that destroys a significant portion of Earth and damages the space station Maracanan. The elite group, including Mika Seido, Sofia Galgalim, Tiki Musicanova, and Mario Musicanova, narrowly escape to board the newly constructed warship, the I.E.O. Bilkis, equipped with a prototype weapon known as The Shaft. Under Captain Hiroto Amagiwa's command, these four and Mir are the only qualified candidates to pilot The Shaft and uncover the ring's origins to protect humanity from further destruction.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "85848630e5bd5136",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.093212297906176,
+    "arithmeticGeometricMean": 6.080630213677389,
+    "median": 6.15,
+    "hash": "85848630e5bd5136",
+    "lastUpdate": "2024-05-09"
+  }
+}

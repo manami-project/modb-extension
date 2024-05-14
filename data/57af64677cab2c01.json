@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/387",
+    "https://anilist.co/anime/106",
+    "https://anime-planet.com/anime/boys-over-flowers",
+    "https://anisearch.com/anime/2151",
+    "https://kitsu.io/anime/85",
+    "https://livechart.me/anime/5223",
+    "https://myanimelist.net/anime/106",
+    "https://notify.moe/anime/aCAtcFimR"
+  ],
+  "synopsis": {
+    "text": "Makino Tsukushi, a bright yet impoverished student, finds herself navigating the opulent halls of Eitoku Academy, a prestigious school catering to the elite and affluent. Her humble background sets her apart from her privileged peers, but her resilience and intelligence keep her afloat amidst the school's wealth and glamour.\n\nOne fateful day, Tsukushi finds herself at odds with the F4, an influential clique comprising the heirs to Japan's wealthiest families. Refusing to bow down to their intimidation tactics, Tsukushi becomes the target of their wrath, turning her school life into a tumultuous battlefield.\n\nHowever, as she stands her ground against the F4, Tsukushi discovers that there is more to these privileged boys than meets the eye. As she becomes entangled in their world, she finds herself drawn to two members of the F4, igniting a whirlwind of emotions and complicating her already challenging school life. Caught between two hearts, Tsukushi must navigate the complexities of love, friendship, and power in her quest for happiness and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "57af64677cab2c01",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.348712430426716,
+    "arithmeticGeometricMean": 7.334807418372616,
+    "median": 7.606122448979591,
+    "hash": "57af64677cab2c01",
+    "lastUpdate": "2024-05-09"
+  }
+}

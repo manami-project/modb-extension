@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/20536",
+    "https://anime-planet.com/anime/taisei-kensetsu-sri-lanka-kousokudouro",
+    "https://anisearch.com/anime/9255",
+    "https://kitsu.io/anime/8430",
+    "https://notify.moe/anime/35OAtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dffa6d4ea787f7bb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.110242836528551,
+    "arithmeticGeometricMean": 6.105729256005794,
+    "median": 6.0,
+    "hash": "dffa6d4ea787f7bb",
+    "lastUpdate": "2024-05-07"
+  }
+}

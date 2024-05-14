@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/5-fun-de-wakaru-violet-evergarden",
+    "https://anisearch.com/anime/17792",
+    "https://kitsu.io/anime/45331",
+    "https://notify.moe/anime/1G8lcKFnR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ccc385c1a5d76816",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.283322820037105,
+    "arithmeticGeometricMean": 7.261496562199215,
+    "median": 7.588918367346938,
+    "hash": "ccc385c1a5d76816",
+    "lastUpdate": "2024-05-05"
+  }
+}

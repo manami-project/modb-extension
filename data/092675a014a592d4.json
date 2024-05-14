@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14818",
+    "https://anilist.co/anime/21809",
+    "https://anime-planet.com/anime/gra-p-and-rodeo",
+    "https://anisearch.com/anime/11681",
+    "https://kitsu.io/anime/9838",
+    "https://livechart.me/anime/3277",
+    "https://myanimelist.net/anime/27521",
+    "https://notify.moe/anime/YDzEtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "092675a014a592d4",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.320964749536178,
+    "arithmeticGeometricMean": 5.297238770206578,
+    "median": 5.0,
+    "hash": "092675a014a592d4",
+    "lastUpdate": "2024-05-09"
+  }
+}

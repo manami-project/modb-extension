@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4694",
+    "https://anilist.co/anime/4052",
+    "https://anime-planet.com/anime/medabots-damashii",
+    "https://anisearch.com/anime/3831",
+    "https://kitsu.io/anime/3432",
+    "https://livechart.me/anime/7670",
+    "https://myanimelist.net/anime/4052",
+    "https://notify.moe/anime/PfiXcFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "839db687c24368f5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.34267179079424,
+    "arithmeticGeometricMean": 6.325998248616546,
+    "median": 6.636363636363637,
+    "hash": "839db687c24368f5",
+    "lastUpdate": "2024-05-09"
+  }
+}

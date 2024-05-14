@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9538",
+    "https://anilist.co/anime/17237",
+    "https://anime-planet.com/anime/peeping-life-world-history",
+    "https://anisearch.com/anime/8502",
+    "https://kitsu.io/anime/7614",
+    "https://livechart.me/anime/6919",
+    "https://myanimelist.net/anime/17237",
+    "https://notify.moe/anime/jdJctKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "07affcb45559f8ea",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.957897959183673,
+    "arithmeticGeometricMean": 4.917908039074988,
+    "median": 5.0,
+    "hash": "07affcb45559f8ea",
+    "lastUpdate": "2024-05-09"
+  }
+}

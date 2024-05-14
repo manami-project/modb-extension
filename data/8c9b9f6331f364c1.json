@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/119454",
+    "https://anime-planet.com/anime/town-workers",
+    "https://anisearch.com/anime/11822",
+    "https://kitsu.io/anime/13106",
+    "https://myanimelist.net/anime/34757",
+    "https://notify.moe/anime/qCNM2Kimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8c9b9f6331f364c1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.8059510204081635,
+    "arithmeticGeometricMean": 5.786742716932347,
+    "median": 5.187755102040816,
+    "hash": "8c9b9f6331f364c1",
+    "lastUpdate": "2024-05-06"
+  }
+}

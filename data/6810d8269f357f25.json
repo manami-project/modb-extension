@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8872",
+    "https://anilist.co/anime/13029",
+    "https://anime-planet.com/anime/arashi-no-yoru-ni-himitsu-no-tomodachi",
+    "https://anisearch.com/anime/7613",
+    "https://kitsu.io/anime/6868",
+    "https://myanimelist.net/anime/13029",
+    "https://notify.moe/anime/OJivtKmmg"
+  ],
+  "synopsis": {
+    "text": "Baku Enterprise, Sparky Animation, Duckbill Entertainment, and Bandai Visual join forces to present a heartwarming anime adaptation of Kimura Yuuichi's beloved children's book, \"Arashi no Yoru ni\" (One Stormy Night). The series follows the unconventional friendship between Mei, a lively young goat, and Gabu, a brave wolf, as they embark on thrilling adventures together. Despite their natural roles as predator and prey, Mei and Gabu defy the odds and form an unbreakable bond, proving that true friendship knows no bounds. As they navigate through their escapades, the two friends must conceal their camaraderie from their respective tribes. The story unfolds as a testament to the power of friendship, showing that even the most unlikely of pairs can forge deep connections when guided by courage and love. Will Mei and Gabu's extraordinary bond withstand the challenges that lie ahead? Join them on their journey and discover the true meaning of friendship.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6810d8269f357f25",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.162535382984363,
+    "arithmeticGeometricMean": 6.1485617206735945,
+    "median": 6.244,
+    "hash": "6810d8269f357f25",
+    "lastUpdate": "2024-05-08"
+  }
+}

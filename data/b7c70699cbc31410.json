@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21863",
+    "https://anime-planet.com/anime/petit-gargantia-special-project",
+    "https://anisearch.com/anime/14562",
+    "https://kitsu.io/anime/8592",
+    "https://livechart.me/anime/6253",
+    "https://myanimelist.net/anime/23099",
+    "https://notify.moe/anime/aagJtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b7c70699cbc31410",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.064583178726036,
+    "arithmeticGeometricMean": 6.060146848835852,
+    "median": 6.005,
+    "hash": "b7c70699cbc31410",
+    "lastUpdate": "2024-05-06"
+  }
+}

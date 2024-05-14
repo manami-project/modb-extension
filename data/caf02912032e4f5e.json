@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/158669",
+    "https://anime-planet.com/anime/rico-sasaki-psycho",
+    "https://kitsu.io/anime/46854",
+    "https://myanimelist.net/anime/53901"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "caf02912032e4f5e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.927575757575759,
+    "arithmeticGeometricMean": 6.922948818384376,
+    "median": 7.07,
+    "hash": "caf02912032e4f5e",
+    "lastUpdate": "2024-05-07"
+  }
+}

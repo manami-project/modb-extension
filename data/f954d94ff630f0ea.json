@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13352",
+    "https://anilist.co/anime/99656",
+    "https://anime-planet.com/anime/si-ling-bianma-zhi-shijie-caozong-zhe",
+    "https://anisearch.com/anime/9456",
+    "https://kitsu.io/anime/12421",
+    "https://livechart.me/anime/7401",
+    "https://myanimelist.net/anime/33508",
+    "https://notify.moe/anime/QE5z2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f954d94ff630f0ea",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.7974476543864295,
+    "arithmeticGeometricMean": 4.649255830812954,
+    "median": 5.090909090909091,
+    "hash": "f954d94ff630f0ea",
+    "lastUpdate": "2024-05-10"
+  }
+}

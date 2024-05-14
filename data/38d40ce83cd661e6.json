@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6027",
+    "https://anilist.co/anime/9882",
+    "https://anime-planet.com/anime/high-school-mystery-gakuen-nanafushigi",
+    "https://anisearch.com/anime/5005",
+    "https://kitsu.io/anime/5919",
+    "https://myanimelist.net/anime/9882",
+    "https://notify.moe/anime/k4XMpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "38d40ce83cd661e6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.045269635126779,
+    "arithmeticGeometricMean": 6.016707485026986,
+    "median": 5.772727272727273,
+    "hash": "38d40ce83cd661e6",
+    "lastUpdate": "2024-05-07"
+  }
+}

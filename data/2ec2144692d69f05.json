@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/724",
+    "https://livechart.me/anime/6281",
+    "https://myanimelist.net/anime/1428"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2ec2144692d69f05",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.063571428571429,
+    "arithmeticGeometricMean": 6.059696916853818,
+    "median": 6.063571428571429,
+    "hash": "2ec2144692d69f05",
+    "lastUpdate": "2024-05-09"
+  }
+}

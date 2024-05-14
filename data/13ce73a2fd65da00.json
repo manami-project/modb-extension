@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6494",
+    "https://anilist.co/anime/5032",
+    "https://anime-planet.com/anime/cobra-the-animation",
+    "https://anisearch.com/anime/5169",
+    "https://kitsu.io/anime/3895",
+    "https://livechart.me/anime/6669",
+    "https://myanimelist.net/anime/5032",
+    "https://notify.moe/anime/ciE9cFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "13ce73a2fd65da00",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.745170244721265,
+    "arithmeticGeometricMean": 6.738370792935987,
+    "median": 6.81,
+    "hash": "13ce73a2fd65da00",
+    "lastUpdate": "2024-05-09"
+  }
+}

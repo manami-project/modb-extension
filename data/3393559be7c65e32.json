@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/828",
+    "https://anilist.co/anime/599",
+    "https://anime-planet.com/anime/phantom-quest-corp",
+    "https://anisearch.com/anime/691",
+    "https://kitsu.io/anime/554",
+    "https://livechart.me/anime/7579",
+    "https://myanimelist.net/anime/599",
+    "https://notify.moe/anime/tpro5KiiR"
+  ],
+  "synopsis": {
+    "text": "From the bustling streets of Tokyo to the eerie shadows of the night, Ayaka Kisaragi and her team at Phantom Quest Corporation are the city's ultimate defense against the supernatural! From bloodthirsty vampires to restless spirits, no paranormal menace is too great for this stylish crew. But while Ayaka's skills as a hunter are top-notch, her business savvy leaves something to be desired. With a penchant for partying and a tendency to sleep in, Ayaka must rely on her quirky team and a trusty laser sword disguised as lipstick to keep the city safe and her company afloat. As the sole ghost corp in a sea of subdivisions and corporations, Phantom Quest Corp is always up for the challenge, even if their bank account isn't. Join Ayaka and her team as they take on the supernatural with flair, style, and maybe just a touch of recklessness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3393559be7c65e32",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.4195001325205405,
+    "arithmeticGeometricMean": 6.411362313481698,
+    "median": 6.5,
+    "hash": "3393559be7c65e32",
+    "lastUpdate": "2024-05-10"
+  }
+}

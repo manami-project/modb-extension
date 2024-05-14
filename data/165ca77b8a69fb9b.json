@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4676",
+    "https://anilist.co/anime/2614",
+    "https://anime-planet.com/anime/mirai-shounen-conan-kyodaiki-gigant-no-fukkatsu",
+    "https://anisearch.com/anime/3808",
+    "https://kitsu.io/anime/2378",
+    "https://livechart.me/anime/8863",
+    "https://myanimelist.net/anime/2614",
+    "https://notify.moe/anime/wQ5ycKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "165ca77b8a69fb9b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.45178107606679,
+    "arithmeticGeometricMean": 6.424694084825059,
+    "median": 6.636363636363637,
+    "hash": "165ca77b8a69fb9b",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15929",
+    "https://anilist.co/anime/128215",
+    "https://anime-planet.com/anime/hokuren-animation-from-north-field",
+    "https://anisearch.com/anime/14943",
+    "https://myanimelist.net/anime/53893"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f89d19fd4bc7b4db",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.821545454545454,
+    "arithmeticGeometricMean": 5.785513234409714,
+    "median": 5.821545454545454,
+    "hash": "f89d19fd4bc7b4db",
+    "lastUpdate": "2024-05-08"
+  }
+}

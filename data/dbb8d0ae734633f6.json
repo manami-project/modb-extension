@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10623",
+    "https://anilist.co/anime/20713",
+    "https://anime-planet.com/anime/persona-4-the-golden-animation",
+    "https://anisearch.com/anime/9640",
+    "https://kitsu.io/anime/8458",
+    "https://livechart.me/anime/541",
+    "https://myanimelist.net/anime/24075",
+    "https://notify.moe/anime/c4tApFmmR"
+  ],
+  "synopsis": {
+    "text": "From the serene countryside to the unfolding mysteries, join Yu Narukami as he embarks on a life-changing journey in the quaint town of Yaso Inaba. With the arrival of spring and cherry blossoms in full bloom, Yu moves in with his uncle and begins attending Yasogami High School. As he navigates through his newfound school life and local hangouts, a series of unsettling events unfold.\n\nA string of murders rocks the once peaceful town, and the enigmatic Midnight Channel begins to air late at night. Amidst these strange occurrences, Yu discovers the power of his heart manifested as a Persona. Together with his new friends and the enigmatic Marie, a Velvet Room resident with no recollection of her past, Yu must unravel the mysteries surrounding the town and prevent further violence.\n\nAs the year progresses, Yu and Marie must navigate their complex relationship while dealing with the horrifying events that threaten their world. Will they uncover the truth behind the murders and Marie's lost memories, or will the darkness consume them? Only time will tell in this thrilling tale of friendship, mystery, and self-discovery.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dbb8d0ae734633f6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.739771232735519,
+    "arithmeticGeometricMean": 6.733040315315188,
+    "median": 6.741,
+    "hash": "dbb8d0ae734633f6",
+    "lastUpdate": "2024-05-09"
+  }
+}

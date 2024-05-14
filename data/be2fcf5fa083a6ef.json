@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8210",
+    "https://anilist.co/anime/10161",
+    "https://anime-planet.com/anime/no-6",
+    "https://anisearch.com/anime/6824",
+    "https://kitsu.io/anime/6059",
+    "https://livechart.me/anime/1223",
+    "https://myanimelist.net/anime/10161",
+    "https://notify.moe/anime/xlo7tFiiR"
+  ],
+  "synopsis": {
+    "text": "Four years have passed since Shion, a former elite of the utopian city-state No. 6, took in a mysterious boy named Nezumi, or \"Rat,\" for a night. This act of kindness led to Shion's downfall, as he and his mother were stripped of their privileges and relocated to the outskirts of the city. Now, after a series of mysterious deaths and Shion's subsequent arrest, Nezumi reappears to save him. Together, they embark on a perilous journey to uncover the dark secrets hidden beneath the surface of their supposedly perfect city. As they delve deeper into the conspiracy, Shion and Nezumi must confront the shocking truth about No. 6 and fight for their survival in a world that is far from perfect.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "be2fcf5fa083a6ef",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.36907239585811,
+    "arithmeticGeometricMean": 7.3629164885091045,
+    "median": 7.532727272727273,
+    "hash": "be2fcf5fa083a6ef",
+    "lastUpdate": "2024-05-09"
+  }
+}

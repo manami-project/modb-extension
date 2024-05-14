@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3628",
+    "https://anilist.co/anime/7625",
+    "https://anime-planet.com/anime/yousei-dick",
+    "https://anisearch.com/anime/861",
+    "https://kitsu.io/anime/5058",
+    "https://myanimelist.net/anime/7625",
+    "https://notify.moe/anime/zTIzpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "849449e47fb157a0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.661034322820036,
+    "arithmeticGeometricMean": 4.623708263489361,
+    "median": 4.727272727272727,
+    "hash": "849449e47fb157a0",
+    "lastUpdate": "2024-05-08"
+  }
+}

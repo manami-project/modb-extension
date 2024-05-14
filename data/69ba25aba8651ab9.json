@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15379",
+    "https://anilist.co/anime/106923",
+    "https://anime-planet.com/anime/tokimeki-runners",
+    "https://anisearch.com/anime/14951",
+    "https://kitsu.io/anime/42981",
+    "https://myanimelist.net/anime/39944"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "69ba25aba8651ab9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.7998806431663565,
+    "arithmeticGeometricMean": 6.794570938036101,
+    "median": 6.827999999999999,
+    "hash": "69ba25aba8651ab9",
+    "lastUpdate": "2024-05-07"
+  }
+}

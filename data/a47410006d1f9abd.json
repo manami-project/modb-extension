@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13692",
+    "https://anime-planet.com/anime/watakushi-tachi-no-hounen-sama",
+    "https://anisearch.com/anime/14522"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a47410006d1f9abd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "a47410006d1f9abd",
+    "lastUpdate": "2024-05-11"
+  }
+}

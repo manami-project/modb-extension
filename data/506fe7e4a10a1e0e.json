@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9107",
+    "https://anilist.co/anime/15731",
+    "https://anime-planet.com/anime/tamayura-more-aggressive",
+    "https://anisearch.com/anime/7713",
+    "https://kitsu.io/anime/7299",
+    "https://livechart.me/anime/34",
+    "https://myanimelist.net/anime/15731",
+    "https://notify.moe/anime/LQiFpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "506fe7e4a10a1e0e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.530177585807051,
+    "arithmeticGeometricMean": 7.528464824517389,
+    "median": 7.600625,
+    "hash": "506fe7e4a10a1e0e",
+    "lastUpdate": "2024-05-10"
+  }
+}

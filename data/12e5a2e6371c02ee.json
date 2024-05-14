@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/349",
+    "https://anilist.co/anime/536",
+    "https://anime-planet.com/anime/slayers-the-motion-picture",
+    "https://anisearch.com/anime/678",
+    "https://kitsu.io/anime/495",
+    "https://livechart.me/anime/5109",
+    "https://myanimelist.net/anime/536",
+    "https://notify.moe/anime/mz-T5KmmR"
+  ],
+  "synopsis": {
+    "text": "Lina’s travels bring her to the elusive Mipross Island, accompanied by her rival and fellow sorceress, Naga the Serpent. The island, once home to a thriving elf community, is now famed for its rejuvenating hot springs. However, their quest for relaxation takes a turn when they discover that the hot springs are a sham, and the island is under the control of a sinister force. As they delve deeper, they uncover a dark conspiracy involving a powerful mazoku named Joyrock, who had previously wiped out the island's elves and absorbed their powers.\n\nJoined by an elderly mage, Rowdy Gabriev, who has a personal vendetta against Joyrock, the trio sets out to defeat the mazoku and restore peace to Mipross Island. As they navigate through treacherous bandits, mysterious jellyfish, and a strange frog creature, Lina and Naga must also confront their own rivalry and work together to defeat the evil that threatens the island and its inhabitants.\n\nWith the fate of Mipross Island hanging in the balance, Lina and Naga must use their powerful magic and cunning wit to defeat Joyrock and restore the island to its former glory. Will they succeed, or will the dark forces prove too powerful for even these legendary sorceresses to handle? Only time will tell in this thrilling prequel to the Slayers television series.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "12e5a2e6371c02ee",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.223173469387754,
+    "arithmeticGeometricMean": 7.219833197933333,
+    "median": 7.235909090909091,
+    "hash": "12e5a2e6371c02ee",
+    "lastUpdate": "2024-05-10"
+  }
+}

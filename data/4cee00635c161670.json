@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13286",
+    "https://anilist.co/anime/99540",
+    "https://anime-planet.com/anime/the-seven-deadly-sins-movie-prisoners-of-the-sky",
+    "https://anisearch.com/anime/12633",
+    "https://kitsu.io/anime/13647",
+    "https://livechart.me/anime/2796",
+    "https://myanimelist.net/anime/35946",
+    "https://notify.moe/anime/IBLV2Fiig"
+  ],
+  "synopsis": {
+    "text": "The Seven Deadly Sins embark on a quest to find the elusive 'sky fish' ingredient, leading them to a distant land above the clouds known as Sky Palace, where its winged inhabitants reside. Meliodas and Hawk find themselves in a predicament when Meliodas is imprisoned for being mistaken as a criminal. As the Sky Palace prepares for a ceremony to protect themselves from a beast that awakens every 3,000 years, the Six Knights of Black, a Demon Clan army, intervene and unseal the beast to threaten the lives of the Sky Palace residents. With chaos ensuing, Meliodas and his allies must face off against the Six Knights of Black to save the Sky People and defeat the resurrected beast.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4cee00635c161670",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.557619202226345,
+    "arithmeticGeometricMean": 7.5514590205907615,
+    "median": 7.668701298701299,
+    "hash": "4cee00635c161670",
+    "lastUpdate": "2024-05-09"
+  }
+}

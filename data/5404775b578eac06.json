@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17326",
+    "https://anilist.co/anime/148819",
+    "https://anime-planet.com/anime/nanaraki-seven-lucky-gods",
+    "https://anisearch.com/anime/17338",
+    "https://kitsu.io/anime/47087",
+    "https://myanimelist.net/anime/51766"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5404775b578eac06",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.156063079777366,
+    "arithmeticGeometricMean": 5.145771124439448,
+    "median": 4.969489795918367,
+    "hash": "5404775b578eac06",
+    "lastUpdate": "2024-05-08"
+  }
+}

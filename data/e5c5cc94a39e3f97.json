@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/136664",
+    "https://anime-planet.com/anime/pikasonic-and-tatsunoshin-lockdown",
+    "https://anisearch.com/anime/16523",
+    "https://kitsu.io/anime/44966",
+    "https://myanimelist.net/anime/50125"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5c5cc94a39e3f97",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.476280766852194,
+    "arithmeticGeometricMean": 6.472578712167959,
+    "median": 6.545454545454545,
+    "hash": "e5c5cc94a39e3f97",
+    "lastUpdate": "2024-05-06"
+  }
+}

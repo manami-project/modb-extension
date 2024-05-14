@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13008",
+    "https://anime-planet.com/anime/kuroi-hitomi",
+    "https://kitsu.io/anime/41545",
+    "https://notify.moe/anime/-FUGI8WGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "66bd83e59ae998eb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "66bd83e59ae998eb",
+    "lastUpdate": "2024-05-11"
+  }
+}

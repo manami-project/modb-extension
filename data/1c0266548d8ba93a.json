@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3508",
+    "https://anilist.co/anime/3762",
+    "https://anime-planet.com/anime/sonic-soldier-borgman-last-battle",
+    "https://anisearch.com/anime/1960",
+    "https://kitsu.io/anime/3238",
+    "https://livechart.me/anime/11341",
+    "https://myanimelist.net/anime/3762",
+    "https://notify.moe/anime/Sf2lcFmmR"
+  ],
+  "synopsis": {
+    "text": "Only three individuals, Ryo, Anise, and Chuck, remain from the groundbreaking Borgman project, as they strive to lead ordinary lives. Ryo, a NASA engineer, is on the brink of a significant rocket launch, while Anise feels unfulfilled working at a coffee shop. When an enticing job offer from a high-tech Japanese project arrives, Anise seizes the opportunity, leaving Ryo behind. Meanwhile, Chuck and his police officer girlfriend, Miki, investigate a series of bizarre cyborg-related incidents, ultimately connecting the events to Anise's new workplace.\n\nAs the trio reunites in Japan, they confront a new generation of cyborgs, wreaking havoc on the city. Ryo, determined to protect Anise, teams up with Chuck to uncover the truth behind the Heaven's Gate project, believed to be the source of these powerful cyborgs. With the stakes higher than ever, the last Borgman members must face their most formidable enemies yet, pushing their limits to save the city and each other.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1c0266548d8ba93a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.873050092764379,
+    "arithmeticGeometricMean": 5.834970061237099,
+    "median": 6.0,
+    "hash": "1c0266548d8ba93a",
+    "lastUpdate": "2024-05-10"
+  }
+}

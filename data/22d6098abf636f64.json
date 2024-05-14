@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15243",
+    "https://anilist.co/anime/116222",
+    "https://anime-planet.com/anime/ninja-box-2nd-season",
+    "https://anisearch.com/anime/14796",
+    "https://myanimelist.net/anime/41199"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "22d6098abf636f64",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.9174397031539887,
+    "arithmeticGeometricMean": 3.811892398657049,
+    "median": 3.9174397031539887,
+    "hash": "22d6098abf636f64",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15068",
+    "https://anilist.co/anime/103705",
+    "https://anime-planet.com/anime/little-wizard-tao",
+    "https://kitsu.io/anime/13517",
+    "https://myanimelist.net/anime/35364",
+    "https://notify.moe/anime/l7WV2Fmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1092d055f4b7a3ca",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1857575757575765,
+    "arithmeticGeometricMean": 5.107733494947335,
+    "median": 5.0,
+    "hash": "1092d055f4b7a3ca",
+    "lastUpdate": "2024-05-07"
+  }
+}

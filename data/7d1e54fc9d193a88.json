@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11403",
+    "https://anilist.co/anime/17901",
+    "https://anime-planet.com/anime/egoist-all-alone-with-you",
+    "https://anisearch.com/anime/8441",
+    "https://kitsu.io/anime/8601",
+    "https://myanimelist.net/anime/17901",
+    "https://notify.moe/anime/v9z1tKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d1e54fc9d193a88",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.033636594452921,
+    "arithmeticGeometricMean": 7.030091230690426,
+    "median": 7.181818181818182,
+    "hash": "7d1e54fc9d193a88",
+    "lastUpdate": "2024-05-08"
+  }
+}

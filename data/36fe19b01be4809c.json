@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9857",
+    "https://anilist.co/anime/18495",
+    "https://anime-planet.com/anime/chronicles-of-the-going-home-club",
+    "https://anisearch.com/anime/8678",
+    "https://kitsu.io/anime/7676",
+    "https://livechart.me/anime/21",
+    "https://myanimelist.net/anime/18495",
+    "https://notify.moe/anime/uG_ctFmmg"
+  ],
+  "synopsis": {
+    "text": "During a casual conversation about high school clubs, Natsuki Andou playfully expresses her interest in joining the 'Go-Home Club', unaware that such a club actually exists at her school. To her surprise, she finds herself a new member of this unique club, alongside her friend Karin. The Go-Home Club, far from being an ordinary after-school gathering, is an eccentric group of girls who indulge in unconventional activities, from feeding pigeons to practicing ancient martial arts. Led by the free-spirited Sakura, the club boasts a diverse membership, including Botan, a skilled martial artist, and Claire, the affluent heir to the Kokonoe conglomerate. As Natsuki navigates through the club's quirky antics, she discovers the unexpected joy and camaraderie that comes with being part of the Go-Home Club.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "36fe19b01be4809c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.569354347390061,
+    "arithmeticGeometricMean": 6.56088997999572,
+    "median": 6.552825552825553,
+    "hash": "36fe19b01be4809c",
+    "lastUpdate": "2024-05-09"
+  }
+}

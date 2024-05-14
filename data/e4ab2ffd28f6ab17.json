@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1505",
+    "https://anilist.co/anime/1148",
+    "https://anime-planet.com/anime/doomed-megalopolis",
+    "https://anisearch.com/anime/2471",
+    "https://kitsu.io/anime/1029",
+    "https://livechart.me/anime/6800",
+    "https://myanimelist.net/anime/1148",
+    "https://notify.moe/anime/oEmbcKmmg"
+  ],
+  "synopsis": {
+    "text": "Set in the bustling cityscape of Tokyo during the early 20th century, Doomed Megalopolis unfolds a chilling tale of an ambitious sorcerer, Kato, who seeks to conquer the city by awakening the legendary guardian spirit, Masakato. As the malevolent Kato's dark spells bring forth the powerful protector, he realizes that he cannot overcome Masakato alone. In a twisted scheme, Kato manipulates an innocent woman in hopes of producing an heir capable of challenging Tokyo's divine guardian.\n\nHowever, Kato's sinister plans are threatened by an unlikely alliance of heroes, including occultists, scientists, and even children, who rise to defend their city. As the forces of good and evil clash in a decades-long battle, the fate of millions of innocent citizens hangs in the balance.\n\nWhen Kato's initial attempt to possess a young girl with latent supernatural powers, Yukari Tatsumiya, is thwarted by Masakato himself, the sorcerer patiently waits for another opportunity. As the years pass, a new warrior emerges to protect Yukari's daughter, Yukiko, from Kato's clutches: Keiko, a shrine maiden imbued with heavenly power.\n\nIn this epic struggle between darkness and light, the future of Tokyo rests on the shoulders of these brave defenders as they fight to preserve their beloved city against the malevolent forces that seek to destroy it.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e4ab2ffd28f6ab17",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.46521706864564,
+    "arithmeticGeometricMean": 5.420509759280802,
+    "median": 5.726,
+    "hash": "e4ab2ffd28f6ab17",
+    "lastUpdate": "2024-05-10"
+  }
+}

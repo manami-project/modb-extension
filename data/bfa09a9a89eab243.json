@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17783",
+    "https://anilist.co/anime/158926",
+    "https://anime-planet.com/anime/ron-kamonohashis-forbidden-deductions",
+    "https://anisearch.com/anime/17954",
+    "https://kitsu.io/anime/46876",
+    "https://livechart.me/anime/11730",
+    "https://myanimelist.net/anime/53879",
+    "https://notify.moe/anime/BNA77L54g"
+  ],
+  "synopsis": {
+    "text": "When the world of crime fighting lost its brightest star, Ron Kamonohashi, a former prodigy from the prestigious Detective Training Academy Blue, vanished into obscurity following an unexplained incident. Forbidden to pursue his passion and haunted by his past, Ron became a recluse, his genius left untapped. Enter Totomaru Isshiki, a struggling police detective with a heart of gold but lacking in clearance rates. Desperate to improve his performance, Totomaru seeks out the elusive Ron, hoping to tap into his unparalleled ability to connect seemingly unrelated clues.\n\nDespite initial reluctance, Ron finds himself intrigued by the unsolved cases presented by Totomaru, and a unique partnership is formed. As they delve deeper into the world of crime solving, Ron's dormant talents reawaken, and Totomaru's unwavering enthusiasm reignites his drive to make the world a better place. However, the duo must navigate through a web of murderers, rogue detectives, and even the Metropolitan Police Department, all while Ron grapples with a mysterious condition that threatens the lives of those around him.\n\nThis thrilling detective story, penned by Akira Amano of 'Reborn!' and 'Ēldlive' fame, introduces a new generation to an unlikely pair of crime-solvers. As they unravel the most enigmatic mysteries, Ron and Totomaru illuminate the hidden truth, proving that sometimes, it takes an unusual duo to bring justice to light.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bfa09a9a89eab243",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.428553236446094,
+    "arithmeticGeometricMean": 7.420631130201712,
+    "median": 7.604727272727272,
+    "hash": "bfa09a9a89eab243",
+    "lastUpdate": "2024-05-09"
+  }
+}

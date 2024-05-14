@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1933",
+    "https://anilist.co/anime/3754",
+    "https://anime-planet.com/anime/tongari-boushi-no-memoru",
+    "https://anisearch.com/anime/2700",
+    "https://kitsu.io/anime/3231",
+    "https://livechart.me/anime/11959",
+    "https://myanimelist.net/anime/3754",
+    "https://notify.moe/anime/HEtlcKmmg"
+  ],
+  "synopsis": {
+    "text": "From the distant star of Riruru, a tiny being named Memoru finds herself stranded on Earth alongside her 244 companions following an unexpected crash landing. Standing no taller than a human palm, Memoru and her people explore their newfound home, living on a lake island and learning about the human world through objects that wash ashore.\n\nOne fateful day, Memoru is captivated by the enchanting sound of music, leading her to a grand house where she encounters a human girl, Marielle, gracefully playing the piano. Enamored by the music and intrigued by the girl, Memoru secretly returns with her friends Popitu, Rupangu, and Pi, only to find Marielle gravely ill.\n\nTouched by Marielle's plight, Memoru sheds a tear that miraculously heals the girl, forging an unbreakable bond between them. As their friendship blossoms, Marielle meets Oscar, and the two fall deeply in love, forming a tight-knit trio with Memoru.\n\nHowever, their newfound happiness is threatened by Grace, Oscar's jealous and manipulative fiancée, who becomes determined to expose Memoru's secret, placing the entire Riruru crew in peril. In a heartwarming turn of events, Grace ultimately helps Marielle and Oscar send Memoru's people back to their home star, but Memoru chooses to remain on Earth, cherishing the friendships she has formed.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "492d36e68a8c022f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.645492534676209,
+    "arithmeticGeometricMean": 6.632544294689528,
+    "median": 6.636363636363637,
+    "hash": "492d36e68a8c022f",
+    "lastUpdate": "2024-05-10"
+  }
+}

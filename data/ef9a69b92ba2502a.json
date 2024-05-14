@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1488",
+    "https://anilist.co/anime/1286",
+    "https://anime-planet.com/anime/md-geist-ii-death-force",
+    "https://anisearch.com/anime/1559",
+    "https://kitsu.io/anime/1160",
+    "https://livechart.me/anime/9150",
+    "https://myanimelist.net/anime/1286",
+    "https://notify.moe/anime/UkLbcKmmR"
+  ],
+  "synopsis": {
+    "text": "These war machines, known as the Death Force, have ravaged the planet Jerra, leaving few survivors in their wake. In response, Geist, a Most Dangerous Soldier (MDS), has taken it upon himself to destroy these deadly machines one by one. However, a new threat emerges in the form of Krauser, another MDS who presents himself as humanity's last hope. Unlike Geist, Krauser is driven by his own desires for glory and dominance. As the two formidable adversaries prepare to face off, the remaining humans find refuge on an island fortress. With the relentless Death Force machines in pursuit, the future of humanity hangs in the balance, and the odds of survival appear slim.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef9a69b92ba2502a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.984741408251613,
+    "arithmeticGeometricMean": 4.980891429685442,
+    "median": 5.064,
+    "hash": "ef9a69b92ba2502a",
+    "lastUpdate": "2024-05-10"
+  }
+}

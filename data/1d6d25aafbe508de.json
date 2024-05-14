@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137537",
+    "https://anime-planet.com/anime/summer-meets-god-rick-meets-evil",
+    "https://kitsu.io/anime/44949"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d6d25aafbe508de",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.994545454545454,
+    "arithmeticGeometricMean": 5.9942408883698395,
+    "median": 5.994545454545454,
+    "hash": "1d6d25aafbe508de",
+    "lastUpdate": "2024-05-07"
+  }
+}

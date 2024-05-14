@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11537",
+    "https://anilist.co/anime/8968",
+    "https://anime-planet.com/anime/shogi-hour",
+    "https://anisearch.com/anime/6719",
+    "https://kitsu.io/anime/5559",
+    "https://myanimelist.net/anime/8968",
+    "https://notify.moe/anime/DZ5ZtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "095a0e41bf2dd2e3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.065128014842301,
+    "arithmeticGeometricMean": 5.039622885304252,
+    "median": 4.96,
+    "hash": "095a0e41bf2dd2e3",
+    "lastUpdate": "2024-05-08"
+  }
+}

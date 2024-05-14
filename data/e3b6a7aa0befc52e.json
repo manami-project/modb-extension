@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15713",
+    "https://anilist.co/anime/123752",
+    "https://anime-planet.com/anime/shenmue-the-animation",
+    "https://anisearch.com/anime/15519",
+    "https://kitsu.io/anime/43530",
+    "https://livechart.me/anime/10137",
+    "https://myanimelist.net/anime/42808",
+    "https://notify.moe/anime/x--ndbD7R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e3b6a7aa0befc52e",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.7120814007421155,
+    "arithmeticGeometricMean": 6.700963046478861,
+    "median": 6.733636363636364,
+    "hash": "e3b6a7aa0befc52e",
+    "lastUpdate": "2024-05-09"
+  }
+}

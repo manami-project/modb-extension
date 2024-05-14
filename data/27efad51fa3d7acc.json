@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14238",
+    "https://anilist.co/anime/103275",
+    "https://anime-planet.com/anime/fate-grand-order-absolute-demonic-front-babylonia",
+    "https://anisearch.com/anime/13776",
+    "https://kitsu.io/anime/42269",
+    "https://livechart.me/anime/3438",
+    "https://myanimelist.net/anime/38084",
+    "https://notify.moe/anime/2TzfbYzWR"
+  ],
+  "synopsis": {
+    "text": "Following the discovery of humanity's impending extinction in 2019, the Chaldea Security Organization, a conglomerate of Magecraft researchers and scientists, sends its last Master, Ritsuka Fujimaru, and his Demi-Servant, Mash Kyrielight, on a perilous journey through time to resolve mysterious phenomena known as Singularities. These unobservable realms have appeared throughout history, threatening the very existence of mankind.\n\nFujimaru and Mash find themselves in ancient Mesopotamia, 2655 BC, where they encounter the once-prosperous city of Uruk, now on the brink of destruction. Governed by the wise King Gilgamesh, Uruk faces an onslaught of Demonic Beasts and three powerful goddesses. Using their Rayshift technology, the pair must navigate this dangerous era, where humans and gods are destined to part ways, and fight alongside the citizens of Uruk to secure the future of humanity.\n\nAs they face their final battle in this seventh Singularity, Fujimaru and Mash, who have triumphed over six previous threats, must rally against the fearsome forces that seek to annihilate mankind. In this age where humans and gods stand divided, the duo must summon their courage and strength to protect the people of Uruk and preserve the future of civilization.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "27efad51fa3d7acc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.893843443306177,
+    "arithmeticGeometricMean": 7.890389155735183,
+    "median": 7.980612244897959,
+    "hash": "27efad51fa3d7acc",
+    "lastUpdate": "2024-05-09"
+  }
+}

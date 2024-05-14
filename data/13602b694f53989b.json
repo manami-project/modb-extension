@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/166045",
+    "https://anime-planet.com/anime/parallax",
+    "https://kitsu.io/anime/47041",
+    "https://myanimelist.net/anime/53790"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "13602b694f53989b",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.545454545454545,
+    "arithmeticGeometricMean": 4.545454545454545,
+    "median": 4.545454545454545,
+    "hash": "13602b694f53989b",
+    "lastUpdate": "2024-05-07"
+  }
+}

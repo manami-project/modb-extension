@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/20444",
+    "https://anime-planet.com/anime/teekyuu-3",
+    "https://anisearch.com/anime/9062",
+    "https://kitsu.io/anime/7980",
+    "https://livechart.me/anime/202",
+    "https://myanimelist.net/anime/20473",
+    "https://notify.moe/anime/vVdhtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fcfe9c8d1a82bcd8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.810987114864665,
+    "arithmeticGeometricMean": 6.802711534177825,
+    "median": 6.909090909090909,
+    "hash": "fcfe9c8d1a82bcd8",
+    "lastUpdate": "2024-05-10"
+  }
+}

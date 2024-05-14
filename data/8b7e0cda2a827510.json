@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7567",
+    "https://anilist.co/anime/8706",
+    "https://anime-planet.com/anime/sos-tv-walpurgis-night-fever",
+    "https://anisearch.com/anime/6687",
+    "https://kitsu.io/anime/5450",
+    "https://myanimelist.net/anime/8706",
+    "https://notify.moe/anime/0UritFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8b7e0cda2a827510",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.36049801219189,
+    "arithmeticGeometricMean": 5.325514755179223,
+    "median": 5.38,
+    "hash": "8b7e0cda2a827510",
+    "lastUpdate": "2024-05-08"
+  }
+}

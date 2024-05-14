@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1374",
+    "https://anilist.co/anime/391",
+    "https://anime-planet.com/anime/tales-of-phantasia",
+    "https://anisearch.com/anime/524",
+    "https://kitsu.io/anime/358",
+    "https://livechart.me/anime/5410",
+    "https://myanimelist.net/anime/391",
+    "https://notify.moe/anime/gE9h5FiiR"
+  ],
+  "synopsis": {
+    "text": "Since the malevolent Demon King Dhaos has been released from his confinement by a power-hungry villain, the world of Aselia faces an imminent threat. A group of young heroes, led by Cless Alvein, a skilled swordsman, and Mint Adnade, a gifted healer, must embark on a perilous journey to save humanity. As the descendants of the legendary warriors who once sealed Dhaos, they must travel back in time to forge alliances with powerful allies, including the archer Chester Barklight, the half-elf sorceress Arche Klaine, and the summoner Klarth F. Lester.\n\nIn this thrilling anime adaptation of the classic 1995 Super Famicom game by NAMCO, 'Tales of Phantasia,' Cless and his friends face insurmountable odds as they confront Dhaos and his minions. With the fate of their world hanging in the balance, they must draw upon their unique abilities and the strength of their friendships to vanquish the Demon King and restore peace to Aselia. Join the Heroes of Space and Time as they embark on an epic quest through time to save their world from the clutches of evil.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b4b3dced5d2539bd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.868918514591984,
+    "arithmeticGeometricMean": 6.864672501764369,
+    "median": 6.82,
+    "hash": "b4b3dced5d2539bd",
+    "lastUpdate": "2024-05-10"
+  }
+}

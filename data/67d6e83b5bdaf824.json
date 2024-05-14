@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/stars-align-special-fan-movie",
+    "https://anisearch.com/anime/14896",
+    "https://livechart.me/anime/9983"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "67d6e83b5bdaf824",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.491408163265305,
+    "arithmeticGeometricMean": 6.479706710644887,
+    "median": 6.491408163265305,
+    "hash": "67d6e83b5bdaf824",
+    "lastUpdate": "2024-05-10"
+  }
+}

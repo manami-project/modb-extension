@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9950",
+    "https://anilist.co/anime/20371",
+    "https://anime-planet.com/anime/sekai-ichi-hatsukoi-yokozawa-takafumi-no-baai",
+    "https://anisearch.com/anime/9074",
+    "https://kitsu.io/anime/8193",
+    "https://livechart.me/anime/268",
+    "https://myanimelist.net/anime/20371",
+    "https://notify.moe/anime/xEvotKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0491e0eca7f6a718",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.793081478045764,
+    "arithmeticGeometricMean": 7.788122214754254,
+    "median": 7.82,
+    "hash": "0491e0eca7f6a718",
+    "lastUpdate": "2024-05-09"
+  }
+}

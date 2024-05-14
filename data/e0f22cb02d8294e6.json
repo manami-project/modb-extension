@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4657",
+    "https://anilist.co/anime/8765",
+    "https://anime-planet.com/anime/futari-gurashi",
+    "https://anisearch.com/anime/3776",
+    "https://kitsu.io/anime/5484",
+    "https://myanimelist.net/anime/8765",
+    "https://notify.moe/anime/WPRWtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e0f22cb02d8294e6",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.599693259121831,
+    "arithmeticGeometricMean": 5.5757003968958525,
+    "median": 5.683181818181819,
+    "hash": "e0f22cb02d8294e6",
+    "lastUpdate": "2024-05-08"
+  }
+}

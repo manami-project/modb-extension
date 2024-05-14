@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/142261",
+    "https://anime-planet.com/anime/azki-nonbiri-to",
+    "https://kitsu.io/anime/45546",
+    "https://myanimelist.net/anime/51443"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "91e0ad19a0aa955c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.462848484848485,
+    "arithmeticGeometricMean": 6.458782132112522,
+    "median": 6.454545454545455,
+    "hash": "91e0ad19a0aa955c",
+    "lastUpdate": "2024-05-07"
+  }
+}

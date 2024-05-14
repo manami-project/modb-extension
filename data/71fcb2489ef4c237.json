@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/275",
+    "https://anilist.co/anime/572",
+    "https://anime-planet.com/anime/nausicaa-of-the-valley-of-the-wind",
+    "https://anisearch.com/anime/153",
+    "https://kitsu.io/anime/529",
+    "https://livechart.me/anime/3072",
+    "https://myanimelist.net/anime/572",
+    "https://notify.moe/anime/KD8TcKmmR"
+  ],
+  "synopsis": {
+    "text": "As the remnants of humanity cling to survival a thousand years after a devastating global war, the toxic Sea of Corruption, a vast jungle teeming with colossal insects and deadly spores, continues to encroach upon the remaining habitable lands. In the idyllic Valley of the Wind, a peaceful kingdom nestled by the sea and shielded from the jungle's toxins, the young and compassionate Princess Nausicaä finds her world upended when an airship from the warlike kingdom of Tolmekia crashes in her domain.\n\nUpon discovering a mysterious and sinister artifact from the ancient war within the wreckage, Nausicaä and her people become the target of the Tolmekian military, who seek to harness the object's power to eradicate the toxic jungle. As the Tolmekians' invasion threatens both her kingdom and the delicate balance between humanity and the encroaching forces of nature, Nausicaä must summon the courage to protect her people and uncover a hidden truth that could lead to a harmonious coexistence between mankind and the seemingly hostile environment.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "71fcb2489ef4c237",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.259522902557956,
+    "arithmeticGeometricMean": 8.258984937524914,
+    "median": 8.307727272727274,
+    "hash": "71fcb2489ef4c237",
+    "lastUpdate": "2024-05-09"
+  }
+}

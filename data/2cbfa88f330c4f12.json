@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21136",
+    "https://anime-planet.com/anime/teekyuu-5",
+    "https://anisearch.com/anime/10369",
+    "https://kitsu.io/anime/10858",
+    "https://livechart.me/anime/1505",
+    "https://myanimelist.net/anime/30567",
+    "https://notify.moe/anime/oDcltKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2cbfa88f330c4f12",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.829842973353179,
+    "arithmeticGeometricMean": 6.824449516170852,
+    "median": 6.899090909090909,
+    "hash": "2cbfa88f330c4f12",
+    "lastUpdate": "2024-05-10"
+  }
+}

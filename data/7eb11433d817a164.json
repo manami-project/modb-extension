@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4406",
+    "https://anilist.co/anime/968",
+    "https://anime-planet.com/anime/kakutou-bijin-wulong-rebirth",
+    "https://anisearch.com/anime/4868",
+    "https://kitsu.io/anime/858",
+    "https://livechart.me/anime/7101",
+    "https://myanimelist.net/anime/968",
+    "https://notify.moe/anime/I3D15KiiR"
+  ],
+  "synopsis": {
+    "text": "Her alding from a lineage of martial artists, Mao Lan has honed her skills in their family's unique fighting style, despite her unassuming appearance. One day, her grandfather cunningly enrolls her in the Prime Mat tournament, a prestigious competition featuring formidable female fighters. As Mao Lan embarks on her journey to claim victory in the tournament, she encounters a series of challenges and grueling training sessions.\n\nAfter emerging triumphant in the Prime Mat, Mao Lan aspires to embrace a typical high school life. However, new obstacles arise as she is entrusted with the responsibility of mentoring three troubled recruits, each grappling with their own painful pasts. Balancing school, everyday teenage activities, and the prospect of participating in the next Prime Mat tournament, Mao Lan finds herself entangled in her trainees' bitter feuds. Will she manage to navigate these challenges and secure another victory in the tournament?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7eb11433d817a164",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.40137397296581,
+    "arithmeticGeometricMean": 6.372752253929045,
+    "median": 6.736,
+    "hash": "7eb11433d817a164",
+    "lastUpdate": "2024-05-09"
+  }
+}

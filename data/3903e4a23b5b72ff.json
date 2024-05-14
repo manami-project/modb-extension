@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13765",
+    "https://anilist.co/anime/102985",
+    "https://anime-planet.com/anime/gui-bao-bao-xiao-chuang-yu-zhou",
+    "https://kitsu.io/anime/41507",
+    "https://myanimelist.net/anime/33706",
+    "https://notify.moe/anime/LYQ2oIciR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3903e4a23b5b72ff",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.363636363636363,
+    "arithmeticGeometricMean": 5.363636363636363,
+    "median": 5.363636363636363,
+    "hash": "3903e4a23b5b72ff",
+    "lastUpdate": "2024-05-08"
+  }
+}

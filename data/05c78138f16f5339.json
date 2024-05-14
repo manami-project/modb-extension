@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6999",
+    "https://anilist.co/anime/6680",
+    "https://anime-planet.com/anime/dojoji",
+    "https://anisearch.com/anime/6007",
+    "https://kitsu.io/anime/4661",
+    "https://myanimelist.net/anime/6680",
+    "https://notify.moe/anime/F8xe5KmmR"
+  ],
+  "synopsis": {
+    "text": "While on a spiritual journey to the Kumano shrines, a young monk and his elder mentor seek refuge in a lodge, where the widowed mistress develops an intense infatuation for the young monk. Finding it difficult to resist her advances, the monk promises to return after his pilgrimage, only to flee in fear as the woman's passion transforms her into a monstrous white serpent. The monk takes refuge in Dojoji Temple, where the wise abbot hides him inside a massive bronze bell, but the serpent's jealousy and desire may prove unstoppable. This gripping tale, based on an ancient legend, is brought to life through a unique blend of stop motion and traditional animation techniques.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "05c78138f16f5339",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.946507553670819,
+    "arithmeticGeometricMean": 5.936175562709437,
+    "median": 6.03,
+    "hash": "05c78138f16f5339",
+    "lastUpdate": "2024-05-07"
+  }
+}

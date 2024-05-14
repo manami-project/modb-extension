@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13724",
+    "https://anilist.co/anime/104417",
+    "https://anime-planet.com/anime/cinterrier-jou-no-hanamuko",
+    "https://anisearch.com/anime/10414",
+    "https://kitsu.io/anime/10214",
+    "https://myanimelist.net/anime/28829",
+    "https://notify.moe/anime/KaPstKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ccd0fdc81387122e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.55038961038961,
+    "arithmeticGeometricMean": 4.5192687921785435,
+    "median": 4.450454545454545,
+    "hash": "ccd0fdc81387122e",
+    "lastUpdate": "2024-05-07"
+  }
+}

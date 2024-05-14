@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2209",
+    "https://anilist.co/anime/1044",
+    "https://anime-planet.com/anime/horus-prince-of-the-sun",
+    "https://anisearch.com/anime/2850",
+    "https://kitsu.io/anime/934",
+    "https://livechart.me/anime/5619",
+    "https://myanimelist.net/anime/1044",
+    "https://notify.moe/anime/PLfJ5Kimg"
+  ],
+  "synopsis": {
+    "text": "The story follows the young and brave Horus, who as an infant, narrowly escaped a demon attack on his village, thanks to his father's heroism. Growing up in a peaceful environment, Horus' life takes a dramatic turn when he encounters a pack of wolves and is saved by a rock giant. He discovers the magical Sword of the Sun embedded in the giant's shoulder, which he can wield to summon the giant whenever needed.\n\nAfter his father's death, Horus embarks on a journey to reconnect with his roots and protect his ancestral village from monstrous threats. Along the way, he befriends a small bear named Koro and encounters a mysterious girl with a hidden secret. The world is under the looming threat of the evil Grunwald, who seeks to dominate it. With the legendary Sword of the Sun in his possession, Horus becomes the world's last hope against Grunwald's tyranny.\n\nJoin Horus as he navigates through treacherous paths, forges new friendships, and faces unimaginable hardships to restore peace and harmony to the world. Will he be able to harness the power of the Sword of the Sun and defeat the evil Grunwald? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3b485a667378ad66",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.452728509585653,
+    "arithmeticGeometricMean": 6.4506425177287925,
+    "median": 6.41,
+    "hash": "3b485a667378ad66",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15545",
+    "https://anime-planet.com/anime/ginga-tetsudou-999-niji-no-michishirube",
+    "https://anisearch.com/anime/15330",
+    "https://kitsu.io/anime/9284",
+    "https://myanimelist.net/anime/27651",
+    "https://notify.moe/anime/N3C-tKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7f21611821020e31",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.009755102040817,
+    "arithmeticGeometricMean": 5.986901657207411,
+    "median": 5.37,
+    "hash": "7f21611821020e31",
+    "lastUpdate": "2024-05-08"
+  }
+}

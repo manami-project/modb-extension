@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6958",
+    "https://anilist.co/anime/8357",
+    "https://anime-planet.com/anime/himitsukessha-taka-no-tsume-movie-3",
+    "https://anisearch.com/anime/5581",
+    "https://kitsu.io/anime/5306",
+    "https://myanimelist.net/anime/8357",
+    "https://notify.moe/anime/asNmtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2e3e2cc9099e27dc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.10833469387755,
+    "arithmeticGeometricMean": 5.080195982461818,
+    "median": 5.0,
+    "hash": "2e3e2cc9099e27dc",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/106566",
+    "https://anime-planet.com/anime/aah-hee",
+    "https://kitsu.io/anime/42780",
+    "https://myanimelist.net/anime/38701"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5dae088dd69afdad",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.210545454545454,
+    "arithmeticGeometricMean": 4.184737378325486,
+    "median": 4.34,
+    "hash": "5dae088dd69afdad",
+    "lastUpdate": "2024-05-05"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7130",
+    "https://anime-planet.com/anime/ninki-no-shouten-ni-tateru-gotou-shinpei",
+    "https://anisearch.com/anime/9359",
+    "https://kitsu.io/anime/48520",
+    "https://myanimelist.net/anime/49250"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5c7c1ffb91cba8eb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.4757142857142855,
+    "arithmeticGeometricMean": 3.4750551840384816,
+    "median": 3.4757142857142855,
+    "hash": "5c7c1ffb91cba8eb",
+    "lastUpdate": "2024-05-07"
+  }
+}

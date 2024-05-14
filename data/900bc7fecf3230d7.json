@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13658",
+    "https://anilist.co/anime/100773",
+    "https://anime-planet.com/anime/food-wars-the-third-plate-totsuki-train-arc",
+    "https://anisearch.com/anime/13111",
+    "https://kitsu.io/anime/14092",
+    "https://livechart.me/anime/3015",
+    "https://myanimelist.net/anime/36949",
+    "https://notify.moe/anime/bMJH2FiiR"
+  ],
+  "synopsis": {
+    "text": "Souma Yukihira and his fellow first-year students at Tootsuki Culinary Academy are about to face their toughest test yet: the advancement exams. With the new director, Azami Nakiri, determined to crush their rebellious spirit, the exams are rigged to be as unfair as possible. As the students travel to the icy north of Hokkaido, they must prove their culinary skills on a Tootsuki-owned train and then face the merciless exams. Souma, Erina, Megumi, and their friends are divided into groups and must pass the exams or face expulsion. Azami and his supporters will stop at nothing to get rid of the rebels, and the students must work together to overcome the treacherous tactics of the new administration. Can Souma and his friends triumph over Azami's regime and advance to their second year, or will they be frozen out of the academy forever?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "900bc7fecf3230d7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.13200342747949,
+    "arithmeticGeometricMean": 8.129343730007596,
+    "median": 8.185531335149864,
+    "hash": "900bc7fecf3230d7",
+    "lastUpdate": "2024-05-10"
+  }
+}

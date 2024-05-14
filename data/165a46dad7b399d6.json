@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14005",
+    "https://anilist.co/anime/18331",
+    "https://anime-planet.com/anime/meoteoldosawa-108-yogoe",
+    "https://anisearch.com/anime/8618",
+    "https://kitsu.io/anime/9756",
+    "https://myanimelist.net/anime/18331",
+    "https://notify.moe/anime/p_8LtKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "165a46dad7b399d6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.154903525046382,
+    "arithmeticGeometricMean": 5.104152565874745,
+    "median": 4.744897959183673,
+    "hash": "165a46dad7b399d6",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7007",
+    "https://anilist.co/anime/121052",
+    "https://anime-planet.com/anime/shin-dousei-jidai-hawaiian-breeze",
+    "https://anisearch.com/anime/4005",
+    "https://kitsu.io/anime/9583",
+    "https://myanimelist.net/anime/25065",
+    "https://notify.moe/anime/zUiYtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cead048d2f8a705c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.1141552257266545,
+    "arithmeticGeometricMean": 6.099706636231864,
+    "median": 6.251363636363637,
+    "hash": "cead048d2f8a705c",
+    "lastUpdate": "2024-05-08"
+  }
+}

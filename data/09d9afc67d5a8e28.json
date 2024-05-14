@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115668",
+    "https://anime-planet.com/anime/fruity-samurai",
+    "https://anisearch.com/anime/13641",
+    "https://kitsu.io/anime/10701",
+    "https://livechart.me/anime/8930",
+    "https://myanimelist.net/anime/30173",
+    "https://notify.moe/anime/AyfQpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09d9afc67d5a8e28",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.484,
+    "arithmeticGeometricMean": 5.469259775633625,
+    "median": 5.255,
+    "hash": "09d9afc67d5a8e28",
+    "lastUpdate": "2024-05-06"
+  }
+}

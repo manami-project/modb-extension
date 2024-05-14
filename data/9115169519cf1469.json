@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4041",
+    "https://anilist.co/anime/19063",
+    "https://anime-planet.com/anime/judo-bu-monogatari",
+    "https://anisearch.com/anime/2750",
+    "https://kitsu.io/anime/7796",
+    "https://myanimelist.net/anime/19063",
+    "https://notify.moe/anime/oC2ptKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9115169519cf1469",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.319418676561533,
+    "arithmeticGeometricMean": 5.3125144296954065,
+    "median": 5.090909090909091,
+    "hash": "9115169519cf1469",
+    "lastUpdate": "2024-05-07"
+  }
+}

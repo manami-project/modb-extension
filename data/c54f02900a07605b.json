@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/742",
+    "https://anilist.co/anime/6557",
+    "https://anime-planet.com/anime/fortune-quest-ova",
+    "https://anisearch.com/anime/2778",
+    "https://kitsu.io/anime/4609",
+    "https://livechart.me/anime/7686",
+    "https://myanimelist.net/anime/6557",
+    "https://notify.moe/anime/qnKe5KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c54f02900a07605b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.041942751126425,
+    "arithmeticGeometricMean": 6.020202604218535,
+    "median": 5.818181818181818,
+    "hash": "c54f02900a07605b",
+    "lastUpdate": "2024-05-09"
+  }
+}

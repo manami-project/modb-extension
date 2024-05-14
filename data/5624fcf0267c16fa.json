@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10407",
+    "https://anilist.co/anime/20613",
+    "https://anime-planet.com/anime/akame-ga-kill",
+    "https://anisearch.com/anime/9388",
+    "https://kitsu.io/anime/8270",
+    "https://livechart.me/anime/401",
+    "https://myanimelist.net/anime/22199",
+    "https://notify.moe/anime/iEaTpFiig"
+  ],
+  "synopsis": {
+    "text": "Aria's wealthy family is brutally assassinated by the Night Raid assassins, leaving Tatsumi in shock and disbelief. However, he soon learns that the assassins are not just mindless killers, but rather a group of individuals fighting against the corrupt empire that has left the nation in poverty and ruin. Led by the ruthless Prime Minister Honest, the empire's armies of soldiers, assassins, and secret police have turned against the people, leaving Night Raid as the only force daring to stand against them.\n\nEquipped with legendary weapons known as Imperial Arms, each with unique and incredible powers, the assassins of Night Raid mercilessly eliminate anyone who stands in their way. Among them is Akame, a young girl who was bought, brainwashed, and trained to kill by the empire. Despite her past, she now fights alongside Night Raid to overthrow the corrupt regime.\n\nWhen Tatsumi, a young swordsman from a remote village, is rescued by Night Raid and offered the chance to join their ranks, he must make a deadly choice. Few can master an Imperial Arm, and even fewer survive when two Arms go against each other in combat. However, driven by his desire to save his poverty-stricken village and confront the corrupt empire, Tatsumi decides to join Night Raid and fight alongside Akame and the other assassins.\n\nAs Tatsumi faces powerful weapons, enemy assassins, and challenges to his own morals and values, he will come to understand what it truly means to be an assassin with a cause. With the fate of the nation hanging in the balance, Tatsumi and Night Raid must do whatever it takes to overthrow the corrupt empire and restore justice to the land.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5624fcf0267c16fa",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.596363650052823,
+    "arithmeticGeometricMean": 7.592933341913966,
+    "median": 7.566925843253967,
+    "hash": "5624fcf0267c16fa",
+    "lastUpdate": "2024-05-08"
+  }
+}

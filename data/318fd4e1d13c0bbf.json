@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6806",
+    "https://anilist.co/anime/17615",
+    "https://anime-planet.com/anime/horror-news-1991",
+    "https://anisearch.com/anime/5651",
+    "https://kitsu.io/anime/9418",
+    "https://myanimelist.net/anime/17615",
+    "https://notify.moe/anime/jH2BtKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "318fd4e1d13c0bbf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.6058491032776745,
+    "arithmeticGeometricMean": 5.577090702272376,
+    "median": 5.395547309833024,
+    "hash": "318fd4e1d13c0bbf",
+    "lastUpdate": "2024-05-08"
+  }
+}

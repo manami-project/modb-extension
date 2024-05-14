@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18228",
+    "https://anilist.co/anime/169931",
+    "https://anime-planet.com/anime/how-i-attended-an-all-guys-mixer",
+    "https://anisearch.com/anime/18740",
+    "https://kitsu.io/anime/48048",
+    "https://livechart.me/anime/12360",
+    "https://myanimelist.net/anime/56843",
+    "https://notify.moe/anime/mOTcdmMIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a85cebdaf22c812b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "a85cebdaf22c812b",
+    "lastUpdate": "2024-05-11"
+  }
+}

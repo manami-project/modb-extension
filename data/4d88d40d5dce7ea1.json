@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8768",
+    "https://anime-planet.com/anime/2ne1-hate-you",
+    "https://anisearch.com/anime/7416",
+    "https://kitsu.io/anime/6533",
+    "https://myanimelist.net/anime/11543",
+    "https://notify.moe/anime/pKbStKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d88d40d5dce7ea1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.7354580498866214,
+    "arithmeticGeometricMean": 5.725081373777884,
+    "median": 5.823333333333334,
+    "hash": "4d88d40d5dce7ea1",
+    "lastUpdate": "2024-05-07"
+  }
+}

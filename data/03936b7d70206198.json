@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/boku-wa-ou-sama-specials",
+    "https://anisearch.com/anime/9720",
+    "https://kitsu.io/anime/9811",
+    "https://myanimelist.net/anime/24795",
+    "https://notify.moe/anime/9dqYtFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "03936b7d70206198",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.663265306122449,
+    "arithmeticGeometricMean": 5.643761500998084,
+    "median": 5.663265306122449,
+    "hash": "03936b7d70206198",
+    "lastUpdate": "2024-05-06"
+  }
+}

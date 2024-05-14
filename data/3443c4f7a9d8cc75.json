@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9594",
+    "https://anilist.co/anime/16752",
+    "https://anime-planet.com/anime/haedori-daemoheom",
+    "https://anisearch.com/anime/8442",
+    "https://kitsu.io/anime/7507",
+    "https://myanimelist.net/anime/16752",
+    "https://notify.moe/anime/avmctKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3443c4f7a9d8cc75",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.274425788497218,
+    "arithmeticGeometricMean": 5.216361675496431,
+    "median": 4.954545454545455,
+    "hash": "3443c4f7a9d8cc75",
+    "lastUpdate": "2024-05-08"
+  }
+}

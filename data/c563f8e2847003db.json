@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12565",
+    "https://anilist.co/anime/104469",
+    "https://anime-planet.com/anime/ba-la-la-xiao-mo-xian-zhi-qiji-wubu",
+    "https://anisearch.com/anime/11340",
+    "https://kitsu.io/anime/11600",
+    "https://myanimelist.net/anime/31965",
+    "https://notify.moe/anime/-jljtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c563f8e2847003db",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.994630797773655,
+    "arithmeticGeometricMean": 4.778309445790812,
+    "median": 5.4350000000000005,
+    "hash": "c563f8e2847003db",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9568",
+    "https://anilist.co/anime/16668",
+    "https://anime-planet.com/anime/valvrave-the-liberator",
+    "https://anisearch.com/anime/8236",
+    "https://kitsu.io/anime/7487",
+    "https://livechart.me/anime/822",
+    "https://myanimelist.net/anime/16668",
+    "https://notify.moe/anime/aY3FtFmmR"
+  ],
+  "synopsis": {
+    "text": "Dyson Spheres, cities in space, house 70% of the human population in the 71st year of the True Calendar. Earth is divided into three factions: Dorssia, a militaristic empire, ARUS, a trade-focused superpower, and JIOR, a neutral collection of states with colonies across the galaxy. In one such colony, Haruto Tokishima, a high school student, lives an ordinary life, until his world is upended by a Dorssian invasion. The invaders seek the 'Valvrave', a powerful, secretly constructed mobile suit. In the chaos, Haruto's childhood friend, Shouko, disappears in a laser blast. Fueled by rage, Haruto pilots the Valvrave, defeating the Dorssian army but sacrificing his humanity in the process. Now, Haruto must grapple with the cost of his newfound power as he vows to protect his colony, all while sparking a revolution that could reshape the world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7bcc9f6dea90f5e7",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.165492409084847,
+    "arithmeticGeometricMean": 7.163111634996521,
+    "median": 7.1905287569573275,
+    "hash": "7bcc9f6dea90f5e7",
+    "lastUpdate": "2024-05-09"
+  }
+}

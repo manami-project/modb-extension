@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145433",
+    "https://anime-planet.com/anime/follow-your-fantasy",
+    "https://anisearch.com/anime/16932",
+    "https://kitsu.io/anime/45665",
+    "https://myanimelist.net/anime/55392"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "69a0d1de67f073f4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.67838775510204,
+    "arithmeticGeometricMean": 6.675277720377711,
+    "median": 6.726775510204082,
+    "hash": "69a0d1de67f073f4",
+    "lastUpdate": "2024-05-06"
+  }
+}

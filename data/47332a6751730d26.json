@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3601",
+    "https://anilist.co/anime/2578",
+    "https://anime-planet.com/anime/tao-tao-ehonkan-sekai-doubutsu-banashi",
+    "https://anisearch.com/anime/905",
+    "https://kitsu.io/anime/2343",
+    "https://myanimelist.net/anime/2578",
+    "https://notify.moe/anime/8XSscKiiR"
+  ],
+  "synopsis": {
+    "text": "In the heart of China, nestled in a serene valley untouched by human footprints, resides a charming little panda named Tao Tao. His days are filled with boundless adventures and endless playtime with his diverse group of friends, including Kiki the mischievous monkey, Puhu the energetic squirrel, Poe the swift hare, Chipta the lively woodpecker, and the adorable bunny brothers.\n\nWhenever disagreements arise among the friends, leading to squabbles, Tao Tao's wise and nurturing mother, Pandi-Panda, steps in. Instead of scolding, she uses the power of storytelling to calm them down, spinning tales of ancient legends and myths from the animal kingdom. These enchanting narratives not only entertain Tao Tao and his friends but also impart valuable life lessons.\n\nFrom the creation of the animal world to thrilling tales of courage and friendship, Pandi-Panda's repertoire of stories is vast and varied. These captivating tales often intertwine with Tao Tao's own adventures, providing guidance and wisdom that help him and his friends navigate through their daily challenges.\n\nJoin Tao Tao and his friends in their delightful escapades, where every day is a new opportunity for fun, learning, and growth, all under the watchful and loving eyes of Pandi-Panda.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47332a6751730d26",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.30686827458256,
+    "arithmeticGeometricMean": 6.284763794219612,
+    "median": 6.090909090909091,
+    "hash": "47332a6751730d26",
+    "lastUpdate": "2024-05-08"
+  }
+}

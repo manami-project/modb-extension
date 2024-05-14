@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1227",
+    "https://anilist.co/anime/3032",
+    "https://anime-planet.com/anime/digimon-tamers-movie-the-adventurers-battle",
+    "https://anisearch.com/anime/247",
+    "https://kitsu.io/anime/2738",
+    "https://livechart.me/anime/5520",
+    "https://myanimelist.net/anime/3032",
+    "https://notify.moe/anime/o38UcFimg"
+  ],
+  "synopsis": {
+    "text": "His parents insisted on a summer getaway to Okinawa, hoping the tranquil village would offer a refreshing change of pace for Takato. Accompanied by his loyal Digimon partner, Guilmon, they meet a fellow tamer named Minami and form a bond with his cousin, Kai. However, the peace is short-lived as a powerful rogue Digimon wreaks havoc in Okinawa, forcing Guilmon to reveal himself to Kai and Minami.\n\nUpon returning to Tokyo, Takato discovers that a popular computer pet has transformed into a menacing virus, infecting every device in its path. As the virus spreads chaos, Digimon inexplicably target Minami, leaving Takato determined to unravel the mystery behind these bizarre events.\n\nMeanwhile, a ruthless Digimon challenges Ruki and her partner Renamon, leaving them defeated and vowing to return. As clues emerge connecting the virus to a renowned software company, Ruki joins forces with Takato and Jenrya-Li to expose the truth.\n\nWith the stakes higher than ever, the three Ultimate-level Digimon and their Tamers must unite to confront an otherworldly evil intent on executing its sinister plan. As the adventure unfolds, will they be prepared to face the challenges that await them? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "73aaceb85be748b2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.708459504780933,
+    "arithmeticGeometricMean": 6.69875579874128,
+    "median": 6.768090909090909,
+    "hash": "73aaceb85be748b2",
+    "lastUpdate": "2024-05-09"
+  }
+}

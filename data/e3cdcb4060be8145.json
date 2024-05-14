@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6277",
+    "https://anilist.co/anime/5693",
+    "https://anime-planet.com/anime/shinran-sama-negai-soshite-hikari",
+    "https://anisearch.com/anime/5225",
+    "https://kitsu.io/anime/4250",
+    "https://myanimelist.net/anime/5693",
+    "https://notify.moe/anime/yo_j5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e3cdcb4060be8145",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.524784168212739,
+    "arithmeticGeometricMean": 5.495310063924298,
+    "median": 5.285454545454545,
+    "hash": "e3cdcb4060be8145",
+    "lastUpdate": "2024-05-08"
+  }
+}

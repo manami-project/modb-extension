@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7630",
+    "https://anilist.co/anime/8857",
+    "https://anime-planet.com/anime/nichijou-my-ordinary-life-episode-0",
+    "https://anisearch.com/anime/6245",
+    "https://kitsu.io/anime/5512",
+    "https://livechart.me/anime/3792",
+    "https://myanimelist.net/anime/8857",
+    "https://notify.moe/anime/UznWtFmmR"
+  ],
+  "synopsis": {
+    "text": "Mai, Yuuko, and their eccentric classmates navigate through the peculiarities of Class 1-Q, where the ordinary intertwines with the bizarre. In this seemingly ordinary school, one might stumble upon the principal grappling with a deer or a robot concealing a rollcake within its mechanical arm. Despite these oddities, the students face relatable challenges, such as dealing with poor test scores and finding joy in creating a card castle.\n\nThe series offers a unique peek into the lives of the diverse and quirky individuals inhabiting Class 1-Q and their equally unusual acquaintances. Friendships blossom amidst the chaos as Yuuko and Mio attempt to lift each other's spirits after a disastrous test, while Nano, a wind-up doll, struggles to convince the headstrong Hakase to take her medicine.\n\nEven in the most mundane situations, these endearing girls find a way to make every moment memorable. Whether it's performing cartwheels at an abandoned railway station or engaging in mild mischief on an empty train, they prove that there's always room for fun and laughter in their everyday lives.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4958bcc1d8fefb82",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.258686083210713,
+    "arithmeticGeometricMean": 7.253596212662517,
+    "median": 7.427272727272728,
+    "hash": "4958bcc1d8fefb82",
+    "lastUpdate": "2024-05-09"
+  }
+}

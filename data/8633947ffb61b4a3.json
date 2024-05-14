@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14354",
+    "https://anilist.co/anime/116706",
+    "https://anime-planet.com/anime/tsuiseki",
+    "https://anisearch.com/anime/10304",
+    "https://kitsu.io/anime/10494",
+    "https://myanimelist.net/anime/29649",
+    "https://notify.moe/anime/R6_8tKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8633947ffb61b4a3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.609255411255411,
+    "arithmeticGeometricMean": 4.579577063203126,
+    "median": 4.510909090909091,
+    "hash": "8633947ffb61b4a3",
+    "lastUpdate": "2024-05-07"
+  }
+}

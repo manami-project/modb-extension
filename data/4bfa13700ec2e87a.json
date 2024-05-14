@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16720",
+    "https://anilist.co/anime/121679",
+    "https://anime-planet.com/anime/hanhua-riji-2nd-season",
+    "https://anisearch.com/anime/17126",
+    "https://kitsu.io/anime/43908",
+    "https://livechart.me/anime/10260",
+    "https://myanimelist.net/anime/42956",
+    "https://notify.moe/anime/_7bLtkcGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4bfa13700ec2e87a",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.096578849721706,
+    "arithmeticGeometricMean": 7.0820226491269365,
+    "median": 6.34,
+    "hash": "4bfa13700ec2e87a",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3190",
+    "https://anilist.co/anime/2895",
+    "https://anime-planet.com/anime/the-whale-hunt",
+    "https://anisearch.com/anime/2301",
+    "https://kitsu.io/anime/2628",
+    "https://livechart.me/anime/7605",
+    "https://myanimelist.net/anime/2895",
+    "https://notify.moe/anime/zpK8cKmmR"
+  ],
+  "synopsis": {
+    "text": "Totoro-esque whale joins a thrilling adventure of elementary school children in this enchanting short film, exclusively screened at the Ghibli Museum in Mitaka. Based on the award-winning children's book 'Iya Iya En' by Rieko Nakagawa, the story follows Shigeru, a young boy attending Tulip Nursery School. One day, Shigeru and his classmates find themselves magically transported from their classroom to the open sea aboard their block-built ship, the Elephant and Lion.\n\nAs the children navigate the deep blue waters, they embark on a quest to find their very own Moby Dick. Some of the kids, filled with excitement, aspire to harpoon the whale, while others simply wish to capture its majesty through a photograph. However, many of the children are overwhelmed by fear and long to return to the safety of their school.\n\nIn a delightful turn of events, a gentle, Totoro-like whale appears and engages in a playful interaction with the children. This heartwarming encounter continues until the magical adventure concludes, and the children find themselves back in their familiar classroom setting. This captivating tale combines the power of imagination, friendship, and adventure, creating an unforgettable experience for viewers of all ages.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ecc7a501287e7bce",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.537280766852195,
+    "arithmeticGeometricMean": 5.472783065762243,
+    "median": 6.115454545454545,
+    "hash": "ecc7a501287e7bce",
+    "lastUpdate": "2024-05-09"
+  }
+}

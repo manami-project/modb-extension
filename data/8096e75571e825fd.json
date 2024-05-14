@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/171029",
+    "https://anisearch.com/anime/18903",
+    "https://notify.moe/anime/StWcatDIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8096e75571e825fd",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.318181818181818,
+    "arithmeticGeometricMean": 8.232060802716445,
+    "median": 8.318181818181818,
+    "hash": "8096e75571e825fd",
+    "lastUpdate": "2024-05-07"
+  }
+}

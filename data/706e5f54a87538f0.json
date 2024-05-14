@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8044",
+    "https://anilist.co/anime/4099",
+    "https://anime-planet.com/anime/appaga-piryohae",
+    "https://anisearch.com/anime/6728",
+    "https://kitsu.io/anime/3466",
+    "https://livechart.me/anime/8122",
+    "https://myanimelist.net/anime/4099",
+    "https://notify.moe/anime/jtSXcFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "706e5f54a87538f0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2237208233942924,
+    "arithmeticGeometricMean": 6.211269718838108,
+    "median": 6.25,
+    "hash": "706e5f54a87538f0",
+    "lastUpdate": "2024-05-08"
+  }
+}

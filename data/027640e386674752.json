@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3329",
+    "https://anilist.co/anime/8965",
+    "https://anime-planet.com/anime/hamtaro-rainbow-rescue",
+    "https://anisearch.com/anime/1859",
+    "https://kitsu.io/anime/5556",
+    "https://myanimelist.net/anime/8965",
+    "https://notify.moe/anime/hsKZtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "027640e386674752",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.734253379273787,
+    "arithmeticGeometricMean": 5.69447011751438,
+    "median": 6.2,
+    "hash": "027640e386674752",
+    "lastUpdate": "2024-05-08"
+  }
+}

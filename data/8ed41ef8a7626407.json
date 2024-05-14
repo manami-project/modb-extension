@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14775",
+    "https://anilist.co/anime/102164",
+    "https://anime-planet.com/anime/mang-huang-ji",
+    "https://anisearch.com/anime/16227",
+    "https://kitsu.io/anime/41136",
+    "https://myanimelist.net/anime/37186",
+    "https://notify.moe/anime/6LEr7HMmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8ed41ef8a7626407",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.523442424242424,
+    "arithmeticGeometricMean": 5.511576879777066,
+    "median": 5.454545454545455,
+    "hash": "8ed41ef8a7626407",
+    "lastUpdate": "2024-05-08"
+  }
+}

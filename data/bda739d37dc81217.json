@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6235",
+    "https://anilist.co/anime/4618",
+    "https://anime-planet.com/anime/ride-back",
+    "https://anisearch.com/anime/3176",
+    "https://kitsu.io/anime/3715",
+    "https://livechart.me/anime/4964",
+    "https://myanimelist.net/anime/4618",
+    "https://notify.moe/anime/BSi9cFiiR"
+  ],
+  "synopsis": {
+    "text": "That's when Rin Ogata's life takes a dramatic turn, as she stumbles upon an extraordinary club during her college years. Once a gifted ballet dancer with dreams shattered by an injury, Rin finds solace in the form of a unique motorcycle-like robot called a RideBack. Her innate ability to balance and maneuver, honed through years of dance, makes her a prodigy on this mechanical marvel. However, Rin's newfound talent unwittingly entangles her in a dangerous web of rebellion against the oppressive GGP government. As the world around her erupts in chaos and revolution, Rin must decide if she will harness the power of her RideBack to fight for freedom or retreat to the safety of her college life.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bda739d37dc81217",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.326518580159337,
+    "arithmeticGeometricMean": 7.323722185132243,
+    "median": 7.423909090909091,
+    "hash": "bda739d37dc81217",
+    "lastUpdate": "2024-05-09"
+  }
+}

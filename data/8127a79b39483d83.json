@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5239",
+    "https://anilist.co/anime/5207",
+    "https://anime-planet.com/anime/hokuro-kyodai-full-throttle",
+    "https://anisearch.com/anime/4309",
+    "https://kitsu.io/anime/3985",
+    "https://myanimelist.net/anime/5207",
+    "https://notify.moe/anime/N0kCcFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8127a79b39483d83",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.295685219542363,
+    "arithmeticGeometricMean": 4.263940669429952,
+    "median": 4.384545454545455,
+    "hash": "8127a79b39483d83",
+    "lastUpdate": "2024-05-08"
+  }
+}

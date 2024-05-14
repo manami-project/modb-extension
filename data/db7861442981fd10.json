@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7260",
+    "https://anilist.co/anime/4966",
+    "https://anime-planet.com/anime/self-portrait",
+    "https://anisearch.com/anime/3761",
+    "https://kitsu.io/anime/3868",
+    "https://livechart.me/anime/7465",
+    "https://myanimelist.net/anime/4966",
+    "https://notify.moe/anime/fu1r5Kmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db7861442981fd10",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.66489530877286,
+    "arithmeticGeometricMean": 4.636549575149843,
+    "median": 4.7272727272727275,
+    "hash": "db7861442981fd10",
+    "lastUpdate": "2024-05-09"
+  }
+}

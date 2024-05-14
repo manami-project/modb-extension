@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/120124",
+    "https://anime-planet.com/anime/lazenca",
+    "https://anisearch.com/anime/9351",
+    "https://kitsu.io/anime/10010",
+    "https://myanimelist.net/anime/28201",
+    "https://notify.moe/anime/Gz8PtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1978a73daf67bfb4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.863636363636363,
+    "arithmeticGeometricMean": 4.862680308852148,
+    "median": 4.863636363636363,
+    "hash": "1978a73daf67bfb4",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/5403",
+    "https://myanimelist.net/anime/6531"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "07aff6dfd51fc39a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.763571428571428,
+    "arithmeticGeometricMean": 5.72765398567541,
+    "median": 5.763571428571428,
+    "hash": "07aff6dfd51fc39a",
+    "lastUpdate": "2024-05-07"
+  }
+}

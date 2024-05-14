@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140020",
+    "https://anime-planet.com/anime/yamiyo-no-jidaigeki",
+    "https://kitsu.io/anime/9698",
+    "https://myanimelist.net/anime/23765",
+    "https://notify.moe/anime/0_ALtFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "52806fb48bcad8ad",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.296969696969697,
+    "arithmeticGeometricMean": 5.291101600187903,
+    "median": 5.090909090909091,
+    "hash": "52806fb48bcad8ad",
+    "lastUpdate": "2024-05-07"
+  }
+}

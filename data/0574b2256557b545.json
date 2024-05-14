@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/120981",
+    "https://anime-planet.com/anime/suirin-karma-ni",
+    "https://kitsu.io/anime/43327",
+    "https://myanimelist.net/anime/42233"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0574b2256557b545",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.032424242424242,
+    "arithmeticGeometricMean": 6.022048549190398,
+    "median": 5.7272727272727275,
+    "hash": "0574b2256557b545",
+    "lastUpdate": "2024-05-07"
+  }
+}

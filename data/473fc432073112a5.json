@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102396",
+    "https://anime-planet.com/anime/arctic-adventure-on-frozen-pond",
+    "https://anisearch.com/anime/13127",
+    "https://kitsu.io/anime/13831",
+    "https://myanimelist.net/anime/35913",
+    "https://notify.moe/anime/3HhI2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "473fc432073112a5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.331575757575758,
+    "arithmeticGeometricMean": 5.284032621968244,
+    "median": 5.0,
+    "hash": "473fc432073112a5",
+    "lastUpdate": "2024-05-06"
+  }
+}

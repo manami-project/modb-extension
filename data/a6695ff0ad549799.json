@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18406",
+    "https://anilist.co/anime/173333",
+    "https://anime-planet.com/anime/mashin-souzouden-wataru",
+    "https://anisearch.com/anime/19013",
+    "https://livechart.me/anime/12499",
+    "https://myanimelist.net/anime/57827",
+    "https://notify.moe/anime/1jTLP55IR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a6695ff0ad549799",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "a6695ff0ad549799",
+    "lastUpdate": "2024-05-11"
+  }
+}

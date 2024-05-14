@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7348",
+    "https://anime-planet.com/anime/meguriau-sekai",
+    "https://anisearch.com/anime/6032",
+    "https://kitsu.io/anime/11895",
+    "https://myanimelist.net/anime/54694",
+    "https://notify.moe/anime/aPW6tKmig"
+  ],
+  "synopsis": {
+    "text": "In the tender years of high school, a young girl experiences the profound impact of her first love. From the shared joy of strolling home together to the heart-wrenching sorrow of being separated by school, their relationship is a tapestry of emotions. As she matures into an adult, she finds herself reflecting on the boy who once filled her days with love and longing. Despite the unpredictable twists of fate that led them apart, the memory of their time together remains etched in her heart, shaping her life in ways she could never have foreseen. Now, she clings to the hope of their paths crossing again, a testament to the enduring power of first love.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d43bbef5f75f99aa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.929316326530612,
+    "arithmeticGeometricMean": 4.925270087826909,
+    "median": 4.907,
+    "hash": "d43bbef5f75f99aa",
+    "lastUpdate": "2024-05-07"
+  }
+}

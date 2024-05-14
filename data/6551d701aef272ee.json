@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13376",
+    "https://anilist.co/anime/99753",
+    "https://anime-planet.com/anime/takunomi",
+    "https://anisearch.com/anime/12715",
+    "https://kitsu.io/anime/13992",
+    "https://livechart.me/anime/2831",
+    "https://myanimelist.net/anime/36108",
+    "https://notify.moe/anime/1VMHhKmmg"
+  ],
+  "synopsis": {
+    "text": "Every evening, a unique blend of camaraderie and culinary delights unfolds at the women-only Stella House Haruno in Tokyo. At the heart of this delectable tale is Michiru Amatsuki, a young woman of 20, who has recently relocated to the bustling city following a career shift. Sharing the space with an eclectic mix of women, each with distinct personalities, ages, and professions, Michiru finds a common ground in their shared appreciation for fine food and drinks. As the sun sets, the stories flow as freely as the drinks, making every night an adventure in itself. Join Michiru and her companions in \"Takunomi.\" as they navigate life, one sip at a time.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6551d701aef272ee",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.337290584415584,
+    "arithmeticGeometricMean": 6.327604222454019,
+    "median": 6.364,
+    "hash": "6551d701aef272ee",
+    "lastUpdate": "2024-05-10"
+  }
+}

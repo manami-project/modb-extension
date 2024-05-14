@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17708",
+    "https://anilist.co/anime/150950",
+    "https://anime-planet.com/anime/bai-lian-cheng-shen",
+    "https://kitsu.io/anime/46916",
+    "https://livechart.me/anime/12269",
+    "https://myanimelist.net/anime/52949",
+    "https://notify.moe/anime/256JhP5SR"
+  ],
+  "synopsis": {
+    "text": "In a world teeming with mysterious forces and relentless power struggles among diverse clans, Luo Zheng, once a revered young master, finds himself reduced to a mere family slave following his family's downfall. His sister is cruelly imprisoned by an overpowering faction, leaving him no choice but to serve others. However, in the midst of despair, a glimmer of hope emerges. An ancient book bequeathed by his father harbors a magical spell capable of transforming a human into an instrument of immense power. As Luo Zheng embarks on a journey to reclaim his lost glory, refusing to bow down to fate, he inadvertently hones his body into a divine weapon, marking the beginning of a legendary stand against adversity.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8896ad9347bf890a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.935363636363636,
+    "arithmeticGeometricMean": 6.901623842048284,
+    "median": 7.317727272727273,
+    "hash": "8896ad9347bf890a",
+    "lastUpdate": "2024-05-08"
+  }
+}

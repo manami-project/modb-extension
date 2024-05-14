@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17151",
+    "https://anilist.co/anime/142794",
+    "https://anime-planet.com/anime/arceus-the-one-called-god",
+    "https://anisearch.com/anime/17047",
+    "https://kitsu.io/anime/45599",
+    "https://livechart.me/anime/11365",
+    "https://myanimelist.net/anime/50673"
+  ],
+  "synopsis": {
+    "text": "Nintendo Switch's \"Pokémon Legends: Arceus\" gets an exciting web special, \"Pokémon: The Arceus Chronicles,\" featuring four action-packed episodes on Amazon Prime Video. Ash, Pikachu, and friends embark on a thrilling journey to the Sinnoh region, where they reunite with Brock to investigate a cryptic message from the elusive Mythical Pokémon, Arceus.\n\nUpon reaching Mount Coronet, our heroes encounter a frenzied Heatran and the seemingly disbanded Team Galactic. The commanders of this nefarious group are hell-bent on locating their vanished leader by opening an interdimensional portal. To thwart their sinister plans and save Sinnoh from impending doom, Ash and his friends join forces with a formidable trio of Legendary Pokémon and the Sinnoh Champion, Cynthia.\n\nFrom attending the vibrant Sinnoh Festival to engaging in heated battles at Mount Coronet, this web special promises an adrenaline-pumping adventure that will leave you cheering for more!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b0c4d2d4b92b61d7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.642183055040197,
+    "arithmeticGeometricMean": 6.6348844535999465,
+    "median": 6.755,
+    "hash": "b0c4d2d4b92b61d7",
+    "lastUpdate": "2024-05-09"
+  }
+}

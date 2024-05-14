@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148069",
+    "https://anime-planet.com/anime/chameleon",
+    "https://kitsu.io/anime/40813",
+    "https://myanimelist.net/anime/35666",
+    "https://notify.moe/anime/hFVO2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a9f189ec439965e7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.390848484848486,
+    "arithmeticGeometricMean": 5.364123983889879,
+    "median": 5.42,
+    "hash": "a9f189ec439965e7",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2905",
+    "https://anilist.co/anime/3421",
+    "https://anime-planet.com/anime/kodocha-ova",
+    "https://anisearch.com/anime/3339",
+    "https://kitsu.io/anime/2997",
+    "https://livechart.me/anime/6675",
+    "https://myanimelist.net/anime/3421",
+    "https://notify.moe/anime/cNLwcFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d6a2cd6bdf2807e6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.775635833554202,
+    "arithmeticGeometricMean": 6.761829800515322,
+    "median": 7.0,
+    "hash": "d6a2cd6bdf2807e6",
+    "lastUpdate": "2024-05-09"
+  }
+}

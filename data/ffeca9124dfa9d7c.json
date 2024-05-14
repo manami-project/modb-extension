@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11358",
+    "https://anilist.co/anime/101430",
+    "https://anime-planet.com/anime/beluga",
+    "https://anisearch.com/anime/10153",
+    "https://kitsu.io/anime/10164",
+    "https://myanimelist.net/anime/28951",
+    "https://notify.moe/anime/Sm1ytKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ffeca9124dfa9d7c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.616469652796184,
+    "arithmeticGeometricMean": 4.568579492109675,
+    "median": 4.636363636363637,
+    "hash": "ffeca9124dfa9d7c",
+    "lastUpdate": "2024-05-07"
+  }
+}

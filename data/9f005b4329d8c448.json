@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1263",
+    "https://anilist.co/anime/1765",
+    "https://anime-planet.com/anime/vampire-wars",
+    "https://anisearch.com/anime/1281",
+    "https://kitsu.io/anime/1585",
+    "https://livechart.me/anime/7257",
+    "https://myanimelist.net/anime/1765",
+    "https://notify.moe/anime/BmhfcKmmR"
+  ],
+  "synopsis": {
+    "text": "International spy and master criminal, Kousaburo Kuki, finds himself entangled in a web of mystery and danger when he is hired by French secret service agent, Monsieur Lassar, to investigate a series of seemingly unrelated events. A brutal attack on a NASA base in Arizona and the discovery of a dead CIA agent in Paris set the stage for a chilling tale of modern-day vampires. As Kuki delves deeper into the case, he discovers that film star Lamia Vindaw is at the center of it all, caught in the crosshairs of a sinister vampire cult and a CIA operative. With the body count rising, Kuki must navigate the seedy underworld of Paris, using his wits and brawn to uncover the truth and protect Lamia, before he too becomes a victim of the bloodthirsty cult. Will he be able to solve the mystery and save the glamorous starlet, or will he fall prey to the creatures of the night?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9f005b4329d8c448",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.670061489530878,
+    "arithmeticGeometricMean": 4.65690870106432,
+    "median": 4.75,
+    "hash": "9f005b4329d8c448",
+    "lastUpdate": "2024-05-10"
+  }
+}

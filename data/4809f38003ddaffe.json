@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4927",
+    "https://anilist.co/anime/3294",
+    "https://anime-planet.com/anime/gasshin-sentai-mechander-robo",
+    "https://anisearch.com/anime/3854",
+    "https://kitsu.io/anime/2914",
+    "https://livechart.me/anime/6828",
+    "https://myanimelist.net/anime/3294",
+    "https://notify.moe/anime/AEcwcFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4809f38003ddaffe",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.21660791589363,
+    "arithmeticGeometricMean": 5.156785005701574,
+    "median": 5.2272727272727275,
+    "hash": "4809f38003ddaffe",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12390",
+    "https://anilist.co/anime/101996",
+    "https://anime-planet.com/anime/first-love-monster-ova",
+    "https://anisearch.com/anime/11760",
+    "https://kitsu.io/anime/12557",
+    "https://livechart.me/anime/2319",
+    "https://myanimelist.net/anime/34016",
+    "https://notify.moe/anime/dJzihKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f32afd9e1b92b197",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.239478399151869,
+    "arithmeticGeometricMean": 6.229883570731042,
+    "median": 6.326530612244898,
+    "hash": "f32afd9e1b92b197",
+    "lastUpdate": "2024-05-09"
+  }
+}

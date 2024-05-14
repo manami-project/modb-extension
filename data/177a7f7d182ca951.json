@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12088",
+    "https://anilist.co/anime/21773",
+    "https://anime-planet.com/anime/anonymous-noise",
+    "https://anisearch.com/anime/11414",
+    "https://kitsu.io/anime/12117",
+    "https://livechart.me/anime/2163",
+    "https://myanimelist.net/anime/33203",
+    "https://notify.moe/anime/73ig2KiiR"
+  ],
+  "synopsis": {
+    "text": "Nino Arisugawa, a young girl with a passion for singing, was left heartbroken after two consecutive separations from her childhood friends, Momo Sakaki and Kanade 'Yuzu' Yuzuriha. Both boys, unbeknownst to each other, promised Nino that her voice would be the beacon that would reunite them if they were ever separated. Holding onto this promise, Nino spent years singing to the ocean, hoping that her voice would reach them. \n\nSix years later, fate brings Nino, Momo, and Yuzu together at the same high school. However, time has changed many things, and the reunion is not as simple as Nino had hoped. Momo, Nino's first love, seems determined to avoid her, while Yuzu's feelings for Nino resurface. In an attempt to reach Momo, Yuzu invites Nino to become the singer in his band.\n\nAs Nino navigates the complexities of her past and present relationships, she must confront the unrequited love and unspoken feelings that have emerged. Through music, Nino, Momo, and Yuzu must find a way to mend their friendship and overcome the challenges that come with their complicated love triangle. Will Nino's voice be enough to bring them all together, or will it drive them further apart?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "177a7f7d182ca951",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.885426140153032,
+    "arithmeticGeometricMean": 6.879358793575572,
+    "median": 6.9790909090909095,
+    "hash": "177a7f7d182ca951",
+    "lastUpdate": "2024-05-09"
+  }
+}

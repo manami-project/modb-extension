@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12535",
+    "https://anilist.co/anime/148975",
+    "https://anime-planet.com/anime/xiong-chu-mo-season-4-chunri-dui-dui-peng",
+    "https://anisearch.com/anime/12768",
+    "https://kitsu.io/anime/11864",
+    "https://myanimelist.net/anime/32820",
+    "https://notify.moe/anime/1D6qtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7292566130ceaef7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.517583487940631,
+    "arithmeticGeometricMean": 4.431479210271256,
+    "median": 4.863636363636363,
+    "hash": "7292566130ceaef7",
+    "lastUpdate": "2024-05-08"
+  }
+}

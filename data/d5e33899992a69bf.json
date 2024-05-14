@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15500",
+    "https://anilist.co/anime/104372",
+    "https://anime-planet.com/anime/a-day-before-us-zero",
+    "https://anisearch.com/anime/13733",
+    "https://kitsu.io/anime/41467",
+    "https://livechart.me/anime/10364",
+    "https://myanimelist.net/anime/42481",
+    "https://notify.moe/anime/tV6NYHdmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d5e33899992a69bf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.276349025974026,
+    "arithmeticGeometricMean": 7.26809267467234,
+    "median": 7.267532467532467,
+    "hash": "d5e33899992a69bf",
+    "lastUpdate": "2024-05-10"
+  }
+}

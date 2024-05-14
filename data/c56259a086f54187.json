@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13256",
+    "https://anilist.co/anime/99420",
+    "https://anime-planet.com/anime/girls-last-tour",
+    "https://anisearch.com/anime/12597",
+    "https://kitsu.io/anime/13597",
+    "https://livechart.me/anime/2771",
+    "https://myanimelist.net/anime/35838",
+    "https://notify.moe/anime/pMhVhFimR"
+  ],
+  "synopsis": {
+    "text": "Last survivors in a war-ravaged world, two young girls, Chito and Yuuri, traverse the remnants of civilization on their trusted Kettenkrad motorbike. Amidst the ruins of a once-vibrant city, they search for essentials like food, water, and fuel, while cherishing the simple joys of life. Despite the desolation, the duo's shared experiences and camaraderie bring warmth and hope to their otherwise bleak existence. With Chito steering the vehicle and Yuuri handling the gun, they explore the post-apocalyptic landscape, occasionally encountering fellow survivors and glimpses of the world that once was. In a journey filled with both melancholy and moments of happiness, Chito and Yuuri's unwavering bond illuminates the dark reality of their surroundings, proving that even in a world teetering on the brink of oblivion, life can still be worth living.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c56259a086f54187",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.080482685290697,
+    "arithmeticGeometricMean": 8.079960608026658,
+    "median": 8.051,
+    "hash": "c56259a086f54187",
+    "lastUpdate": "2024-05-10"
+  }
+}

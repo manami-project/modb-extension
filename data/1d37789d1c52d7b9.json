@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12541",
+    "https://anilist.co/anime/8671",
+    "https://anime-planet.com/anime/raja-maharaja",
+    "https://anisearch.com/anime/6305",
+    "https://kitsu.io/anime/5433",
+    "https://myanimelist.net/anime/8671",
+    "https://notify.moe/anime/H4lipFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d37789d1c52d7b9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.544849721706864,
+    "arithmeticGeometricMean": 4.490592108416593,
+    "median": 4.668181818181818,
+    "hash": "1d37789d1c52d7b9",
+    "lastUpdate": "2024-05-08"
+  }
+}

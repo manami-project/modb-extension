@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3408",
+    "https://anilist.co/anime/355",
+    "https://anime-planet.com/anime/shakugan-no-shana",
+    "https://anisearch.com/anime/1177",
+    "https://kitsu.io/anime/322",
+    "https://livechart.me/anime/3286",
+    "https://myanimelist.net/anime/355",
+    "https://notify.moe/anime/JwEhcKmmg"
+  ],
+  "synopsis": {
+    "text": "Crimson entities from a parallel universe have turned the world into a hunting ground, feasting on the life energy of unsuspecting humans. These ruthless predators leave behind mere remnants of souls, known as 'Torches,' which gradually fade away, erasing any trace of the victims' existence. A group of warriors known as Flame Hazes have taken it upon themselves to combat these otherworldly beings and protect humanity.\n\nOne ordinary day, high school student Yuuji Sakai's life takes a dramatic turn when he is caught in a temporal rift and attacked by one of these entities. Just as all hope seems lost, a mysterious girl with blazing hair and fiery eyes appears, wielding a mighty sword to save him. However, Yuuji soon learns that he has already been transformed into a Torch—a mere flicker of memory waiting to be snuffed out.\n\nAs the mysterious girl rescues him from the brink of oblivion, Yuuji discovers that he is no ordinary Torch; he is a Mystes, a rare Torch carrying a powerful artifact within him. Thrust into a world of eternal battles that rage unseen, Yuuji must come to terms with his newfound existence and join forces with the enigmatic girl to protect what remains of his life and uncover the truth behind the mysterious artifact he carries.\n\nWith time no longer on his side and the blue flame in his chest slowly fading, Yuuji embarks on an extraordinary adventure to find his place in the world before his Torch is extinguished forever.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "456f00206cf8ba47",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.598916379953604,
+    "arithmeticGeometricMean": 7.597955891157069,
+    "median": 7.6104545454545445,
+    "hash": "456f00206cf8ba47",
+    "lastUpdate": "2024-05-09"
+  }
+}

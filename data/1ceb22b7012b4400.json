@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/mtv-atama-id"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1ceb22b7012b4400",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.846,
+    "arithmeticGeometricMean": 5.846,
+    "median": 5.846,
+    "hash": "1ceb22b7012b4400",
+    "lastUpdate": "2024-05-08"
+  }
+}

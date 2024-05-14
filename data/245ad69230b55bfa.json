@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8391",
+    "https://anilist.co/anime/10330",
+    "https://anime-planet.com/anime/bakugan-battle-brawlers-mechtanium-surge",
+    "https://anisearch.com/anime/7042",
+    "https://kitsu.io/anime/6131",
+    "https://livechart.me/anime/1570",
+    "https://myanimelist.net/anime/10330",
+    "https://notify.moe/anime/-xlnpFimR"
+  ],
+  "synopsis": {
+    "text": "Code Eve's powers have turned Dan's Bakugan, Drago, into a force to be reckoned with, but one that they can't control. As the virtual realm of Bakugan Interspace grapples with the aftermath of an alien invasion, the Battle Brawlers must find a way to harness this newfound power before it's too late. But it's not just Drago they need to worry about - a mysterious enemy is infiltrating Bakugan Interspace, brainwashing brawlers and unleashing mutated Chaos Bakugan in a bid for world domination. With the fate of all Bakugan hanging in the balance, Dan and his friends must rally together and confront this new threat, even as they struggle to keep the destructive Mechtogan contained within Drago at bay. Will they be able to save Bakugan Interspace and restore balance to the virtual realm, or will this insidious enemy prove too powerful to defeat?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "245ad69230b55bfa",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.195405844155844,
+    "arithmeticGeometricMean": 6.177333679229598,
+    "median": 6.26,
+    "hash": "245ad69230b55bfa",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15126",
+    "https://anilist.co/anime/112296",
+    "https://anime-planet.com/anime/strike-the-blood-iv",
+    "https://anisearch.com/anime/14664",
+    "https://kitsu.io/anime/42606",
+    "https://livechart.me/anime/9623",
+    "https://myanimelist.net/anime/40485",
+    "https://notify.moe/anime/VWhmxx8Zg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d8f08e6db9aef16",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.316275268210051,
+    "arithmeticGeometricMean": 7.310417980210938,
+    "median": 7.402181818181818,
+    "hash": "4d8f08e6db9aef16",
+    "lastUpdate": "2024-05-10"
+  }
+}

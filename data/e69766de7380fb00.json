@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11071",
+    "https://anilist.co/anime/21254",
+    "https://anime-planet.com/anime/frame-arms-a-violent-struggle",
+    "https://anisearch.com/anime/10212",
+    "https://kitsu.io/anime/10586",
+    "https://livechart.me/anime/1401",
+    "https://myanimelist.net/anime/30010",
+    "https://notify.moe/anime/Ko7QtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e69766de7380fb00",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.624869688134994,
+    "arithmeticGeometricMean": 4.477735163591348,
+    "median": 4.7272727272727275,
+    "hash": "e69766de7380fb00",
+    "lastUpdate": "2024-05-09"
+  }
+}

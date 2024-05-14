@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15209",
+    "https://anilist.co/anime/101777",
+    "https://anime-planet.com/anime/22-7-shampoo-no-nioi-ga-shita",
+    "https://anisearch.com/anime/13442",
+    "https://kitsu.io/anime/41484",
+    "https://myanimelist.net/anime/37406",
+    "https://notify.moe/anime/74NYu3dmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "350fbdb19313614b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.499472038165915,
+    "arithmeticGeometricMean": 6.480035362047536,
+    "median": 6.24,
+    "hash": "350fbdb19313614b",
+    "lastUpdate": "2024-05-08"
+  }
+}

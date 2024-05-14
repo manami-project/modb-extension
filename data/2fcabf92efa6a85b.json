@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/134786",
+    "https://anime-planet.com/anime/rain-drops-ontology",
+    "https://kitsu.io/anime/47434",
+    "https://myanimelist.net/anime/55482"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2fcabf92efa6a85b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.113909090909091,
+    "arithmeticGeometricMean": 7.113747021929152,
+    "median": 7.113909090909091,
+    "hash": "2fcabf92efa6a85b",
+    "lastUpdate": "2024-05-07"
+  }
+}

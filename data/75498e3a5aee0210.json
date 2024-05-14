@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14236",
+    "https://anilist.co/anime/103303",
+    "https://anime-planet.com/anime/nijuuseiki-denki-mokuroku",
+    "https://anisearch.com/anime/13774",
+    "https://kitsu.io/anime/41923",
+    "https://livechart.me/anime/3434",
+    "https://notify.moe/anime/PnD0qLomR"
+  ],
+  "synopsis": {
+    "text": "Japanese culture and modern technology collide in the summer of 1907, as 15-year-old Inako Momokawa, the second daughter of a sake brewer, struggles to find her place in the rapidly changing world. Living in the Fushimi area of Kyoto, Inako's life is filled with constant scoldings from her father, as nothing she does ever seems to be right. Her only solace is her unwavering faith in her prayers to the gods.\n\nOne fateful day, while visiting the Fushimi Inari shrine, Inako encounters Kihachi Sakamoto, a rebellious young man who rejects the gods and embraces the imminent age of electricity. As Inako's family abruptly discusses her marriage, her father takes control of the decisions, leaving her feeling hopeless and desperate to escape. Sensing her distress, Kihachi encourages Inako to express her true feelings and the two embark on a daring adventure.\n\nIn order to halt the marriage, Inako and Kihachi must locate an extraordinary book known as the 'Electricity Catalog.' Written by Kihachi during his childhood, the book contains predictions about electricity, but its whereabouts remain unknown after being taken by his older brother, Seiroku. Together, the pair scours Kyoto and Shiga prefectures in search of the elusive book, forging a deep bond as they navigate the complexities of tradition and innovation.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "75498e3a5aee0210",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "75498e3a5aee0210",
+    "lastUpdate": "2024-05-11"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/177434",
+    "https://anime-planet.com/anime/captain-tsubasa-special",
+    "https://kitsu.io/anime/44669",
+    "https://myanimelist.net/anime/40606",
+    "https://notify.moe/anime/fKplccB4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "15a895d403b32714",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.36969696969697,
+    "arithmeticGeometricMean": 6.360705328137963,
+    "median": 6.16,
+    "hash": "15a895d403b32714",
+    "lastUpdate": "2024-05-10"
+  }
+}

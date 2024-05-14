@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/history-of-les-merveilleuses",
+    "https://kitsu.io/anime/41802",
+    "https://myanimelist.net/anime/37539"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bc49a37fc88b0e5f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.898,
+    "arithmeticGeometricMean": 5.891276111561358,
+    "median": 5.898,
+    "hash": "bc49a37fc88b0e5f",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4060",
+    "https://anilist.co/anime/4095",
+    "https://anime-planet.com/anime/chuumon-no-ooi-ryouriten-1991",
+    "https://anisearch.com/anime/168",
+    "https://kitsu.io/anime/3462",
+    "https://livechart.me/anime/7617",
+    "https://myanimelist.net/anime/4095",
+    "https://notify.moe/anime/c9VXcFmmg"
+  ],
+  "synopsis": {
+    "text": "Two young British hunters, after a hunting expedition gone awry, stumble upon an enigmatic eatery nestled deep within the woods in \"Chuumon no Ooi Ryouriten (1991)\". This short film, inspired by the tale penned by esteemed Japanese author Kenji Miyazawa, presents a chilling twist as the hunters may soon find themselves in the unfamiliar role of the hunted. The film enhances the original, brief narrative with additional scenes not found in the source material, promising a suspenseful and thrilling experience.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "abd03037f88fa6e1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.259439879848043,
+    "arithmeticGeometricMean": 6.253080731161564,
+    "median": 6.23,
+    "hash": "abd03037f88fa6e1",
+    "lastUpdate": "2024-05-09"
+  }
+}

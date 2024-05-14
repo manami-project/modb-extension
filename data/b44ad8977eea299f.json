@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11795",
+    "https://anilist.co/anime/1902",
+    "https://anime-planet.com/anime/happiness-the-brilliant-day-of-jun-watarase",
+    "https://anisearch.com/anime/4110",
+    "https://kitsu.io/anime/1712",
+    "https://livechart.me/anime/6590",
+    "https://myanimelist.net/anime/1902",
+    "https://notify.moe/anime/gzqf5FmiR"
+  ],
+  "synopsis": {
+    "text": "Anri Hiiragi and Haruhi Kamizaka, two inseparable friends, attend a unique school that offers both regular and magical education. Haruhi, inspired by a mage who once saved her, is determined to master magic and find her savior to express her gratitude with a Valentine's chocolate. Meanwhile, Jun Watarase's life takes an unexpected turn when a magical mix-up transforms her into a girl. Overnight, she becomes the center of attention, her newfound charm drawing in every boy in school, leaving them besotted and seeking a kiss. As Jun navigates her new reality, she must deal with the unforeseen consequences of her transformation, which prove to be a little too powerful.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b44ad8977eea299f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.2604733633713225,
+    "arithmeticGeometricMean": 6.252191438959967,
+    "median": 6.454545454545455,
+    "hash": "b44ad8977eea299f",
+    "lastUpdate": "2024-05-09"
+  }
+}

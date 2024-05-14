@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9327",
+    "https://anilist.co/anime/17659",
+    "https://anime-planet.com/anime/battle-angel-alita-3d-special",
+    "https://anisearch.com/anime/8080",
+    "https://kitsu.io/anime/8442",
+    "https://livechart.me/anime/7252",
+    "https://myanimelist.net/anime/17659",
+    "https://notify.moe/anime/5QF0tFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0ee67776bcaf01bf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.8756114497747145,
+    "arithmeticGeometricMean": 4.865577441896879,
+    "median": 4.81,
+    "hash": "0ee67776bcaf01bf",
+    "lastUpdate": "2024-05-09"
+  }
+}

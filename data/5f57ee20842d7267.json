@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13006",
+    "https://anilist.co/anime/98891",
+    "https://anime-planet.com/anime/kirakira-pretty-cure-a-la-mode-movie-paris-to-omoide-no-mille-feuille",
+    "https://anisearch.com/anime/12355",
+    "https://kitsu.io/anime/40723",
+    "https://livechart.me/anime/2606",
+    "https://myanimelist.net/anime/35206",
+    "https://notify.moe/anime/Wpuv2Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5f57ee20842d7267",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.807977736549164,
+    "arithmeticGeometricMean": 6.800176053644304,
+    "median": 6.94,
+    "hash": "5f57ee20842d7267",
+    "lastUpdate": "2024-05-09"
+  }
+}

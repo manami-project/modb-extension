@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13454",
+    "https://anilist.co/anime/103966",
+    "https://anime-planet.com/anime/zhu-zhu-xia-bian-shen-xiao-ying-xiong",
+    "https://anisearch.com/anime/13171",
+    "https://myanimelist.net/anime/38124"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0eddd102f0ab3ff3",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.617929499072356,
+    "arithmeticGeometricMean": 4.448580635058119,
+    "median": 4.272727272727273,
+    "hash": "0eddd102f0ab3ff3",
+    "lastUpdate": "2024-05-07"
+  }
+}

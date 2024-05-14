@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/licensed-by-royal-special",
+    "https://anisearch.com/anime/14631",
+    "https://kitsu.io/anime/10618",
+    "https://myanimelist.net/anime/30066",
+    "https://notify.moe/anime/AbvQpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7c4e19bcd7d18fff",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.804540816326531,
+    "arithmeticGeometricMean": 5.786874650751361,
+    "median": 5.789081632653061,
+    "hash": "7c4e19bcd7d18fff",
+    "lastUpdate": "2024-05-07"
+  }
+}

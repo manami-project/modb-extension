@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6627",
+    "https://anilist.co/anime/7158",
+    "https://anime-planet.com/anime/dr-slump-arale-chan-n-cha-wakuwaku-hot-no-natsuyasumi",
+    "https://anisearch.com/anime/5656",
+    "https://kitsu.io/anime/4885",
+    "https://livechart.me/anime/10996",
+    "https://myanimelist.net/anime/7158",
+    "https://notify.moe/anime/opxgpKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cb78b6846f8fb925",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.853525664811379,
+    "arithmeticGeometricMean": 5.832221571730705,
+    "median": 5.965454545454545,
+    "hash": "cb78b6846f8fb925",
+    "lastUpdate": "2024-05-09"
+  }
+}

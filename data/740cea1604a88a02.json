@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6714",
+    "https://anilist.co/anime/3280",
+    "https://anime-planet.com/anime/kinnikuman-kessen-shichinin-no-seigi-choujin-vs-uchuu-nobushi",
+    "https://anisearch.com/anime/5701",
+    "https://kitsu.io/anime/2906",
+    "https://livechart.me/anime/11867",
+    "https://myanimelist.net/anime/3280",
+    "https://notify.moe/anime/JlKwcFmiR"
+  ],
+  "synopsis": {
+    "text": "Kinnikuman and his team are called upon by a young boy named Beansman, hailing from the distant Planet Rakka. In this thrilling TV special, which follows the 21st Choujin Olympics Arc, our heroes are tasked with saving Beansman's home world from the menacing Space Samurais, led by the ruthless Black King. This engaging storyline cleverly parodies the classic film, The Seven Samurai, offering viewers a unique blend of action and humor. Prepare for an exciting journey filled with intergalactic battles and unforgettable characters!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "740cea1604a88a02",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.102641311069882,
+    "arithmeticGeometricMean": 6.082110868087891,
+    "median": 6.318923933209647,
+    "hash": "740cea1604a88a02",
+    "lastUpdate": "2024-05-09"
+  }
+}

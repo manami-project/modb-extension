@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/17879",
+    "https://anime-planet.com/anime/tamako-market-specials",
+    "https://kitsu.io/anime/7772",
+    "https://livechart.me/anime/164",
+    "https://myanimelist.net/anime/17879",
+    "https://notify.moe/anime/f_KppFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4b61a9e78e05aff1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.597003367003366,
+    "arithmeticGeometricMean": 6.589053093964872,
+    "median": 6.503282828282828,
+    "hash": "4b61a9e78e05aff1",
+    "lastUpdate": "2024-05-06"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5035",
+    "https://anilist.co/anime/14211",
+    "https://anime-planet.com/anime/instant-history",
+    "https://anisearch.com/anime/4137",
+    "https://kitsu.io/anime/10113",
+    "https://myanimelist.net/anime/14211",
+    "https://notify.moe/anime/qWdspKiiR"
+  ],
+  "synopsis": {
+    "text": "Shown on Fuji Television, this anime presents a unique blend of history and animation, with each three-minute episode highlighting significant historical events that occurred on the same date. The protagonist, who is unaware of the historical happenings, embarks on a journey of discovery. To enhance the learning experience, the anime incorporates photographs and film footage sourced from the Mainichi Shimbun newspaper, where the director's Fuku-chan manga was being published concurrently. This engaging approach to history education aims to captivate viewers and spark their curiosity about the past.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2900ead9460ec3be",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2932675324675325,
+    "arithmeticGeometricMean": 5.234977591114518,
+    "median": 5.0,
+    "hash": "2900ead9460ec3be",
+    "lastUpdate": "2024-05-07"
+  }
+}

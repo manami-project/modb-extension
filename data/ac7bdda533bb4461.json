@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8348",
+    "https://anilist.co/anime/10490",
+    "https://anime-planet.com/anime/blood-c",
+    "https://anisearch.com/anime/6967",
+    "https://kitsu.io/anime/6203",
+    "https://livechart.me/anime/1209",
+    "https://myanimelist.net/anime/10490",
+    "https://notify.moe/anime/ukMVpFmmR"
+  ],
+  "synopsis": {
+    "text": "Tormented by cryptic visions and an unsettling curiosity, Saya Kisaragi, a seemingly ordinary schoolgirl, conceals her extraordinary life as a formidable monster hunter. Nestled within a serene lakeside village, Saya resides in the Ukishima Shrine with her father, Tadayoshi, who bestows upon her a sacred sword and the knowledge of the Art of the Sword. By day, she navigates the typical challenges of high school and cherishes her time with friends. But as night descends, Saya's true purpose emerges: to protect her village from the Elder Bairns, supernatural creatures with a hunger for human prey.\n\nAs Saya's world begins to unravel, she overhears whispers of a broken covenant among the monsters she hunts, and a peculiar dog appears, questioning her resolve to uphold her promise to safeguard the village. With her reality now in question, Saya embarks on a perilous journey to uncover the truth, her courage and determination unwavering as she confronts the eerie secrets that lurk within her once-peaceful home.\n\nIn this gripping tale of mystery and suspense, Saya's strength and resilience are tested as she battles the forces of darkness and grapples with the enigmatic nature of her own existence. Will she be able to restore the tranquility she once knew, or will the shocking revelations forever alter the course of her destiny?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ac7bdda533bb4461",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.511673238597151,
+    "arithmeticGeometricMean": 6.507305251004817,
+    "median": 6.511,
+    "hash": "ac7bdda533bb4461",
+    "lastUpdate": "2024-05-09"
+  }
+}

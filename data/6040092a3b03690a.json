@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4219",
+    "https://anilist.co/anime/17387",
+    "https://anime-planet.com/anime/imokawa-mukuzo-genkanban-no-maki",
+    "https://anisearch.com/anime/686",
+    "https://kitsu.io/anime/8613",
+    "https://myanimelist.net/anime/17387",
+    "https://notify.moe/anime/UQZJpKmmg"
+  ],
+  "synopsis": {
+    "text": "Also known as Japan's first 'true' anime film, this groundbreaking animation was the first to grace the silver screen in a theatre, although it's not the earliest animation made in Japan. The creation of this anime was a collaborative effort between Shimokawa Hekoten and Tenkatsu (Color Motion Picture CO., Ltd.), with Shimokawa skillfully drawing the backgrounds and characters on a chalkboard. The animation process involved erasing overlapping parts with white paint and repeatedly shooting the scenes to bring the first Japanese animation to life. Despite the sloppy movement that left even the author, Shimokawa, unsatisfied, the anime was screened multiple times at a movie company. However, there is no concrete evidence that it was ever released in theaters, and the contents of the story remain a mystery due to the scarcity of materials mentioning the film and the absence of any surviving copies. This lost masterpiece, potentially released under a different name in 1917, holds the distinction of being the first recorded professional animation in Asia, featuring a main character with a humorous name within its dramatic structure.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6040092a3b03690a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.2528794063079784,
+    "arithmeticGeometricMean": 5.24088336657651,
+    "median": 5.165454545454546,
+    "hash": "6040092a3b03690a",
+    "lastUpdate": "2024-05-08"
+  }
+}

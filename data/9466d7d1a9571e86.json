@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6543",
+    "https://anilist.co/anime/5841",
+    "https://anime-planet.com/anime/yume-wo-kanaeru-zou",
+    "https://anisearch.com/anime/5592",
+    "https://kitsu.io/anime/4299",
+    "https://myanimelist.net/anime/5841",
+    "https://notify.moe/anime/-ER35Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9466d7d1a9571e86",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.533085961657391,
+    "arithmeticGeometricMean": 5.518820315707366,
+    "median": 5.2727272727272725,
+    "hash": "9466d7d1a9571e86",
+    "lastUpdate": "2024-05-07"
+  }
+}

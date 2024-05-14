@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6863",
+    "https://anilist.co/anime/7501",
+    "https://anime-planet.com/anime/kintarou-taiiku-nikki",
+    "https://anisearch.com/anime/5972",
+    "https://kitsu.io/anime/5005",
+    "https://myanimelist.net/anime/7501",
+    "https://notify.moe/anime/DQgztFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee19b953a9a42a34",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.647459846276172,
+    "arithmeticGeometricMean": 4.581256784447562,
+    "median": 4.81,
+    "hash": "ee19b953a9a42a34",
+    "lastUpdate": "2024-05-08"
+  }
+}

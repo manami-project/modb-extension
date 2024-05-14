@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13936",
+    "https://anilist.co/anime/110598",
+    "https://anime-planet.com/anime/straw-dinosaurs-neo",
+    "https://kitsu.io/anime/10317",
+    "https://myanimelist.net/anime/29475",
+    "https://notify.moe/anime/--W8tFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e9fdd265d8476fef",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.218909090909091,
+    "arithmeticGeometricMean": 5.17570319711186,
+    "median": 4.454545454545454,
+    "hash": "e9fdd265d8476fef",
+    "lastUpdate": "2024-05-08"
+  }
+}

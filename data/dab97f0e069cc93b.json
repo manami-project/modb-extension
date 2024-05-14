@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10421",
+    "https://anilist.co/anime/20617",
+    "https://anime-planet.com/anime/ronja-the-robbers-daughter",
+    "https://anisearch.com/anime/9413",
+    "https://kitsu.io/anime/8279",
+    "https://livechart.me/anime/420",
+    "https://myanimelist.net/anime/22359",
+    "https://notify.moe/anime/6tLTtKmmg"
+  ],
+  "synopsis": {
+    "text": "The narrative unfolds the journey of Ronja, the sole daughter of Mattis, the leader of a bandit tribe residing in a colossal castle nestled within a dense forest. Ronja's life takes an intriguing turn as she befriends a boy her age, Birk, and explores the enigmatic creatures dwelling in the forest. Unbeknownst to her, their castle is divided, with Mattis' rival, Borka, occupying the other half. As Ronja navigates through her friendship with Birk amidst the brewing conflict between their families, she learns the true meaning of her father's occupation and what it takes to survive in the mystical forest.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dab97f0e069cc93b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.895972170686456,
+    "arithmeticGeometricMean": 6.889963402992361,
+    "median": 6.912615955473099,
+    "hash": "dab97f0e069cc93b",
+    "lastUpdate": "2024-05-09"
+  }
+}

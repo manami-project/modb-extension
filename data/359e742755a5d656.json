@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1078",
+    "https://anilist.co/anime/2471",
+    "https://anime-planet.com/anime/doraemon-1979",
+    "https://anisearch.com/anime/540",
+    "https://kitsu.io/anime/460",
+    "https://livechart.me/anime/5614",
+    "https://myanimelist.net/anime/2471",
+    "https://notify.moe/anime/BRto5KimR"
+  ],
+  "synopsis": {
+    "text": "Of all the ordinary fourth-graders in Tokyo, Nobita Nobi's life takes an extraordinary turn when a peculiar blue, round, and earless robotic cat emerges from his desk drawer. This robot, known as Doraemon, hails from the 22nd century, dispatched by Nobita's distant descendant. The reason? To rectify the chain of mistakes Nobita is bound to make, which have left his future generations in a state of impoverishment.\n\nEquipped with a four-dimensional pocket brimming with futuristic gadgets, Doraemon's mission is to guide Nobita towards a brighter future. However, the task proves to be more challenging than anticipated, given Nobita's reputation as the class's weakest and least diligent student. Despite Doraemon's best intentions, Nobita's penchant for misusing the advanced gadgets often leads to a cascade of troubles.\n\nCan Doraemon successfully navigate the trials of the past to secure a prosperous future for Nobita's lineage, or will Nobita's misadventures continue to plague their journey towards success? Only time will tell in this thrilling and comedic tale of friendship and growth.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "359e742755a5d656",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.063435340721055,
+    "arithmeticGeometricMean": 7.017975685334385,
+    "median": 7.382837837837837,
+    "hash": "359e742755a5d656",
+    "lastUpdate": "2024-05-09"
+  }
+}

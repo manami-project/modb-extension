@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/401",
+    "https://anilist.co/anime/424",
+    "https://anime-planet.com/anime/dirty-pair",
+    "https://anisearch.com/anime/1788",
+    "https://kitsu.io/anime/388",
+    "https://livechart.me/anime/5865",
+    "https://myanimelist.net/anime/424",
+    "https://notify.moe/anime/lvkT5FiiR"
+  ],
+  "synopsis": {
+    "text": "Dirty Pair follows the adventures of Kei and Yuri, two highly skilled agents working for the World Welfare Work Association (WWWA) in a future where humanity has colonized thousands of star systems. Known as Trouble Consultants, their mission is to solve problems and maintain peace across the galaxy. However, the duo's reputation as the Dirty Pair precedes them, as their unorthodox methods often result in widespread collateral damage. Despite their infamy, the pair boasts an impressive track record, tackling cases involving rogue robots, crazed computers, and even the occasional planetary evacuation. As the WWWA's top female operatives, Kei and Yuri continue to face various challenges, proving that solving problems doesn't always mean leaving things unscathed.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "65f1e6fb4536e627",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.939745560561888,
+    "arithmeticGeometricMean": 6.9310503283288,
+    "median": 7.04,
+    "hash": "65f1e6fb4536e627",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4448",
+    "https://anilist.co/anime/3640",
+    "https://anime-planet.com/anime/alice",
+    "https://anisearch.com/anime/4534",
+    "https://kitsu.io/anime/3161",
+    "https://livechart.me/anime/8986",
+    "https://myanimelist.net/anime/3640",
+    "https://notify.moe/anime/khn_5FiiR"
+  ],
+  "synopsis": {
+    "text": "Monkey Punch, the creator of Lupin III, presents an OVA released in 1991 that follows the story of a mad scientist who, after being betrayed by his beloved Alice, transforms her into an android designed to be the ultimate object of desire. Despite this, Alice remains unfaithful, leading the scientist to task his adopted son, Don Jirochou, with finding and eliminating her as his dying wish. As Don embarks on this mission, he becomes entangled in a web of desire and revenge. Will he be able to fulfill his father's final request, or will he fall victim to Alice's allure? Only time will tell in this thrilling and provocative anime.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ecd4671cc1c9b847",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.2720121918897425,
+    "arithmeticGeometricMean": 5.26001044302201,
+    "median": 5.022448979591837,
+    "hash": "ecd4671cc1c9b847",
+    "lastUpdate": "2024-05-09"
+  }
+}

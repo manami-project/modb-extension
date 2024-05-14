@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6969",
+    "https://anilist.co/anime/7176",
+    "https://anime-planet.com/anime/cheburashka-arere",
+    "https://anisearch.com/anime/5673",
+    "https://kitsu.io/anime/4894",
+    "https://livechart.me/anime/6972",
+    "https://myanimelist.net/anime/7176",
+    "https://notify.moe/anime/_taRpKmmR"
+  ],
+  "synopsis": {
+    "text": "They say friendship comes in the most unexpected ways, and for a solitary, chess-loving crocodile named Gena, it arrives in a crate of oranges. Inside the box, Gena discovers an enigmatic creature with no recollection of its past or how it ended up in the crate. Not quite a monkey, nor a dog, but something delightfully unique, the creature is lovingly named Cheburashka by Gena.\n\nInspired by a beloved Russian character, the story follows the adventures of Gena and Cheburashka as they navigate the world together. From visiting the zoo to playing games, the pair embarks on a series of heartwarming escapades, as Cheburashka gradually makes new friends and discovers the wonders of the world around him. Join Gena and Cheburashka in this endearing tale of friendship and self-discovery that will leave you with a warm, fuzzy feeling inside.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0ae04ed98f7da572",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.410594928880644,
+    "arithmeticGeometricMean": 6.357956679439398,
+    "median": 6.43,
+    "hash": "0ae04ed98f7da572",
+    "lastUpdate": "2024-05-09"
+  }
+}

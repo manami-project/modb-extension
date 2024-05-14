@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10040",
+    "https://anilist.co/anime/129837",
+    "https://anime-planet.com/anime/kuzuryuugawa-to-shounen",
+    "https://anisearch.com/anime/9182",
+    "https://kitsu.io/anime/9988",
+    "https://myanimelist.net/anime/28109",
+    "https://notify.moe/anime/DWYPtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2aa03b491cd12adc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.0995670995671,
+    "arithmeticGeometricMean": 4.076052726836457,
+    "median": 3.7272727272727275,
+    "hash": "2aa03b491cd12adc",
+    "lastUpdate": "2024-05-08"
+  }
+}

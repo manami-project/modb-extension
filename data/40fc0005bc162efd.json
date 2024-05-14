@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10431",
+    "https://anilist.co/anime/20957",
+    "https://anime-planet.com/anime/nyamen",
+    "https://anisearch.com/anime/9458",
+    "https://kitsu.io/anime/8363",
+    "https://livechart.me/anime/7810",
+    "https://myanimelist.net/anime/22849",
+    "https://notify.moe/anime/ncz0tKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "40fc0005bc162efd",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.601582560296845,
+    "arithmeticGeometricMean": 5.5818982377606075,
+    "median": 5.542727272727273,
+    "hash": "40fc0005bc162efd",
+    "lastUpdate": "2024-05-09"
+  }
+}

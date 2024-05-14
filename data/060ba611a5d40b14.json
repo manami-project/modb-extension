@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11622",
+    "https://anilist.co/anime/103460",
+    "https://anime-planet.com/anime/personal-city",
+    "https://anisearch.com/anime/16109",
+    "https://kitsu.io/anime/11426",
+    "https://myanimelist.net/anime/31587",
+    "https://notify.moe/anime/EUq9tKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "060ba611a5d40b14",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.720864564007421,
+    "arithmeticGeometricMean": 4.6637654980489724,
+    "median": 4.671818181818182,
+    "hash": "060ba611a5d40b14",
+    "lastUpdate": "2024-05-07"
+  }
+}

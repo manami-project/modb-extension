@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10693",
+    "https://anilist.co/anime/20747",
+    "https://anime-planet.com/anime/miss-monochrome-supporter",
+    "https://anisearch.com/anime/9712",
+    "https://kitsu.io/anime/8515",
+    "https://livechart.me/anime/5580",
+    "https://myanimelist.net/anime/24713",
+    "https://notify.moe/anime/lDY0tKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6cc9a8b271ac72cc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.222488636363636,
+    "arithmeticGeometricMean": 6.20755800088078,
+    "median": 6.1675,
+    "hash": "6cc9a8b271ac72cc",
+    "lastUpdate": "2024-05-09"
+  }
+}

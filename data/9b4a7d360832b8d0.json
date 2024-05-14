@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/422",
+    "https://anilist.co/anime/46",
+    "https://anime-planet.com/anime/rurouni-kenshin-movie",
+    "https://anisearch.com/anime/3192",
+    "https://kitsu.io/anime/28",
+    "https://livechart.me/anime/4637",
+    "https://myanimelist.net/anime/46",
+    "https://notify.moe/anime/_qVtcKmmg"
+  ],
+  "synopsis": {
+    "text": "Rurouni Kenshin, once known as the lethal assassin Hitokiri Battousai during the Bakumatsu Period, now seeks redemption by carrying a reversed-blade sword in the 12th year of the Meiji Period. As he travels to Yokohama with his companions Sanosuke, Kaoru, and Yahiko, they witness a skirmish between drunken western sailors and a Japanese woman. The woman's protector, a samurai named Shigure Takimi, is revealed to be the brother of someone Kenshin had killed at the end of the last dynasty.\n\nHaunted by the memories of his friends and family who fell victim to the war against the Tokugawa Shogunate, Takimi holds a deep-seated grudge against the Meiji government. He is now determined to ignite a new revolution to overthrow the regime, blaming himself for the death of his close friend, Takatsuki Gentatsu.\n\nAs Kenshin's path crosses with Takimi's, the former assassin must confront his past and decide whether to draw his sword once more. With Takimi's personal vendetta against him intensifying, Kenshin faces a difficult battle that promises only suffering and regret. Will Kenshin stand in the way of Takimi's quest for revenge, or will he find another path to atone for his sins?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9b4a7d360832b8d0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.447317486085344,
+    "arithmeticGeometricMean": 7.444520577366483,
+    "median": 7.4625,
+    "hash": "9b4a7d360832b8d0",
+    "lastUpdate": "2024-05-09"
+  }
+}

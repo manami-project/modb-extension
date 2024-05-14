@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/168565",
+    "https://anime-planet.com/anime/keina-suda-mellow",
+    "https://anisearch.com/anime/18452",
+    "https://kitsu.io/anime/47416",
+    "https://myanimelist.net/anime/55089"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f8d4141e825c23ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.968850649350649,
+    "arithmeticGeometricMean": 6.959067100192819,
+    "median": 7.139,
+    "hash": "f8d4141e825c23ac",
+    "lastUpdate": "2024-05-07"
+  }
+}

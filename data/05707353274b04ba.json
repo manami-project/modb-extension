@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/128060",
+    "https://anime-planet.com/anime/jigueseo-chikyuu-no-sora-no-shita-de",
+    "https://kitsu.io/anime/43135",
+    "https://myanimelist.net/anime/41656"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "05707353274b04ba",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.149272727272727,
+    "arithmeticGeometricMean": 6.129571830724044,
+    "median": 6.149272727272727,
+    "hash": "05707353274b04ba",
+    "lastUpdate": "2024-05-07"
+  }
+}

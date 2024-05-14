@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4653",
+    "https://anilist.co/anime/7525",
+    "https://anime-planet.com/anime/kick-off-2002",
+    "https://anisearch.com/anime/3773",
+    "https://kitsu.io/anime/5015",
+    "https://myanimelist.net/anime/7525",
+    "https://notify.moe/anime/jgmztKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "253e76ec232cb2fb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.136363636363637,
+    "arithmeticGeometricMean": 5.13545836855301,
+    "median": 5.136363636363637,
+    "hash": "253e76ec232cb2fb",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/112137",
+    "https://anime-planet.com/anime/screw",
+    "https://kitsu.io/anime/42558",
+    "https://myanimelist.net/anime/38893"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "298c69cf4201762f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.17909090909091,
+    "arithmeticGeometricMean": 4.1712805856609245,
+    "median": 4.17909090909091,
+    "hash": "298c69cf4201762f",
+    "lastUpdate": "2024-05-07"
+  }
+}

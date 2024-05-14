@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17734",
+    "https://anilist.co/anime/157693",
+    "https://anime-planet.com/anime/pole-princess",
+    "https://anisearch.com/anime/17898",
+    "https://kitsu.io/anime/46779",
+    "https://livechart.me/anime/11681",
+    "https://myanimelist.net/anime/53680",
+    "https://notify.moe/anime/r2tjYoK4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cc3953fe4fa2dc74",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.465660111317254,
+    "arithmeticGeometricMean": 5.459030187075925,
+    "median": 5.187755102040816,
+    "hash": "cc3953fe4fa2dc74",
+    "lastUpdate": "2024-05-09"
+  }
+}

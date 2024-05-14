@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14770",
+    "https://anime-planet.com/anime/chii-chan-to-hige-ojisan",
+    "https://anisearch.com/anime/16207",
+    "https://kitsu.io/anime/10245",
+    "https://myanimelist.net/anime/29385",
+    "https://notify.moe/anime/vElspFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "085b1cb09ec37ca7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.663265306122449,
+    "arithmeticGeometricMean": 5.643761500998084,
+    "median": 5.663265306122449,
+    "hash": "085b1cb09ec37ca7",
+    "lastUpdate": "2024-05-08"
+  }
+}

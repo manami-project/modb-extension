@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10025",
+    "https://anilist.co/anime/20039",
+    "https://anime-planet.com/anime/kill-me-baby-ova",
+    "https://anisearch.com/anime/8915",
+    "https://kitsu.io/anime/7900",
+    "https://livechart.me/anime/177",
+    "https://myanimelist.net/anime/20039",
+    "https://notify.moe/anime/aeeppFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0c76eb665326648c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.972634044526901,
+    "arithmeticGeometricMean": 6.967251502238507,
+    "median": 6.984999999999999,
+    "hash": "0c76eb665326648c",
+    "lastUpdate": "2024-05-09"
+  }
+}

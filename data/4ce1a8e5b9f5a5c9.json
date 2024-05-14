@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2318",
+    "https://anilist.co/anime/10203",
+    "https://anime-planet.com/anime/bikkuriman-daiichiji-seima-taisen",
+    "https://anisearch.com/anime/56",
+    "https://kitsu.io/anime/6077",
+    "https://livechart.me/anime/11941",
+    "https://myanimelist.net/anime/10203",
+    "https://notify.moe/anime/27-7tKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ce1a8e5b9f5a5c9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.850154607297465,
+    "arithmeticGeometricMean": 4.845930531866908,
+    "median": 5.0,
+    "hash": "4ce1a8e5b9f5a5c9",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7470",
+    "https://anilist.co/anime/8635",
+    "https://anime-planet.com/anime/shin-koihime-musou-live-revolution",
+    "https://anisearch.com/anime/6985",
+    "https://kitsu.io/anime/5411",
+    "https://livechart.me/anime/7809",
+    "https://myanimelist.net/anime/8635",
+    "https://notify.moe/anime/nk8itKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5f1206c9639a4f6c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.4478563477338975,
+    "arithmeticGeometricMean": 6.440565098599927,
+    "median": 6.51,
+    "hash": "5f1206c9639a4f6c",
+    "lastUpdate": "2024-05-09"
+  }
+}

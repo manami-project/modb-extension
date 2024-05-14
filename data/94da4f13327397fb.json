@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13867",
+    "https://anilist.co/anime/119956",
+    "https://anime-planet.com/anime/the-shaman-sorceress",
+    "https://anisearch.com/anime/11612",
+    "https://myanimelist.net/anime/42193"
+  ],
+  "synopsis": {
+    "text": "This captivating anime tells the tale of Mohwa, a seasoned shaman who shares her life with her silent daughter, Nang-Yi, and her husband. Their peaceful existence is disrupted when Mohwa's estranged son, Wook-Yi, returns home after years of absence, now a devoted Christian. This dramatic shift in faith ignites a deep-rooted conflict within the family, ultimately leading them down a tragic path. Amidst the turmoil, Nang-Yi creates an enigmatic painting, 'The Shaman Sorceress,' which encapsulates their poignant story and leaves a lasting impression on the viewer.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "94da4f13327397fb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.090909090909091,
+    "arithmeticGeometricMean": 6.090909090909091,
+    "median": 6.090909090909091,
+    "hash": "94da4f13327397fb",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/bug",
+    "https://kitsu.io/anime/44479",
+    "https://myanimelist.net/anime/40016"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "11f9d32d704870ee",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.9,
+    "arithmeticGeometricMean": 4.89834624116292,
+    "median": 4.9,
+    "hash": "11f9d32d704870ee",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8140",
+    "https://anilist.co/anime/10015",
+    "https://anime-planet.com/anime/yu-gi-oh-zexal",
+    "https://anisearch.com/anime/6825",
+    "https://kitsu.io/anime/5995",
+    "https://livechart.me/anime/1560",
+    "https://myanimelist.net/anime/10015",
+    "https://notify.moe/anime/0r7ntFmmg"
+  ],
+  "synopsis": {
+    "text": "Yuuma's dreams of becoming the ultimate Duel Monsters champion seem distant, as he struggles to win matches in the futuristic city of Heartland. One fateful day, a duel with a school bully leads to an unexpected encounter with Astral, an enigmatic spirit seeking his lost memories. These memories have been transformed into powerful 'Number' cards, scattered across the globe, each capable of possessing duelists and unleashing their darkest desires.\n\nTo regain his memories, Astral forms an alliance with Yuuma, guiding him through thrilling duels against other Number Hunters. As they journey together, they face formidable opponents who seek the Number cards for their own sinister purposes. With the stakes higher than ever, Yuuma and Astral must collect the cards, fend off rival hunters, and protect Heartland City from the looming threats that emerge in their pursuit of the powerful and elusive Number cards.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ddc6f6b7adcec7c7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.230884209108864,
+    "arithmeticGeometricMean": 6.217651380532834,
+    "median": 6.251181818181818,
+    "hash": "ddc6f6b7adcec7c7",
+    "lastUpdate": "2024-05-10"
+  }
+}

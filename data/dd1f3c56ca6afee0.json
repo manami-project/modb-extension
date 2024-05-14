@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12027",
+    "https://anilist.co/anime/21742",
+    "https://anime-planet.com/anime/katsugeki-touken-ranbu",
+    "https://anisearch.com/anime/11263",
+    "https://kitsu.io/anime/11994",
+    "https://livechart.me/anime/2110",
+    "https://myanimelist.net/anime/33018",
+    "https://notify.moe/anime/59o6pKmmg"
+  ],
+  "synopsis": {
+    "text": "Retrograde soldiers from the future threaten to alter the course of history in 1863, as Japan teeters on the brink of the samurai era's end. Amidst the power struggle between pro-shogunate and anti-shogunate factions, two sword warriors emerge, brought to life by the sage Saniwa. Horikawa Kunihiro, a courteous and contemplative warrior, and Izuminokami Kanesada, a fiery yet skilled swordsman, join forces with a diverse group of warriors to defend history's integrity.\n\nTogether with Mutsunokami Yoshiyuki, Yagen Toushirou, Tombokiri, and Tsurumaru Kuninaga, they form a formidable alliance against the invading forces. As the fate of the world hangs in the balance, these spirited warriors must navigate treacherous battles and face challenging decisions. With history's authenticity at stake, the destiny of these sword-wielding heroes remains shrouded in mystery, waiting to be unveiled.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd1f3c56ca6afee0",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.609463555752469,
+    "arithmeticGeometricMean": 6.601614947909878,
+    "median": 6.666836734693877,
+    "hash": "dd1f3c56ca6afee0",
+    "lastUpdate": "2024-05-09"
+  }
+}

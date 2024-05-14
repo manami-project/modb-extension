@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17944",
+    "https://anilist.co/anime/163142",
+    "https://anime-planet.com/anime/a-returners-magic-should-be-special",
+    "https://anisearch.com/anime/18314",
+    "https://kitsu.io/anime/47240",
+    "https://livechart.me/anime/11905",
+    "https://myanimelist.net/anime/54852",
+    "https://notify.moe/anime/3MB4wJfVg"
+  ],
+  "synopsis": {
+    "text": "It's been a decade since the Shadow Realms began their relentless assault on the world, leaving humanity on the brink of extinction. Among the last line of defense is Desir Herrman, a gifted mage, and his five comrades. Despite their valiant efforts, they are defeated by the Destruction Dragon, Boromir Napolitan, and the world is consumed by darkness.\n\nBut just as Desir braces for the end, he finds himself transported back in time by thirteen years. He's back at Hebrion Academy, the most prestigious magic school in the Empire, with all his memories of the impending doom intact. With this unexpected second chance, Desir vows to change the course of history and save the world from its disastrous fate.\n\nHowever, his journey is fraught with challenges from the outset. Despite his exceptional skills, Desir is assigned to the Beta Class, reserved for commoners, due to the prevalent classist prejudice in the magical world. To rally allies to his cause and save as many lives as possible, Desir must first prove his worth to the Alpha Class.\n\nWith the knowledge of his future self and unwavering determination, Desir embarks on a mission to reunite his old comrades, starting with the wind mage Romantica Eru. Will he succeed in saving the world from the impending shadow apocalypse, or are they all destined to repeat the same tragic end? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3dad722f7f5584a4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.218326736755308,
+    "arithmeticGeometricMean": 7.213510729091457,
+    "median": 7.318363636363637,
+    "hash": "3dad722f7f5584a4",
+    "lastUpdate": "2024-05-09"
+  }
+}

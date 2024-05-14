@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/173244",
+    "https://anime-planet.com/anime/elemon",
+    "https://kitsu.io/anime/48427"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "32a9aa2542cea319",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0,
+    "arithmeticGeometricMean": 6.0,
+    "median": 6.0,
+    "hash": "32a9aa2542cea319",
+    "lastUpdate": "2024-05-07"
+  }
+}

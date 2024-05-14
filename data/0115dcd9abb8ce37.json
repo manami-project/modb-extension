@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/1527",
+    "https://anime-planet.com/anime/pokemon-the-mastermind-of-mirage-pokemon",
+    "https://anisearch.com/anime/3975",
+    "https://kitsu.io/anime/1369",
+    "https://livechart.me/anime/5678",
+    "https://myanimelist.net/anime/1527",
+    "https://notify.moe/anime/QxoacKmiR"
+  ],
+  "synopsis": {
+    "text": "To witness the groundbreaking invention of the elusive Pokémon scientist, Dr. Yung, Ash Ketchum, Professor Oak, and Misty find themselves gathered at the Mirage Mansion. Dr. Yung's Mirage system promises the resurrection of extinct Pokémon, like Kabutops and Armaldo, for training purposes, using computer data. However, during a demonstration involving Ash's Pikachu and Dr. Yung's Mirage Pokémon, chaos ensues as the machine malfunctions. A Mirage Aerodactyl seizes Dr. Yung, and a self-proclaimed 'Mirage Master' emerges, revealing the system's potential to create invincible Pokémon. In a thrilling turn of events, Ash, Misty, and Professor Oak must thwart the Mirage Master's sinister plans and escape the mansion, all while joined by the enigmatic Pokémon, Mew.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0115dcd9abb8ce37",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.411085902759373,
+    "arithmeticGeometricMean": 6.378809814367677,
+    "median": 6.51,
+    "hash": "0115dcd9abb8ce37",
+    "lastUpdate": "2024-05-06"
+  }
+}

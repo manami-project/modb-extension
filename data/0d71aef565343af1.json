@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3181",
+    "https://anilist.co/anime/5225",
+    "https://anime-planet.com/anime/lupin-the-3rd-pilot-film",
+    "https://anisearch.com/anime/1786",
+    "https://kitsu.io/anime/3997",
+    "https://livechart.me/anime/6402",
+    "https://myanimelist.net/anime/5225",
+    "https://notify.moe/anime/3niC5Kimg"
+  ],
+  "synopsis": {
+    "text": "Previously unseen and remastered versions of Lupin III's anime debut take center stage in 'Lupin III: Secret Files'. This collection features a 15-minute pilot film, created two years after the manga's inception, which served as a test for a potential anime adaptation. The film kicks off with a daring challenge call from Lupin to Zenigata via a public phone. This compilation also includes a remake of the original pilot, which, despite being completed, never saw the light of day. Additionally, fans can enjoy three film trailers for 'Lupin vs. the Clone', 'Castle of Cagliostro', and 'Legend of the Gold of Babylon'. The 1971 TV version of the pilot, which was previously unreleased, was eventually included in the 1989 'Lupin III - Secret File OVA'.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0d71aef565343af1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.20414153193745,
+    "arithmeticGeometricMean": 6.19153429699557,
+    "median": 6.35,
+    "hash": "0d71aef565343af1",
+    "lastUpdate": "2024-05-09"
+  }
+}

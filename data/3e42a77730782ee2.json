@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13641",
+    "https://anilist.co/anime/103353",
+    "https://anime-planet.com/anime/da-hu-fa",
+    "https://anisearch.com/anime/13084",
+    "https://kitsu.io/anime/14185",
+    "https://myanimelist.net/anime/36661",
+    "https://notify.moe/anime/eIjNhKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3e42a77730782ee2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.669597773654917,
+    "arithmeticGeometricMean": 6.661117245101828,
+    "median": 6.51,
+    "hash": "3e42a77730782ee2",
+    "lastUpdate": "2024-05-08"
+  }
+}

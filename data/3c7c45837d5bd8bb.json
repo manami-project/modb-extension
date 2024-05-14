@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/2653",
+    "https://anime-planet.com/anime/doraemon-ganbare-gian",
+    "https://anisearch.com/anime/5108",
+    "https://kitsu.io/anime/2417",
+    "https://livechart.me/anime/8887",
+    "https://myanimelist.net/anime/2653",
+    "https://notify.moe/anime/tRby5FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3c7c45837d5bd8bb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.519367346938775,
+    "arithmeticGeometricMean": 6.494369704081301,
+    "median": 6.515102040816326,
+    "hash": "3c7c45837d5bd8bb",
+    "lastUpdate": "2024-05-06"
+  }
+}

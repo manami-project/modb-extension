@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137505",
+    "https://anime-planet.com/anime/mishmash-and-julie-watai-maware-migi-nigerunda",
+    "https://myanimelist.net/anime/40827"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3866bcf597c3929d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.48539393939394,
+    "arithmeticGeometricMean": 5.472694726140538,
+    "median": 5.54,
+    "hash": "3866bcf597c3929d",
+    "lastUpdate": "2024-05-07"
+  }
+}

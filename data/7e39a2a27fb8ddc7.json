@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18577",
+    "https://anilist.co/anime/168132",
+    "https://anime-planet.com/anime/jade-dynasty-2nd-season",
+    "https://kitsu.io/anime/48681",
+    "https://myanimelist.net/anime/58509",
+    "https://notify.moe/anime/xM8ADuJSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7e39a2a27fb8ddc7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.025363636363636,
+    "arithmeticGeometricMean": 8.023456964371462,
+    "median": 8.025363636363636,
+    "hash": "7e39a2a27fb8ddc7",
+    "lastUpdate": "2024-05-07"
+  }
+}

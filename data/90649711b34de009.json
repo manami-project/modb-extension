@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/118858",
+    "https://anime-planet.com/anime/dustcell-cult",
+    "https://myanimelist.net/anime/55509"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "90649711b34de009",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.883181818181818,
+    "arithmeticGeometricMean": 6.880968317505515,
+    "median": 6.883181818181818,
+    "hash": "90649711b34de009",
+    "lastUpdate": "2024-05-07"
+  }
+}

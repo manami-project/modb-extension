@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4705",
+    "https://anilist.co/anime/8360",
+    "https://anime-planet.com/anime/crayon-shin-chan-movie-6-dengeki-buta-no-hizume-daisakusen",
+    "https://anisearch.com/anime/3839",
+    "https://kitsu.io/anime/5309",
+    "https://livechart.me/anime/8625",
+    "https://myanimelist.net/anime/8360",
+    "https://notify.moe/anime/gWDipFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e212a6741387a38d",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.629527166710841,
+    "arithmeticGeometricMean": 6.611029152928679,
+    "median": 6.934,
+    "hash": "e212a6741387a38d",
+    "lastUpdate": "2024-05-09"
+  }
+}

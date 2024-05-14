@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8003",
+    "https://anilist.co/anime/11735",
+    "https://anime-planet.com/anime/coluboccoro",
+    "https://anisearch.com/anime/6539",
+    "https://kitsu.io/anime/6579",
+    "https://livechart.me/anime/9141",
+    "https://myanimelist.net/anime/11735",
+    "https://notify.moe/anime/AXQItKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8c08f2b483e7c2ad",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.683880731513384,
+    "arithmeticGeometricMean": 5.674548133327651,
+    "median": 5.728,
+    "hash": "8c08f2b483e7c2ad",
+    "lastUpdate": "2024-05-09"
+  }
+}

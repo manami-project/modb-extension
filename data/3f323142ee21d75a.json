@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/362",
+    "https://anilist.co/anime/1822",
+    "https://anime-planet.com/anime/the-legend-of-the-dog-warriors-the-hakkenden",
+    "https://anisearch.com/anime/1458",
+    "https://kitsu.io/anime/1639",
+    "https://livechart.me/anime/11839",
+    "https://myanimelist.net/anime/1822",
+    "https://notify.moe/anime/oj-B5Fiig"
+  ],
+  "synopsis": {
+    "text": "Yatsufasa, the loyal family dog of the Awa clan, turns the tide of a brutal feudal war in Japan when he slays the enemy warlord backed by demonic forces. In a twist of fate, Yatsufasa is promised the hand of the lord's daughter, Fuse, for his bravery. Their unconventional union results in the birth of eight powerful warriors known as the Hakkenden, each embodying one of the eight virtues of Bushido. However, tragedy strikes when both Yatsufasa and Fuse are killed. The eight unborn pups are reincarnated and embark on a journey filled with violence and retribution. As they find each other, they form a formidable team determined to vanquish evil samurai and demonic entities, ultimately seeking redemption for their clan.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3f323142ee21d75a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.2027691492181285,
+    "arithmeticGeometricMean": 6.187055839912843,
+    "median": 6.33,
+    "hash": "3f323142ee21d75a",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/6033",
+    "https://myanimelist.net/anime/8039"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c4c2d41a4b900a68",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.26591836734694,
+    "arithmeticGeometricMean": 6.247723111909273,
+    "median": 6.26591836734694,
+    "hash": "c4c2d41a4b900a68",
+    "lastUpdate": "2024-05-07"
+  }
+}

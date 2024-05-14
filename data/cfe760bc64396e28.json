@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11924",
+    "https://anilist.co/anime/21643",
+    "https://anime-planet.com/anime/the-morose-mononokean",
+    "https://anisearch.com/anime/11161",
+    "https://kitsu.io/anime/11826",
+    "https://livechart.me/anime/2031",
+    "https://myanimelist.net/anime/32696",
+    "https://notify.moe/anime/JglqpKimR"
+  ],
+  "synopsis": {
+    "text": "Much to his dismay, Hanae Ashiya's first week of high school is spent not in the classroom, but in the infirmary, thanks to a mysterious, fuzzy creature that has inexplicably latched onto him. As his condition worsens, he stumbles upon a flyer advertising an exorcist who specializes in expelling youkai. In a desperate bid for relief, Ashiya contacts the exorcist and is led to the Mononokean, a quaint tea room that magically appears beside the infirmary. Here, he meets the morose owner, Haruitsuki Abeno, who reluctantly agrees to help. However, Ashiya's financial inability to pay for the exorcism lands him a job at the Mononokean, working under his classmate-turned-boss. Together, they embark on a series of peculiar adventures, guiding a myriad of intriguing and dangerous youkai back to the underworld. Join Ashiya and Abeno in this captivating tale of exorcism and friendship, as they navigate the challenges of managing a tea room and dealing with the supernatural.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cfe760bc64396e28",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.410093620781646,
+    "arithmeticGeometricMean": 7.4070648278385836,
+    "median": 7.39874183006536,
+    "hash": "cfe760bc64396e28",
+    "lastUpdate": "2024-05-09"
+  }
+}

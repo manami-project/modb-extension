@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/125321",
+    "https://anime-planet.com/anime/eve-yakusoku",
+    "https://anisearch.com/anime/15699",
+    "https://kitsu.io/anime/44201",
+    "https://myanimelist.net/anime/43590"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4de5550e3e4d0aba",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.046393320964749,
+    "arithmeticGeometricMean": 7.039241646656556,
+    "median": 6.97,
+    "hash": "4de5550e3e4d0aba",
+    "lastUpdate": "2024-05-06"
+  }
+}

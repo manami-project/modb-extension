@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/125157",
+    "https://anime-planet.com/anime/funiculi-funicula",
+    "https://myanimelist.net/anime/42919"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6408f2892eba98fd",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.756363636363637,
+    "arithmeticGeometricMean": 4.744029413029065,
+    "median": 4.756363636363637,
+    "hash": "6408f2892eba98fd",
+    "lastUpdate": "2024-05-07"
+  }
+}

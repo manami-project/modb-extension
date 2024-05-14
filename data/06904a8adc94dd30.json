@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/864",
+    "https://anilist.co/anime/3009",
+    "https://anime-planet.com/anime/tiger-mask",
+    "https://anisearch.com/anime/2916",
+    "https://kitsu.io/anime/2720",
+    "https://livechart.me/anime/7306",
+    "https://myanimelist.net/anime/3009",
+    "https://notify.moe/anime/-aP8cKiiR"
+  ],
+  "synopsis": {
+    "text": "America's most feared and vicious wrestler, known as the \"Yellow Devil,\" was none other than Naoto Date, an orphan raised by the enigmatic organization, Tiger's Cave. Forced to pay half his earnings to the organization, Date sought to break free from their grasp, aspiring to become as strong as a tiger. When a young boy from his childhood orphanage expressed admiration for the \"Yellow Devil,\" Date realized he needed to change his ways and become a better role model.\n\nAdopting the persona of \"Tiger Mask,\" Date returned to Japan, vowing to support the orphanage with his wrestling earnings. However, his defiance infuriated Tiger's Cave, leading them to dispatch numerous assassins and wrestlers to eliminate him. As the first masked wrestler in Japanese professional wrestling, Tiger Mask fought fiercely, determined to protect his identity and the orphanage he held dear.\n\nDespite the constant threats, Tiger Mask remained unbeaten and became a beacon of hope for orphans everywhere. Hiding his true identity, even from Ruriko, his childhood friend and orphanage manager, Date continued to wrestle for the sake of the children, taking on the orphanage's debts as his own. With Tiger's Cave hell-bent on destroying his career, Tiger Mask's battles became more intense, but his resolve to be a hero never wavered.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "06904a8adc94dd30",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.137164060429366,
+    "arithmeticGeometricMean": 7.12165735634776,
+    "median": 7.0,
+    "hash": "06904a8adc94dd30",
+    "lastUpdate": "2024-05-10"
+  }
+}

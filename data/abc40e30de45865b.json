@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/160902",
+    "https://anime-planet.com/anime/ibrahim-3rd-anniversary-animation",
+    "https://anisearch.com/anime/18223",
+    "https://kitsu.io/anime/47119",
+    "https://myanimelist.net/anime/58034"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "abc40e30de45865b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.286541743970315,
+    "arithmeticGeometricMean": 7.286484652489304,
+    "median": 7.272727272727273,
+    "hash": "abc40e30de45865b",
+    "lastUpdate": "2024-05-06"
+  }
+}

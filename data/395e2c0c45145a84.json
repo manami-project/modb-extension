@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1265",
+    "https://anilist.co/anime/323",
+    "https://anime-planet.com/anime/paranoia-agent",
+    "https://anisearch.com/anime/708",
+    "https://kitsu.io/anime/290",
+    "https://livechart.me/anime/3658",
+    "https://myanimelist.net/anime/323",
+    "https://notify.moe/anime/gQ125FmmR"
+  ],
+  "synopsis": {
+    "text": "Maniwa, Ikari, and the rest of Tokyo's law enforcement are left baffled by a series of random and brutal attacks perpetrated by a mysterious assailant known as Shounen Bat, or Lil' Slugger. Donning golden roller skates and wielding a bent golden baseball bat, this juvenile menace has been terrorizing the streets of Musashino City, leaving a trail of traumatized victims in his wake.\n\nAs the detectives delve deeper into the case, they discover that the first victim, Tsukiko Sagi, a renowned yet introverted character designer, may hold the key to unraveling the enigma surrounding the notorious attacker. With only her anthropomorphic pink stuffed animal, Maromi, to confide in, Tsukiko becomes the center of a web of secrets and paranoia that begins to engulf the entire city.\n\nAs the investigation unfolds, the narrative shifts between a diverse cast of characters, each with their own hidden lives and connections to Shounen Bat. The detectives must navigate through a complex maze of chilling rumors, mounting public hysteria, and seemingly unrelated incidents to apprehend the elusive assailant.\n\nWill Maniwa and Ikari be able to uncover the truth behind Shounen Bat before the city succumbs to fear, or will they find themselves entangled in a case that defies all logic and reason? Only time will tell as they race against the clock to put an end to the reign of terror inflicted by the infamous Lil' Slugger.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "395e2c0c45145a84",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.577626564593641,
+    "arithmeticGeometricMean": 7.574951991633864,
+    "median": 7.636814236111111,
+    "hash": "395e2c0c45145a84",
+    "lastUpdate": "2024-05-09"
+  }
+}

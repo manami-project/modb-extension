@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13914",
+    "https://anilist.co/anime/101425",
+    "https://anime-planet.com/anime/duel-masters-2018",
+    "https://anisearch.com/anime/13476",
+    "https://kitsu.io/anime/41078",
+    "https://livechart.me/anime/3154",
+    "https://myanimelist.net/anime/37484",
+    "https://notify.moe/anime/37IFhKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b15c330b11f49933",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.28833172541744,
+    "arithmeticGeometricMean": 5.255157385169802,
+    "median": 4.710204081632653,
+    "hash": "b15c330b11f49933",
+    "lastUpdate": "2024-05-09"
+  }
+}

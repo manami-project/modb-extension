@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7039",
+    "https://anilist.co/anime/7285",
+    "https://anime-planet.com/anime/galaxy-express-999-beyond-the-diamond-ring",
+    "https://anisearch.com/anime/5728",
+    "https://kitsu.io/anime/4928",
+    "https://myanimelist.net/anime/7285",
+    "https://notify.moe/anime/SqPRpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c9a212928db58059",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.0984817563388996,
+    "arithmeticGeometricMean": 6.073498821509949,
+    "median": 6.096363636363636,
+    "hash": "c9a212928db58059",
+    "lastUpdate": "2024-05-08"
+  }
+}

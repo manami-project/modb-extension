@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14696",
+    "https://anilist.co/anime/139272",
+    "https://anime-planet.com/anime/beyond-creation",
+    "https://anisearch.com/anime/14264",
+    "https://kitsu.io/anime/42597",
+    "https://myanimelist.net/anime/39334",
+    "https://notify.moe/anime/lLEB_qhZR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9049bfed2c71b93f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.40025576464352,
+    "arithmeticGeometricMean": 6.392960916149542,
+    "median": 6.34,
+    "hash": "9049bfed2c71b93f",
+    "lastUpdate": "2024-05-08"
+  }
+}

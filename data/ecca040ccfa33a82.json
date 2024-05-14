@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6075",
+    "https://anilist.co/anime/4985",
+    "https://anime-planet.com/anime/magical-girl-lyrical-nanoha-the-movie-1st",
+    "https://anisearch.com/anime/5012",
+    "https://kitsu.io/anime/3874",
+    "https://livechart.me/anime/4469",
+    "https://myanimelist.net/anime/4985",
+    "https://notify.moe/anime/yi-r5Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ecca040ccfa33a82",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.897255855751391,
+    "arithmeticGeometricMean": 7.896803181818677,
+    "median": 7.884693877551021,
+    "hash": "ecca040ccfa33a82",
+    "lastUpdate": "2024-05-09"
+  }
+}

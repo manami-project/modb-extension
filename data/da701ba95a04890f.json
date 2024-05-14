@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5515",
+    "https://anilist.co/anime/20239",
+    "https://anime-planet.com/anime/hana-no-kakarichou",
+    "https://anisearch.com/anime/4550",
+    "https://kitsu.io/anime/9297",
+    "https://myanimelist.net/anime/20239",
+    "https://notify.moe/anime/lA6atFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "da701ba95a04890f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.7297464440321577,
+    "arithmeticGeometricMean": 3.5530483399471007,
+    "median": 4.454545454545454,
+    "hash": "da701ba95a04890f",
+    "lastUpdate": "2024-05-07"
+  }
+}

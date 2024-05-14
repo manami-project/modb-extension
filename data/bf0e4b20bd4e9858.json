@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/fish",
+    "https://kitsu.io/anime/46790"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bf0e4b20bd4e9858",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.488,
+    "arithmeticGeometricMean": 6.488,
+    "median": 6.488,
+    "hash": "bf0e4b20bd4e9858",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8740",
+    "https://anilist.co/anime/12091",
+    "https://anime-planet.com/anime/star-fleet",
+    "https://kitsu.io/anime/6662",
+    "https://notify.moe/anime/m_nHpFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7d5bb91c490bcaf9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.677181818181818,
+    "arithmeticGeometricMean": 5.658053284901357,
+    "median": 5.466363636363637,
+    "hash": "7d5bb91c490bcaf9",
+    "lastUpdate": "2024-05-08"
+  }
+}

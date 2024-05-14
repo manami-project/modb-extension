@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16306",
+    "https://anime-planet.com/anime/chikyuu-wa-guruguru-merry-go-round",
+    "https://anisearch.com/anime/18555",
+    "https://kitsu.io/anime/41674",
+    "https://myanimelist.net/anime/36818"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2ff92b8a2e3ca5c6",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "2ff92b8a2e3ca5c6",
+    "lastUpdate": "2024-05-11"
+  }
+}

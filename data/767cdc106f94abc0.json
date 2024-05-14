@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13930",
+    "https://anilist.co/anime/103406",
+    "https://anime-planet.com/anime/age-of-obscure-boubaku-jidai",
+    "https://kitsu.io/anime/12967",
+    "https://myanimelist.net/anime/34436",
+    "https://notify.moe/anime/LRPW2FmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "767cdc106f94abc0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.423418181818183,
+    "arithmeticGeometricMean": 5.410280150330625,
+    "median": 5.0,
+    "hash": "767cdc106f94abc0",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10583",
+    "https://anisearch.com/anime/9587"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ade302b11bcff447",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.347040816326531,
+    "arithmeticGeometricMean": 7.342699873151326,
+    "median": 7.347040816326531,
+    "hash": "ade302b11bcff447",
+    "lastUpdate": "2024-05-08"
+  }
+}

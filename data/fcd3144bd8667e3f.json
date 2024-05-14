@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6359",
+    "https://anilist.co/anime/19943",
+    "https://anime-planet.com/anime/eikou-e-no-spur-igaya-chiharu-monogatari",
+    "https://anisearch.com/anime/8931",
+    "https://kitsu.io/anime/9257",
+    "https://myanimelist.net/anime/19943",
+    "https://notify.moe/anime/AP_atFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fcd3144bd8667e3f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.409090909090909,
+    "arithmeticGeometricMean": 4.389180168962659,
+    "median": 4.409090909090909,
+    "hash": "fcd3144bd8667e3f",
+    "lastUpdate": "2024-05-08"
+  }
+}

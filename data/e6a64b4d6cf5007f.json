@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18333",
+    "https://anilist.co/anime/171952",
+    "https://anime-planet.com/anime/the-eminence-in-shadow-lost-echoes",
+    "https://anisearch.com/anime/18945",
+    "https://kitsu.io/anime/48346",
+    "https://livechart.me/anime/12464",
+    "https://myanimelist.net/anime/57584",
+    "https://notify.moe/anime/Ihii3-OIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e6a64b4d6cf5007f",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "e6a64b4d6cf5007f",
+    "lastUpdate": "2024-05-11"
+  }
+}

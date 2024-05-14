@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6376",
+    "https://anilist.co/anime/5854",
+    "https://anime-planet.com/anime/legend-of-condor-hero-iii",
+    "https://anisearch.com/anime/6735",
+    "https://kitsu.io/anime/4305",
+    "https://myanimelist.net/anime/5854",
+    "https://notify.moe/anime/k0k3cFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33598ee1703e5ba5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.648615425390936,
+    "arithmeticGeometricMean": 6.61554358921729,
+    "median": 7.090909090909091,
+    "hash": "33598ee1703e5ba5",
+    "lastUpdate": "2024-05-08"
+  }
+}

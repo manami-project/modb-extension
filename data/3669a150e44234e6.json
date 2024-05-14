@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8982",
+    "https://anilist.co/anime/8664",
+    "https://anime-planet.com/anime/slime-boukenki-umi-da-yeah",
+    "https://anisearch.com/anime/7628",
+    "https://kitsu.io/anime/5427",
+    "https://myanimelist.net/anime/8664",
+    "https://notify.moe/anime/KcwmtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3669a150e44234e6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.622367877020939,
+    "arithmeticGeometricMean": 5.601422682049031,
+    "median": 5.5,
+    "hash": "3669a150e44234e6",
+    "lastUpdate": "2024-05-08"
+  }
+}

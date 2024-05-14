@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8813",
+    "https://anilist.co/anime/12157",
+    "https://anime-planet.com/anime/busou-chuugakusei-basket-army",
+    "https://anisearch.com/anime/7446",
+    "https://kitsu.io/anime/6679",
+    "https://livechart.me/anime/4924",
+    "https://myanimelist.net/anime/12157",
+    "https://notify.moe/anime/1nHNpKmmR"
+  ],
+  "synopsis": {
+    "text": "National Defense Education Law paved the way for the establishment of Japan's first private defense academy, the Eastern Private Defense Academy, two years prior to August 2026. As the summer heat intensifies, Touko Natori, a third-year middle school student and the class spokesperson, leads a group of eight heavily armed students through a grueling field training regimen at the Fuji Training Facility. Their instructor, Kamiya, envisions the creation of an \"exceptional class\" dedicated to the study of Newest Weapons Research.\n\nAs the students reach the culmination of their intense training, Kamiya introduces the idea of an extracurricular class focused on cutting-edge weaponry. However, their plans are abruptly derailed when an unexpected force launches a brutal assault on the training facility. This unforeseen incident plunges the students into a real-life battle that is far more harrowing than anything they experienced during their training. The events that unfold shake not only the students but the entire nation of Japan.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f144ca6d3b60f46",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.709423800689108,
+    "arithmeticGeometricMean": 5.7051851624426115,
+    "median": 5.65,
+    "hash": "8f144ca6d3b60f46",
+    "lastUpdate": "2024-05-09"
+  }
+}

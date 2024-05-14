@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8187",
+    "https://anilist.co/anime/19753",
+    "https://anime-planet.com/anime/naniwa-yuukyouden-kanketsu-hen",
+    "https://anisearch.com/anime/11382",
+    "https://kitsu.io/anime/9480",
+    "https://myanimelist.net/anime/19753",
+    "https://notify.moe/anime/XlLBtFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "728c9892fe67cb4a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.68769325912183,
+    "arithmeticGeometricMean": 5.637986900437138,
+    "median": 5.0,
+    "hash": "728c9892fe67cb4a",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5121",
+    "https://anilist.co/anime/12763",
+    "https://anime-planet.com/anime/zero-sen-hayato",
+    "https://anisearch.com/anime/4236",
+    "https://kitsu.io/anime/6806",
+    "https://livechart.me/anime/9148",
+    "https://myanimelist.net/anime/12763",
+    "https://notify.moe/anime/V7XNpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e959e66e6be5d97c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.629038342609771,
+    "arithmeticGeometricMean": 5.5821027199165965,
+    "median": 5.7277272727272734,
+    "hash": "e959e66e6be5d97c",
+    "lastUpdate": "2024-05-08"
+  }
+}

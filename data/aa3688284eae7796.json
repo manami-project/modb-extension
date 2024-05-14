@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7043",
+    "https://anilist.co/anime/7473",
+    "https://anime-planet.com/anime/rennyo-to-sono-haha",
+    "https://anisearch.com/anime/5996",
+    "https://kitsu.io/anime/4990",
+    "https://myanimelist.net/anime/7473",
+    "https://notify.moe/anime/IuqgtFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aa3688284eae7796",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.5,
+    "arithmeticGeometricMean": 4.486057160575206,
+    "median": 4.5,
+    "hash": "aa3688284eae7796",
+    "lastUpdate": "2024-05-08"
+  }
+}

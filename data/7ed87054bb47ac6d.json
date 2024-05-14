@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14126",
+    "https://anilist.co/anime/102604",
+    "https://anime-planet.com/anime/kira-kira-happy-hirake-cocotama",
+    "https://anisearch.com/anime/13676",
+    "https://kitsu.io/anime/41949",
+    "https://livechart.me/anime/3328",
+    "https://myanimelist.net/anime/37968",
+    "https://notify.moe/anime/UinbKvAiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7ed87054bb47ac6d",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.961286085343228,
+    "arithmeticGeometricMean": 5.8963587249910905,
+    "median": 5.3,
+    "hash": "7ed87054bb47ac6d",
+    "lastUpdate": "2024-05-09"
+  }
+}

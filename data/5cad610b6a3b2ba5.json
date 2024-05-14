@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7773",
+    "https://anilist.co/anime/168873",
+    "https://anime-planet.com/anime/hello-kitty-no-mahou-no-mori-no-ohime-sama",
+    "https://anisearch.com/anime/4692",
+    "https://kitsu.io/anime/9849",
+    "https://livechart.me/anime/12000",
+    "https://myanimelist.net/anime/18827",
+    "https://notify.moe/anime/OLmPpKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5cad610b6a3b2ba5",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.614716759431045,
+    "arithmeticGeometricMean": 5.5856675948326115,
+    "median": 5.528877551020408,
+    "hash": "5cad610b6a3b2ba5",
+    "lastUpdate": "2024-05-09"
+  }
+}

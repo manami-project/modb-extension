@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2548",
+    "https://anilist.co/anime/8553",
+    "https://anime-planet.com/anime/time-bokan-series-time-patrol-tai-otasukeman",
+    "https://anisearch.com/anime/1176",
+    "https://kitsu.io/anime/5387",
+    "https://livechart.me/anime/7169",
+    "https://myanimelist.net/anime/8553",
+    "https://notify.moe/anime/S-BipKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0f3f70188ef917ac",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.795048855905999,
+    "arithmeticGeometricMean": 5.777321908454941,
+    "median": 5.693636363636363,
+    "hash": "0f3f70188ef917ac",
+    "lastUpdate": "2024-05-10"
+  }
+}

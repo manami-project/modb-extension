@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/fact-ape",
+    "https://kitsu.io/anime/13864",
+    "https://myanimelist.net/anime/35553",
+    "https://notify.moe/anime/Q_xS2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c40d973317b1def1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.57,
+    "arithmeticGeometricMean": 5.561187056317417,
+    "median": 5.64,
+    "hash": "c40d973317b1def1",
+    "lastUpdate": "2024-05-05"
+  }
+}

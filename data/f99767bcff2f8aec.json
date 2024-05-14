@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148182",
+    "https://anime-planet.com/anime/tooboe-shinzou",
+    "https://anisearch.com/anime/17867",
+    "https://myanimelist.net/anime/55445"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f99767bcff2f8aec",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.716267161410019,
+    "arithmeticGeometricMean": 6.698634400318681,
+    "median": 6.736,
+    "hash": "f99767bcff2f8aec",
+    "lastUpdate": "2024-05-07"
+  }
+}

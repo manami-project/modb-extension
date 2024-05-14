@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/heavy-object-recap",
+    "https://anisearch.com/anime/15352",
+    "https://kitsu.io/anime/48355",
+    "https://myanimelist.net/anime/38180"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "87807e7ad1f44963",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.846680272108844,
+    "arithmeticGeometricMean": 6.8384748549908805,
+    "median": 6.668,
+    "hash": "87807e7ad1f44963",
+    "lastUpdate": "2024-05-07"
+  }
+}

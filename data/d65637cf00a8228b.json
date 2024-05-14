@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103701",
+    "https://anime-planet.com/anime/paper-film",
+    "https://kitsu.io/anime/10831",
+    "https://myanimelist.net/anime/30403",
+    "https://notify.moe/anime/GLNlpFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d65637cf00a8228b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.623636363636364,
+    "arithmeticGeometricMean": 4.615249123715634,
+    "median": 4.78,
+    "hash": "d65637cf00a8228b",
+    "lastUpdate": "2024-05-07"
+  }
+}

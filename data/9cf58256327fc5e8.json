@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9895",
+    "https://anilist.co/anime/18781",
+    "https://anime-planet.com/anime/puchimas-petit-idolmaster-takatsuki-gold-densetsu-special-harukasan-matsuri",
+    "https://anisearch.com/anime/8755",
+    "https://kitsu.io/anime/7823",
+    "https://livechart.me/anime/6732",
+    "https://myanimelist.net/anime/18781",
+    "https://notify.moe/anime/rExppFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9cf58256327fc5e8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.593351709514975,
+    "arithmeticGeometricMean": 6.580325821671665,
+    "median": 6.664,
+    "hash": "9cf58256327fc5e8",
+    "lastUpdate": "2024-05-09"
+  }
+}

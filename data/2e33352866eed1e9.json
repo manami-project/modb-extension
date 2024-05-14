@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6692",
+    "https://anilist.co/anime/4392",
+    "https://anime-planet.com/anime/ooatari-sora-no-entaku",
+    "https://anisearch.com/anime/5670",
+    "https://kitsu.io/anime/3588",
+    "https://myanimelist.net/anime/4392",
+    "https://notify.moe/anime/wMPX5FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2e33352866eed1e9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.835232971110522,
+    "arithmeticGeometricMean": 4.811563924229673,
+    "median": 4.818181818181818,
+    "hash": "2e33352866eed1e9",
+    "lastUpdate": "2024-05-08"
+  }
+}

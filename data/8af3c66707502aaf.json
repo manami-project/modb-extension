@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1094",
+    "https://anilist.co/anime/579",
+    "https://anime-planet.com/anime/battle-programmer-shirase",
+    "https://anisearch.com/anime/1967",
+    "https://kitsu.io/anime/535",
+    "https://livechart.me/anime/5855",
+    "https://myanimelist.net/anime/579",
+    "https://notify.moe/anime/KFwo5FimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8af3c66707502aaf",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.051569573283858,
+    "arithmeticGeometricMean": 7.046436245330008,
+    "median": 7.015000000000001,
+    "hash": "8af3c66707502aaf",
+    "lastUpdate": "2024-05-08"
+  }
+}

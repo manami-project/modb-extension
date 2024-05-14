@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140184",
+    "https://anime-planet.com/anime/saraba-jamaica",
+    "https://kitsu.io/anime/40815",
+    "https://myanimelist.net/anime/35669",
+    "https://notify.moe/anime/QL4dhFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a23c1cc21cbc9729",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.3249696969696965,
+    "arithmeticGeometricMean": 5.272419148538344,
+    "median": 5.21,
+    "hash": "a23c1cc21cbc9729",
+    "lastUpdate": "2024-05-07"
+  }
+}

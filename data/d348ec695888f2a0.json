@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14576",
+    "https://anime-planet.com/anime/choegangjeonsa-mini-teukgongdae-yeongung-ui-tansaen"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d348ec695888f2a0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.896,
+    "arithmeticGeometricMean": 6.896,
+    "median": 6.896,
+    "hash": "d348ec695888f2a0",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7986",
+    "https://anilist.co/anime/9353",
+    "https://anime-planet.com/anime/da-capo-dc-i-ii-psp",
+    "https://anisearch.com/anime/6533",
+    "https://kitsu.io/anime/5699",
+    "https://livechart.me/anime/6980",
+    "https://myanimelist.net/anime/9353",
+    "https://notify.moe/anime/IjCWpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "23f2afbe05cd426f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.563282268751656,
+    "arithmeticGeometricMean": 6.555158436555942,
+    "median": 6.66,
+    "hash": "23f2afbe05cd426f",
+    "lastUpdate": "2024-05-09"
+  }
+}

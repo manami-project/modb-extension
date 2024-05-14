@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18278",
+    "https://anilist.co/anime/170942",
+    "https://anime-planet.com/anime/blue-box",
+    "https://anisearch.com/anime/18873",
+    "https://kitsu.io/anime/48239",
+    "https://livechart.me/anime/11380",
+    "https://myanimelist.net/anime/57181",
+    "https://notify.moe/anime/zuBXTpDSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2ce4de00ac821135",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "2ce4de00ac821135",
+    "lastUpdate": "2024-05-11"
+  }
+}

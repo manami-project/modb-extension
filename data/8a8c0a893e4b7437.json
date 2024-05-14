@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2384",
+    "https://anilist.co/anime/4876",
+    "https://anime-planet.com/anime/run-melos",
+    "https://anisearch.com/anime/573",
+    "https://kitsu.io/anime/3834",
+    "https://livechart.me/anime/8031",
+    "https://myanimelist.net/anime/4876",
+    "https://notify.moe/anime/Iec9cKmmg"
+  ],
+  "synopsis": {
+    "text": "After setting out to procure a ceremonial sword for his sister's upcoming wedding in Messina, Melos, a young man of virtue, finds himself in the grand city of Syracuse. There, he forms a close bond with a gifted sculptor, Serinentius. But fate takes a cruel turn as Melos is apprehended by the king's guards under suspicion of being an assassin. With the king, Dionysius III, paranoid about threats to his life, Melos is sentenced to death.\n\nDesperate to attend his sister's wedding, Melos pleads for a three-day reprieve, vowing to return to face his punishment. To prove Melos's promise is sincere, the king demands a substitute to take his place should he fail to return. Serinentius, the sculptor, steps up, offering himself as the substitute.\n\nMelos embarks on a race against time, determined to attend his sister's wedding and return to Syracuse before his friend faces the ultimate price for his freedom. With the odds stacked against him, will Melos make it back in time, or will his journey lead to the tragic demise of his loyal friend?",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8a8c0a893e4b7437",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.99599628942486,
+    "arithmeticGeometricMean": 6.99370289625885,
+    "median": 7.08,
+    "hash": "8a8c0a893e4b7437",
+    "lastUpdate": "2024-05-09"
+  }
+}

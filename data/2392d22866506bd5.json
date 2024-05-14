@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14080",
+    "https://anime-planet.com/anime/boonie-bears-the-big-top-secret",
+    "https://anisearch.com/anime/16554",
+    "https://kitsu.io/anime/40990",
+    "https://myanimelist.net/anime/37099",
+    "https://notify.moe/anime/dirO2Fimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2392d22866506bd5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.256530612244898,
+    "arithmeticGeometricMean": 4.098245984393006,
+    "median": 4.256530612244898,
+    "hash": "2392d22866506bd5",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5482",
+    "https://anilist.co/anime/20003",
+    "https://anime-planet.com/anime/roppou-yabure-kun",
+    "https://anisearch.com/anime/4510",
+    "https://kitsu.io/anime/9558",
+    "https://myanimelist.net/anime/20003",
+    "https://notify.moe/anime/HPeBtFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "188f7c2c2849dc5f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.621636363636363,
+    "arithmeticGeometricMean": 5.593742766357541,
+    "median": 5.090909090909091,
+    "hash": "188f7c2c2849dc5f",
+    "lastUpdate": "2024-05-08"
+  }
+}

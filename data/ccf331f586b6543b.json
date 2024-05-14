@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137850",
+    "https://anime-planet.com/anime/ado-yoru-no-pierrot-teddyloid-remix",
+    "https://anisearch.com/anime/17333",
+    "https://kitsu.io/anime/45211",
+    "https://myanimelist.net/anime/50042"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ccf331f586b6543b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.805707792207792,
+    "arithmeticGeometricMean": 6.795120560750922,
+    "median": 6.877000000000001,
+    "hash": "ccf331f586b6543b",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18143",
+    "https://anilist.co/anime/155302",
+    "https://anime-planet.com/anime/zhen-yang-wushen",
+    "https://anisearch.com/anime/18612",
+    "https://myanimelist.net/anime/55693",
+    "https://notify.moe/anime/0vEtQvRIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a3206095bcd9b3f5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.213179035250463,
+    "arithmeticGeometricMean": 7.209755540256865,
+    "median": 7.213358070500927,
+    "hash": "a3206095bcd9b3f5",
+    "lastUpdate": "2024-05-07"
+  }
+}

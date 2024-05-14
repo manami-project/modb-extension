@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13407",
+    "https://anilist.co/anime/103973",
+    "https://anime-planet.com/anime/zhu-zhu-xia-mo-huan-zhu-luo-ji",
+    "https://anisearch.com/anime/13029",
+    "https://myanimelist.net/anime/38118"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5e0e60455fad5737",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.763808286951144,
+    "arithmeticGeometricMean": 4.588359254205925,
+    "median": 4.636363636363637,
+    "hash": "5e0e60455fad5737",
+    "lastUpdate": "2024-05-08"
+  }
+}

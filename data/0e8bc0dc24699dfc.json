@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13618",
+    "https://anilist.co/anime/100663",
+    "https://anime-planet.com/anime/ultraman",
+    "https://anisearch.com/anime/13216",
+    "https://kitsu.io/anime/14125",
+    "https://livechart.me/anime/2997",
+    "https://myanimelist.net/anime/36871",
+    "https://notify.moe/anime/FFYHhKimR"
+  ],
+  "synopsis": {
+    "text": "Ultraman, a legendary extraterrestrial giant of light, once saved Earth from terrifying monsters known as Kaiju and then vanished, leaving his human host, Shin Hayata, with no memory of his heroic deeds. Years later, Hayata's son, Shinjiro, discovers he possesses extraordinary powers and a more durable body than any normal human. When the organization that once aided Ultraman, the SSSP, reveals Hayata's heroic past, Shinjiro's life takes a dramatic turn.\n\nOne fateful night, Shinjiro is attacked by an alien, only to be rescued by his father, who once again assumes the role of Ultraman. However, the battle leaves Hayata severely injured, forcing Shinjiro to step up and take on the mantle of the new Ultraman. As he works with the SSSP to protect the city from dangerous aliens lurking in the shadows, Shinjiro must confront the question of how far he is willing to go to help people.\n\nIn a world where the threat of Kaiju has faded into memory, a new danger emerges, one that only a new kind of hero can conquer. As the son of the first Ultraman, Shinjiro Hayata inherits the \"Ultraman factor\" and, with it, the responsibility to protect Earth from the unknown enemies that lurk underground. Join Shinjiro as he embarks on a journey to become the hero he was destined to be, the new Ultraman.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0e8bc0dc24699dfc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.727499999999999,
+    "arithmeticGeometricMean": 6.720474661110423,
+    "median": 6.663181818181819,
+    "hash": "0e8bc0dc24699dfc",
+    "lastUpdate": "2024-05-10"
+  }
+}

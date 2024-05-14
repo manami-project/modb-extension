@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/145912",
+    "https://anime-planet.com/anime/valis-bukkanseii-catharsis",
+    "https://kitsu.io/anime/48475",
+    "https://myanimelist.net/anime/51501"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f72eaa78300103de",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.159696969696969,
+    "arithmeticGeometricMean": 6.155126375646302,
+    "median": 5.93,
+    "hash": "f72eaa78300103de",
+    "lastUpdate": "2024-05-07"
+  }
+}

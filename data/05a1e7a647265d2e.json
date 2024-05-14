@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4260",
+    "https://anilist.co/anime/6261",
+    "https://anime-planet.com/anime/koguma-no-misha",
+    "https://anisearch.com/anime/272",
+    "https://kitsu.io/anime/4493",
+    "https://myanimelist.net/anime/6261",
+    "https://notify.moe/anime/Jwl35FimR"
+  ],
+  "synopsis": {
+    "text": "See the charming and comedic tale of Misha, a young bear who, along with his family, arrives in the peculiar animal town of Himadabeya via a locomotive train. The town's animals, intrigued by the rare sight of the train, gather to greet the newcomers. Misha's father, misinterpreting the gathering as a warm welcome, is instantly smitten with the town and decides to settle down. As the family acclimates to their new life, Misha matures into a robust boy amidst the quirky townsfolk. Join Misha as he navigates the ups and downs of life in his new home, from befriending the mayor and his daughter Natasha to dealing with local bullies and skeptical adults. This heartwarming journey of growth and friendship is sure to captivate and delight!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "05a1e7a647265d2e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.322043908472479,
+    "arithmeticGeometricMean": 5.256002514139809,
+    "median": 5.695,
+    "hash": "05a1e7a647265d2e",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12944",
+    "https://anilist.co/anime/98565",
+    "https://anime-planet.com/anime/mr-osomatsu-2nd-season",
+    "https://anisearch.com/anime/12394",
+    "https://kitsu.io/anime/13326",
+    "https://livechart.me/anime/2663",
+    "https://myanimelist.net/anime/35067",
+    "https://notify.moe/anime/B3On2KimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "76ed74216ca2bbd0",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 7.613116390306122,
+    "arithmeticGeometricMean": 7.609661899741523,
+    "median": 7.654999999999999,
+    "hash": "76ed74216ca2bbd0",
+    "lastUpdate": "2024-05-09"
+  }
+}

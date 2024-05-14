@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2082",
+    "https://anilist.co/anime/3433",
+    "https://anime-planet.com/anime/gou-q-chouji-ikkiman",
+    "https://anisearch.com/anime/2010",
+    "https://kitsu.io/anime/3006",
+    "https://myanimelist.net/anime/3433",
+    "https://notify.moe/anime/7iPQ5FmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "253b7f10c51d1181",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.819407898224226,
+    "arithmeticGeometricMean": 5.751747475646843,
+    "median": 5.636363636363637,
+    "hash": "253b7f10c51d1181",
+    "lastUpdate": "2024-05-08"
+  }
+}

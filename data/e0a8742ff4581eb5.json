@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10707",
+    "https://anilist.co/anime/117969",
+    "https://anime-planet.com/anime/sumiko-tv",
+    "https://anisearch.com/anime/9783",
+    "https://kitsu.io/anime/8553",
+    "https://livechart.me/anime/705",
+    "https://myanimelist.net/anime/24969",
+    "https://notify.moe/anime/OB_0tFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e0a8742ff4581eb5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.594897959183673,
+    "arithmeticGeometricMean": 4.531836577378713,
+    "median": 3.424489795918367,
+    "hash": "e0a8742ff4581eb5",
+    "lastUpdate": "2024-05-10"
+  }
+}

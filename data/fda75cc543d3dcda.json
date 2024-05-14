@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/hill-climb-girl",
+    "https://anisearch.com/anime/10057"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fda75cc543d3dcda",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.29434693877551,
+    "arithmeticGeometricMean": 6.294205598155377,
+    "median": 6.29434693877551,
+    "hash": "fda75cc543d3dcda",
+    "lastUpdate": "2024-05-07"
+  }
+}

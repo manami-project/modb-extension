@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/91",
+    "https://anilist.co/anime/127",
+    "https://anime-planet.com/anime/gatekeepers",
+    "https://anisearch.com/anime/2102",
+    "https://kitsu.io/anime/106",
+    "https://livechart.me/anime/5795",
+    "https://myanimelist.net/anime/127",
+    "https://notify.moe/anime/hGBt5FmmR"
+  ],
+  "synopsis": {
+    "text": "Able to channel elemental powers from other dimensions, a select group of teenagers in 1969 Tokyo stand as humanity's last hope against an alien invasion in the anime series \"Gate Keepers.\" As Japan recovers from World War II, a secret organization called AEGIS covertly fights against the extraterrestrial threat, known as \"Invaders.\" Only those with the ability to open \"Gates\" can defeat these enemies, and AEGIS seeks out these gifted individuals to join their specialized task force.\n\nOne such individual is Shun Ukiya, an ordinary high school student who discovers his Gate-related abilities while trying to save his family from an Invader attack. With his newfound powers, Shun catches the attention of AEGIS and his childhood friend Ruriko Ikusawa, a fellow Gate Keeper. Together with other extraordinary individuals, Shun and Ruriko must protect the world from total annihilation while navigating the challenges of adolescence. As Shun joins AEGIS, he struggles with the legacy of his late father, whom he despises, and strives to forge his own path as a Gate Keeper. Will Shun and the other Gate Keepers be able to save humanity from the vicious Invaders, or will they succumb to the overwhelming threat? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ea2ebf2a4d8b19b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.644212562947257,
+    "arithmeticGeometricMean": 6.636479829907546,
+    "median": 6.67,
+    "hash": "4ea2ebf2a4d8b19b",
+    "lastUpdate": "2024-05-09"
+  }
+}

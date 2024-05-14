@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8945",
+    "https://anilist.co/anime/12907",
+    "https://anime-planet.com/anime/sekiei-ayakashi-mangatan",
+    "https://anisearch.com/anime/7576",
+    "https://kitsu.io/anime/6846",
+    "https://livechart.me/anime/8148",
+    "https://myanimelist.net/anime/12907",
+    "https://notify.moe/anime/jbRvtKiiR"
+  ],
+  "synopsis": {
+    "text": "Rumour whispers of an eccentric artist named Toriyama Sekiei, residing in a quaint Japanese town during the historic Edo period. This reclusive genius rarely ventures outside, but when he does, it's for a peculiar purpose. Toriyama Sekiei is no ordinary artist; he draws supernatural creatures, but not from the depths of his imagination. Instead, he sketches these demons from memory, following real-life encounters with them. His brush serves a dual purpose: a tool for art and a weapon against the supernatural. As word spreads of his unique talent and knowledge, desperate townsfolk seek his aid, leading to thrilling battles that precede his artistic creations.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7048461b124ce67f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.4557370792472835,
+    "arithmeticGeometricMean": 5.442079448722981,
+    "median": 5.464,
+    "hash": "7048461b124ce67f",
+    "lastUpdate": "2024-05-09"
+  }
+}

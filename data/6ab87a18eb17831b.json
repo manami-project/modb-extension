@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/152181",
+    "https://anime-planet.com/anime/haru-ni-nattara-koguma-no-yugo-monogatari-movie",
+    "https://kitsu.io/anime/46679",
+    "https://kitsu.io/anime/46680",
+    "https://myanimelist.net/anime/52100",
+    "https://myanimelist.net/anime/53491"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6ab87a18eb17831b",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.0,
+    "arithmeticGeometricMean": 4.0,
+    "median": 4.0,
+    "hash": "6ab87a18eb17831b",
+    "lastUpdate": "2024-05-06"
+  }
+}

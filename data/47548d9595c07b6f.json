@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11377",
+    "https://anilist.co/anime/104631",
+    "https://anime-planet.com/anime/korekarasaki-nando-anata-to",
+    "https://anisearch.com/anime/10553",
+    "https://kitsu.io/anime/11205",
+    "https://myanimelist.net/anime/31252",
+    "https://notify.moe/anime/HduupKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "47548d9595c07b6f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.8333135435992585,
+    "arithmeticGeometricMean": 5.824984482392306,
+    "median": 5.909090909090908,
+    "hash": "47548d9595c07b6f",
+    "lastUpdate": "2024-05-08"
+  }
+}

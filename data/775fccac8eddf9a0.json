@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102942",
+    "https://anime-planet.com/anime/inazma-delivery-bytheway-dance",
+    "https://kitsu.io/anime/41817",
+    "https://myanimelist.net/anime/37553"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "775fccac8eddf9a0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.720848484848485,
+    "arithmeticGeometricMean": 5.718774448748803,
+    "median": 5.72,
+    "hash": "775fccac8eddf9a0",
+    "lastUpdate": "2024-05-07"
+  }
+}

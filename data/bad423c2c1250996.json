@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102611",
+    "https://anime-planet.com/anime/a-crow-is-white-himitsu-spark",
+    "https://anisearch.com/anime/10074",
+    "https://kitsu.io/anime/10395",
+    "https://myanimelist.net/anime/29778",
+    "https://notify.moe/anime/dz28pKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bad423c2c1250996",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.071709029066173,
+    "arithmeticGeometricMean": 6.0641732781894655,
+    "median": 6.004,
+    "hash": "bad423c2c1250996",
+    "lastUpdate": "2024-05-06"
+  }
+}

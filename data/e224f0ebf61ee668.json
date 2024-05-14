@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/18635",
+    "https://livechart.me/anime/4704"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e224f0ebf61ee668",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.71,
+    "arithmeticGeometricMean": 7.71,
+    "median": 7.71,
+    "hash": "e224f0ebf61ee668",
+    "lastUpdate": "2024-05-09"
+  }
+}

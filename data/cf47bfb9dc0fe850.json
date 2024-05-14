@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12247",
+    "https://anime-planet.com/anime/dabing-jinbao-lixian-ji",
+    "https://anisearch.com/anime/12017",
+    "https://myanimelist.net/anime/44829"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cf47bfb9dc0fe850",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "cf47bfb9dc0fe850",
+    "lastUpdate": "2024-05-11"
+  }
+}

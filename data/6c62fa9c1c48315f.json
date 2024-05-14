@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4146",
+    "https://anilist.co/anime/1195",
+    "https://anime-planet.com/anime/the-familiar-of-zero",
+    "https://anisearch.com/anime/2384",
+    "https://kitsu.io/anime/1075",
+    "https://livechart.me/anime/3592",
+    "https://myanimelist.net/anime/1195",
+    "https://notify.moe/anime/PeHx5Fimg"
+  ],
+  "synopsis": {
+    "text": "Tristein Academy, a prestigious institution for magic, is home to Louise, a young magician with a peculiar problem: her spells always backfire, earning her the nickname 'Zero Louise'. When the time comes for first-year students to summon their familiars, Louise's spell goes awry once again. Instead of a magical creature, she summons Saito Hiraga, an ordinary Japanese boy who is abruptly transported from his mundane life into this world of magic and monsters.\n\nDespite the unexpected turn of events, Louise and Saito must come to terms with their new reality. Saito is now Louise's familiar, a role akin to a slave, and is treated as such. However, the brand on Saito's hand from the summoning ritual suggests he might be more than an ordinary familiar. As they navigate their complex relationship, they must also find a way to send Saito back home.\n\nThis is a tale of magic, misadventures, and the unpredictable bond between a struggling magician and her unwitting familiar. Will Louise prove that there's more to her than her nickname suggests? And will Saito find his way back to his world? Only time will tell in this exciting and unpredictable journey.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6c62fa9c1c48315f",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.411345798850407,
+    "arithmeticGeometricMean": 7.409925632804713,
+    "median": 7.441260746422037,
+    "hash": "6c62fa9c1c48315f",
+    "lastUpdate": "2024-05-10"
+  }
+}

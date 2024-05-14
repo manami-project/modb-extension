@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8472",
+    "https://anilist.co/anime/9254",
+    "https://anime-planet.com/anime/mianhada-saranghanda",
+    "https://anisearch.com/anime/7166",
+    "https://kitsu.io/anime/5647",
+    "https://myanimelist.net/anime/9254",
+    "https://notify.moe/anime/El8WpKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6035bd754a4dedd5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.321794681508966,
+    "arithmeticGeometricMean": 5.307453073653499,
+    "median": 5.136363636363637,
+    "hash": "6035bd754a4dedd5",
+    "lastUpdate": "2024-05-07"
+  }
+}

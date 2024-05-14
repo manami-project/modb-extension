@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10132",
+    "https://anilist.co/anime/121658",
+    "https://anime-planet.com/anime/namae-sore-wa-moeru-inochi",
+    "https://anisearch.com/anime/9136",
+    "https://kitsu.io/anime/9473",
+    "https://myanimelist.net/anime/26103",
+    "https://notify.moe/anime/b3BBpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "40589b90507a67a9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.727272727272727,
+    "arithmeticGeometricMean": 4.7233350619290055,
+    "median": 4.727272727272727,
+    "hash": "40589b90507a67a9",
+    "lastUpdate": "2024-05-07"
+  }
+}

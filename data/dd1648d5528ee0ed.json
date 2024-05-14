@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12662",
+    "https://anilist.co/anime/132562",
+    "https://anime-planet.com/anime/kubbe-gachapin-mukku",
+    "https://anisearch.com/anime/12130",
+    "https://kitsu.io/anime/12956",
+    "https://myanimelist.net/anime/34601",
+    "https://notify.moe/anime/baBW2KiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dd1648d5528ee0ed",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.9384706246134815,
+    "arithmeticGeometricMean": 4.91733476476495,
+    "median": 4.718636363636364,
+    "hash": "dd1648d5528ee0ed",
+    "lastUpdate": "2024-05-07"
+  }
+}

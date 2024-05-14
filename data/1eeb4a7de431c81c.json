@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2762",
+    "https://anilist.co/anime/3036",
+    "https://anime-planet.com/anime/soar-high-isami",
+    "https://anisearch.com/anime/435",
+    "https://kitsu.io/anime/2742",
+    "https://livechart.me/anime/7194",
+    "https://myanimelist.net/anime/3036",
+    "https://notify.moe/anime/jcQ8cFmmg"
+  ],
+  "synopsis": {
+    "text": "Together, Isami Hanaoka, Soshi Yukimi, and Toshi Tsukikage, all fifth-grade descendants of the legendary Shinsengumi, stumble upon a hidden legacy in the depths of Isami's family home. The trio uncovers ancient artifacts and a cryptic message, urging them to combat the malevolent Kurotengu organization. Embracing their ancestral roots, they form a new Shinsengumi, armed with powerful relics like the legendary dragon sword, Ryu no Tsurugi. Join these young warriors as they navigate the mysteries of their past and protect their world from the looming darkness.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1eeb4a7de431c81c",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.61313384574609,
+    "arithmeticGeometricMean": 6.585505912283946,
+    "median": 6.545454545454545,
+    "hash": "1eeb4a7de431c81c",
+    "lastUpdate": "2024-05-10"
+  }
+}

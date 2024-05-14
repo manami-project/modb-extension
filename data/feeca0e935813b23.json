@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16579",
+    "https://anilist.co/anime/137726",
+    "https://anime-planet.com/anime/full-time-magister-vi",
+    "https://anisearch.com/anime/16664",
+    "https://kitsu.io/anime/47049",
+    "https://livechart.me/anime/12252",
+    "https://myanimelist.net/anime/49572",
+    "https://notify.moe/anime/FiccpN_VR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "feeca0e935813b23",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.487874900609595,
+    "arithmeticGeometricMean": 7.483742027355206,
+    "median": 7.465306122448979,
+    "hash": "feeca0e935813b23",
+    "lastUpdate": "2024-05-09"
+  }
+}

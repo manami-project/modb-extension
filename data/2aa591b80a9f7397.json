@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/homeless-pv",
+    "https://kitsu.io/anime/47430",
+    "https://myanimelist.net/anime/52881"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2aa591b80a9f7397",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.742,
+    "arithmeticGeometricMean": 6.727615622625735,
+    "median": 6.742,
+    "hash": "2aa591b80a9f7397",
+    "lastUpdate": "2024-05-07"
+  }
+}

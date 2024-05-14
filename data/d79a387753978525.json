@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21307",
+    "https://anime-planet.com/anime/aikatsu-4",
+    "https://kitsu.io/anime/11142",
+    "https://notify.moe/anime/ECJupFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d79a387753978525",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.126818181818182,
+    "arithmeticGeometricMean": 8.110225517699453,
+    "median": 7.918636363636363,
+    "hash": "d79a387753978525",
+    "lastUpdate": "2024-05-05"
+  }
+}

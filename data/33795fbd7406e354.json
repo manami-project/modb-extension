@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7991",
+    "https://anisearch.com/anime/6574"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "33795fbd7406e354",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.8697959183673465,
+    "arithmeticGeometricMean": 7.869412939025493,
+    "median": 7.8697959183673465,
+    "hash": "33795fbd7406e354",
+    "lastUpdate": "2024-05-07"
+  }
+}

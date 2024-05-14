@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/mtv-ultrahits-id-masanobu-hiraoka"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2bdedca5cbffb8e2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.592,
+    "arithmeticGeometricMean": 6.592,
+    "median": 6.592,
+    "hash": "2bdedca5cbffb8e2",
+    "lastUpdate": "2024-05-07"
+  }
+}

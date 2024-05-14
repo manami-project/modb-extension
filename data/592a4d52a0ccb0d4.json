@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15364",
+    "https://anilist.co/anime/114888",
+    "https://anime-planet.com/anime/the-millionaire-detective-balance-unlimited",
+    "https://anisearch.com/anime/14906",
+    "https://kitsu.io/anime/43056",
+    "https://livechart.me/anime/9777",
+    "https://myanimelist.net/anime/41120",
+    "https://notify.moe/anime/TM1LPA8Wg"
+  ],
+  "synopsis": {
+    "text": "Department's misfits, the Modern Crime Prevention Headquarters. His new partner, Haru Katou, a detective with a strong sense of justice and compassion, finds Daisuke's materialistic approach to crime-solving repulsive. As polar opposites, they must find a way to work together to solve the most complex crimes, challenging their personal beliefs and testing their partnership. Will their contrasting values prove to be a strength or a weakness in the face of unsolvable mysteries? Join Daisuke and Haru as they navigate the world of crime and wealth in \"The Millionaire Detective: Balance Unlimited.\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "592a4d52a0ccb0d4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.628620251928521,
+    "arithmeticGeometricMean": 7.624205253949095,
+    "median": 7.670222634508349,
+    "hash": "592a4d52a0ccb0d4",
+    "lastUpdate": "2024-05-09"
+  }
+}

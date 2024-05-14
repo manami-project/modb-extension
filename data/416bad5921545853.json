@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2837",
+    "https://anilist.co/anime/308",
+    "https://anime-planet.com/anime/zettai-shounen",
+    "https://anisearch.com/anime/342",
+    "https://kitsu.io/anime/279",
+    "https://livechart.me/anime/8175",
+    "https://myanimelist.net/anime/308",
+    "https://notify.moe/anime/D002cFmmR"
+  ],
+  "synopsis": {
+    "text": "Shounen, a tale of two individuals, Ayume Aizawa and Kisa Tanigawa, who find themselves drawn into a world of mystery and wonder, guided by enigmatic orbs of light known as fairies.\n\nAyumu, a middle-schooler, finds himself in the tranquil rural town of Tana, visiting his estranged father. The quiet summer vacation takes an unexpected turn as Ayumu begins to notice peculiar occurrences around him - flowers blooming out of season, strange lights in the sky, and whispers of supernatural beings. Amidst all this, he encounters a peculiar young boy named Wakkun, who seems to have a connection with the mysterious glowing orbs.\n\nMeanwhile, in the bustling city of Yokohama, Kisa, a high school girl, has isolated herself from the world. One winter evening, she stumbles upon a wounded fairy and decides to take it home, naming it Bun-chan. The following morning, she witnesses an extraordinary sight - a massive object, resembling a UFO, hovering above the city before vanishing without a trace.\n\nBoth Ayumu and Kisa, each grappling with their own insecurities and feelings of isolation, are brought together by these ethereal beings. As they delve deeper into the mystery surrounding the fairies, they embark on a journey that could potentially save the world from falling apart. This is the story of Zettai Shounen, a tale of self-discovery, friendship, and the power of a pure heart.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "416bad5921545853",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.455845216008482,
+    "arithmeticGeometricMean": 6.4112111245842875,
+    "median": 6.7272727272727275,
+    "hash": "416bad5921545853",
+    "lastUpdate": "2024-05-10"
+  }
+}

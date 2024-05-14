@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/102506",
+    "https://anime-planet.com/anime/scenes-of-my-childhood",
+    "https://kitsu.io/anime/10929",
+    "https://myanimelist.net/anime/30666",
+    "https://notify.moe/anime/GKPlpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9dd3a2840625c0c1",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.209090909090909,
+    "arithmeticGeometricMean": 4.142334842675686,
+    "median": 3.9481818181818182,
+    "hash": "9dd3a2840625c0c1",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/tanuki-to-kitsune-specials",
+    "https://anisearch.com/anime/13667",
+    "https://kitsu.io/anime/41766",
+    "https://myanimelist.net/anime/37284"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "122752989e1d491a",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.587265306122449,
+    "arithmeticGeometricMean": 6.584683965835476,
+    "median": 6.587265306122449,
+    "hash": "122752989e1d491a",
+    "lastUpdate": "2024-05-07"
+  }
+}

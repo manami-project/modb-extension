@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/8767",
+    "https://anime-planet.com/anime/tenchi-in-tokyo-specials",
+    "https://kitsu.io/anime/5485",
+    "https://livechart.me/anime/7727",
+    "https://myanimelist.net/anime/8767",
+    "https://notify.moe/anime/k_RWtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d749e287afe8d7bf",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.382072727272727,
+    "arithmeticGeometricMean": 6.358529430224287,
+    "median": 6.454545454545455,
+    "hash": "d749e287afe8d7bf",
+    "lastUpdate": "2024-05-06"
+  }
+}

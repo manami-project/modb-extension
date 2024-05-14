@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11778",
+    "https://anilist.co/anime/21496",
+    "https://anime-planet.com/anime/gantz-o",
+    "https://anisearch.com/anime/11434",
+    "https://kitsu.io/anime/11498",
+    "https://livechart.me/anime/1921",
+    "https://myanimelist.net/anime/32071",
+    "https://notify.moe/anime/ZrFCpKmmR"
+  ],
+  "synopsis": {
+    "text": "On the bustling streets of Tokyo, an enigmatic black sphere known as Gantz orchestrates a deadly game of survival. In a seemingly ordinary room with a panoramic city view, individuals who narrowly escaped death find themselves recruited for a perilous mission. The sphere equips them with special suits and weapons, tasking them with eliminating extraterrestrial threats lurking on Earth.\n\nAmong the unwilling participants is Masaru Katou, a courageous and compassionate student who was fatally stabbed on his way home to celebrate his younger brother's birthday. Alongside the elderly Yoshikazu Suzuki, the captivating idol Reika Shimohira, and the seasoned yet aloof Jouichirou Nishi, Masaru must confront his fears and engage in a battle against alien forces. As they navigate through the treacherous streets of Osaka, survival hinges on their ability to eliminate any extraterrestrial being they encounter. With their lives hanging in the balance, these individuals must triumph in Gantz's game to earn a chance at returning to their previous lives and the loved ones they left behind.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6eee4e210b41bf74",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.409044784580499,
+    "arithmeticGeometricMean": 7.407714857136103,
+    "median": 7.3917346938775506,
+    "hash": "6eee4e210b41bf74",
+    "lastUpdate": "2024-05-09"
+  }
+}

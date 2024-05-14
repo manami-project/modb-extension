@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16490",
+    "https://anilist.co/anime/122671",
+    "https://anime-planet.com/anime/full-time-magister-v",
+    "https://anisearch.com/anime/16542",
+    "https://kitsu.io/anime/44956",
+    "https://livechart.me/anime/10744",
+    "https://myanimelist.net/anime/48941",
+    "https://notify.moe/anime/cBZneAIMg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "92f0b53ce6542f30",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.543808441558442,
+    "arithmeticGeometricMean": 7.53449135303862,
+    "median": 7.721818181818181,
+    "hash": "92f0b53ce6542f30",
+    "lastUpdate": "2024-05-09"
+  }
+}

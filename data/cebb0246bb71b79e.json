@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1344",
+    "https://anilist.co/anime/333",
+    "https://anime-planet.com/anime/mama-wa-shougaku-4-nensei",
+    "https://anisearch.com/anime/2925",
+    "https://kitsu.io/anime/300",
+    "https://livechart.me/anime/7773",
+    "https://myanimelist.net/anime/333",
+    "https://notify.moe/anime/Ao-25Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cebb0246bb71b79e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.954818976941425,
+    "arithmeticGeometricMean": 6.944776844631137,
+    "median": 6.968,
+    "hash": "cebb0246bb71b79e",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/peace-sign",
+    "https://anisearch.com/anime/13126",
+    "https://kitsu.io/anime/41332"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3ecb05584bff0a5b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.818358688930117,
+    "arithmeticGeometricMean": 7.810824542834813,
+    "median": 7.814,
+    "hash": "3ecb05584bff0a5b",
+    "lastUpdate": "2024-05-07"
+  }
+}

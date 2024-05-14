@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17638",
+    "https://anilist.co/anime/154968",
+    "https://anime-planet.com/anime/eisen-flugel",
+    "https://anisearch.com/anime/17737",
+    "https://kitsu.io/anime/46528",
+    "https://livechart.me/anime/11519",
+    "https://myanimelist.net/anime/53130",
+    "https://notify.moe/anime/TJ3al444g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2038a043d59c805c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "2038a043d59c805c",
+    "lastUpdate": "2024-05-11"
+  }
+}

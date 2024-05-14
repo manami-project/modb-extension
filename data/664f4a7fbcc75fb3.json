@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16473",
+    "https://anilist.co/anime/131604",
+    "https://anime-planet.com/anime/pleasant-goat-and-big-big-wolf-marching-to-the-new-wonderland",
+    "https://myanimelist.net/anime/43994"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "664f4a7fbcc75fb3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 3.5454545454545454,
+    "arithmeticGeometricMean": 3.5454545454545454,
+    "median": 3.5454545454545454,
+    "hash": "664f4a7fbcc75fb3",
+    "lastUpdate": "2024-05-08"
+  }
+}

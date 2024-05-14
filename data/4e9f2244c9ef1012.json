@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2317",
+    "https://anilist.co/anime/11049",
+    "https://anime-planet.com/anime/shin-maple-town-monogatari-palm-town-hen-konnichiwa-atarashii-machi",
+    "https://anisearch.com/anime/3399",
+    "https://kitsu.io/anime/6446",
+    "https://myanimelist.net/anime/11049",
+    "https://notify.moe/anime/197IpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e9f2244c9ef1012",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.7133197278911565,
+    "arithmeticGeometricMean": 5.696571650302914,
+    "median": 5.635,
+    "hash": "4e9f2244c9ef1012",
+    "lastUpdate": "2024-05-08"
+  }
+}

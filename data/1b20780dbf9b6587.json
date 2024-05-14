@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2040",
+    "https://anilist.co/anime/12657",
+    "https://anime-planet.com/anime/tongari-boushi-no-memoru-1985",
+    "https://anisearch.com/anime/3134",
+    "https://kitsu.io/anime/6780",
+    "https://livechart.me/anime/8743",
+    "https://myanimelist.net/anime/58845",
+    "https://notify.moe/anime/AWsHpFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1b20780dbf9b6587",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.93038961038961,
+    "arithmeticGeometricMean": 5.9297947130371895,
+    "median": 5.99,
+    "hash": "1b20780dbf9b6587",
+    "lastUpdate": "2024-05-13"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/481",
+    "https://myanimelist.net/anime/4852"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a5bebcb6fcd45cf7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.539795918367346,
+    "arithmeticGeometricMean": 4.476809252139136,
+    "median": 4.539795918367346,
+    "hash": "a5bebcb6fcd45cf7",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4961",
+    "https://anime-planet.com/anime/manga-kotowaja-jiten",
+    "https://anisearch.com/anime/4062",
+    "https://kitsu.io/anime/12375",
+    "https://myanimelist.net/anime/33300",
+    "https://notify.moe/anime/ZSIz2Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5558dd6c52caff79",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.066,
+    "arithmeticGeometricMean": 6.018707185788868,
+    "median": 6.066,
+    "hash": "5558dd6c52caff79",
+    "lastUpdate": "2024-05-08"
+  }
+}

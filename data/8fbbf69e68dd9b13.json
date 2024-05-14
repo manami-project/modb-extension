@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/127546",
+    "https://anime-planet.com/anime/natsuki-aoya-hakushi",
+    "https://kitsu.io/anime/48723",
+    "https://myanimelist.net/anime/58100"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8fbbf69e68dd9b13",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.217090909090909,
+    "arithmeticGeometricMean": 6.210683826776021,
+    "median": 6.217090909090909,
+    "hash": "8fbbf69e68dd9b13",
+    "lastUpdate": "2024-05-07"
+  }
+}

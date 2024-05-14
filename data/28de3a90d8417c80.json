@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/koshikko"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "28de3a90d8417c80",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.502,
+    "arithmeticGeometricMean": 6.502,
+    "median": 6.502,
+    "hash": "28de3a90d8417c80",
+    "lastUpdate": "2024-05-08"
+  }
+}

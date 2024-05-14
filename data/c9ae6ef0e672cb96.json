@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6910",
+    "https://anisearch.com/anime/7046"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c9ae6ef0e672cb96",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 3.1122448979591835,
+    "arithmeticGeometricMean": 3.1122448979591835,
+    "median": 3.1122448979591835,
+    "hash": "c9ae6ef0e672cb96",
+    "lastUpdate": "2024-05-08"
+  }
+}

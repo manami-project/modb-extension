@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/207",
+    "https://anilist.co/anime/115",
+    "https://anime-planet.com/anime/el-hazard-the-alternative-world",
+    "https://anisearch.com/anime/2168",
+    "https://kitsu.io/anime/94",
+    "https://livechart.me/anime/8214",
+    "https://myanimelist.net/anime/115",
+    "https://notify.moe/anime/MHxp5KimR"
+  ],
+  "synopsis": {
+    "text": "Nanami, Makoto, and their companions find themselves in a new predicament when a freshly appointed Priestess of Water, Qawuul Towles, unwittingly leads them to an alternate universe during her coronation ceremony. This 17-year-old newcomer has caught Makoto's attention, but the group's focus is quickly diverted by the enigmatic entity Arjah, who claims dominion over the cosmos.\n\nTransported to the Kingdom of Creteria, a stark, industrial landscape governed by the iron-fisted ruler Dall, the friends must navigate this unfamiliar realm while seeking a way back to their beloved El-Hazard. The key to their escape lies in unraveling the enigma of the ancient artifact known as the Spring of Life. However, time is of the essence, as the Spring's vitality appears to be waning.\n\nAs Qawuul and Nanami grapple with being mistaken for ancient sky goddesses, Jinnai, Katsuo, and Shayla-Shayla encounter an alternate version of the Bugrom. Meanwhile, Mr. Fujisawa, Miz, and Afura Mann find themselves in a peculiar predicament with their heads quite literally in the clouds.\n\nIn this new chapter following the events of the second Magnificent World OVA, the group must band together to overcome the challenges and misadventures that await them in this strange new world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ba1255eaee5e209",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.787065641841151,
+    "arithmeticGeometricMean": 6.7825358371202356,
+    "median": 6.83,
+    "hash": "5ba1255eaee5e209",
+    "lastUpdate": "2024-05-09"
+  }
+}

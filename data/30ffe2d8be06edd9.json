@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3406",
+    "https://anilist.co/anime/5929",
+    "https://anime-planet.com/anime/hi-no-ame-ga-furu",
+    "https://anisearch.com/anime/53",
+    "https://kitsu.io/anime/4346",
+    "https://myanimelist.net/anime/5929",
+    "https://notify.moe/anime/OP435Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "30ffe2d8be06edd9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.4104823747680895,
+    "arithmeticGeometricMean": 6.394939804736379,
+    "median": 6.4814471243042675,
+    "hash": "30ffe2d8be06edd9",
+    "lastUpdate": "2024-05-07"
+  }
+}

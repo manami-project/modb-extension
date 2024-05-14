@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16591",
+    "https://anilist.co/anime/137669",
+    "https://anime-planet.com/anime/nuan-yang",
+    "https://anisearch.com/anime/16654",
+    "https://kitsu.io/anime/45482",
+    "https://myanimelist.net/anime/49566"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "65eef2b757e43492",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "65eef2b757e43492",
+    "lastUpdate": "2024-05-11"
+  }
+}

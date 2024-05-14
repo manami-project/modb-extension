@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/116323",
+    "https://anime-planet.com/anime/decadence-remix",
+    "https://kitsu.io/anime/41231",
+    "https://myanimelist.net/anime/37528",
+    "https://notify.moe/anime/-OwY5jnig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "78e2b2e0daf958b0",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.568363636363636,
+    "arithmeticGeometricMean": 5.542386380357158,
+    "median": 5.13,
+    "hash": "78e2b2e0daf958b0",
+    "lastUpdate": "2024-05-06"
+  }
+}

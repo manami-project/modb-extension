@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6800",
+    "https://anilist.co/anime/4795",
+    "https://anime-planet.com/anime/pokemon-camp-pikachu",
+    "https://anisearch.com/anime/5738",
+    "https://kitsu.io/anime/3789",
+    "https://livechart.me/anime/5438",
+    "https://myanimelist.net/anime/4795",
+    "https://notify.moe/anime/WNO9cKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "400cb2b2a64eb09d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.3420303030303025,
+    "arithmeticGeometricMean": 6.326063341210999,
+    "median": 6.348484848484848,
+    "hash": "400cb2b2a64eb09d",
+    "lastUpdate": "2024-05-09"
+  }
+}

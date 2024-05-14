@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13118",
+    "https://anilist.co/anime/115087",
+    "https://anime-planet.com/anime/jinriki-senkan-shiokaze-sawakaze",
+    "https://anisearch.com/anime/12686",
+    "https://livechart.me/anime/7924",
+    "https://myanimelist.net/anime/35586"
+  ],
+  "synopsis": {
+    "text": "Japanese warship personifications, Shiokaze and Sawakaze, once served as breakwaters in Onahama Port, Iwaki city, following their scuttling after World War II. In this imaginative narrative, the devastating 2011 Great Touhoku Earthquake triggers a wormhole, leading to an invasion by otherworldly creatures. As these monstrous beings threaten the coastal region of Fukushima prefecture, it's up to these two historical destroyers-turned-robots and a group of high school students, including an aspiring cyclist, to defend Onahama from the inter-dimensional assault.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "736df757c9b0b012",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.54182745825603,
+    "arithmeticGeometricMean": 5.48128848065908,
+    "median": 5.651818181818182,
+    "hash": "736df757c9b0b012",
+    "lastUpdate": "2024-05-09"
+  }
+}

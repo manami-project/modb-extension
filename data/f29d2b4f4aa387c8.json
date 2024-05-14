@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15144",
+    "https://anilist.co/anime/112443",
+    "https://anime-planet.com/anime/bottom-tier-character-tomozaki",
+    "https://anisearch.com/anime/14684",
+    "https://kitsu.io/anime/42621",
+    "https://livechart.me/anime/9638",
+    "https://myanimelist.net/anime/40530",
+    "https://notify.moe/anime/Jg1ahZXWR"
+  ],
+  "synopsis": {
+    "text": "Despite being an elite gamer, Tomozaki Fumiya finds the game of life a challenging and unbalanced maze. As the top player in the Japanese online game \"Attack Families,\" he thrives in a world where effort equals reward. However, in the real world, he struggles to make sense of its complex rules and seemingly unfair mechanics.\n\nEnter Aoi Hinami, a fellow top-ranked gamer and Tomozaki's polar opposite. Popular, intelligent, and socially adept, Aoi sees life as a game that can be mastered. Intrigued by Tomozaki's inability to navigate everyday life, she takes it upon herself to guide him through the labyrinth of social interactions and relationships. As Tomozaki embarks on this journey, he begins to realize that perhaps life isn't such a terrible game after all, especially when played with the right strategies and a reliable teammate like Aoi by his side.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f29d2b4f4aa387c8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.175331730299774,
+    "arithmeticGeometricMean": 7.172081964761993,
+    "median": 7.2103636363636365,
+    "hash": "f29d2b4f4aa387c8",
+    "lastUpdate": "2024-05-09"
+  }
+}

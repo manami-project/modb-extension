@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11786",
+    "https://anilist.co/anime/21572",
+    "https://anime-planet.com/anime/lovely-muuuuuuuco-ova",
+    "https://anisearch.com/anime/11538",
+    "https://kitsu.io/anime/11773",
+    "https://livechart.me/anime/1928",
+    "https://myanimelist.net/anime/32107",
+    "https://notify.moe/anime/Bq1qtFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8de0247d377561ea",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.973196289424861,
+    "arithmeticGeometricMean": 5.953942686503404,
+    "median": 5.408163265306122,
+    "hash": "8de0247d377561ea",
+    "lastUpdate": "2024-05-09"
+  }
+}

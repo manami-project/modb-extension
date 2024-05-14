@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4779",
+    "https://anilist.co/anime/5002",
+    "https://anime-planet.com/anime/baribari-densetsu-1986",
+    "https://anisearch.com/anime/3923",
+    "https://kitsu.io/anime/3877",
+    "https://myanimelist.net/anime/5002",
+    "https://notify.moe/anime/8xarcFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fa775013ca508386",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.494283593957064,
+    "arithmeticGeometricMean": 6.47951554171936,
+    "median": 6.326530612244898,
+    "hash": "fa775013ca508386",
+    "lastUpdate": "2024-05-08"
+  }
+}

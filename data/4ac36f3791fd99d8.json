@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9387",
+    "https://anilist.co/anime/16067",
+    "https://anime-planet.com/anime/a-lull-in-the-sea",
+    "https://anisearch.com/anime/8016",
+    "https://kitsu.io/anime/7370",
+    "https://livechart.me/anime/87",
+    "https://myanimelist.net/anime/16067",
+    "https://notify.moe/anime/6ftKtFimR"
+  ],
+  "synopsis": {
+    "text": "As humanity once thrived beneath the sea, a group of individuals yearned for life on land, discarding their divine garments that enabled underwater existence. This exodus led to a divide between sea and land dwellers, with each group developing distinct ways of life and thought. Over time, the shared history of these two communities faded into obscurity.\n\nThe story unfolds as Tsumugu Kihara, a land-dwelling human, forms a unique bond with four young students from a submerged village. Hikari Sakishima, Manaka Mukaido, Chisaki Hiradaira, and Kaname Isaki face the challenges of adapting to life on the surface as they attend a middle school, where they encounter Tsumugu. As they navigate the complexities of their new environment and confront the deep-rooted prejudices between sea and land inhabitants, they also grapple with the emotional turmoil of their adolescent years.\n\nThroughout their journey, the group experiences the profound impact of love and friendship, capable of bridging the gap that separates their worlds. As they confront an impending storm that threatens the surface dwellers, the bonds they form will prove crucial in shaping their destiny and the future of their people.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4ac36f3791fd99d8",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.908927420463135,
+    "arithmeticGeometricMean": 7.908198954898893,
+    "median": 7.919545454545454,
+    "hash": "4ac36f3791fd99d8",
+    "lastUpdate": "2024-05-09"
+  }
+}

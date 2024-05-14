@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/bubaga",
+    "https://kitsu.io/anime/10243",
+    "https://myanimelist.net/anime/29467",
+    "https://notify.moe/anime/u2_stKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "07adab7d10fa41e2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "07adab7d10fa41e2",
+    "lastUpdate": "2024-05-07"
+  }
+}

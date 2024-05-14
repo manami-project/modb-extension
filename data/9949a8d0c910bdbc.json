@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/1703",
+    "https://anilist.co/anime/2391",
+    "https://anime-planet.com/anime/sd-gundam-force",
+    "https://anisearch.com/anime/1100",
+    "https://kitsu.io/anime/2168",
+    "https://livechart.me/anime/7007",
+    "https://myanimelist.net/anime/2391",
+    "https://notify.moe/anime/E9fP5Kmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9949a8d0c910bdbc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.904787702093825,
+    "arithmeticGeometricMean": 4.860812129337031,
+    "median": 5.176,
+    "hash": "9949a8d0c910bdbc",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6888",
+    "https://anilist.co/anime/5662",
+    "https://anime-planet.com/anime/suteneko-tora-chan",
+    "https://anisearch.com/anime/6731",
+    "https://kitsu.io/anime/4229",
+    "https://myanimelist.net/anime/5662",
+    "https://notify.moe/anime/gtsC5Kmig"
+  ],
+  "synopsis": {
+    "text": "Tora-chan, a stray kitten, is found by a compassionate family of cats during a leisurely stroll by the river. The mother cat, moved by the sight of the abandoned kitten, decides to bring him home, providing him with food, clothing, and toys. However, this act of kindness unintentionally triggers jealousy in the youngest cat sibling, Miike, who feels overlooked amidst the attention showered on the newcomer. Overwhelmed, Miike decides to leave home, leading to a heartfelt quest by Tora-chan to find her and bring her back, hoping to mend their relationship and establish harmony within their feline family.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ee0083092d296f3f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.582542627440588,
+    "arithmeticGeometricMean": 5.565846789485531,
+    "median": 5.7,
+    "hash": "ee0083092d296f3f",
+    "lastUpdate": "2024-05-08"
+  }
+}

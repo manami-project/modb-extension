@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7906",
+    "https://anilist.co/anime/9796",
+    "https://anime-planet.com/anime/atashinchi-3d-movie-jounetsu-no-chou-chounouryoku-haha-daibousou",
+    "https://anisearch.com/anime/6457",
+    "https://kitsu.io/anime/5874",
+    "https://livechart.me/anime/12497",
+    "https://myanimelist.net/anime/9796",
+    "https://notify.moe/anime/ThLMpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "174796d80b787d2a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.037269635126777,
+    "arithmeticGeometricMean": 6.017566758077318,
+    "median": 6.135,
+    "hash": "174796d80b787d2a",
+    "lastUpdate": "2024-05-08"
+  }
+}

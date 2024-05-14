@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18041",
+    "https://anilist.co/anime/146608",
+    "https://anime-planet.com/anime/the-mourning-children-nagiko-and-the-girls-wearing-tsurubami-black",
+    "https://anisearch.com/anime/18418",
+    "https://kitsu.io/anime/47482",
+    "https://livechart.me/anime/10484",
+    "https://myanimelist.net/anime/55359",
+    "https://notify.moe/anime/aNLKZN_4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b548b7df530f51a2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "b548b7df530f51a2",
+    "lastUpdate": "2024-05-11"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10591",
+    "https://anilist.co/anime/20939",
+    "https://anime-planet.com/anime/juuza-engi-engetsu-sangokuden",
+    "https://anisearch.com/anime/9600",
+    "https://kitsu.io/anime/8334",
+    "https://livechart.me/anime/523",
+    "https://myanimelist.net/anime/22295",
+    "https://notify.moe/anime/OsrotFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0899bb451545dd54",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.463913331566394,
+    "arithmeticGeometricMean": 5.446325437561795,
+    "median": 5.61,
+    "hash": "0899bb451545dd54",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13993",
+    "https://anilist.co/anime/109930",
+    "https://anime-planet.com/anime/washimo-6",
+    "https://anisearch.com/anime/13547",
+    "https://kitsu.io/anime/41139",
+    "https://livechart.me/anime/3198",
+    "https://myanimelist.net/anime/37630",
+    "https://notify.moe/anime/Nj0hIximg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "54a79570e6fd0240",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.890538033395177,
+    "arithmeticGeometricMean": 5.882456600890949,
+    "median": 5.890538033395177,
+    "hash": "54a79570e6fd0240",
+    "lastUpdate": "2024-05-10"
+  }
+}

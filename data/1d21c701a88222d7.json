@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/880",
+    "https://anilist.co/anime/551",
+    "https://anime-planet.com/anime/baki-the-grappler-maximum-tournament",
+    "https://anisearch.com/anime/1652",
+    "https://kitsu.io/anime/508",
+    "https://livechart.me/anime/6212",
+    "https://myanimelist.net/anime/551",
+    "https://notify.moe/anime/lQBTcFimR"
+  ],
+  "synopsis": {
+    "text": "Tokugawa's underground fighting ring, a stage where the world's strongest martial artists gather to prove their worth, is about to witness an intense battle. Baki Hanma, the reigning champion and son of the legendary grappler, Hanma Yujiro, is set to defend his title. The Shinshinkai Organization has organized a tournament featuring 38 of the world's best fighters, each a grandmaster in their respective martial arts discipline. With no restrictions except for weapons, the arena is set for a showdown of raw power and secret techniques.\n\nBaki, driven by the desire to surpass his father and reclaim his honor, must navigate through a sea of psychotic monsters and martial arts masters. The tournament is not just a fight for the championship belt but a chance to face his father, the beast himself.\n\nHaving spent years away from his father, Baki's quest for power has led him to challenge the world's most talented fighters and athletes across various martial arts disciplines - karate, jiu-jitsu, boxing, kickboxing, wrestling, sumo, and more. His journey is a testament to his relentless pursuit of strength, a journey where victory and survival are often one and the same.\n\nWill Baki survive the tournament of legends and finally face his father in the ring? Will he be able to defeat the beast and prove his worth? Only time will tell in this brutal quest to be the strongest fighter in the world.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d21c701a88222d7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.321869318181819,
+    "arithmeticGeometricMean": 7.315815178538777,
+    "median": 7.481,
+    "hash": "1d21c701a88222d7",
+    "lastUpdate": "2024-05-09"
+  }
+}

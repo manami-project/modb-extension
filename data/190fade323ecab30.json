@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4645",
+    "https://anime-planet.com/anime/no-money",
+    "https://anisearch.com/anime/3928",
+    "https://kitsu.io/anime/1945",
+    "https://myanimelist.net/anime/2148",
+    "https://notify.moe/anime/Yu9YcKiiR"
+  ],
+  "synopsis": {
+    "text": "Ayase's life takes a drastic turn when his cousin, Tetsuo, burdened by immense gambling debts, resorts to auctioning off Ayase to the highest bidder. The university student, known for his kind heart and innocence, finds himself purchased by Kanou, a wealthy loan shark with a mysterious connection to Ayase's past. Kanou's staggering bid of 1.2 billion yen secures Ayase, but the debt now transfers to the young student. With no job or means to repay, Ayase is left with a single, unsettling option - to sell his body to Kanou for half a million yen per night. As Ayase navigates this unfamiliar world, an unexpected bond begins to form between them, hinting at a connection that transcends monetary transactions.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "190fade323ecab30",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.162259740259739,
+    "arithmeticGeometricMean": 6.1618879430806714,
+    "median": 6.17,
+    "hash": "190fade323ecab30",
+    "lastUpdate": "2024-05-08"
+  }
+}

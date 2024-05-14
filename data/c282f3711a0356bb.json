@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/the-dragon-dentist",
+    "https://anisearch.com/anime/9958"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c282f3711a0356bb",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.663551020408163,
+    "arithmeticGeometricMean": 6.661920348134328,
+    "median": 6.663551020408163,
+    "hash": "c282f3711a0356bb",
+    "lastUpdate": "2024-05-07"
+  }
+}

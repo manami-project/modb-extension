@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/672",
+    "https://anilist.co/anime/2723",
+    "https://anime-planet.com/anime/d4-princess",
+    "https://anisearch.com/anime/1798",
+    "https://kitsu.io/anime/2483",
+    "https://livechart.me/anime/6553",
+    "https://myanimelist.net/anime/2723",
+    "https://notify.moe/anime/mflycKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "40dc226bd4ec870c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.739164060429366,
+    "arithmeticGeometricMean": 5.715787691790378,
+    "median": 6.0,
+    "hash": "40dc226bd4ec870c",
+    "lastUpdate": "2024-05-09"
+  }
+}

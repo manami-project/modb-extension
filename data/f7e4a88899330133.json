@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15102",
+    "https://anilist.co/anime/111734",
+    "https://anime-planet.com/anime/given-movie",
+    "https://anisearch.com/anime/14627",
+    "https://kitsu.io/anime/42572",
+    "https://livechart.me/anime/9604",
+    "https://myanimelist.net/anime/40421",
+    "https://notify.moe/anime/rpnAwnQWg"
+  ],
+  "synopsis": {
+    "text": "Amateur rock band 'Given' is on the cusp of a breakthrough, having made it to the final screening of the prestigious Countdown Festival Amateur Contest. As they prepare for their live act, they grapple with the challenge of creating new music. Mafuyu, the band's talented vocalist, finds himself in a creative rut, but an unexpected encounter with Ugetsu Murata, a violinist and ex-lover of the band's drummer Akihiko, sparks new inspiration.\n\nMeanwhile, the band's bassist, Haruki Nakayama, harbors deep feelings for Akihiko, who remains entangled in a complex relationship with Ugetsu. As Haruki struggles to express his feelings, the emotional turmoil threatens to disrupt the band's unity.\n\nSimultaneously, a tender romance blossoms between Mafuyu and the band's guitarist, Ritsuka Uenoyama. As they navigate their burgeoning relationship, the band must confront the complexities of love, friendship, and ambition.\n\nWith the competition looming, the band members must overcome their personal challenges to create a performance that resonates with their audience. As they journey through this emotional rollercoaster, they must decide what truly matters: the band, their relationships, or their individual aspirations. Will they emerge stronger, or will the strain prove too much for them to handle? Only time will tell.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f7e4a88899330133",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.166746134817563,
+    "arithmeticGeometricMean": 8.162240033984803,
+    "median": 8.306060606060607,
+    "hash": "f7e4a88899330133",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/mtv-ultrahits-execute-id",
+    "https://kitsu.io/anime/47948",
+    "https://myanimelist.net/anime/42802"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "04b62353b792738f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.582000000000001,
+    "arithmeticGeometricMean": 5.575454939370827,
+    "median": 5.582000000000001,
+    "hash": "04b62353b792738f",
+    "lastUpdate": "2024-05-07"
+  }
+}

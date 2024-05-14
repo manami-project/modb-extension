@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7361",
+    "https://anilist.co/anime/8372",
+    "https://anime-planet.com/anime/makoto-chan",
+    "https://anisearch.com/anime/4293",
+    "https://kitsu.io/anime/5319",
+    "https://myanimelist.net/anime/8372",
+    "https://notify.moe/anime/1DdmtKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c94cde42f5bea2b9",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.669753246753246,
+    "arithmeticGeometricMean": 4.5915298346073925,
+    "median": 4.6895454545454545,
+    "hash": "c94cde42f5bea2b9",
+    "lastUpdate": "2024-05-08"
+  }
+}

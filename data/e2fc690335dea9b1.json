@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2075",
+    "https://anilist.co/anime/9885",
+    "https://anime-planet.com/anime/shin-bikkuriman",
+    "https://anisearch.com/anime/3349",
+    "https://kitsu.io/anime/5922",
+    "https://livechart.me/anime/11937",
+    "https://myanimelist.net/anime/9885",
+    "https://notify.moe/anime/JbXMtKmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e2fc690335dea9b1",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.75439146567718,
+    "arithmeticGeometricMean": 5.718679492680365,
+    "median": 5.75417439703154,
+    "hash": "e2fc690335dea9b1",
+    "lastUpdate": "2024-05-09"
+  }
+}

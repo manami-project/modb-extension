@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8787",
+    "https://anilist.co/anime/12029",
+    "https://anime-planet.com/anime/star-blazers-space-battleship-yamato-2199",
+    "https://anisearch.com/anime/7427",
+    "https://kitsu.io/anime/6646",
+    "https://livechart.me/anime/2965",
+    "https://myanimelist.net/anime/12029",
+    "https://notify.moe/anime/-QZNpFmiR"
+  ],
+  "synopsis": {
+    "text": "With Earth on the brink of extinction in 2199, the human race seeks refuge in subterranean cities to evade the relentless bombardment of the ruthless Gamilas Empire. As the planet's once lush landscapes transform into a barren wasteland, a beacon of hope emerges from the distant world of Iscandar. This mysterious planet promises Earth a revolutionary technology, the Cosmo Reverse System, capable of restoring the ravaged surface.\n\nTo retrieve this life-saving device, the Earth Defense Force commissions the state-of-the-art Space Battleship Yamato, helmed by the seasoned Captain Juuzou Okita. The Yamato's diverse crew, including young officers Susumu Kodai and Daisuke Shima, must navigate the treacherous 148,000 light-year voyage to Iscandar. Along the way, they face innumerable challenges and learn to harness the ship's cutting-edge technology while confronting the formidable Gamilas fleets.\n\nWith just one year left to save humanity, the crew of the Yamato must rely on their collective strengths and resilience to overcome seemingly insurmountable odds. As they embark on this perilous mission, they hold the fate of Earth in their hands, and only time will tell if they can secure humanity's future before it's too late.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c91663e53ef24cfb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.209510608055538,
+    "arithmeticGeometricMean": 8.208774104711875,
+    "median": 8.244545454545454,
+    "hash": "c91663e53ef24cfb",
+    "lastUpdate": "2024-05-10"
+  }
+}

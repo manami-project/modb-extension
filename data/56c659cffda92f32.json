@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15351",
+    "https://anilist.co/anime/114535",
+    "https://anime-planet.com/anime/to-your-eternity",
+    "https://anisearch.com/anime/14882",
+    "https://kitsu.io/anime/43211",
+    "https://livechart.me/anime/9762",
+    "https://myanimelist.net/anime/41025",
+    "https://notify.moe/anime/SOn7jzwZR"
+  ],
+  "synopsis": {
+    "text": "Gaining sentience in a frigid, unforgiving landscape, an enigmatic entity embarks on a timeless odyssey of self-discovery and human understanding. Initially manifesting as an orb, the being possesses the uncanny ability to mimic the forms of living and non-living things it encounters, as well as the power to regenerate after death. As it evolves from a stone to a moss-covered rock, and eventually into a dying wolf, the entity develops consciousness and emotions, ultimately taking the form of a young boy named Fushi.\n\nThroughout its journey, the immortal being, now known as Fushi, learns the essence of life, love, and loss through encounters with various individuals. However, the world Fushi is determined to protect is threatened by destructive forces called Nokkers. As the only one capable of defeating these malevolent beings, Fushi must navigate the complexities of human emotions and the pain of separation while safeguarding the very world he is still learning to comprehend.\n\n\"To Your Eternity\" is a poignant tale of growth, resilience, and the indomitable human spirit, as Fushi forges his own path in an endless quest to uncover the true meaning of existence.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "56c659cffda92f32",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.293848521226673,
+    "arithmeticGeometricMean": 8.291500767198817,
+    "median": 8.344545454545454,
+    "hash": "56c659cffda92f32",
+    "lastUpdate": "2024-05-09"
+  }
+}

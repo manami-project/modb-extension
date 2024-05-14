@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7819",
+    "https://anime-planet.com/anime/koro-koro-kuririn-no-inaka-no-nezumi-tokai-no-nezumi",
+    "https://anisearch.com/anime/6427",
+    "https://kitsu.io/anime/9403",
+    "https://myanimelist.net/anime/18081",
+    "https://notify.moe/anime/6h5ftFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f8851477c64e2c62",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.463183673469389,
+    "arithmeticGeometricMean": 5.442274525482405,
+    "median": 5.0,
+    "hash": "f8851477c64e2c62",
+    "lastUpdate": "2024-05-08"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12480",
+    "https://anilist.co/anime/173441",
+    "https://anime-planet.com/anime/shou-chan-sora-wo-tobu",
+    "https://anisearch.com/anime/15870",
+    "https://kitsu.io/anime/11055",
+    "https://myanimelist.net/anime/30960",
+    "https://notify.moe/anime/ykIXpFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4e0ff2b14789fd0d",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.0482374768089056,
+    "arithmeticGeometricMean": 4.995519063171466,
+    "median": 5.0,
+    "hash": "4e0ff2b14789fd0d",
+    "lastUpdate": "2024-05-07"
+  }
+}

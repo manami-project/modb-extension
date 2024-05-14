@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8327",
+    "https://anilist.co/anime/10539",
+    "https://anime-planet.com/anime/hato-no-oyome-san",
+    "https://anisearch.com/anime/6948",
+    "https://kitsu.io/anime/6231",
+    "https://myanimelist.net/anime/10539",
+    "https://notify.moe/anime/UTHVpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "7b5942a2b407ca24",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.6811146567718,
+    "arithmeticGeometricMean": 4.616776902549308,
+    "median": 4.1,
+    "hash": "7b5942a2b407ca24",
+    "lastUpdate": "2024-05-08"
+  }
+}

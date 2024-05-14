@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/468",
+    "https://anilist.co/anime/976",
+    "https://anime-planet.com/anime/yokohama-kaidashi-kikou-quiet-country-cafe",
+    "https://anisearch.com/anime/1315",
+    "https://kitsu.io/anime/866",
+    "https://livechart.me/anime/5945",
+    "https://myanimelist.net/anime/976",
+    "https://notify.moe/anime/PkF1cKmmg"
+  ],
+  "synopsis": {
+    "text": "Alpha, a type A7M2 robot, finds joy in the simple things in life while running Cafe Alpha in a near-future Japan that has been mostly submerged due to global warming. Despite the potential threat to the remaining islands, Alpha and her friends savor the tranquility and beauty of their surroundings. However, when a typhoon hits and damages her beloved cafe, Alpha embarks on a journey to not only raise funds to repair it but also to explore the world beyond her peaceful community. With her camera in hand, Alpha sets out to discover new horizons while learning the importance of returning home. Determined to restore her cafe and her cherished way of life, Alpha's journey becomes an opportunity to appreciate the resilience of humanity and the value of meaningful connections.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9bab9d1f38cf40ea",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.168084879406308,
+    "arithmeticGeometricMean": 7.161332558929742,
+    "median": 7.25,
+    "hash": "9bab9d1f38cf40ea",
+    "lastUpdate": "2024-05-10"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3346",
+    "https://anilist.co/anime/20243",
+    "https://anime-planet.com/anime/gatapishi",
+    "https://anisearch.com/anime/1887",
+    "https://kitsu.io/anime/8985",
+    "https://livechart.me/anime/11102",
+    "https://myanimelist.net/anime/20243",
+    "https://notify.moe/anime/8GwxtFmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c87fa425600d5b4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.042331478045763,
+    "arithmeticGeometricMean": 5.9452315829971045,
+    "median": 6.32,
+    "hash": "4c87fa425600d5b4",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10518",
+    "https://anilist.co/anime/20795",
+    "https://anime-planet.com/anime/meshimase-lodoss-tou-senki-sorette-oishii-no",
+    "https://anisearch.com/anime/9521",
+    "https://kitsu.io/anime/8394",
+    "https://livechart.me/anime/465",
+    "https://myanimelist.net/anime/23229",
+    "https://notify.moe/anime/vXM0pFmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "10ded5844e12baaa",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.981844155844156,
+    "arithmeticGeometricMean": 4.949032493286895,
+    "median": 5.181818181818182,
+    "hash": "10ded5844e12baaa",
+    "lastUpdate": "2024-05-09"
+  }
+}

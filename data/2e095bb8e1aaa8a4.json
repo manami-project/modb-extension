@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7164",
+    "https://anime-planet.com/anime/video-ehonkan-sekai-meisaku-douwa",
+    "https://anisearch.com/anime/7039",
+    "https://kitsu.io/anime/10596",
+    "https://myanimelist.net/anime/30029",
+    "https://notify.moe/anime/dy4QtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2e095bb8e1aaa8a4",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.125945578231293,
+    "arithmeticGeometricMean": 5.0618722006806465,
+    "median": 5.0,
+    "hash": "2e095bb8e1aaa8a4",
+    "lastUpdate": "2024-05-08"
+  }
+}

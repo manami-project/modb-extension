@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16199",
+    "https://anilist.co/anime/136135",
+    "https://anime-planet.com/anime/colocolo-animal-otogibanashi",
+    "https://anisearch.com/anime/16190",
+    "https://kitsu.io/anime/44850",
+    "https://livechart.me/anime/10528",
+    "https://myanimelist.net/anime/48789"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a51e4113ace404ad",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.06338899196042,
+    "arithmeticGeometricMean": 6.052680800211085,
+    "median": 6.326530612244898,
+    "hash": "a51e4113ace404ad",
+    "lastUpdate": "2024-05-09"
+  }
+}

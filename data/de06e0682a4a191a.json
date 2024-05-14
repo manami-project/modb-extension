@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/148515",
+    "https://anime-planet.com/anime/the-art-education",
+    "https://kitsu.io/anime/46391",
+    "https://myanimelist.net/anime/40728"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "de06e0682a4a191a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.840121212121212,
+    "arithmeticGeometricMean": 5.837737620682977,
+    "median": 5.71,
+    "hash": "de06e0682a4a191a",
+    "lastUpdate": "2024-05-07"
+  }
+}

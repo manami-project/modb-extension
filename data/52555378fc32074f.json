@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11412",
+    "https://anilist.co/anime/102526",
+    "https://anime-planet.com/anime/ari-chan",
+    "https://anisearch.com/anime/10516",
+    "https://kitsu.io/anime/10162",
+    "https://myanimelist.net/anime/28245",
+    "https://notify.moe/anime/blAytFmmR"
+  ],
+  "synopsis": {
+    "text": "Film synopsis: In the bustling world of an ant colony, a young ant named Ari-chan stumbles upon a hidden treasure in a sandpit - a violin left behind by its owner. Unaware of its significance, Ari-chan and his friends delight in exploring the mysterious object and the sounds it can produce. However, as Ari-chan grows to understand the violin's true value, he embarks on a heartwarming mission to return the cherished instrument to its rightful owner. This charming animated short film, directed by Mitsuyo Seo, showcases the power of empathy and the importance of doing what's right, even in the smallest of creatures.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "52555378fc32074f",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.286485820302147,
+    "arithmeticGeometricMean": 5.2524748530413525,
+    "median": 5.29,
+    "hash": "52555378fc32074f",
+    "lastUpdate": "2024-05-08"
+  }
+}

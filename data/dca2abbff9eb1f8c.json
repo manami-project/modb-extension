@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140360",
+    "https://anime-planet.com/anime/yukai-na-mezamashi-tokei",
+    "https://kitsu.io/anime/40930",
+    "https://myanimelist.net/anime/36389",
+    "https://notify.moe/anime/UBfdhFimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dca2abbff9eb1f8c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.1964848484848485,
+    "arithmeticGeometricMean": 5.11249755930518,
+    "median": 5.4,
+    "hash": "dca2abbff9eb1f8c",
+    "lastUpdate": "2024-05-07"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17334",
+    "https://anilist.co/anime/156841",
+    "https://anime-planet.com/anime/detective-conan-movie-26-black-iron-submarine",
+    "https://anisearch.com/anime/17453",
+    "https://kitsu.io/anime/47435",
+    "https://livechart.me/anime/11601",
+    "https://myanimelist.net/anime/53540",
+    "https://notify.moe/anime/P8npfJFVg"
+  ],
+  "synopsis": {
+    "text": "Buoy ed by international cooperation, the ambitious project \"Pacific Buoy\" is underway near the idyllic Hachijou-jima island off Tokyo's coast. The initiative, spearheaded by Europol, brings together top engineers from around the globe to develop cutting-edge facial recognition technology, aiming to revolutionize crime-fighting by connecting security cameras owned by various police forces. Meanwhile, young detective Conan and his friends, the Detective Boys, find themselves on the island, thanks to an invitation from their friend Sonoko. However, their peaceful island getaway takes a dark turn when they learn about the murder of a Europol employee in Germany, courtesy of the nefarious Black Organization. As Conan investigates further, he discovers that a key engineer involved in the Pacific Buoy project has been kidnapped by the Black Organization, along with a USB drive containing classified information. As the Black Organization's shadow looms over the island, Conan and his friends must race against time to solve this explosive case and protect their own, including Ai Haibara, who may be in grave danger.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e9d6671f8fdac7dc",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.8294073681420615,
+    "arithmeticGeometricMean": 7.806116285794944,
+    "median": 8.176,
+    "hash": "e9d6671f8fdac7dc",
+    "lastUpdate": "2024-05-09"
+  }
+}

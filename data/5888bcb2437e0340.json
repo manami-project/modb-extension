@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/116703",
+    "https://anime-planet.com/anime/kangaeru-jikan",
+    "https://kitsu.io/anime/43199",
+    "https://myanimelist.net/anime/41797"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5888bcb2437e0340",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.224181818181818,
+    "arithmeticGeometricMean": 5.197909444768264,
+    "median": 4.97,
+    "hash": "5888bcb2437e0340",
+    "lastUpdate": "2024-05-07"
+  }
+}

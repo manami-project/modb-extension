@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/4421",
+    "https://anilist.co/anime/2144",
+    "https://anime-planet.com/anime/naruto-movie-3-guardians-of-the-crescent-moon-kingdom",
+    "https://anisearch.com/anime/3574",
+    "https://kitsu.io/anime/1941",
+    "https://livechart.me/anime/3883",
+    "https://myanimelist.net/anime/2144",
+    "https://notify.moe/anime/_59LcFmiR"
+  ],
+  "synopsis": {
+    "text": "Prince Michiru and his son Hikaru, hailing from the affluent Land of the Moon, embark on a global expedition, accompanied by a team of skilled ninjas: Naruto Uzumaki, Sakura Haruno, Rock Lee, and their leader, Kakashi Hatake. The journey becomes increasingly complex when the prince's whimsical purchases, including an entire circus complete with a saber-toothed tiger, challenge the team's protective duties.\n\nUpon their return to the Land of the Moon, the group is confronted with an unexpected coup. The power-hungry Chief Minister Shabadaba has usurped the throne, backed by a formidable force of mysterious ninjas. Amidst the chaos, the prince and his son are forced to reassess their privileged lives, while Kakashi's team battles relentlessly to restore order and protect their charges.\n\nAs the stakes escalate, Naruto and his comrades must navigate the treacherous political landscape, outmaneuver the enigmatic ninjas, and ultimately, secure the future of the Land of the Moon. Will they succeed in their mission, or will the sinister machinations of Shabadaba prove insurmountable? The fate of a kingdom hangs in the balance.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "16692865577a7cdb",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.7450101075146165,
+    "arithmeticGeometricMean": 6.734229807606491,
+    "median": 6.947272727272727,
+    "hash": "16692865577a7cdb",
+    "lastUpdate": "2024-05-09"
+  }
+}

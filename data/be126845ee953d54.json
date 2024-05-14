@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16314",
+    "https://anilist.co/anime/123375",
+    "https://anime-planet.com/anime/hua-jianghu-zhi-buliang-ren-iv",
+    "https://livechart.me/anime/10608",
+    "https://myanimelist.net/anime/49274",
+    "https://notify.moe/anime/Yl2gr6g7g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "be126845ee953d54",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.439939393939394,
+    "arithmeticGeometricMean": 7.424545548335446,
+    "median": 7.578,
+    "hash": "be126845ee953d54",
+    "lastUpdate": "2024-05-09"
+  }
+}

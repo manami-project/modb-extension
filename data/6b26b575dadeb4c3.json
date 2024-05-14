@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/dwarf-movie-lab",
+    "https://kitsu.io/anime/40973",
+    "https://myanimelist.net/anime/36573",
+    "https://notify.moe/anime/tglO2KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6b26b575dadeb4c3",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.038,
+    "arithmeticGeometricMean": 6.023147975372374,
+    "median": 6.038,
+    "hash": "6b26b575dadeb4c3",
+    "lastUpdate": "2024-05-07"
+  }
+}

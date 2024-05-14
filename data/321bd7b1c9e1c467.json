@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/119456",
+    "https://anime-planet.com/anime/okori-jizou",
+    "https://kitsu.io/anime/9509",
+    "https://myanimelist.net/anime/26143",
+    "https://notify.moe/anime/bcQBpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "321bd7b1c9e1c467",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.818181818181818,
+    "arithmeticGeometricMean": 4.816465788426978,
+    "median": 4.818181818181818,
+    "hash": "321bd7b1c9e1c467",
+    "lastUpdate": "2024-05-07"
+  }
+}

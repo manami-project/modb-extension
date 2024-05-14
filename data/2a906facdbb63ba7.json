@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/113269",
+    "https://anime-planet.com/anime/ukiyodoko",
+    "https://kitsu.io/anime/45766"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2a906facdbb63ba7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.710090909090909,
+    "arithmeticGeometricMean": 5.674992966172233,
+    "median": 5.710090909090909,
+    "hash": "2a906facdbb63ba7",
+    "lastUpdate": "2024-05-07"
+  }
+}

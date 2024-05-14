@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14543",
+    "https://anilist.co/anime/101169",
+    "https://anime-planet.com/anime/idolish7-vibrato",
+    "https://anisearch.com/anime/13348",
+    "https://kitsu.io/anime/42455",
+    "https://livechart.me/anime/3091",
+    "https://myanimelist.net/anime/36963",
+    "https://notify.moe/anime/EoqtYlxGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "8f63760df4e08160",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.798535382984363,
+    "arithmeticGeometricMean": 7.793461731655529,
+    "median": 7.952727272727273,
+    "hash": "8f63760df4e08160",
+    "lastUpdate": "2024-05-09"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/103337",
+    "https://anime-planet.com/anime/uchuu-no-uta",
+    "https://kitsu.io/anime/40882",
+    "https://myanimelist.net/anime/36293",
+    "https://notify.moe/anime/I_2dhFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bd2fe7e130311ef7",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.352424242424242,
+    "arithmeticGeometricMean": 5.335237952064759,
+    "median": 5.14,
+    "hash": "bd2fe7e130311ef7",
+    "lastUpdate": "2024-05-07"
+  }
+}

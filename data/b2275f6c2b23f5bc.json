@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16439",
+    "https://anilist.co/anime/135864",
+    "https://anime-planet.com/anime/tropical-rouge-precure-yuki-no-princess-to-kiseki-no-yubiwa",
+    "https://anisearch.com/anime/16655",
+    "https://kitsu.io/anime/44924",
+    "https://livechart.me/anime/10287",
+    "https://myanimelist.net/anime/49426",
+    "https://notify.moe/anime/VbMYUjNnR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b2275f6c2b23f5bc",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.927604205318491,
+    "arithmeticGeometricMean": 6.920991107465783,
+    "median": 7.104,
+    "hash": "b2275f6c2b23f5bc",
+    "lastUpdate": "2024-05-10"
+  }
+}

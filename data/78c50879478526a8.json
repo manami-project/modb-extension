@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6525",
+    "https://anilist.co/anime/12027",
+    "https://anime-planet.com/anime/anne-no-nikki-anne-frank-monogatari",
+    "https://anisearch.com/anime/4647",
+    "https://kitsu.io/anime/6647",
+    "https://myanimelist.net/anime/12027",
+    "https://notify.moe/anime/gRGNpKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "78c50879478526a8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.058549165120593,
+    "arithmeticGeometricMean": 6.055074817758426,
+    "median": 6.071,
+    "hash": "78c50879478526a8",
+    "lastUpdate": "2024-05-07"
+  }
+}

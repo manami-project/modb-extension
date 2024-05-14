@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/21648",
+    "https://anime-planet.com/anime/aikatsu-stars"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "24ff8795f0f75b95",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.721636363636364,
+    "arithmeticGeometricMean": 7.721635335078464,
+    "median": 7.721636363636364,
+    "hash": "24ff8795f0f75b95",
+    "lastUpdate": "2024-05-05"
+  }
+}

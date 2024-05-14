@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5194",
+    "https://anilist.co/anime/5828",
+    "https://anime-planet.com/anime/zenki-gaiden-anki-kitan",
+    "https://anisearch.com/anime/4286",
+    "https://kitsu.io/anime/4291",
+    "https://myanimelist.net/anime/5828",
+    "https://notify.moe/anime/Xf6CcFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1d97f0922070830c",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.9959276437847855,
+    "arithmeticGeometricMean": 5.982540064049112,
+    "median": 6.097272727272728,
+    "hash": "1d97f0922070830c",
+    "lastUpdate": "2024-05-07"
+  }
+}

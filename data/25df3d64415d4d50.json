@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2648",
+    "https://anilist.co/anime/5926",
+    "https://anime-planet.com/anime/antique-heart",
+    "https://anisearch.com/anime/1838",
+    "https://kitsu.io/anime/4343",
+    "https://livechart.me/anime/7731",
+    "https://myanimelist.net/anime/5926",
+    "https://notify.moe/anime/8d4q5Fmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "25df3d64415d4d50",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.27174025974026,
+    "arithmeticGeometricMean": 5.242154717784757,
+    "median": 5.181818181818182,
+    "hash": "25df3d64415d4d50",
+    "lastUpdate": "2024-05-08"
+  }
+}

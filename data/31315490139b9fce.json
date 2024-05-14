@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/744",
+    "https://anilist.co/anime/2146",
+    "https://anime-planet.com/anime/canary",
+    "https://anisearch.com/anime/2620",
+    "https://kitsu.io/anime/1943",
+    "https://livechart.me/anime/8460",
+    "https://myanimelist.net/anime/2146",
+    "https://notify.moe/anime/Lb9Y5Kmig"
+  ],
+  "synopsis": {
+    "text": "Refusing to let her dreams be silenced, Mika Katagiri and her band face a series of obstacles in their quest to perform at the local festival. With their keyboardist backing out and their stage suddenly cancelled, the determined group must navigate through unexpected hurdles. As they race against time, they resort to unconventional methods to secure a spot, even if it means persuading the mayor. Will their persistence pay off, allowing them to share their cherished Canary's song with the world? Only time will tell as Mika and her band embark on this thrilling musical journey.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "31315490139b9fce",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.408226345083489,
+    "arithmeticGeometricMean": 4.376906274584461,
+    "median": 4.492,
+    "hash": "31315490139b9fce",
+    "lastUpdate": "2024-05-09"
+  }
+}

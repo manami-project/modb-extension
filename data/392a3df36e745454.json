@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18428",
+    "https://anilist.co/anime/108576",
+    "https://anime-planet.com/anime/sheng-si-hui-fang",
+    "https://kitsu.io/anime/43567",
+    "https://myanimelist.net/anime/47231"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "392a3df36e745454",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.2727272727272725,
+    "arithmeticGeometricMean": 5.2727272727272725,
+    "median": 5.2727272727272725,
+    "hash": "392a3df36e745454",
+    "lastUpdate": "2024-05-08"
+  }
+}

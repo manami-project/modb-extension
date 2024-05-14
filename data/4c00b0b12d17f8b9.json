@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/6629",
+    "https://anilist.co/anime/20087",
+    "https://anime-planet.com/anime/treasure-gaust",
+    "https://anisearch.com/anime/5807",
+    "https://kitsu.io/anime/9948",
+    "https://myanimelist.net/anime/20087",
+    "https://notify.moe/anime/3spEtKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4c00b0b12d17f8b9",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 4.736858627087199,
+    "arithmeticGeometricMean": 4.671830949707074,
+    "median": 3.92,
+    "hash": "4c00b0b12d17f8b9",
+    "lastUpdate": "2024-05-07"
+  }
+}

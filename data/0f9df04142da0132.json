@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/8852",
+    "https://anilist.co/anime/12445",
+    "https://anime-planet.com/anime/dusk-maiden-of-amnesia",
+    "https://anisearch.com/anime/7488",
+    "https://kitsu.io/anime/6734",
+    "https://livechart.me/anime/1136",
+    "https://myanimelist.net/anime/12445",
+    "https://notify.moe/anime/F2ANpKiiR"
+  ],
+  "synopsis": {
+    "text": "Yuuko, a ghost with no recollection of her life or death, haunts Seikyou Private Academy, a school steeped in occult myths and mysterious occurrences. Confined to the school's old building, Yuuko establishes the Paranormal Investigations Club to uncover the truth about her past. When Teiichi Niiya, a diligent first-year student, stumbles upon Yuuko, he finds himself uniquely able to see the enigmatic ghost. Together with fellow club members Kirie Kanoe, Yuuko's relative, and Momoe Okonogi, they embark on a journey to unravel the infamous Seven Mysteries surrounding the school and the circumstances of Yuuko's death. As they delve deeper into the paranormal world, their bond strengthens, and the truth about Yuuko's tragic past begins to unravel.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0f9df04142da0132",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.7567667421595985,
+    "arithmeticGeometricMean": 7.756014151031715,
+    "median": 7.800660660660661,
+    "hash": "0f9df04142da0132",
+    "lastUpdate": "2024-05-10"
+  }
+}

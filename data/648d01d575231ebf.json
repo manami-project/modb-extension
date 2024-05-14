@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/ado-kagakushuu",
+    "https://myanimelist.net/anime/53007"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "648d01d575231ebf",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.716,
+    "arithmeticGeometricMean": 6.712280331738994,
+    "median": 6.716,
+    "hash": "648d01d575231ebf",
+    "lastUpdate": "2024-05-07"
+  }
+}

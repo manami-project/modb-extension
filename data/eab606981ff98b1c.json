@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2340",
+    "https://anilist.co/anime/1883",
+    "https://anime-planet.com/anime/kappa-no-kaikata",
+    "https://anisearch.com/anime/1918",
+    "https://kitsu.io/anime/1694",
+    "https://livechart.me/anime/7106",
+    "https://myanimelist.net/anime/1883",
+    "https://notify.moe/anime/K-XfcFiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "eab606981ff98b1c",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.38867638483965,
+    "arithmeticGeometricMean": 5.289174096781957,
+    "median": 6.0,
+    "hash": "eab606981ff98b1c",
+    "lastUpdate": "2024-05-09"
+  }
+}

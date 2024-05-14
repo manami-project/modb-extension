@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/castlevania",
+    "https://kitsu.io/anime/13529",
+    "https://notify.moe/anime/SGn42KmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "02cb68338f0d23fb",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 8.154008978675646,
+    "arithmeticGeometricMean": 8.153344116737548,
+    "median": 8.216,
+    "hash": "02cb68338f0d23fb",
+    "lastUpdate": "2024-05-06"
+  }
+}

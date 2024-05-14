@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13203",
+    "https://anisearch.com/anime/12517",
+    "https://kitsu.io/anime/40811"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "83faf976399c34d4",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.326530612244898,
+    "arithmeticGeometricMean": 6.326530612244898,
+    "median": 6.326530612244898,
+    "hash": "83faf976399c34d4",
+    "lastUpdate": "2024-05-08"
+  }
+}

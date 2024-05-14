@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15982",
+    "https://anilist.co/anime/128703",
+    "https://anime-planet.com/anime/assault-lily-fruits",
+    "https://anisearch.com/anime/16263",
+    "https://kitsu.io/anime/44528",
+    "https://livechart.me/anime/10335",
+    "https://myanimelist.net/anime/45961",
+    "https://notify.moe/anime/zABOvgBMR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "19c40a42690373d2",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.559738669493771,
+    "arithmeticGeometricMean": 6.546317195209438,
+    "median": 6.545454545454545,
+    "hash": "19c40a42690373d2",
+    "lastUpdate": "2024-05-08"
+  }
+}

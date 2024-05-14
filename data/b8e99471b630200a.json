@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/129590",
+    "https://anime-planet.com/anime/watashi-no-mannaka"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b8e99471b630200a",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.14790909090909,
+    "arithmeticGeometricMean": 5.1020745822100695,
+    "median": 5.14790909090909,
+    "hash": "b8e99471b630200a",
+    "lastUpdate": "2024-05-07"
+  }
+}

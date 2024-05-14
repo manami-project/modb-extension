@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2094",
+    "https://anilist.co/anime/7364",
+    "https://anime-planet.com/anime/dragon-quest-dai-no-daibouken-buchiyabure-shinsei-6-daishougun",
+    "https://anisearch.com/anime/3401",
+    "https://kitsu.io/anime/4951",
+    "https://livechart.me/anime/7587",
+    "https://myanimelist.net/anime/7364",
+    "https://notify.moe/anime/CZlRpKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "2eec01728dc19322",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.46567117236505,
+    "arithmeticGeometricMean": 6.458746551683015,
+    "median": 6.37,
+    "hash": "2eec01728dc19322",
+    "lastUpdate": "2024-05-09"
+  }
+}

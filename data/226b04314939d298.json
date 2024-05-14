@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/107011",
+    "https://anime-planet.com/anime/1980yen-takoyaki-story",
+    "https://kitsu.io/anime/42559",
+    "https://myanimelist.net/anime/38961"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "226b04314939d298",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.069333333333334,
+    "arithmeticGeometricMean": 5.06580459849615,
+    "median": 5.0,
+    "hash": "226b04314939d298",
+    "lastUpdate": "2024-05-07"
+  }
+}

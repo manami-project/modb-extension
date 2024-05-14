@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7771",
+    "https://anilist.co/anime/2642",
+    "https://anime-planet.com/anime/dorami-chan-a-blue-straw-hat",
+    "https://anisearch.com/anime/6464",
+    "https://kitsu.io/anime/2406",
+    "https://myanimelist.net/anime/2642",
+    "https://notify.moe/anime/V-0s5FiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "49578668ac9b1d01",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 5.744802721088436,
+    "arithmeticGeometricMean": 5.722961896773323,
+    "median": 5.66,
+    "hash": "49578668ac9b1d01",
+    "lastUpdate": "2024-05-07"
+  }
+}

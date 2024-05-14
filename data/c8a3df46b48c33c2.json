@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/133610",
+    "https://anime-planet.com/anime/fake-type-yummy-yummy-yummy",
+    "https://kitsu.io/anime/44513",
+    "https://myanimelist.net/anime/49901"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c8a3df46b48c33c2",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.304545454545455,
+    "arithmeticGeometricMean": 6.30444374906039,
+    "median": 6.31,
+    "hash": "c8a3df46b48c33c2",
+    "lastUpdate": "2024-05-07"
+  }
+}

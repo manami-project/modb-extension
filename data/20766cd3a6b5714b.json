@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/4477",
+    "https://myanimelist.net/anime/3940"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "20766cd3a6b5714b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.645102040816326,
+    "arithmeticGeometricMean": 5.606057542216619,
+    "median": 5.645102040816326,
+    "hash": "20766cd3a6b5714b",
+    "lastUpdate": "2024-05-07"
+  }
+}

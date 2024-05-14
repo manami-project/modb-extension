@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13600",
+    "https://anime-planet.com/anime/son-gokuu-silk-road-wo-tobu",
+    "https://anisearch.com/anime/10691",
+    "https://kitsu.io/anime/9767",
+    "https://myanimelist.net/anime/24669",
+    "https://notify.moe/anime/vMlLtKmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3677cb37790a367",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.51530612244898,
+    "arithmeticGeometricMean": 4.502251663714118,
+    "median": 4.51530612244898,
+    "hash": "d3677cb37790a367",
+    "lastUpdate": "2024-05-08"
+  }
+}

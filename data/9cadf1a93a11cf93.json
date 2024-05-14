@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16719",
+    "https://anilist.co/anime/122631",
+    "https://anime-planet.com/anime/hitori-no-shita-the-outcast-4",
+    "https://anisearch.com/anime/16652",
+    "https://kitsu.io/anime/45264",
+    "https://livechart.me/anime/10111",
+    "https://myanimelist.net/anime/49915",
+    "https://notify.moe/anime/wUD19YN7R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9cadf1a93a11cf93",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.813301175015461,
+    "arithmeticGeometricMean": 6.803907611778817,
+    "median": 7.015454545454546,
+    "hash": "9cadf1a93a11cf93",
+    "lastUpdate": "2024-05-10"
+  }
+}

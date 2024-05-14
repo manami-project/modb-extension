@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17892",
+    "https://anime-planet.com/anime/nico-agony",
+    "https://anisearch.com/anime/18262",
+    "https://kitsu.io/anime/48826",
+    "https://livechart.me/anime/11848",
+    "https://myanimelist.net/anime/55299"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "42692c185abb461b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "42692c185abb461b",
+    "lastUpdate": "2024-05-11"
+  }
+}

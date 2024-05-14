@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anime-planet.com/anime/psychodelic"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd3fc6a884490436",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.42,
+    "arithmeticGeometricMean": 6.42,
+    "median": 6.42,
+    "hash": "fd3fc6a884490436",
+    "lastUpdate": "2024-05-07"
+  }
+}

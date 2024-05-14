@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/2323",
+    "https://anilist.co/anime/19271",
+    "https://anime-planet.com/anime/crush-gear-turbo-the-movie-kaiserverns-ultimate-challenge",
+    "https://anisearch.com/anime/3202",
+    "https://kitsu.io/anime/8986",
+    "https://livechart.me/anime/10960",
+    "https://myanimelist.net/anime/19271",
+    "https://notify.moe/anime/1NwbtFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ec3508cd44f79be1",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 6.0238085343228205,
+    "arithmeticGeometricMean": 5.998428968267658,
+    "median": 5.261224489795918,
+    "hash": "ec3508cd44f79be1",
+    "lastUpdate": "2024-05-09"
+  }
+}

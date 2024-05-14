@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13173",
+    "https://anilist.co/anime/121891",
+    "https://anime-planet.com/anime/ylion-to-callysia",
+    "https://anisearch.com/anime/12474",
+    "https://kitsu.io/anime/41573",
+    "https://livechart.me/anime/2701",
+    "https://myanimelist.net/anime/35594"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "e5a3d513f4db59ba",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.501630179344464,
+    "arithmeticGeometricMean": 5.451972552536343,
+    "median": 5.408163265306122,
+    "hash": "e5a3d513f4db59ba",
+    "lastUpdate": "2024-05-10"
+  }
+}

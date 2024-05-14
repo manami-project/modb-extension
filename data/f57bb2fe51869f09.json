@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12069",
+    "https://anilist.co/anime/115764",
+    "https://anime-planet.com/anime/panpaka-pants-movie-bananan-oukoku-no-hihou",
+    "https://anisearch.com/anime/12021",
+    "https://kitsu.io/anime/10427",
+    "https://myanimelist.net/anime/29832",
+    "https://notify.moe/anime/gGb8tKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f57bb2fe51869f09",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 5.0435992578849715,
+    "arithmeticGeometricMean": 5.043107898189549,
+    "median": 5.0,
+    "hash": "f57bb2fe51869f09",
+    "lastUpdate": "2024-05-07"
+  }
+}

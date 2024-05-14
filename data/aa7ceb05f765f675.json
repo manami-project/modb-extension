@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14313",
+    "https://anilist.co/anime/103361",
+    "https://anime-planet.com/anime/shi-wan-ge-leng-xiaohua-3rd-season",
+    "https://anisearch.com/anime/11704",
+    "https://kitsu.io/anime/12414",
+    "https://myanimelist.net/anime/33196",
+    "https://notify.moe/anime/IjFz2Kiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "aa7ceb05f765f675",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.272727272727273,
+    "arithmeticGeometricMean": 5.269197674131583,
+    "median": 5.272727272727273,
+    "hash": "aa7ceb05f765f675",
+    "lastUpdate": "2024-05-08"
+  }
+}

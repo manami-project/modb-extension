@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/126175",
+    "https://anime-planet.com/anime/the-apple-incident",
+    "https://anisearch.com/anime/3770",
+    "https://kitsu.io/anime/45929"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "1e8d91bf7f3aaabc",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.524489795918367,
+    "arithmeticGeometricMean": 4.511952736494662,
+    "median": 4.524489795918367,
+    "hash": "1e8d91bf7f3aaabc",
+    "lastUpdate": "2024-05-07"
+  }
+}

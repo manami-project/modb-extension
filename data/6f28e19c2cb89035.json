@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3164",
+    "https://anilist.co/anime/3600",
+    "https://anime-planet.com/anime/wrath-of-the-ninja-ova",
+    "https://anisearch.com/anime/1171",
+    "https://kitsu.io/anime/3134",
+    "https://myanimelist.net/anime/3600",
+    "https://notify.moe/anime/P2m_5KmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f28e19c2cb89035",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.968295785846807,
+    "arithmeticGeometricMean": 5.95474152493129,
+    "median": 5.9,
+    "hash": "6f28e19c2cb89035",
+    "lastUpdate": "2024-05-08"
+  }
+}

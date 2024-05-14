@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9653",
+    "https://anilist.co/anime/17115",
+    "https://anime-planet.com/anime/pokemon-black-and-white-adventures-in-unova",
+    "https://anisearch.com/anime/8300",
+    "https://kitsu.io/anime/7586",
+    "https://livechart.me/anime/4512",
+    "https://myanimelist.net/anime/17115",
+    "https://notify.moe/anime/Mup5pFiiR"
+  ],
+  "synopsis": {
+    "text": "Kibago, Pikachu, and their trainer Satoshi embark on a thrilling adventure to the enigmatic 'White Ruins,' a legendary place connected to the mythical Pokémon Reshiram. This journey follows their victory at the Isshu League Higaki Tournament. At the ruins, they encounter a mysterious young man named N, who possesses the unique ability to understand the feelings and thoughts of Pokémon.\n\nTheir adventure takes a dark turn as they become entangled with the nefarious Plasma Gang, led by the cunning Ghetsis. The gang is conducting sinister experiments on Pokémon, aiming to control them through their rage. Even Satoshi's loyal Pikachu and Kibago fall victim to these experiments, turning hostile towards their beloved trainer.\n\nThe mastermind behind these experiments is Achroma, a mysterious scientist working for the Plasma Gang. But what is the true purpose behind their search for N? And how does it connect to the utopia for Pokémon and humans that N envisions?\n\nAmidst this chaos, the Rocket Gang trio returns to the Isshu Region, their mission pitting them against the Plasma Gang. How will this epic battle unfold? Join Satoshi and his friends as they navigate this dangerous new chapter in the Unova region, filled with tense battles and unexpected alliances!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4d16074dae4fe421",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.809139086719732,
+    "arithmeticGeometricMean": 6.804148053089626,
+    "median": 6.820779220779221,
+    "hash": "4d16074dae4fe421",
+    "lastUpdate": "2024-05-09"
+  }
+}

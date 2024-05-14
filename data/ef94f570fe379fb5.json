@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anilist.co/anime/5244",
+    "https://anime-planet.com/anime/aria-the-natural-special",
+    "https://anisearch.com/anime/8562",
+    "https://kitsu.io/anime/4009",
+    "https://livechart.me/anime/5212",
+    "https://myanimelist.net/anime/5244",
+    "https://notify.moe/anime/M8ZCcKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ef94f570fe379fb5",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.40410283593957,
+    "arithmeticGeometricMean": 7.403321935847572,
+    "median": 7.32,
+    "hash": "ef94f570fe379fb5",
+    "lastUpdate": "2024-05-05"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/137898",
+    "https://anime-planet.com/anime/the-genius-princes-guide-to-raising-a-nation-out-of-debt-short-drama",
+    "https://kitsu.io/anime/46123",
+    "https://livechart.me/anime/10746",
+    "https://myanimelist.net/anime/49592"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "340de3b59caa2418",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.0740606060606055,
+    "arithmeticGeometricMean": 6.072235084366103,
+    "median": 6.07,
+    "hash": "340de3b59caa2418",
+    "lastUpdate": "2024-05-10"
+  }
+}

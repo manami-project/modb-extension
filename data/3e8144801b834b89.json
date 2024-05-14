@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9514",
+    "https://anilist.co/anime/16662",
+    "https://anime-planet.com/anime/the-wind-rises",
+    "https://anisearch.com/anime/8234",
+    "https://kitsu.io/anime/7485",
+    "https://livechart.me/anime/45",
+    "https://myanimelist.net/anime/16662",
+    "https://notify.moe/anime/IN3FtKiig"
+  ],
+  "synopsis": {
+    "text": "Giovanni Battista Caproni, an Italian aeronautical engineer, fuels the dreams of a young, nearsighted Jiro Horikoshi, who, despite his inability to become a pilot, dedicates his life to designing aircraft. Leaving his hometown, Jiro enrolls at Tokyo Imperial University to study aeronautical engineering, arriving just in time for the Great Kanto Earthquake of 1923. Amidst the chaos, he saves a maid working for the Satomi family and crosses paths with Naoko, a girl who will later become his love interest.\n\nAs Jiro navigates the turbulent years leading up to World War II, he faces social unrest and personal challenges, all while pursuing his dream of creating a beautiful, flightworthy plane. His journey takes him to Germany, where he gains valuable experience in aircraft manufacturing. Eventually, he returns to Japan and rises through the ranks of a prominent aircraft company, becoming the mastermind behind the iconic Mitsubishi A6M Zero fighter.\n\nThroughout his life, Jiro's dreams intertwine with reality, as he encounters Caproni in his visions and receives guidance from the legendary engineer. However, the world has other plans for Jiro's creations, as his beautiful aircraft are ultimately used for war. Meanwhile, Jiro's personal life is marked by love and heartache, as he and Naoko, who suffers from tuberculosis, navigate the complexities of their relationship.\n\n\"The Wind Rises\" is a tale of passion, perseverance, and the consequences of chasing one's dreams, as Jiro Horikoshi's life unfolds against the backdrop of a world on the brink of war.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "3e8144801b834b89",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.029012134560729,
+    "arithmeticGeometricMean": 8.028298843467056,
+    "median": 8.03008378870674,
+    "hash": "3e8144801b834b89",
+    "lastUpdate": "2024-05-09"
+  }
+}

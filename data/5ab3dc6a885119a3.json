@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11093",
+    "https://anilist.co/anime/8567",
+    "https://anime-planet.com/anime/rusuban",
+    "https://anisearch.com/anime/10423",
+    "https://kitsu.io/anime/5393",
+    "https://myanimelist.net/anime/8567",
+    "https://notify.moe/anime/YoLmpFimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "5ab3dc6a885119a3",
+    "created": "2024-05-13",
+    "lastUpdate": "2024-05-13"
+  },
+  "score": {
+    "arithmeticMean": 3.7025355596784166,
+    "arithmeticGeometricMean": 3.6402607274807197,
+    "median": 3.454545454545454,
+    "hash": "5ab3dc6a885119a3",
+    "lastUpdate": "2024-05-08"
+  }
+}

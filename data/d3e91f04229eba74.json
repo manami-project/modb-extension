@@ -1,0 +1,26 @@
+{
+  "sources": [
+    "https://anidb.net/anime/3161",
+    "https://anilist.co/anime/6731",
+    "https://anime-planet.com/anime/ultraman-kids-no-kotowaza-monogatari",
+    "https://anisearch.com/anime/1193",
+    "https://kitsu.io/anime/4689",
+    "https://myanimelist.net/anime/6731",
+    "https://notify.moe/anime/omE6cKimR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3e91f04229eba74",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.735767470624614,
+    "arithmeticGeometricMean": 4.60666813680849,
+    "median": 4.665,
+    "hash": "d3e91f04229eba74",
+    "lastUpdate": "2024-05-08"
+  }
+}

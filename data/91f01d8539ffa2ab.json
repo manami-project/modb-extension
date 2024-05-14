@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anisearch.com/anime/12305",
+    "https://myanimelist.net/anime/35178"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "91f01d8539ffa2ab",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.49530612244898,
+    "arithmeticGeometricMean": 5.480751083485395,
+    "median": 5.49530612244898,
+    "hash": "91f01d8539ffa2ab",
+    "lastUpdate": "2024-05-07"
+  }
+}

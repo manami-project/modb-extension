@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17358",
+    "https://anilist.co/anime/137698",
+    "https://anime-planet.com/anime/kaiju-yi-zuo-shan",
+    "https://myanimelist.net/anime/51385"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "12f67c7f14b4a00e",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 4.7272727272727275,
+    "arithmeticGeometricMean": 4.7272727272727275,
+    "median": 4.7272727272727275,
+    "hash": "12f67c7f14b4a00e",
+    "lastUpdate": "2024-05-08"
+  }
+}

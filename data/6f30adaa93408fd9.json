@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/7620",
+    "https://anilist.co/anime/9288",
+    "https://anime-planet.com/anime/heartcatch-pretty-cure-movie-hana-no-miyako-de-fashion-show-desu-ka",
+    "https://anisearch.com/anime/6163",
+    "https://kitsu.io/anime/5656",
+    "https://livechart.me/anime/5577",
+    "https://myanimelist.net/anime/9288",
+    "https://notify.moe/anime/llQZtKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "6f30adaa93408fd9",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 7.605882321759873,
+    "arithmeticGeometricMean": 7.595805168962816,
+    "median": 7.624545454545455,
+    "hash": "6f30adaa93408fd9",
+    "lastUpdate": "2024-05-09"
+  }
+}

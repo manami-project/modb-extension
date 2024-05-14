@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17534",
+    "https://anilist.co/anime/134101",
+    "https://anime-planet.com/anime/the-land-of-miracles",
+    "https://kitsu.io/anime/47171",
+    "https://myanimelist.net/anime/48965",
+    "https://notify.moe/anime/BgRlJdT4R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "bb8cb024cc6af4a8",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 7.802424242424242,
+    "arithmeticGeometricMean": 7.797246396279636,
+    "median": 7.7272727272727275,
+    "hash": "bb8cb024cc6af4a8",
+    "lastUpdate": "2024-05-08"
+  }
+}

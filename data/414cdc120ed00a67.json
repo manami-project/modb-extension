@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/11183",
+    "https://anilist.co/anime/110182",
+    "https://anime-planet.com/anime/katsura-hime",
+    "https://anisearch.com/anime/10537",
+    "https://kitsu.io/anime/10193",
+    "https://kitsu.io/anime/41794",
+    "https://myanimelist.net/anime/28419",
+    "https://notify.moe/anime/OtfypFiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "414cdc120ed00a67",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 5.314877285979327,
+    "arithmeticGeometricMean": 5.2906842558267195,
+    "median": 5.0,
+    "hash": "414cdc120ed00a67",
+    "lastUpdate": "2024-05-08"
+  }
+}

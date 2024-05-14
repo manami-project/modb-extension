@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/12252",
+    "https://anilist.co/anime/100341",
+    "https://anime-planet.com/anime/last-hope",
+    "https://anisearch.com/anime/12917",
+    "https://kitsu.io/anime/12297",
+    "https://livechart.me/anime/2237",
+    "https://myanimelist.net/anime/33531",
+    "https://notify.moe/anime/HRjg2Kmig"
+  ],
+  "synopsis": {
+    "text": "This anime, set in 2031, follows the aftermath of a catastrophic event known as the \"Xianglong Crisis\" or \"Shouryuu Crisis,\" caused by the malfunction of an experimental energy source called the \"Quantum Reactor.\" This incident triggers an unprecedented wave of evolution, blurring the lines between humans, machines, and AI, and leading to the emergence of powerful entities known as the Biological Revolutionary of Accelerated Intelligence (B.R.A.I.). The B.R.A.I. have pushed humanity to the brink of extinction, forcing them to take refuge in fortified cities like Neo Xianglong.\n\nAt the heart of the story is Leon, a scientist who witnessed the Xianglong Crisis firsthand. In an effort to combat the B.R.A.I., Leon forms a family pact with a girl named Chloe, and together they live on the outskirts of society, conducting research to find a way to fight back against the B.R.A.I. Despite the looming threat, Leon and Chloe manage to maintain a semblance of normalcy in their everyday lives, but the danger is never far away.\n\nIn this near-future world, characters navigate an existential struggle for survival amidst the rapid biological and technological evolution. With the boundary between human and AI becoming increasingly vague, the fight for supremacy unfolds in a world where diverse existences, such as humans, machines, and biotechnologies, are intertwined.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a60d58e137c747c7",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.4612456709956705,
+    "arithmeticGeometricMean": 6.449531918288823,
+    "median": 6.425285714285714,
+    "hash": "a60d58e137c747c7",
+    "lastUpdate": "2024-05-09"
+  }
+}

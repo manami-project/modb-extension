@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/10579",
+    "https://anilist.co/anime/9063",
+    "https://anime-planet.com/anime/toaru-kagaku-no-railgun-entenka-no-satsuei-model-mo-raku-ja-arimasen-wa-ne",
+    "https://anisearch.com/anime/7685",
+    "https://kitsu.io/anime/5592",
+    "https://livechart.me/anime/3322",
+    "https://myanimelist.net/anime/9063",
+    "https://notify.moe/anime/RQAWpKmmg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "4bd251ccc3d06595",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.725235955807384,
+    "arithmeticGeometricMean": 6.718707223760474,
+    "median": 6.753636363636364,
+    "hash": "4bd251ccc3d06595",
+    "lastUpdate": "2024-05-10"
+  }
+}

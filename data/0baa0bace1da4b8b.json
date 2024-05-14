@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14534",
+    "https://anilist.co/anime/106286",
+    "https://anime-planet.com/anime/weathering-with-you",
+    "https://anisearch.com/anime/14029",
+    "https://kitsu.io/anime/42028",
+    "https://livechart.me/anime/8671",
+    "https://myanimelist.net/anime/38826",
+    "https://notify.moe/anime/_rX7qwPig"
+  ],
+  "synopsis": {
+    "text": "With Tokyo besieged by an unending deluge, the high school freshman, Hodaka, flees his secluded island home in search of a brighter future. Struggling to survive in the sprawling metropolis, he finds solace in an unlikely place: a dubious occult magazine that offers him a writing job. As he navigates the bustling city, he encounters Hina, a resilient and cheerful young woman who, despite her own challenges, possesses a miraculous gift: the ability to control the weather and bring forth sunshine amidst the relentless rain. Together, they embark on a journey to harness Hina's power for the benefit of others, only to discover that meddling with nature has its consequences. As dark clouds gather over their burgeoning relationship, Hodaka and Hina must confront the price that comes with wielding such extraordinary abilities in \"Weathering with You.\"",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "0baa0bace1da4b8b",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 8.391890538033394,
+    "arithmeticGeometricMean": 8.390467254123465,
+    "median": 8.427636363636363,
+    "hash": "0baa0bace1da4b8b",
+    "lastUpdate": "2024-05-10"
+  }
+}

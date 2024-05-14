@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140631",
+    "https://anime-planet.com/anime/youkoso-boku-desu",
+    "https://anisearch.com/anime/13897",
+    "https://kitsu.io/anime/46614",
+    "https://myanimelist.net/anime/41227"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "322e25701dc5bf7e",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 4.414037105751391,
+    "arithmeticGeometricMean": 4.200409047663411,
+    "median": 4.927727272727273,
+    "hash": "322e25701dc5bf7e",
+    "lastUpdate": "2024-05-07"
+  }
+}

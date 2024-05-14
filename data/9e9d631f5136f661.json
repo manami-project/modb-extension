@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16345",
+    "https://anime-planet.com/anime/hoshi-wo-mi-ni-ikou",
+    "https://anisearch.com/anime/16814"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "9e9d631f5136f661",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "9e9d631f5136f661",
+    "lastUpdate": "2024-05-11"
+  }
+}

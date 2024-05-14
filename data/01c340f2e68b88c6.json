@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14419",
+    "https://anime-planet.com/anime/daifuku-kun-kin-tele",
+    "https://anisearch.com/anime/13927",
+    "https://myanimelist.net/anime/38427"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "01c340f2e68b88c6",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.326530612244898,
+    "arithmeticGeometricMean": 6.326530612244898,
+    "median": 6.326530612244898,
+    "hash": "01c340f2e68b88c6",
+    "lastUpdate": "2024-05-08"
+  }
+}

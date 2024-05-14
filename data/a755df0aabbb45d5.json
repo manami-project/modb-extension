@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/713",
+    "https://anilist.co/anime/1951",
+    "https://anime-planet.com/anime/neo-tokyo",
+    "https://anisearch.com/anime/659",
+    "https://kitsu.io/anime/1757",
+    "https://livechart.me/anime/4585",
+    "https://myanimelist.net/anime/1951",
+    "https://notify.moe/anime/ynML5Kiig"
+  ],
+  "synopsis": {
+    "text": "Sugioka, a corporate lackey, is dispatched to halt an automated construction project deep in the jungle after the foreman vanishes. He's met with resistance from the robotic workforce, leading to a battle of wits to prevent further financial ruin. In a twisted dimension, Sachi and her feline friend, Cicerone, stumble upon a labyrinth teeming with peculiar beings after falling through a mirror. As they follow a clown's shadow, they're left to wonder what fate awaits them. In a dystopian future, Zack Hugh, a psychokinetic racer and reigning champion for ten years, faces his ultimate challenge in a deadly automobile race that pushes both man and machine to their limits.\n\nThis anthology, directed by Rintaro, Yoshiaki Kawajiri, and Katsuhiro Otomo, brings three short sci-fi stories from Taku Mayumura to life. From the dark corners of a mysterious labyrinth and the thrilling world of high-speed racing to a dangerous jungle overrun by automated robots, these tales are sure to captivate and entertain.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a755df0aabbb45d5",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.85531636220922,
+    "arithmeticGeometricMean": 6.846882720955884,
+    "median": 6.91,
+    "hash": "a755df0aabbb45d5",
+    "lastUpdate": "2024-05-09"
+  }
+}

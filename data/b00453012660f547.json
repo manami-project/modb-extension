@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/20794",
+    "https://anime-planet.com/anime/aikatsu-3",
+    "https://kitsu.io/anime/9096",
+    "https://notify.moe/anime/rN7apFmmR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b00453012660f547",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 8.024840909090909,
+    "arithmeticGeometricMean": 8.015881199236265,
+    "median": 7.9831818181818175,
+    "hash": "b00453012660f547",
+    "lastUpdate": "2024-05-05"
+  }
+}

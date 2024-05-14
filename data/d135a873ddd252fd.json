@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anilist.co/anime/112079",
+    "https://anime-planet.com/anime/keina-suda-dolly"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d135a873ddd252fd",
+    "created": "2024-05-12",
+    "lastUpdate": "2024-05-12"
+  },
+  "score": {
+    "arithmeticMean": 6.561999999999999,
+    "arithmeticGeometricMean": 6.5499392369395295,
+    "median": 6.561999999999999,
+    "hash": "d135a873ddd252fd",
+    "lastUpdate": "2024-05-07"
+  }
+}

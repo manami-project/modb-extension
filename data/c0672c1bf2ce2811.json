@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anilist.co/anime/140727",
+    "https://anime-planet.com/anime/gorilla-shinkaron",
+    "https://kitsu.io/anime/45373"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c0672c1bf2ce2811",
+    "created": "2024-05-14",
+    "lastUpdate": "2024-05-14"
+  },
+  "score": {
+    "arithmeticMean": 6.636363636363637,
+    "arithmeticGeometricMean": 6.636363636363637,
+    "median": 6.636363636363637,
+    "hash": "c0672c1bf2ce2811",
+    "lastUpdate": "2024-05-07"
+  }
+}
