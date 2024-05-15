@@ -45,6 +45,7 @@ class MyanimelistRawSynopsisLoader(
     private fun normalize(value: String): String {
         return StringEscapeUtils.unescapeHtml4(value)
             .replace(" ", " ")
+            .replace("\t", " ")
             .replace("\n", " ")
             .replace("""\[[w|W]ritten by .*?(\]|$)""".toRegex(), EMPTY)
             .replace("""\(Source: .*?\)""".toRegex(), EMPTY)

@@ -43,14 +43,16 @@ class AnidbRawSynopsisLoader(
     }
 
     private fun normalize(value: String): String {
-        return StringEscapeUtils.unescapeHtml4(value.replace("\n", EMPTY)
+        return StringEscapeUtils.unescapeHtml4(value.replace("\n", " ")
             .replace(" ", " ")
+            .replace("\t", " ")
             .replace("""\* .*?(\.|$)""".toRegex(), EMPTY)
             .replace("""~ Description by .*?$""".toRegex(), EMPTY)
             .replace("""Source: .*?$""".toRegex(), EMPTY)
             .replace("""Note( ?\d?): .*?$""".toRegex(), EMPTY)
             .replace("""~ translated .*?$""".toRegex(), EMPTY)
             .replace("""— written by .*?$""".toRegex(), EMPTY))
+            .replace(""" {2,}""".toRegex(), " ")
             .trim()
     }
 }

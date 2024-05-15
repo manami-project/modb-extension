@@ -45,6 +45,7 @@ class KitsuRawSynopsisLoader(
     private fun normalize(value: String): String {
         return StringEscapeUtils.unescapeHtml4(value)
             .replace(" ", " ")
+            .replace("\t", " ")
             .replace("""\(Source: .*?(\)|$)""".toRegex(), " ")
             .replace("""\[Written by .*?(\]|$)""".toRegex(), " ")
             .replace("""^(The )?\w* season of .*?(\.|$)""".toRegex(), " ")

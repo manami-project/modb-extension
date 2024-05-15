@@ -44,6 +44,7 @@ class AnisearchRawSynopsisLoader(
 
     private fun normalize(value: String): String {
         return StringEscapeUtils.unescapeHtml4(value.replace(" ", " ")
+            .replace("\t", " ")
             .replace(""" Source: .*?$""".toRegex(), " ")
             .replace("\n", " ")
             .replace(""" {2,}""".toRegex(), " "))

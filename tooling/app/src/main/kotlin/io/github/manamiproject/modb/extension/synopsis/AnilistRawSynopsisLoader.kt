@@ -56,6 +56,7 @@ class AnilistRawSynopsisLoader(
             .replace("""<br>\s?(<\/?[a-zA-Z]>)?Notes?:.*?$""".toRegex(), " ")
             .replace("""<\/?[a-zA-Z]>\*.*?$""".toRegex(), " ")
             .replace(" ", " ")
+            .replace("\t", " ")
             .splitToSequence("<br>")
             .filterNot { it.isBlank() }
             .filterNot { it.matches("""^\s?Adaptation of .*?$""".toRegex()) }

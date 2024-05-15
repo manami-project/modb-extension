@@ -53,6 +53,7 @@ class AnimePlanetRawSynopsisLoader(
     private fun normalize(value: String): String {
         return StringEscapeUtils.unescapeHtml4(value)
             .replace(" ", " ")
+            .replace("\t", " ")
             .replace("""^(The )?\w* season of .*?(\.|$)""".toRegex(), " ")
             .replace("""^Sequel to .*?(\.|$)""".toRegex(), " ")
             .replace("""^Continuation of .*?(\.|$)""".toRegex(), " ")

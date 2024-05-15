@@ -45,6 +45,7 @@ class NotifyRawSynopsisLoader(
     private fun normalized(value: String): String {
         return StringEscapeUtils.unescapeHtml4(value)
             .replace(" ", " ")
+            .replace("\t", " ")
             .replace("""\(?Source: .*?(\)|$)""".toRegex(), EMPTY)
             .replace("""\[[w|W]ritten by .*?(\]|$)""".toRegex(), EMPTY)
             .replace("\n", " ")

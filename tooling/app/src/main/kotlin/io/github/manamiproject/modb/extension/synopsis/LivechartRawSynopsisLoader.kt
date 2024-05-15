@@ -51,6 +51,7 @@ class LivechartRawSynopsisLoader(
     private fun normalize(value: String): String {
         return StringEscapeUtils.unescapeHtml4(value)
             .replace(" ", " ")
+            .replace("\t", " ")
             .replace("\n", " ")
             .replace(""" {2,}""".toRegex(), " ")
             .trim()
