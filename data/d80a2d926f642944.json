@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/pokemon-the-slowpoke-song",
     "https://anisearch.com/anime/13100"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d80a2d926f642944",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 6.179140383426098,
     "arithmeticGeometricMean": 6.178677207976883,

@@ -5,6 +5,14 @@
     "https://anisearch.com/anime/18040",
     "https://kitsu.io/anime/42283"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "fd6acee5fcf13157",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 7.683632653061224,
     "arithmeticGeometricMean": 7.680245791544694,

@@ -5,6 +5,14 @@
     "https://kitsu.io/anime/13000",
     "https://notify.moe/anime/fM_W2Fmig"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "c7d59b645d2da357",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 6.186787878787879,
     "arithmeticGeometricMean": 6.155711340284654,

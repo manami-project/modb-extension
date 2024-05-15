@@ -5,6 +5,14 @@
     "https://kitsu.io/anime/45321",
     "https://myanimelist.net/anime/52743"
   ],
+  "synopsis": {
+    "text": "Department of Inter-Media Art at Tokyo University of the Arts presents \"The Spirits of Cairn,\" an undergraduate project that explores a haunting world of limbo. In this realm, the souls of children who met an untimely end find themselves trapped. The protagonist, one such lost soul, grapples with the lingering sentiment of dying too soon. However, the remorse he feels is nothing more than a distant echo, leaving him with no recollection of how long he's been there, the reason for his presence, or the origin of his regret. His existence is consumed by an endless task: laying to rest the countless necks entombed beneath the surface. \"The Spirits of Cairn\" is a poignant and thought-provoking journey into the afterlife, inviting viewers to contemplate the complexities of life, death, and the mysteries that lie beyond.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "14942f1f55ffb122",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 5.931454545454546,
     "arithmeticGeometricMean": 5.9014871886400195,

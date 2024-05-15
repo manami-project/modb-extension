@@ -5,6 +5,14 @@
     "https://anisearch.com/anime/14120",
     "https://kitsu.io/anime/43287"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "f732bc968893f693",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 7.387619047619047,
     "arithmeticGeometricMean": 7.376673145074022,

@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/dear-little-tim",
     "https://kitsu.io/anime/45147"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a318c45781027bbf",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 5.781454545454546,
     "arithmeticGeometricMean": 5.760741947436143,

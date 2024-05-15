@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/gifted",
     "https://anisearch.com/anime/16346"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "11eab7f6a49c3403",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 4.694805194805195,
     "arithmeticGeometricMean": 4.626362844698694,

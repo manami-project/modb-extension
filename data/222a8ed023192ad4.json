@@ -8,6 +8,14 @@
     "https://myanimelist.net/anime/20231",
     "https://notify.moe/anime/UI0BpKimR"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "222a8ed023192ad4",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 5.731575757575757,
     "arithmeticGeometricMean": 5.701810607572336,

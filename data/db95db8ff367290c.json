@@ -4,6 +4,14 @@
     "https://anisearch.com/anime/12433",
     "https://notify.moe/anime/_aUS2Kiig"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "db95db8ff367290c",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 5.8058132343846625,
     "arithmeticGeometricMean": 5.790755384151971,

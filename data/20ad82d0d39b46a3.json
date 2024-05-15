@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/doukoku-no-nightmare",
     "https://anisearch.com/anime/8571"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "20ad82d0d39b46a3",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 6.036081632653061,
     "arithmeticGeometricMean": 6.019695884838754,

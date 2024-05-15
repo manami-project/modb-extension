@@ -5,6 +5,14 @@
     "https://anime-planet.com/anime/the-big-o-ii",
     "https://anisearch.com/anime/9663"
   ],
+  "synopsis": {
+    "text": "The second season of The Big O unfolds in the enigmatic Paradigm City, a metropolis shrouded in amnesia following an event that erased everyone's memories forty years ago. Despite this collective forgetfulness, the city's inhabitants were once prolific creators of colossal robots known as Megadeuses and monstrous creatures. As the new generation starts to regain fragments of the past, these memories are manipulated to construct new menaces.\n\nRoger Smith, aided by his formidable Megadeus, The Big O, his steadfast butler Norman, and the android Dorothy, stands as the city's guardian against these escalating threats. As more memories resurface, Roger's own past and the city's future become increasingly uncertain and intertwined.\n\nAmidst this chaos, foreign Megadeuses initiate an assault, and the sinister machinations of Alex Rosewater come into play. To complicate matters further, a faction known as The Union stirs up trouble in the city streets, searching for hidden memories within this amnesiac city.\n\nAs Roger delves deeper into the mystery of Paradigm City's past, he must confront the possibility of a devastating truth that could lead to the annihilation of his beloved city. Will he unravel the enigma in time, or will the city's forgotten past lead to its downfall? The stage is set for a dramatic showdown.",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "dc62341d37f58fe1",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 7.241376623376624,
     "arithmeticGeometricMean": 7.236622526767009,

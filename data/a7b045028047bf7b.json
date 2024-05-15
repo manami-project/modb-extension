@@ -6,6 +6,14 @@
     "https://kitsu.io/anime/47400",
     "https://livechart.me/anime/11226"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "a7b045028047bf7b",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 7.442970933828076,
     "arithmeticGeometricMean": 7.442652040758885,

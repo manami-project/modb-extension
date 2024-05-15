@@ -5,6 +5,14 @@
     "https://anisearch.com/anime/14768",
     "https://kitsu.io/anime/46435"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "ccf025c5e468802b",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 5.985484230055658,
     "arithmeticGeometricMean": 5.965509571178363,

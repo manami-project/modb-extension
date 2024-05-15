@@ -6,6 +6,14 @@
     "https://anisearch.com/anime/14010",
     "https://livechart.me/anime/8371"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "cbb936283bb2d99a",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 10.0,
     "arithmeticGeometricMean": 10.0,

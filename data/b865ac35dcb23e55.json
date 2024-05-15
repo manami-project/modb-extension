@@ -9,6 +9,14 @@
     "https://notify.moe/anime/F55H2KmmR",
     "https://notify.moe/anime/d4cJ6Lomg"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "b865ac35dcb23e55",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 6.755884442088524,
     "arithmeticGeometricMean": 6.748239143176331,

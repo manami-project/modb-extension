@@ -4,6 +4,14 @@
     "https://anilist.co/anime/21456",
     "https://anisearch.com/anime/10919"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d33d2e4015881009",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 4.3061224489795915,
     "arithmeticGeometricMean": 4.3061224489795915,

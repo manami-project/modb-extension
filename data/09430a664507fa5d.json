@@ -9,6 +9,14 @@
     "https://myanimelist.net/anime/2000",
     "https://notify.moe/anime/sROL5Fmig"
   ],
+  "synopsis": {
+    "text": "Z-001, a robotic bed with a nuclear core, was designed to alleviate the burden of eldercare, but things quickly spiral out of control when it's tested on unsuspecting Mr. Takazawa. The machine, which responds to the patient's brainwaves, becomes an indomitable robot that seeks to fulfill its patient's every whim, leading to a chaotic day trip to the beach. Meanwhile, Haruko, Mr. Takazawa's devoted nurse, questions the ethics of the project and the hospital's tactics, finding herself in a battle against the system. As the robot gains sentience through a biochip, Haruko must navigate a tumultuous situation involving the police, a disgruntled government agency, and a group of tech-savvy senior hackers. Prepare for a wild ride as Haruko fights to protect her patient and uncover the truth behind the Z Project!",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "09430a664507fa5d",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 7.078531282209854,
     "arithmeticGeometricMean": 7.075586419569819,

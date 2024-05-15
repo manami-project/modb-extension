@@ -5,6 +5,14 @@
     "https://kitsu.io/anime/45015",
     "https://livechart.me/anime/10691"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "35c030a30ed1da04",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 7.672537105751391,
     "arithmeticGeometricMean": 7.666503471352203,

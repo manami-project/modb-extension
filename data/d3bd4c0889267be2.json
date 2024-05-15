@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/dino",
     "https://myanimelist.net/anime/58213"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "d3bd4c0889267be2",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 5.2727272727272725,
     "arithmeticGeometricMean": 5.2727272727272725,

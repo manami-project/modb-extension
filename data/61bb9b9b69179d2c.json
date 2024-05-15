@@ -4,6 +4,14 @@
     "https://anime-planet.com/anime/bus-to-hero",
     "https://kitsu.io/anime/47126"
   ],
+  "synopsis": {
+    "text": "",
+    "author": "mistral.mistral-large-2402-v1:0",
+    "coAuthors": [],
+    "hash": "61bb9b9b69179d2c",
+    "created": "2024-05-15",
+    "lastUpdate": "2024-05-15"
+  },
   "score": {
     "arithmeticMean": 6.157727272727273,
     "arithmeticGeometricMean": 6.142460177028565,
