@@ -31,7 +31,7 @@ repositories {
 
 dependencies {
     implementation(project(":lib"))
-    implementation(platform(kotlin("bom")))
+    implementation(libs.kotlin.stdlib)
     implementation(libs.modb.core)
     implementation(libs.modb.serde)
     implementation(libs.modb.anidb)

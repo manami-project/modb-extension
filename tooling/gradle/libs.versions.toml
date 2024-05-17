@@ -1,4 +1,5 @@
 [versions]
+kotlin = "1.9.24"
 guava-jre = "33.2.0-jre"
 modb-core = "12.1.0"
 modb-serde = "5.1.1"
@@ -16,6 +17,7 @@ commons-text = "1.12.0"
 aws-bedrock-runtime = "1.2.14"
 
 [libraries]
+kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "kotlin" }
 guava-jre = { module = "com.google.guava:guava", version.ref = "guava-jre" }
 modb-core = { module = "io.github.manamiproject:modb-core", version.ref = "modb-core" }
 modb-serde = { module = "io.github.manamiproject:modb-serde", version.ref = "modb-serde" }
