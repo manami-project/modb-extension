@@ -6,7 +6,7 @@
 > Significant and breaking changes can potentially be made to both code and structure. I am also not sure whether I will maintain this project continuously or leave it as a public archive for demonstration purposes.
 
 _[modb](https://github.com/manami-project?tab=repositories&q=modb&type=source)_ stands for _**M**anami **O**ffline **D**ata**B**ase_ and basically represents [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) which is a dataset specifically created for [manami](https://github.com/manami-project/manami).
-This project is both an experiment and a demonstration on how to extend the existing tooling.
+This project is both an experiment and a demonstration on how to extend the existing project.
 
 ## What is the purpose of this repository?
 
@@ -25,16 +25,16 @@ With this repository I want to see if I can create an extension to the [anime-of
 
 See also the [README.md](tooling/lib/README.md) file of the lib to learn how to access the data.
 
-### data
+### /data
 
 This is a folder containing the data as separate JSON files.
 
-### tooling
+### /tooling
 
 A kotlin library which lets you access the data. It is best used in conjunction with the other modb libraries. The folder also contains an app which creates the data in `/data`.
 See the `README.md` files in the subfolders for more information.
 
-## Data created here
+## Available data
 
 ### Synopsis
 
