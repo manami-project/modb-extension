@@ -60,6 +60,19 @@ tasks.withType<Test> {
     maxParallelForks = Runtime.getRuntime().availableProcessors()
 }
 
+coverallsJacoco {
+    reportPath = "${layout.buildDirectory}/reports/jacoco/test/jacocoFullReport.xml"
+}
+
+tasks.jacocoTestReport {
+    reports {
+        html.required.set(false)
+        xml.required.set(true)
+        xml.outputLocation.set(file("${layout.buildDirectory}/reports/jacoco/test/jacocoFullReport.xml"))
+    }
+    dependsOn(allprojects.map { it.tasks.named<Test>("test") })
+}
+
 val sourcesJar by tasks.registering(Jar::class) {
     archiveClassifier.set("sources")
     from(sourceSets.main.get().allSource)
@@ -112,19 +125,6 @@ publishing {
             }
         }
     }
-}
-
-coverallsJacoco {
-    reportPath = "${layout.buildDirectory}/reports/jacoco/test/jacocoFullReport.xml"
-}
-
-tasks.jacocoTestReport {
-    reports {
-        html.required.set(false)
-        xml.required.set(true)
-        xml.outputLocation.set(file("${layout.buildDirectory}/reports/jacoco/test/jacocoFullReport.xml"))
-    }
-    dependsOn(allprojects.map { it.tasks.named<Test>("test") })
 }
 
 fun parameter(name: String, default: String = ""): String {
