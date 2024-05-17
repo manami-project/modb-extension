@@ -2,6 +2,8 @@
   "sources": [
     "https://anidb.net/anime/18627",
     "https://anilist.co/anime/177552",
+    "https://anime-planet.com/anime/medaka-kuroiwa-is-impervious-to-my-charms",
+    "https://kitsu.io/anime/48857",
     "https://livechart.me/anime/12658",
     "https://myanimelist.net/anime/58853"
   ],
@@ -9,15 +11,15 @@
     "text": "",
     "author": "mistral.mistral-large-2402-v1:0",
     "coAuthors": [],
-    "hash": "c2190ecbfaa46dbd",
-    "created": "2024-05-14",
-    "lastUpdate": "2024-05-14"
+    "hash": "218d623d4273cf5d",
+    "created": "2024-05-17",
+    "lastUpdate": "2024-05-17"
   },
   "score": {
     "arithmeticMean": 0.0,
     "arithmeticGeometricMean": 0.0,
     "median": 0.0,
-    "hash": "c2190ecbfaa46dbd",
-    "lastUpdate": "2024-05-13"
+    "hash": "218d623d4273cf5d",
+    "lastUpdate": "2024-05-17"
   }
 }

@@ -3,21 +3,22 @@
     "https://anilist.co/anime/172250",
     "https://anime-planet.com/anime/jin-juvenile",
     "https://anisearch.com/anime/19166",
-    "https://kitsu.io/anime/48411"
+    "https://kitsu.io/anime/48411",
+    "https://myanimelist.net/anime/58860"
   ],
   "synopsis": {
     "text": "",
     "author": "mistral.mistral-large-2402-v1:0",
     "coAuthors": [],
-    "hash": "bf1c7e3317ce7ef0",
-    "created": "2024-05-12",
-    "lastUpdate": "2024-05-12"
+    "hash": "90a968a89ef32a22",
+    "created": "2024-05-17",
+    "lastUpdate": "2024-05-17"
   },
   "score": {
     "arithmeticMean": 6.442660482374769,
     "arithmeticGeometricMean": 6.419529971444011,
     "median": 6.738000000000001,
-    "hash": "bf1c7e3317ce7ef0",
-    "lastUpdate": "2024-05-07"
+    "hash": "90a968a89ef32a22",
+    "lastUpdate": "2024-05-17"
   }
 }

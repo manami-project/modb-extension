@@ -2,21 +2,22 @@
   "sources": [
     "https://anilist.co/anime/108844",
     "https://anime-planet.com/anime/pinocchio-p-hitoribocchi-no-ufo",
+    "https://kitsu.io/anime/48861",
     "https://myanimelist.net/anime/58101"
   ],
   "synopsis": {
     "text": "",
     "author": "mistral.mistral-large-2402-v1:0",
     "coAuthors": [],
-    "hash": "efb4e51d6a9d67f3",
-    "created": "2024-05-15",
-    "lastUpdate": "2024-05-15"
+    "hash": "ba90da7f828d1079",
+    "created": "2024-05-17",
+    "lastUpdate": "2024-05-17"
   },
   "score": {
     "arithmeticMean": 6.3109090909090915,
     "arithmeticGeometricMean": 6.310248859473764,
     "median": 6.3109090909090915,
-    "hash": "efb4e51d6a9d67f3",
-    "lastUpdate": "2024-05-07"
+    "hash": "ba90da7f828d1079",
+    "lastUpdate": "2024-05-17"
   }
 }

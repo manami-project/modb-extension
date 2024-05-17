@@ -1,6 +1,9 @@
 {
   "sources": [
     "https://anidb.net/anime/18628",
+    "https://anilist.co/anime/177581",
+    "https://anime-planet.com/anime/kinoko-inu-mushroom-pup",
+    "https://kitsu.io/anime/48871",
     "https://livechart.me/anime/12659",
     "https://myanimelist.net/anime/58854"
   ],
@@ -8,15 +11,15 @@
     "text": "",
     "author": "mistral.mistral-large-2402-v1:0",
     "coAuthors": [],
-    "hash": "97b40bb0cda5f2c5",
-    "created": "2024-05-15",
-    "lastUpdate": "2024-05-15"
+    "hash": "c17b0e1d6f6605b3",
+    "created": "2024-05-17",
+    "lastUpdate": "2024-05-17"
   },
   "score": {
     "arithmeticMean": 0.0,
     "arithmeticGeometricMean": 0.0,
     "median": 0.0,
-    "hash": "97b40bb0cda5f2c5",
-    "lastUpdate": "2024-05-13"
+    "hash": "c17b0e1d6f6605b3",
+    "lastUpdate": "2024-05-17"
   }
 }

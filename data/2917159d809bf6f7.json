@@ -3,21 +3,22 @@
     "https://anilist.co/anime/152309",
     "https://anime-planet.com/anime/tacitly-voice",
     "https://anisearch.com/anime/19199",
+    "https://kitsu.io/anime/48866",
     "https://myanimelist.net/anime/55481"
   ],
   "synopsis": {
     "text": "",
     "author": "mistral.mistral-large-2402-v1:0",
     "coAuthors": [],
-    "hash": "27260f29346e9a9a",
-    "created": "2024-05-15",
-    "lastUpdate": "2024-05-15"
+    "hash": "2917159d809bf6f7",
+    "created": "2024-05-17",
+    "lastUpdate": "2024-05-17"
   },
   "score": {
-    "arithmeticMean": 6.210598639455782,
-    "arithmeticGeometricMean": 6.143797780293199,
+    "arithmeticMean": 6.354993197278911,
+    "arithmeticGeometricMean": 6.312538597260819,
     "median": 7.0,
-    "hash": "27260f29346e9a9a",
-    "lastUpdate": "2024-05-07"
+    "hash": "2917159d809bf6f7",
+    "lastUpdate": "2024-05-17"
   }
 }
