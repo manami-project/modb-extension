@@ -1,0 +1,29 @@
+name: Check JSON files
+
+on:
+  push:
+    branches:
+      - '**'
+    paths:
+      - 'data/**json'
+      - 'data.schema.json'
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install dependencies
+        run: npm install jsonlint-cli -g
+      - name: Lint data
+        run: jsonlint-cli data/*.json
+  data-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: cardinalby/schema-validator-action@v3
+        with:
+          file: 'data/*.json'
+          schema: 'data.schema.json'

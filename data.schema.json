@@ -1,0 +1,101 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/manami-project/modb-extension/raw/master/data.schema.json",
+  "title": "modb-extension",
+  "description": "Additional data extending anime-offline-database as well as a library which allows to easily create and access the data.",
+  "type": "object",
+  "required": [
+    "sources"
+  ],
+  "properties": {
+    "sources": {
+      "description": "URLs to the pages of the meta data providers for this anime.",
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "synopsis": {
+      "description": "Short text describing the anime and its author.",
+      "type": "object",
+      "required": [
+        "text",
+        "author",
+        "coAuthors",
+        "hash",
+        "created",
+        "lastUpdate"
+      ],
+      "properties": {
+        "text": {
+          "description": "Short text describing the anime.",
+          "type": "string"
+        },
+        "author": {
+          "description": "Author of the text.",
+          "type": "string"
+        },
+        "coAuthors": {
+          "description": "Additional authors making changes to the text.",
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string"
+          }
+        },
+        "hash": {
+          "type": "string",
+          "description": "Hash of the sources which have been used to create the text initially."
+        },
+        "created": {
+          "type": "string",
+          "description": "Creation date."
+        },
+        "lastUpdate": {
+          "type": "string",
+          "description": "Date of the last modification."
+        }
+      }
+    },
+    "score": {
+      "type": "object",
+      "description": "Various types of average scores aggregated by the arithmetic mean scores by the meta data providers",
+      "required": [
+        "arithmeticMean",
+        "arithmeticGeometricMean",
+        "median",
+        "hash",
+        "lastUpdate"
+      ],
+      "properties": {
+        "arithmeticMean": {
+          "type": "number",
+          "description": "Arithmetic mean.",
+          "minimum": 0.0,
+          "maximum": 10.0
+        },
+        "arithmeticGeometricMean": {
+          "type": "number",
+          "description": "Arithmetic-Geometric-Mean.",
+          "minimum": 0.0,
+          "maximum": 10.0
+        },
+        "median": {
+          "type": "number",
+          "description": "Median.",
+          "minimum": 0.0,
+          "maximum": 10.0
+        },
+        "hash": {
+          "type": "string",
+          "description": "Hash of the sources which have been used to create the text initially."
+        },
+        "lastUpdate": {
+          "type": "string",
+          "description": "Date of the last modification."
+        }
+      }
+    }
+  }
+}
