@@ -34,8 +34,8 @@ repositories {
 
 dependencies {
     api(libs.modb.core)
+    api(libs.kotlin.stdlib)
 
-    implementation(platform(kotlin("bom")))
     implementation(libs.guava.jre)
 
     testImplementation(libs.logback.classic)

@@ -16,7 +16,7 @@ import io.github.manamiproject.modb.core.extractor.JsonDataExtractor
 import io.github.manamiproject.modb.extension.filename
 import io.github.manamiproject.modb.kitsu.KitsuConfig
 import io.github.manamiproject.modb.livechart.LivechartConfig
-import io.github.manamiproject.modb.mal.MalConfig
+import io.github.manamiproject.modb.myanimelist.MyanimelistConfig
 import io.github.manamiproject.modb.notify.NotifyConfig
 import kotlinx.coroutines.Deferred
 import kotlinx.coroutines.async
@@ -39,7 +39,7 @@ class DefaultSynopsisCreator(
         AnisearchConfig.hostname() to AnisearchRawSynopsisLoader(),
         KitsuConfig.hostname() to KitsuRawSynopsisLoader(),
         LivechartConfig.hostname() to LivechartRawSynopsisLoader(),
-        MalConfig.hostname() to MyanimelistRawSynopsisLoader(),
+        MyanimelistConfig.hostname() to MyanimelistRawSynopsisLoader(),
         NotifyConfig.hostname() to NotifyRawSynopsisLoader(),
     ),
     private val bedrockClient: BedrockRuntimeClient = BedrockRuntimeClient {

@@ -10,7 +10,7 @@ import io.github.manamiproject.modb.core.extensions.EMPTY
 import io.github.manamiproject.modb.extension.filename
 import io.github.manamiproject.modb.kitsu.KitsuConfig
 import io.github.manamiproject.modb.livechart.LivechartConfig
-import io.github.manamiproject.modb.mal.MalConfig
+import io.github.manamiproject.modb.myanimelist.MyanimelistConfig
 import io.github.manamiproject.modb.notify.NotifyConfig
 import kotlinx.coroutines.Deferred
 import kotlinx.coroutines.async
@@ -33,7 +33,7 @@ class DefaultScoreCreator(
         AnisearchConfig.hostname() to AnisearchRawScoreLoader(),
         KitsuConfig.hostname() to KitsuRawScoreLoader(),
         LivechartConfig.hostname() to LivechartRawScoreLoader(),
-        MalConfig.hostname() to MyanimelistRawScoreLoader(),
+        MyanimelistConfig.hostname() to MyanimelistRawScoreLoader(),
         NotifyConfig.hostname() to NotifyRawScoreLoader(),
     )
 ): ScoreCreator {

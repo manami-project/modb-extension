@@ -4,8 +4,8 @@ import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
-import io.github.manamiproject.modb.mal.MalConfig
-import io.github.manamiproject.modb.mal.MalDownloader
+import io.github.manamiproject.modb.myanimelist.MyanimelistConfig
+import io.github.manamiproject.modb.myanimelist.MyanimelistDownloader
 import java.net.URI
 
 /**
@@ -15,8 +15,8 @@ import java.net.URI
  * @property extractor
  */
 class MyanimelistRawScoreLoader(
-    private val config: MetaDataProviderConfig = MalConfig,
-    private val downloader: Downloader = MalDownloader(config),
+    private val config: MetaDataProviderConfig = MyanimelistConfig,
+    private val downloader: Downloader = MyanimelistDownloader(config),
     private val extractor: DataExtractor = XmlDataExtractor,
 ): RawScoreLoader {
 

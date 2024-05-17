@@ -12,8 +12,80 @@ group = "io.github.manamiproject"
 repositories {
     mavenCentral()
     maven {
+        name = "modb-anidb"
+        url = uri("https://maven.pkg.github.com/$githubUsername/modb-anidb")
+        credentials {
+            username = parameter("GH_USERNAME", githubUsername)
+            password = parameter("GH_PACKAGES_READ_TOKEN")
+        }
+    }
+    maven {
+        name = "modb-anilist"
+        url = uri("https://maven.pkg.github.com/$githubUsername/modb-anilist")
+        credentials {
+            username = parameter("GH_USERNAME", githubUsername)
+            password = parameter("GH_PACKAGES_READ_TOKEN")
+        }
+    }
+    maven {
+        name = "modb-anime-planet"
+        url = uri("https://maven.pkg.github.com/$githubUsername/modb-anime-planet")
+        credentials {
+            username = parameter("GH_USERNAME", githubUsername)
+            password = parameter("GH_PACKAGES_READ_TOKEN")
+        }
+    }
+    maven {
+        name = "modb-anisearch"
+        url = uri("https://maven.pkg.github.com/$githubUsername/modb-anisearch")
+        credentials {
+            username = parameter("GH_USERNAME", githubUsername)
+            password = parameter("GH_PACKAGES_READ_TOKEN")
+        }
+    }
+    maven {
         name = "modb-core"
         url = uri("https://maven.pkg.github.com/$githubUsername/modb-core")
+        credentials {
+            username = parameter("GH_USERNAME", githubUsername)
+            password = parameter("GH_PACKAGES_READ_TOKEN")
+        }
+    }
+    maven {
+        name = "modb-serde"
+        url = uri("https://maven.pkg.github.com/$githubUsername/modb-serde")
+        credentials {
+            username = parameter("GH_USERNAME", githubUsername)
+            password = parameter("GH_PACKAGES_READ_TOKEN")
+        }
+    }
+    maven {
+        name = "modb-kitsu"
+        url = uri("https://maven.pkg.github.com/$githubUsername/modb-kitsu")
+        credentials {
+            username = parameter("GH_USERNAME", githubUsername)
+            password = parameter("GH_PACKAGES_READ_TOKEN")
+        }
+    }
+    maven {
+        name = "modb-livechart"
+        url = uri("https://maven.pkg.github.com/$githubUsername/modb-livechart")
+        credentials {
+            username = parameter("GH_USERNAME", githubUsername)
+            password = parameter("GH_PACKAGES_READ_TOKEN")
+        }
+    }
+    maven {
+        name = "modb-myanimelist"
+        url = uri("https://maven.pkg.github.com/$githubUsername/modb-myanimelist")
+        credentials {
+            username = parameter("GH_USERNAME", githubUsername)
+            password = parameter("GH_PACKAGES_READ_TOKEN")
+        }
+    }
+    maven {
+        name = "modb-notify"
+        url = uri("https://maven.pkg.github.com/$githubUsername/modb-notify")
         credentials {
             username = parameter("GH_USERNAME", githubUsername)
             password = parameter("GH_PACKAGES_READ_TOKEN")
@@ -40,7 +112,7 @@ dependencies {
     implementation(libs.modb.anisearch)
     implementation(libs.modb.kitsu)
     implementation(libs.modb.livechart)
-    implementation(libs.modb.mal)
+    implementation(libs.modb.myanimelist)
     implementation(libs.modb.notify)
     implementation(libs.guava.jre)
     implementation(libs.logback.classic)
