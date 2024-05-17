@@ -7,6 +7,8 @@ import io.github.manamiproject.modb.anilist.AnilistDownloader
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.EMPTY
+import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
+import io.github.manamiproject.modb.core.extensions.normalize
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.JsonDataExtractor
 import kotlinx.coroutines.runBlocking
@@ -44,7 +46,7 @@ class AnilistRawSynopsisLoader(
             normalize(data.stringOrDefault("synopsis"))
         }
 
-        return if (normalizedText.isBlank()) {
+        return if (normalizedText.eitherNullOrBlank()) {
             NoRawSynopsis
         } else {
             RawSynopsis(normalizedText)
@@ -52,19 +54,16 @@ class AnilistRawSynopsisLoader(
     }
 
     private fun normalize(value: String): String {
-        return StringEscapeUtils.unescapeHtml4(value.replace("\n", " ")
+        return StringEscapeUtils.unescapeHtml4(value.normalize())
             .replace("""<br>\s?(<\/?[a-zA-Z]>)?Notes?:.*?$""".toRegex(), " ")
             .replace("""<\/?[a-zA-Z]>\*.*?$""".toRegex(), " ")
-            .replace(" ", " ")
-            .replace("\t", " ")
             .splitToSequence("<br>")
-            .filterNot { it.isBlank() }
+            .filterNot { it.eitherNullOrBlank() }
             .filterNot { it.matches("""^\s?Adaptation of .*?$""".toRegex()) }
             .filterNot { it.matches("""^\s?\(Source: .*?$""".toRegex()) }
             .filterNot { it.matches("""^The .*? (cour|season) of .*?$""".toRegex()) }
             .joinToString(" ")
             .replace("""<\/?[a-zA-Z]>""".toRegex(), " ")
-            .replace(""" {2,}""".toRegex(), " "))
-            .trim()
+            .normalize()
     }
 }

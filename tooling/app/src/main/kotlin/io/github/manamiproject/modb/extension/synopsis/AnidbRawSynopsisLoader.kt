@@ -5,6 +5,8 @@ import io.github.manamiproject.modb.anidb.AnidbDownloader
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.EMPTY
+import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
+import io.github.manamiproject.modb.core.extensions.normalize
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
 import org.apache.commons.text.StringEscapeUtils
@@ -35,7 +37,7 @@ class AnidbRawSynopsisLoader(
             normalize(data.stringOrDefault("synopsis"))
         }
 
-        return if (normalizedText.isBlank()) {
+        return if (normalizedText.eitherNullOrBlank()) {
             NoRawSynopsis
         } else {
             RawSynopsis(normalizedText)
@@ -43,16 +45,13 @@ class AnidbRawSynopsisLoader(
     }
 
     private fun normalize(value: String): String {
-        return StringEscapeUtils.unescapeHtml4(value.replace("\n", " ")
-            .replace(" ", " ")
-            .replace("\t", " ")
+        return StringEscapeUtils.unescapeHtml4(value
             .replace("""\* .*?(\.|$)""".toRegex(), EMPTY)
             .replace("""~ Description by .*?$""".toRegex(), EMPTY)
             .replace("""Source: .*?$""".toRegex(), EMPTY)
             .replace("""Note( ?\d?): .*?$""".toRegex(), EMPTY)
             .replace("""~ translated .*?$""".toRegex(), EMPTY)
-            .replace("""— written by .*?$""".toRegex(), EMPTY))
-            .replace(""" {2,}""".toRegex(), " ")
-            .trim()
+            .replace("""— written by .*?$""".toRegex(), EMPTY)
+        ).normalize()
     }
 }

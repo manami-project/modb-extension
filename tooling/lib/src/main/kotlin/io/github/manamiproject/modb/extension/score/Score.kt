@@ -1,5 +1,6 @@
 package io.github.manamiproject.modb.extension.score
 
+import io.github.manamiproject.modb.core.extensions.neitherNullNorBlank
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter.ISO_LOCAL_DATE
 
@@ -30,7 +31,7 @@ public data class Score(
 ): ScoreReturnValue() {
 
     init {
-        require(hash.isNotBlank()) { "Property 'hash' must not be blank." }
+        require(hash.neitherNullNorBlank()) { "Property 'hash' must not be blank." }
         require(YEAR_REGEX.matches(lastUpdate)) { "Property 'lastUpdate' must be set and match ISO_LOCAL_DATE format." }
         require(arithmeticMean in 0.0..10.0) { "Property 'arithmeticMean' must be within range 0.0 - 10.0." }
         require(arithmeticGeometricMean in 0.0..10.0) { "Property 'arithmeticGeometricMean' must be within range 0.0 - 10.0." }

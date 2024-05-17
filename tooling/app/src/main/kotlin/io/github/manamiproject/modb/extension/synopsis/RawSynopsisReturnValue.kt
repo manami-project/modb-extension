@@ -1,5 +1,7 @@
 package io.github.manamiproject.modb.extension.synopsis
 
+import io.github.manamiproject.modb.core.extensions.neitherNullNorBlank
+
 /**
  * @since 1.0.0
  */
@@ -17,7 +19,7 @@ data object NoRawSynopsis: RawSynopsisReturnValue()
 data class RawSynopsis(val text: String) : RawSynopsisReturnValue() {
 
     init {
-        require(text.isNotBlank()) { "Text must not be blank." }
+        require(text.neitherNullNorBlank()) { "Text must not be blank." }
     }
 
     /**

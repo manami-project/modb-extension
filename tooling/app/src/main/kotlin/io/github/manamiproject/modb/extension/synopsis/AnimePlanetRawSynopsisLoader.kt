@@ -5,6 +5,8 @@ import io.github.manamiproject.modb.animeplanet.AnimePlanetDownloader
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.EMPTY
+import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
+import io.github.manamiproject.modb.core.extensions.normalize
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.JsonDataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
@@ -43,7 +45,7 @@ class AnimePlanetRawSynopsisLoader(
             normalize(jsonldData.stringOrDefault("synopsis"))
         }
 
-        return if (normalizedText.isBlank()) {
+        return if (normalizedText.eitherNullOrBlank()) {
              NoRawSynopsis
         } else {
             RawSynopsis(normalizedText)
@@ -51,15 +53,12 @@ class AnimePlanetRawSynopsisLoader(
     }
 
     private fun normalize(value: String): String {
-        return StringEscapeUtils.unescapeHtml4(value)
-            .replace(" ", " ")
-            .replace("\t", " ")
+        return StringEscapeUtils.unescapeHtml4(value).normalize()
             .replace("""^(The )?\w* season of .*?(\.|$)""".toRegex(), " ")
             .replace("""^Sequel to .*?(\.|$)""".toRegex(), " ")
             .replace("""^Continuation of .*?(\.|$)""".toRegex(), " ")
             .replace("""^A special recap of .*?(\.|$)""".toRegex(), " ")
             .replace("""^Chibi shorts for .*?(\.|$)""".toRegex(), " ")
-            .replace(" {2,}", " ")
-            .trim()
+            .normalize()
     }
 }

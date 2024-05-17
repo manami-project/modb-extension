@@ -5,6 +5,8 @@ import io.github.manamiproject.modb.anisearch.AnisearchDownloader
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.EMPTY
+import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
+import io.github.manamiproject.modb.core.extensions.normalize
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
 import org.apache.commons.text.StringEscapeUtils
@@ -35,7 +37,7 @@ class AnisearchRawSynopsisLoader(
             normalize(data.stringOrDefault("synopsis"))
         }
 
-        return if(normalized.isBlank()) {
+        return if(normalized.eitherNullOrBlank()) {
             NoRawSynopsis
         } else {
             RawSynopsis(normalized)
@@ -43,11 +45,8 @@ class AnisearchRawSynopsisLoader(
     }
 
     private fun normalize(value: String): String {
-        return StringEscapeUtils.unescapeHtml4(value.replace(" ", " ")
-            .replace("\t", " ")
+        return StringEscapeUtils.unescapeHtml4(value
             .replace(""" Source: .*?$""".toRegex(), " ")
-            .replace("\n", " ")
-            .replace(""" {2,}""".toRegex(), " "))
-            .trim()
+            .normalize())
     }
 }

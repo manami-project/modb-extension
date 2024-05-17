@@ -9,6 +9,7 @@ import io.github.manamiproject.modb.anisearch.AnisearchConfig
 import io.github.manamiproject.modb.core.config.Hostname
 import io.github.manamiproject.modb.core.coroutines.ModbDispatchers.LIMITED_NETWORK
 import io.github.manamiproject.modb.core.extensions.EMPTY
+import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
 import io.github.manamiproject.modb.core.extensions.pickRandom
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.JsonDataExtractor
@@ -120,7 +121,7 @@ class DefaultSynopsisCreator(
                 .trim()
         } while (responseText.contains("<synopsis>") || responseText.contains("</synopsis>") || responseText.startsWith('.'))
 
-        if (responseText.isBlank()) {
+        if (responseText.eitherNullOrBlank()) {
             return@withContext Synopsis(
                 text = EMPTY,
                 author = MODEL_ID,

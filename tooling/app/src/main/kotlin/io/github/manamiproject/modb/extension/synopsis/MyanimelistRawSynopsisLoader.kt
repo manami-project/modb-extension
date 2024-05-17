@@ -3,6 +3,8 @@ package io.github.manamiproject.modb.extension.synopsis
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.EMPTY
+import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
+import io.github.manamiproject.modb.core.extensions.normalize
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
 import io.github.manamiproject.modb.mal.MalConfig
@@ -35,7 +37,7 @@ class MyanimelistRawSynopsisLoader(
             else -> normalize(data.stringOrDefault("synopsis"))
         }
 
-        return if (normalized.isBlank()) {
+        return if (normalized.eitherNullOrBlank()) {
             NoRawSynopsis
         } else {
             RawSynopsis(normalized)
@@ -44,13 +46,9 @@ class MyanimelistRawSynopsisLoader(
 
     private fun normalize(value: String): String {
         return StringEscapeUtils.unescapeHtml4(value)
-            .replace(" ", " ")
-            .replace("\t", " ")
-            .replace("\n", " ")
             .replace("""\[[w|W]ritten by .*?(\]|$)""".toRegex(), EMPTY)
             .replace("""\(Source: .*?\)""".toRegex(), EMPTY)
             .replace("""^(The )?\w* season of .*?(\.|$)""".toRegex(), " ")
-            .replace(""" {2,}""".toRegex(), " ")
-            .trim()
+            .normalize()
     }
 }

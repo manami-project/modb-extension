@@ -3,6 +3,7 @@ package io.github.manamiproject.modb.extension
 import io.github.manamiproject.modb.core.extensions.Directory
 import io.github.manamiproject.modb.core.extensions.RegularFile
 import io.github.manamiproject.modb.core.extensions.directoryExists
+import io.github.manamiproject.modb.core.extensions.neitherNullNorBlank
 import java.net.URI
 
 /**
@@ -26,7 +27,7 @@ public data object ModbExtensionRepoOrigin: Origin<URI> {
     private val uri = URI("https://raw.githubusercontent.com/manami-project/modb-extension/main/data")
 
     override fun resolve(filename: String): URI {
-        require(filename.isNotBlank()) { "Filename must not be blank." }
+        require(filename.neitherNullNorBlank()) { "Filename must not be blank." }
         return URI("$uri/$filename")
     }
 }
@@ -39,7 +40,7 @@ public data object ModbExtensionRepoOrigin: Origin<URI> {
 public value class UriOrigin(private val uri: URI) : Origin<URI> {
 
     override fun resolve(filename: String): URI {
-        require(filename.isNotBlank()) { "Filename must not be blank." }
+        require(filename.neitherNullNorBlank()) { "Filename must not be blank." }
 
         val uriString = uri.toString()
 
@@ -65,7 +66,7 @@ public value class LocalFileOrigin(private val directory: Directory): Origin<Reg
     }
 
     override fun resolve(filename: String): RegularFile {
-        require(filename.isNotBlank()) { "Filename must not be blank." }
+        require(filename.neitherNullNorBlank()) { "Filename must not be blank." }
         return directory.resolve(filename)
     }
 }

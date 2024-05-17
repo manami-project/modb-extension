@@ -3,6 +3,7 @@ package io.github.manamiproject.modb.extension.synopsis
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.EMPTY
+import io.github.manamiproject.modb.core.extensions.normalize
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.JsonDataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
@@ -49,11 +50,6 @@ class LivechartRawSynopsisLoader(
     }
 
     private fun normalize(value: String): String {
-        return StringEscapeUtils.unescapeHtml4(value)
-            .replace(" ", " ")
-            .replace("\t", " ")
-            .replace("\n", " ")
-            .replace(""" {2,}""".toRegex(), " ")
-            .trim()
+        return StringEscapeUtils.unescapeHtml4(value).normalize()
     }
 }

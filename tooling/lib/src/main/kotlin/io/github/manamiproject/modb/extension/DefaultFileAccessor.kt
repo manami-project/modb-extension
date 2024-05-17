@@ -2,6 +2,7 @@ package io.github.manamiproject.modb.extension
 
 import io.github.manamiproject.modb.core.coroutines.ModbDispatchers.LIMITED_CPU
 import io.github.manamiproject.modb.core.coroutines.ModbDispatchers.LIMITED_FS
+import io.github.manamiproject.modb.core.extensions.neitherNullNorBlank
 import io.github.manamiproject.modb.core.extensions.readFile
 import io.github.manamiproject.modb.core.extensions.regularFileExists
 import io.github.manamiproject.modb.core.extensions.writeToFile
@@ -36,7 +37,7 @@ internal class DefaultFileAccessor(
             is UriOrigin, is ModbExtensionRepoOrigin -> {
                 val url = (origin.resolve(filename) as URI).toURL()
                 val response = httpCient.get(url)
-                if (response.isOk() && response.bodyAsText.isNotBlank()) {
+                if (response.isOk() && response.bodyAsText.neitherNullNorBlank()) {
                     response.bodyAsText
                 } else {
                     return@withContext ExtensionDataNotFound

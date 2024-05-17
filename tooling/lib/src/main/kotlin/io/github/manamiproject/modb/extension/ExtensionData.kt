@@ -1,5 +1,6 @@
 package io.github.manamiproject.modb.extension
 
+import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
 import io.github.manamiproject.modb.extension.score.Score
 import io.github.manamiproject.modb.extension.score.ScoreNoteFound
 import io.github.manamiproject.modb.extension.score.ScoreReturnValue
@@ -41,7 +42,7 @@ public data class ExtensionData(
     public fun synopsis(): SynopsisReturnValue {
         return when {
             synopsis == null -> SynopsisNotFound
-            synopsis.text.isBlank() || synopsis.author.isBlank() -> SynopsisNotFound
+            synopsis.text.eitherNullOrBlank() || synopsis.author.eitherNullOrBlank() -> SynopsisNotFound
             else -> synopsis
         }
     }

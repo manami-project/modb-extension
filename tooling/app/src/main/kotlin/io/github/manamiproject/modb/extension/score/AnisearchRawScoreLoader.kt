@@ -5,6 +5,7 @@ import io.github.manamiproject.modb.anisearch.AnisearchDownloader
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.EMPTY
+import io.github.manamiproject.modb.core.extensions.remove
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.JsonDataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
@@ -43,7 +44,7 @@ class AnisearchRawScoreLoader(
         val to = jsonData.doubleOrDefault("bestRating", 5.0)
         val rawScore = if (jsonData.notFound("ratingValue")) {
             data.string("score")
-                .replace("Calculated Value", EMPTY)
+                .remove("Calculated Value")
                 .substringBefore('=')
                 .trim()
                 .toDoubleOrNull() ?: 0.0

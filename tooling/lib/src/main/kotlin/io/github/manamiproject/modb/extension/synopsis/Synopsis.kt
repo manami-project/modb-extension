@@ -1,6 +1,7 @@
 package io.github.manamiproject.modb.extension.synopsis
 
 import io.github.manamiproject.modb.core.extensions.EMPTY
+import io.github.manamiproject.modb.core.extensions.neitherNullNorBlank
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter.ISO_LOCAL_DATE
 
@@ -33,11 +34,11 @@ public data class Synopsis(
 ): SynopsisReturnValue() {
 
     init {
-        require(hash.isNotBlank()) { "Property 'hash' must not be blank." }
+        require(hash.neitherNullNorBlank()) { "Property 'hash' must not be blank." }
         require(YEAR_REGEX.matches(created)) { "Property 'created' must be set and match ISO_LOCAL_DATE format." }
         require(YEAR_REGEX.matches(lastUpdate)) { "Property 'lastUpdate' must be set and match ISO_LOCAL_DATE format." }
         require(!lastUpdatedAt.isBefore(createdAt)) { "Propterty 'created' cannot have a date before property 'lastUpdate'." }
-        require(coAuthors.all { it.isNotBlank() }) { "Property 'coAuthors' must not contain blank entries." }
+        require(coAuthors.all { it.neitherNullNorBlank() }) { "Property 'coAuthors' must not contain blank entries." }
     }
 
     /**
