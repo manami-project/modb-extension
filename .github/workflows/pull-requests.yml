@@ -2,6 +2,7 @@ name: Pull Requests
 
 on:
   pull_request:
+  merge_group:
     branches:
       - '**'
     paths-ignore:
