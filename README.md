@@ -41,10 +41,11 @@ See the `README.md` files in the subfolders for more information.
 My initial idea was to hand over existing synopsis to a large language model (LLM), let it understand the content of the anime only from these texts and create its own synopsis.
 From my perspective this would actually be a merge process and it would scale.
 Apart from cleaning up the data so that the model doesn't get confused, the app only generates a synopsis if an anime has at least 3 distinct synopsis each having at least 20 words.
-Otherwise I'm afraid that the LLM just copies text or the text would be too close to the original. Another interesting thing I learned was that LLMs tend to ignore parts of the prompt.
-Almost all of the synopsis started with `In the...`. Sometimes variations like `In a...`. It was not possible to get rid of this just by editing the prompt itself.
-To change that behavior I had to extract a word which already appeared as the beginning of a sentence in one of the originals and set it as the starting point.
-This finally resulted in more varied openings.
+Otherwise I'm afraid that the LLM just copies text or the text would be too close to the original.
+
+When using mistral LLM almost all of the synopsis started with `In the...`. Sometimes variations like `In a...`. It was not possible to get rid of this just by editing the prompt itself.
+That's how I learned that LLMs tend to ignore parts of the prompt. To change that behavior I had to extract a word which already appeared as the beginning of a sentence in one of the originals and set it as the starting point.
+This lead to more varied openings, but also to complex code and some weird edge case outputs. I finally fixed this by changing the LLM to anthropic with a little prompt tweak.
 
 ### Score
 
