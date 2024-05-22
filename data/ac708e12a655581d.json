@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18633",
+    "https://anilist.co/anime/173313",
+    "https://anisearch.com/anime/19081",
+    "https://livechart.me/anime/12494",
+    "https://myanimelist.net/anime/57822"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1",
+    "coAuthors": [],
+    "hash": "ac708e12a655581d",
+    "created": "2024-05-21",
+    "lastUpdate": "2024-05-21"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0,
+    "hash": "ac708e12a655581d",
+    "lastUpdate": "2024-05-21"
+  }
+}

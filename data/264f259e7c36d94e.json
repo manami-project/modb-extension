@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anilist.co/anime/152487",
+    "https://anime-planet.com/anime/di-ling-qu-nanjiang-miwu",
+    "https://anisearch.com/anime/16221",
+    "https://myanimelist.net/anime/47451"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1",
+    "coAuthors": [],
+    "hash": "264f259e7c36d94e",
+    "created": "2024-05-21",
+    "lastUpdate": "2024-05-21"
+  },
+  "score": {
+    "arithmeticMean": 5.0,
+    "arithmeticGeometricMean": 5.0,
+    "median": 5.0,
+    "hash": "264f259e7c36d94e",
+    "lastUpdate": "2024-05-21"
+  }
+}

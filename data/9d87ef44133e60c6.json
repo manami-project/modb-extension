@@ -1,0 +1,27 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18631",
+    "https://anilist.co/anime/175869",
+    "https://anime-planet.com/anime/chibi-godzilla-raids-again-2nd-season",
+    "https://anisearch.com/anime/19114",
+    "https://kitsu.io/anime/48610",
+    "https://livechart.me/anime/12554",
+    "https://myanimelist.net/anime/58351",
+    "https://notify.moe/anime/tu1X3B0Sg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1",
+    "coAuthors": [],
+    "hash": "9d87ef44133e60c6",
+    "created": "2024-05-21",
+    "lastUpdate": "2024-05-21"
+  },
+  "score": {
+    "arithmeticMean": 6.979454545454546,
+    "arithmeticGeometricMean": 6.979009557036178,
+    "median": 6.979454545454546,
+    "hash": "9d87ef44133e60c6",
+    "lastUpdate": "2024-05-21"
+  }
+}

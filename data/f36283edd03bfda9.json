@@ -1,0 +1,24 @@
+{
+  "sources": [
+    "https://anilist.co/anime/142049",
+    "https://anime-planet.com/anime/aqours-smile-smile-ship-start",
+    "https://anisearch.com/anime/15873",
+    "https://kitsu.io/anime/48875",
+    "https://myanimelist.net/anime/48828"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1",
+    "coAuthors": [],
+    "hash": "f36283edd03bfda9",
+    "created": "2024-05-21",
+    "lastUpdate": "2024-05-21"
+  },
+  "score": {
+    "arithmeticMean": 6.760102968460111,
+    "arithmeticGeometricMean": 6.755684875843183,
+    "median": 6.583387755102041,
+    "hash": "f36283edd03bfda9",
+    "lastUpdate": "2024-05-21"
+  }
+}

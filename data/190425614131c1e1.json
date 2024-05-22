@@ -1,0 +1,25 @@
+{
+  "sources": [
+    "https://anilist.co/anime/176663",
+    "https://anime-planet.com/anime/girls-und-panzer-saishuushou-4-taichou-war",
+    "https://anisearch.com/anime/19265",
+    "https://kitsu.io/anime/48703",
+    "https://livechart.me/anime/12469",
+    "https://myanimelist.net/anime/58606"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1",
+    "coAuthors": [],
+    "hash": "190425614131c1e1",
+    "created": "2024-05-21",
+    "lastUpdate": "2024-05-21"
+  },
+  "score": {
+    "arithmeticMean": 7.0949041434755715,
+    "arithmeticGeometricMean": 7.081662806465699,
+    "median": 7.14,
+    "hash": "190425614131c1e1",
+    "lastUpdate": "2024-05-21"
+  }
+}

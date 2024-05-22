@@ -10,12 +10,12 @@
     "https://notify.moe/anime/3-8qcFmig"
   ],
   "synopsis": {
-    "text": "Odaiba Island, an artificial paradise in Tokyo, becomes the epicenter of a catastrophic earthquake measuring 8.0 on the Richter scale, forever altering the city's skyline. Mirai, a middle-schooler, and her younger brother Yuuki find themselves stranded amidst the chaos while visiting a robot exhibition during their summer vacation. As the iconic Tokyo Tower and Rainbow Bridge crumble, the siblings are left to navigate the treacherous ruins.\n\nTheir desperate journey to reunite with their family in Setagaya, Western Tokyo, takes an unexpected turn when they cross paths with Mari, a motorcycle delivery woman. With Mari's help, the trio embarks on a perilous adventure through the devastated city, facing unimaginable challenges and dangers. Inspired by the real-life threat of a potential 7.0 magnitude earthquake in Tokyo within the next 30 years, this anime brings to life the resilience and determination of ordinary people in the face of extraordinary circumstances.",
-    "author": "mistral.mistral-large-2402-v1:0",
+    "text": "Tokyo faces a looming threat of a powerful earthquake, with a 70% chance of a magnitude 7.0 quake in the next 30 years. When middle schooler Mirai takes her younger brother Yuuki to a robot exhibition in Tokyo's Odaiba district to kick off their summer vacation, disaster strikes. A devastating 8.0 earthquake emanates from an offshore trench, toppling Tokyo Tower, Rainbow Bridge, and reshaping the cityscape instantaneously. Stranded from their family, Mirai and Yuuki meet Mari, a kind motorcycle delivery woman also stuck on Odaiba after the quake. Together, the trio navigates the dangerous, transformed urban terrain, overcoming obstacles while forging an unbreakable bond on their perilous journey back home to Setagaya in western Tokyo. Though the earthquake unleashed unimaginable destruction, Mirai, Yuuki, and Mari discover hope, courage, and the life-affirming power of human connection amidst the chaos.",
+    "author": "anthropic.claude-v2:1",
     "coAuthors": [],
     "hash": "a49e7441dd1bffac",
-    "created": "2024-05-12",
-    "lastUpdate": "2024-05-12"
+    "created": "2024-05-19",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 8.02885188620903,
