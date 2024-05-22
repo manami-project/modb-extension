@@ -14,7 +14,7 @@ modb-notify = "5.0.1"
 modb-test = "1.6.11"
 logback-classic = "1.5.6"
 commons-text = "1.12.0"
-aws-bedrock-runtime = "1.2.17"
+aws-bedrock-runtime = "1.2.18"
 
 [libraries]
 kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "kotlin" }
