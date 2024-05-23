@@ -1,4 +1,4 @@
-![jdk21](https://img.shields.io/badge/jdk-21-informational)
+[![Tests](https://github.com/manami-project/modb-extension/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/manami-project/modb-extension/actions/workflows/tests.yml) ![jdk21](https://img.shields.io/badge/jdk-21-informational)
 # modb-extension
 
 > [!NOTE]

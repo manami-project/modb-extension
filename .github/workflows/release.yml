@@ -3,7 +3,7 @@ name: 'Releases'
 on:
   release:
     types:
-      - published
+      - 'published'
 
 jobs:
   release:
