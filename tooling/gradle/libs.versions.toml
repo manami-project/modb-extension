@@ -1,5 +1,5 @@
 [versions]
-kotlin = "1.9.24"
+kotlin = "2.0.0"
 guava-jre = "33.2.0-jre"
 modb-core = "12.1.0"
 modb-serde = "5.1.1"
@@ -35,5 +35,4 @@ commons-text = { module = "org.apache.commons:commons-text", version.ref = "comm
 aws-bedrock-runtime = { module = "aws.sdk.kotlin:bedrockruntime-jvm", version.ref = "aws-bedrock-runtime" }
 
 [plugins]
-kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version = "1.9.24" }
-coveralls-jacoco = { id = "com.github.nbaztec.coveralls-jacoco", version = "1.2.20" }
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
