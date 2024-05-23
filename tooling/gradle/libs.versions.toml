@@ -1,5 +1,5 @@
 [versions]
-kotlin = "1.9.24"
+kotlin = "2.0.0"
 guava-jre = "33.2.0-jre"
 modb-core = "12.1.0"
 modb-serde = "5.1.1"
