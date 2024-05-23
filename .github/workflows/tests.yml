@@ -1,18 +1,22 @@
-name: Build
+name: 'Tests'
 
 on:
   push:
     branches:
       - 'main'
+  pull_request:
+  merge_group:
+    branches:
+      - '**'
     paths-ignore:
       - 'README.md'
       - '.gitignore'
       - '.gitattributes'
       - '.github/workflows/**'
-      - '!.github/workflows/build.yml'
+      - '!.github/workflows/tests.yml'
 
 jobs:
-  build:
+  tests:
     runs-on: ubuntu-latest
     strategy:
       matrix:
@@ -33,9 +37,11 @@ jobs:
         env:
           GH_PACKAGES_READ_TOKEN: ${{ secrets.PACKAGES_READ_TOKEN }}
         run: ./gradlew test
-      - name: Workflow housekeeping
-        if: ${{ matrix.java == 21 }}
-        uses: Mattraks/delete-workflow-runs@v2
+      - name: Publish Test Results
+        uses: EnricoMi/publish-unit-test-result-action@v2
+        if: github.ref != 'refs/heads/main'
         with:
-          retain_days: 30
-          keep_minimum_runs: 1
+          check_name: Test results JDK ${{ matrix.java }}
+          comment_title: Test results JDK ${{ matrix.java }}
+          files: |
+            /github/workspace/**/build/test-results/**/*.xml

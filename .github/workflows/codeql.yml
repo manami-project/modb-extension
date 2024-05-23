@@ -1,19 +1,17 @@
-name: "CodeQL"
+name: 'CodeQL'
 
 on:
   push:
     branches:
-      - "main"
+      - 'main'
   pull_request:
     branches:
-      - "main"
-  schedule:
-    - cron: "15 0 * * 0"
+      - 'main'
 
 jobs:
   analyze:
     name: Analyze (${{ matrix.language }})
-    runs-on: "ubuntu-latest"
+    runs-on: ubuntu-latest
     timeout-minutes: 360
     permissions:
       security-events: write
@@ -41,4 +39,4 @@ jobs:
         env:
           GH_PACKAGES_READ_TOKEN: ${{ secrets.PACKAGES_READ_TOKEN }}
         with:
-          category: "/language:${{matrix.language}}"
+          category: '/language:${{matrix.language}}'
