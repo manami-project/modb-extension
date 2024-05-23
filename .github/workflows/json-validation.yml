@@ -1,4 +1,4 @@
-name: Check JSON files
+name: 'JSON Validation'
 
 on:
   push:
