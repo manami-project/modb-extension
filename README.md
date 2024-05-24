@@ -1,4 +1,4 @@
-[![Tests](https://github.com/manami-project/modb-extension/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/manami-project/modb-extension/actions/workflows/tests.yml) [![codecov](https://codecov.io/gh/manami-project/modb-extension/graph/badge.svg?token=JIO3S8SKCG)](https://codecov.io/gh/manami-project/modb-extension) ![jdk21](https://img.shields.io/badge/jdk-21-informational)
+[![Tests](https://github.com/manami-project/modb-extension/actions/workflows/tests.yml/badge.svg)](https://github.com/manami-project/modb-extension/actions/workflows/tests.yml) [![codecov](https://codecov.io/gh/manami-project/modb-extension/graph/badge.svg?token=JIO3S8SKCG)](https://codecov.io/gh/manami-project/modb-extension) ![jdk21](https://img.shields.io/badge/jdk-21-informational)
 # modb-extension
 
 > [!NOTE]
