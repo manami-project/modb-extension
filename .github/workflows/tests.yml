@@ -47,3 +47,15 @@ jobs:
           comment_title: Test results JDK ${{ matrix.java }}
           files: |
             /github/workspace/**/build/test-results/**/*.xml
+      - name: Generate coverage
+        if: ${{ matrix.java == 21 }}
+        working-directory: ./tooling
+        env:
+          COVERALLS_REPO_TOKEN: ${{ secrets.COVERALLS_REPO_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+        run: ./gradlew jacocoTestReport
+      - name: Upload coverage
+        uses: codecov/codecov-action@v4.0.1
+        if: ${{ matrix.java == 21 }}
+        with:
+          token: ${{ secrets.CODECOV_TOKEN }}
