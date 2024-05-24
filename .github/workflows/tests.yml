@@ -55,7 +55,7 @@ jobs:
           github-token: ${{ secrets.GITHUB_TOKEN }}
         run: ./gradlew jacocoTestReport
       - name: Upload coverage
-        uses: codecov/codecov-action@v4.0.1
+        uses: codecov/codecov-action@v4.4.1
         if: ${{ matrix.java == 21 }}
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
