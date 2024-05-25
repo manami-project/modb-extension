@@ -9,16 +9,12 @@
   "synopsis": {
     "text": "Milgram is an interactive multimedia music project created through the collaboration of vocaloid producer DECO*27 and video game director Takuya Yamanaka. It tells the story of Es, a prison guard assigned to watch over 10 inmates who have all committed murder. In this mysterious facility, each inmate is given the chance to confess their crimes through song and performance in a music video. Es and the viewers take on the role of judges, listening to the inmates' stories and deciding whether they seem innocent or guilty. As more inmates perform their musical confessions, the lines between right and wrong become increasingly blurred. Their motives and the context behind their deadly actions are revealed, begging the question - can their crimes be forgiven? Or are they guilty beyond redemption? Ultimately, Es and the audience must weigh each case and determine the fate of the confessed killers. Through this interactive experience set to catchy vocaloid tunes, Milgram aims not only to entertain, but to make us think deeply about morality, justice, and the complexity of the human condition.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "bb7579273dbe777e",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.27740853432282,
     "arithmeticGeometricMean": 8.273710485636126,
     "median": 8.08,
-    "hash": "bb7579273dbe777e",
     "lastUpdate": "2024-05-07"
   }
 }

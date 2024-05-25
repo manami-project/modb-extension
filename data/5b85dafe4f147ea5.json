@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Cloud 7 is a private agency employed by the royal family of the small kingdom of Ishtar to carry out covert missions and solve problems before they arise. The agency consists of two agents, Jack Hofner and Rowe Rickenbacker, who operate under the code name \"L/R\". Though their personalities differ, with Jack's suave charm and Rowe's rebellious spirit, the duo works effectively together on dangerous assignments from the royals. These have included stopping smugglers, preventing terrorist attacks, recovering lost treasures, and helping missing members of the royal family. Their talent and versatility allow them to tackle any situation, though they remain tight-lipped on the specifics of who exactly is \"L\" and who is \"R\". When a candidate for a Princesse contest goes missing, Cloud 7 once again puts their skills to work. What begins as a simple protective detail turns into an intricate case involving conspiracies, corruption, and murder. But no challenge is too tough for Jack and Rowe when the safety of the royals and the kingdom is on the line. With quick thinking and daring plans, L/R races to uncover the truth behind the mysterious events threatening Ishtar.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "5b85dafe4f147ea5",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.136570898489266,
     "arithmeticGeometricMean": 6.119870778429926,
     "median": 6.28,
-    "hash": "5b85dafe4f147ea5",
     "lastUpdate": "2024-05-09"
   }
 }

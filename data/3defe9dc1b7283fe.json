@@ -9,16 +9,12 @@
   "synopsis": {
     "text": "",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "3defe9dc1b7283fe",
-    "created": "2024-05-12",
     "lastUpdate": "2024-05-12"
   },
   "score": {
     "arithmeticMean": 5.1120909090909095,
     "arithmeticGeometricMean": 5.073806479595553,
     "median": 5.043181818181818,
-    "hash": "3defe9dc1b7283fe",
     "lastUpdate": "2024-05-07"
   }
 }

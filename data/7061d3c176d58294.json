@@ -9,16 +9,12 @@
   "synopsis": {
     "text": "",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "7061d3c176d58294",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.876,
     "arithmeticGeometricMean": 5.866745190775788,
     "median": 5.659727272727274,
-    "hash": "7061d3c176d58294",
     "lastUpdate": "2024-05-06"
   }
 }

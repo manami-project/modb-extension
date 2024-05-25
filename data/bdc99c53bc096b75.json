@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "In the year 2043, the world's first successful full-dive VRMMO called \"Infinite Dendrogram\" is released. The game perfectly simulates the five senses and promises players an immersive world full of infinite possibilities. Nearly two years later, Reiji Mukudori, a soon-to-be college freshman, finally buys a copy of Infinite Dendrogram and starts playing. With help from his older brother Shuu, an experienced player, and Shuu's in-game partner Embryo, Reiji embarks on an adventure in the game's expansive virtual world. However, Reiji soon discovers a shocking truth - when NPCs die in Infinite Dendrogram, they are gone forever. This permanence of death sets the game apart. As Reiji continues playing, he learns that war is brewing inside Infinite Dendrogram. Together with his brother and Embryo, Reiji experiences the game's realism and endless possibilities firsthand.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "bdc99c53bc096b75",
-    "created": "2024-05-22",
     "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.409899015356417,
     "arithmeticGeometricMean": 6.39994441177265,
     "median": 6.3878094194961665,
-    "hash": "bdc99c53bc096b75",
     "lastUpdate": "2024-05-09"
   }
 }

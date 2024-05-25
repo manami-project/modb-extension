@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Some where in a dystopian future, the young protagonist, Shu, hails from Datania, a city confined within a dome and governed by the iron-fisted rule of an artificial intelligence, Zero, and his human accomplice, Nines. In this harsh society, children are indoctrinated to suppress their emotions and dreams, and are forced into labor. Unable to endure the cruel realities of Datania, Shu and his friends attempt to escape, only to cross paths with the Returners, a group of rebels defying Datania's oppressive regime.\n\nAs Shu joins the Returners, he learns of a coveted substance called DT, hidden within humans and highly sought after by Zero and his minions. The world outside the dome is in ruins, with survivors bearing the scars of UV radiation. Amidst these challenges, Shu finds an unlikely ally in Eightron, a mysterious robot that appears during critical moments.\n\nEmbark on a thrilling journey as Shu navigates this post-apocalyptic world, fighting against the tyranny of Zero and Nines while uncovering the truth about the precious DT substance. Join Shu and the Returners in their rebellion against Datania, and witness the power of human emotions and dreams in the face of adversity.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "30f50c2f0a7cd9fa",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.026401802279353,
     "arithmeticGeometricMean": 6.0041743576131035,
     "median": 6.090909090909091,
-    "hash": "30f50c2f0a7cd9fa",
     "lastUpdate": "2024-05-09"
   }
 }

@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Pinocchio tells the story of a lonely old woodcarver named Gepetto who wishes for companionship. One day, he carves a puppet from a piece of driftwood struck by lightning and names him Pinocchio. Miraculously, a blue fairy brings Pinocchio to life, although he remains in his wooden puppet form. Eager to become a real boy, the naive and morally confused Pinocchio embarks on a series of misadventures. He faces manipulation from deceitful townspeople who take advantage of his trusting nature and sell him off as a circus act. Pinocchio also struggles with his own selfishness and repeated disobedience, which leads the fairy to punish him by turning parts of his body into trees. Through these harsh ordeals, Pinocchio must learn to overcome character flaws like selfishness, cowardice, and an inability to learn from his mistakes. Only by exhibiting moral growth can Pinocchio prove himself worthy of being transformed into a human boy and granted the companionship he and Gepetto both desire. Though the path is challenging, Pinocchio persists in hopes that one day his wish to become a real boy will come true.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "abfbaf381220a6d2",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.4443344818446855,
     "arithmeticGeometricMean": 5.391449854247372,
     "median": 5.186,
-    "hash": "abfbaf381220a6d2",
     "lastUpdate": "2024-05-09"
   }
 }

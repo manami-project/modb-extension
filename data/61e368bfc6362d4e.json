@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "The Five Star Stories takes place in a distant galaxy comprised of five star systems known as the Joker Systems. Within these systems exist numerous kingdoms ruled by Emperor Amaterasu, the god of light. Knights called Headd Liners pilot giant combat robots called Mortar Headds to battle for supremacy amongst the kingdoms. To operate the Mortar Headds, the Headd Liners are paired with Fatimas - androids that resemble human females in both appearance and emotions. Though Fatimas are artificial, they possess enhanced abilities that allow them to serve as the interface between the Headd Liners and machines. The story follows a young Headd Liner named Ladios Sopp on a mission to rescue a Fatima named Lachesis, whom he shares history with. Along his journey, Ladios meets new allies and enemies, suggesting an adventurous tale filled with mecha action. Underlying the sci-fi premise is a deeper exploration of the human-like Fatimas, with Lachesis emerging as a central character. Ultimately, Ladios' quest underscores themes of love and what it means to be human.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "61e368bfc6362d4e",
-    "created": "2024-05-22",
     "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.483024648820567,
     "arithmeticGeometricMean": 6.478029084566853,
     "median": 6.488,
-    "hash": "61e368bfc6362d4e",
     "lastUpdate": "2024-05-09"
   }
 }

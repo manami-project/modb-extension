@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "The anime follows the adventures of Netto Hikari and his Net-Navi, Megaman (also known as Rockman), who are tasked with protecting the NET World from the malevolent Dark Loids. With the invention of 'synchro chips' by Netto's father, Yuuichirou Hikari, operators and their Navis can now fuse together in the real world via a technique called 'Cross Fusion'. Despite the immense strain on the operator's health and the potential risk of death, Netto's unwavering bond with Megaman drives him to take on the challenge. When the sinister organization, Nebula, begins creating Dimensional Areas to attack the real world, Netto and Megaman, along with their rivals Enzan and Blues, must harness the power of Cross Fusion and Soul Unison to save humanity from the impending digital doom.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "e7842e472e5f2f66",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.681230850781871,
     "arithmeticGeometricMean": 6.657591127795752,
     "median": 6.909090909090909,
-    "hash": "e7842e472e5f2f66",
     "lastUpdate": "2024-05-09"
   }
 }

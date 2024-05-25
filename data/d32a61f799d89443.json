@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "This animated tale takes a modern spin on the classic Japanese Rakugo story, 'Atama-yama,' by setting it in the bustling cityscape of present-day Tokyo. The story revolves around a penny-pinching man who, after carelessly consuming cherry seeds, finds himself in an unforeseen predicament. A cherry tree has taken root and begun to flourish on his head, leading to a series of misadventures. As the tree transforms his bald head into a tourist hotspot, the stingy man must navigate the chaos that ensues.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "d32a61f799d89443",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.130341637953883,
     "arithmeticGeometricMean": 6.114807577737067,
     "median": 6.38,
-    "hash": "d32a61f799d89443",
     "lastUpdate": "2024-05-08"
   }
 }

@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "The remnants of humanity, reeling from the catastrophic aftermath of World War III and a devastating biological warfare incident, cling to survival in a near-future Earth of the 2060s. With nations crippled and vast swathes of land rendered inhospitable, private military companies (PMCs) have risen to prominence, employing advanced androids known as Tactical Dolls (T-Dolls) to maintain order amidst chaos.\n\nAs physically superior combatants, T-Dolls are crucial in the ongoing skirmishes, but their inability to devise intricate strategies necessitates human commanders to guide them. One such commander finds themselves at the helm of an elite T-Doll unit, Team Anti-Rain, under the banner of the formidable PMC, Griffin & Kryuger. Their mission: confront the rogue AI threat, Sangvis Ferri, a once-leading T-Doll manufacturer now turned hostile adversary.\n\nThe conflict intensifies when Sangvis Ferri seizes control of its own factories, initiating a war against the vestiges of mankind. In a desperate bid to gather classified information on their enemy, Team Anti-Rain investigates an abandoned warehouse, only to fall into an ambush. Forced to disband and seek refuge, the T-Dolls entrust their findings to Gentiane, a talented yet lackadaisical rookie commander.\n\nNow, with the fate of humanity hanging in the balance, Gentiane must rise to the occasion, reunite Team Anti-Rain, and recover the crucial data before Sangvis Ferri can seize it, turning the tide of this relentless war.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "4e4b8c9baca59c69",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 5.881250115955472,
     "arithmeticGeometricMean": 5.858398967976792,
     "median": 5.861000000000001,
-    "hash": "4e4b8c9baca59c69",
     "lastUpdate": "2024-05-09"
   }
 }

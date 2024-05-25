@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Professor Layton, his apprentice Luke, and his friend Remi receive an invitation from opera singer Jenis Quatlane to attend her latest performance at the Crown Petone opera house. Jenis asks them for help with a mystery - her deceased friend Melina has returned as a young girl claiming to have discovered the secret of eternal life. \n\nAt the opera, Layton and Luke witness a performance about a kingdom searching for immortality after their beloved Queen dies. Afterwards, a masked man appears and proposes a game - the winner will attain eternal life, while the losers must die.\n\nLayton and Luke become unwilling participants in this game orchestrated by the strange pianist Ozro Vislar. It is now a race against time for Layton and Luke to uncover the secrets behind Melina's reincarnation, the Kingdom of Immortals, and the Eternal Diva herself before the deadly price is paid. Solving the mystery will require all of Layton's puzzle-solving skills and Luke's clever assistance as the pair embark on another gentlemanly adventure.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "4c69ef967b7d16c2",
-    "created": "2024-05-19",
     "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 7.532001890966177,
     "arithmeticGeometricMean": 7.529020336773293,
     "median": 7.648181818181818,
-    "hash": "4c69ef967b7d16c2",
     "lastUpdate": "2024-05-09"
   }
 }

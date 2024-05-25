@@ -11,16 +11,12 @@
   "synopsis": {
     "text": "Professor Gulliver, a renowned explorer, constructs a spaceship, christened the \"Gulliver,\" with dreams of reaching distant galaxies. Accompanied by young Ted, a brave dog named Mack, a toy soldier known as The General, and a clever crow, they embark on a thrilling journey to the elusive Planet of Blue Hope. Upon arrival, they discover a war-torn alien kingdom, engaged in a fierce battle with a neighboring planet inhabited by rebellious robots.\n\nMeanwhile, young orphan Ricky, who firmly believes in the power of hope, finds himself teaming up with the same group of adventurers. Together, they traverse the cosmos, encountering a mystical nebula capable of rejuvenating youth and a wish-granting cupid. Eventually, they reach a planet inhabited by refugees from the Star of Hope, who were forced to abandon their home due to a robot uprising. As the situation worsens, the robots capture the Princess of this new world. Can Ricky, Gulliver, and their friends rescue her and restore peace to the galaxy?",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "ad603d2441be89b1",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 5.845485643608093,
     "arithmeticGeometricMean": 5.833571170824952,
     "median": 5.666666666666667,
-    "hash": "ad603d2441be89b1",
     "lastUpdate": "2024-05-08"
   }
 }

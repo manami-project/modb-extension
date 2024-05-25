@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Mouri Kogorou and Conan Edogawa find themselves in the thrilling atmosphere of Touto Stadium, where a J-League soccer match between Tokyo Spirits and Gamba Osaka is unfolding. Suddenly, an ominous bomb threat from an unidentified caller disrupts the excitement, accompanied by a cryptic riddle hinting at the bomb's location.\n\nWith time ticking away, Conan rises to the challenge, utilizing his quick wit and sharp intellect to decipher the riddle, locate the bomb, and avert a devastating explosion. However, the culprit remains undeterred, setting the stage for another round of terror with a second bomb hidden at a major city event.\n\nIn this deadly game of cat and mouse, Conan must once again race against the clock, unravel another riddle, and apprehend the culprit before countless lives hang in the balance. With the stakes higher than ever, Conan's determination and ingenuity are put to the ultimate test to prevent an impending catastrophe.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "546ba644c4af9e4e",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 7.713734642341785,
     "arithmeticGeometricMean": 7.711502552073561,
     "median": 7.742539682539682,
-    "hash": "546ba644c4af9e4e",
     "lastUpdate": "2024-05-09"
   }
 }

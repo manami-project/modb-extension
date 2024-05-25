@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Sword Art Online is set in 2022 and follows Asuna Yuuki and other players who become trapped in the virtual reality multiplayer online role-playing game (VRMMORPG) Sword Art Online. On the launch day, the creator prevents the players from being able to log out and reveals that death in-game would lead to real-life death. The story focuses on Asuna and Kirito as they band together with other players to progress through the game's 100 floors in order to escape. In the beginning, Asuna struggles with the game mechanics while Kirito fights alone. Eventually their paths cross and they agree to join forces, realizing that solitude leads to a higher risk of death. Along with grappling with the life-threatening stakes of the game, the story explores the virtual world of Aincrad and the challenges faced from threats within and beyond. Centered around themes of survival, trust, and perseverance, Sword Art Online depicts Asuna and Kirito's growth as they push forward against near-impossible odds to conquer the game's menacing challenges while forming meaningful connections with each other.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "7ed4e29e2cb405c5",
-    "created": "2024-05-19",
     "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 8.094115491651205,
     "arithmeticGeometricMean": 8.091528071238026,
     "median": 8.190714285714286,
-    "hash": "7ed4e29e2cb405c5",
     "lastUpdate": "2024-05-10"
   }
 }

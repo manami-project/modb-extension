@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "First-year high school students Takeru Fujiwara and Nana Sakurai enroll at Honan Academy, drawn by their fascination with the school's renowned Stride team. Stride is an extreme urban sport where relay teams of six dash through towns, combining parkour, free running, and sprinting. However, upon arriving at Honan, Takeru and Nana discover that the Stride club has closed due to lack of members. Undeterred, the two stride enthusiasts set their sights on reviving the club in order to compete in the prestigious national End of Summer competition. Their first recruit is fellow first-year Riku Yagami, an incredibly fast runner talented in nearly every sport. Though initially declining due to his distaste for Stride, Riku gets dragged into a spur-of-the-moment match and now finds his fate tied to the rebuilt Honan Stride team's success. With Riku reluctantly on board, Takeru and Nana must pull together the remaining runners needed to bring their Stride dreams to life.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "250f0b24008b651e",
-    "created": "2024-05-19",
     "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.851463291183656,
     "arithmeticGeometricMean": 6.843519945871535,
     "median": 6.969090909090909,
-    "hash": "250f0b24008b651e",
     "lastUpdate": "2024-05-09"
   }
 }

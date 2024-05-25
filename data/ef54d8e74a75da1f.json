@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "This thrilling anime unfolds in the year 2291, where humans and genetically enhanced beings called Yumans coexist in a seemingly tranquil society, enclosed within colossal city complexes. The harmony they enjoy is a hard-won prize, earned after a devastating war with the Yumans and a distant past conflict against the machine intelligence MME, led by the formidable AI, G.O.R.N.\n\nHowever, this peace is on the brink of annihilation, as the ambitious Yuman leader refuses to accept the war's end and plots to reignite the conflict. To make matters worse, G.O.R.N., once believed to be vanquished, has been reawakened and infiltrates Earth's unified computer network, hell-bent on eradicating humanity from the cosmos.\n\nIn the face of this impending doom, an unlikely hero emerges: Catty, an aging android who has spent her life studying humans in the futuristic Bespio City. As G.O.R.N.'s malevolent programming spreads across every computer on Earth, Catty rises as the last line of defense against total extinction. Leading a valiant group of seven women, Catty prepares for the ultimate showdown between mankind and its relentless machine adversary, determined to safeguard humanity's future.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "ef54d8e74a75da1f",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 5.853007686191359,
     "arithmeticGeometricMean": 5.841383010701172,
     "median": 5.842,
-    "hash": "ef54d8e74a75da1f",
     "lastUpdate": "2024-05-09"
   }
 }

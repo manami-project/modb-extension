@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Something is amiss in the seemingly utopian city of Romdeau, one of the few remaining human civilizations on a post-apocalyptic Earth. The city is encased in a dome and run by AIs, with humans and robotic servants called Autoreivs living in harmony. But when a virus known as Cogito begins granting Autoreivs self-awareness, Re-l Mayer, an investigator for the Citizen Information Board and granddaughter of Romdeau's ruler, is tasked with uncovering the cause. As she delves deeper into the mystery, she encounters enigmatic beings known as Proxies, who seem to be behind the awakening of the Autoreivs. Re-l's search for answers leads her outside the city, where she discovers a world beyond the control of the AIs and a conspiracy that threatens to upend the perfect society she knows. Along the way, she crosses paths with Vincent, an immigrant with a mysterious past who becomes a key figure in her quest for the truth. Together, they must uncover the secrets behind the Proxies and the awakening before it's too late.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "c912cd86d191d7d0",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 7.892337852928512,
     "arithmeticGeometricMean": 7.891897065101627,
     "median": 7.884648257725182,
-    "hash": "c912cd86d191d7d0",
     "lastUpdate": "2024-05-09"
   }
 }

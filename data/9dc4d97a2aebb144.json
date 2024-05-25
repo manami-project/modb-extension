@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Oseam is an animated film based on a popular Korean fairy tale by author Jeong Chae-bong. It follows two orphaned siblings - five-year-old Gilson and his blind older sister Gami - who are taken in by kindly monks at a secluded temple in the mountains. The story explores the simple joys and heartbreaks of childhood through the eyes of the mischievous yet pure-hearted Gilson. He delights in befriending all living creatures and finds magic in everyday moments, like playing games or watching the clouds. His beloved sister Gami, though unable to see the world around her, provides gentle guidance. Life at the temple is peaceful until one fateful snowy day when tragedy strikes. Gilson and Gami face grief and adversity with the quiet wisdom imparted by the monks who raised them. Their emotional journey illustrates profound lessons about loss, hope, and the enduring power of love. With its gentle poeticism and messages of resilience, Oseam promises to be a profoundly moving, life-affirming fairy tale for all ages. Its timeless themes and innocent spirit are sure to resonate with viewers, affirming that even in life's darkest moments, goodness persists.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "9dc4d97a2aebb144",
-    "created": "2024-05-22",
     "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.008416644579911,
     "arithmeticGeometricMean": 6.999951884685747,
     "median": 7.03,
-    "hash": "9dc4d97a2aebb144",
     "lastUpdate": "2024-05-09"
   }
 }

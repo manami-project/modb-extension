@@ -10,16 +10,12 @@
   "synopsis": {
     "text": "The anime tells the story of Bedivere, a wandering knight, who arrives in Jerusalem in 1273 A.D. along with Chaldea's expedition team. They find the land desolate, with its people driven from their homes as three warring factions - the Lion King, the Knights of the Round Table, and the Sun King Ozymandias - battle for control. Seeking help from the Mountain People, Bedivere and company stand against the Lion King's cruel leadership and slaughter of innocents. After a deadly fight and losing a dear friend, they desperately ask Ozymandias for an alliance, but he refuses, instead prioritizing protecting his own citizens. Shaken by revelations about the Lion King's intentions, Bedivere and Chaldea launch an attack on Camelot itself to stop these schemes. On the day of the decisive battle in the Holy City, many questions remain. What drives the Lion King to such cold-blooded actions? Can humanity survive in a world already promised ruin? And what will come of Bedivere, burdened by an unpardonable sin?",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "e222c6817bbbcd1e",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.574262626262627,
     "arithmeticGeometricMean": 7.569367300794249,
     "median": 7.682636363636364,
-    "hash": "e222c6817bbbcd1e",
     "lastUpdate": "2024-05-06"
   }
 }

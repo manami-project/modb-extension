@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Set in an alternate 1983, Schwarzesmarken follows the elite 666th Tactical Surface Fighter Squadron of East Germany, nicknamed \"Black Marks,\" as they battle against the extraterrestrial BETA invaders. Stationed on the frontlines along the Oder-Neisse line, the squadron specializes in daring counterassault maneuvers, targeting BETA Laser and Heavy Laser classes to neutralize the alien's devastating ranged weaponry. The story centers around stoic young officer Theodor Eberbach as he joins the notorious 666th \"Schwarzesmarken\" Squadron, led by the legendary but cold Captain Irisdina Bernhard. Idealistic rookie pilot Katia Waldheim also joins the squadron, drawing the suspicious gaze of East Germany's secret police. Surrounded by enemies both alien and human, the 666th struggles to drive back the BETA tide, even as they wage a shadow war against their own nation's oppressive regime. Torn between duty, morality, and loyalty, the Schwarzesmarken fight a desperate campaign to determine the fate of humanity.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "4614ed75f024cfbb",
-    "created": "2024-05-20",
     "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.68500068656122,
     "arithmeticGeometricMean": 6.68162854761394,
     "median": 6.65963910988124,
-    "hash": "4614ed75f024cfbb",
     "lastUpdate": "2024-05-09"
   }
 }

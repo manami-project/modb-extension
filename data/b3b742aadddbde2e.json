@@ -10,16 +10,12 @@
   "synopsis": {
     "text": "Kuroko no Basket follows the basketball team at Seirin High School as they aim to become the best in Japan. The anime focuses on two talented freshmen recruits - Taiga Kagami, a towering basketball prodigy from America, and Tetsuya Kuroko, an unassuming player with a unique lack of on-court presence that masks his skill. In their first year, Seirin faces off against Touou Academy and Kuroko's former teammate, Daiki Aomine, in the Interhigh championship. Aomine dominates Kagami and exposes the limits of Kuroko's misdirection techniques, claiming they can never surpass him. Now in their second year, a fired-up Seirin seeks revenge against Touou at the Winter Cup. They have trained relentlessly, but Aomine remains a towering obstacle, beginning to see through Kuroko and Kagami's tricks. As the fated rematch approaches, Seirin must push themselves to the limit and evolve if they hope to take down Aomine and prove themselves as the best high school team in Japan.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "b3b742aadddbde2e",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.79013468013468,
     "arithmeticGeometricMean": 7.787605892766534,
     "median": 7.705,
-    "hash": "b3b742aadddbde2e",
     "lastUpdate": "2024-05-06"
   }
 }

@@ -10,16 +10,12 @@
   "synopsis": {
     "text": "Monk Xuanzang embarks on a journey from China to India, accompanied by the mischievous and powerful Sun Wukong, who was born from a magic stone and imprisoned under a mountain for five centuries for causing trouble in the heavens. Guided by the Goddess Guanyin, Xuanzang frees Sun Wukong and together they set out on a pilgrimage to the west. Along the way, they are joined by two new companions, the pig-like Zhu Bajie and the Hermit Sha Wujing. As they travel, the group faces numerous dangers and battles against evil creatures and sorcerers. Despite their differences, they learn to work together and form a close bond.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "ab31a5b2c29e1bc7",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.0843181818181815,
     "arithmeticGeometricMean": 6.050692417947576,
     "median": 6.363636363636363,
-    "hash": "ab31a5b2c29e1bc7",
     "lastUpdate": "2024-05-07"
   }
 }

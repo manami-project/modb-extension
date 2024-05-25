@@ -10,16 +10,12 @@
   "synopsis": {
     "text": "The anime follows a group of children called the Chosen Children and their partner Digimon. One of the Digimon, Meicoomon, becomes infected by a mysterious virus that causes her to lose control and transform, leading her to kill Leomon. Concerned about the infection spreading, Koushiro quarantines the other Digimon partners in his office. However, despite the quarantine, Patamon begins exhibiting concerning symptoms, suggesting the infection may be spreading regardless. The Chosen Children then receive an ominous message from Homeostasis, a mysterious digital entity. Homeostasis warns that the infection threatens the total destruction of both the Digital World and real world. As a last resort, it plans to enact a \"Reboot\" - resetting the Digital World's data, which would erase the infection but also wipe the memories of all Digimon. Faced with this devastating possibility of losing their partners forever, the Chosen Children race to find answers and a way to stop Meicoomon before Homeostasis proceeds with the world-resetting Reboot.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "17d8a2c4ddc535b8",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.757459221848111,
     "arithmeticGeometricMean": 7.75685892561594,
     "median": 7.799545454545455,
-    "hash": "17d8a2c4ddc535b8",
     "lastUpdate": "2024-05-06"
   }
 }

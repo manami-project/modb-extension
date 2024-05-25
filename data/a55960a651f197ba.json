@@ -10,16 +10,12 @@
   "synopsis": {
     "text": "Fate/stay night Movie: Heaven's Feel follows Shirou Emiya as he continues to fight in the Fifth Holy Grail War in Fuyuki City, determined to protect Sakura Matou. Zouken Matou's participation has summoned the Servant True Assassin, distorting the war and worsening conditions within the city. As the shadows spread, killing Masters and Servants, Shirou refuses to abandon Sakura, though it endangers them both. Sakura grapples with her own fate as a mage as she worries for Shirou's safety. Together with Rin Tohsaka, they uncover dark truths about Shinji and the Matou family. Shirou aspires to become a hero who can save everyone, but the secrets being revealed in this war begin to challenge his ideals. With higher stakes for all and a mysterious, murderous entity on the loose, the remaining participants must band together if they hope to obtain the Holy Grail and prevent further tragedy from befalling Fuyuki City.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "a55960a651f197ba",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.48331222943723,
     "arithmeticGeometricMean": 8.482984469746821,
     "median": 8.481,
-    "hash": "a55960a651f197ba",
     "lastUpdate": "2024-05-06"
   }
 }

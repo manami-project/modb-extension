@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "In the mid-21st century, humanity has ventured into space and begun capturing asteroids and comets to mine for resources. 12-year-old Nanbu Ushiwaka lives on one such asteroid mining colony called Tortatis. As the only child born and raised in space, his survival itself defies the odds. However, disaster strikes when a military satellite accidentally triggers a catastrophe during an operation to capture Halley's Comet. The resulting wreckage leaves the colonists of Tortatis stranded and abandoned by both their country and company. With limited time before Tortatis's nuclear reactor melts down, Ushiwaka and the remaining colonists race against the clock to find a means of escape. Failure to do so will doom them to perish among the very stars they called home. Though the odds seem insurmountable, the colonists push forward, determined to beat the clock and survive in space another day.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "5ea5c0111d35c1e3",
-    "created": "2024-05-22",
     "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.490875165650676,
     "arithmeticGeometricMean": 6.473040441164645,
     "median": 6.548,
-    "hash": "5ea5c0111d35c1e3",
     "lastUpdate": "2024-05-09"
   }
 }
