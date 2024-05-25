@@ -64,7 +64,6 @@ internal class DefaultSynopsisReaderTest {
             val testSynopsis = Synopsis(
                 text = "text",
                 author = "me",
-                hash = "34962b38dbd33acf",
             )
 
             val testFileAccessor = object: FileAccessor by TestFileAccessor {

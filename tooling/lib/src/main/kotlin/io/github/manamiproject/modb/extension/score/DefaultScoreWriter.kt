@@ -26,7 +26,6 @@ public class DefaultScoreWriter(
             is ExtensionData -> {
                 currentEntry.copy(
                     score = score.copy(
-                        hash = filename(sources, EMPTY),
                         lastUpdate = LocalDate.now(clock).format(ISO_LOCAL_DATE),
                     ),
                 )

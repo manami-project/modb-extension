@@ -75,17 +75,10 @@ internal class DefaultFileAccessorTest {
                     Synopsis(
                         text = "text-value",
                         author = "author-value",
-                        coAuthors = setOf(
-                            "coAuthor-value1",
-                            "coAuthor-value2",
-                        ),
-                        created = "2024-01-01",
-                        hash = "049073efcafb1e52",
                         lastUpdate = "2024-01-02",
                     ),
                     score = Score(
                         arithmeticMean = 5.0,
-                        hash = "049073efcafb1e52",
                         lastUpdate = "2024-01-03",
                     ),
                 )
@@ -250,17 +243,10 @@ internal class DefaultFileAccessorTest {
                     Synopsis(
                         text = "text-value",
                         author = "author-value",
-                        coAuthors = setOf(
-                            "coAuthor-value1",
-                            "coAuthor-value2",
-                        ),
-                        hash = "049073efcafb1e52",
-                        created = "2024-01-01",
                         lastUpdate = "2024-01-02",
                     ),
                     score = Score(
                         arithmeticMean = 5.0,
-                        hash = "049073efcafb1e52",
                         lastUpdate = "2024-01-03",
                     ),
                 )
@@ -408,17 +394,10 @@ internal class DefaultFileAccessorTest {
                     Synopsis(
                         text = "text-value",
                         author = "author-value",
-                        coAuthors = setOf(
-                            "coAuthor-value1",
-                            "coAuthor-value2",
-                        ),
-                        hash = "049073efcafb1e52",
-                        created = "2024-01-01",
                         lastUpdate = "2024-01-02",
                     ),
                     score = Score(
                         arithmeticMean = 5.0,
-                        hash = "049073efcafb1e52",
                         lastUpdate = "2024-01-03",
                     ),
                 )
@@ -564,17 +543,10 @@ internal class DefaultFileAccessorTest {
                     Synopsis(
                         text = "text-value",
                         author = "author-value",
-                        coAuthors = setOf(
-                            "coAuthor-value1",
-                            "coAuthor-value2",
-                        ),
-                        hash = "049073efcafb1e52",
-                        created = "2024-01-01",
                         lastUpdate = "2024-01-02",
                     ),
                     score = Score(
                         arithmeticMean = 5.0,
-                        hash = "049073efcafb1e52",
                         lastUpdate = "2024-01-03",
                     ),
                 )
@@ -599,19 +571,12 @@ internal class DefaultFileAccessorTest {
                       "synopsis": {
                         "text": "text-value",
                         "author": "author-value",
-                        "coAuthors": [
-                          "coAuthor-value1",
-                          "coAuthor-value2"
-                        ],
-                        "hash": "049073efcafb1e52",
-                        "created": "2024-01-01",
                         "lastUpdate": "2024-01-02"
                       },
                       "score": {
                         "arithmeticMean": 5.0,
                         "arithmeticGeometricMean": 0.0,
                         "median": 0.0,
-                        "hash": "049073efcafb1e52",
                         "lastUpdate": "2024-01-03"
                       }
                     }

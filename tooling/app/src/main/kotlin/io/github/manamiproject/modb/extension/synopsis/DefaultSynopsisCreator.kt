@@ -53,7 +53,6 @@ class DefaultSynopsisCreator(
             return@withContext Synopsis(
                 text = EMPTY,
                 author = MODEL_ID,
-                hash = filename(sources, EMPTY),
             )
         }
 
@@ -86,7 +85,6 @@ class DefaultSynopsisCreator(
             return@withContext Synopsis(
                 text = EMPTY,
                 author = MODEL_ID,
-                hash = filename(sources, EMPTY),
             )
         }
 
@@ -125,14 +123,12 @@ class DefaultSynopsisCreator(
             return@withContext Synopsis(
                 text = EMPTY,
                 author = MODEL_ID,
-                hash = filename(sources, EMPTY),
             )
         }
 
         return@withContext Synopsis(
             text = responseText.normalize(),
             author = MODEL_ID,
-            hash = filename(sources, EMPTY),
         )
     }
 

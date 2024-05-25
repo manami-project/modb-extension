@@ -81,38 +81,6 @@ internal class DefaultScoreDownloadListCreatorTest {
         }
 
         @Test
-        fun `returns file if previous score hash differs from current hash`() {
-            tempDirectory {
-                // given
-                val scoreDownloadListCreator = DefaultScoreDownloadListCreator(tempDir)
-                val extensionData = ExtensionData(
-                    sources = listOf(
-                        URI("https://example4.com"),
-                        URI("https://example5.com"),
-                    ),
-                    score = Score(
-                        arithmeticMean = 5.0,
-                        arithmeticGeometricMean = 5.0,
-                        median = 5.0,
-                        hash = "abcdtest",
-                    ),
-                )
-                Json.toJson(extensionData).writeToFile(tempDir.resolve("6f0e12caa76e9514.json"))
-
-                // when
-                val result = scoreDownloadListCreator.createDownloadList()
-
-                // then
-                assertThat(result).containsExactlyInAnyOrder(
-                    hashSetOf(
-                        URI("https://example4.com"),
-                        URI("https://example5.com"),
-                    )
-                )
-            }
-        }
-
-        @Test
         fun `returns file if entry is older than 6 months`() {
             tempDirectory {
                 // given
@@ -124,7 +92,6 @@ internal class DefaultScoreDownloadListCreatorTest {
                         URI("https://example5.com"),
                     ),
                     score = Score(
-                        hash = "6f0e12caa76e9514",
                         lastUpdate = LocalDate.now(clock).minusMonths(6L).minusDays(1L).format(ISO_LOCAL_DATE),
                     ),
                 )
@@ -157,7 +124,6 @@ internal class DefaultScoreDownloadListCreatorTest {
                         arithmeticMean = 5.0,
                         arithmeticGeometricMean = 5.0,
                         median = 5.0,
-                        hash = "6f0e12caa76e9514",
                     ),
                 )
                 Json.toJson(extensionData).writeToFile(tempDir.resolve("6f0e12caa76e9514.json"))

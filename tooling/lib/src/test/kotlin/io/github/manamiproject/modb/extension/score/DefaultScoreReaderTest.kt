@@ -65,7 +65,6 @@ internal class DefaultScoreReaderTest {
                 arithmeticMean = 1.0,
                 arithmeticGeometricMean = 2.0,
                 median = 3.0,
-                hash = "34962b38dbd33acf",
             )
 
             val testFileAccessor = object: FileAccessor by TestFileAccessor {

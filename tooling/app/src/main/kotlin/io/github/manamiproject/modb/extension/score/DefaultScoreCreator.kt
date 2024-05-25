@@ -51,16 +51,13 @@ class DefaultScoreCreator(
             .map { it.scaledValue() }
 
         if (rawScores.isEmpty()) {
-            return@withContext Score(
-                hash = filename(sources, EMPTY)
-            )
+            return@withContext Score()
         }
 
         return@withContext Score(
             arithmeticMean = arithmeticMean(rawScores),
             arithmeticGeometricMean = arithmeticGeometricMean(rawScores),
             median = median(rawScores),
-            hash = filename(sources, EMPTY),
         )
     }
 

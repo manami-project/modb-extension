@@ -81,37 +81,6 @@ internal class DefaultSynopsisDownloadListCreatorTest {
         }
 
         @Test
-        fun `returns file if previous score hash differs from current hash`() {
-            tempDirectory {
-                // given
-                val synopsisDownloadListCreator = DefaultSynopsisDownloadListCreator(tempDir)
-                val extensionData = ExtensionData(
-                    sources = listOf(
-                        URI("https://example4.com"),
-                        URI("https://example5.com"),
-                    ),
-                    synopsis = Synopsis(
-                        text = "text",
-                        author = "me",
-                        hash = "abcdtest",
-                    ),
-                )
-                Json.toJson(extensionData).writeToFile(tempDir.resolve("6f0e12caa76e9514.json"))
-
-                // when
-                val result = synopsisDownloadListCreator.createDownloadList()
-
-                // then
-                assertThat(result).containsExactlyInAnyOrder(
-                    hashSetOf(
-                        URI("https://example4.com"),
-                        URI("https://example5.com"),
-                    )
-                )
-            }
-        }
-
-        @Test
         fun `returns file if entry is older than 6 months`() {
             tempDirectory {
                 // given
@@ -125,8 +94,6 @@ internal class DefaultSynopsisDownloadListCreatorTest {
                     synopsis = Synopsis(
                         text = "text",
                         author = "me",
-                        hash = "6f0e12caa76e9514",
-                        created = LocalDate.now(clock).minusMonths(6L).minusDays(1L).format(ISO_LOCAL_DATE),
                         lastUpdate = LocalDate.now(clock).minusMonths(6L).minusDays(1L).format(ISO_LOCAL_DATE),
                     ),
                 )
@@ -158,7 +125,6 @@ internal class DefaultSynopsisDownloadListCreatorTest {
                     synopsis = Synopsis(
                         text = "text",
                         author = "me",
-                        hash = "6f0e12caa76e9514",
                     ),
                 )
                 Json.toJson(extensionData).writeToFile(tempDir.resolve("6f0e12caa76e9514.json"))

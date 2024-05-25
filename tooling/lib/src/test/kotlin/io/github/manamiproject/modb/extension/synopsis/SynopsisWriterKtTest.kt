@@ -36,7 +36,6 @@ internal class SynopsisWriterKtTest {
             val testSynopsis = Synopsis(
                 text = "text",
                 author = "me",
-                hash = "049073efcafb1e52",
             )
 
             // when

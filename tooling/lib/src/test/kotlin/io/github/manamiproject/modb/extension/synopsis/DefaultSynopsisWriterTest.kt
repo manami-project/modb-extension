@@ -32,11 +32,6 @@ internal class DefaultSynopsisWriterTest {
             val testSynopsis = Synopsis(
                 text = "text-value",
                 author = "author-value",
-                coAuthors = setOf(
-                    "coAuthor-value1",
-                    "coAuthor-value2",
-                ),
-                hash = "049073efcafb1e52",
             )
 
             var receivedObject: ExtensionData? = null
@@ -66,7 +61,6 @@ internal class DefaultSynopsisWriterTest {
                 sources = testSources,
                 synopsis = testSynopsis,
             ))
-            assertThat((receivedObject!!.synopsis() as Synopsis).createdAt).isEqualTo(today)
             assertThat((receivedObject!!.synopsis() as Synopsis).lastUpdatedAt).isEqualTo(today)
         }
     }
@@ -89,12 +83,6 @@ internal class DefaultSynopsisWriterTest {
             val testSynopsis = Synopsis(
                 text = "text-value",
                 author = "author-value",
-                coAuthors = setOf(
-                    "coAuthor-value1",
-                    "coAuthor-value2",
-                ),
-                hash = "049073efcafb1e52",
-                created = "2024-02-04",
                 lastUpdate = "2024-03-06",
             )
 
@@ -128,8 +116,6 @@ internal class DefaultSynopsisWriterTest {
             assertThat(receivedObject!!.sources).isEqualTo(testSources)
             assertThat((receivedObject!!.synopsis() as Synopsis).text).isEqualTo(testSynopsis.text)
             assertThat((receivedObject!!.synopsis() as Synopsis).author).isEqualTo(testSynopsis.author)
-            assertThat((receivedObject!!.synopsis() as Synopsis).coAuthors).isEqualTo(testSynopsis.coAuthors)
-            assertThat((receivedObject!!.synopsis() as Synopsis).createdAt).isEqualTo(LocalDate.of(2024, 2, 4))
             assertThat((receivedObject!!.synopsis() as Synopsis).lastUpdatedAt).isEqualTo(LocalDate.now(clock))
         }
     }
@@ -145,7 +131,6 @@ internal class DefaultSynopsisWriterTest {
             val testSynopsis = Synopsis(
                 text = "text",
                 author = "me",
-                hash = "049073efcafb1e52",
             )
 
             // when

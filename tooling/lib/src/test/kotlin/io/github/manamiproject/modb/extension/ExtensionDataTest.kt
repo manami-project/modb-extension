@@ -77,7 +77,6 @@ internal class ExtensionDataTest {
                 synopsis = Synopsis(
                     text = input,
                     author = "me",
-                    hash = "049073efcafb1e52",
                 )
             )
 
@@ -106,7 +105,6 @@ internal class ExtensionDataTest {
                 synopsis = Synopsis(
                     text = "text",
                     author = input,
-                    hash = "049073efcafb1e52",
                 )
             )
 
@@ -123,7 +121,6 @@ internal class ExtensionDataTest {
             val synopsis = Synopsis(
                 text = "test",
                 author = "me",
-                hash = "049073efcafb1e52",
             )
             val extensionData = ExtensionData(
                 sources = listOf(
@@ -187,9 +184,7 @@ internal class ExtensionDataTest {
                     URI("https://myanimelist.net/anime/1535"),
                     URI("https://notify.moe/anime/0-A-5Fimg"),
                 ),
-                score = Score(
-                    hash = "049073efcafb1e52",
-                ),
+                score = Score(),
             )
 
             // when
@@ -204,7 +199,6 @@ internal class ExtensionDataTest {
             // given
             val score = Score(
                 arithmeticMean = 5.0,
-                hash = "049073efcafb1e52",
             )
             val extensionData = ExtensionData(
                 sources = listOf(

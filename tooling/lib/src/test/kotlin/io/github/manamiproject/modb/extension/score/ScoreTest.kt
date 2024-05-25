@@ -18,7 +18,6 @@ internal class ScoreTest {
             // when
             val result = exceptionExpected<IllegalArgumentException> {
                 Score(
-                    hash = "abcdtest",
                     lastUpdate = "20240101",
                 )
             }
@@ -32,9 +31,7 @@ internal class ScoreTest {
             val today = LocalDate.now()
 
             // when
-            val result = Score(
-                hash = "abcdtest",
-            )
+            val result = Score()
 
             // then
             assertThat(result.lastUpdatedAt).isEqualTo(today)
@@ -43,9 +40,7 @@ internal class ScoreTest {
         @Test
         fun `default value for all score values is 0`() {
             // when
-            val result = Score(
-                hash = "abcdtest",
-            )
+            val result = Score()
 
             // then
             assertThat(result.arithmeticMean).isZero()
@@ -60,7 +55,6 @@ internal class ScoreTest {
             val result = exceptionExpected<IllegalArgumentException> {
                 Score(
                     arithmeticMean = input,
-                    hash = "abcdtest",
                 )
             }
 
@@ -75,7 +69,6 @@ internal class ScoreTest {
             val result = exceptionExpected<IllegalArgumentException> {
                 Score(
                     arithmeticGeometricMean = input,
-                    hash = "abcdtest",
                 )
             }
 
@@ -90,26 +83,11 @@ internal class ScoreTest {
             val result = exceptionExpected<IllegalArgumentException> {
                 Score(
                     median = input,
-                    hash = "abcdtest",
                 )
             }
 
             // then
             assertThat(result).hasMessage("Property 'median' must be within range 0.0 - 10.0.")
-        }
-
-        @ParameterizedTest
-        @ValueSource(strings = ["", " "])
-        fun `throws exception if hash is blank`(input: String) {
-            // when
-            val result = exceptionExpected<IllegalArgumentException> {
-                Score(
-                    hash = input,
-                )
-            }
-
-            // then
-            assertThat(result).hasMessage("Property 'hash' must not be blank.")
         }
     }
 
@@ -120,7 +98,6 @@ internal class ScoreTest {
         fun `correctly parse value`() {
             // given
             val synopsis = Score(
-                hash = "abcdtest",
                 lastUpdate = "2023-08-31",
             )
 

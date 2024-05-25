@@ -26,9 +26,7 @@ internal class DefaultScoreWriterTest {
 
             // when
             val result = exceptionExpected<IllegalArgumentException> {
-                writer.saveOrUpdateScore(emptySet(), Score(
-                    hash = "abcdtest",
-                ))
+                writer.saveOrUpdateScore(emptySet(), Score())
             }
 
             // then
@@ -55,7 +53,6 @@ internal class DefaultScoreWriterTest {
                 arithmeticMean = 1.0,
                 arithmeticGeometricMean = 2.0,
                 median = 3.0,
-                hash = "049073efcafb1e52",
             )
 
             var receivedObject: ExtensionData? = null
@@ -110,7 +107,6 @@ internal class DefaultScoreWriterTest {
                 arithmeticMean = 1.0,
                 arithmeticGeometricMean = 2.0,
                 median = 3.0,
-                hash = "049073efcafb1e52",
                 lastUpdate = "2024-03-06",
             )
 
@@ -170,7 +166,6 @@ internal class DefaultScoreWriterTest {
                 arithmeticMean = 1.0,
                 arithmeticGeometricMean = 2.0,
                 median = 3.0,
-                hash = "049073efcafb1e52",
                 lastUpdate = "2024-03-06",
             )
 
@@ -187,7 +182,6 @@ internal class DefaultScoreWriterTest {
                             arithmeticMean = 4.0,
                             arithmeticGeometricMean = 5.0,
                             median = 6.0,
-                            hash = "abcdtest"
                         ),
                     )
                 }

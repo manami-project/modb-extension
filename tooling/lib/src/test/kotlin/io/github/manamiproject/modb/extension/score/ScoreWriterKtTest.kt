@@ -34,9 +34,7 @@ internal class ScoreWriterKtTest {
             )
 
             // when
-            testImpl.saveOrUpdateScore(testAnime, Score(
-                hash = "049073efcafb1e52",
-            ))
+            testImpl.saveOrUpdateScore(testAnime, Score())
 
             // then
             assertThat(result).containsExactlyInAnyOrder(*testAnime.sources.toTypedArray())
