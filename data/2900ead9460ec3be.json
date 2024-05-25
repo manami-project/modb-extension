@@ -11,16 +11,12 @@
   "synopsis": {
     "text": "This informative anime sheds light on notable historical events in an engaging format. Each three-minute short features an animated character who is unaware of the significant happenings that occurred on that particular day in history. As the audience learns alongside this character, the show often incorporates actual photographs and film footage sourced from the extensive archives of the Mainichi Shimbun newspaper. These real-world materials help illustrate the events and provide further context. The idea for this educational anime sprang from the mind of creator Ryuuichi Yokoyama, who was simultaneously publishing a popular comic strip in Mainichi Shimbun. By leveraging animation, humor, and factual materials, the show aims to teach viewers about impactful moments in history while piquing their interest to learn more.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "2900ead9460ec3be",
-    "created": "2024-05-22",
     "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 5.2932675324675325,
     "arithmeticGeometricMean": 5.234977591114518,
     "median": 5.0,
-    "hash": "2900ead9460ec3be",
     "lastUpdate": "2024-05-07"
   }
 }

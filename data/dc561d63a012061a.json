@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Two years ago, a mysterious wind swept across the Earth and erased the memories of the entire human population. As society crumbled with people no longer knowing their identities or basic functions, a young man named Wataru crossed paths with Johnny, a terminally ill boy whose experimental brain surgery allowed him to retain memories. Johnny taught Wataru language and survival skills before passing away. Seeking other survivors, Wataru journeyed across the now-primitive America. In San Francisco, he met a silver-haired woman named Sophia who was also unaffected by the amnesia wind. Sophia was secretive about her past but joined Wataru on his trip towards New York. Along the way, they witnessed the collapse of civilization and contemplated the essence of humanity in this new world. Pursued by a relentless killing machine, Wataru and Sophia push onwards in hopes of finding the culprit behind the loss of humanity's memories. Their journey is one of survival, self-discovery and a search for the future of humankind in the aftermath of this silent apocalypse.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "dc561d63a012061a",
-    "created": "2024-05-20",
     "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.282069116824219,
     "arithmeticGeometricMean": 6.275578434768412,
     "median": 6.38,
-    "hash": "dc561d63a012061a",
     "lastUpdate": "2024-05-09"
   }
 }

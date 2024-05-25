@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Tokyo faces a looming threat of a powerful earthquake, with a 70% chance of a magnitude 7.0 quake in the next 30 years. When middle schooler Mirai takes her younger brother Yuuki to a robot exhibition in Tokyo's Odaiba district to kick off their summer vacation, disaster strikes. A devastating 8.0 earthquake emanates from an offshore trench, toppling Tokyo Tower, Rainbow Bridge, and reshaping the cityscape instantaneously. Stranded from their family, Mirai and Yuuki meet Mari, a kind motorcycle delivery woman also stuck on Odaiba after the quake. Together, the trio navigates the dangerous, transformed urban terrain, overcoming obstacles while forging an unbreakable bond on their perilous journey back home to Setagaya in western Tokyo. Though the earthquake unleashed unimaginable destruction, Mirai, Yuuki, and Mari discover hope, courage, and the life-affirming power of human connection amidst the chaos.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "a49e7441dd1bffac",
-    "created": "2024-05-19",
     "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 8.02885188620903,
     "arithmeticGeometricMean": 8.028560843192512,
     "median": 8.02234693877551,
-    "hash": "a49e7441dd1bffac",
     "lastUpdate": "2024-05-10"
   }
 }

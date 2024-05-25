@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Togepy, the smallest of the Pokémon, finds itself alone after a sudden awakening and a fleeting fascination with some flying Pokémon. Meanwhile, its companions, including Pikachu, Bulbasaur, Squirtle, Venonat, Marill, and Psyduck, embark on a mission to find their lost friend. Their search leads them to Elekid and a group of Exeggcute, one of which mistakes Togepy for its missing egg. Amidst this confusion, a storm brews, threatening to sweep away Togepy and the Exeggcute.\n\nIn another narrative, Ash, Misty, and Brock take a break from their Pokémon journey, only to have their peace disrupted when Misty's Togepy wanders off. With their trainers unaware, Pikachu and the rest of the Pokémon take it upon themselves to rescue Togepy. Their search leads them into a forest, where they must face and endure a sudden storm together.\n\nLastly, a peaceful nap under a tree turns into an unexpected adventure for Pikachu, Togepy, Psyduck, and their Pokémon friends. When Togepy rolls down a hill and disappears, the group sets out on a thrilling journey, exploring deep caverns and soaring through the skies. Along the way, they even assist a trapped Charizard, turning their search into a grand adventure filled with fun and camaraderie.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "e063c9c755c5990b",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.493434137291281,
     "arithmeticGeometricMean": 6.480284066733594,
     "median": 6.552727272727273,
-    "hash": "e063c9c755c5990b",
     "lastUpdate": "2024-05-09"
   }
 }

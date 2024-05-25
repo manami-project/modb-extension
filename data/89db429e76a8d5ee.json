@@ -10,16 +10,12 @@
   "synopsis": {
     "text": "Emilia lives a secluded life in Elior Forest, which is perpetually covered in ice and snow. Her only companion is the spirit Puck, who helped free Emilia from an icy prison in the forest long ago. The forest holds a tragic secret - it is home to 50 elves who have been frozen in ice. Though half-elf Emilia resembles the evil Witch who once destroyed half the world, she harbors no ill intentions. Still, the nearby villagers shun her for her appearance. Undeterred, Emilia tries to build connections by trading magic stones she collects and warding off magical beasts that threaten the village. Emilia's quiet life is disrupted when Melakuera, an arbitrator spirit, questions Emilia's right to exist, seeing her as a threat. Emilia must defend her life with help from Puck. The bonds she's formed in this frozen forest will be tested as her unknown past inextricably ties her to the fate of the frozen elves.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "89db429e76a8d5ee",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.750313955885384,
     "arithmeticGeometricMean": 7.748871114159918,
     "median": 7.844,
-    "hash": "89db429e76a8d5ee",
     "lastUpdate": "2024-05-06"
   }
 }

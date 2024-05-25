@@ -11,16 +11,12 @@
   "synopsis": {
     "text": "Madobe Nanami is an energetic employee at a computer store who helps customers build their own PCs from scratch. She enthusiastically demonstrates how to assemble the various hardware components and install the operating system. Nanami also highlights features of Windows 7 to showcase the capabilities of the new operating system. Though scatterbrained at times, forgetting small details like screwing on the case, her passion for technology shines through. With her guidance, even novice computer users can magically transform a pile of parts into a fully functioning custom PC. Whether you need recommendations on components or just want to learn more about computers, Nanami is always ready to help with a smile.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "9f3400a08552efab",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.902171098742528,
     "arithmeticGeometricMean": 5.883246922367682,
     "median": 6.1842424242424245,
-    "hash": "9f3400a08552efab",
     "lastUpdate": "2024-05-06"
   }
 }

@@ -11,16 +11,12 @@
   "synopsis": {
     "text": "Touhou Project, a creation of Team Shanghai Alice, sets the stage for the adventures of two intrepid students, Maribel Hearn and Renko Usami. As the only members of the Hifuu Club Activity Record, they embark on a quest to uncover hidden worlds, including the mystical Gensokyo, the enigmatic Netherworld, and the celestial Moon. Their journey begins with the first Genso-Lunar war, promising a thrilling exploration of the backstories of various Touhou characters and Gensokyo itself. With their insatiable curiosity, Maribel and Renko delve into every detail, from casual conversations to profound discussions, leaving no stone unturned in their pursuit of knowledge about these elusive realms.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "e567bc7102c3ab1b",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.427763265306123,
     "arithmeticGeometricMean": 6.391536409490734,
     "median": 5.940816326530611,
-    "hash": "e567bc7102c3ab1b",
     "lastUpdate": "2024-05-09"
   }
 }

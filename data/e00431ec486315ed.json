@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "The Digital Universe, a realm inhabited by diverse digital creatures known as Digimon, faces an unprecedented crisis. Yggdrasil, the supercomputer that oversees this world, finds itself overwhelmed by the burgeoning population. To resolve this, Yggdrasil initiates a drastic measure: Project Ark, a system reboot that erases the existing world and its inhabitants to create a new one.\n\nA select few Digimon are chosen to populate the new world, while others, known as X-Antibody Digimon, survive unexpectedly. These survivors undergo a transformation, gaining unique powers and immunity to the X Program, the tool used for the erasure. However, Yggdrasil views these X-Antibody Digimon as anomalies and deploys its elite force, the Royal Knights, to eliminate them.\n\nAmong these X-Antibody Digimon is Dorumon, a young creature who, along with other allies, finds itself in a battle for survival and the future of their new home. As the Digital World teeters on the brink of chaos, the courage and resilience of these outcasts could be the last hope for restoring harmony.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "e00431ec486315ed",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.669391826427541,
     "arithmeticGeometricMean": 6.6537591820191135,
     "median": 6.768090909090909,
-    "hash": "e00431ec486315ed",
     "lastUpdate": "2024-05-09"
   }
 }

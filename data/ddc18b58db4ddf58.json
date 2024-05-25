@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Golden Kamuy 2 continues the story of Saichi Sugimoto, a veteran of the Russo-Japanese War, and Asirpa, an Ainu girl. They are searching for a hidden trove of Ainu gold, the map to which is tattooed on the skins of escaped prisoners. Their main rival is Lieutenant Tsurumi, who leads the 7th Division of the army. He hires Yasaku Edogai, a taxidermist, to create fake tattooed skins in order to misdirect his competitors. Sugimoto and Asirpa reluctantly join forces with Toshizou Hijikata and Hyakunosuke Ogata, two of the escaped convicts, to counter Tsurumi's scheme. The race intensifies as more players enter the hunt for the gold and the valuable tattooed skins. Betrayals and shifting alliances raise the stakes even higher in the unforgiving wilderness. Through perseverance and teamwork, Sugimoto and Asirpa have a fighting chance to decode the map and locate the hidden Ainu treasure before anyone else.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "ddc18b58db4ddf58",
-    "created": "2024-05-21",
     "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.182365286706649,
     "arithmeticGeometricMean": 8.181751369978283,
     "median": 8.206725417439703,
-    "hash": "ddc18b58db4ddf58",
     "lastUpdate": "2024-05-09"
   }
 }

@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Souichi, Lisa, and Lorna are eX-Drivers, a group of fearless high schoolers who possess an innate ability to operate gasoline-powered vehicles in a world dominated by AI-controlled electric cars. In this futuristic landscape, self-driving cars have become the norm, but chaos ensues when these AI vehicles malfunction or go rogue. Enter our eX-Driver trio, who, with their trusty non-AI cars – a Subaru WRX, a Caterham Super 7, and a Lotus Europa – must put their exceptional driving skills to the test to ensure the safety of the public and restore order. As the stakes rise and the speed intensifies, these young drivers must navigate thrilling showdowns filled with slick cars and heated competition. Will they be able to save the day and unravel the mystery behind the AI cars' strange behavior? Join Lisa, Lorna, and Souichi in their electrifying adventures as they prove that sometimes, nothing beats human intuition and skill.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "f922e4cede9bc74a",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.452665783196395,
     "arithmeticGeometricMean": 6.443602735179296,
     "median": 6.61,
-    "hash": "f922e4cede9bc74a",
     "lastUpdate": "2024-05-09"
   }
 }

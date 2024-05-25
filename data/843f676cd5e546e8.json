@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "The adventure begins when Luffy, Zoro, and Nami, the trio of the Straw Hat Pirates, find themselves marooned and famished in the middle of the ocean. Their peaceful moment is abruptly shattered by a monstrous attack, resulting in Nami's abduction and the duo, Luffy and Zoro, being washed ashore on an unfamiliar island. Here, they encounter Medaka, a brave local girl, who reveals the island's tragic tale of enslavement under the tyrannical Pirate Ganzack. Driven by the promise of a hearty meal and the desire to save Nami, Luffy and Zoro join forces with Medaka to infiltrate Ganzack's fortress. However, their rescue mission takes an unexpected turn when they discover Nami seemingly siding with the enemy. Will Luffy and Zoro manage to liberate the island, defeat Ganzack, and uncover the truth behind Nami's allegiance, all while satisfying their insatiable hunger?",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "843f676cd5e546e8",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.743909554730983,
     "arithmeticGeometricMean": 6.728884525271566,
     "median": 6.8104545454545455,
-    "hash": "843f676cd5e546e8",
     "lastUpdate": "2024-05-09"
   }
 }

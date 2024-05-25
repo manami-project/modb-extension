@@ -11,16 +11,12 @@
   "synopsis": {
     "text": "SVU2's Patlabor Unit takes center stage in this unique, three-episode anime series that playfully parodies mecha anime while offering insightful tidbits into the technology and operations behind the Patlabor series.\n\nThe first episode serves as an armament primer, unveiling the impressive weaponry and ammunition of the Patlabors, including the Ingram AV-98, and the tactical reasoning behind their design.\n\nIn the second episode, the focus shifts to the maintenance and intricate design of the Ingram 98-AV, while simultaneously poking fun at the commercial forces responsible for churning out kid-friendly, miniature versions of the mecha.\n\nLastly, the third episode uncovers the secret financial backing of the Special Vehicles Unit 2, expanding on a minor detail initially mentioned in the original TV series. This final installment provides a fresh perspective on how the unit remains operational.\n\nPrepare for a delightful and informative ride as this series offers an entertaining and enlightening exploration of the Patlabor universe.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "8d4b30add3fa5913",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.262127573107165,
     "arithmeticGeometricMean": 6.255158703111399,
     "median": 6.32,
-    "hash": "8d4b30add3fa5913",
     "lastUpdate": "2024-05-07"
   }
 }

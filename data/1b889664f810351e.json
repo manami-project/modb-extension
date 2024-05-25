@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "The not-so-distant future in Japan witnesses the commonplace existence of androids, designed to serve humans as everyday tools. The Robot Ethics Committee has instilled in society a mindset to treat androids no differently than household appliances. However, a faction of society, known as 'android-holics,' finds itself empathizing with these human-like machines, causing a social conundrum.\n\nRikuo, a high school student, has been raised to view androids as mere tools, devoid of human qualities. His perspective begins to shift when he stumbles upon peculiar data in the activity logs of his family's android, Sammy. Intrigued, Rikuo and his friend Masaki embark on a journey to trace Sammy's unusual behavior, leading them to a mysterious café, Eve no Jikan.\n\nThis café operates under a single, unique rule: humans and androids are to be treated equally. As Rikuo delves deeper into the world of Eve no Jikan, he grapples with his preconceived notions about androids, challenging his understanding of the relationship between humans and machines.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "1b889664f810351e",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 8.02677343159486,
     "arithmeticGeometricMean": 8.025216501587646,
     "median": 7.980612244897959,
-    "hash": "1b889664f810351e",
     "lastUpdate": "2024-05-09"
   }
 }

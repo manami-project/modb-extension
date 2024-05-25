@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "Set in the late 1800s during the Meiji Era in Japan, Rurouni Kenshin follows the story of Himura Kenshin, a gifted swordsman with a mysterious past. Known as the infamous assassin \"Hitokiri Battousai\" during the Revolution, Kenshin now wanders the country offering protection to those in need, determined never to kill again after the bloodshed of his earlier years. Though seeking a peaceful life, Kenshin soon finds himself embroiled in the dangers around him as he vows to defend the weak with his reverse-blade sword. In Tokyo, he meets Kamiya Kaoru, the owner of a kendo dojo being threatened by an imposter claiming to be Battousai. After helping Kaoru, she invites Kenshin to stay at her dojo where he forms new friendships with Myōjin Yahiko, a hotheaded young boy training under Kaoru, and Sagara Sanosuke, a streetfighter looking to challenge Kenshin's strength. However, the past Kenshin longs to escape returns to haunt him as Makoto Shishio, his replacement as assassin for the Ishin Shishi, gathers forces to overthrow the government. To protect his new life and ideals, Kenshin must face enemies old and new, confronting his days as Hitokiri Battousai while holding fast to his vow never to kill again. Through his devotion and redemption, Kenshin ultimately becomes not a weapon but a defender of life and justice in the new age.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "59eb2b658cb50963",
-    "created": "2024-05-22",
     "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 8.080442138897027,
     "arithmeticGeometricMean": 8.077925515947479,
     "median": 8.165454545454544,
-    "hash": "59eb2b658cb50963",
     "lastUpdate": "2024-05-09"
   }
 }

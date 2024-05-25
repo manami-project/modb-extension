@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "During the far-off future, the world's population has dwindled and reached a critical point, leading to the establishment of the \"Supernatural Renovation Project\" in Tokyo. The city is divided into various clusters, each governed by an artificial intelligence and populated by genetically modified inhabitants, resulting in unique cultures and societies. These clusters are isolated by towering walls, restricting travel and immigration, and most residents are content within their designated areas, unaware of the world beyond their walls.\n\nHowever, not everyone finds satisfaction within their assigned cluster. A clandestine organization emerges, dedicated to helping those who yearn for a life outside their current surroundings. By day, Equa, Ferres, and Martese are ordinary high school students, but by night, they transform into Extractors. These brave individuals risk their lives, navigating the dangers of transporting civilians across the heavily guarded city borders, providing their clients with a chance at a new life.\n\nAs the cluster moderators become increasingly aware of the Extractors' actions, the perils of their mission intensify. The group's determination to challenge the AI's utopian ideals and offer hope to the discontented puts them in direct conflict with the very system designed to preserve humanity. This is the thrilling tale of five Extractors who, against all odds, help those seeking a new beginning in a world of diverse appearances and strictly controlled societies.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "66fa95806dc1f0a2",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.200329313543598,
     "arithmeticGeometricMean": 6.164808337762194,
     "median": 6.382272727272728,
-    "hash": "66fa95806dc1f0a2",
     "lastUpdate": "2024-05-09"
   }
 }

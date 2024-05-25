@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "It's 2038, and Yuuma Sawatari is an elementary school student with a passion for all things space. When his parents gift him a robot named Nanako, he's initially underwhelmed by its mundane housekeeping functions. However, when Nanako's system crashes, something extraordinary happens: an alien entity takes over the robot's body, revealing that it's an extraterrestrial AI stranded on Earth after a spacecraft malfunction decades ago.\n\nFast forward to the summer of 2049, Yuuma and his friends are facing the impending demolition of their housing complex, which unbeknownst to them, has been serving as a camouflage for the stranded spacecraft. The alien AI, now inhabiting Nanako, pleads for Yuuma's help to return to space. Inspired by this incredible revelation, Yuuma and his friends embark on a mission to launch the spacecraft back into the cosmos, turning their last summer together into an unforgettable adventure.\n\nMeanwhile, Earth is on a collision course with a colossal comet, adding an urgent twist to their mission. As Yuuma navigates his love for space, robots, and the future of his planet, he must rally his friends to help the alien AI return home before it's too late.",
     "author": "mistral.mistral-large-2402-v1:0",
-    "coAuthors": [],
-    "hash": "3b54298efcf8cc4a",
-    "created": "2023-10-19",
     "lastUpdate": "2023-10-19"
   },
   "score": {
     "arithmeticMean": 6.477670500927642,
     "arithmeticGeometricMean": 6.454722613148472,
     "median": 6.26,
-    "hash": "3b54298efcf8cc4a",
     "lastUpdate": "2024-05-09"
   }
 }

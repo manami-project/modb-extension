@@ -12,16 +12,12 @@
   "synopsis": {
     "text": "In the distant future world of the 49th millennium, two quirky robots named Drossel von Flügel and Gedächtnis inhabit a grand mansion known as Tempest Tower. Drossel is the gynoid duchess and ruler of the domain, while Gedächtnis is her loyal cyclops servant. Though humanity is engaged in a war with machines, Drossel and Gedächtnis seem blithely unaware and unconcerned. Their days are spent having silly conversations about the peculiarities of human behavior and customs. Later, a robotic monkey named Schadenfreude joins their household. With childlike curiosity, the robot trio explores topics like pet ownership, letter writing, and communication while reveling in the simple joys of their isolated world within Tempest Tower. Though their existence may appear trivial and absurd, perhaps Drossel, Gedächtnis and Schadenfreude have discovered something profound about finding fulfillment in the little things.",
     "author": "anthropic.claude-v2:1",
-    "coAuthors": [],
-    "hash": "ae438a6d8e55b41d",
-    "created": "2024-05-20",
     "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.321127219719057,
     "arithmeticGeometricMean": 6.309387263154088,
     "median": 6.545454545454545,
-    "hash": "ae438a6d8e55b41d",
     "lastUpdate": "2024-05-09"
   }
 }
