@@ -29,9 +29,7 @@ internal class DefaultScoreCreatorTest {
             val result = scoreCreator.createScore(testSources)
 
             // then
-            assertThat(result).isEqualTo(Score(
-                hash= "ed5ae634ae663337",
-            ))
+            assertThat(result).isEqualTo(Score())
         }
     }
 

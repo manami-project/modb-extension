@@ -26,7 +26,6 @@ public class DefaultSynopsisWriter(
             is ExtensionData -> {
                 currentEntry.copy(
                     synopsis = synopsis.copy(
-                        hash = filename(sources, EMPTY),
                         lastUpdate = LocalDate.now(clock).format(ISO_LOCAL_DATE),
                     ),
                 )

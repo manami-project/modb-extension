@@ -19,19 +19,16 @@ public data object ScoreNoteFound: ScoreReturnValue()
  * @param arithmeticMean
  * @param arithmeticGeometricMean
  * @param median
- * @param hash
  * @param lastUpdate
  */
 public data class Score(
     val arithmeticMean: Double = 0.0,
     val arithmeticGeometricMean: Double = 0.0,
     val median: Double = 0.0,
-    val hash: String,
     private val lastUpdate: String = LocalDate.now().format(ISO_LOCAL_DATE),
 ): ScoreReturnValue() {
 
     init {
-        require(hash.neitherNullNorBlank()) { "Property 'hash' must not be blank." }
         require(YEAR_REGEX.matches(lastUpdate)) { "Property 'lastUpdate' must be set and match ISO_LOCAL_DATE format." }
         require(arithmeticMean in 0.0..10.0) { "Property 'arithmeticMean' must be within range 0.0 - 10.0." }
         require(arithmeticGeometricMean in 0.0..10.0) { "Property 'arithmeticGeometricMean' must be within range 0.0 - 10.0." }

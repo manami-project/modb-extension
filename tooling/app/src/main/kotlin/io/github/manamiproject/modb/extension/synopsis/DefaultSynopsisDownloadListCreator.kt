@@ -39,7 +39,7 @@ class DefaultSynopsisDownloadListCreator(
             val extensionData = Json.parseJson<ExtensionData>(fileContent)!!
             when (val synopsis = extensionData.synopsis()) {
                 is Synopsis -> {
-                    if (synopsis.hash != filename(extensionData.sources, EMPTY) || isRedownloadNecessary(redownloadEntriesOlderThan, synopsis.lastUpdatedAt)) {
+                    if (isRedownloadNecessary(redownloadEntriesOlderThan, synopsis.lastUpdatedAt)) {
                         ret.add(extensionData.sources.toHashSet())
                     }
                 }

@@ -40,7 +40,7 @@ class DefaultScoreDownloadListCreator(
 
             when (val score = extensionData.score()) {
                 is Score -> {
-                    if (score.hash != filename(extensionData.sources, EMPTY) || isRedownloadNecessary(redownloadEntriesOlderThan, score.lastUpdatedAt)) {
+                    if (isRedownloadNecessary(redownloadEntriesOlderThan, score.lastUpdatedAt)) {
                         ret.add(extensionData.sources.toHashSet())
                     }
                 }
