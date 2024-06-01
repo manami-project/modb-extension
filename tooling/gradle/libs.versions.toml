@@ -1,6 +1,6 @@
 [versions]
 kotlin = "2.0.0"
-guava-jre = "33.2.0-jre"
+guava-jre = "33.2.1-jre"
 modb-core = "12.1.1"
 modb-serde = "5.1.2"
 modb-anidb = "5.0.2"
