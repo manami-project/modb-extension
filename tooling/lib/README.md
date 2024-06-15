@@ -57,11 +57,24 @@ suspend fun main() {
     println("""
         ${deathNote.title}
         ${"-".repeat(deathNote.title.length)}        
-        arithmetic mean:           ${score.arithmeticMean}
+                  arithmetic mean: ${score.arithmeticMean}
         arithmetic geometric mean: ${score.arithmeticGeometricMean}
-        median:                    ${score.median}
+                           median: ${score.median}
         
         ${synopsis.text}
     """.trimIndent())
 }
+```
+
+Output:
+
+```
+Death Note
+----------
+
+          arithmetic mean: 8.655917642188147
+arithmetic geometric mean: 8.65518822146276
+                   median: 8.617492461145904
+
+Light Yagami is a brilliant high school student ...
 ```
