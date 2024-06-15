@@ -1,11 +1,11 @@
 package io.github.manamiproject.modb.extension.synopsis
 
 import io.github.manamiproject.modb.core.config.AnimeId
-import io.github.manamiproject.modb.core.downloader.Downloader
-import io.github.manamiproject.modb.extension.TestDownloader
+import io.github.manamiproject.modb.extension.TestConfig
+import io.github.manamiproject.modb.extension.TestRawDataRetriever
+import io.github.manamiproject.modb.extension.rawdata.RawDataRetriever
 import io.github.manamiproject.modb.myanimelist.MyanimelistConfig
 import io.github.manamiproject.modb.test.loadTestResource
-import io.github.manamiproject.modb.test.shouldNotBeInvoked
 import kotlinx.coroutines.runBlocking
 import org.assertj.core.api.Assertions.assertThat
 import java.net.URI
@@ -17,18 +17,13 @@ internal class MyanimelistRawSynopsisLoaderTest {
     fun `successfully load synopsis`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/myanimelist/synopsis.html")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/myanimelist/synopsis.html")
             }
 
             val scoreLoader = MyanimelistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -43,18 +38,13 @@ internal class MyanimelistRawSynopsisLoaderTest {
     fun `successfully load synopsis - includes-source`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/myanimelist/includes-source.html")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/myanimelist/includes-source.html")
             }
 
             val scoreLoader = MyanimelistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -69,18 +59,13 @@ internal class MyanimelistRawSynopsisLoaderTest {
     fun `successfully load synopsis - written-by`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/myanimelist/written-by.html")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/myanimelist/written-by.html")
             }
 
             val scoreLoader = MyanimelistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -95,18 +80,13 @@ internal class MyanimelistRawSynopsisLoaderTest {
     fun `returns NoRawSynopsis - season-info`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/myanimelist/season-info.html")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/myanimelist/season-info.html")
             }
 
             val scoreLoader = MyanimelistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -121,18 +101,13 @@ internal class MyanimelistRawSynopsisLoaderTest {
     fun `returns NoRawSynopsis - third-part`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/myanimelist/season-info.html")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/myanimelist/season-info.html")
             }
 
             val scoreLoader = MyanimelistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -147,18 +122,13 @@ internal class MyanimelistRawSynopsisLoaderTest {
     fun `returns NoRawSynopsis`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/myanimelist/no-synopsis.html")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/myanimelist/no-synopsis.html")
             }
 
             val scoreLoader = MyanimelistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when

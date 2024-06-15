@@ -3,30 +3,38 @@ package io.github.manamiproject.modb.extension.synopsis
 import io.github.manamiproject.modb.anidb.AnidbConfig
 import io.github.manamiproject.modb.anidb.AnidbDownloader
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
-import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.EMPTY
 import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
 import io.github.manamiproject.modb.core.extensions.normalize
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
+import io.github.manamiproject.modb.extension.config.Config
+import io.github.manamiproject.modb.extension.rawdata.DefaultRawDataRetriever
+import io.github.manamiproject.modb.extension.rawdata.RawDataRetriever
 import org.apache.commons.text.StringEscapeUtils
 import java.net.URI
 
 /**
  * @since 1.0.0
  * @property config
- * @property downloader
+ * @property rawDataRetriever
  * @property extractor
  */
 class AnidbRawSynopsisLoader(
+    private val appConfig: Config,
     private val config: MetaDataProviderConfig = AnidbConfig,
-    private val downloader: Downloader = AnidbDownloader(config),
+    private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
+        appConfig = appConfig,
+        config = config,
+        downloader = AnidbDownloader(config),
+    ),
     private val extractor: DataExtractor = XmlDataExtractor,
 ): RawSynopsisLoader {
 
     override suspend fun loadRawSynopsis(source: URI): RawSynopsisReturnValue {
         val id = config.extractAnimeId(source)
-        val content = downloader.download(id)
+        val content = rawDataRetriever.retrieveRawData(id)
+
         val data = extractor.extract(content, mapOf(
             "synopsis" to "//div[@itemprop='description']/text()",
         ))

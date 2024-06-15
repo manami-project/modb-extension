@@ -38,7 +38,7 @@ fun main() = runCoroutine {
         }
     }
 
-    val synopsisCreator = DefaultSynopsisCreator()
+    val synopsisCreator = DefaultSynopsisCreator(appConfig)
     val synopsisWriter = DefaultSynopsisWriter(localFileOrigin)
     downloadList.forEachIndexed { index, sourcesBlock ->
         println("Downloading [${index + 1}/${downloadList.size}]")

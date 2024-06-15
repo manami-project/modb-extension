@@ -13,7 +13,7 @@ import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
 import io.github.manamiproject.modb.core.extensions.normalize
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.JsonDataExtractor
-import io.github.manamiproject.modb.extension.filename
+import io.github.manamiproject.modb.extension.config.Config
 import io.github.manamiproject.modb.kitsu.KitsuConfig
 import io.github.manamiproject.modb.livechart.LivechartConfig
 import io.github.manamiproject.modb.myanimelist.MyanimelistConfig
@@ -32,15 +32,16 @@ import java.net.URI
  * @property extractor
  */
 class DefaultSynopsisCreator(
+    private val appConfig: Config,
     private val rawSynopsisLoader: Map<Hostname, RawSynopsisLoader> = mapOf(
-        AnidbConfig.hostname() to AnidbRawSynopsisLoader(),
-        AnilistConfig.hostname() to AnilistRawSynopsisLoader(),
-        AnimePlanetConfig.hostname() to AnimePlanetRawSynopsisLoader(),
-        AnisearchConfig.hostname() to AnisearchRawSynopsisLoader(),
-        KitsuConfig.hostname() to KitsuRawSynopsisLoader(),
-        LivechartConfig.hostname() to LivechartRawSynopsisLoader(),
-        MyanimelistConfig.hostname() to MyanimelistRawSynopsisLoader(),
-        NotifyConfig.hostname() to NotifyRawSynopsisLoader(),
+        AnidbConfig.hostname() to AnidbRawSynopsisLoader(appConfig),
+        AnilistConfig.hostname() to AnilistRawSynopsisLoader(appConfig),
+        AnimePlanetConfig.hostname() to AnimePlanetRawSynopsisLoader(appConfig),
+        AnisearchConfig.hostname() to AnisearchRawSynopsisLoader(appConfig),
+        KitsuConfig.hostname() to KitsuRawSynopsisLoader(appConfig),
+        LivechartConfig.hostname() to LivechartRawSynopsisLoader(appConfig),
+        MyanimelistConfig.hostname() to MyanimelistRawSynopsisLoader(appConfig),
+        NotifyConfig.hostname() to NotifyRawSynopsisLoader(appConfig),
     ),
     private val bedrockClient: BedrockRuntimeClient = BedrockRuntimeClient {
         region = "us-east-1"
