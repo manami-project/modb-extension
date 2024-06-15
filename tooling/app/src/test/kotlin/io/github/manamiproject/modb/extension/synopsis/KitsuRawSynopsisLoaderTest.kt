@@ -1,11 +1,11 @@
 package io.github.manamiproject.modb.extension.synopsis
 
 import io.github.manamiproject.modb.core.config.AnimeId
-import io.github.manamiproject.modb.core.downloader.Downloader
-import io.github.manamiproject.modb.extension.TestDownloader
+import io.github.manamiproject.modb.extension.TestConfig
+import io.github.manamiproject.modb.extension.TestRawDataRetriever
+import io.github.manamiproject.modb.extension.rawdata.RawDataRetriever
 import io.github.manamiproject.modb.kitsu.KitsuConfig
 import io.github.manamiproject.modb.test.loadTestResource
-import io.github.manamiproject.modb.test.shouldNotBeInvoked
 import kotlinx.coroutines.runBlocking
 import org.assertj.core.api.Assertions.assertThat
 import java.net.URI
@@ -17,18 +17,13 @@ internal class KitsuRawSynopsisLoaderTest {
     fun `successfully load synopsis`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/kitsu/synopsis.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/kitsu/synopsis.json")
             }
 
             val scoreLoader = KitsuRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -43,18 +38,13 @@ internal class KitsuRawSynopsisLoaderTest {
     fun `successfully load synopsis - written by`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/kitsu/written-by.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/kitsu/written-by.json")
             }
 
             val scoreLoader = KitsuRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -69,18 +59,13 @@ internal class KitsuRawSynopsisLoaderTest {
     fun `returns NoRawSynopsis - only-season-info`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/kitsu/only-season-info.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/kitsu/only-season-info.json")
             }
 
             val scoreLoader = KitsuRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -95,18 +80,13 @@ internal class KitsuRawSynopsisLoaderTest {
     fun `returns NoRawSynopsis`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/kitsu/no-synopsis.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/kitsu/no-synopsis.json")
             }
 
             val scoreLoader = KitsuRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when

@@ -3,7 +3,10 @@ package io.github.manamiproject.modb.extension.synopsis
 import io.github.manamiproject.modb.anilist.AnilistConfig
 import io.github.manamiproject.modb.core.config.AnimeId
 import io.github.manamiproject.modb.core.downloader.Downloader
+import io.github.manamiproject.modb.extension.TestConfig
 import io.github.manamiproject.modb.extension.TestDownloader
+import io.github.manamiproject.modb.extension.TestRawDataRetriever
+import io.github.manamiproject.modb.extension.rawdata.RawDataRetriever
 import io.github.manamiproject.modb.test.loadTestResource
 import io.github.manamiproject.modb.test.shouldNotBeInvoked
 import kotlinx.coroutines.runBlocking
@@ -17,18 +20,13 @@ internal class AnilistRawSynopsisLoaderTest {
     fun `successfully load synopsis`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/anilist/synopsis.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/anilist/synopsis.json")
             }
 
             val scoreLoader = AnilistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -43,18 +41,13 @@ internal class AnilistRawSynopsisLoaderTest {
     fun `successfully load synopsis - includes-adaption-source-note`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/anilist/includes-adaption-source-note.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/anilist/includes-adaption-source-note.json")
             }
 
             val scoreLoader = AnilistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -69,18 +62,13 @@ internal class AnilistRawSynopsisLoaderTest {
     fun `successfully load synopsis - includes-season-and-source`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/anilist/includes-season-and-source.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/anilist/includes-season-and-source.json")
             }
 
             val scoreLoader = AnilistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -95,18 +83,13 @@ internal class AnilistRawSynopsisLoaderTest {
     fun `successfully load synopsis - includes-source-and-note`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/anilist/includes-source-and-note.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/anilist/includes-source-and-note.json")
             }
 
             val scoreLoader = AnilistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -121,18 +104,13 @@ internal class AnilistRawSynopsisLoaderTest {
     fun `successfully load synopsis - includes-sources`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/anilist/includes-source.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/anilist/includes-source.json")
             }
 
             val scoreLoader = AnilistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -147,18 +125,13 @@ internal class AnilistRawSynopsisLoaderTest {
     fun `successfully load synopsis - season-info`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/anilist/season-info.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/anilist/season-info.json")
             }
 
             val scoreLoader = AnilistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -173,18 +146,13 @@ internal class AnilistRawSynopsisLoaderTest {
     fun `successfully load synopsis - season-info-and-note`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/anilist/season-info-and-note.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/anilist/season-info-and-note.json")
             }
 
             val scoreLoader = AnilistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -199,18 +167,13 @@ internal class AnilistRawSynopsisLoaderTest {
     fun `successfully load synopsis - specially-long-note`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/anilist/specially-long-note.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/anilist/specially-long-note.json")
             }
 
             val scoreLoader = AnilistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -225,18 +188,13 @@ internal class AnilistRawSynopsisLoaderTest {
     fun `returns NoRawSynopsis`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("synopsis/anilist/no-synopsis.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("synopsis/anilist/no-synopsis.json")
             }
 
             val scoreLoader = AnilistRawSynopsisLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
