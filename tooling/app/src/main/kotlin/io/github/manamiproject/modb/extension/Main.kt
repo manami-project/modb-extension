@@ -20,14 +20,17 @@ fun main() = runCoroutine {
     val sourcesFromDb = fetchSourcesFromDb(appConfig)
     val localFileOrigin = LocalFileOrigin(appConfig.dataDirectory())
     val existingFiles = fetchAllExistingFiles(appConfig)
+
     val newDbEntries = DefaultUpdatableItemsFinder(appConfig).findNewDbEntries(sourcesFromDb, existingFiles)
+    val scoreDownloadListCreator = DefaultScoreDownloadListCreator(appConfig)
+    val synopsisDownloadListCreator = DefaultSynopsisDownloadListCreator(appConfig)
+    val downloadList = newDbEntries.union(scoreDownloadListCreator.createDownloadList())
+        .union(synopsisDownloadListCreator.createDownloadList())
 
     val scoreCreator = DefaultScoreCreator()
     val scoreWriter = DefaultScoreWriter(localFileOrigin)
-    val scoreDownloadListCreator = DefaultScoreDownloadListCreator(appConfig)
-    val scoreDownloadList = newDbEntries.union(scoreDownloadListCreator.createDownloadList())
-    scoreDownloadList.forEachIndexed { index, sourcesBlock ->
-        println("Downloading [${index + 1}/${scoreDownloadList.size}]")
+    downloadList.forEachIndexed { index, sourcesBlock ->
+        println("Downloading [${index + 1}/${downloadList.size}]")
         delay(random(1500, 2000))
         val scoreReturnValue = scoreCreator.createScore(sourcesBlock)
         if (scoreReturnValue !is ScoreNoteFound) {
@@ -37,10 +40,8 @@ fun main() = runCoroutine {
 
     val synopsisCreator = DefaultSynopsisCreator()
     val synopsisWriter = DefaultSynopsisWriter(localFileOrigin)
-    val synopsisDownloadListCreator = DefaultSynopsisDownloadListCreator(appConfig)
-    val synopsisDownloadList = newDbEntries.union(synopsisDownloadListCreator.createDownloadList())
-    synopsisDownloadList.forEachIndexed { index, sourcesBlock ->
-        println("Downloading [${index + 1}/${synopsisDownloadList.size}]")
+    downloadList.forEachIndexed { index, sourcesBlock ->
+        println("Downloading [${index + 1}/${downloadList.size}]")
         delay(random(1500, 2000))
         val synopsisReturnValue = synopsisCreator.createSynopsis(sourcesBlock)
         if (synopsisReturnValue !is SynopsisNotFound) {
