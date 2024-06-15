@@ -1,6 +1,9 @@
 package io.github.manamiproject.modb.extension.updates
 
+import io.github.manamiproject.modb.core.extensions.Directory
 import io.github.manamiproject.modb.core.extensions.writeToFile
+import io.github.manamiproject.modb.extension.TestConfig
+import io.github.manamiproject.modb.extension.config.Config
 import io.github.manamiproject.modb.test.exceptionExpected
 import io.github.manamiproject.modb.test.tempDirectory
 import org.assertj.core.api.Assertions.assertThat
@@ -12,46 +15,16 @@ import kotlin.io.path.createFile
 internal class DefaultUpdatableItemsFinderTest {
 
     @Nested
-    inner class ConstructorTests {
-
-        @Test
-        fun `throws exception if directory doesn't exist`() {
-            tempDirectory {
-                // when
-                val result = exceptionExpected<IllegalArgumentException> {
-                    DefaultUpdatableItemsFinder(tempDir.resolve("unknown"))
-                }
-
-                // then
-                assertThat(result).hasMessage("Data directory either doesn't exist or is not a directory.")
-            }
-        }
-
-        @Test
-        fun `throws exception if path is not a directory`() {
-            tempDirectory {
-                // given
-                val path = tempDir.resolve("text.txt").createFile()
-
-                // when
-                val result = exceptionExpected<IllegalArgumentException> {
-                    DefaultUpdatableItemsFinder(path)
-                }
-
-                // then
-                assertThat(result).hasMessage("Data directory either doesn't exist or is not a directory.")
-            }
-        }
-    }
-
-    @Nested
     inner class FindUpdateItems {
 
         @Test
         fun `correctly returns new db entries`() {
             tempDirectory {
                 // given
-                val updateItemsFinder = DefaultUpdatableItemsFinder(tempDir)
+                val testConfig = object: Config by TestConfig {
+                    override fun dataDirectory(): Directory = tempDir
+                }
+                val updateItemsFinder = DefaultUpdatableItemsFinder(testConfig)
                 val testDbContent = setOf(
                     hashSetOf(
                         URI("https://example1.org"),
@@ -85,7 +58,10 @@ internal class DefaultUpdatableItemsFinderTest {
                     }
                 """.trimIndent().writeToFile(tempDir.resolve("5bab47db75e97361.json"))
 
-                val updateItemsFinder = DefaultUpdatableItemsFinder(tempDir)
+                val testConfig = object: Config by TestConfig {
+                    override fun dataDirectory(): Directory = tempDir
+                }
+                val updateItemsFinder = DefaultUpdatableItemsFinder(testConfig)
                 val testDbContent = setOf(
                     hashSetOf(
                         URI("https://example1.org"),
@@ -122,7 +98,10 @@ internal class DefaultUpdatableItemsFinderTest {
                     }
                 """.trimIndent().writeToFile(testFile)
 
-                val updateItemsFinder = DefaultUpdatableItemsFinder(tempDir)
+                val testConfig = object: Config by TestConfig {
+                    override fun dataDirectory(): Directory = tempDir
+                }
+                val updateItemsFinder = DefaultUpdatableItemsFinder(testConfig)
                 val testDbContent = emptySet<HashSet<URI>>()
 
                 // when
@@ -148,7 +127,10 @@ internal class DefaultUpdatableItemsFinderTest {
                     }
                 """.trimIndent().writeToFile(testFile)
 
-                val updateItemsFinder = DefaultUpdatableItemsFinder(tempDir)
+                val testConfig = object: Config by TestConfig {
+                    override fun dataDirectory(): Directory = tempDir
+                }
+                val updateItemsFinder = DefaultUpdatableItemsFinder(testConfig)
                 val testDbContent = setOf(
                     hashSetOf(
                         URI("https://example1.org"),
@@ -180,7 +162,10 @@ internal class DefaultUpdatableItemsFinderTest {
                     }
                 """.trimIndent().writeToFile(testFile)
 
-                val updateItemsFinder = DefaultUpdatableItemsFinder(tempDir)
+                val testConfig = object: Config by TestConfig {
+                    override fun dataDirectory(): Directory = tempDir
+                }
+                val updateItemsFinder = DefaultUpdatableItemsFinder(testConfig)
                 val testDbContent = setOf(
                     hashSetOf(
                         URI("https://example1.org"),

@@ -1,20 +1,17 @@
 package io.github.manamiproject.modb.extension.updates
 
-import io.github.manamiproject.modb.core.extensions.Directory
-import io.github.manamiproject.modb.core.extensions.directoryExists
+import io.github.manamiproject.modb.extension.config.Config
 import io.github.manamiproject.modb.extension.filename
 import java.net.URI
 import kotlin.io.path.deleteIfExists
 
 /**
  * @since 1.0.0
- * @property directory
+ * @property config
  */
-class DefaultUpdatableItemsFinder(private val directory: Directory): UpdatableItemsFinder {
-
-    init {
-        require(directory.directoryExists()) { "Data directory either doesn't exist or is not a directory." }
-    }
+class DefaultUpdatableItemsFinder(
+    private val config: Config
+): UpdatableItemsFinder {
 
     override suspend fun findNewDbEntries(
         sourcesFromDb: Set<HashSet<URI>>,
@@ -29,7 +26,7 @@ class DefaultUpdatableItemsFinder(private val directory: Directory): UpdatableIt
         existingFileNames.toMutableSet().apply {
             removeAll(expectedFilenameToDbSources.keys)
         }.forEach {
-            directory.resolve(it).deleteIfExists()
+            config.dataDirectory().resolve(it).deleteIfExists()
         }
 
         return newOrUpdatedEntriesInDb.values.toSet()
