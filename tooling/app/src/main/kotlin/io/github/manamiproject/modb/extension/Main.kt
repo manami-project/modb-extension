@@ -27,7 +27,7 @@ fun main() = runCoroutine {
     val downloadList = newDbEntries.union(scoreDownloadListCreator.createDownloadList())
         .union(synopsisDownloadListCreator.createDownloadList())
 
-    val scoreCreator = DefaultScoreCreator()
+    val scoreCreator = DefaultScoreCreator(appConfig)
     val scoreWriter = DefaultScoreWriter(localFileOrigin)
     downloadList.forEachIndexed { index, sourcesBlock ->
         println("Downloading [${index + 1}/${downloadList.size}]")

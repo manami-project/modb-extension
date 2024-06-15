@@ -1,5 +1,6 @@
 package io.github.manamiproject.modb.extension.score
 
+import io.github.manamiproject.modb.extension.TestConfig
 import kotlinx.coroutines.runBlocking
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
@@ -16,6 +17,7 @@ internal class DefaultScoreCreatorTest {
             }
 
             val scoreCreator = DefaultScoreCreator(
+                appConfig = TestConfig,
                 rawScoreLoader = mapOf(
                     "example.org" to testRawScoreLoader,
                 )
@@ -42,6 +44,7 @@ internal class DefaultScoreCreatorTest {
             }
 
             val scoreCreator = DefaultScoreCreator(
+                appConfig = TestConfig,
                 rawScoreLoader = mapOf(
                     "example.org" to testRawScoreLoader,
                 )
@@ -74,6 +77,7 @@ internal class DefaultScoreCreatorTest {
             }
 
             val scoreCreator = DefaultScoreCreator(
+                appConfig = TestConfig,
                 rawScoreLoader = mapOf(
                     "example1.org" to firstTestScoreLoader,
                     "example2.org" to secondTestScoreLoader,
@@ -112,6 +116,7 @@ internal class DefaultScoreCreatorTest {
             }
 
             val scoreCreator = DefaultScoreCreator(
+                appConfig = TestConfig,
                 rawScoreLoader = mapOf(
                     "example1.org" to firstTestScoreLoader,
                     "example2.org" to secondTestScoreLoader,
@@ -156,6 +161,7 @@ internal class DefaultScoreCreatorTest {
             }
 
             val scoreCreator = DefaultScoreCreator(
+                appConfig = TestConfig,
                 rawScoreLoader = mapOf(
                     "example1.org" to firstTestScoreLoader,
                     "example2.org" to secondTestScoreLoader,
@@ -218,6 +224,7 @@ internal class DefaultScoreCreatorTest {
             }
 
             val scoreCreator = DefaultScoreCreator(
+                appConfig = TestConfig,
                 rawScoreLoader = mapOf(
                     "example1.org" to firstTestScoreLoader,
                     "example2.org" to secondTestScoreLoader,
