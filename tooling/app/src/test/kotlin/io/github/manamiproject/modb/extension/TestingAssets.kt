@@ -1,7 +1,6 @@
 package io.github.manamiproject.modb.extension
 
-import io.github.manamiproject.modb.core.config.AnimeId
-import io.github.manamiproject.modb.core.config.ConfigRegistry
+import io.github.manamiproject.modb.core.config.*
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.Directory
 import io.github.manamiproject.modb.extension.config.Config
@@ -29,6 +28,17 @@ internal object TestConfigRegistry: ConfigRegistry {
 
 internal object TestConfig: Config {
     override fun dataDirectory(): Directory = shouldNotBeInvoked()
+    override fun rawFilesDirectory(): Directory = shouldNotBeInvoked()
+    override fun rawFilesDirectory(metaDataProviderConfig: MetaDataProviderConfig): Directory = shouldNotBeInvoked()
     override fun animeDataSet(): URI = shouldNotBeInvoked()
     override fun clock(): Clock = shouldNotBeInvoked()
+}
+
+internal object TestMetaDataProviderConfig: MetaDataProviderConfig {
+    override fun fileSuffix(): FileSuffix = shouldNotBeInvoked()
+    override fun hostname(): Hostname = shouldNotBeInvoked()
+    override fun buildAnimeLink(id: AnimeId): URI = shouldNotBeInvoked()
+    override fun buildDataDownloadLink(id: String): URI = shouldNotBeInvoked()
+    override fun extractAnimeId(uri: URI): AnimeId = shouldNotBeInvoked()
+    override fun isTestContext(): Boolean = true
 }
