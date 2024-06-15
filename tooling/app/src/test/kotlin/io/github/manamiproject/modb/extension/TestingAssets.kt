@@ -4,6 +4,7 @@ import io.github.manamiproject.modb.core.config.*
 import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extensions.Directory
 import io.github.manamiproject.modb.extension.config.Config
+import io.github.manamiproject.modb.extension.rawdata.RawDataRetriever
 import io.github.manamiproject.modb.test.shouldNotBeInvoked
 import java.net.URI
 import java.time.Clock
@@ -41,4 +42,8 @@ internal object TestMetaDataProviderConfig: MetaDataProviderConfig {
     override fun buildDataDownloadLink(id: String): URI = shouldNotBeInvoked()
     override fun extractAnimeId(uri: URI): AnimeId = shouldNotBeInvoked()
     override fun isTestContext(): Boolean = true
+}
+
+internal object TestRawDataRetriever: RawDataRetriever {
+    override suspend fun retrieveRawData(id: AnimeId): String = shouldNotBeInvoked()
 }

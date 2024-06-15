@@ -3,31 +3,38 @@ package io.github.manamiproject.modb.extension.score
 import io.github.manamiproject.modb.anisearch.AnisearchConfig
 import io.github.manamiproject.modb.anisearch.AnisearchDownloader
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
-import io.github.manamiproject.modb.core.downloader.Downloader
-import io.github.manamiproject.modb.core.extensions.EMPTY
 import io.github.manamiproject.modb.core.extensions.remove
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.JsonDataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
+import io.github.manamiproject.modb.extension.config.Config
+import io.github.manamiproject.modb.extension.rawdata.DefaultRawDataRetriever
+import io.github.manamiproject.modb.extension.rawdata.RawDataRetriever
 import java.net.URI
 
 /**
  * @since 1.0.0
  * @property config
- * @property downloader
+ * @property rawDataRetriever
  * @property xmlExtractor
  * @property jsonExtractor
  */
 class AnisearchRawScoreLoader(
+    private val appConfig: Config,
     private val config: MetaDataProviderConfig = AnisearchConfig,
-    private val downloader: Downloader = AnisearchDownloader(config),
+    private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
+        appConfig = appConfig,
+        config = config,
+        downloader = AnisearchDownloader(config),
+    ),
     private val xmlExtractor: DataExtractor = XmlDataExtractor,
     private val jsonExtractor: DataExtractor = JsonDataExtractor,
 ): RawScoreLoader {
 
     override suspend fun loadRawScore(source: URI): RawScoreReturnValue {
         val id = config.extractAnimeId(source)
-        val content = downloader.download(id)
+        val content = rawDataRetriever.retrieveRawData(id)
+
         val data = xmlExtractor.extract(content, mapOf(
             "jsonld" to "//script[@type='application/ld+json']/node()",
             "score" to "//td[contains(text(), 'Calculated Value')]/text()",

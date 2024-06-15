@@ -3,26 +3,34 @@ package io.github.manamiproject.modb.extension.score
 import io.github.manamiproject.modb.anidb.AnidbConfig
 import io.github.manamiproject.modb.anidb.AnidbDownloader
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
-import io.github.manamiproject.modb.core.downloader.Downloader
 import io.github.manamiproject.modb.core.extractor.DataExtractor
 import io.github.manamiproject.modb.core.extractor.XmlDataExtractor
+import io.github.manamiproject.modb.extension.config.Config
+import io.github.manamiproject.modb.extension.rawdata.DefaultRawDataRetriever
+import io.github.manamiproject.modb.extension.rawdata.RawDataRetriever
 import java.net.URI
 
 /**
  * @since 1.0.0
- * @property config
- * @property downloader
+ * @property appConfig
+ * @property rawDataRetriever
  * @property extractor
  */
 class AnidbRawScoreLoader(
+    private val appConfig: Config,
     private val config: MetaDataProviderConfig = AnidbConfig,
-    private val downloader: Downloader = AnidbDownloader(config),
+    private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
+        appConfig = appConfig,
+        config = config,
+        downloader = AnidbDownloader(config),
+    ),
     private val extractor: DataExtractor = XmlDataExtractor,
 ): RawScoreLoader {
 
     override suspend fun loadRawScore(source: URI): RawScoreReturnValue {
         val id = config.extractAnimeId(source)
-        val content = downloader.download(id)
+        val content = rawDataRetriever.retrieveRawData(id)
+
         val data = extractor.extract(content, mapOf(
             "score" to "//span[@data-label='Rating'][contains(@class, 'tmpanime')]/a/span/text()",
         ))

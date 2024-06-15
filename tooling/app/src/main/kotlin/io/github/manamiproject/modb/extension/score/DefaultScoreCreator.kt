@@ -6,8 +6,7 @@ import io.github.manamiproject.modb.animeplanet.AnimePlanetConfig
 import io.github.manamiproject.modb.anisearch.AnisearchConfig
 import io.github.manamiproject.modb.core.config.Hostname
 import io.github.manamiproject.modb.core.coroutines.ModbDispatchers.LIMITED_NETWORK
-import io.github.manamiproject.modb.core.extensions.EMPTY
-import io.github.manamiproject.modb.extension.filename
+import io.github.manamiproject.modb.extension.config.Config
 import io.github.manamiproject.modb.kitsu.KitsuConfig
 import io.github.manamiproject.modb.livechart.LivechartConfig
 import io.github.manamiproject.modb.myanimelist.MyanimelistConfig
@@ -26,15 +25,16 @@ import kotlin.math.sqrt
  * @property rawScoreLoader
  */
 class DefaultScoreCreator(
+    private val appConfig: Config,
     private val rawScoreLoader: Map<Hostname, RawScoreLoader> = mapOf(
-        AnidbConfig.hostname() to AnidbRawScoreLoader(),
-        AnilistConfig.hostname() to AnilistRawScoreLoader(),
-        AnimePlanetConfig.hostname() to AnimePlanetRawScoreLoader(),
-        AnisearchConfig.hostname() to AnisearchRawScoreLoader(),
-        KitsuConfig.hostname() to KitsuRawScoreLoader(),
-        LivechartConfig.hostname() to LivechartRawScoreLoader(),
-        MyanimelistConfig.hostname() to MyanimelistRawScoreLoader(),
-        NotifyConfig.hostname() to NotifyRawScoreLoader(),
+        AnidbConfig.hostname() to AnidbRawScoreLoader(appConfig),
+        AnilistConfig.hostname() to AnilistRawScoreLoader(appConfig),
+        AnimePlanetConfig.hostname() to AnimePlanetRawScoreLoader(appConfig),
+        AnisearchConfig.hostname() to AnisearchRawScoreLoader(appConfig),
+        KitsuConfig.hostname() to KitsuRawScoreLoader(appConfig),
+        LivechartConfig.hostname() to LivechartRawScoreLoader(appConfig),
+        MyanimelistConfig.hostname() to MyanimelistRawScoreLoader(appConfig),
+        NotifyConfig.hostname() to NotifyRawScoreLoader(appConfig),
     )
 ): ScoreCreator {
 

@@ -1,10 +1,10 @@
 package io.github.manamiproject.modb.extension.score
 
 import io.github.manamiproject.modb.core.config.AnimeId
-import io.github.manamiproject.modb.core.downloader.Downloader
-import io.github.manamiproject.modb.extension.TestDownloader
+import io.github.manamiproject.modb.extension.TestConfig
+import io.github.manamiproject.modb.extension.TestRawDataRetriever
+import io.github.manamiproject.modb.extension.rawdata.RawDataRetriever
 import io.github.manamiproject.modb.test.loadTestResource
-import io.github.manamiproject.modb.test.shouldNotBeInvoked
 import kotlinx.coroutines.runBlocking
 import org.assertj.core.api.Assertions.assertThat
 import java.net.URI
@@ -16,18 +16,13 @@ internal class AnilistRawScoreLoaderTest {
     fun `successfully load score`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("score/anilist/score.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("score/anilist/score.json")
             }
 
             val scoreLoader = AnilistRawScoreLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
@@ -42,18 +37,13 @@ internal class AnilistRawScoreLoaderTest {
     fun `returns NoRawScore`() {
         runBlocking {
             // given
-            val testDownloader = object: Downloader by TestDownloader {
-                override suspend fun download(id: AnimeId, onDeadEntry: suspend (AnimeId) -> Unit): String {
-                    return if (id == "1535") {
-                        loadTestResource("score/anilist/no-score.json")
-                    } else {
-                        shouldNotBeInvoked()
-                    }
-                }
+            val testRawDataRetriever = object: RawDataRetriever by TestRawDataRetriever {
+                override suspend fun retrieveRawData(id: AnimeId): String = loadTestResource("score/anilist/no-score.json")
             }
 
             val scoreLoader = AnilistRawScoreLoader(
-                downloader = testDownloader,
+                appConfig = TestConfig,
+                rawDataRetriever = testRawDataRetriever,
             )
 
             // when
