@@ -1,5 +1,6 @@
 package io.github.manamiproject.modb.extension.config
 
+import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
 import io.github.manamiproject.modb.core.extensions.Directory
 import io.github.manamiproject.modb.test.shouldNotBeInvoked
 import org.assertj.core.api.Assertions.assertThat
@@ -19,6 +20,8 @@ internal class ConfigTest {
             val systemDefaultZone = Clock.systemDefaultZone()
             val config = object : Config {
                 override fun dataDirectory(): Directory = shouldNotBeInvoked()
+                override fun rawFilesDirectory(): Directory = shouldNotBeInvoked()
+                override fun rawFilesDirectory(metaDataProviderConfig: MetaDataProviderConfig): Directory = shouldNotBeInvoked()
                 override fun animeDataSet(): URI = shouldNotBeInvoked()
             }
 
