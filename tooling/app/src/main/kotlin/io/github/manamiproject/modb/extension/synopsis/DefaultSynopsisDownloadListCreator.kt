@@ -14,7 +14,6 @@ import kotlin.io.path.forEachDirectoryEntry
 /**
  * @since 1.0.0
  * @property config
- * @property clock
  * @property extractor
  */
 class DefaultSynopsisDownloadListCreator(

@@ -19,17 +19,17 @@ import java.net.URI
 
 /**
  * @since 1.0.0
- * @property config
+ * @property metaDataProviderConfig
  * @property rawDataRetriever
  * @property extractor
  */
 class AnilistRawSynopsisLoader(
     private val appConfig: Config,
-    private val config: MetaDataProviderConfig = AnilistConfig,
+    private val metaDataProviderConfig: MetaDataProviderConfig = AnilistConfig,
     private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
         appConfig = appConfig,
-        config = config,
-        downloader = AnilistDownloader(config),
+        metaDataProviderConfig = metaDataProviderConfig,
+        downloader = AnilistDownloader(metaDataProviderConfig),
     ),
     private val extractor: DataExtractor = JsonDataExtractor,
 ): RawSynopsisLoader {
@@ -41,7 +41,7 @@ class AnilistRawSynopsisLoader(
     }
 
     override suspend fun loadRawSynopsis(source: URI): RawSynopsisReturnValue {
-        val id = config.extractAnimeId(source)
+        val id = metaDataProviderConfig.extractAnimeId(source)
         val content = rawDataRetriever.retrieveRawData(id)
 
         val data = extractor.extract(content, mapOf(

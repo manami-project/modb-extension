@@ -15,6 +15,10 @@ import kotlinx.coroutines.delay
 import java.net.URI
 import kotlin.io.path.forEachDirectoryEntry
 
+/**
+ * Main entry point
+ * @since 1.0.0
+ */
 fun main() = runCoroutine {
     val appConfig = AppConfig()
     val sourcesFromDb = fetchSourcesFromDb(appConfig)

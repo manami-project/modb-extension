@@ -41,7 +41,7 @@ internal class DefaultRawDataRetrieverTest {
 
                 val retriever = DefaultRawDataRetriever(
                     appConfig = testConfig,
-                    config = testMetaDataProviderConfig,
+                    metaDataProviderConfig = testMetaDataProviderConfig,
                     downloader = testDownloader,
                 )
 
@@ -68,7 +68,7 @@ internal class DefaultRawDataRetrieverTest {
 
                 val retriever = DefaultRawDataRetriever(
                     appConfig = testConfig,
-                    config = testMetaDataProviderConfig,
+                    metaDataProviderConfig = testMetaDataProviderConfig,
                     downloader = TestDownloader,
                 )
 

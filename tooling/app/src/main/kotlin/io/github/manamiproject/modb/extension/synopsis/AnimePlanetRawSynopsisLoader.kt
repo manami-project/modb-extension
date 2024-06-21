@@ -17,25 +17,25 @@ import java.net.URI
 
 /**
  * @since 1.0.0
- * @property config
+ * @property metaDataProviderConfig
  * @property rawDataRetriever
  * @property xmlExtractor
  * @property jsonExtractor
  */
 class AnimePlanetRawSynopsisLoader(
     private val appConfig: Config,
-    private val config: MetaDataProviderConfig = AnimePlanetConfig,
+    private val metaDataProviderConfig: MetaDataProviderConfig = AnimePlanetConfig,
     private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
         appConfig = appConfig,
-        config = config,
-        downloader = AnimePlanetDownloader(config),
+        metaDataProviderConfig = metaDataProviderConfig,
+        downloader = AnimePlanetDownloader(metaDataProviderConfig),
     ),
     private val xmlExtractor: DataExtractor = XmlDataExtractor,
     private val jsonExtractor: DataExtractor = JsonDataExtractor,
 ): RawSynopsisLoader {
 
     override suspend fun loadRawSynopsis(source: URI): RawSynopsisReturnValue {
-        val id = config.extractAnimeId(source)
+        val id = metaDataProviderConfig.extractAnimeId(source)
         val content = rawDataRetriever.retrieveRawData(id)
 
         val data = xmlExtractor.extract(content, mapOf(

@@ -14,18 +14,20 @@ import kotlinx.coroutines.runBlocking
 import java.net.URI
 
 /**
+ * Loads the score from anilist.co
  * @since 1.0.0
- * @property config
- * @property rawDataRetriever
- * @property extractor
+ * @property appConfig Application specific configuration.
+ * @property metaDataProviderConfig Configuration for a specific meta data provider. **Default:** [AnilistConfig]
+ * @property rawDataRetriever Handles the retrieval of raw data from the meta data provider so that the source doesn't matter for the caller.
+ * @property extractor Extracts specific data from the raw data.
  */
 class AnilistRawScoreLoader(
     private val appConfig: Config,
-    private val config: MetaDataProviderConfig = AnilistConfig,
+    private val metaDataProviderConfig: MetaDataProviderConfig = AnilistConfig,
     private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
         appConfig = appConfig,
-        config = config,
-        downloader = AnilistDownloader(config),
+        metaDataProviderConfig = metaDataProviderConfig,
+        downloader = AnilistDownloader(metaDataProviderConfig),
     ),
     private val extractor: DataExtractor = JsonDataExtractor,
 ): RawScoreLoader {
@@ -37,7 +39,7 @@ class AnilistRawScoreLoader(
     }
 
     override suspend fun loadRawScore(source: URI): RawScoreReturnValue {
-        val id = config.extractAnimeId(source)
+        val id = metaDataProviderConfig.extractAnimeId(source)
         val content = rawDataRetriever.retrieveRawData(id)
 
         val data = extractor.extract(content, mapOf(

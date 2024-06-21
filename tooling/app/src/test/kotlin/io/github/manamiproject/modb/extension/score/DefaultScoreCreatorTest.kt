@@ -18,7 +18,7 @@ internal class DefaultScoreCreatorTest {
 
             val scoreCreator = DefaultScoreCreator(
                 appConfig = TestConfig,
-                rawScoreLoader = mapOf(
+                rawScoreLoaders = mapOf(
                     "example.org" to testRawScoreLoader,
                 )
             )
@@ -45,7 +45,7 @@ internal class DefaultScoreCreatorTest {
 
             val scoreCreator = DefaultScoreCreator(
                 appConfig = TestConfig,
-                rawScoreLoader = mapOf(
+                rawScoreLoaders = mapOf(
                     "example.org" to testRawScoreLoader,
                 )
             )
@@ -78,7 +78,7 @@ internal class DefaultScoreCreatorTest {
 
             val scoreCreator = DefaultScoreCreator(
                 appConfig = TestConfig,
-                rawScoreLoader = mapOf(
+                rawScoreLoaders = mapOf(
                     "example1.org" to firstTestScoreLoader,
                     "example2.org" to secondTestScoreLoader,
                 )
@@ -117,7 +117,7 @@ internal class DefaultScoreCreatorTest {
 
             val scoreCreator = DefaultScoreCreator(
                 appConfig = TestConfig,
-                rawScoreLoader = mapOf(
+                rawScoreLoaders = mapOf(
                     "example1.org" to firstTestScoreLoader,
                     "example2.org" to secondTestScoreLoader,
                     "example3.org" to thirdTestScoreLoader,
@@ -162,7 +162,7 @@ internal class DefaultScoreCreatorTest {
 
             val scoreCreator = DefaultScoreCreator(
                 appConfig = TestConfig,
-                rawScoreLoader = mapOf(
+                rawScoreLoaders = mapOf(
                     "example1.org" to firstTestScoreLoader,
                     "example2.org" to secondTestScoreLoader,
                     "example3.org" to thirdTestScoreLoader,
@@ -225,7 +225,7 @@ internal class DefaultScoreCreatorTest {
 
             val scoreCreator = DefaultScoreCreator(
                 appConfig = TestConfig,
-                rawScoreLoader = mapOf(
+                rawScoreLoaders = mapOf(
                     "example1.org" to firstTestScoreLoader,
                     "example2.org" to secondTestScoreLoader,
                     "example3.org" to thirdTestScoreLoader,

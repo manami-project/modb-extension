@@ -16,23 +16,23 @@ import java.net.URI
 
 /**
  * @since 1.0.0
- * @property config
+ * @property metaDataProviderConfig
  * @property rawDataRetriever
  * @property extractor
  */
 class AnisearchRawSynopsisLoader(
     private val appConfig: Config,
-    private val config: MetaDataProviderConfig = AnisearchConfig,
+    private val metaDataProviderConfig: MetaDataProviderConfig = AnisearchConfig,
     private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
         appConfig = appConfig,
-        config = config,
-        downloader = AnisearchDownloader(config),
+        metaDataProviderConfig = metaDataProviderConfig,
+        downloader = AnisearchDownloader(metaDataProviderConfig),
     ),
     private val extractor: DataExtractor = XmlDataExtractor,
 ): RawSynopsisLoader {
 
     override suspend fun loadRawSynopsis(source: URI): RawSynopsisReturnValue {
-        val id = config.extractAnimeId(source)
+        val id = metaDataProviderConfig.extractAnimeId(source)
         val content = rawDataRetriever.retrieveRawData(id)
 
         val data = extractor.extract(content, mapOf(

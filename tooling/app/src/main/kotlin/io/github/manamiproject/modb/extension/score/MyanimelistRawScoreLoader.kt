@@ -11,24 +11,26 @@ import io.github.manamiproject.modb.myanimelist.MyanimelistDownloader
 import java.net.URI
 
 /**
+ * Loads the score from myanimelist.net
  * @since 1.0.0
- * @property config
- * @property rawDataRetriever
- * @property extractor
+ * @property appConfig Application specific configuration.
+ * @property metaDataProviderConfig Configuration for a specific meta data provider. **Default:** [MyanimelistConfig]
+ * @property rawDataRetriever Handles the retrieval of raw data from the meta data provider so that the source doesn't matter for the caller.
+ * @property extractor Extracts specific data from the raw data.
  */
 class MyanimelistRawScoreLoader(
     private val appConfig: Config,
-    private val config: MetaDataProviderConfig = MyanimelistConfig,
+    private val metaDataProviderConfig: MetaDataProviderConfig = MyanimelistConfig,
     private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
         appConfig = appConfig,
-        config = config,
-        downloader = MyanimelistDownloader(config),
+        metaDataProviderConfig = metaDataProviderConfig,
+        downloader = MyanimelistDownloader(metaDataProviderConfig),
     ),
     private val extractor: DataExtractor = XmlDataExtractor,
 ): RawScoreLoader {
 
     override suspend fun loadRawScore(source: URI): RawScoreReturnValue {
-        val id = config.extractAnimeId(source)
+        val id = metaDataProviderConfig.extractAnimeId(source)
         val content = rawDataRetriever.retrieveRawData(id)
 
         val data = extractor.extract(content, mapOf(

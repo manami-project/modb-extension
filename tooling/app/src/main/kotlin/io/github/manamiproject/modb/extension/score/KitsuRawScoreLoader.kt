@@ -11,24 +11,26 @@ import io.github.manamiproject.modb.kitsu.KitsuDownloader
 import java.net.URI
 
 /**
+ * Loads the score from kitsu.io
  * @since 1.0.0
- * @property config
- * @property rawDataRetriever
- * @property extractor
+ * @property appConfig Application specific configuration.
+ * @property metaDataProviderConfig Configuration for a specific meta data provider. **Default:** [KitsuConfig]
+ * @property rawDataRetriever Handles the retrieval of raw data from the meta data provider so that the source doesn't matter for the caller.
+ * @property extractor Extracts specific data from the raw data.
  */
 class KitsuRawScoreLoader(
     private val appConfig: Config,
-    private val config: MetaDataProviderConfig = KitsuConfig,
+    private val metaDataProviderConfig: MetaDataProviderConfig = KitsuConfig,
     private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
         appConfig = appConfig,
-        config = config,
-        downloader = KitsuDownloader(config),
+        metaDataProviderConfig = metaDataProviderConfig,
+        downloader = KitsuDownloader(metaDataProviderConfig),
     ),
     private val extractor: DataExtractor = JsonDataExtractor,
 ): RawScoreLoader {
 
     override suspend fun loadRawScore(source: URI): RawScoreReturnValue {
-        val id = config.extractAnimeId(source)
+        val id = metaDataProviderConfig.extractAnimeId(source)
         val content = rawDataRetriever.retrieveRawData(id)
 
         val data = extractor.extract(content, mapOf(

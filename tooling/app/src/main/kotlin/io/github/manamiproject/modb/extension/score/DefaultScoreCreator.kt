@@ -21,12 +21,15 @@ import kotlin.math.round
 import kotlin.math.sqrt
 
 /**
+ * Creates aggregated [Score] values for an anime.
+ * It's response for loading scores from all meta data providers, normalizing them and creating the respective scores.
  * @since 1.0.0
- * @property rawScoreLoader
+ * @property appConfig Application specific configuration.
+ * @property rawScoreLoaders Score loader for each meta data provider.
  */
 class DefaultScoreCreator(
     private val appConfig: Config,
-    private val rawScoreLoader: Map<Hostname, RawScoreLoader> = mapOf(
+    private val rawScoreLoaders: Map<Hostname, RawScoreLoader> = mapOf(
         AnidbConfig.hostname() to AnidbRawScoreLoader(appConfig),
         AnilistConfig.hostname() to AnilistRawScoreLoader(appConfig),
         AnimePlanetConfig.hostname() to AnimePlanetRawScoreLoader(appConfig),
@@ -42,7 +45,7 @@ class DefaultScoreCreator(
         val jobs = mutableListOf<Deferred<RawScoreReturnValue>>()
 
         sources.forEach {
-            jobs.add(async { rawScoreLoader[it.host]!!.loadRawScore(it) })
+            jobs.add(async { rawScoreLoaders[it.host]!!.loadRawScore(it) })
         }
 
         val rawScores = jobs.awaitAll()

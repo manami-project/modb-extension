@@ -11,24 +11,26 @@ import io.github.manamiproject.modb.notify.NotifyDownloader
 import java.net.URI
 
 /**
+ * Loads the score from notify.moe
  * @since 1.0.0
- * @property config
- * @property rawDataRetriever
- * @property extractor
+ * @property appConfig Application specific configuration.
+ * @property metaDataProviderConfig Configuration for a specific meta data provider. **Default:** [NotifyConfig]
+ * @property rawDataRetriever Handles the retrieval of raw data from the meta data provider so that the source doesn't matter for the caller.
+ * @property extractor Extracts specific data from the raw data.
  */
 class NotifyRawScoreLoader(
     private val appConfig: Config,
-    private val config: MetaDataProviderConfig = NotifyConfig,
+    private val metaDataProviderConfig: MetaDataProviderConfig = NotifyConfig,
     private val rawDataRetriever: RawDataRetriever = DefaultRawDataRetriever(
         appConfig = appConfig,
-        config = config,
-        downloader = NotifyDownloader(config),
+        metaDataProviderConfig = metaDataProviderConfig,
+        downloader = NotifyDownloader(metaDataProviderConfig),
     ),
     private val extractor: DataExtractor = JsonDataExtractor,
 ): RawScoreLoader {
 
     override suspend fun loadRawScore(source: URI): RawScoreReturnValue {
-        val id = config.extractAnimeId(source)
+        val id = metaDataProviderConfig.extractAnimeId(source)
         val content = rawDataRetriever.retrieveRawData(id)
 
         val data = extractor.extract(content, mapOf(
