@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Conan’s days of masquerading as Edogawa Conan may be numbered as the menacing Black Syndicate edges closer to uncovering the truth about Kudou Shinichi's survival. In a race against time, Conan must unravel a series of six interconnected murders to protect himself and those around him from a deadly fate. The stakes are raised when he discovers that one of the murder victims was an undercover agent for the syndicate, and the killer now possesses a memory card containing the identities of all their covert envoys. As Conan delves deeper into the investigation, he realizes that the Black Corporation, responsible for administering the Apotoxin-4869 that transformed him into a child, has infiltrated the police force. With someone secretly investigating him, Conan must navigate a dangerous web of deception to uncover the identity of the killer, retrieve the stolen data, and expose the disguised agent codenamed 'Irish' before it's too late. Will Conan's true identity remain hidden, or will the Black Syndicate finally catch up to him?",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 8.105502044252043,
     "arithmeticGeometricMean": 8.104406983646365,
-    "median": 8.147272727272727,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 8.147272727272727
+  },
+  "lastUpdate": "2024-05-09"
 }

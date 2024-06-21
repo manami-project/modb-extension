@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "First synopsis:\nIn the twilight of the Universal Century, the Earth Federation embarks on a daring mission to launch a spacecraft capable of surpassing the speed of light. However, their efforts are thwarted by a surprise attack from the Zeon forces, who ruthlessly destroy the launch facility. Despite the devastation, the Federation manages to deploy the craft just in time.\n\nSecond synopsis:\nThe late Universal Century witnesses the Earth Federation's ambitious endeavor to launch a spacecraft that can travel faster than light. This project is showcased in a special screening alongside The Impression of First Gundam. However, the Zeon forces launch a sudden assault on the launch facility, leaving it in ruins. Nevertheless, the Federation succeeds in deploying the craft before it's too late.\n\nThird synopsis:\nThe year is 2045, and the Earth's population has exploded to a staggering ninety billion. With the Roman calendar replaced by a new universal one, humanity is on a desperate quest for new habitats. Equipped with their latest invention, the Mobile Suit RX-78, humans set forth into the cosmos, only to find themselves embroiled in a raging interstellar war.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 5.493108578496334,
     "arithmeticGeometricMean": 5.484309075299581,
-    "median": 5.333333333333333,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 5.333333333333333
+  },
+  "lastUpdate": "2024-05-09"
 }

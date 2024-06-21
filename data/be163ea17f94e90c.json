@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Yggdrasil, a once-renowned virtual reality game, faces an unexpected shutdown in the year 2138. Dedicated player Momonga, a formidable wizard and guild master of Ainz Ooal Gown, chooses to remain logged in during the game's final moments. As the clock strikes midnight, instead of being logged out, Momonga finds himself trapped within the game as his skeletal avatar, surrounded by NPCs who have developed human-like emotions.\n\nIn this new reality, Momonga retains his character's incredible powers and the loyalty of his NPC servants. With no family, friends, or social ties outside the game, Momonga embraces his new identity as Ainz Ooal Gown and sets out to conquer this transformed world. As he explores and tests his strength against local foes and legendary beasts, he discovers that no adversary can withstand his might.\n\nNow a powerful overlord, Momonga commands his devoted NPCs to help him unravel the mystery behind this strange turn of events and search for other players who may have shared his fate. As the lines between reality and fantasy blur, the inhabitants of Yggdrasil are left to question who is truly trapped within this new world.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 8.04290820165356,
     "arithmeticGeometricMean": 8.040804527842132,
-    "median": 8.12772557099272,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 8.12772557099272
+  },
+  "lastUpdate": "2024-05-09"
 }

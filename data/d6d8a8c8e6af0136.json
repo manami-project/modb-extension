@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Joe, a young man with a heart of gold, a captivating woman, a seasoned ex-soldier, a tech-savvy hacker girl, and a perplexing old man find themselves in an eerie, isolated prison with only a cat for company. One day, a sudden blackout unlocks all the cells, yet the guards have vanished, and escape routes are nowhere to be found. As the old man engages in peculiar behavior, an extraordinary event unfolds, hinting that the key to their confinement may lie with him. Unraveling this enigmatic locked room mystery becomes their only hope for survival and freedom.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 5.965294990723562,
     "arithmeticGeometricMean": 5.960369314892645,
-    "median": 6.0,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 6.0
+  },
+  "lastUpdate": "2024-05-09"
 }

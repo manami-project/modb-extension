@@ -9,13 +9,12 @@
   ],
   "synopsis": {
     "text": "The anime follows six high school tankery teams as they compete in an intense tournament called the Winter Continuous Track Cup. The quarterfinals feature several pivotal matches: Ooarai Girls Academy continues its 12-hour battle against Chi-Ha-Tan Academy in dense jungle terrain. Both sides are exhausted, but Ooarai's captain Miho Nishizumi presses on, hoping to gain the upper hand. Meanwhile, Kuromorimine Girls Academy struggles under new captain Erika Itsumi against the mighty Pravda High School team. However, Erika breaks free of Kuromorimine's rigid tactics and begins to turn the tide. St. Gloriana Girls College and Anzio High School trade shots in their quarterfinal bout. Saunders University High School faces a tough challenge against the underdog yet mysterious Jouko and Continuation High School. With only four semifinal spots available, the teams give everything they've got in hopes of advancing further in this action-packed tankery tournament. Creative strategies and unwavering determination are paramount to survive and succeed.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.9324242424242435,
     "arithmeticGeometricMean": 7.926014562191127,
-    "median": 8.13090909090909,
-    "lastUpdate": "2024-05-06"
-  }
+    "median": 8.13090909090909
+  },
+  "lastUpdate": "2024-05-21"
 }

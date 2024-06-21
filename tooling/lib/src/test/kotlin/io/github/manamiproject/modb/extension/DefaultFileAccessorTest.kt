@@ -11,9 +11,11 @@ import io.github.manamiproject.modb.test.exceptionExpected
 import io.github.manamiproject.modb.test.tempDirectory
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Nested
-import org.junit.jupiter.api.Test
+import kotlin.test.Test
 import java.net.URI
 import java.net.URL
+import java.time.LocalDate
+import java.time.format.DateTimeFormatter
 import kotlin.io.path.createFile
 import kotlin.io.path.writeText
 
@@ -51,20 +53,14 @@ internal class DefaultFileAccessorTest {
                       ],
                       "synopsis": {
                         "text": "text-value",
-                        "author": "author-value",
-                        "coAuthors": [
-                          "coAuthor-value1",
-                          "coAuthor-value2"
-                        ],
-                        "hash": "049073efcafb1e52",
-                        "created": "2024-01-01",
-                        "lastUpdate": "2024-01-02"
+                        "author": "author-value"
                       },
                       "score": {
-                        "arithmeticMean": 5.0,
-                        "hash": "049073efcafb1e52",
-                        "lastUpdate": "2024-01-03"
-                      }
+                        "arithmeticMean": 5.1,
+                        "arithmeticGeometricMean": 5.0,
+                        "median": 4.9
+                      },
+                      "lastUpdate": "2024-01-03"
                     }
                 """.trimIndent()
 
@@ -75,12 +71,13 @@ internal class DefaultFileAccessorTest {
                     Synopsis(
                         text = "text-value",
                         author = "author-value",
-                        lastUpdate = "2024-01-02",
                     ),
                     score = Score(
-                        arithmeticMean = 5.0,
-                        lastUpdate = "2024-01-03",
+                        arithmeticMean = 5.1,
+                        arithmeticGeometricMean = 5.0,
+                        median = 4.9,
                     ),
+                    lastUpdate = "2024-01-03",
                 )
 
                 val dir = LocalFileOrigin(tempDir)
@@ -243,12 +240,13 @@ internal class DefaultFileAccessorTest {
                     Synopsis(
                         text = "text-value",
                         author = "author-value",
-                        lastUpdate = "2024-01-02",
                     ),
                     score = Score(
-                        arithmeticMean = 5.0,
-                        lastUpdate = "2024-01-03",
+                        arithmeticMean = 5.1,
+                        arithmeticGeometricMean = 5.0,
+                        median = 4.9,
                     ),
+                    lastUpdate = "2024-01-03",
                 )
 
                 val content = """
@@ -265,20 +263,14 @@ internal class DefaultFileAccessorTest {
                       ],
                       "synopsis": {
                         "text": "text-value",
-                        "author": "author-value",
-                        "coAuthors": [
-                          "coAuthor-value1",
-                          "coAuthor-value2"
-                        ],
-                        "hash": "049073efcafb1e52",
-                        "created": "2024-01-01",
-                        "lastUpdate": "2024-01-02"
+                        "author": "author-value"
                       },
                       "score": {
-                        "arithmeticMean": 5.0,
-                        "hash": "049073efcafb1e52",
-                        "lastUpdate": "2024-01-03"
-                      }
+                        "arithmeticMean": 5.1,
+                        "arithmeticGeometricMean": 5.0,
+                        "median": 4.9
+                      },
+                      "lastUpdate": "2024-01-03"
                     }
                 """.trimIndent()
 
@@ -394,12 +386,13 @@ internal class DefaultFileAccessorTest {
                     Synopsis(
                         text = "text-value",
                         author = "author-value",
-                        lastUpdate = "2024-01-02",
                     ),
                     score = Score(
-                        arithmeticMean = 5.0,
-                        lastUpdate = "2024-01-03",
+                        arithmeticMean = 5.1,
+                        arithmeticGeometricMean = 5.0,
+                        median = 4.9,
                     ),
+                    lastUpdate = "2024-01-03",
                 )
 
                 val content = """
@@ -416,20 +409,14 @@ internal class DefaultFileAccessorTest {
                       ],
                       "synopsis": {
                         "text": "text-value",
-                        "author": "author-value",
-                        "coAuthors": [
-                          "coAuthor-value1",
-                          "coAuthor-value2"
-                        ],
-                        "hash": "049073efcafb1e52",
-                        "created": "2024-01-01",
-                        "lastUpdate": "2024-01-02"
+                        "author": "author-value"
                       },
                       "score": {
-                        "arithmeticMean": 5.0,
-                        "hash": "049073efcafb1e52",
-                        "lastUpdate": "2024-01-03"
-                      }
+                        "arithmeticMean": 5.1,
+                        "arithmeticGeometricMean": 5.0,
+                        "median": 4.9
+                      },
+                      "lastUpdate": "2024-01-03"
                     }
                 """.trimIndent()
 
@@ -514,7 +501,8 @@ internal class DefaultFileAccessorTest {
                         "https://livechart.me/anime/3437",
                         "https://myanimelist.net/anime/1535",
                         "https://notify.moe/anime/0-A-5Fimg"
-                      ]
+                      ],
+                      "lastUpdate": "${LocalDate.now().format(DateTimeFormatter.ISO_LOCAL_DATE)}"
                     }
                 """.trimIndent())
             }
@@ -543,12 +531,13 @@ internal class DefaultFileAccessorTest {
                     Synopsis(
                         text = "text-value",
                         author = "author-value",
-                        lastUpdate = "2024-01-02",
                     ),
                     score = Score(
-                        arithmeticMean = 5.0,
-                        lastUpdate = "2024-01-03",
+                        arithmeticMean = 5.1,
+                        arithmeticGeometricMean = 5.0,
+                        median = 4.9,
                     ),
+                    lastUpdate = "2024-01-03",
                 )
 
                 // when
@@ -570,15 +559,14 @@ internal class DefaultFileAccessorTest {
                       ],
                       "synopsis": {
                         "text": "text-value",
-                        "author": "author-value",
-                        "lastUpdate": "2024-01-02"
+                        "author": "author-value"
                       },
                       "score": {
-                        "arithmeticMean": 5.0,
-                        "arithmeticGeometricMean": 0.0,
-                        "median": 0.0,
-                        "lastUpdate": "2024-01-03"
-                      }
+                        "arithmeticMean": 5.1,
+                        "arithmeticGeometricMean": 5.0,
+                        "median": 4.9
+                      },
+                      "lastUpdate": "2024-01-03"
                     }
                 """.trimIndent())
             }

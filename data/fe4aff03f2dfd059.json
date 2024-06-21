@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "The story is set in the Kansei era of Japan's Edo period (1789-1800), a time when entertainment was strictly restricted under the \"Kansei Reforms\". In this setting, a man from modern-day Japan travels back in time and decides to produce a group of six Edo-period girls as idols using his knowledge of modern idol culture. The girls come from different walks of life - there is a teahouse girl, a samurai girl, a girl from a Dutch trading house, a merchant's daughter, an oiran (high-ranking courtesan), and a female ninja (kunoichi). Though they live very different lives, they share a feeling of being restricted and wanting more from life, like \"a bird trapped in a basket\". When the time traveler introduces them to the idea of being idols, it explodes their way of thinking and opens up new possibilities for them. He produces them into a group and they perform songs and dances like modern Japanese idols, despite the strict controls on entertainment in their era. Through becoming idols, the six girls find self-expression and liberation from the societal restrictions of the Kansei period.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-20"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 6.316675324675325,
     "arithmeticGeometricMean": 6.309371711492695,
-    "median": 6.014285714285713,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 6.014285714285713
+  },
+  "lastUpdate": "2024-05-20"
 }

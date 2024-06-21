@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "In a futuristic world, nations battle using giant humanoid weapons called Titanostrides. Troops converge on Oahu, Hawaii, including Isami Ao of Japan's military and Lewis Smith of the U.S. Marines. These soldiers cross paths on the battlefield but are attacked by an unknown enemy aircraft, scattering their forces. To save their comrades and survive, Isami and Smith must set aside their differences. Together, these unlikely allies need to muster all their courage and skill to defeat this mysterious new threat looming over the island.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-20"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.405666975881261,
     "arithmeticGeometricMean": 7.399786624568388,
-    "median": 7.585,
-    "lastUpdate": "2024-05-10"
-  }
+    "median": 7.585
+  },
+  "lastUpdate": "2024-05-20"
 }

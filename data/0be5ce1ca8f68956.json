@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Set in the near future, \"Proud Father\" tells the story of Okamura Aya (nicknamed \"Aachan\"), a young woman who has recently begun living on her own and working after graduation. Aachan's mother, a doctor, works overseas, while her aging father Kouji and the family cat Mii-san remain in the family home. One evening after a tiring day at her new job, Aachan returns to her small apartment. As she lies in bed, memories of happier times with her close-knit family flood her mind - her parents' loving relationship, and the comfort she found in Mii-san after her mother left for work abroad. Aachan recalls feeling a sense of loss and longing. Now there is an awkward disconnect between Aachan and her father despite Kouji's attempts to reach out. That very night, just as Aachan is awash in nostalgia, she receives an abrupt phone call delivering sudden news that may bring this separated family back together.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-22"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.306826234811068,
     "arithmeticGeometricMean": 7.305087696859371,
-    "median": 7.291363636363636,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 7.291363636363636
+  },
+  "lastUpdate": "2024-05-22"
 }

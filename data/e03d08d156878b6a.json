@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Cities once united under a shared lunar government now stand divided, each vying for dominance in the year 2190. A century earlier, Earth had suffered an unimaginable catastrophe known as 'The Great Fall', a pole shift that tilted the Earth's axis by 90 degrees, claiming the lives of ten billion people. Amidst this chaos, two million moon colonists survived, having previously escaped the planet. They established the Panhuman World Government (PWG) on the moon and embarked on a mission to repopulate Earth, constructing seven cities as the foundation of this colossal endeavor.\n\nTo maintain control over the new colonies, the PWG created a highly advanced defense system, the Olympos-System, which prevented any aerial object from surpassing 500 meters above the ground, effectively eliminating aviation and navigation technology. However, in 2136, the lunar government was wiped out by an unknown virus, leaving the Olympos-System active with a lifespan of approximately 200 years.\n\nNow, in the wake of this devastation, the seven cities engage in warfare, with two gifted military strategists from opposing cities poised to collide in an epic confrontation. The balance of power among the cities teeters on the brink of collapse, and the fate of the world hangs in the balance.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 6.034589451364961,
     "arithmeticGeometricMean": 6.023035841045387,
-    "median": 6.01,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 6.01
+  },
+  "lastUpdate": "2024-05-09"
 }

@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "The story follows Seiko Nagare, a 17-year-old high school student with a strong sense of justice, who finds herself entangled in a murder mystery while on a trip to Nagasaki. After standing up against her best friend's bullies and receiving a temporary suspension from school, Seiko embarks on a journey with her cat, Gonbee. On the night train, she encounters a captivating young man who resembles someone reported dead in the newspaper. As she explores Nagasaki's famous sights, Seiko becomes involved in a murder case when she recognizes the man from the train. With the help of her persistent train companion, Chuuta Misora, Seiko narrowly avoids being arrested by the police. However, the mystery deepens as more bodies begin to surface. Based on a series of young-adult novels for women by Yamaura Hiroyasu, this detective story will keep you on the edge of your seat as Seiko navigates the complexities of this thrilling murder investigation.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 5.678171746620726,
     "arithmeticGeometricMean": 5.656653160635323,
-    "median": 5.2727272727272725,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 5.2727272727272725
+  },
+  "lastUpdate": "2024-05-09"
 }

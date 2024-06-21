@@ -9,7 +9,7 @@ import io.github.manamiproject.modb.extension.config.Config
 import io.github.manamiproject.modb.test.tempDirectory
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Nested
-import org.junit.jupiter.api.Test
+import kotlin.test.Test
 import java.net.URI
 import java.time.Clock
 import java.time.Instant
@@ -23,36 +23,7 @@ internal class DefaultScoreDownloadListCreatorTest {
     inner class CreateDownloadListTests {
 
         @Test
-        fun `return file without score`() {
-            tempDirectory {
-                // given
-                val testConfig = object: Config by TestConfig {
-                    override fun dataDirectory(): Directory = tempDir
-                }
-                val scoreDownloadListCreator = DefaultScoreDownloadListCreator(testConfig)
-                val extensionData = ExtensionData(
-                    sources = listOf(
-                        URI("https://example4.com"),
-                        URI("https://example5.com"),
-                    ),
-                )
-                Json.toJson(extensionData).writeToFile(tempDir.resolve("6f0e12caa76e9514.json"))
-
-                // when
-                val result = scoreDownloadListCreator.createDownloadList()
-
-                // then
-                assertThat(result).containsExactlyInAnyOrder(
-                    hashSetOf(
-                        URI("https://example4.com"),
-                        URI("https://example5.com"),
-                    )
-                )
-            }
-        }
-
-        @Test
-        fun `returns file if entry is older than 6 months`() {
+        fun `return file without score older than 6 months`() {
             tempDirectory {
                 // given
                 val testConfig = object: Config by TestConfig {
@@ -65,9 +36,7 @@ internal class DefaultScoreDownloadListCreatorTest {
                         URI("https://example4.com"),
                         URI("https://example5.com"),
                     ),
-                    score = Score(
-                        lastUpdate = LocalDate.now(testConfig.clock()).minusMonths(6L).minusDays(1L).format(ISO_LOCAL_DATE),
-                    ),
+                    lastUpdate = LocalDate.now(testConfig.clock()).minusMonths(6L).minusDays(1L).format(ISO_LOCAL_DATE),
                 )
                 Json.toJson(extensionData).writeToFile(tempDir.resolve("6f0e12caa76e9514.json"))
 
@@ -85,7 +54,39 @@ internal class DefaultScoreDownloadListCreatorTest {
         }
 
         @Test
-        fun `don't return recent and valid entries`() {
+        fun `returns file with score older than 6 months`() {
+            tempDirectory {
+                // given
+                val testConfig = object: Config by TestConfig {
+                    override fun dataDirectory(): Directory = tempDir
+                    override fun clock(): Clock = Clock.fixed(Instant.parse("2021-01-31T16:02:42.00Z"), UTC)
+                }
+                val scoreDownloadListCreator = DefaultScoreDownloadListCreator(testConfig)
+                val extensionData = ExtensionData(
+                    sources = listOf(
+                        URI("https://example4.com"),
+                        URI("https://example5.com"),
+                    ),
+                    score = Score(),
+                    lastUpdate = LocalDate.now(testConfig.clock()).minusMonths(6L).minusDays(1L).format(ISO_LOCAL_DATE),
+                )
+                Json.toJson(extensionData).writeToFile(tempDir.resolve("6f0e12caa76e9514.json"))
+
+                // when
+                val result = scoreDownloadListCreator.createDownloadList()
+
+                // then
+                assertThat(result).containsExactlyInAnyOrder(
+                    hashSetOf(
+                        URI("https://example4.com"),
+                        URI("https://example5.com"),
+                    )
+                )
+            }
+        }
+
+        @Test
+        fun `don't return recent file with score`() {
             tempDirectory {
                 // given
                 val testConfig = object: Config by TestConfig {
@@ -102,6 +103,31 @@ internal class DefaultScoreDownloadListCreatorTest {
                         arithmeticMean = 5.0,
                         arithmeticGeometricMean = 5.0,
                         median = 5.0,
+                    ),
+                )
+                Json.toJson(extensionData).writeToFile(tempDir.resolve("6f0e12caa76e9514.json"))
+
+                // when
+                val result = scoreDownloadListCreator.createDownloadList()
+
+                // then
+                assertThat(result).isEmpty()
+            }
+        }
+
+        @Test
+        fun `don't return recent file without score`() {
+            tempDirectory {
+                // given
+                val testConfig = object: Config by TestConfig {
+                    override fun dataDirectory(): Directory = tempDir
+                    override fun clock(): Clock = Clock.systemDefaultZone()
+                }
+                val scoreDownloadListCreator = DefaultScoreDownloadListCreator(testConfig)
+                val extensionData = ExtensionData(
+                    sources = listOf(
+                        URI("https://example4.com"),
+                        URI("https://example5.com"),
                     ),
                 )
                 Json.toJson(extensionData).writeToFile(tempDir.resolve("6f0e12caa76e9514.json"))

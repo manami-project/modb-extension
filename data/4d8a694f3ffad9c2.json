@@ -9,13 +9,12 @@
   ],
   "synopsis": {
     "text": "In the late 19th century, tensions rise between the aristocratic Kingdom of Albion and the rebelling Commonwealth. Following a failed assassination of Albion's Imperial Princess, Albion cracks down on Commonwealth spies, making intelligence work increasingly perilous. The Commonwealth spy ring Control assigns their elite team, White Pigeon, two dangerous missions: first, rescue an imprisoned antique book dealer and bring him to the Commonwealth. Ange, Dorothy and Chise succeed in this initial task. However, Control also suspects Bishop, their spy within Albion's royal family, may be a double agent working for Albion. Control orders White Pigeon to make contact with Bishop and ascertain his loyalty, even amidst Albion's heightened counterintelligence efforts. With spies and suspected traitors on all sides, White Pigeon must navigate layers of deception and betrayal to complete their missions. The stakes are high and lives hang in the balance as the team confronts issues of trust and loyalty while caught in the middle of the escalating conflict between two nations.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.602727272727273,
     "arithmeticGeometricMean": 7.601454552872371,
-    "median": 7.643636363636364,
-    "lastUpdate": "2024-05-06"
-  }
+    "median": 7.643636363636364
+  },
+  "lastUpdate": "2024-05-21"
 }

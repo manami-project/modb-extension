@@ -10,13 +10,12 @@
   ],
   "synopsis": {
     "text": "Nezumi Monogatari follows the journey of two mice, George and Gerald, who set out with three friends on a quest to find the legendary \"Dragon of Light.\" The mouse clan they belong to has long been led by their elder, Leopold. However, Leopold's advancing age makes leading increasingly difficult, necessitating he soon choose a successor. Both George and Gerald are considered candidates for future leader, but it remains uncertain which mouse would be more suitable. To determine this, Leopold tasks them with capturing the Dragon of Light said to dwell in the distant Valley of the Moon. By succeeding in this perilous mission and returning with the dragon, either George or Gerald can prove themselves the rightful heir worthy of one day guiding their clan. Thus begins an epic adventure facing many dangers, one which shall test the mettle of these two mice and their companions while deciding the next chieftain.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-22"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 6.294341902994963,
     "arithmeticGeometricMean": 6.274346826809554,
-    "median": 6.46,
-    "lastUpdate": "2024-05-08"
-  }
+    "median": 6.46
+  },
+  "lastUpdate": "2024-05-22"
 }

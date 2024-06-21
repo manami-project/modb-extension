@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "When young Jim Hawkins' peaceful life assisting his mother at their family inn is disrupted by the arrival of the rowdy sailor Billy Bones, he is unwittingly thrust into a world of pirates and treasure. After Billy's death, Jim discovers a treasure map leading to the infamous Captain Flint's fortune, prompting him to embark on a thrilling journey to find the treasure alongside a group of local gentlemen and the enigmatic one-legged John Silver. As the adventure unfolds, Jim forms a close bond with Silver, only to discover that his new friend is actually a ruthless pirate and former right-hand man to Captain Flint. Feeling betrayed, Jim must navigate his complex emotions and confront Silver, who still maintains that they are friends. With a mutiny brewing and the treasure within reach, Jim's journey to Treasure Island becomes a test of loyalty, courage, and friendship.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 7.37379273787437,
     "arithmeticGeometricMean": 7.362933458498384,
-    "median": 7.34,
-    "lastUpdate": "2024-05-10"
-  }
+    "median": 7.34
+  },
+  "lastUpdate": "2024-05-10"
 }

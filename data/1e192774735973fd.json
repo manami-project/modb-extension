@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Based on Dragon Quest V: Hand of the Heavenly Bride, Ryuka, also known as Luca, embarks on a perilous journey to save his mother, Martha, from the clutches of the wicked priest Ladja. After witnessing his father's tragic death at the hands of powerful enemies, Ryuka spends ten grueling years enslaved and constructing a grand temple. Upon escaping, he discovers his father's secret room, revealing that his mother is still alive and that he is destined to become the legendary hero of Zenithia. Alongside his loyal companion, Borongo, Ryuka sets out to grow stronger, defeat Ladja, and rescue his mother. As he unravels the secrets of his father's past, Ryuka faces the ultimate decision: choosing between Bianca and Flora as his bride.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 6.922152133580704,
     "arithmeticGeometricMean": 6.9132994832270205,
-    "median": 6.966790352504638,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 6.966790352504638
+  },
+  "lastUpdate": "2024-05-09"
 }

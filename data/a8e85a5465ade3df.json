@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "At the heart of the Mediterranean lies Genes Kingdom, a small but technologically advanced nation, renowned for its high-tech prowess. The kingdom is home to three gifted princesses, with the second princess, Kana, being a prodigy in robotics. Despite her genius, Kana's shy nature keeps her closed off from the world, except for her sisters and Lincle, a humanoid robot she created as a companion.\n\nA mysterious giant robot begins wreaking havoc across the globe, effortlessly defeating the strongest robots of various countries. As the world speculates about the robot's origin and creator, Genes Kingdom finds itself in the crosshairs of this mechanical menace. The robot easily breaches the kingdom's defenses, leaving the fate of the nation hanging in the balance.\n\nWith their kingdom under threat, the three princesses must rise to the challenge. Can Kana and her robot friend Lincle save their beloved kingdom from this enigmatic mechanical foe? Only time will reveal the true intentions of the robot's pilot and whether the princesses can protect their home.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 6.074480784521602,
     "arithmeticGeometricMean": 6.050686167436943,
-    "median": 6.224,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 6.224
+  },
+  "lastUpdate": "2024-05-09"
 }

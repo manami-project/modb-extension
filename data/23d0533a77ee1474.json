@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Astro Boy, a robotic marvel with 100,000 horsepower and a heart of gold, was created by the brilliant Dr. Tenma in the image of his deceased son, Tobio. In a futuristic Japan where robots are an integral part of society, Astro Boy stands out with his unparalleled strength, intelligence, and unwavering kindness. Despite Dr. Tenma's initial disappointment that Astro Boy cannot grow like a human child, the robot's unyielding compassion and dedication to justice ultimately earn him a place in the world.\n\nAfter being sold to a cruel robot circus and subsequently rescued by the kind-hearted Dr. Ochanomizu, Astro Boy embarks on a series of thrilling adventures. From battling rogue robots and desperate criminals to exploring distant planets and attending school, Astro Boy proves time and time again that robots are capable of great good. Alongside his robot family, including his sister Uran, and with the guidance of his human friends like Shunsaku 'Higeoyaji' Ban, Astro Boy strives to create a peaceful coexistence between robots and humans in a world filled with both wonders and challenges.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 6.865187384044526,
     "arithmeticGeometricMean": 6.850911040916664,
-    "median": 6.7272727272727275,
-    "lastUpdate": "2024-05-10"
-  }
+    "median": 6.7272727272727275
+  },
+  "lastUpdate": "2024-05-10"
 }

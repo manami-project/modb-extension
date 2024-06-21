@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Jiro is a young boy who dreams of designing and flying airplanes, inspired by Italian airplane pioneer Giovanni Battista Caproni. Though nearsightedness prevents Jiro from becoming a pilot himself, he studies aeronautical engineering at university with the goal of building beautiful aircraft. As a student, Jiro meets a girl named Naoko, but they lose contact. While working for an aircraft manufacturer, Jiro impresses his superiors and gets sent to Germany for an exchange program. He later reconnects with Naoko at a holiday resort and they fall in love. However, Naoko has tuberculosis and delays marriage until she can recover. Jiro progresses in his career, eventually designing the renowned Mitsubishi A6M Zero fighter plane. Though absorbed by his work, he remains devoted to Naoko even as her health falters. He comes to realize the unintended role of his elegant creations in wartime, confronting difficult questions about the cost of pursuing his dreams. Through this epic story spanning disasters, war, loss and perseverance, Jiro chases his dream of flight and aircraft design despite the changing shape it takes.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-20"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 8.029012134560729,
     "arithmeticGeometricMean": 8.028298843467056,
-    "median": 8.03008378870674,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 8.03008378870674
+  },
+  "lastUpdate": "2024-05-20"
 }

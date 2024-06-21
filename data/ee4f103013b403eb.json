@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "The story takes place in Mugen, an island world hanging in the sky, ruled by Princess Aura. She draws her power from the Great God Goal and commands 12 anthropomorphic animal warriors, each representing one of the animals of the Chinese zodiac. These \"Eto Rangers\" travel between imaginary realms called Novel Worlds in a time machine called Kirinda. The Eto Rangers' mission is to stop evil spirits known as Jarei Monsters that are sent by their nemesis Nyanma, a vengeful cat deity. Nyanma was once one of the chosen 12 protectors but was disqualified. The Jarei Monsters infiltrate Novel Worlds, which are living stories created by human imagination, and distort them, turning folk tales and books into chaotic parodies. Bakumaru, the mouse spirit, uses a magic mirror called the Genmakyou to identify which evil spirit has invaded a Novel World. Often the Eto Rangers immerse themselves in the tale to uncover clues about the monster's identity. Once revealed, Bakumaru signals the Kirinda time machine to descend and Princess Aura's warrior, Kirinda, uses a powerful beam to destroy the spirit, restoring balance to the Novel World. The Eto Rangers move between realms to continue defending the integrity of humanity's stories from Nyanma's corrupting vengeance.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-20"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 6.070633448184468,
     "arithmeticGeometricMean": 6.023390165981478,
-    "median": 6.04,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 6.04
+  },
+  "lastUpdate": "2024-05-20"
 }

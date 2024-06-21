@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "In the futuristic year 2808, three convicted criminals are offered a chance at freedom by joining the Cyber Police force in the sprawling metropolis of Oedo (formerly Tokyo). Fitted with explosive collars to ensure compliance, they must capture wanted fugitives within 24 hours or meet a gruesome end. Sengoku races against time to liberate a towering skyscraper taken hostage by terrorists who have hacked the city's central computer. Gogul investigates a series of murders linked to an illegal body part ring, crossing paths with an old partner-in-crime. Benten confronts a sinister figure seeking immortality through genetics research, leading her to a cryogenic facility housing a fanged threat. Though their methods are unorthodox, the Cyber Police criminals prove surprisingly effective at taking down Oedo's most dangerous outlaws. However, success brings them no closer to removing the detonating collars locked around their necks. With each perilous mission, they gamble with their lives in exchange for a chance at freedom.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.063391242355528,
     "arithmeticGeometricMean": 7.058297486877743,
-    "median": 7.072390572390573,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 7.072390572390573
+  },
+  "lastUpdate": "2024-05-21"
 }

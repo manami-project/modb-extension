@@ -25,9 +25,8 @@ public class DefaultSynopsisWriter(
         val entry = when (val currentEntry = fileAccessor.loadEntry(sources, directory)) {
             is ExtensionData -> {
                 currentEntry.copy(
-                    synopsis = synopsis.copy(
-                        lastUpdate = LocalDate.now(clock).format(ISO_LOCAL_DATE),
-                    ),
+                    synopsis = synopsis,
+                    lastUpdate = LocalDate.now(clock).format(ISO_LOCAL_DATE),
                 )
             }
             is ExtensionDataNotFound -> {

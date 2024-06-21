@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "In the Ueno district of Tokyo, three energetic elementary school girls named Yui, Sacchan, and Kotoha spend their days playing pretend as a \"justice organization\" called Colors. Headquartered in a small hut in the local park, the self-appointed protectors of peace imagine themselves solving mysteries and battling villains to safeguard their community. In reality, Colors' exploits mostly involve exploring the neighborhood, pulling harmless pranks, and finding excuses to chat with the kindly local shopkeeper Mr. Kujiraoka, who indulges their games. Their fantasy nemesis is the area policeman Mr. Saito, a well-meaning if easily exasperated man who struggles to balance his real police duties with the girls' boundless creativity. Though they wield no real authority, the joy and imagination Colors brings into their little corner of Ueno makes the trio beloved by the community. Their youthful energy and thirst for adventure brightens the days of not just their friends, but even their pretend arch-enemy Mr. Saito too.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-19"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.339765876980162,
     "arithmeticGeometricMean": 7.3380876351618785,
-    "median": 7.368356643356643,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 7.368356643356643
+  },
+  "lastUpdate": "2024-05-19"
 }

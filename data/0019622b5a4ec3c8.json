@@ -10,13 +10,12 @@
   ],
   "synopsis": {
     "text": "The Funtom Company, led by Earl Ciel Phantomhive, plans a special charity performance of Hamlet to celebrate their third anniversary. The play is intended as a gift for underprivileged children. Unfortunately, the theatre troupe hired for the performance gets into a ship accident that prevents them from making it to the show. With no other options, Ciel commands his unflappable butler Sebastian to ensure the play's success. Ever devoted, Sebastian rounds up an eccentric cast that includes Ciel's bumbling servants, visiting Indian nobles Soma and Agni, Chinese mafia members Lau and Ran Mao, and the flamboyant Grim Reaper Grell. Rehearsals descend into chaos, testing even Sebastian's composure. However, with opening night approaching, the makeshift troupe bands together to create a unique, if ramshackle, rendition of Hamlet for the children. Though unconventional, their willingness to selflessly give to those less fortunate encapsulates the spirit of charity.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.497424747050481,
     "arithmeticGeometricMean": 7.496365562875725,
-    "median": 7.52,
-    "lastUpdate": "2024-05-06"
-  }
+    "median": 7.52
+  },
+  "lastUpdate": "2024-05-21"
 }

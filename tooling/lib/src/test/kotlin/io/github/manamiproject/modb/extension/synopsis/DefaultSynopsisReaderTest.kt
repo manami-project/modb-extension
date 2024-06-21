@@ -4,7 +4,7 @@ import io.github.manamiproject.modb.extension.*
 import io.github.manamiproject.modb.test.exceptionExpected
 import kotlinx.coroutines.runBlocking
 import org.assertj.core.api.Assertions.assertThat
-import org.junit.jupiter.api.Test
+import kotlin.test.Test
 import java.net.URI
 
 internal class DefaultSynopsisReaderTest {

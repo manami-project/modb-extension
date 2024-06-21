@@ -8,13 +8,12 @@
   ],
   "synopsis": {
     "text": "The third installment of Ghost in the Shell: Arise follows Major Motoko Kusanagi and her team as they confront escalating threats. Motoko and Batou race to uncover and stop a mysterious terrorist organization identified by the symbolic Scylla. Concurrently, Togusa probes the murder of a man with a prosthetic leg made by the Mermaid's Leg corporation, believing the crime may be linked to larger forces. As Motoko pursues the truth behind the bombings, she must also grapple with ghosts from her past that risk derailing both her investigation and her attempts to move forward in life. Togusa's own probe of the singular murder pulls at a thread that seems to unravel a much larger, complex conspiracy. With time running out, Motoko and her squad must untangle the web of intrigue before the terrorist organization can launch their endgame, while also coming to terms with their own histories. As cybernetic enhancements and prosthetics blur the lines between man and machine, what does the future hold for law and justice?",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.534383838383839,
     "arithmeticGeometricMean": 7.533020985061597,
-    "median": 7.34,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 7.34
+  },
+  "lastUpdate": "2024-05-21"
 }

@@ -3,7 +3,7 @@ package io.github.manamiproject.modb.extension.synopsis
 import io.github.manamiproject.modb.core.models.Anime
 import kotlinx.coroutines.runBlocking
 import org.assertj.core.api.Assertions.assertThat
-import org.junit.jupiter.api.Test
+import kotlin.test.Test
 import java.net.URI
 
 internal class SynopsisWriterKtTest {

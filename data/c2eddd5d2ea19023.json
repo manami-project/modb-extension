@@ -10,13 +10,12 @@
   ],
   "synopsis": {
     "text": "Yoshino, a university student in Tokyo, joins a pet rescue volunteer group following the devastating 9.0 magnitude earthquake that struck the Tohoku region on March 11, 2011. As families, such as the Tomita Diners, are forced to evacuate and leave their beloved pets behind, Yoshino embarks on a mission to reunite these animals with their owners. One of these pets is Gonta, an 8-year-old dog, who is left behind in Namie, Fukushima. Yoshino discovers Gonta, now named Peace, and learns he has a severe illness with only one month to live. Despite this, Gonta's resilience astounds even the doctors, and he becomes a beacon of hope for many earthquake victims. Determined to return Peace to his original family, Yoshino's journey intertwines with the Tomita family and their rescue efforts for Gonta and other lost pets, leading to a heartwarming tale of resilience, love, and the unbreakable bond between humans and their pets.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 6.909935683364254,
     "arithmeticGeometricMean": 6.897150162491891,
-    "median": 7.244897959183673,
-    "lastUpdate": "2024-05-10"
-  }
+    "median": 7.244897959183673
+  },
+  "lastUpdate": "2024-05-10"
 }

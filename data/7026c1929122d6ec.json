@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Life takes an unexpected turn for Tsukino Usagi, a clumsy, tearful, and academically challenged 14-year-old middle school student, when she encounters Luna, a talking cat with a crescent moon mark on her forehead. Luna reveals that Usagi is no ordinary girl; she is destined to become Sailor Moon, a guardian of love and justice, tasked with finding the lost Moon Princess and the Legendary Silver Crystal to prevent the Earth's destruction at the hands of the malevolent Dark Kingdom, led by the ruthless Queen Beryl.\n\nArmed with a magical brooch that allows her to transform, Usagi must rise to the challenge and embrace her new identity as Sailor Moon. Along the way, she discovers allies who share her destiny as fellow Sailor Guardians. Together, they must confront the evil forces that threaten their world while navigating the trials and tribulations of adolescence. Despite her initial reluctance and klutzy nature, Usagi's infectious enthusiasm and unwavering determination make her a beacon of hope in the fight against darkness.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 7.3585278507385254,
     "arithmeticGeometricMean": 7.349604127774081,
-    "median": 7.480942571785269,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 7.480942571785269
+  },
+  "lastUpdate": "2024-05-09"
 }

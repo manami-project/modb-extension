@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Battleship Yamato, once a symbol of Earth's might during World War II, now stands as humanity's last hope in the year 2199. As the relentless assault from the alien Gamilons continues, Earth's once vibrant surface has been reduced to a radioactive wasteland, forcing its inhabitants into the depths of subterranean cities. With resources dwindling and radiation levels rising, the human race is on the brink of extinction, clinging to life by a thread that grows thinner by the day.\n\nIn a twist of fate, an alien space probe from Iscandar, the sworn enemies of the Gamilons, is discovered on Mars. The probe carries a message from Queen Starsha, offering Earth the Cosmo Cleaner D, a device capable of eradicating the radioactive contamination that plagues the planet. But there's a catch: Earth has only one year left before the radiation reaches lethal levels, and Iscandar is a staggering 148,000 light-years away.\n\nWith time running out, the Earth Defense Force hastily equips the Yamato with a hyperlight drive, using the blueprints found within the Iscandarian probe. The newly refurbished Space Battleship Yamato, armed with state-of-the-art weaponry and manned by a courageous crew, embarks on a perilous journey across the cosmos. Their mission: to retrieve the Cosmo Cleaner D and save humanity from the brink of annihilation. The fate of Earth rests on the success of this daring voyage, as the Yamato and her crew race against time and the vastness of space to ensure the survival of their species.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 7.308721088435374,
     "arithmeticGeometricMean": 7.305818977217451,
-    "median": 7.333333333333333,
-    "lastUpdate": "2024-05-10"
-  }
+    "median": 7.333333333333333
+  },
+  "lastUpdate": "2024-05-10"
 }

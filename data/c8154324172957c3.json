@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Kimura Tatsuya, a veteran boxer, finally gets his long-awaited title shot in the lightweight division at the annual boxing carnival. His opponent is the formidable reigning champion Mashiba Ryo, known for his dangerous \"Flicker Jab\" that few can withstand. Realizing the threat of Mashiba's signature move, Kimura intensifies his training, working with Miyata Ichiro, the only boxer able to block the \"Flicker Jab.\" Both men are determined to win - Kimura is driven to prove himself after years of chasing the title, while Mashiba aims to retain the belt to provide financial security for his sister. Their match is a clash of wills, pitting Kimura's grit against Mashiba's desperation. Victory will come down to who wants it more and whose training proves superior on fight night. The championship hangs in the balance as two boxers put everything on the line.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-20"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 8.154021238681953,
     "arithmeticGeometricMean": 8.15342420170321,
-    "median": 8.178358070500927,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 8.178358070500927
+  },
+  "lastUpdate": "2024-05-20"
 }

@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "In the distant future, warfare is dominated by powerful weapons called Objects - massive, spherical tanks impervious to conventional weapons. Qwenthur, a student studying Object design, and Havia, a radar analyst, serve in the military's 37th Maintenance Battalion supporting the Baby Magnum Object. When a battle goes awry, they suddenly find themselves facing an enemy Object with only infantry at their defense. As they struggle to survive, Qwenthur, Havia and their comrades including Milinda, the Baby Magnum's pilot, and Commander Frolaytia, embark on missions across the globe, overcoming impossible odds to fight one Object after another. Though originally reliant on the Objects' protection, Qwenthur and Havia's cleverness and teamwork proves key to defeating these seemingly unstoppable weapons. This is the story of an unlikely battalion who, led by a stoic pilot and ever-positive commander, challenge the assumption that Objects ensure victory. Through wit and courage, they demonstrate that even the greatest weapons have weaknesses to be exploited.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.138614718614718,
     "arithmeticGeometricMean": 7.136760242273505,
-    "median": 7.151666666666667,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 7.151666666666667
+  },
+  "lastUpdate": "2024-05-21"
 }

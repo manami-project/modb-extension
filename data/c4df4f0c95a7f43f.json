@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Aladdin is a young boy who is tricked by an evil wizard to retrieve an old oil lamp from a magical cave. Inside the lamp lives a powerful genie who must grant wishes to the lamp's owner. Although Aladdin was supposed to give the lamp to the wizard, he realizes the wizard's ill intentions and keeps the lamp for himself. With the genie's magic, Aladdin transforms himself into a wealthy nobleman in order to try to win the heart of the Sultan's daughter. The genie helps Aladdin gain riches and influence, while Aladdin hopes to marry the princess. However, the evil wizard plots to steal back the lamp and harness its power for his own ends. Aladdin must rely on his courage, wit and the genie's magic to defend himself and the princess from the wizard, all while trying to adjust to his sudden rise in status and his newfound love with the Sultan's daughter. It is a classic rags-to-riches tale filled with magic, romance and adventure.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 5.892909090909091,
     "arithmeticGeometricMean": 5.8753331817116425,
-    "median": 5.7272727272727275,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 5.7272727272727275
+  },
+  "lastUpdate": "2024-05-21"
 }

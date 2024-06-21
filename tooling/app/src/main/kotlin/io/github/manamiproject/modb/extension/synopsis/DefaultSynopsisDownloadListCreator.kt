@@ -29,15 +29,15 @@ class DefaultSynopsisDownloadListCreator(
         appConfig.dataDirectory().forEachDirectoryEntry("*.json") { file ->
             val fileContent = file.readFile()
             val extensionData = Json.parseJson<ExtensionData>(fileContent)!!
-            when (val synopsis = extensionData.synopsis()) {
+            when (extensionData.synopsis()) {
                 is Synopsis -> {
-                    if (isRedownloadNecessary(redownloadEntriesOlderThan, synopsis.lastUpdatedAt)) {
+                    if (isRedownloadNecessary(redownloadEntriesOlderThan, extensionData.lastUpdatedAt)) {
                         ret.add(extensionData.sources.toHashSet())
                     }
                 }
                 is SynopsisNotFound -> {
                     val data = extractor.extract(fileContent, mapOf(
-                        "lastUpdate" to "$.synopsis.lastUpdate",
+                        "lastUpdate" to "$.lastUpdate",
                     ))
 
                     if (data.notFound("lastUpdate") || isRedownloadNecessary(redownloadEntriesOlderThan, data.string("lastUpdate"))) {

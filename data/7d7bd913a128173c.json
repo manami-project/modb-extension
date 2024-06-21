@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Kyoto's Teramachi Sanjou shopping district is home to a quaint antique shop where high school student Aoi Mashiro finds herself working part-time after a chance encounter with the shop owner's son, Kiyotaka Yagashira. Known as the 'Holmes of Teramachi Sanjou,' Kiyotaka possesses an uncanny ability to discern the value of antiques and read people, making him a formidable partner for Aoi, who has a keen eye for antiques herself. Together, the pair solve a variety of peculiar cases brought to them by customers, unraveling mysteries and learning more about each other along the way. With Aoi's intuition and Kiyotaka's deductive skills, they form a modern-day Holmes and Watson duo, taking on any challenge that comes their way.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 6.873801716141001,
     "arithmeticGeometricMean": 6.869476366851367,
-    "median": 6.927045454545455,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 6.927045454545455
+  },
+  "lastUpdate": "2024-05-09"
 }

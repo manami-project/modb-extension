@@ -8,13 +8,12 @@
   ],
   "synopsis": {
     "text": "This Japanese puppet animation is set in a remote, snowy mountain village. A young boy named Kanta lives with his grandfather. When the grandfather falls ill, their firewood supply begins running low. Without enough firewood to keep the house warm, the grandfather could freeze. Kanta decides he must fetch more firewood from the shed, despite his fear of traversing the spooky, midnight paths alone. Summoning his courage, Kanta sets out into the darkness. His journey proves difficult, but leads to a small yet meaningful discovery. Through this experience, Kanta gains an appreciation for the value of firewood and his grandfather's love.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 4.318181818181818,
     "arithmeticGeometricMean": 4.291055336592535,
-    "median": 4.318181818181818,
-    "lastUpdate": "2024-05-07"
-  }
+    "median": 4.318181818181818
+  },
+  "lastUpdate": "2024-05-21"
 }

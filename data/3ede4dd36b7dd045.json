@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Before he can even grasp his surroundings, Kirito finds himself immersed in a sprawling, ethereal forest teeming with colossal trees. As he navigates this virtual realm in search of answers, he crosses paths with a young boy named Eugeo, who appears to be familiar with him. Despite being an artificial intelligence, Eugeo's emotional depth rivals that of any human. Together, they embark on a quest to locate Eugeo's parents, only for Kirito to uncover fragments of a long-forgotten memory buried deep within his psyche. This memory transports him back to his childhood, where he and Eugeo frolicked through the woods alongside a golden-haired girl named Alice. As Kirito grapples with the enigma that is Alice, he must also find a way to escape this virtual world and return to reality. Meanwhile, in the real world, a battle unfolds that leaves Kazuto critically injured, forcing him to fully dive into the Underworld with no discernible means of escape. With only the name Alice to guide him, Kirito's journey through this fantastical realm begins.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 7.7913760832054475,
     "arithmeticGeometricMean": 7.788139940328396,
-    "median": 7.841818181818182,
-    "lastUpdate": "2024-05-10"
-  }
+    "median": 7.841818181818182
+  },
+  "lastUpdate": "2024-05-10"
 }

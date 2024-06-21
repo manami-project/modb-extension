@@ -10,13 +10,12 @@
   ],
   "synopsis": {
     "text": "Clara receives a cherished nutcracker doll as a gift from her eccentric Uncle Drosselmeyer. That night, an army of thieving rats, led by the sinister double-headed Queen Mauslynx, invades Clara's home and steals away her precious nutcracker. Determined to retrieve her toy, Clara follows the rats through a magical portal inside her family's grandfather clock. She finds herself in a fantastical land filled with living dolls. Here Clara meets the grieving Doll King, whose daughter Princess Mary lies under a sleeping curse, bearing an uncanny resemblance to Clara. With the help of the brave Captain Franz, Mary's devoted suitor, Clara sets off on a perilous quest to defeat the rat army and break their tyrannical rule over this whimsical realm. Overcoming grave dangers, Clara and Franz rally the doll kingdom's forces to challenge Queen Mauslynx, in the hope of awakening Princess Mary and restoring freedom and peace to the oppressed dolls.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-22"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 5.668920222634508,
     "arithmeticGeometricMean": 5.6296483801710435,
-    "median": 6.010454545454545,
-    "lastUpdate": "2024-05-08"
-  }
+    "median": 6.010454545454545
+  },
+  "lastUpdate": "2024-05-22"
 }

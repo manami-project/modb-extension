@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Remy is a cheerful and tender-hearted girl living with her mother in a small French town. Her life is upended when her father Jerome returns home after a long absence and reveals that Remy is not his biological daughter. He cruelly sells her to the evil slave trader Pollinel soon after. Just as all hope seems lost, Remy is rescued by Vitalis, an aging entertainer traveling with his troupe of performing animals. Recognizing Remy's musical talent, Vitalis takes Remy under his wing and trains her to become a singer. The two travel across the countryside, delighting crowds with their acts. During their travels, Remy has a chance encounter with her biological mother and brother Arthur, though she does not realize their true identities at the time. Their meeting is short-lived before Remy must leave for Paris. Vitalis eventually passes away, leaving Remy to face many hardships alone. Despite the tragedy and upheaval in her young life, Remy perseveres thanks to the kindness of friends and her own hopeful spirit.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-19"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.622455141796977,
     "arithmeticGeometricMean": 7.618989298911147,
-    "median": 7.7272727272727275,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 7.7272727272727275
+  },
+  "lastUpdate": "2024-05-19"
 }

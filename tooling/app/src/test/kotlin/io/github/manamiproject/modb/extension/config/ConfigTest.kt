@@ -5,7 +5,7 @@ import io.github.manamiproject.modb.core.extensions.Directory
 import io.github.manamiproject.modb.test.shouldNotBeInvoked
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Nested
-import org.junit.jupiter.api.Test
+import kotlin.test.Test
 import java.net.URI
 import java.time.Clock
 

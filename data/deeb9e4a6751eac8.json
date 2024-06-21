@@ -10,13 +10,12 @@
   ],
   "synopsis": {
     "text": "Adapted from the classic Chinese novel Journey to the West, Princess Iron Fan tells the story of Tang Sanzang and his three protectors - Sun Wukong, Zhu Bajie, and Sha Wujing - on their epic pilgrimage to the West. Along the way, they reach the treacherous Fire Mountain, whose raging flames bar their path. The group learns that Princess Iron Fan possesses a magical iron fan capable of extinguishing the mountain's fire. However, obtaining the fan proves challenging. The princess is furious with Sun Wukong for previously defeating her husband, the Bull Demon King. Undeterred, the clever Monkey King and his companions resort to trickery. By using their shape-shifting abilities, they enact an elaborate ruse to wrestle the fan from the vengeful princess's grasp. This timeless tale of persistence and wit pits our unyielding heroes against a fiery obstacle in their pursuit of sacred scriptures. Through creativity and perseverance, the pilgrims ultimately prevail to continue their legendary westward journey.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-22"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 5.3717047442353545,
     "arithmeticGeometricMean": 5.348967635728409,
-    "median": 5.181818181818182,
-    "lastUpdate": "2024-05-08"
-  }
+    "median": 5.181818181818182
+  },
+  "lastUpdate": "2024-05-22"
 }

@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "An experimental short film produced through an unusual collaboration between Netflix, WIT Studio, and AI company rinna. Titled \"The Dog & The Boy\", the anime uses AI-generated background art as part of an initiative to ease labor shortages in the industry. The story follows an abandoned robot dog who is found and adopted by a young boy. The two form an inseparable bond, the robot dog always faithfully at the boy's side as he grows up. However, when war breaks out and the boy goes off to battle, their friendship is threatened. Will the loyal robot dog ever see his dear friend again? This unique production aims to explore alternative workflows while retaining the style and emotion of traditional anime. The AI-assisted process allowed the team to efficiently create lush backgrounds. Now viewers can judge for themselves how seamlessly the technology integrates with the hand-drawn characters. Beyond the technical achievements, \"The Dog & The Boy\" promises a poignant tale about the enduring power of friendship.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 5.604554112554113,
     "arithmeticGeometricMean": 5.5718059669170215,
-    "median": 5.57,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 5.57
+  },
+  "lastUpdate": "2024-05-21"
 }

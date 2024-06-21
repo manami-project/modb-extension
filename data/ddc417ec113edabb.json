@@ -10,13 +10,12 @@
   ],
   "synopsis": {
     "text": "Kokoro Connect follows a group of high school students in the Cultural Research Club who find their lives turned upside down by a mysterious being called Heartseed. Heartseed begins putting the students through supernatural \"trials\" where they randomly swap bodies, revert to different ages, or have their innermost desires unleashed. In the latest supernatural phenomenon triggered by Heartseed, the students now experience \"emotion sickness\" - their emotions spontaneously jump out and afflict another person. This reveals their secret fears and repressed feelings to the others, like phobias, hidden crushes, and deep embarrassments. As the trials become more intrusive and intense, the once close-knit friends in the Cultural Research Club struggle to come to terms with having their vulnerabilities exposed without consent. Heartseed's motives remain cryptic - is he trying to tear their relationships apart or bring them closer together? The students must confront their true selves and deepest insecurities if they hope to withstand Heartseed's manipulations and maintain their bonds of friendship.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-21"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.982499387270619,
     "arithmeticGeometricMean": 7.982028148745596,
-    "median": 7.930779569892473,
-    "lastUpdate": "2024-05-06"
-  }
+    "median": 7.930779569892473
+  },
+  "lastUpdate": "2024-05-21"
 }

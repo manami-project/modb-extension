@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Now, meet Signal, a formidible robotic companion crafted by the brilliant Dr. Otoi for his young grandson, Nobuhiko. However, a programming mishap has left Signal with an unusual quirk: every time Nobuhiko sneezes, Signal morphs from a powerful, albeit temperamental, adult robot into a charming, chocolate-craving baby bot. Amidst the Otoi household's harmonious blend of humans, robots, and animals, the days brim with joy and amusement, save for the odd squabble over chores or the clueless female robot Elara's affections. Enter Chris, the self-proclaimed beautiful robotic scientist and Dr. Otoi's assistant, who despite her frequent calamitous creations, adds to the family's unique dynamic. But peace is shattered when Pulse, a previous creation of Dr. Otoi and Signal's prototype, attacks. Pulse, a critically near-sighted robot now armed with an array of weapons by Dr. Otoi's enigmatic rival, is on a destructive mission to seize the latest android technology, MIRA, and annihilate anything in his path.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 6.050310628147363,
     "arithmeticGeometricMean": 6.032753335951616,
-    "median": 6.03,
-    "lastUpdate": "2024-05-10"
-  }
+    "median": 6.03
+  },
+  "lastUpdate": "2024-05-10"
 }

@@ -10,6 +10,7 @@ import org.junit.jupiter.api.Nested
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.ValueSource
 import java.net.URI
+import java.time.LocalDate
 import kotlin.test.Test
 
 internal class ExtensionDataTest {
@@ -19,8 +20,6 @@ internal class ExtensionDataTest {
 
         @Test
         fun `throws exception if sources is empty`() {
-            // given
-
             // when
             val result = exceptionExpected<IllegalArgumentException> {
                 ExtensionData(
@@ -30,6 +29,62 @@ internal class ExtensionDataTest {
 
             // then
             assertThat(result).hasMessage("Sources must not be empty")
+        }
+
+        @ParameterizedTest
+        @ValueSource(strings = ["", " ", "20240201"])
+        fun `throws exception if lastUpdate is not a valid ISO date format`(input: String) {
+            // when
+            val result = exceptionExpected<IllegalArgumentException> {
+                ExtensionData(
+                    sources = listOf(
+                        URI("https://example.org"),
+                    ),
+                    lastUpdate = input,
+                )
+            }
+
+            // then
+            assertThat(result).hasMessage("Property 'lastUpdate' must be set and match ISO_LOCAL_DATE format.")
+        }
+
+        @Test
+        fun `default value for lastUpdate is todays date`() {
+            // given
+            val today = LocalDate.now()
+
+            // when
+            val result = ExtensionData(
+                sources = listOf(
+                    URI("https://example.org"),
+                ),
+            )
+
+            // then
+            assertThat(result.lastUpdatedAt).isEqualTo(today)
+        }
+    }
+
+    @Nested
+    inner class LastUpdatedAt {
+
+        @Test
+        fun `correctly parse value`() {
+            // given
+            val extensionData = ExtensionData(
+                sources = listOf(
+                    URI("https://example.org"),
+                ),
+                lastUpdate = "2023-08-31",
+            )
+
+            // when
+            val result = extensionData.lastUpdatedAt
+
+            // then
+            assertThat(result).hasYear(2023)
+            assertThat(result).hasMonthValue(8)
+            assertThat(result).hasDayOfMonth(31)
         }
     }
 

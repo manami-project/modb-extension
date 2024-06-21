@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "For a select few in N-City, the dream of becoming a magical girl transcends the virtual realm of the popular social game, Magical Girl Raising Project. This coveted game grants a rare opportunity for players to transform into real-life magical girls, each bestowed with unique abilities and striking appearances. Among these fortunate individuals is Koyuki Himekawa, who embodies her in-game character, Snow White.\n\nHowever, the magical administrator, Fav, abruptly introduces a sinister twist: the magical girl population must be halved to address an energy imbalance. Initially, the 16 magical girls in Koyuki's district engage in a seemingly harmless competition to gather magical candies, earned through their benevolent deeds. But as the stakes escalate and the rules warp, the game morphs into a ruthless battle for survival. When the first player loses her powers and suffers a tragic fate, the remaining magical girls realize the horrifying reality: their contest is a deadly game where the consequences of defeat are far more severe than merely losing their powers.",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2023-10-19"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 6.969834260977118,
     "arithmeticGeometricMean": 6.967157865792055,
-    "median": 7.025904761904762,
-    "lastUpdate": "2024-05-09"
-  }
+    "median": 7.025904761904762
+  },
+  "lastUpdate": "2024-05-09"
 }

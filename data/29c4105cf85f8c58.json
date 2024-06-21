@@ -11,13 +11,12 @@
   ],
   "synopsis": {
     "text": "Kukuru is an 18-year-old high school student who works part-time at the Gama Gama Aquarium, a small, struggling aquarium in Okinawa run by her grandfather. One day, Kukuru meets Fuuka, a former idol from Tokyo who gave up on her singing career and ran away to Okinawa. Captivated by the aquarium's charm, Fuuka asks to work there. As summer begins, the two girls bond over their passion for the aquarium. However, with costly repairs needed and decreasing visitors, Gama Gama is facing permanent closure by the end of summer. Kukuru is determined to save her beloved workplace, but realizing her goal seems increasingly impossible. Together with Fuuka, the aquarium’s quirky staff, her friends, and schoolmates, Kukuru works tirelessly throughout the summer towards the shared dream of keeping Gama Gama’s doors open. Through this life-changing season, the girls face challenging questions about the feasibility of dreams, the value of friendship, and finding one’s place to belong.",
-    "author": "anthropic.claude-v2:1",
-    "lastUpdate": "2024-05-20"
+    "author": "anthropic.claude-v2:1"
   },
   "score": {
     "arithmeticMean": 7.534509160482374,
     "arithmeticGeometricMean": 7.531854373030993,
-    "median": 7.578977272727273,
-    "lastUpdate": "2024-05-10"
-  }
+    "median": 7.578977272727273
+  },
+  "lastUpdate": "2024-05-20"
 }

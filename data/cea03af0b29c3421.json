@@ -7,13 +7,12 @@
   ],
   "synopsis": {
     "text": "",
-    "author": "mistral.mistral-large-2402-v1:0",
-    "lastUpdate": "2024-05-14"
+    "author": "mistral.mistral-large-2402-v1:0"
   },
   "score": {
     "arithmeticMean": 3.962894248608534,
     "arithmeticGeometricMean": 3.850726713067478,
-    "median": 3.962894248608534,
-    "lastUpdate": "2024-05-06"
-  }
+    "median": 3.962894248608534
+  },
+  "lastUpdate": "2024-05-06"
 }
