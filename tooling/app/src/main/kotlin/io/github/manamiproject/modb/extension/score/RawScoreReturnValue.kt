@@ -7,7 +7,7 @@ package io.github.manamiproject.modb.extension.score
 sealed class RawScoreReturnValue
 
 /**
- * Indicates that no score has been found.
+ * Indicates that no raw score has been found.
  * @since 1.0.0
  */
 data object NoRawScore: RawScoreReturnValue()

@@ -9,7 +9,7 @@ import io.github.manamiproject.modb.core.extensions.neitherNullNorBlank
 sealed class RawSynopsisReturnValue
 
 /**
- * Indicates that a synopsis was not found.
+ * Indicates that a raw synopsis was not found.
  * @since 1.0.0
  */
 data object NoRawSynopsis: RawSynopsisReturnValue()

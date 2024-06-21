@@ -1,13 +1,13 @@
 package io.github.manamiproject.modb.extension.synopsis
 
 import io.github.manamiproject.modb.extension.*
-import io.github.manamiproject.modb.extension.DefaultFileAccessor
 import java.net.URI
 
 /**
+ * Retrieves synopsis.
  * @since 1.0.0
- * @property origin
- * @property fileAccessor
+ * @property origin Defines the location where to find the score.
+ * @property fileAccessor Reads the [ExtensionData] file.
  */
 public class DefaultSynopsisReader(
     private val origin: Origin<*>,

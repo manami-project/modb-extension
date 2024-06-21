@@ -4,21 +4,24 @@ import java.time.LocalDate
 import java.time.format.DateTimeFormatter.ISO_LOCAL_DATE
 
 /**
+ * Return for trying to retrieve a score.
  * @since 1.0.0
  */
 public sealed class ScoreReturnValue
 
 /**
+ * Indicates that no score has been found.
  * @since 1.0.0
  */
 public data object ScoreNotFound: ScoreReturnValue()
 
 /**
+ * Aggregated score across all available meta data providers.
  * @since 1.0.0
- * @param arithmeticMean
- * @param arithmeticGeometricMean
- * @param median
- * @param lastUpdate
+ * @param arithmeticMean aithmetic mean
+ * @param arithmeticGeometricMean arithmetic-geometric-mean
+ * @param median median
+ * @param lastUpdate Date of creation.
  */
 public data class Score(
     val arithmeticMean: Double = 0.0,
@@ -35,6 +38,7 @@ public data class Score(
     }
 
     /**
+     * Last update as [LocalDate].
      * @since 1.0.0
      */
     val lastUpdatedAt: LocalDate

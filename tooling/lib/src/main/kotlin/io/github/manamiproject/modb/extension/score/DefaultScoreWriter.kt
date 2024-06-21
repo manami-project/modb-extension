@@ -1,6 +1,5 @@
 package io.github.manamiproject.modb.extension.score
 
-import io.github.manamiproject.modb.core.extensions.EMPTY
 import io.github.manamiproject.modb.extension.*
 import java.net.URI
 import java.time.Clock
@@ -8,10 +7,11 @@ import java.time.LocalDate
 import java.time.format.DateTimeFormatter.ISO_LOCAL_DATE
 
 /**
+ * Adds scores to [ExtensionData] files.
  * @since 1.0.0
- * @property directory
- * @property fileAccessor
- * @property clock
+ * @property directory Local directory on which the [ExtensionData] file is saved.
+ * @property fileAccessor Reads the [ExtensionData] file.
+ * @property clock Clock to determine lastUpdate.
  */
 public class DefaultScoreWriter(
     private val directory: LocalFileOrigin,

@@ -5,20 +5,23 @@ import java.time.LocalDate
 import java.time.format.DateTimeFormatter.ISO_LOCAL_DATE
 
 /**
+ * Return for trying to retrieve a synopsis.
  * @since 1.0.0
  */
 public sealed class SynopsisReturnValue
 
 /**
+ * Indicates that no synopsis has been found.
  * @since 1.0.0
  */
 public data object SynopsisNotFound: SynopsisReturnValue()
 
 /**
+ * Synopsis created by an LLM.
  * @since 1.0.0
- * @property text
- * @property author
- * @property lastUpdate
+ * @property text Synopsis.
+ * @property author Author
+ * @property lastUpdate Date of creation.
  */
 public data class Synopsis(
     val text: String = EMPTY,
@@ -31,6 +34,7 @@ public data class Synopsis(
     }
 
     /**
+     * Last update as [LocalDate].
      * @since 1.0.0
      */
     val lastUpdatedAt: LocalDate
