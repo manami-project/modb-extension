@@ -16,7 +16,7 @@ internal class ScoreReaderKtTest {
             val testImpl = object : ScoreReader {
                 override suspend fun findScore(sources: Collection<URI>): ScoreReturnValue {
                     result.addAll(sources)
-                    return ScoreNoteFound
+                    return ScoreNotFound
                 }
             }
 

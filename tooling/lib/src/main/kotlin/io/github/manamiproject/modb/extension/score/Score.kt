@@ -1,6 +1,5 @@
 package io.github.manamiproject.modb.extension.score
 
-import io.github.manamiproject.modb.core.extensions.neitherNullNorBlank
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter.ISO_LOCAL_DATE
 
@@ -12,7 +11,7 @@ public sealed class ScoreReturnValue
 /**
  * @since 1.0.0
  */
-public data object ScoreNoteFound: ScoreReturnValue()
+public data object ScoreNotFound: ScoreReturnValue()
 
 /**
  * @since 1.0.0

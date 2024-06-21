@@ -12,19 +12,21 @@ import java.time.Period
 import kotlin.io.path.forEachDirectoryEntry
 
 /**
+ * Creates a list all anime for which a [Synopsis] needs to be created.
+ * This can either be due to the entry being new or being updated.
  * @since 1.0.0
- * @property config
- * @property extractor
+ * @property appConfig Application specific configuration.
+ * @property extractor Extracts specific data from the raw data.
  */
 class DefaultSynopsisDownloadListCreator(
-    private val config: Config,
+    private val appConfig: Config,
     private val extractor: DataExtractor = JsonDataExtractor,
 ): SynopsisDownloadListCreator {
 
     override suspend fun createDownloadList(redownloadEntriesOlderThan: Period): Set<HashSet<URI>> {
         val ret = mutableSetOf<HashSet<URI>>()
 
-        config.dataDirectory().forEachDirectoryEntry("*.json") { file ->
+        appConfig.dataDirectory().forEachDirectoryEntry("*.json") { file ->
             val fileContent = file.readFile()
             val extensionData = Json.parseJson<ExtensionData>(fileContent)!!
             when (val synopsis = extensionData.synopsis()) {
@@ -53,6 +55,6 @@ class DefaultSynopsisDownloadListCreator(
     }
 
     private fun isRedownloadNecessary(redownloadEntriesOlderThan: Period, dateToCheck: LocalDate): Boolean {
-        return LocalDate.now(config.clock()).minus(redownloadEntriesOlderThan).isAfter(dateToCheck)
+        return LocalDate.now(appConfig.clock()).minus(redownloadEntriesOlderThan).isAfter(dateToCheck)
     }
 }

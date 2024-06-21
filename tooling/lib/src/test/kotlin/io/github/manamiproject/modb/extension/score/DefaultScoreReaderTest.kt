@@ -49,7 +49,7 @@ internal class DefaultScoreReaderTest {
             val result = reader.findScore(testSources)
 
             // then
-            assertThat(result).isEqualTo(ScoreNoteFound)
+            assertThat(result).isEqualTo(ScoreNotFound)
         }
     }
 

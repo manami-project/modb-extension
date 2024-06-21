@@ -2,7 +2,7 @@ package io.github.manamiproject.modb.extension
 
 import io.github.manamiproject.modb.core.extensions.eitherNullOrBlank
 import io.github.manamiproject.modb.extension.score.Score
-import io.github.manamiproject.modb.extension.score.ScoreNoteFound
+import io.github.manamiproject.modb.extension.score.ScoreNotFound
 import io.github.manamiproject.modb.extension.score.ScoreReturnValue
 import io.github.manamiproject.modb.extension.synopsis.Synopsis
 import io.github.manamiproject.modb.extension.synopsis.SynopsisNotFound
@@ -53,8 +53,8 @@ public data class ExtensionData(
      */
     public fun score(): ScoreReturnValue {
         return when {
-            score == null -> ScoreNoteFound
-            score.arithmeticMean == 0.0 && score.arithmeticGeometricMean == 0.0 && score.median == 0.0 -> ScoreNoteFound
+            score == null -> ScoreNotFound
+            score.arithmeticMean == 0.0 && score.arithmeticGeometricMean == 0.0 && score.median == 0.0 -> ScoreNotFound
             else -> score
         }
     }

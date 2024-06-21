@@ -1,5 +1,6 @@
 package io.github.manamiproject.modb.extension.synopsis
 
+import io.github.manamiproject.modb.anidb.AnidbConfig
 import io.github.manamiproject.modb.animeplanet.AnimePlanetConfig
 import io.github.manamiproject.modb.animeplanet.AnimePlanetDownloader
 import io.github.manamiproject.modb.core.config.MetaDataProviderConfig
@@ -16,11 +17,13 @@ import org.apache.commons.text.StringEscapeUtils
 import java.net.URI
 
 /**
+ * Loads the synopsis from anime-planet.com
  * @since 1.0.0
- * @property metaDataProviderConfig
- * @property rawDataRetriever
- * @property xmlExtractor
- * @property jsonExtractor
+ * @property appConfig Application specific configuration.
+ * @property metaDataProviderConfig Configuration for a specific meta data provider. **Default:** [AnidbConfig]
+ * @property rawDataRetriever Handles the retrieval of raw data from the meta data provider so that the source doesn't matter for the caller.
+ * @property xmlExtractor  Uses XPath to extract data from HTML.
+ * @property jsonExtractor Uses JsonPath to extract data from JSON.
  */
 class AnimePlanetRawSynopsisLoader(
     private val appConfig: Config,

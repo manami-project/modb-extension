@@ -36,7 +36,7 @@ class DefaultScoreDownloadListCreator(
                         ret.add(extensionData.sources.toHashSet())
                     }
                 }
-                is ScoreNoteFound -> {
+                is ScoreNotFound -> {
                     val data = extractor.extract(fileContent, mapOf(
                         "lastUpdate" to "$.score.lastUpdate",
                     ))

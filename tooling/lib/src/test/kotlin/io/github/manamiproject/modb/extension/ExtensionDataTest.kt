@@ -1,7 +1,7 @@
 package io.github.manamiproject.modb.extension
 
 import io.github.manamiproject.modb.extension.score.Score
-import io.github.manamiproject.modb.extension.score.ScoreNoteFound
+import io.github.manamiproject.modb.extension.score.ScoreNotFound
 import io.github.manamiproject.modb.extension.synopsis.Synopsis
 import io.github.manamiproject.modb.extension.synopsis.SynopsisNotFound
 import io.github.manamiproject.modb.test.exceptionExpected
@@ -167,7 +167,7 @@ internal class ExtensionDataTest {
             val result = extensionData.score()
 
             // then
-            assertThat(result).isEqualTo(ScoreNoteFound)
+            assertThat(result).isEqualTo(ScoreNotFound)
         }
 
         @Test
@@ -191,7 +191,7 @@ internal class ExtensionDataTest {
             val result = extensionData.score()
 
             // then
-            assertThat(result).isEqualTo(ScoreNoteFound)
+            assertThat(result).isEqualTo(ScoreNotFound)
         }
 
         @Test

@@ -1,6 +1,7 @@
 package io.github.manamiproject.modb.extension.score
 
 /**
+ * Return for trying to retrieve a raw score.
  * @since 1.0.0
  */
 sealed class RawScoreReturnValue

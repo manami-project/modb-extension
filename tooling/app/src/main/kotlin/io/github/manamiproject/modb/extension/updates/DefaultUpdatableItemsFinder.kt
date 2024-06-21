@@ -6,11 +6,12 @@ import java.net.URI
 import kotlin.io.path.deleteIfExists
 
 /**
+ * Checks the anime-offline-database for entries that have changed.
  * @since 1.0.0
- * @property config
+ * @property appConfig Application specific configuration.
  */
 class DefaultUpdatableItemsFinder(
-    private val config: Config
+    private val appConfig: Config,
 ): UpdatableItemsFinder {
 
     override suspend fun findNewDbEntries(
@@ -26,7 +27,7 @@ class DefaultUpdatableItemsFinder(
         existingFileNames.toMutableSet().apply {
             removeAll(expectedFilenameToDbSources.keys)
         }.forEach {
-            config.dataDirectory().resolve(it).deleteIfExists()
+            appConfig.dataDirectory().resolve(it).deleteIfExists()
         }
 
         return newOrUpdatedEntriesInDb.values.toSet()

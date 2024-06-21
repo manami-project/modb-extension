@@ -37,12 +37,12 @@ fun main() = runCoroutine {
         println("Downloading [${index + 1}/${downloadList.size}]")
         delay(random(1500, 2000))
         val scoreReturnValue = scoreCreator.createScore(sourcesBlock)
-        if (scoreReturnValue !is ScoreNoteFound) {
+        if (scoreReturnValue !is ScoreNotFound) {
             scoreWriter.saveOrUpdateScore(sourcesBlock, scoreReturnValue as Score)
         }
     }
 
-    val synopsisCreator = DefaultSynopsisCreator(appConfig)
+    val synopsisCreator = AwsBedrockSynopsisCreator(appConfig)
     val synopsisWriter = DefaultSynopsisWriter(localFileOrigin)
     downloadList.forEachIndexed { index, sourcesBlock ->
         println("Downloading [${index + 1}/${downloadList.size}]")

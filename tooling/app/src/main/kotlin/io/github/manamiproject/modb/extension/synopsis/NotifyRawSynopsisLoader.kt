@@ -15,10 +15,12 @@ import org.apache.commons.text.StringEscapeUtils
 import java.net.URI
 
 /**
+ * Loads the synopsis from notify.moe
  * @since 1.0.0
- * @property metaDataProviderConfig
- * @property rawDataRetriever
- * @property extractor
+ * @property appConfig Application specific configuration.
+ * @property metaDataProviderConfig Configuration for a specific meta data provider. **Default:** [NotifyConfig]
+ * @property rawDataRetriever Handles the retrieval of raw data from the meta data provider so that the source doesn't matter for the caller.
+ * @property extractor Extracts specific data from the raw data.
  */
 class NotifyRawSynopsisLoader(
     private val appConfig: Config,

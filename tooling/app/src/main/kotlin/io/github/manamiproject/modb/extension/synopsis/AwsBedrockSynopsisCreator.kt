@@ -26,12 +26,16 @@ import org.apache.commons.text.similarity.LevenshteinDistance
 import java.net.URI
 
 /**
+ * Creates a new synopsis by using a large language model (LLM).
+ * LLM is provided by AWS Bedrock which offers a managed service a variety of foundation models.
+ * A synopsis is only created if at least 3 synopsis with more than 20 words exist from meta data providers exist.
  * @since 1.0.0
- * @property rawSynopsisLoader
- * @property bedrockClient
- * @property extractor
+ * @property appConfig Application specific configuration.
+ * @property rawSynopsisLoader Score loader for each meta data provider.
+ * @property bedrockClient AWS bedrock client.
+ * @property extractor Extracts specific data from bedrock response.
  */
-class DefaultSynopsisCreator(
+class AwsBedrockSynopsisCreator(
     private val appConfig: Config,
     private val rawSynopsisLoader: Map<Hostname, RawSynopsisLoader> = mapOf(
         AnidbConfig.hostname() to AnidbRawSynopsisLoader(appConfig),

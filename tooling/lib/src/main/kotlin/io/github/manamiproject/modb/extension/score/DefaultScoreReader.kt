@@ -18,7 +18,7 @@ public class DefaultScoreReader(
 
         return when (val extensionData = fileAccessor.loadEntry(sources, origin)) {
             is ExtensionData -> extensionData.score()
-            is ExtensionDataNotFound -> ScoreNoteFound
+            is ExtensionDataNotFound -> ScoreNotFound
         }
     }
 }
