@@ -7,12 +7,13 @@
   ],
   "synopsis": {
     "text": "The story takes place on the continent of Teyvat during the Lantern Rite festival in Liyue. This is Liyue's most significant celebration, occurring on the first full moon of the year and lasting five days. Lantern Rite honors fallen heroes from the Archon War and reinvigorates current soldiers. Participants from Liyue's seven nations gather together for festivities like eating, drinking alcohol, and sightseeing as colorful lanterns illuminate the night sky. The lanterns represent the dreams and hopes of both the living and the dead. The spectacle of the floating lanterns and the togetherness they inspire is highly anticipated across Teyvat. Notable events include a concert performed by Hu Tao and Xinyan. The festival culminates in the dramatic mass release of lanterns, allowing nobody to be forgotten. There is a wistful, bittersweet feeling that this magical time spent with friends old and new must inevitably end. However, there is also hope that the connections made will allow everyone to meet again next year when the full moon returns.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.506,
     "arithmeticGeometricMean": 7.504430909633972,
-    "median": 7.41
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.41,
+    "lastUpdate": "2024-05-21"
+  }
 }

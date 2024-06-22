@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "This brief tale introduces us to Ai, a college student who embarks on an unplanned journey to Kobe, Japan, finding herself unsure of what to explore. Her fortune changes when she encounters Kazami Kei, an extraordinary figure donning a black tracksuit and resembling a giant chicken. Despite his busy life, Kazami takes it upon himself to show Ai the wonders of Kobe, from the exhilarating Harborland amusement park to the unique rotating cafés, and the captivating Nunobiki Falls. As they traverse the city together, Kazami hopes to reveal to Ai the hidden gems that make Kobe truly special.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-08"
   },
   "score": {
     "arithmeticMean": 4.60648573195512,
     "arithmeticGeometricMean": 4.594490039243055,
-    "median": 4.54
-  },
-  "lastUpdate": "2024-05-08"
+    "median": 4.54,
+    "lastUpdate": "2024-05-08"
+  }
 }

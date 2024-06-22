@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Diablo, a powerful demon lord summoned from another world, continues his adventures in the fantasy land of Cross Reverie. Alongside his companions - the warrior Shera and the pantherian Rem - Diablo has built a fearsome reputation, even defeating the demon lord Krebskulm. While testing a new spell, Diablo rescues Lumachina, a priestess being chased by assassins from her own corrupt church. Believing Diablo to be a god, Lumachina asks for his protection on a quest to confront the conspiracy within the church hierarchy. Though struggling to hide his true demonic identity, Diablo agrees to escort Lumachina on her journey. They are joined by new allies - the plant-like grasswalker Horn and the fiery Rose. Together, the group must evade the pursuing paladins and expose the church's secrets, while Diablo tries to maintain his guise as Lumachina's godly defender. Despite the challenges, Diablo continues to form strong bonds with his new friends in this strange yet familiar world.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.056445347188927,
     "arithmeticGeometricMean": 7.050442460548151,
-    "median": 7.186215526046986
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.186215526046986,
+    "lastUpdate": "2024-05-22"
+  }
 }

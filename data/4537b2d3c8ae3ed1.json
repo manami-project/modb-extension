@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "Takumi Fujiwara is a high school student who works part-time as a gas station attendant and makes late night tofu deliveries for his father in a Toyota AE86 Trueno. Unbeknownst to Takumi, his precise driving skills on the winding roads of Mt. Akina have made him a legendary amateur street racer. When the Akagi Red Suns, a skilled racing team, are defeated by a mysterious AE86 driver on Mt. Akina, they resolve to challenge the local Akina Speed Stars team to an exchange race in order to draw out the elusive driver. Though typically uninterested in racing, Takumi is persuaded to represent the Speed Stars in his father's AE86. As he heads to Mt. Akina to defend the pride of the Akina racers, Takumi soon finds himself at the center of a growing street racing legend.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.955969696969697,
     "arithmeticGeometricMean": 7.953997912394148,
-    "median": 7.867272727272727
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.867272727272727,
+    "lastUpdate": "2024-05-21"
+  }
 }

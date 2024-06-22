@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Miki Kiyora, a talented young violinist, travels to Vienna with her friends Shinichi Chiaki and Megumi \"Nodame\" Noda to meet the renowned conductor Franz von Stresemann. However, upon arriving, they find that Stresemann has unexpectedly fled to Japan. With their plans cancelled, the group decides to sightsee around the famous musical city instead. As they take in the sights of Vienna, Kiyora confides that she deeply misses her boyfriend Ryuutarou Mine, as she has not seen him for over a year due to her busy practice schedule for an upcoming international music competition in Paris. Though disappointed, Chiaki and Nodame promise to attend and support Kiyora at the competition finals. When the day of the finals arrives, Kiyora is surprised and overjoyed to find Ryuutarou has managed to travel to Paris to reunite with her and watch her perform. Fueled by her boyfriend's presence and support, Kiyora heads into the finals with high hopes.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.806159260240891,
     "arithmeticGeometricMean": 7.804242958485597,
-    "median": 7.8
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.8,
+    "lastUpdate": "2024-05-21"
+  }
 }

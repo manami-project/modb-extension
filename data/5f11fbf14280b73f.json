@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Violet Evergarden, an emotionally reserved former soldier, works as an Auto Memory Doll transcribing people's thoughts and feelings into letters. In an upcoming unaired episode taking place between the fourth and fifth episodes of the anime, Violet accepts a challenging new assignment. She is tasked with ghostwriting a fictional love letter for Irma Felice, a renowned opera singer whose lover went missing in the war. With no frame of reference about romance, Violet struggles to convey the complex emotions that Irma requests. After several unsuccessful attempts capturing the feeling of losing a loved one, Violet consults her empathetic coworkers, who provide their own heartfelt love letters for inspiration. Still unable to satisfy Irma, Violet directly asks the singer about her true feelings and experiences. By opening up and sharing her inner pain, Irma finally enables Violet to complete the difficult letter-writing assignment. Through this process, the emotionally stunted Violet gains insight into the profound depth of love as well as the anguish of grief.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.388677987413631,
     "arithmeticGeometricMean": 8.388584377097136,
-    "median": 8.373636363636365
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 8.373636363636365,
+    "lastUpdate": "2024-05-21"
+  }
 }

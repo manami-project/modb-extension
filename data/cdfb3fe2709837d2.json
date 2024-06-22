@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kaito is a high school student who loves solving puzzles. His life changes when he solves a dangerous \"philosopher's puzzle\" created by the mysterious group P.O.G. (Puzzle of God) and becomes a \"Solver\", tasked with battling P.O.G. around the world. In the past, Kaito's mentor Jin Makata lost his memories while fighting the Orpheus Order. Now, Kaito and his friends Rook and Nonoha are trying to help Jin recover his memories. They travel to England to an underground maze where Jin and Rook first met as children. There they encounter a mysterious girl named Raetsel who seems to know Jin. She disappears with Jin, activating traps in the maze that threaten Kaito and his friends. Later, Raetsel reappears and claims Jin actually despised puzzles so much that he founded an organization called Master Brain to eliminate them worldwide. As Kaito faces off against Master Brain's members in puzzle battles, he struggles to uncover the truth about Jin's past and determine if his mentor truly loved or hated puzzles. The key to unlocking Jin's memories - and the motive behind Master Brain's dangerous agenda - remains a puzzle yet to be solved.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 7.1403627087198505,
     "arithmeticGeometricMean": 7.134059308250921,
-    "median": 7.261632653061223
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 7.261632653061223,
+    "lastUpdate": "2024-05-19"
+  }
 }

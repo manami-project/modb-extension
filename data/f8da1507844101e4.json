@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "GoShogun follows a team of unlikely heroes - former soldier Shingo, French spy Remy, and Bronx gangster Killy - as they pilot the giant robot GoShogun to battle the evil organization Docooga. Docooga aims to steal Beamler, a powerful new energy source discovered by Professor Sanada. After Sanada's death, his colleague helps his son Kenta escape Docooga's pursuit by bringing him aboard the teleporting fortress Good Thunder. GoShogun is powered by Beamler energy, enabling the crew of Good Thunder to travel the world and fight back against Docooga and its leader, Neo Neros. They repeatedly thwart Neo Neros' forces and undermine Docooga's influence through destroying their bases, assisting popular rebellions, and averting environmental disasters. Though an unlikely team, Shingo, Remy, and Killy bravely take up the mantle as heroes wielding GoShogun against Docooga's evil ambitions. Their battles lead them across the globe as they hamper Docooga's control and help local populations, all while bringing their own flair through witty banter and camaraderie.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 5.624541743970316,
     "arithmeticGeometricMean": 5.6116194163520365,
-    "median": 5.408163265306122
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 5.408163265306122,
+    "lastUpdate": "2024-05-22"
+  }
 }

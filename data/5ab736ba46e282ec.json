@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the distant past, a Persian trader finds himself disoriented amidst a tempestuous windstorm, only to be guided to safety by a mystical, nine-colored deer. This supernatural creature later rescues a man from the clutches of a raging river, extracting a promise from him to keep its location a secret. The man, an herbalist, finds himself in an imperial court where the king expresses a desire to hunt the deer for its vibrant pelt. Overpowered by greed, the herbalist betrays his promise, leading a formidable army to the deer's sanctuary. However, when the man finds himself in peril in the river once more, the deer refuses to aid him, leaving him to his fate as the warriors' weapons turn to dust.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.09113172541744,
     "arithmeticGeometricMean": 6.0807454372652705,
-    "median": 6.0
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.0,
+    "lastUpdate": "2024-05-09"
+  }
 }

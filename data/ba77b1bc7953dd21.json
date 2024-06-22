@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Dragonars, a top-secret trio of Metal Armor units, become the last hope for humanity in A.D. 2087 as the United Lunar Empire Giganos wages a ruthless war against the Earth Federation Military. The Giganos, with their advanced technology and superior organization, have already seized control of 70% of Earth's surface, all in the name of a 'human rebirth'.\n\nDuring a brutal attack on a neutral space colony, three unsuspecting civilian men stumble upon the Dragonars. Kaine, Tapp, and Light, military students aboard the Space Station Alucard, find themselves in the heat of battle when they discover these powerful machines. Against all odds, they manage to fend off the initial assault, but their victory is short-lived as the Space Station Alucard is obliterated by an asteroid launched by the relentless Giganos military.\n\nWith the Earth's future hanging in the balance, these three unlikely heroes must navigate the complexities of war and master their newly acquired Dragonars to prevent the Giganos Empire from achieving their sinister goals and potentially save humanity from the brink of extinction.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.352122448979592,
     "arithmeticGeometricMean": 6.322248429610809,
-    "median": 6.454545454545455
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.454545454545455,
+    "lastUpdate": "2024-05-09"
+  }
 }

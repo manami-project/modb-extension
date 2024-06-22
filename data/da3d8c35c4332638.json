@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Jikan transports you to the enchanting realm of Iblard, a lush fantasy world brimming with magical airships, floating islands, and luxurious villas nestled amidst vibrant hillsides of flowers and trees. In this serene landscape, miniature tram cars traverse the terrain, ladies' dresses sway gently in the breeze, and a solitary pond nurtures a delicate sprout of life. As dusk descends, will o' wisps dance playfully, and warm lights flicker, casting a soothing glow over the picturesque scenery.\n\nThis captivating visual journey, accompanied by a mesmerizing soundtrack of lilting melodies, invites you to explore the breathtaking artistry of Naohisa Inoue. With no narrative to guide you, Iblard Jikan offers a unique window into a world that will wash over your mind with a profound sense of tranquility and awe, leaving you feeling both serene and inspired.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.453412668963688,
     "arithmeticGeometricMean": 6.443842678994234,
-    "median": 6.47
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.47,
+    "lastUpdate": "2024-05-09"
+  }
 }

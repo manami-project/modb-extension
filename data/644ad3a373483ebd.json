@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Along side the release of the 14th feature film, The Lost Ship in the Sky, comes a special episode that takes place in its aftermath. In this episode, young detective Conan is set to return to Tokyo aboard the 2.47 train, but not before his friend Hattori fulfills a promise. Hattori is determined to introduce Conan to his favorite okonomiyaki restaurant in Osaka. With a little over four hours to spare before their departure, the duo, accompanied by Kazuha, embarks on a mission to reach the restaurant. However, their journey is fraught with unexpected obstacles, including chatty neighbors and an abandoned baby in need of its parents. Will they manage to savor the delicious okonomiyaki before their train leaves, or will their adventure prevent them from reaching their culinary destination?",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 7.430148577612863,
     "arithmeticGeometricMean": 7.423918245310079,
-    "median": 7.571818181818182
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 7.571818181818182,
+    "lastUpdate": "2024-05-09"
+  }
 }

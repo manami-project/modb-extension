@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "In a world inhabited by Pokémon, a human boy mysteriously transforms into a Piplup named Pochama. He befriends a Chimchar named Hikozaru, and together they form an exploration team called Pokédans. They soon learn of anomalies occurring throughout the land - time is freezing in certain areas, causing the appearance of dangerous Mystery Dungeons. It's discovered a Grovyle thief named Juptile had been stealing magical Time Gears to stop the deterioration of Temporal Tower, which regulates time. Its collapse is corrupting Dialga into Dark Dialga, causing the time anomalies. Juptile reveals he stole the Time Gears in order to take them to Temporal Tower and prevent its collapse, which would freeze time permanently. Now Pochama, Hikozaru and Juptile must team up go to the Phantom Land where Temporal Tower is located before it's too late. Can they make it in time to save the Pokémon world from being frozen forever?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.5325890300176015,
     "arithmeticGeometricMean": 6.513093585979841,
-    "median": 6.693636363636363
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.693636363636363,
+    "lastUpdate": "2024-05-21"
+  }
 }

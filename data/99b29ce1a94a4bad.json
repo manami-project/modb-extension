@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "Seirin High faces intense matches in the Winter Cup basketball tournament quarterfinals and semifinals. In the quarterfinals against Yosen High, Seirin struggles to penetrate Yosen's formidable defense anchored by Murasakibara, a former teammate of Seirin's shadow player Kuroko. Kagami and Himuro, friends with an unsettled score, battle intensely as aces. Kuroko manages his first-ever field goal against his ex-teammate Murasakibara, helping Seirin eke out a narrow win. The semifinals pit Seirin against a familiar foe in Kaijo High and its ace Kise, whose athleticism and 'Perfect Copy' ability pose major threats. Kise injures his leg, but Kaijo rallies and nearly defeats Seirin even without their star. Seirin digs deep, banks on teamwork, and edges Kaijo in a thriller. The hard-fought victories set up a finals clash between Seirin and another powerhouse.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.784459893048129,
     "arithmeticGeometricMean": 7.781967292501036,
-    "median": 7.725
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.725,
+    "lastUpdate": "2024-05-21"
+  }
 }

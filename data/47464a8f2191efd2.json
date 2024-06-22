@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "After defecting from the military of the authoritarian U-ran Union, a desperate father named Gaganoff lands a stolen fighter jet carrying his family in the garden of the unlicensed surgeon Black Jack. Gaganoff pleads with Black Jack to save his young son Andrei, who is suffering from an incurable disease. Though Black Jack initially refuses, even when threatened with a gun, he is moved by the family's plight. Risking everything, Black Jack decides to attempt a radical, last-ditch surgery to try to save Andrei's life, though the odds seem hopeless. This dangerous choice forces both men to confront hard truths about the lengths they will go to for their ideals and loved ones. Ultimately, Black Jack manages to save Andrei but at great personal cost for both the doctor and the defecting soldier. Their lives are forever intertwined by the choice to take a chance on saving the boy.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.014344553405778,
     "arithmeticGeometricMean": 7.004052646542578,
-    "median": 6.818181818181818
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.818181818181818,
+    "lastUpdate": "2024-05-21"
+  }
 }

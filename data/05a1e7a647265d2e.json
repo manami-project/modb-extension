@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "The story centers around a young bear named Misha and his family, who move from the big city to a quirky small town inhabited by various animals. They arrive by train, which causes quite a stir among the townsfolk who haven't seen a locomotive in ages. Thinking the gathered crowd is there to welcome them, Misha's father immediately falls in love with the charming rural community and decides this will be their new home. As Misha's family adjusts day by day, the little bear cub contends with bullies, suspicious adults, and the general challenge of fitting into this tight-knit habitat. Luckily, he soon befriends some of the animal locals, including the Mayor's daughter, Natasha. With his new companions by his side, Misha gradually acclimates to small-town life and embarks on many funny adventures. Despite early difficulties, the once-out-of-place bears find happiness and belonging in their adopted home of Himadabeya.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.322043908472479,
     "arithmeticGeometricMean": 5.256002514139809,
-    "median": 5.695
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 5.695,
+    "lastUpdate": "2024-05-21"
+  }
 }

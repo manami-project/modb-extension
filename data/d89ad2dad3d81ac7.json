@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Baja is a mascot character belonging to the anime studio KOHATA. He lives a happy life with his friend Gar, until one fateful day. After overhearing people at the studio talking about the sea, Baja's curiosity is piqued. That night, with the help of the magical \"comet witch\" Coco, Baja gets to see the wondrous blue sea and the many creatures that live there. However, tragedy soon strikes. The masked wizard Ghee uses his magic to throw Gar into a pitch black sea, cruelly claiming he will show Baja the \"true sea.\" This shocking event leaves Baja bereft of his dear friend. But perhaps there is still hope of rescuing Gar from the treacherous depths. This magical yet bittersweet tale of friendship, discovery and loss unfolds inside the vibrant world of anime studio KOHATA. Brought to life through the imaginative animation of Kyoto Animation, viewers are sure to be drawn into Baja's touching journey across magical seascapes.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.871729128014842,
     "arithmeticGeometricMean": 6.864481275926227,
-    "median": 6.79
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.79,
+    "lastUpdate": "2024-05-22"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kabamaru spent his childhood training in the secret arts of ninjutsu under the strict tutelage of his grandfather, Saizou, in a remote mountain village. Though the intense training regimen left little time for leisure or indulgence, Kabamaru endured it in anticipation of the greater freedoms he would have after completing his ninja education. However, his dreams are cut short when Saizou unexpectedly passes away. Soon after, an elderly woman named Ran Akoko arrives, claiming Kabamaru's grandfather had tasked her with looking after the boy. Eager to escape the confines of the village, Kabamaru eagerly accompanies Akoko to Tokyo. Finally free to explore life's little pleasures, Kabamaru binges on ramen, yakisoba, and other foods that had been forbidden by his Spartan upbringing. Yet his hopes for an ordinary school life are dashed when he becomes embroiled in the bitter rivalry between two rival public schools hiding supernatural secrets. In Kabamaru's new home, intrigue and adventure await around every corner.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.1209748210972705,
     "arithmeticGeometricMean": 7.089294498635419,
-    "median": 7.682
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.682,
+    "lastUpdate": "2024-05-22"
+  }
 }

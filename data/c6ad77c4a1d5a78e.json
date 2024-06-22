@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "UFO Princess Walkyrie centers around Kazuto, an ordinary high school student who helps run his family's public bathhouse. His quiet life is disrupted when Princess Valkyrie, a visitor from outer space, accidentally crashes her spaceship into the bathhouse. The crash proves fatal for Kazuto, but Valkyrie manages to revive him by transferring part of her soul into his body. However, this soul transfer comes at a cost - Valkyrie's soul loses strength, causing the princess to transform into a young child both mentally and physically. \n\nNow living with Kazuto and bound to him for survival, Valkyrie settles into everyday life on Earth as an eccentric 8-year-old girl. Kazuto does his best to maintain normalcy while hiding the childlike alien princess from public view. In the bathhouse, they interact with various quirky female characters - like Valkyrie's protective cat-eared maid Sanada and her boisterous sister Hydra who arrives to bring Valkyrie back home. Together, Kazuto and his new alien companion find themselves embroiled in amusing misadventures.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.751381924198252,
     "arithmeticGeometricMean": 6.736816006945567,
-    "median": 6.74
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.74,
+    "lastUpdate": "2024-05-19"
+  }
 }

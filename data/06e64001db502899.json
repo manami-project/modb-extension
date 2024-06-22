@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "A century after their untimely deaths, six legendary samurai warriors are reincarnated with a pivotal purpose - to seek justice against Shirou Amakusa, the former comrade who betrayed and killed them. Bound together by their shared past and righteous cause, the six warriors embark on a fateful quest across feudal Japan to find their destined seventh member Haohmaru, the last Saint Soldier. United once more, this band of holy warriors must defeat the resurfaced forces of darkness and their nefarious leader Amakusa, who has freed the evil god Ambroja in hopes of repeating history. Armed with unyielding courage and mythic blades, the samurai must prove the mettle of their spirits stronger than steel itself. The ultimate battle between good and evil awaits, where six reincarnated heroes march to finally redeem the sins of the past or meet the same demise by betrayal.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 4.935612156550931,
     "arithmeticGeometricMean": 4.901014637868386,
-    "median": 5.0
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 5.0,
+    "lastUpdate": "2024-05-22"
+  }
 }

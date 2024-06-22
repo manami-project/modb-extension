@@ -6,12 +6,13 @@
   ],
   "synopsis": {
     "text": "It has been 40 years since a cataclysmic event erased the memories and destroyed the city of Paradigm. The residents have slowly rebuilt and regained some technology like electricity and vehicles, but the mystery of what happened that fateful day still lingers. Enter Roger Smith, a skilled negotiator who protects the people of Paradigm, haunted by his own foggy past. Alongside Roger are his loyal butler Norman, an advanced android named Dorothy, and the towering megadeus Big O - a giant robot relic from before the destruction. Together, they continue solving Paradigm's problems and unearthing clues about the city's extinct history. More and more memories resurface, suggesting that the truth behind \"The Event\" that devastated Paradigm might soon be revealed. Will Roger and his allies get to the bottom of this mystery? Or will the emerging secrets threaten the fragile peace they fought so hard to achieve?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.0141496598639455,
     "arithmeticGeometricMean": 7.013208842451076,
-    "median": 7.0
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.0,
+    "lastUpdate": "2024-05-21"
+  }
 }

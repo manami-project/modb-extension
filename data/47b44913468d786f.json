@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the aftermath of a devastating global war, Earth has been reduced to ruins. Haruka, a teenage girl, finds herself the sole human survivor, taking refuge in Japan with a group of caring sentient robots who have survived the apocalypse. The perky Spike, who sees Haruka as his best friend, the wise Cleric who offers her guidance, the fierce swordswoman Angela who protects her, the hulking yet gentle Reeves, and the trigger-happy Toriga make up her new mechanical family. Together, they scavenge the wastelands for supplies and fend off attacks from rogue military robots whose programming still compels them to fight a war that has already ended. As they struggle to build a peaceful life amidst scarcity and peril, Haruka remains hopeful that she will someday find other human survivors. But after years of fruitless searching, she faces the possibility that she may live out her life accompanied only by her devoted android companions, as the last remnant of mankind in a barren world still plagued by never-ending conflict.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.5336559766763855,
     "arithmeticGeometricMean": 6.528400204461407,
-    "median": 6.454545454545455
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.454545454545455,
+    "lastUpdate": "2024-05-21"
+  }
 }

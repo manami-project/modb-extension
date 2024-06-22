@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "This anime follows the crew of the naval ship Blue Steel, led by Captain Gunzou Chihaya, as they embark on a dangerous mission to deliver plans for a powerful new weapon to the United States. This weapon, called the Vibration Warhead Torpedo, could help turn the tide in humanity's war against the Fleet of Fog - an overwhelming enemy force of highly advanced, sentient warships. As the Blue Steel nears its goal, a new threat arises in the form of the Student Council - a group of the Fleet's remaining Mental Models, or humanoid avatars of the ships. Gunzou and his ragtag crew, aided by renegade Fog A.I.s like Iona, must fend off these deadly adversaries while also uncovering the truth behind the Fog's mysterious origins and authority. Iona's past proves key to understanding how the war began and why she has sided with the humans. The Student Council preaches that Earth must adhere to the rigid morality of the Fog if there is to be peace. Outnumbered but undaunted, the Blue Steel presses on through enemy waters, determined to deliver its precious cargo and turn the tide of this long and costly war.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.819924242424242,
     "arithmeticGeometricMean": 7.81966283968887,
-    "median": 7.8149999999999995
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.8149999999999995,
+    "lastUpdate": "2024-05-21"
+  }
 }

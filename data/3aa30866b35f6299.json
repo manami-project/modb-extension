@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "It is the year 0093 in the Universal Century timeline. Thirteen years after the One Year War, the foundations of peace are threatened once again by the emergence of Neo Zeon - a rebel group led by none other than Char Aznable, back from the presumed dead. Char plans to fulfill his late father's ambition of forcing all humanity into space by crashing the asteroid Axis into Earth, plunging the planet into a nuclear winter. The Earth Federation's elite Londo Bell unit, led by Bright Noa, is dispatched to prevent this catastrophe. Londo Bell's ace pilot is Amuro Ray, Char's longtime rival who now pilots the powerful Nu Gundam. After years of conflict, Amuro and Char will settle their deep-rooted grudge once and for all in a decisive final battle. With the stakes higher than ever, the two Newtypes will duel to determine not only their own fates, but the fate of humanity itself.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 7.490273345701917,
     "arithmeticGeometricMean": 7.488324456959474,
-    "median": 7.612181818181818
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 7.612181818181818,
+    "lastUpdate": "2024-05-20"
+  }
 }

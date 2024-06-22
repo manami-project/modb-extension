@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "This enchanting anime follows the journey of the Little Prince, a solitary inhabitant of the minuscule Astroid B612, a rocky outcrop floating in the vast expanse of space. His daily routine consists of tending to his three petite volcanoes, which double as his kitchen, and nurturing his beloved Rose Girl. The Little Prince also keeps the overgrowth of baobob trees in check and occasionally yearns for companionship.\n\nOne day, a peculiar bird visits the asteroid and introduces the Little Prince to the thrilling prospect of hitching rides on comets to explore distant galaxies. Inspired by this newfound possibility, the Little Prince embarks on a series of cosmic adventures, making new friends and learning essential life lessons about honesty, bravery, and kindness.\n\nDespite the asteroid's diminutive size, with a circumference of just 50 meters, it houses the Little Prince's only residence. The landscape is dotted with a few tiny volcanoes, flowers, and butterflies, but the Little Prince craves companionship. When the strange bird suggests that Earth might be the answer to his longing, the Little Prince decides to set off on a journey, initially with the help of a flock of birds.\n\nUpon reaching Earth, the Little Prince embarks on a grand expedition across Europe, encountering a diverse array of people and offering his assistance with their problems. Along the way, he hopes to find happiness and perhaps even forge some lasting friendships. This captivating series is one of several adaptations of Antoine de Saint-Exupéry's classic tale, \"The Little Prince,\" with the unique twist of the Little Prince's multiple journeys to Earth and similar planets, always returning to his cherished home asteroid.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.395973495891864,
     "arithmeticGeometricMean": 6.368036794175941,
-    "median": 6.37
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.37,
+    "lastUpdate": "2024-05-09"
+  }
 }

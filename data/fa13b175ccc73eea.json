@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "After much debate on how to spend their summer break, Doraemon proposes an exciting underwater expedition to Nobita and his friends. As they embark on their journey beneath the Pacific Ocean using Doraemon's advanced submarine, they stumble upon an ancient underwater civilization that has intentionally shunned contact with the surface world for millennia.\n\nAs the group ventures further, they find themselves in a precarious situation when Doraemon's environmental protection device begins to malfunction, leaving them exposed to the ocean's perils. Thankfully, marine creatures from the underwater kingdom of Mu come to their rescue. However, their relief is short-lived as they are subsequently captured and taken to Mu.\n\nMeanwhile, the neighboring undersea kingdom of Atlantis, now governed by robots, misinterprets a volcanic eruption as an act of aggression and plans to retaliate with nuclear weapons, threatening Earth's very existence. In a daring attempt to save their planet, Nobita and his friends join forces with a young inhabitant of Mu to thwart the robots' catastrophic plans.\n\nDespite their valiant efforts, the group is captured, and all hope seems lost. In a heroic act of self-sacrifice, Doraemon's robotic submarine destroys the central computer controlling the robots and their nuclear arsenal. Upon their triumphant return to Mu, Doraemon and his friends are celebrated as heroes, having saved both the underwater kingdom and Earth's surface from imminent destruction.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.7237667638483956,
     "arithmeticGeometricMean": 6.714745338101457,
-    "median": 6.818181818181818
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.818181818181818,
+    "lastUpdate": "2024-05-09"
+  }
 }

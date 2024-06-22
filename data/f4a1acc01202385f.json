@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The narrative unfolds in the ancient city of Kyoto, the erstwhile capital of Japan, during the Heian period, some 1,200 years ago. The tranquility of this epoch is shattered by a fierce conflict between humans and oni, fearsome demons threatening to disrupt the harmony of the world.\n\nIn this tumultuous setting, a 15-year-old boy named Jun Tendo is thrust back in time, finding himself in the throes of this supernatural war. Jun, an ordinary middle school student, is prophesied to wield command over Orochi, a formidable eight-headed dragon, and is hailed as a savior.\n\nHowever, Jun grapples with the weight of his newfound role, unsure of how to navigate the mystical battles and adventures that lie ahead. As he embarks on this extraordinary journey, Jun must rise above his initial reluctance and transform into the hero destined to restore balance and peace to the world.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.459643313602497,
     "arithmeticGeometricMean": 6.455127751800311,
-    "median": 6.49
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.49,
+    "lastUpdate": "2024-05-09"
+  }
 }

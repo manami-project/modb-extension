@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The new anime series follows Aichi Sendou, a timid middle school boy whose life is changed when he reunites with Toshiki Kai, an acquaintance from childhood. Kai had originally given Aichi the rare \"Blaster Blade\" Vanguard card, which Aichi treasures deeply. When the card is stolen by a classmate, Katsumi, Aichi must duel to win it back. Although inexperienced, Aichi discovers a natural talent for Vanguard and becomes increasingly engrossed in the game. He reconnects with Kai, who helps introduce him to cardfighting. As Aichi gets drawn further into the Vanguard scene, he encounters both its positive and negative sides. He also reconnects with other characters like Misaki Tokura, Kamui Katsuragi, and Ren Suzugamori. The anime depicts the youthful story of Aichi and other cardfighters competing passionately through Vanguard.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.797837198515769,
     "arithmeticGeometricMean": 6.7845709895176185,
-    "median": 6.885
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.885,
+    "lastUpdate": "2024-05-19"
+  }
 }

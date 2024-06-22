@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In a dystopian future society controlled by a central computer system, humans are grown in artificial wombs and assigned to random parents at birth. At age 14, on \"Waking Day,\" children have their memories erased before job training to become obedient citizens. However, some develop psychic powers and are dubbed \"Mu.\" Seen as a threat, Mu are usually killed if discovered. The few that escape live in hiding, longing to return to Earth which was abandoned centuries ago after an ecological devastation. Jomy Marcus Shin is a 14-year-old unaware he is about to be declared a Mu. After hearing the telepathic voice of the Mu leader, Soldier Blue, Jomy escapes to the Mu community. Shocked to learn he has psychic powers, Jomy inherits Soldier Blue's memories and becomes the prophesied leader who can free the Mu. Jomy must choose whether to keep the Mu hidden or wage war on humanity to reclaim Earth. Complicating matters is an exceptional boy who controls the computer system yet questions why Mu continue to be born. As leader, Jomy must combat a formidable foe with both mental and physical power to secure the Mu's dream of returning to their terraformed homeworld.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.536357805459846,
     "arithmeticGeometricMean": 6.5346359977228525,
-    "median": 6.522
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 6.522,
+    "lastUpdate": "2024-05-20"
+  }
 }

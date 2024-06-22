@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Naofumi Iwatani is an otaku college student who suddenly finds himself summoned from his ordinary life to a parallel fantasy world. There, he discovers he is one of four Cardinal Heroes tasked with saving the kingdom of Melromarc from monsters called Waves of Catastrophe. Naofumi is given a legendary shield, marking him as the Shield Hero. Though initially excited for an adventure, Naofumi soon faces discrimination and betrayal. He is framed by his companion Malty for a crime he didn't commit, stripped of his money and resources, and ostracized by the kingdom. Alone and filled with cynicism, Naofumi purchases a demihuman slave named Raphtalia to aid him on his journey. As the Waves approach, the other Cardinal Heroes band together while Naofumi is forced to strengthen himself and rebuild his reputation alone. With only his shield by his side, he must protect a kingdom that has scorned him if he hopes to survive and find justice. Despite the challenges, Naofumi resolves to rise up from his false accusations and fulfill his role as the legendary Shield Hero.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 8.2252736355906,
     "arithmeticGeometricMean": 8.22092441650154,
-    "median": 8.28795725108225
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 8.28795725108225,
+    "lastUpdate": "2024-05-22"
+  }
 }

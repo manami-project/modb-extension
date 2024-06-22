@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "The upcoming special episode titled \"The File of Inspector Akechi\" focuses on junior detective Ryūtaro Kobayashi and his mentor, the renowned Inspector Kengo Akechi. The story flashes back to one of Kobayashi's first cases working under Akechi. They investigate a string of crimes committed by Youhei Kijima, the son of a prominent politician who has repeatedly avoided prosecution due to his father's influence. When Kijima is implicated in a bookstore theft, Akechi and Kobayashi finally have the evidence needed to charge him. However, the investigation is soon dropped due to political pressure. Unwilling to let Kijima get away again, Akechi and Kobayashi persist in their pursuit of justice. Their defiance of orders to back off the case leads to escalating tensions. With Miyuki also becoming an unexpected victim of theft, it seems the junior and senior detectives will have their resolve tested like never before. Will they successfully bring Kijima to account for his crimes?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.010019789734074,
     "arithmeticGeometricMean": 7.004622396608674,
-    "median": 7.090454545454545
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.090454545454545,
+    "lastUpdate": "2024-05-21"
+  }
 }

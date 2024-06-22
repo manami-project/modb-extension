@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "The Saienji Temple exorcists have been assigned a unique new task - to exorcise a spirit haunting a movie studio, while undercover as actors in the studio's latest film production. As they wait for the spirit to appear, the young nuns pass the time by interviewing each other during a filming break. The lighthearted conversations allow them to share details about their backgrounds, relationships, and prior exorcism experiences. However, they must balance opening up to one another with staying alert, as their true mission at the studio is to banish the lurking spirit. The behind-the-scenes interviews provide insight into the exorcists' personalities and interpersonal dynamics. Their camaraderie is tested when a new initiate named Kazuki joins their ranks. Kazuki's presence leads to amusingly awkward situations for the temple's head monk, Ikkō. However, with Kazuki's help, the intrepid team continues working together to grow as exorcists while taking on playful alter egos in service of their entertainment industry cover story.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.505717377860235,
     "arithmeticGeometricMean": 6.503344023845961,
-    "median": 6.525
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.525,
+    "lastUpdate": "2024-05-21"
+  }
 }

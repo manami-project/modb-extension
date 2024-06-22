@@ -12,12 +12,13 @@
   ],
   "synopsis": {
     "text": "Two children, Sho and Azusa, discover a magical book called the Superbook that sends them, along with their toy robot Zenmaijikake, back in time to witness biblical events firsthand. In one adventure, they travel back to the days of the Old Testament where they cross the Red Sea with Moses and the Israelites. In another, they witness the story of Jonah getting swallowed by the whale. They also see David being anointed as king. Through these incredible journeys to the past, the children are able to experience major events from the Bible as if they were there themselves. Their adventures allow them to deepen their understanding of these iconic stories while living through the magic and excitement of traveling through time.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 5.625849456665784,
     "arithmeticGeometricMean": 5.5999744580871536,
-    "median": 5.636363636363637
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 5.636363636363637,
+    "lastUpdate": "2024-05-22"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Taruto is a young cat-girl living with her human owners Iori and Kinako. She resides in a world filled with mystery, where cat-people appear as normal animals but possess magical abilities. As a descendant of an ancient cat clan called the Nekomata, Taruto believes she has magical powers deep within her yet to be discovered. Though her cat magic often causes chaos and disaster, Taruto remains determined to control her abilities. She passes her days exploring her new hometown of Okashina, making friends both animal and human alike. Some believe in Taruto's magic and royal cat lineage, while others remain skeptical. Nonetheless, Taruto endeavors to uncover the secrets behind cat-magic folklore and awaken her inner power. With time, practice, and a little luck, perhaps this clumsy cat-girl can master her magic, prove her prestigious ancestry, and unravel the mysteries surrounding the legendary cat kingdom. Though the road won't be easy, Taruto tackles each catastrophe with feline optimism, curiosity, and the support of her loving home.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.072742115027829,
     "arithmeticGeometricMean": 6.062084799881426,
-    "median": 6.004
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 6.004,
+    "lastUpdate": "2024-05-20"
+  }
 }

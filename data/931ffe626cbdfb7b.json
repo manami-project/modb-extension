@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Set in the near future, the government establishes a new rescue organization called Hyper Rescue to respond to increasingly complex disasters and crimes. They develop transformable vehicles called Drive Heads that combine police, firefighting, and rescue functions. Drive Heads can switch between car and humanoid walker modes to handle different situations. To operate the Drive Heads, the Hyper Rescue team recruits capable grade school students including Gou Kurumada. Together with police and other adults, these children race to rescue scenes to protect people and maintain peace. Though young, the kids prove themselves as drivers capable of responding to even overwhelming catastrophes. With advanced vehicles and a mix of experienced adults and gifted kids, Hyper Rescue tackles challenging new threats. Despite the dangers, the team bravely charges ahead to save lives when no one else can.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 5.506946196660482,
     "arithmeticGeometricMean": 5.480983258598524,
-    "median": 5.181818181818182
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 5.181818181818182,
+    "lastUpdate": "2024-05-19"
+  }
 }

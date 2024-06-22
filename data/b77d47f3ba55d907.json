@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Takumi Fujiwara is an aloof high school student who works part-time delivering tofu for his father's shop. Unbeknownst to his friends, Takumi has honed incredible driving skills by practicing on Mount Akina's winding roads in the early morning hours. When the legendary Akagi Red Suns street racing team challenges the local Akina Speed Stars crew, their ace Keisuke is stunned to be overtaken by a mysterious Toyota AE86 Trueno. This defeat sparks the Red Suns' fixation on finding the identity of the AE86's driver, soon revealed to be Takumi himself. Despite having little interest in cars, Takumi's natural talent draws him into the underground world of street racing. Local teams vie to challenge the legendary \"White Ghost of Akina\" and conquer the mountain passes he calls home. Will Takumi rise to the competition or shy away from his accidental claim to fame? Through it all, the AE86 remains Takumi's trusty steed as he navigates risky mountain passes and cutthroat racing rivals.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 8.23518142606186,
     "arithmeticGeometricMean": 8.234536105349944,
-    "median": 8.253
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 8.253,
+    "lastUpdate": "2024-05-22"
+  }
 }

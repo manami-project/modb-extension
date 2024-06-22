@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "This Chinese animation tells the story of a fisherman who witnesses a dispute between a snipe and a clam while fishing. Originally told by storyteller Su Dai during China's feudal era, the tale begins when the fisherman spots both a snipe and a clam while trying to catch fish. Though he attempts to capture them, his efforts are unsuccessful. Soon after, a kingfisher catches a worm. However, the clam takes the worm away from the kingfisher before it can eat the worm itself. Angered at having its meal stolen, the snipe snatches back the worm from the clam and swallows it. This causes the clam to become furious, resulting in a grappling match over the food between the two creatures. As the snipe and clam fight, the observing fisherman is delighted at the spectacle unfolding before him. Through this story, the idiom cautions that while two parties are engaged in their own squabble, there may be a third party taking advantage of the situation to their own benefit.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 5.95553511794328,
     "arithmeticGeometricMean": 5.946626346350427,
-    "median": 5.7272727272727275
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 5.7272727272727275,
+    "lastUpdate": "2024-05-19"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the 23rd century, humanity has used advanced genetic engineering to create a stable, peaceful society, though at the cost of emotions like love. The population is mostly female, as men are seen as more aggressive. A mysterious 500 km wide golden Ring has appeared orbiting Earth, and when a small human mission sent to investigate it ends in an explosion on the Ring's surface, the Ring retaliates by firing an energy beam that destroys everything within 250 km of IESA command in California. Only a few narrowly escape the destruction, including an elite team of genetically engineered women - Mika Seido, Sofia Galgalim, Tiki Musicanova, and Mario Musicanova. Under the command of Captain Hiroto Amagiwa, they board the advanced warship I.E.O. Bilkis to continue investigating the Ring's origins and neutralize any threat it poses to humanity. The women are qualified to control the Bilkis' powerful prototype weapon, The Shaft. As the only member without a defined genetic purpose, Mika struggles to prove her worth to the crew during this dangerous mission into the unknown.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.093212297906176,
     "arithmeticGeometricMean": 6.080630213677389,
-    "median": 6.15
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 6.15,
+    "lastUpdate": "2024-05-20"
+  }
 }

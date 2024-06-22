@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Houkago Tea Time, a high school light music club consisting of five girls - Yui, Mio, Ritsu, Tsumugi, and Azusa - has been invited by Ritsu's middle school friend to perform live at a concert house on New Year's Eve. As the performance date approaches, the band members work hard to prepare - deciding on their setlist, costumes, and lighting against a short 10-day deadline. While all five girls are enthusiastic about the rare opportunity to perform publicly, some anxieties emerge as well. Mio struggles with her shyness and embarrassment on stage, while Yui worries about meeting the expectations of an audience, having joined the band with no prior musical experience. Nonetheless, the charm and chemistry shared between these friends propels them forward. On the night of the big show, Houkago Tea Time takes the stage, hoping to overcome their nerves and self-doubts to deliver an incredible debut performance. Backed by their passion for music and support for one another, the band sets out to rock the house this New Year's Eve.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.92016972849746,
     "arithmeticGeometricMean": 7.92006407896161,
-    "median": 7.942
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.942,
+    "lastUpdate": "2024-05-21"
+  }
 }

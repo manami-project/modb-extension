@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Chuuji Akagi, a middle school transfer student with an athletic prowess and unyielding sense of justice, finds himself in a school plagued by a ruthless youth gang. Instead of succumbing to their intimidation, Akagi takes a stand, challenging and defeating each gang member one by one. His ultimate goal? To dethrone the gang's leader and restore peace to the school. Catch the action in daily episodes, each packed with 10 minutes of thrilling confrontations.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-10"
   },
   "score": {
     "arithmeticMean": 5.567333333333333,
     "arithmeticGeometricMean": 5.54009190974996,
-    "median": 5.0
-  },
-  "lastUpdate": "2024-05-10"
+    "median": 5.0,
+    "lastUpdate": "2024-05-10"
+  }
 }

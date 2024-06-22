@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The story centers around Geppetto, a lonely old woodcarver who yearns for a son. One day, the puppet he is carving miraculously comes to life before the carving is complete. Geppetto names the puppet Pinocchio and treats him as the son he never had. Pinocchio proves to be quite mischievous, causing trouble for Geppetto. However, Geppetto sees that deep down Pinocchio has a good heart. Tragedy strikes when Pinocchio is deceived by a wicked fox named Dino and his sidekick, a cat called the Witch. Dino and the Witch sell Pinocchio and his friend Gina, a duck that hatched from an egg, to a cruel puppet master. Desperate to reunite with Geppetto, Pinocchio embarks on many adventures where he repeatedly comes up against the deceitful Dino and the Witch. Though Pinocchio tries to stay out of trouble, misfortune follows the wooden boy at every turn. Yet he remains pure of heart through it all. This delightful story teaches that those with good intentions will find their dreams rewarded, and that true love has the power to work miracles.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.073220249138617,
     "arithmeticGeometricMean": 6.046179816742747,
-    "median": 6.1818181818181825
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.1818181818181825,
+    "lastUpdate": "2024-05-22"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Universal Century 0079 witnesses a brutal conflict between the Earth Federation and the Principality of Zeon in the 'Thunderbolt Sector', a shoal zone in the remnants of Colony Side 4 'Moore'. The area, marked by lightning flashes due to colliding debris, becomes the battleground for the Federation's 'Moore Brotherhood' and Zeon's 'Living Dead Division'. Amidst the chaos, Io Fleming, a skilled Federation pilot with a passion for jazz, takes charge of the latest Gundam prototype after breaching Zeon's sniper field. Meanwhile, Zeon's ace sniper, Daryl Lorenz, sacrifices his humanity to pilot an experimental Zaku II unit, setting the stage for a confrontation that could alter the course of the war. As these two foes collide, they grapple with their shared destiny: to eliminate each other.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 7.662038961038961,
     "arithmeticGeometricMean": 7.658112725637046,
-    "median": 7.809
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 7.809,
+    "lastUpdate": "2024-05-09"
+  }
 }

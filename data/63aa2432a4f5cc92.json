@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Cocona is a cautious middle school student struggling to decide her path in life when she encounters Papika, an eccentric girl who drags her into joining a mysterious organization called Flip Flap. Together, they are sent on missions to gather crystal shards in surreal alternate dimensions known as Pure Illusion. As they explore these bizarre worlds and face dangerous creatures, they use the shards' power to transform into magical girls with special abilities. However, Flip Flap has a rival group called Asclepius that is also seeking the shards. Cocona's childhood friend Yayaka works for them, putting the two organizations in conflict. Through their adventures and clashes, Cocona starts questioning the shards' purpose while unraveling secrets about Pure Illusion and herself. She embarks on a journey of self-discovery, forging a deep bond with Papika in the process. Though cautious by nature, Cocona finds her perspective and future goals turned upside down in unpredictable ways by her otherworldly experiences. The path forward remains mysterious, but she's determined to make the most of her magical opportunity.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.549705088828292,
     "arithmeticGeometricMean": 7.547821906455692,
-    "median": 7.638181818181818
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.638181818181818,
+    "lastUpdate": "2024-05-22"
+  }
 }

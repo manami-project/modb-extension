@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "In a war-torn world, a group of fighters known as Sevaars engage in daily battles for pride and honor. Among them are Gau Ban (nicknamed \"Black Howling\") and Elle Ragu, two young warriors aiming to master the legendary martial art called Shadow Skill. This mastery could pit them against each other. When not battling, the citizens lead ordinary lives. However, 14-year-old Gau gets a sobering reminder of his tragic past when he revisits his parents’ grave, who were murdered by bandits when he was 10. Accompanied by his adoptive sister Elle, Gau realizes this pilgrimage involves more than mourning. His abilities as a martial arts student will face the ultimate test. Additionally, the renowned fighter Ella, known as \"Shadow Skill,\" has taken in Gau Ban and treats him like a brother, though he keeps an emotional distance. After resolving interpersonal conflicts, they meet a girl seeking Ella's help. A monster has killed her master, so she asks Ella and friends to fight it. Through dedication and Shadow Skill, this group of heroes stands ready to battle the forces of darkness.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.2122957858468055,
     "arithmeticGeometricMean": 6.198222797370009,
-    "median": 6.33
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.33,
+    "lastUpdate": "2024-05-21"
+  }
 }

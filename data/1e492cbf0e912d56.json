@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Toa, a mysterious girl with superhuman abilities, rescues Jin Kamishina, a lonely 18-year-old, from a deadly fall after he witnesses a murder committed by a monstrous creature. Two years prior, Jin's family perished in a shuttle accident, which he later discovers was caused by Thanatos, an asteroid on a collision course with Earth. In response to this impending catastrophe, the International Solarsystem Development Agency (ISDA) initiates the D-Project, creating the Dragonaut, a powerful weapon designed to destroy the asteroid, after finding a dragon egg beneath the ocean. As Jin becomes the chosen Dragonaut pilot, he and Toa delve deeper into the enigmatic world of dragons, forging new alliances and facing formidable adversaries. As they unravel the secrets surrounding the ISDA and the dragons, Jin and Toa's bond strengthens, drawing them closer together on their perilous journey.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.715764954334831,
     "arithmeticGeometricMean": 6.709535000656021,
-    "median": 6.601
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.601,
+    "lastUpdate": "2024-05-09"
+  }
 }

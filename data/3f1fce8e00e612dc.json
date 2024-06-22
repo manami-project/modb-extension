@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Unaired OVA episode from Bakumatsu Rock: Ultra Soul takes a dark turn when Ryouma and his friends visit a picturesque hot springs resort for a relaxing getaway. The tranquility is shattered by a murder at their inn, with the victim bearing an enigmatic '69' inked on their leg. As the group is drawn into the mystery, they must decipher the meaning behind this cryptic clue to unravel the truth and catch the culprit.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-08"
   },
   "score": {
     "arithmeticMean": 6.067588656241718,
     "arithmeticGeometricMean": 6.0493994354265315,
-    "median": 6.03
-  },
-  "lastUpdate": "2024-05-08"
+    "median": 6.03,
+    "lastUpdate": "2024-05-08"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "On the world of Auldrant, people's lives are dictated by the Score, a series of prophecies that foretell the future. However, some seek to defy their predestined fates. Luke fon Fabre is a sheltered noble who has been confined to his family's mansion since being kidnapped as a child. When a mysterious woman named Tear breaks in and tries to attack Luke's swordmaster, Luke and Tear end up teleported to distant lands. What follows is an epic journey where Luke discovers the secrets of his forgotten past and becomes embroiled in a conflict between the powerful nations of Kimlasca-Lanvaldear and Malkuth. Alongside allies both old and new, Luke must decide if he will accept the destiny the Score has laid out, or fight to carve his own path. Battling fate and revealing hidden truths, Luke's choices will determine the fate of the world itself. Will he bring prosperity through accepting the Score's prophecy, or destruction by defying it?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 7.243717726625534,
     "arithmeticGeometricMean": 7.242152705895796,
-    "median": 7.256279069767443
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 7.256279069767443,
+    "lastUpdate": "2024-05-20"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Engineers and police organizations from around the world have gathered near Hachijō-jima island in Tokyo for a large-scale operation called \"Pacific Buoy.\" This offshore facility aims to connect security cameras globally to advance facial recognition systems and improve international crime fighting capabilities. Coincidentally, Conan and the Detective Boys are visiting Hachijō-jima after accepting Sonoko's invitation. However, their vacation takes a dark turn when they receive word from an acquaintance that a Europol employee was recently murdered in Germany by the notorious Black Organization. Conan sneaks into the Pacific Buoy facility and makes the chilling discovery that the Black Organization has kidnapped a female engineer working on the project. Even worse, the group has obtained sensitive information from her about the new facial recognition technology. Meanwhile, his partner Ai Haibara senses a looming threat from the shadowy syndicate. As Conan and the Detective Boys are drawn into this explosive case, it becomes clear the Black Organization plans to misuse the Pacific Buoy technology for their own criminal ends. The race is on to thwart their scheme and save the kidnapped engineer before it's too late.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.8294073681420615,
     "arithmeticGeometricMean": 7.806116285794944,
-    "median": 8.176
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 8.176,
+    "lastUpdate": "2024-05-21"
+  }
 }

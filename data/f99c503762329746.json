@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the year 2205, male warrior spirits wielding swords blessed by a Shinto priest are tasked with protecting the past from evil demons seeking to revise history. Recently plagued by nightmares surrounding his former master Oda Nobunaga's death, Samonji Soza and his comrades travel back in time to the fateful Honnouji incident in 1582. There, swordsmen loyal to Nobunaga, including Soza, must band together and confront the demons attacking the temple where Nobunaga was assassinated. With the course of history hanging in the balance, Soza faces an agonizing choice - stand aside as events unfold, or take action to alter the past and potentially jeopardize the future. The ensuing battle at Honnouji will test the resolve of these swordsmen sworn to serve their deceased lord. More than just Nobunaga's legacy is at stake; the souls of the warriors and the fabric of time itself may be forever changed based on the choices made that day.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-06-22"
   },
   "score": {
     "arithmeticMean": 5.981647495361781,
     "arithmeticGeometricMean": 5.948512259201128,
-    "median": 5.9853061224489785
-  },
-  "lastUpdate": "2024-06-22"
+    "median": 5.9853061224489785,
+    "lastUpdate": "2024-06-22"
+  }
 }

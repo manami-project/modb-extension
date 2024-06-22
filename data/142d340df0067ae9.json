@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Meimi Haneoka is an ordinary 8th grade schoolgirl, but she has a secret double life. By night, she magically transforms into Saint Tail, a phantom thief with a heart of gold who steals back unjustly taken items and returns them to their rightful owners. Meimi is aided in her capers by her best friend Seira Mimori, a nun-in-training who provides divine guidance. However, Meimi also has a persistent adversary: her spirited classmate Daiki Asuka Jr., who has made it his mission to unmask Saint Tail's real identity. Though they are rivals, there are hints of budding romance between Meimi and Daiki. With her magical tricks, Saint Tail delivers poetic justice by moonlight. But she must continue to evade capture from the determined Daiki, even as her heart becomes entangled with feelings for her adversary. Her thrilling adventures bring excitement to the streets by night, while by day she contends with the more ordinary perils of school, particularly math class.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.596615425390937,
     "arithmeticGeometricMean": 7.589004536036056,
-    "median": 7.57
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.57,
+    "lastUpdate": "2024-05-22"
+  }
 }

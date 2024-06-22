@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Nai is on a quest to find his missing friend Karoku, armed with only an abandoned bracelet belonging to an elite defense force called Circus. He crosses paths with Gareki, a savvy young thief. After getting entangled in a strange plot, the pair become wanted fugitives and turn to Circus for help. Circus is a colorful crew of crime-fighters with special powers who take on dangerous missions too difficult for regular authorities. They use razzle-dazzle tactics to battle sinister monsters called Varuga that are terrorizing civilians. However, the Varuga may be connected to a shadowy group named Kafka pursuing dark aims. Though Circus has no clues about Karoku, they agree to aid Nai and Gareki on their search, as long as the pair joins forces against the rising threat. Together, they set off on a perilous journey that leads them ever deeper into the secrets behind Kafka and the key to finding Nai's lost companion. But will they uncover the truth before Kafka's evil plans come to fruition?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.974415352504638,
     "arithmeticGeometricMean": 6.969515479888973,
-    "median": 7.093979591836734
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 7.093979591836734,
+    "lastUpdate": "2024-05-20"
+  }
 }

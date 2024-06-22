@@ -6,12 +6,13 @@
   ],
   "synopsis": {
     "text": "This abstract animation follows a group of shapes called \"QQQ\" that have the ability to dynamically transform themselves. Beginning as simple forms able to spin and roll, the QQQ shapes start to shift, taking on new configurations as they swing, turn, and travel across space. Their metamorphoses appear almost magical, the QQQ flowing from one form to another with captivating fluidity. Created as a graduate project in 2012 by artist YungSung Song while studying animation at Tokyo University of the Arts, this mesmerizing piece seems to ask - what might be possible if shapes were imbued with their own agency to transform? As the QQQ shapes continue to morph in unexpected ways, they draw viewers into their kinetic world, full of possibility. Their effortless transformations suggest a creative realm limited only by imagination.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.726454545454546,
     "arithmeticGeometricMean": 5.708752343896953,
-    "median": 5.726454545454546
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 5.726454545454546,
+    "lastUpdate": "2024-05-21"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the heart of San Francisco, the legendary thief, Lupin III, has his eyes set on the Bank of Liberty, the rumored hiding place of the Romanov family's lost gold. This isn't just any treasure - it's a staggering five hundred tons of gold, believed to have been used by the Romanovs to stage their alleged death in 1918. With the help of his trusted comrades and a Romanov expert named Judy Scott, Lupin embarks on a daring heist. But they're not the only ones after the gold. The New York Mafia, the bank's owners, and Rasputon, a powerful telepathic descendant of the infamous monk Rasputin, are all in the race. As Lupin navigates through this maze of adversaries, he finds himself in a global power play, with the Romanov's golden legacy at the center. Will Lupin's unmatched thieving skills be enough to outwit them all? Only time will tell in this thrilling installment of Lupin III's adventures.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.779962364166445,
     "arithmeticGeometricMean": 6.778108480757713,
-    "median": 6.79
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.79,
+    "lastUpdate": "2024-05-09"
+  }
 }

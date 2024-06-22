@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "For centuries, the Iga and Kouga ninja clans had been engaged in a bitter rivalry, kept in check only by a covenant of peace ordered by the powerful warlord Ieyasu Tokugawa. Years later, the heirs of the two clans - Gennosuke Kouga and Oboro Iga - fell in love and aimed to fully reconcile the clans through marriage. However, the shogun reignited the clans' hatred by ordering them to send their 10 best warriors to fight to the death, with the prize being the Tokugawa government's support for the next thousand years. This was to resolve an internal struggle over which of the shogun's two grandsons would succeed him. Now torn between their duty and love for each other, Gennosuke and Oboro must lead their clans against one another in a brutal ninja battle royale marked by a steadily rising death toll. Ultimately, the two star-crossed lovers must decide whether their romance can withstand the violent clash between their tribes.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 7.5038420873399865,
     "arithmeticGeometricMean": 7.502518931699918,
-    "median": 7.514106753812636
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 7.514106753812636,
+    "lastUpdate": "2024-05-19"
+  }
 }

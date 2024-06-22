@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The story takes place in the magical Moomin Valley, home to the peaceful Moomin trolls and other whimsical creatures. When spring arrives, the valley comes alive as the residents awaken from their winter hibernation. Young Moomin and his family prepare for a new season of adventures, both ordinary and extraordinary. Moomin's close friend Snufkin returns from his annual winter migration, marking the official start of spring. One day while playing, Moomin and his friends find a mysterious magic top hat that transforms anything inside it. To their shock, when Moomin hides in the hat he becomes an ugly monster! After turning back to normal and giving his family a good scare, Moomin and Snufkin get rid of the tricky hat. As the hat floats away down the river, it makes them wonder about its origins and past. But with spring in full bloom, new adventures await the plucky Moomin clan around every corner of their remarkable valley home.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.237185617103983,
     "arithmeticGeometricMean": 7.181263989427521,
-    "median": 7.416666666666667
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.416666666666667,
+    "lastUpdate": "2024-05-21"
+  }
 }

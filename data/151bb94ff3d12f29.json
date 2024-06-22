@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The tale begins with a naughty young boy named Nils, who finds joy in bothering the animals on his family's farm. One day, he crosses paths with a magical creature, a tomte, who decides to teach Nils a lesson by shrinking him to a minuscule size. As a result, Nils is forced to flee the farm to escape the wrath of the animals he once tormented. He finds refuge with a group of wild geese, led by the wise and stern Captain Akka, and embarks on a thrilling journey to Lapland. Alongside his pet hamster, Carrot, Nils encounters various enchanting beings, including talking statues, wise ravens, and wicked witches. Throughout his adventures, Nils learns to appreciate nature and discovers a kinder, more compassionate side of himself. However, as the journey progresses, Nils faces a difficult decision: stay with his newfound feathered friends or return to his human family.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.445109992048768,
     "arithmeticGeometricMean": 6.422981646172318,
-    "median": 6.58
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.58,
+    "lastUpdate": "2024-05-09"
+  }
 }

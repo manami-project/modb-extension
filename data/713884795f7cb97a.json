@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kusomoto Elle, a skilled female test pilot, leaves Lieutenant Kilgore, Japan's most macho tank driver, in the dust during the inaugural test of the groundbreaking MADOX-01 battle-suit. Seething with humiliation, Kilgore vows retribution. His chance comes when the MADOX prototype is misplaced in Tokyo following a series of mishaps involving multiple trucks. The powerful suit lands in the possession of Koji Sujimoto, an unsuspecting college student. Driven by curiosity, Koji tinkers with the MADOX without fully understanding its operation, resulting in him being trapped inside and darting uncontrollably around Tokyo. Now, it's up to Koji to navigate the complexities of the MADOX, evade the relentless pursuit of the military, and salvage his date, all while avoiding becoming Kilgore's target for revenge.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 5.72387931796095,
     "arithmeticGeometricMean": 5.703602037552503,
-    "median": 5.87
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 5.87,
+    "lastUpdate": "2024-05-09"
+  }
 }

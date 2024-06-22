@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "The story centers around the Holy Grail War, a violent ritual held in Fuyuki City where magi known as Masters summon heroic spirits called Servants to battle for the Holy Grail, an artifact that can grant wishes. The last Grail War 10 years ago caused massive destruction in the city. The main character, Shirou Emiya, is a survivor of that disaster who now leads a peaceful life with his friends. He is especially close with his classmate Sakura Matou, who provides him kindness and care. However, when a new Holy Grail War unexpectedly begins, Shirou is compelled to participate to protect innocent people, aligning with fellow Master Rin Tohsaka. As the War progresses, a mysterious \"Shadow\" starts murdering civilians throughout the city. Shirou also uncovers dark secrets about the War and the mage families involved, including disturbing truths about Sakura's past. He struggles to balance his care for her with his desire to become a hero and stop the killings perpetrated by the Shadow.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.225615464994776,
     "arithmeticGeometricMean": 8.225529995122967,
-    "median": 8.21448275862069
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 8.21448275862069,
+    "lastUpdate": "2024-05-21"
+  }
 }

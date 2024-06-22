@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The story follows a group of teenagers who are Eva pilots tasked with defending the futuristic city of Tokyo-3 against attacks from mysterious beings called Angels. Shinji, Rei, and Asuka make up the core team of pilots, later joined by Mari, a secretive new addition. They battle the Angels in biomechanical mechas called Evas, with NERV, a shadowy organization led by Shinji's father Gendo, coordinating the efforts. In between Angel battles, the strained relationships and inner turmoil of the young pilots comes to the forefront. Shinji in particular struggles with the immense responsibility placed on his shoulders. Asuka contends with her competitive streak and need for validation, while the stoic Rei remains an enigma to all. The arrival of new Evas and the increasing frequency and intensity of Angel attacks escalates tensions. When a devastating Angel offensive cripples NERV HQ, the very real threat of an impending apocalyptic event called Third Impact looms. With mankind's future uncertain, the Eva pilots fight on, motivated by a shared hope that they can somehow prevail and save humanity from catastrophe.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 8.339695578231293,
     "arithmeticGeometricMean": 8.339155181909486,
-    "median": 8.318741496598639
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 8.318741496598639,
+    "lastUpdate": "2024-05-20"
+  }
 }

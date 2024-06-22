@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The anime, inspired by Daisuke Kimura's four-panel manga, introduces us to a unique world where unwanted and often smelly vegetables find solace in a local bar. These are the vegetables that kids usually despise and even adults hesitate to eat. The series unfolds as these rejected veggies gather at their favorite watering hole, sharing drinks and opening up about their daily struggles, offering a fresh and engaging perspective on the secret lives of our least favorite greens.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-08"
   },
   "score": {
     "arithmeticMean": 4.542756957328386,
     "arithmeticGeometricMean": 4.5196808189318975,
-    "median": 4.598
-  },
-  "lastUpdate": "2024-05-08"
+    "median": 4.598,
+    "lastUpdate": "2024-05-08"
+  }
 }

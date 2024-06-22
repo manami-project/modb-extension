@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Nutsberry Town is a quaint rural town surrounded by natural beauty, detached from modern distractions. It's here that Snappy the Onion, Wendy the Walnut, and Pee Wee the Peanut - known as the \"Kooky Kids\" - play their good-natured pranks and embark on fun adventures together. Though never malicious, their mischief still lands them in amusing trouble. With wholesome old-fashioned values, Nutsberry Town provides a nostalgic backdrop. The Kooky Kids pass the time through imagination and enjoying the shimmering lakes, forests, and green fields around them since video games and malls are scarce. Originally a 1950s-60s puppet show, this series returns to tap into parents' fond memories. But the Kooky Kids' lighthearted antics amidst Nutsberry Town's bucolic charm give the show an enduring, multi-generational appeal.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 5.357061224489796,
     "arithmeticGeometricMean": 5.29750244889419,
-    "median": 5.0
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 5.0,
+    "lastUpdate": "2024-05-19"
+  }
 }

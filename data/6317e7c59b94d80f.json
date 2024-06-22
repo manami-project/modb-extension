@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Asari is an energetic fourth grade girl living in a high-achieving family. Her father is an executive, her mother graduated from an elite university, and her older sister excels academically. However, Asari struggles with her studies, often earning scoldings from her mother and teasing from her sister. One day while shopping, Asari wins a lottery ticket for a solo trip to Hawaii. Chaos ensues as her family fights over who should go on the trip. Unfortunately, the ticket gets lost in a bonfire. The family later finds out the supermarket will give cash instead, but it's unclear what will happen next to the unlucky family. Through all the chaos at home and her academic shortcomings, Asari maintains a cheerful and innocent spirit. She faces her family antics and scoldings resiliently, living each day to the fullest with a positive attitude.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.311210265924552,
     "arithmeticGeometricMean": 6.276299998673402,
-    "median": 6.323181818181818
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.323181818181818,
+    "lastUpdate": "2024-05-22"
+  }
 }

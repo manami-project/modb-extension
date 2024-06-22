@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "This captivating anime follows the life of Masamune, a 14-year-old boy living in a small village that has been isolated from the outside world after a massive explosion at the local steelworks. The villagers, including Masamune's father and uncle, are trapped in a monotonous existence, forbidden from changing anything in the hopes that life will return to normal. Masamune's world takes a dramatic turn when he follows his eccentric classmate, Mutsumi, into the steelworks. Here, they discover a strange, mute girl who behaves like a wild wolf. As Masamune and Mutsumi grow closer to this enigmatic figure, they set in motion a series of events that could potentially free the village from its stasis but also reveal unsettling truths that have been hidden for too long. The unstoppable urge to fall in love begins to disrupt the balance of their world, leading to unforeseen consequences that will test the boundaries of their reality.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-08"
   },
   "score": {
     "arithmeticMean": 7.031652597402598,
     "arithmeticGeometricMean": 7.008257706002762,
-    "median": 7.2170000000000005
-  },
-  "lastUpdate": "2024-05-08"
+    "median": 7.2170000000000005,
+    "lastUpdate": "2024-05-08"
+  }
 }

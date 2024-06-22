@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kojirou is the broke kendo instructor at Muroe High School who makes a bet with his former upperclassman and rival kendo coach. If Kojirou can assemble and train a team of skilled female kendo practitioners to defeat his rival's team in an upcoming competition, he will win free meals for a year. Motivated by the promise of free food, Kojirou begins seriously training the few remaining members of the school's kendo club. However, with most previous members having graduated, he faces the challenge of not only rigorously training his fledgling team, but also recruiting gifted newcomers to round out the roster. As the competition draws near, Kojirou works tirelessly to ready his ragtag group of students, slowly reconnecting with his love of teaching and devotion to kendo in the process. Ultimately, it is not just free meals that are on the line, but the chance for Kojirou and his team to prove themselves against stiff odds.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.394788626056483,
     "arithmeticGeometricMean": 7.393259254047344,
-    "median": 7.321
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.321,
+    "lastUpdate": "2024-05-22"
+  }
 }

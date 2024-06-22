@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the deserts of Iraq, archaeologists discover ancient relics prophesying the coming of a superior alien race that will end human civilization. Meanwhile, in Graviton City, the rivalry between high school students A-Ko and B-Ko for their classmate Kei's affection intensifies. However, when their teacher Mr. Daitokuji arranges a sudden marriage between Kei and their friend Miss Ayumi, A-Ko and B-Ko are furious and determined to prevent the wedding. Unbeknownst to them, a massive alien fleet is approaching Earth, potentially connected to the prophecies found in Iraq. With Graviton High's gymnasium converted into a wedding chapel, A-Ko and B-Ko disrupt the nuptials with their bitter fighting over Kei just as the aliens arrive. While the military struggles to repel the extraterrestrial attack, the wedding descends into chaos, leaving Kei, Ayumi and their quiet classmate C-Ko caught in the middle. With the fate of the city and possibly the world at stake, the rivalries and relationships of Graviton's students are tested like never before.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.626760137821362,
     "arithmeticGeometricMean": 6.619188534587132,
-    "median": 6.56
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.56,
+    "lastUpdate": "2024-05-22"
+  }
 }

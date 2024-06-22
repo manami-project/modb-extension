@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Pikachu's Winter Vacation is a series of short animated films focusing on Ash Ketchum's Pikachu and other Pokémon during the winter holidays. While Ash and his friends are away, Pikachu bands together with Bulbasaur, Psyduck, Squirtle, Togepi, and other Pokémon to have fun and prepare surprises. In one short, the Pokémon accidentally knock over the Christmas tree and frantically try to set it right before the trainers return. Another shows Pikachu and friends having snowball fights and sledding down hills with a visiting Kangaskhan. There's chaos when Squirtle and Bulbasaur fight over sweets and a Vulpix gets tangled in stockings. Overall, the shorts showcase the Pokémon playing, exploring, and working together to celebrate the season. Their personalities and relationships shine as they overcome mishaps. The trainers are mostly off-screen, allowing the Pokémon hilarious hijinks and heartwarming moments as they enjoy their secret winter vacation.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.412112026628833,
     "arithmeticGeometricMean": 6.393876899986629,
-    "median": 6.480294117647059
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.480294117647059,
+    "lastUpdate": "2024-05-21"
+  }
 }

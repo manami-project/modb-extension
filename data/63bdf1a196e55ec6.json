@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "32 years after humanity's initial victory against the alien Invaders, the defense force A.E.G.I.S. has been reduced to an underground organization with only a few Gate Keepers remaining. Ayane Isuzu, a skilled yet disillusioned Gate Keeper, continues fighting the recurring Invaders out of spite towards her father. However, the sudden revival of the Invaders' leaders Machine General and Devil Count, now accompanied by a mysterious ghost girl, presents a grave new threat. Ayane and the last A.E.G.I.S members stand as the final line of defense against the Invaders' latest attack against humanity.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.444606944076332,
     "arithmeticGeometricMean": 6.433285387159268,
-    "median": 6.64
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.64,
+    "lastUpdate": "2024-05-22"
+  }
 }

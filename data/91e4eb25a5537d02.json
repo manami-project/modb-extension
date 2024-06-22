@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Gorou Tatsumi, nicknamed Chuhai, is a brawny and stubborn detective determined to use his brute strength to rescue his young girlfriend from various embarrassing predicaments. Though well-meaning, Chuhai's pigheaded and impulsive approach often complicates matters further. When Chuhai first meets a local hooker during an undercover operation, an unlikely romance blossoms between the mismatched pair, much to the dismay of the girl's jealous former client. After tensions escalate and Chuhai narrowly survives a vicious knife attack, only his quick-witted girlfriend can uncover the culprit. Inspired by a popular manga series, this lighthearted story pairs moments of 1960s nostalgia and infectious melodies with Chuhai's relentless antics. Though lacking in finesse, the strong-headed detective charges forward in his well-intentioned attempts to save the day.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 5.469264687693259,
     "arithmeticGeometricMean": 5.454397424730285,
-    "median": 5.495612244897959
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 5.495612244897959,
+    "lastUpdate": "2024-05-22"
+  }
 }

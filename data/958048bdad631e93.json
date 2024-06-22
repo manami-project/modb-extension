@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the early 21st century, a catastrophic earthquake leaves Tokyo in ruins and Japan in chaos. From the rubble emerges Koryukai, a ruthless crime syndicate that seizes control. When Takateru Suga travels to Tokyo seeking his kidnapped sister, he discovers she is held captive by Koryukai's leader. Refusing to give up, Takateru assembles a motley crew - a drag queen, two former soldiers, and a nun - to help him infiltrate Koryukai and rescue his sister. Bound by this common goal, these unlikely allies must learn to work together as they navigate the dangerous streets of Tokyo. Legend foretells that ancient warriors will reawaken in this dark hour. As they clash with Koryukai forces, Takateru and his team begin to suspect they are those prophesied warriors. With the city's future at stake, they must unlock their dormant powers before Koryukai crushes any hope for justice. Can this ragtag band defeat the overwhelming might of Koryukai? The fate of Tokyo rests on their shoulders.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 5.695394646170156,
     "arithmeticGeometricMean": 5.686763480888571,
-    "median": 5.776
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 5.776,
+    "lastUpdate": "2024-05-22"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "An ancient legend tells of three legendary bird Pokémon - Moltres, Zapdos, and Articuno - who maintain harmony over the elemental forces of nature. It is said that if their balance is disturbed, the mythical Pokémon Lugia will rise from the sea to restore order. Lawrence III, a greedy Pokémon collector, seeks to capture Lugia by disrupting the three legendary birds. His actions throw the natural world into chaos as destructive storms form globally. Meanwhile, Ash, Misty, and Tracey get shipwrecked on Shamouti Island in the Orange Islands where an annual festival to honor the elemental legend is taking place. Ash learns he has been chosen by festival tradition to collect three sacred orbs and restore balance between the feuding legendary birds. With the fate of the world at stake, he must find the courage and ability to summon Lugia, the Beast of the Sea, to defeat Lawrence and bring harmony back to the elements of fire, ice, lightning and nature overall.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 7.07870983251721,
     "arithmeticGeometricMean": 7.068783759085891,
-    "median": 7.3113636363636365
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 7.3113636363636365,
+    "lastUpdate": "2024-05-20"
+  }
 }

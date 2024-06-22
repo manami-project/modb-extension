@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "As a renowned high school detective, Shinichi Kudo's skills rival those of Sherlock Holmes. But when he stumbles upon a clandestine operation, the men in black retaliate by administering an experimental drug meant to silence him forever. Instead, the drug shrinks him to the size of a seven-year-old. To safeguard his loved ones, Shinichi adopts a new identity: Conan Edogawa. Living with his childhood friend Ran and her bumbling detective father, Conan covertly solves cases to find the nefarious organization that altered his life. Amidst a web of mysteries and perilous threats, Conan's quest for justice and a cure begins.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 8.110973256323101,
     "arithmeticGeometricMean": 8.109394045339025,
-    "median": 8.190000000000001
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 8.190000000000001,
+    "lastUpdate": "2024-05-09"
+  }
 }

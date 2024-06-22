@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Light Yagami is a brilliant high school student who stumbles upon a mysterious black notebook called the \"Death Note.\" He soon discovers that this notebook has the power to kill anyone whose name is written in it, simply by picturing their face and specifying the cause and time of death. Intrigued by this dark power, Light decides to rid the world of criminals and create a utopia without evil. Adopting the persona \"Kira,\" his vigilante killings attract global attention, including that of an enigmatic detective known only as \"L.\" What follows is an intense battle of wits between Light and L, each trying to uncover the other's identity and ideals. The Death Note also belongs to Ryuk, a bored Shinigami (death god) who dropped it in the human world for entertainment. Ryuk observes Light's actions with amusement as the consequences ripple through society. Police investigate the mysterious deaths, public opinion becomes divided over Kira's justice, and the morally questionable use of the Death Note's power raises complex questions about good versus evil. Ultimately, Death Note explores the corruptive nature of power through its psychological cat-and-mouse game. With the rules of the Death Note dictating that humans who use it can neither go to heaven nor hell, Light's noble intentions become increasingly distorted the longer he uses it. The battle lines blur as both sides resort to ruthless tactics in the name of their personal ideals of justice.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 8.655917642188147,
     "arithmeticGeometricMean": 8.65518822146276,
-    "median": 8.617492461145904
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 8.617492461145904,
+    "lastUpdate": "2024-05-22"
+  }
 }

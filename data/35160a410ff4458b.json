@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Tezuka Osamu's animated film \"Unico and the Kingdom of the Sun\" follows the journey of Unico, a baby unicorn with the power to bring happiness to those around him. After being abandoned by the gods, Unico finds himself in a dark forest with no memories. In this forest, he encounters Toby, a mysterious flute player who, along with his evil master Kukuruku, turns people into dolls to construct a peculiar castle. Unico is eventually taken in by Cherry, a kind-hearted girl who has lost her brother to the villains. Despite her father's resignation, Cherry clings to the hope that her brother will return. Eventually, he does return, but as Toby, the magically gifted henchman Unico met earlier. The story revolves around the sorrow and terror of those transformed into dolls, and Cherry's desire to restore kindness in her brother's heart. Unico and Cherry must find a way to combat Kukuruku's magic and save everyone, even if it means journeying to the edge of the world. This work explores the theme of transformation, reminding us that it involves not just physical changes, but also the immaterial aspects of one's heart.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-10"
   },
   "score": {
     "arithmeticMean": 7.072928527255058,
     "arithmeticGeometricMean": 7.067428162872019,
-    "median": 7.214
-  },
-  "lastUpdate": "2024-05-10"
+    "median": 7.214,
+    "lastUpdate": "2024-05-10"
+  }
 }

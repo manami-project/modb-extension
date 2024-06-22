@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The vibrant city of Graviton, rebuilt after a mysterious alien ship crashed sixteen years ago, is home to A-ko, an extraordinarily powerful high school student. A-ko, along with her cheerful and carefree friend, C-ko, navigates through typical teenage life while being pursued by the wealthy and ingenious B-ko, who harbors an obsession for C-ko. B-ko's relentless pursuit to replace A-ko as C-ko's best friend involves constructing deadly mechas and challenging A-ko to duels, resulting in citywide chaos. Amidst this rivalry, an alien fleet from the Lepton Kingdom of Alpha-Cygni descends upon Earth in search of their lost princess, who turns out to be none other than C-ko. In a surprising turn of events, A-ko and B-ko must unite to rescue their beloved C-ko from the clutches of the alien operative 'D'. Will they succeed in saving C-ko and protecting Graviton City from yet another alien threat?",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.77249615690432,
     "arithmeticGeometricMean": 6.770759939386203,
-    "median": 6.75
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.75,
+    "lastUpdate": "2024-05-09"
+  }
 }

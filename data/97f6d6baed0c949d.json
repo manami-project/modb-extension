@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "The story takes place in an online virtual reality multiplayer game called \"The World.\" Mimiru, a seasoned player, decides to take on a special limited-time event dungeon called the Dungeon of Nankoflank along with her gaming friend Bear. Though the dungeon promises rare treasures and experiences, Mimiru reveals she is motivated by nostalgia - the dungeon reminds her of when she first started playing the game years ago. As Mimiru and Bear venture through the dungeon, they meet another player named Mimika who joins their party. Together, the three help Mimiru revisit fond gaming memories while also creating new ones. Though challenging, the quests and battles through the dungeon make Mimiru reflect on her long history with the game and appreciate the meaningful experiences and connections it has given her. This OVA episode provides a fun glimpse into the virtual gaming lives of Mimiru, Bear and newcomer Mimika while exploring themes of nostalgia, camaraderie and finding meaning in play. The dungeon quest serves as the backdrop to look back on what initially drew Mimiru into \"The World\" and how years later, those same elements still engage her.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.603704214153194,
     "arithmeticGeometricMean": 6.594182808459806,
-    "median": 6.52
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.52,
+    "lastUpdate": "2024-05-21"
+  }
 }

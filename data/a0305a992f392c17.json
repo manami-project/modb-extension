@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Members of the human race, in a far-off future, find themselves abandoning Earth and venturing into the unknown realms of another galaxy. Their mission: to discover a habitable planet and transform it into a new home. A pioneering spacecraft, equipped with a state-of-the-art biological 3D printer, is deployed to generate the crew members one by one. However, an unexpected glitch during the creation process leaves one crew member, Lewis, grotesquely disfigured. As Lewis begins to target his fellow crew - Nina, Mack, Patty, and Oscar - a chilling countdown to the mission's end commences, shrouded in the eerie darkness of the spacecraft, with a series of unforeseen events threatening the survival of the expedition.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.543705009276439,
     "arithmeticGeometricMean": 6.536979810300468,
-    "median": 6.539387755102041
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.539387755102041,
+    "lastUpdate": "2024-05-09"
+  }
 }

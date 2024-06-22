@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "One day in London, young Alice stumbles upon an old top hat in a second-hand shop, which leads her on a whimsical adventure to Wonderland. Inside the hat, she discovers Benny Bunny, who leads her to his rabbit hole and ultimately to a land filled with peculiar and enchanting inhabitants. As Alice chases the ever-elusive White Rabbit, she encounters the cryptic Cheshire Cat, a storytelling mouse, a wise blue caterpillar, and the fearsome Queen of Hearts, among other intriguing characters. In this topsy-turvy world where nothing is as it seems, Alice learns to navigate the bizarre and unpredictable events that define everyday life in Wonderland. Join Alice on her captivating journey through this land of the imagination, where curiosity and wonder await around every corner.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 5.987274847601378,
     "arithmeticGeometricMean": 5.9682528225412055,
-    "median": 6.090909090909091
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.090909090909091,
+    "lastUpdate": "2024-05-09"
+  }
 }

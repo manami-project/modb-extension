@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "After discovering an ancient relic beneath his school, Makoto Mizuhara and several of his classmates - including his self-proclaimed rival Jinnai Katsuhiko and Jinnai's sister Nanami - are transported to the mystical parallel world of El Hazard. There, Makoto is mistaken for the missing Princess Fatora and becomes entangled in an epic quest to find her within seven days. Meanwhile, Jinnai joins forces with the kingdom's enemies - a race of giant insects - and plots to gain control of a powerful ancient superweapon called Ifurita. Makoto and his allies race against time to find Ifurita first as Jinnai launches several attacks against them. Along the way, Makoto must also contend with awkward cases of mistaken identity, as well as deepening relationships with his beautiful new companions. Full of fantastical adventures, political intrigue, action, comedy and even romance, the story of El Hazard promises excitement and wonder as Makoto and friends explore this new magical realm while working to stop Jinnai from unleashing catastrophe.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 7.159142857142856,
     "arithmeticGeometricMean": 7.155176620157989,
-    "median": 7.25
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 7.25,
+    "lastUpdate": "2024-05-19"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Pikachu and its Pokémon friends are enjoying fun winter activities in a snowy town when an accident causes Delibird to lose the sack of presents it is delivering for Santa on Christmas Eve. With all the presents scattered around town and midnight fast approaching, Pikachu rallies its friends to help Delibird retrieve the gifts so Christmas won't be ruined. In another lighthearted adventure, Totodile builds a giant Snorlax snowman that amazingly comes to life. The merry “Snowlax” wanders off to find its fellow snowmen, and Pikachu and friends agree to help guide it back to them. The winter fun takes a dramatic turn when the feisty Pichu brothers get into a fight that sends one brother careening out of town on a runaway skateboard with Wooper chasing after. The remaining Pichu and pals must venture out into the cold in search of the missing duo so the family can reunite in time for the holidays.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.460897495361781,
     "arithmeticGeometricMean": 6.449231607062432,
-    "median": 6.422272727272727
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.422272727272727,
+    "lastUpdate": "2024-05-21"
+  }
 }

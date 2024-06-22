@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "An impoverished boy, Tetsurou Hoshino, residing in a future where immortality is achievable through mechanical bodies, dreams of boarding the Galaxy Express 999, a space-bound train that promises a free robotic body at the end of its journey. After his mother is tragically murdered by the ruthless Count Mecha, Tetsurou's life takes a turn when he is saved by Maetel, an enigmatic blonde woman bearing a striking resemblance to his mother. Offering him a ticket to the Galaxy Express, Maetel proposes they embark on the journey together, leading Tetsurou on a captivating adventure through various planets in pursuit of immortality and vengeance. As they traverse the cosmos in a train reminiscent of 19th-century locomotives, Tetsurou and Maetel encounter diverse worlds and intriguing experiences, inching closer to the Immortal Planet and a confrontation with the tyrant who altered Tetsurou's life forever.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 7.316356921989575,
     "arithmeticGeometricMean": 7.306056811696927,
-    "median": 7.45
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 7.45,
+    "lastUpdate": "2024-05-09"
+  }
 }

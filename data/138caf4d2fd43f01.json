@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Set in a future where humans have colonized the moon, a teenage boy named Haru pursues his dream of exploring uncharted lunar territory. Lacking the massive capital required for such an endeavor, Haru turns to the stock market to raise funds. Living homeless on the streets of Lunar City, he stealthily day-trades stocks on public terminals, demonstrating an innate talent for trading. After a close call with authorities, Haru takes refuge in a church, where he meets Hagana, a mathematically gifted girl with a cold demeanor. Recognizing her potential as a quantitative analyst, Haru initiates a partnership to enter a virtual stock competition. As their trading successes attract investors to support Haru's exploration goals, they must maintain sharp focus to stay ahead of the volatile lunar market. Ultimately, Haru pushes forward in pursuing his ambitious dream among the stars while navigating the high-stakes risks of finance.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-06-21"
   },
   "score": {
     "arithmeticMean": 0.0,
     "arithmeticGeometricMean": 0.0,
-    "median": 0.0
-  },
-  "lastUpdate": "2024-06-21"
+    "median": 0.0,
+    "lastUpdate": "2024-06-22"
+  }
 }

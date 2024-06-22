@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Yukari Morita is a high school girl on a quest to find her father, who mysteriously disappeared in the Solomon Islands seventeen years ago during his honeymoon. Her journey takes her to the Islands, where a chance encounter with the director of the Solomon Space Agency (SSA) sets her on an unbelievable new path. The opportunistic SSA director spots Yukari's petite stature and offers her a deal - if she agrees to become an astronaut for their upcoming rocket launch, the first ever manned space mission by Japan, he will help Yukari search for her missing father. With few other leads on her father's whereabouts, Yukari accepts the deal and suddenly finds herself training to go into space. Despite her lack of experience, Yukari's small size makes her the perfect fit for the existing rocket that the SSA has built. As launch day approaches, the teenager prepares mentally and physically for the immense challenge of space travel and ponders how she went from searching for her father to becoming an astronaut embarking on a quest into the unknown.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.946625496952028,
     "arithmeticGeometricMean": 6.943580878355289,
-    "median": 6.962
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.962,
+    "lastUpdate": "2024-05-21"
+  }
 }

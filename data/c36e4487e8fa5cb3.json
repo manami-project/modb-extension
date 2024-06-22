@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Cascade through the vibrant Pokémon universe with Pokémon Chronicles, a series that illuminates the captivating tales of beloved characters met by Satoshi (Ash) during his epic journey. From the familiar faces of Takeshi (Brock), Kasumi (Misty), and Shigeru (Gary Oak) to the enigmatic lives of Rocket-dan (Team Rocket) members, each episode unveils a unique chapter brimming with adventure and excitement.\n\nWitness the thrilling exploits of researchers, professors, and Gym Leaders, as they delve into the mysteries of Pokémon - be it the resurrection of an extinct Aerodactyl or the pursuit of the legendary Moltres. Delve into the lives of various trainers, including Hiroshi (Richie) and Sakura, as they challenge formidable opponents and strive to achieve their dreams. Even the Pokémon themselves have their own extraordinary stories to share!\n\nOriginally aired as special episodes in Japan, Pokémon Chronicles brings together these enthralling narratives, offering a fresh perspective on the expansive world of Pokémon. With Ash's brief cameos serving as gentle reminders of the interconnectedness of these tales, embark on this remarkable journey and discover the myriad adventures that await in Kanto, Johto, and beyond!",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.760086193568337,
     "arithmeticGeometricMean": 6.744655733054667,
-    "median": 6.92
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.92,
+    "lastUpdate": "2024-05-09"
+  }
 }

@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "The year is U.C. 0105, twelve years after Char Aznable's failed rebellion against the corrupt Earth Federation government. Though the \"Axis Shock\" seemingly brought hope for humanity's future, the world remains chaotic with intermittent conflicts. The Federation has become increasingly tyrannical - accelerating Earth's pollution and exiling civilians through an inhumane \"Man Hunting\" policy. In response, a resistance group called \"Mafty\" wages terrorist attacks against Federation officials. Mafty gains public support, opposed to the Federation's corruption. Mafty's mysterious leader \"Mafty Navue Erin\" is revealed to be Hathaway Noa, son of famous captain Bright Noa. Haunted by memories of Char's ideals, Hathaway plans to resist the Federation's injustice, like legendary pilots Amuro Ray and Char before him. Hathaway's destiny changes when he meets Kenneth Sleg, a Federation officer, and Gigi Andalucia, a young woman who discovers his secret identity. As Mafty's conflict with the Federation escalates, Hathaway must protect his new allies while fighting for his beliefs.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.785908030744764,
     "arithmeticGeometricMean": 7.782052052777949,
-    "median": 7.79
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.79,
+    "lastUpdate": "2024-05-21"
+  }
 }

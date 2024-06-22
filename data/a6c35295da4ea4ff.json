@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Dr. Kenzo Tenma is a gifted Japanese neurosurgeon working at a prestigious hospital in Germany. Though on the cusp of a promotion and set to marry the director's daughter Eva, Tenma's beliefs are challenged one fateful night when he must choose between two critical patients - an orphaned boy or the mayor. Going against orders, he saves the boy, an act that costs him his bright future but aligns with his conviction that all lives are equal. However, his decision sets off a alarming chain of events as a wave of mysterious murders sweeps the region. Evidence implicates the very boy Tenma saved, leading many to believe he harbors a dark secret. Wracked with guilt over the unintended consequences of his choice, Tenma risks everything to pursue the truth. His investigation soon reveals terrifying links between the child named Johan and the murders. As the horrific extent of the chaos spawned by Johan becomes clear, Tenma realizes the stakes are far greater than imagined. More than just redemption is on the line as Tenma unravels the twisted past of the young monster he saved and races to stop Johan's plot from destroying countless more lives.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.600140367991528,
     "arithmeticGeometricMean": 8.599034259556863,
-    "median": 8.522
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 8.522,
+    "lastUpdate": "2024-05-21"
+  }
 }

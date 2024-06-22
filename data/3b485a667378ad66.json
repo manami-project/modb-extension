@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Horus is a young boy who endured tragedy at a young age when a demon attacked his village, forcing his father to flee with him as an infant. They settled in a new village where his father worked as a fisherman and Horus grew up in peace. However, danger finds Horus again when he is attacked by wolves while chopping wood. A mystical rock giant saves his life and Horus returns the favor by removing a powerful sword called the Sword of the Sun from the giant's shoulder. On his deathbed, Horus's father reveals his longing to return to their ancestral village. Fulfilling his dying wish, Horus travels there only to find the village under threat from a monstrous foe. Using the magic of the Sword of the Sun, he saves the village and its people. During his travels, he befriends a lonely singing girl who harbors a dangerous secret and meets other allies and adversaries. But dark forces still conspire against Horus and the fantasy world he calls home. An evil demon named Grunwald seeks to dominate the land. Now, armed with the legendary Sword of the Sun and aided by steadfast companions, Horus must harness his courage and power to defeat Grunwald and his minions in an epic battle between good and evil.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.452728509585653,
     "arithmeticGeometricMean": 6.4506425177287925,
-    "median": 6.41
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.41,
+    "lastUpdate": "2024-05-22"
+  }
 }

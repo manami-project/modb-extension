@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Paboo is an endearing and inquisitive panda who resides in the vibrant world of Mojies Town, where learning and laughter go hand-in-hand. He and his whimsical group of friends, including the playful Mojies (personified letters) and the whimsical fairy Maki, have larger-than-life adventures where imagination reigns supreme. In each fun-filled episode, Paboo's curiosity leads him on an exploration where creative problem-solving reveals the Magic Word of the day. With the Mojies' help, Paboo discovers both the power of language and how to resolve the quandary at hand. Their journeys are unpredictable and amusing, underscored by the magic of friendship. Both children and adults alike will be drawn into the colorful landscape of Mojies Town. They will be entertained by the pandas' funny antics, learn alongside the beloved characters, and maybe even be inspired to embark on magical quests of their own!",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.81958719851577,
     "arithmeticGeometricMean": 5.795604653143932,
-    "median": 5.75417439703154
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 5.75417439703154,
+    "lastUpdate": "2024-05-21"
+  }
 }

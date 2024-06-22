@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kenta, an aspiring Pokémon Master, reunites with his childhood friend Marina at a Pokémon Center, eager to test how far their training skills have progressed in a friendly duel. However, their plans are interrupted by a sudden thunderstorm and the arrival of two members of Team Rocket, Bashou and Buson. These villains are utilizing a special Crystal System to attract Electric-type Pokémon as part of a sinister plot guided by Dr. Shiranui to bring Pokémon back to their boss Giovanni. In pursuing this scheme, they succeed in capturing the legendary Electric-type Pokémon Raikou. Stumbling upon this plan, Kenta and Marina resolve to stop it, joined by allies Vincent and Eusine. Together, the four Trainers must save Raikou and defeat Bashou and Buson once and for all. Their heroic efforts unfold amid the shadowy machinations of Team Rocket and the spectacular power of the legendary beast of lightning.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.770990910157167,
     "arithmeticGeometricMean": 6.759712299919311,
-    "median": 6.884545454545455
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.884545454545455,
+    "lastUpdate": "2024-05-21"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In August 2002, a series of devastating earthquakes and tsunamis strike Japan, inflicting tremendous damage and forcing the country into a state of emergency. With the nation split in two by a massive tremor on August 15th, the Japanese government accepts foreign aid and governance from China in the north and the United States in the south. In the aftermath, thousands of Japanese refugees flee abroad while tensions rise back home over the foreign occupation. In Taiwan, where 80,000 survivors have settled, clashes erupt between locals and refugees struggling to coexist as they compete for jobs amidst worsening conditions. Caught in the conflict is Genichiro Ryu, a young survivor who was adopted by Taiwanese parents. As gang violence and nationalist sentiment threaten to boil over, Genichiro strives to promote reconciliation between the Taiwanese and Japanese refugees. Though the road to recovery remains long, he hopes that through understanding and cooperation both groups can build towards a peaceful future.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.900159554730983,
     "arithmeticGeometricMean": 6.897089611734328,
-    "median": 6.82
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.82,
+    "lastUpdate": "2024-05-22"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In a post-apocalyptic world where music no longer exists, young Echo dreams of fighting back against the shadowy creatures called the Earless that have torn apart society. While scavenging parts in the scrapyards, he meets an amnesiac girl named Mu with an audio jack in her body - the mark of the legendary Players who once battled the Earless with powerful mecha called Equipment. When Mu plugs into an amplifier, Echo makes a discovery that could bring music back into the world. With Mu's mysterious abilities, the pair set out on an epic journey to defeat the Earless, earn fame and fortune, and rock the foundations of their music-less society by restoring the existence of music. Along the way, clues about Mu's forgotten past as a Player begin to emerge. Together, Echo and Mu vow to unlock the secrets of her identity while fighting to vanquish their soulless enemies. Their quest could revive not just the magical power of music, but hope for humanity's future.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 5.605911049268192,
     "arithmeticGeometricMean": 5.587826080723029,
-    "median": 5.453
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 5.453,
+    "lastUpdate": "2024-05-20"
+  }
 }

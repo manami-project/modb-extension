@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kouhei’s captivating narration guides us through the heartwarming tale of the Yamazaki family in 1964 Tokyo, a significant year marked by the arrival of the Summer Olympics. As the family patriarch, Yuuzou, runs a humble machine shop crafting intricate metal parts alongside his dedicated co-worker, he grapples with connecting to his three distinct children. The eldest son navigates the world of higher education, while the teenage daughter explores the complexities of young love. At the heart of the story lies Kouhei, a spirited and kind-hearted young boy who shares his unique perspective on his family's daily life and financial struggles. Each episode concludes with a nostalgic glimpse into the past, comparing the iconic locations from 1964 to their present-day counterparts. The opening sequence further accentuates this contrast, blending old and new photographs with animated renditions of the era, inviting viewers to embark on a journey through time and experience the Yamazaki family's unforgettable story.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-10"
   },
   "score": {
     "arithmeticMean": 6.54693400477074,
     "arithmeticGeometricMean": 6.541822390453132,
-    "median": 6.61
-  },
-  "lastUpdate": "2024-05-10"
+    "median": 6.61,
+    "lastUpdate": "2024-05-10"
+  }
 }

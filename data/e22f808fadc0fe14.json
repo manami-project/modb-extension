@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Tsubasa Arihara is a high school student with a deep passion for baseball. When she enrolls at Rigahama Municipal High School, she is disappointed to find they do not have a baseball team. Undeterred, Tsubasa decides to start up a Girls' Baseball Club herself in hopes of gathering enough members to form a team. She attracts a diverse group of girls, some who have never played before, some returning after quitting previously, and some constantly taking on big challenges. United by their shared love of baseball, the girls train hard together under Tsubasa's leadership. They support each other through the trials and quarrels of youth as they work to grow the new club. The hot summer days see the team facing games that test the bonds of their freshly forged friendships. Whether reveling in the joys of victory or learning difficult lessons from defeat, Tsubasa and the club race towards their ultimate goal - competing at the national high school championships at the prestigious Koshien stadium.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.23098051948052,
     "arithmeticGeometricMean": 6.218542008383079,
-    "median": 6.162
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.162,
+    "lastUpdate": "2024-05-22"
+  }
 }

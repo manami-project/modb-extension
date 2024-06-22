@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Mametaro is an adventurous mixed-breed dog living in Japan with his beloved owner, Iku, a high school girl. The story is told from Mametaro's perspective as he goes on various escapades. Mametaro is very devoted to Iku, as well as his girlfriend Hanako. However, he dislikes Iku's friend Akiyoshi and wants to get rid of him. Over the course of the story, Mametaro explores the world around him, including Iku's school, the local riverbank, and the neighborhood, which seem vast and filled with mystery from a little dog's point of view. On his adventures, Mametaro often gets into amusing situations, like trying to steal melon bread to feed his constantly hungry girlfriend Hanako. He also plays pranks on Akiyoshi in an effort to drive him away from Iku for good. Through all of his capers and the events of daily life, Mametaro aims to protect his beloved owner Iku while enjoying life from a dog's unique perspective.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.342361516034986,
     "arithmeticGeometricMean": 6.33279244351562,
-    "median": 6.326530612244898
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.326530612244898,
+    "lastUpdate": "2024-05-22"
+  }
 }

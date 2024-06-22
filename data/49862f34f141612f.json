@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Aoki Jun presents a short animation that follows the journey of a young man as he navigates life in a new apartment complex. As he settles into his new surroundings, he forms meaningful connections with his fellow tenants, each with their own unique routines and quirks. From the mundane activities of people-watching and cleaning, to the intriguing transformations that occur as the sun sets, the apartment complex is a vibrant hub of activity and camaraderie. The young man's relationships with his neighbors grow stronger with each passing day, offering a heartwarming glimpse into the everyday lives of the apartment's residents.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-08"
   },
   "score": {
     "arithmeticMean": 5.129193214948317,
     "arithmeticGeometricMean": 5.103385247807185,
-    "median": 5.363636363636363
-  },
-  "lastUpdate": "2024-05-08"
+    "median": 5.363636363636363,
+    "lastUpdate": "2024-05-08"
+  }
 }

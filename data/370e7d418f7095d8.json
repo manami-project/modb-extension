@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "After stumbling upon fragments of a mysterious robot that had fallen from the sky, Nobita, driven by envy for Suneo's new robot toy, persuades Doraemon to help him assemble it. The resulting creation is Zanda Claus, a colossal robot that is far from being a mere plaything. Instead, it is a formidable weapon designed to combat an impending robot army from a distant galaxy, poised to invade Earth and subjugate its human inhabitants. Ahead of the invasion, a robot scout named Riruru is dispatched to Earth, but Nobita inadvertently disrupts her mission. Now, Nobita and his friends must confront an entire legion of steel soldiers and thwart the impending robotic onslaught.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 7.780360389610388,
     "arithmeticGeometricMean": 7.773408215305638,
-    "median": 7.935272727272727
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 7.935272727272727,
+    "lastUpdate": "2024-05-09"
+  }
 }

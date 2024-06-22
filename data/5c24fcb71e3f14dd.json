@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Ollie is a cheerful and good-natured ox who runs the Funny Farm along with his quirky animal friends. This lighthearted farm is home to Jack the Turtle with a built-in TV under his shell, a bald lion, an elephant whose trunk serves as a garden hose, and Cal the hungry crocodile who is always chasing after the other animals. Together with this cast of amusing characters, Ollie finds adventure in the daily happenings around the farm - whether it's digging wells, playing in the snow, exercising to get strong, or dodging Cal's snapping jaws. Through 104 short episodes, Ox Tales captures the humorous antics and heartwarming bonds that arise when this group tackles farm life in their own wacky way. With Ollie the steadfast ox at the helm of this animal crew, there's never a dull day to be had at the Funny Farm.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.3136899019348,
     "arithmeticGeometricMean": 6.2351381138864985,
-    "median": 7.03
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 7.03,
+    "lastUpdate": "2024-05-20"
+  }
 }

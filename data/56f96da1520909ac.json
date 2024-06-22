@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "The anime follows two main characters - Erwin Smith, an ambitious and ruthless rising star in the Survey Corps which fights against man-eating Titans, and Levi, a cunning criminal trying to survive in the Underground slums beneath the Capital. As a squad leader, Erwin devotes himself fully to Titan-fighting strategies, aiming to one day defeat the monsters. Meanwhile, Levi relies on his street smarts and agility to get by leading his own criminal gang. When a deal gives Levi and his friends their only chance to escape the Underground and gain citizenship, they are tasked with assassinating Erwin. However, after crossing paths with him, they begin questioning their mission as they realize the surface world is not as liberating as they hoped. The prequel explores the pivotal first encounter between Erwin and Levi which ultimately sees the latter joining the Survey Corps, kicking off the events that mold them into iconic leaders ready to sacrifice everything for humanity's survival against the Titan threat. Their bond is forged through intense fires of loyalty and trust despite their vastly different upbringings.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.376481824736599,
     "arithmeticGeometricMean": 8.375647107929789,
-    "median": 8.397272727272728
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 8.397272727272728,
+    "lastUpdate": "2024-05-21"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Set in 1930s Austria, the story follows Maria, a free-spirited young woman who struggles to fit in as a nun at a convent in Salzburg. Seeking a different path, Maria is sent by the Mother Abbess to be a governess for the seven children of the stern Captain Georg von Trapp, a widowed naval captain. Despite initial clashes with the strict Captain, Maria's warmth and love of music soon break through to the children. A blossoming romance also develops between Maria and the Captain. However, their happiness is threatened by the rise of the Nazis in Austria. When the Captain refuses to join the Nazis, the family must find a way to escape over the Alps into Switzerland. Filled with memorable songs and spectacular backdrops, this heartwarming story celebrates the power of courage, hope and love to overcome adversity. Centered around Maria's inspirational journey, it highlights the importance of being true to oneself.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.177418676561534,
     "arithmeticGeometricMean": 7.16307167233681,
-    "median": 7.333333333333333
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.333333333333333,
+    "lastUpdate": "2024-05-22"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Akutabe is a detective with unorthodox methods - he summons demons to help solve cases for his clients. His assistant Rinko Sakuma originally believes she is working at a normal detective agency, but soon discovers the supernatural nature of the business. One of the first demons Rinko meets is Azazel, a lustful devil who demands offerings of food. Rinko is tricked into signing an eternal contract with this lecherous creature. She must now partner with Azazel and other equally chaotic demons like the gluttonous Beelzebub to complete jobs for Akutabe's agency. However, the demons often bungle tasks and exacerbate troublesome situations. Rinko faces many chaotic and absurd challenges working alongside these summoned creatures from hell. Though Akutabe's approaches are strange, he always delivers results for his clients. Rinko remains dedicated to aiding her peculiar boss, even as she questions his ruthless utilization of the demons' powers. Each case brings more mayhem and insight into the supernatural world that lies beneath the surface of their detective business.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.402911438649532,
     "arithmeticGeometricMean": 7.400434849885319,
-    "median": 7.487272727272726
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.487272727272726,
+    "lastUpdate": "2024-05-22"
+  }
 }

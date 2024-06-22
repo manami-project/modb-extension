@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "With a promise of routine military drills, the crew of Japan's cutting-edge battlecruiser, Mirai, sets sail, eager to put its advanced AEGIS systems to the test. However, an unexpected twist of fate hurls them back in time to June 4th, 1942, placing them in the heart of the pivotal Battle of Midway. When impulsive Kadomatsu saves Kusaka, a casualty of the battle, from a sinking Zero Fighter, the Mirai's destiny is irrevocably altered. The crew, led by Captain Umezu Saburo, vows not to interfere further with history, but their resolve is tested when they are thrust into a confrontation with a U.S. submarine—a skirmish that was never meant to happen. As the crew grapples with the moral implications of altering the past, they must navigate the unpredictable ripples they've created in the timeline of World War II.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-10"
   },
   "score": {
     "arithmeticMean": 7.593020643755338,
     "arithmeticGeometricMean": 7.591281108274677,
-    "median": 7.53
-  },
-  "lastUpdate": "2024-05-10"
+    "median": 7.53,
+    "lastUpdate": "2024-05-10"
+  }
 }

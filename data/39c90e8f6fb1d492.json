@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kogoro Mouri, a private detective, receives a mysterious invitation to the Miracle Land amusement park along with his daughter Ran, her friend Conan Edogawa, and the Detective Boys. Upon arriving at the park, Kogoro and Conan soon realize the invitation is a trap set by an unknown client seeking to solve an old, unresolved case. With Ran and the Detective Boys secretly taken hostage and fitted with explosives, Kogoro and Conan have just 12 hours to reopen the case file and identify the culprit, or else their friends will meet a deadly fate. Aided by fellow teen sleuths Heiji Hattori and even the elusive Kaito Kid, they race against the clock to pore through clues and evidence to crack the code. It's a battle of wits and deductive skill as the group contends with this client's twisted game. Will Kogoro and Conan unravel the mystery in time and save their friends? Or does an even more sinister surprise await them all by the final hour?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.980573134045725,
     "arithmeticGeometricMean": 7.98002005511401,
-    "median": 8.009043927648579
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 8.009043927648579,
+    "lastUpdate": "2024-05-22"
+  }
 }

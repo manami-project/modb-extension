@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Condor Joe, a valued member of the Science Ninja Team Gatchaman, was believed to have sacrificed his life two years ago in the epic battle against the nefarious organization, GALACTOR. Fast forward to the present, and the tranquility of Earth is once again disrupted as the malevolent Leader X orchestrates a terrifying attack on an ocean liner, leaving mass devastation in its wake. Amidst the chaos, a young girl named Sammie Pandora is abducted by Leader X and subjected to a mutation process, transforming her into GelSadora, the new face of evil.\n\nAs GALACTOR resurfaces with renewed strength, the International Science Organization (ISO) reassembles the Gatchaman team, introducing a new member to fill the void left by Joe. However, the team is left reeling when this enigmatic replacement is exposed as a GALACTOR agent. Just when all hope seems lost, the impossible occurs: the miraculous return of Condor Joe, now reborn as a cyborg following a secret rescue and augmentation by an ex-GALACTOR scientist.\n\nWith the team reunited, they must adapt to their new dynamics and confront the formidable GelSadora, whose unpredictable behavior and childish tantrums pose a unique challenge. Unbeknownst to them, Dr. Pandora, a brilliant scientist driven by the loss of her family in the cruise ship disaster, is about to cross paths with the team, setting the stage for a dramatic confrontation that could alter the course of their lives forever.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.189470624613483,
     "arithmeticGeometricMean": 6.167519110846987,
-    "median": 6.363636363636363
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.363636363636363,
+    "lastUpdate": "2024-05-09"
+  }
 }

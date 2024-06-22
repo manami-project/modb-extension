@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "After dying in a tragic plane crash, a young man finds himself reborn into a fantastical world. His consciousness awakens in an orbiting space station overlooking an alien planet where he bears witness to the rise and fall of civilizations over countless millennia. When at last he gains agency in this new world, he inhabits the body of Gawain, the Grand Duke destined to shape the fate of the Kingdom of Ansu. Thrust into a position of power and influence, Gawain must navigate complex political waters rife with scheming nobles and mystical cults, all while an impending demonic crisis looms. Guided by his modern sensibilities, he sets out to challenge the class barriers and irrational traditions that threaten to tear his kingdom apart from within. However, with doomsday fast approaching, Gawain faces his greatest test - saving Ansu from being swallowed by the encroaching darkness. Will the reborn hero realize his destiny and lead his people into a new age of prosperity? Or is Ansu fated to fall like the countless civilizations before it, lost to the unforgiving tides of time?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.551540816326531,
     "arithmeticGeometricMean": 6.531518520721305,
-    "median": 6.785
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.785,
+    "lastUpdate": "2024-05-19"
+  }
 }

@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "In the year 2025, Earth's population has exploded to over 10 billion people, exhausting the planet's resources. In an effort to find new habitable worlds, humanity has begun terraforming Mars using advanced technology. However, disaster strikes when a spaceship returning from Mars crash-lands in Tokyo, releasing a gigantic monster called Negadon. Negadon wreaks havoc, and only robotics engineer Dr. Ryuichi Narasaki has the knowledge to stop him. Ten years prior, Dr. Narasaki lost his daughter in a tragic accident while testing one of his robots. The loss drove him from his field. Now with all of Earth under threat, Dr. Narasaki must confront his past by building his most advanced robot yet to face Negadon. In a desperate battle between the massive rampaging Negadon and Dr. Narasaki's robot, the future of humanity hangs in the balance. Will Dr. Narasaki overcome personal tragedy to save the planet? Can humanity finally defeat the unleashed monster?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 5.375026769149217,
     "arithmeticGeometricMean": 5.351859037808247,
-    "median": 5.324
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 5.324,
+    "lastUpdate": "2024-05-19"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "After being demoted to colonel, Johnny Rico is relocated to a Martian satellite to train a group of underperforming new recruits. Due to Mars' distance from the war, its inhabitants underestimate the threat of the bugs and are unprepared when the insects unexpectedly attack the planet. With the main Federation fleet preoccupied, Rico and his rookie soldiers find themselves isolated and outgunned. To make matters worse, Rico uncovers a conspiracy involving Sky Marshall Amy Snapp seizing power amidst the chaos. With Mars' safety at stake, Rico must turn his complacent cadets into a fighting force capable of defending the planet from the swarming bugs until reinforcements can arrive. Training this lackluster team will test Rico like never before. But if he fails, the consequences may be devastating for Mars and the entire war effort. Rico must rise to the challenge not only to save the planet but also to uncover the truth behind Snapp's sinister plans.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.532366286774449,
     "arithmeticGeometricMean": 6.5265116881196725,
-    "median": 6.49
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.49,
+    "lastUpdate": "2024-05-22"
+  }
 }

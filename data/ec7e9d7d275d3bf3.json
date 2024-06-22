@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Shonen Jump's Grand Prize-winning anime unveils the tale of Testa, a prodigious 17-year-old university professor with an unparalleled gift for languages. Recruited by his superior, Sergeant Rossa, Testa joins the Allied Cryptanalysis Department with a formidable mission: decipher the enigmatic Luger Code, a secret communication tool employed by werewolves, humanity's sworn enemies.\n\nThe code's unique encryption leaves Testa baffled, as the only discernible sound it emits is the haunting howl of a wolf. Despite tireless research, Testa's efforts to crack the code prove futile. Desperate to advance his cryptanalysis, he embarks on a daring quest to capture a live werewolf. After exploring every conceivable avenue, Testa finally crosses paths with Yonaga, a female werewolf who might just hold the key to unraveling the Luger Code's mysteries.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.55464935064935,
     "arithmeticGeometricMean": 6.545249620854487,
-    "median": 6.619571428571428
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.619571428571428,
+    "lastUpdate": "2024-05-09"
+  }
 }

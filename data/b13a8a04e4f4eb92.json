@@ -8,12 +8,13 @@
   ],
   "synopsis": {
     "text": "Paradigm City is a mysterious metropolis where 40 years ago a cataclysmic event erased the memories of all its inhabitants. With no recollection of the past, the people of Paradigm City have continued building their lives, unaware that in the decades before The Event they had created powerful megadeuses - giant robots - and monsters. As fragments of memories slowly resurface, some citizens have begun weaponizing these remnants of the past, threatening the fragile peace that exists. Stepping into the fray is Roger Smith, a suave negotiator turned vigilante. Aided by his loyal butler Norman and the deadpan android Dorothy, Roger pilots the megadeus Big O to protect Paradigm City from the sinister forces that lurk in its shadows. With every new confrontation, Roger uncovers more puzzling clues about those lost decades. What truly happened 40 years ago? What secrets lie buried in Paradigm City's blank collective memory? And what does the resurfacing past portend for the city's future? As the mysteries multiply, Roger races to separate friend from foe, truth from deception, and secure the city's safety before the fog of amnesia lifts to reveal the secrets of the past.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 7.603100233100233,
     "arithmeticGeometricMean": 7.601784608378309,
-    "median": 7.55
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 7.55,
+    "lastUpdate": "2024-05-19"
+  }
 }

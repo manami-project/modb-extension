@@ -7,12 +7,13 @@
   ],
   "synopsis": {
     "text": "In the special recap episodes \"One Piece: Barto's Secret Room\", enthusiastic Straw Hat fan Bartolomeo narrates the thrilling adventures of Luffy and his crew in Wano Country to young Otama. We follow Luffy from his fateful first meeting with Otama, where he promises to help free Wano from the tyrannical rule of Emperor Kaido. Through Bartolomeo's energetic storytelling, we relive how Luffy assembles an alliance of samurai, ninja, pirates and minks to stage a raid on Onigashima. The episodes build up to the long-awaited roof battle between Luffy and the worst generation against Kaido and Big Mom. By recapping these exploits in his signature zealous style, Bartolomeo aims to share his admiration for the Straw Hats while entertaining and informing viewers about their courageous campaign to liberate Wano.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.4429378478664185,
     "arithmeticGeometricMean": 6.438820126097004,
-    "median": 6.388
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.388,
+    "lastUpdate": "2024-05-21"
+  }
 }

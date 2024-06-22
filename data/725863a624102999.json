@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "A woman named Agarta awakens alone in an abandoned town with no memory of her identity or purpose. Mysterious words appear on her hands, identifying her as \"the Devourer of Dragons.\" As Agarta explores her empty surroundings, searching for answers, she is chased by a horrifying creature. Though initially inclined to flee, Agarta hears an eerily familiar voice urging her to stand and fight. It seems that to reclaim her lost memories and learn why she was brought to this place, Agarta must gather her courage and confront the monstrous entity pursuing her. Their encounter may provide the key to unlocking the secrets of her true nature and role in this strange world. By overcoming her fears and discovering the power within, Agarta can hope to piece together the fragments of her forgotten past.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 5.47641293400477,
     "arithmeticGeometricMean": 5.45712156532935,
-    "median": 5.66
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 5.66,
+    "lastUpdate": "2024-05-22"
+  }
 }

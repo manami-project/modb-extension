@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the near future, a mysterious environmental phenomenon fractures part of Japan, creating an isolated region known as the Lost Ground. This disaster imbues some inhabitants with supernatural abilities called Alters. Kazuma, a mercenary living in the harsh Lost Ground, possesses a powerful Alter allowing him to coat his limbs in metal. The order HOLY aims to control Alter users for unknown motives. After Kazuma's violent defeat by HOLY's elite agent Ryuho, his hatred grows. However, his friend Kunihiko often helps Kazuma out of trouble. As Kazuma hones his Alter against increasingly powerful HOLY members, questions remain about HOLY's true intentions in the Lost Ground.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.315850185528757,
     "arithmeticGeometricMean": 7.31290154113339,
-    "median": 7.34
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.34,
+    "lastUpdate": "2024-05-21"
+  }
 }

@@ -7,12 +7,13 @@
   ],
   "synopsis": {
     "text": "In a dark fantasy world, the evil wizard Dark Schneider and his four generals once sought to conquer the world and resurrect the destructive god Anthrasax. They were defeated fifteen years ago and Dark Schneider was sealed within the body of a young boy named Lucien. Now, Dark Schneider's old allies have revived their plan to free Anthrasax and remake the world. To stop them, the priestess Yoko awakens Dark Schneider from inside Lucien with a kiss. Though freed, Dark Schneider is chaotic and self-serving as ever. Yoko hopes to direct his immense power against their shared enemy, but convincing him to fight for others and not himself proves a monumental challenge. With apocalyptic stakes, the story follows Yoko's struggle to keep Dark Schneider's twisted ambitions focused on saving humanity instead of subjugating it. Action and chaos erupt as demonic forces clash in a heavy metal fantasy world. Though the heroes themselves may prove as dangerous as the villains they battle.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.615290352504638,
     "arithmeticGeometricMean": 6.614962785668927,
-    "median": 6.612
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.612,
+    "lastUpdate": "2024-05-21"
+  }
 }

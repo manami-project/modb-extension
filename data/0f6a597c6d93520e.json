@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Double Decker! Doug & Kirill is an anime that follows the adventures of Doug, Kirill, and the other members of a special police unit called Seven-O. The main story takes place over 13 episodes, but there are also 3 extra episodes that focus on side stories. The first extra episode shows what the detectives do on a slow day at work while the women of the unit go out to eat. The second involves Seven-O infiltrating a party to catch a drug dealer, with Kirill going undercover as a waitress. The third extra episode has the team trying to relax at a hot spring, but their vacation gets interrupted when an underwear thief causes trouble. Even during their down time, the Seven-O unit seems to constantly find excitement and new cases to solve. The extra episodes provide more insight into the daily lives and relationships of Doug, Kirill, and the other detectives as they navigate both normal activities and strange criminal events. With humor and camaraderie, the team takes each bizarre situation in stride. Through it all, they remain dedicated to fighting crime and keeping their community safe.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.986984185882145,
     "arithmeticGeometricMean": 6.971809291735334,
-    "median": 7.13
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.13,
+    "lastUpdate": "2024-05-21"
+  }
 }

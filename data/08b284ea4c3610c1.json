@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Odokawa is an eccentric taxi driver living a mundane life in a familiar city that feels slightly off. He has no family or friends except his doctor Gouriki and former classmate Kakihana. Odokawa's passengers include the attention-seeking college student Kabasawa, the secretive nurse Shirakawa, the struggling comedy duo Homo Sapiens, local delinquent Dobu, and rookie idol group Mystery Kiss. Though their conversations seem trivial, they ultimately lead Odokawa to investigate the disappearance of a missing girl. Now he finds himself entangled with corrupt police and the criminal underworld as he seeks to uncover the truth behind the mystery. Despite Odokawa's lonely existence, his interactions with his peculiar customers draw him into a complex web of intrigue hiding beneath the city's ordinary façade.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 8.471631029684602,
     "arithmeticGeometricMean": 8.470583919370895,
-    "median": 8.512500000000001
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 8.512500000000001,
+    "lastUpdate": "2024-05-22"
+  }
 }

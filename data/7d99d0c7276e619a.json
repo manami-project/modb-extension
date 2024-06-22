@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "After climate change submerged much of the world underwater, humanity built the entertainment tower Babel to give people hope. Babel hosts a music competition where performers, including unique android units, compete to climb to the top by captivating audiences with their songs and dances. The story follows four ownerless androids - Cobalt, Chrom, Neon, and Kei - who face shutdown due to unpaid bills. Desperate, they form the android boy band KNoCC to perform at Babel. With help from their human friend Esora, they strive to improve their act after being awed by top climber STAND-ALONE. When KNoCC stumbles upon a mysterious choreographer's routine, they see a chance to climb higher. However, overcoming discrimination poses an additional challenge. As KNoCC battles their way up Babel, the story explores the bonds between humans and androids while highlighting the importance of hope and emotional connections through music.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.381391995759342,
     "arithmeticGeometricMean": 6.3552280074109895,
-    "median": 6.458
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.458,
+    "lastUpdate": "2024-05-19"
+  }
 }

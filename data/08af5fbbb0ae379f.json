@@ -7,12 +7,13 @@
   ],
   "synopsis": {
     "text": "Golden Ray is an upbeat J-pop song performed by the band Sangatsu no Phantasia that serves as the opening theme to the anime series Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega (Atelier Ryza: Ever Darkness & the Secret Hideout). The colorful music video brings the song to life through vibrant animations depicting Ryza, the protagonist of the anime, along with other characters dancing playfully. As the cheerful melodies build, we see glimpses into Ryza's adventures - gathering ingredients, battling creatures, and spending time with friends. A week after its release on July 1st, 2023, a Vocaloid cover of Golden Ray sung by virtual idol Hatsune Miku was published, reusing the same lively visuals from the original video. With its upbeat energy and links to the lighthearted fantasy anime, Golden Ray aims to draw viewers into Ryza's world and set the stage for her epic journey to unravel the secrets of a mysterious hideout. The song's infectious excitement encourages both anime fans and music listeners to join the adventure.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.736909090909091,
     "arithmeticGeometricMean": 6.731268250901696,
-    "median": 6.598
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.598,
+    "lastUpdate": "2024-05-21"
+  }
 }

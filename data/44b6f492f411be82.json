@@ -7,12 +7,13 @@
   ],
   "synopsis": {
     "text": "The anime recounts the legendary tale of Kozuki Oden, a revered daimyo of Wano Country. Through vivid narration, Oden's son Momonosuke and Yamato, an admirer of the Kozuki clan, reflect on Oden's adventurous life - from his impulsive youth to his rise as a renowned samurai. We learn of Oden's journeys across the seas with the future Pirate King Gol D. Roger and Emperor Edward \"Whitebeard\" Newgate, glimpsing the hardships and personal growth that defined his transformation into the man so admired in Wano lore. Intertwined is the rebellion of Yamato against his father, tyrannical shogun Kaido, as both he and Momonosuke inherit Oden's enduring legacy. This nostalgic tale memorializes the trials and triumphs of an exceptional man while sowing the seeds of future revolution in Wano Country. As much a retrospective as a call-to-action, it captivates with visions of the past and hints of greater change to come.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.824991651205937,
     "arithmeticGeometricMean": 6.816765190408439,
-    "median": 6.824
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.824,
+    "lastUpdate": "2024-05-21"
+  }
 }

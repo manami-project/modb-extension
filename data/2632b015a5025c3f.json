@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The mechanical world of Cybertron is home to sentient robotic beings known as Transformers, who are engaged in a relentless war between the factions of Cybertrons and Destrons. At the heart of their conflict lies the pursuit of a newfound power: the Microns, a unique breed of mini Transformers capable of merging with their larger counterparts to grant them unparalleled strength.\n\nRecognizing the devastation their existence has brought, the Microns embark on a journey to the far reaches of the cosmos, hoping to elude their pursuers. Their voyage takes a dramatic turn when their shuttle crash-lands on Earth, leaving them in a state of suspended animation for eons.\n\nFast forward to the present day, three inquisitive children stumble upon the dormant Micron ship hidden within a cave. Unbeknownst to them, their innocent exploration triggers a signal that reverberates across the universe, alerting both Cybertrons and Destrons to the Microns' whereabouts.\n\nAs the age-old adversaries descend upon Earth, the battle for control over the Microns reignites, revealing long-buried secrets of the universe and the ominous force known as Unicron. Caught in the crossfire, the Microns must navigate the complexities of this war and determine their role in shaping the destiny of not just their own kind, but the entire universe.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.312243661100804,
     "arithmeticGeometricMean": 6.267891422778411,
-    "median": 6.608
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.608,
+    "lastUpdate": "2024-05-09"
+  }
 }

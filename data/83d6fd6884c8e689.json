@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Contemplating the meaning of happiness, middle school students Madoka Kaname and Homura Akemi compose philosophical answers, leading them to reflect on their own life choices. Meanwhile, strange occurrences cause turmoil among a group of magical girls as they navigate the challenges of their mystical destiny to battle evil forces. This story is partially depicted in a four-minute animated concept film created for Studio SHAFT's 40th anniversary, serving as a trailer for a new Madoka Magica project. The enigmatic film showcases the core of the new storyline centered around the characters' continuing journey.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.909630196523054,
     "arithmeticGeometricMean": 6.903052859746526,
-    "median": 6.940769944341373
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.940769944341373,
+    "lastUpdate": "2024-05-19"
+  }
 }

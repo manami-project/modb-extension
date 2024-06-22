@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "The story takes place on the planet Mercury, where advanced cybernetic technology has led to the development of giant pilotable robots called mobile suits. However, prolonged use of this technology takes a heavy toll on pilots. Tensions rise between the people of Mercury and Earth as the Mercurians' mobile suits gain power. On her daughter Ericht's fourth birthday, Mercury pilot Elnora Samaya tests a state-of-the-art mobile suit called the Gundam Lfrith. Its creator, Cardo Nabo, observes the test. Despite orders not to visit, Ericht goes to see her mother at work. Chaos unfolds when Ericht mysteriously forms a bond with the Gundam Lfrith. The story provides commentary on the ethical issues surrounding human enhancement technology and its potential military applications. It explores the emotional toll of war on families through the strained relationship of Elnora and her daughter. Their encounter with the formidable Lfrith foreshadows impending conflict between factions from Mercury and Earth.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.860417174662072,
     "arithmeticGeometricMean": 7.858280384772518,
-    "median": 7.87
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.87,
+    "lastUpdate": "2024-05-21"
+  }
 }

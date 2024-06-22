@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the vibrant world of Croket!, exotic creatures live alongside humans. Individuals known as Bankers travel this world seeking out magical coins called Kinkas, which are said to make wishes come true when gathered in large numbers. Our protagonist is Croket, a young Banker aiming to revive his legendary father, Burger. Croket possesses great strength despite his small stature. Croket competes in a tournament called Banker Survival against rivals seeking Kinkas for their own wishes. These colorful characters include Rizott, who fights to protect his hometown, the mysterious Banker Fondovo, and the jovial Banker Pudding-pudding. Croket also pursues a shadowy figure called the Man in the Black Mantle, who he suspects defeated his father. By winning the tournament's stash of Kinkas, Croket hopes to see his father again. With his mother's perseverance in his heart, Croket confronts challenges on his inspirational quest.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.472007421150278,
     "arithmeticGeometricMean": 6.455082573394303,
-    "median": 6.381818181818181
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.381818181818181,
+    "lastUpdate": "2024-05-19"
+  }
 }

@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "The story follows Riko, a young girl determined to become a Cave Raider like her mother and explore the treacherous Abyss. When Riko receives word that her mother has died deep in the Abyss, a mysterious note gives her hope that her mother may still be alive. Riko then embarks on a dangerous quest into the Abyss with the help of Reg, a humanoid robot boy, to unravel the mystery of her mother's fate. Together Riko and Reg face harrowing challenges as they descend through the layers of the Abyss and encounter its sinister inhabitants. Their bond deepens even as they question whether they have the skill and resolve to survive the merciless Abyss. Just as all seems lost, the legendary White Whistle Ozen emerges to shed light on Riko's past and reveals pivotal information about her mother. Though the road ahead remains filled with unknown perils, Riko and Reg push forward undaunted in their mission to discover if Riko's mother survives deep in the enigmatic darkness of the Abyss. Their journey will test their courage and reveal if the truth about Riko's mother is worth risking their lives.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.070889610389612,
     "arithmeticGeometricMean": 8.069352038551541,
-    "median": 8.17590909090909
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 8.17590909090909,
+    "lastUpdate": "2024-05-21"
+  }
 }

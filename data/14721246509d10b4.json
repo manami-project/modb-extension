@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "During Japan's Edo period, three mysterious space capsules were sent to Earth and buried underground for safekeeping by humans, who feared their destructive potential. Descriptive maps to locate these objects were entrusted to the Kamui clan. In present day, the capsules awaken one by one, beginning with Tri-Zenon, a powerful Zenon Guardian robot. Tri-Zenon falls under the control of Akira Kamui, a descendant of the clan, along with his brother Ai and their friend Kanna. Meanwhile, a massive alien fleet called Zenopares arrives, intent on claiming Earth as their new home and driving out humanity. The only hope lies with the awakened capsules - which had been sent centuries prior to defend Earth against this very threat. Though ordinary weapons fail, the ancient weapons buried within the Kamui clan and Tri-Zenon just may turn the tide against the alien invaders.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 5.847795299938158,
     "arithmeticGeometricMean": 5.833035272485607,
-    "median": 5.678385899814471
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 5.678385899814471,
+    "lastUpdate": "2024-05-19"
+  }
 }

@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Takemura is an office worker who prefers solitude over people. When the company he works for goes bankrupt, he loses his job and becomes a shut-in. One day, after leaving his apartment for the first time in over a week, Takemura is attacked and bitten by a mysterious man. He falls ill for several days, and when he recovers, Takemura emerges to find the world overrun by zombies. Strangely, the zombies completely ignore Takemura instead of attacking him. He soon realizes he has been granted an incredible power in this post-apocalyptic world - immunity to the zombies. With civilization collapsing around him, Takemura must decide how to leverage his newfound power. Will he become a savior to the surviving humans? Or will he use his gift only to selfishly serve himself in the new zombie world? The choices Takemura makes will determine if he is a hero or just another villain flourishing in the apocalypse.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-06-21"
   },
   "score": {
     "arithmeticMean": 0.0,
     "arithmeticGeometricMean": 0.0,
-    "median": 0.0
-  },
-  "lastUpdate": "2024-06-21"
+    "median": 0.0,
+    "lastUpdate": "2024-06-22"
+  }
 }

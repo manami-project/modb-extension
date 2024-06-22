@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In 2039, the world is drastically impacted by climate change and rising sea levels, resulting in loss of land and resources. Mysterious fog-cloaked warships called the Fleet of Fog appear across the oceans and launch devastating attacks on naval forces globally. Humanity is overwhelmed and defeated, unable to match the advanced weapons and technology of the enemy fleet. The Fleet of Fog blockades the seas, destroying international trade and travel. For seventeen years, humanity struggles to survive this new world order. Then, a former Fleet submarine called I-401 resurfaces with its humanoid Mental Model, Iona. They approach the young cadet Chihaya Gunzou, offering to support humanity instead of the Fog. Gunzou assembles a motley crew and renames the sub. Dubbing themselves the Blue Steel privateers, they set out to take on the mighty Fleet and break the blockade strangling mankind. With Iona's inside knowledge of the enemy's strengths and weaknesses, the group wages a courageous battle to regain humanity's freedom over the seas once more.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.328859746122524,
     "arithmeticGeometricMean": 7.3276831021400355,
-    "median": 7.366734693877551
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.366734693877551,
+    "lastUpdate": "2024-05-22"
+  }
 }

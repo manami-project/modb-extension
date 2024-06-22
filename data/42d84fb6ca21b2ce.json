@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Nagasumi is a middle school student who nearly drowns while swimming during his summer vacation. He is saved by a mermaid named Sun, but this puts them both in grave danger - according to merfolk law, either the mermaid or the human who discovers them must die. To avoid this fate, Sun's family, who are part of a merfolk mafia clan, insist that the only solution is for Nagasumi and Sun to marry. Though initially resistant, Nagasumi ultimately agrees to marry Sun in order to save both of their lives. However, this causes new problems - Sun's overprotective father repeatedly tries to kill Nagasumi, while various antagonists cause chaos as the newlyweds try to keep Sun's mermaid identity secret. Despite the madness surrounding them, Nagasumi and Sun's relationship blossoms into one of genuine affection. Together, they do their best to adapt to their peculiar situation while keeping Sun's true nature hidden from the outside world.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.593138686710115,
     "arithmeticGeometricMean": 7.590862890379592,
-    "median": 7.619999999999999
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.619999999999999,
+    "lastUpdate": "2024-05-22"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "This thrilling prequel to Street Fighter Alpha centers on Ryu, a young martial artist haunted by the death of his master, Gouken. Upon returning to pay respects at his mentor's grave, Ryu is tormented by disturbing memories of Gouken's killer. Seeking to master his fighting skills and overcome this trauma, Ryu embarks on a quest to hone his street fighting abilities and free himself from the Dark Hadou - a malevolent energy that threatens to consume him. Ryu sets out to test his newfound power against fierce rivals. But his ultimate test lies in a fated confrontation with Gouki, the merciless killer responsible for Gouken's death. Gouki embraces the chaotic Dark Hadou, contrasting Ryu's struggle to resist its corrupting influence. Their battle will determine not just Ryu's fighting prowess, but also his very soul. Through this crucible, Ryu hopes to emerge as a true martial arts master.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.174083674451022,
     "arithmeticGeometricMean": 6.164519693358558,
-    "median": 6.286
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 6.286,
+    "lastUpdate": "2024-05-20"
+  }
 }

@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Tokyo's bustling cityscape is left behind as a renowned horror novelist and his family embark on a new chapter in their lives, relocating to a secluded hotel nestled in the tranquil countryside. Their journey is peppered with unsettling news broadcasts, hinting at an ominous undercurrent. As they acclimate to their new home, formerly a set for the author's beloved horror film, peculiar occurrences begin to unfold.\n\nIntrigued by an enigmatic presence that seems to linger within the hotel's walls, the family decides to delve deeper into the mystery. At first glance, their discoveries appear innocuous, yet an unsettling feeling lingers. Could there be more to their findings than meets the eye?\n\nAmidst the suspense and intrigue, the family's bond remains unshaken, offering a heartwarming contrast to their eerie surroundings. This unique blend of chilling mystery and heartfelt humor invites viewers to join the family on their thrilling journey of discovery.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 5.434178107606678,
     "arithmeticGeometricMean": 5.417636073874099,
-    "median": 5.22
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 5.22,
+    "lastUpdate": "2024-05-09"
+  }
 }

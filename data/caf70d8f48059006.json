@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The CLAMP school is a massive, self-contained educational institution spanning kindergarten through graduate studies, funded by the wealthy Imonoyama Group. With over 10,000 students, the tuition-free school attracts talented youth regardless of background. At the elementary level, the cheerful Student Council President Nokoru Imonoyama establishes a detective agency with his friends - Secretary Suoh Takamura and Treasurer Akira Ijyuuin. Energetic and resourceful, the trio eagerly helps any damsel in distress, solving mysteries and crimes around the extensive CLAMP campus. With full access to the school's vast resources, these three young sleuths are ready to take on any case, big or small. Join Nokoru, Suoh and Akira's adventures as they save their classmates from distress while getting an elite education at the renowned CLAMP School.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.480129340047708,
     "arithmeticGeometricMean": 6.472366172759803,
-    "median": 6.602
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.602,
+    "lastUpdate": "2024-05-19"
+  }
 }

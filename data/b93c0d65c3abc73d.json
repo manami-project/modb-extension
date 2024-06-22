@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Our story follows Pastel, an 18-year-old orphan who lives with a group of adventurers in a small house in a fantasy world parallel to our own. She works as a writer and mapper, charting the landscapes around them. Her housemates include Clay, a young swordsman; Trapp, a bandit's son; Kitton, a walking dictionary; Knoll, a big-hearted fighter; Whitey, an infant dragon; and Rumy, a baby sorcerer elf. This ragtag group finds themselves embroiled in various adventures - from treasure hunts to rescue missions to solving riddles. Their journeys take them across strange lands filled with mystery and wonder. When Trapp's father returns from an expedition with a white dragon jewel identical to Whitey's, Clay, Pastel, Rumy and Whitey set out to uncover if there is a connection. Their quest takes them to the treacherous Mount Terrason as they seek to unravel the secrets surrounding the magical jewels and Whitey's possible dragon lineage. With skills ranging from swordsmanship to sorcery, this eccentric band of adventurers fearlessly charges into each new mission. And while the road ahead is filled with the unknown, one thing's for certain - it will be anything but boring.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.240279353299762,
     "arithmeticGeometricMean": 6.212066902896353,
-    "median": 6.090909090909091
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.090909090909091,
+    "lastUpdate": "2024-05-19"
+  }
 }

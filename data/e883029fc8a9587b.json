@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Annette is a 12-year-old girl living in a poor family in a small village in the Swiss Alps. She deeply cares for her 5-year-old brother Dani, who was born when their mother tragically passed away. Annette also has a best friend named Lucien that she cherishes. One day, Dani is severely injured in a terrible accident that Lucien is unwillingly responsible for. As a result, Dani develops a permanent limp. This tragedy causes strife between Annette and Lucien, severing their wonderful friendship. In the aftermath, Annette struggles to find forgiveness in her heart, while Lucien searches for ways to prove to Annette and the villagers that he is still a good person. Lucien's greatest wish is to somehow heal Dani's injury to restore their broken friendship. Over time and through perseverance, Annette and Lucien slowly rebuild trust in one another.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.546580970050357,
     "arithmeticGeometricMean": 6.536857620571874,
-    "median": 6.44
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.44,
+    "lastUpdate": "2024-05-19"
+  }
 }

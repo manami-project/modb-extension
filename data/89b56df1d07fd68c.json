@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Set 53 years after the events of the previous Da Capo anime installments, \"D.C. II: Da Capo II\" takes place on the ever-blossoming cherry blossom island of Hatsunejima. The new cast of characters includes Yoshiyuki Sakurai, the son of Sakura Yoshino, as well as the sisters Yume and Otome Asakura, who are the granddaughters of Junichi and Nemu from the first Da Capo season. Yoshiyuki attends the school run by his relative Sakura Yoshino and lives an eventful school life surrounded by girls and friends. Together they have amusing adventures such as discovering an ancient robot and joining a rock band. However, mysteries also emerge around Yoshiyuki and the island. While some characters resemble their ancestors from previous generations, D.C. II features an entirely new roster of main characters. Nonetheless, the beautiful cherry blossoms and drama-filled school days endure on Hatsunejima.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.931489795918367,
     "arithmeticGeometricMean": 6.927512697562764,
-    "median": 6.898
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.898,
+    "lastUpdate": "2024-05-19"
+  }
 }

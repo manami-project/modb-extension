@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Hirono Kenta is an average student who harbors dreams of being a hero. He even creates his own superhero persona, \"Wing Man,\" designing a costume and imagining heroic adventures. His life is transformed when a mysterious girl named Yume Aoi appears, revealing herself as a princess from the dream realm of Botoreem. Yume carries an artifact called the Dream Note, which can make any dream written in it come true. Hirono had already unwittingly used it to bring Wing Man to life. However, the evil Rimeru seeks the book in order to conquer Botoreem and become ruler of the universe. Though reluctant at first, Hirono realizes he must help Yume reclaim her kingdom. With the power of Wing Man and the support of his childhood friend Ogawa Miku, Hirono is pulled into an unbelievable quest to defeat Rimeru’s forces and restore Botoreem's freedom.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.526729393055924,
     "arithmeticGeometricMean": 6.501803910695643,
-    "median": 6.67
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.67,
+    "lastUpdate": "2024-05-22"
+  }
 }

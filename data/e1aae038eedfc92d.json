@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The series centers around Prince Planet, a highly intelligent and morally upright member of the Universal Peace Corps from the planet Radion. He is sent to Earth on a mission to assess whether humanity is ready to join the Galactic Union of Worlds. Upon arriving on Earth, Prince Planet disguises himself as Bobby, an ordinary human boy, and comes to live on a ranch with Diana Worthy and her father Pops. Although eager to carry out his mission, Prince Planet also grapples with normal human emotions like homesickness for his family back on Radion. Through his pendant, Prince Planet can transform into his true form and utilize various abilities to fight injustice and promote peace on Earth. However, he must ensure the pendant stays charged with energy transmitted from Radion in order to maintain his powers. Together with his Earthling friends, especially Diana who can call him with her special ring, Prince Planet strives to thwart evil aliens and humans alike. His overarching goal is to demonstrate to the Galactic Union that despite humanity's flaws, the people of Earth have the potential to unite and create a peaceful world worthy of joining the interplanetary community.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 4.990586889301175,
     "arithmeticGeometricMean": 4.966043944368728,
-    "median": 5.045454545454545
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 5.045454545454545,
+    "lastUpdate": "2024-05-21"
+  }
 }

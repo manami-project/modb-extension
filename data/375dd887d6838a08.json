@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Ruby, a charming Jewelpet with the appearance of a rabbit, embarks on an extraordinary mission alongside her loyal human companion, Airi Kirara, and an ensemble of fellow Jewelpets. Their objective is to restore the once-magnificent Jewel Castle, which has tragically plummeted from the heavens and crashed into the heart of a bustling town, a consequence of humanity's waning faith in magic. To reignite the spark of belief in magic among people, these Jewelpets take on human forms and descend to Earth, eager to learn more about the human experience. As they navigate through their newfound lives, they strive to remind humanity of the enchantment hidden within their world.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.266265041081367,
     "arithmeticGeometricMean": 6.1981529971302365,
-    "median": 6.821999999999999
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.821999999999999,
+    "lastUpdate": "2024-05-09"
+  }
 }

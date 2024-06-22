@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "With her curiosity piqued by tales of far-off lands and enchanting magic, Princess Arete yearns to break free from the confines of her castle tower and explore the world beyond her royal boundaries. Her father, the king, keeps her secluded while potential suitors vie for her hand in marriage by seeking out powerful, ancient artifacts. Arete, however, dreams of a life among the common folk and yearns to experience the wonders she's only read about in her hidden collection of books.\n\nOne fateful day, the sorcerer Boax arrives in a magnificent flying machine, offering to transform Arete into a true princess and take her as his bride. Although this union seems like an escape from her previous imprisonment, Arete soon finds herself confined once more in Boax's distant castle.\n\nDetermined not to let her dreams be extinguished, Arete must find the strength to defy her circumstances and embark on a magical journey filled with self-discovery, adventure, and the chance to finally experience the extraordinary world she's always longed for.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-08"
   },
   "score": {
     "arithmeticMean": 6.845836734693878,
     "arithmeticGeometricMean": 6.842189139303526,
-    "median": 6.96
-  },
-  "lastUpdate": "2024-05-08"
+    "median": 6.96,
+    "lastUpdate": "2024-05-08"
+  }
 }

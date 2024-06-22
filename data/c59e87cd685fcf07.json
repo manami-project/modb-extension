@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Porphyras is a young Greek boy who lives happily with his parents and younger sister Mina in the Greek countryside, where his family has just opened a new gas station. Their future seems bright until a destructive earthquake strikes, killing Porphyras's parents and separating him from Mina. Initially thinking Mina has disappeared in the chaos, Porphyras eventually finds her alive. Now orphaned, the siblings are faced with the prospect of being placed in foster care in Greece. Not wanting to live with strangers in a foreign land, Porphyras and Mina embark on an ambitious journey across Europe, seeking adventure and forging their own path forward. Though they face an uncertain future filled with challenges, the brother and sister have each other and appear determined to make the best of their tragic situation. Their epic travels across the continent may lead them to unexpected places and people, shaping their destiny in ways they cannot yet imagine.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.663589716406042,
     "arithmeticGeometricMean": 6.650394887306611,
-    "median": 6.818181818181818
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.818181818181818,
+    "lastUpdate": "2024-05-21"
+  }
 }

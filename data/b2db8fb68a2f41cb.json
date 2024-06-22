@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "Mulan is a spirited young woman who disguises herself as a man in order to take her ailing father's place in the imperial army. Though struggling to fit in, her skills with a sword soon distinguish her as a gifted warrior. When her regiment is sent on a mission to quell an impending invasion from northern invaders, Mulan views it as an opportunity to prove herself and bring honor to her family. However, what begins as a routine assignment unexpectedly sets Mulan on an exciting yet dangerous adventure. As she journeys across China, she discovers a treacherous plot that threatens the safety of the empire. With cleverness and courage, Mulan rises to the occasion to protect her country and people. Through her heroism she finds her true calling, gains the respect of her fellow soldiers, and discovers her own identity in the process. Based on the legendary tale, the story depicts Mulan's thrilling quest for belonging, purpose and self-actualization in a vivid, realistic setting. As she battles fierce enemies and confronts personal demons, Mulan exemplifies the indomitable human spirit while learning profound lessons about duty, sacrifice and what it truly means to be a hero.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.417212121212121,
     "arithmeticGeometricMean": 6.4043334316937734,
-    "median": 6.363636363636363
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.363636363636363,
+    "lastUpdate": "2024-05-21"
+  }
 }

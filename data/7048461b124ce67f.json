@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Set during the historic Edo period in Japan, the story centers around Toriyama Sekiei, an eccentric artist with a unique gift. Rumors circulate that Sekiei rarely leaves his home, venturing out only to battle supernatural creatures that he later memorializes in his art. His drawings depict not works of imagination, but demons and spirits he has personally encountered. As news of the mysterious artist spreads, desperate townspeople seek out Sekiei, hoping his knowledge of the supernatural world can help solve their problems. Though reclusive, Sekiei agrees to use his brush, the weapon he wields alongside his memory, to capture the likenesses of the dangerous creatures. His skills as an artist are matched only by his experiences battling demons. With his lifelike drawings of ghosts, goblins and ghouls, Sekiei documents his paranormal encounters while lending his unique expertise to the aid of his fellow townspeople. As he confronts the supernatural forces plaguing the Edo period, this brilliant, eccentric artist leaves behind a legacy of artwork birthed by both imagination and reality.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 5.4557370792472835,
     "arithmeticGeometricMean": 5.442079448722981,
-    "median": 5.464
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 5.464,
+    "lastUpdate": "2024-05-20"
+  }
 }

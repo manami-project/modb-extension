@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kazuya Souma, an aspiring 19-year-old civil servant, is unexpectedly summoned from modern-day Japan to the fantasy kingdom of Elfrieden. Upon his arrival, Souma learns that Elfrieden's small, ailing country and allies are embroiled in an ongoing war with a threatening demon army. In an act of tribute to reinforce military alliances, Elfrieden offers Souma to its allies. Dissatisfied at being used as a pawn, Souma refuses to partake in adventuring or combat. Instead, he presents an alternative plan to King of Elfrieden - to revitalize the declining Elfrieden economy via administrative reforms. Recognizing Souma's talents, the King abruptly crowns him as Elfrieden's new monarch. Now engaged to Princess Liscia, the newly crowned King Souma begins assembling a group of gifted advisors including the wise, talented, and powerful. With their counsel, Souma sets forth a nontraditional path aimed at getting Elfrieden back on its feet through pragmatic bureaucratic reform rather than war or adventure.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.476215097402597,
     "arithmeticGeometricMean": 7.472518415059338,
-    "median": 7.472613636363636
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.472613636363636,
+    "lastUpdate": "2024-05-21"
+  }
 }

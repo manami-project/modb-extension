@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Saburo is an ordinary high school student who finds himself unexpectedly transported back in time to Japan's Sengoku Era. Upon his arrival, he encounters the young warlord Oda Nobunaga, who bears an uncanny resemblance to Saburo. Nobunaga, seeking to escape his retainers, implores Saburo to take his place for the time being. Though confused, Saburo agrees, and Nobunaga hastily outfits him with the necessary items to assume the role of feudal lord before making his getaway. Now posing as the ambitious leader who eventually unites Japan, Saburo must rely on his modern knowledge and experiences to navigate this treacherous period in history. Despite his initial reluctance, Saburo soon realizes the importance of Nobunaga's quest to bring stability to the warring states. Equipped with courage and insight from another era, perhaps Saburo can ensure history unfolds as it should and guide Japan toward unification.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.46465723562152,
     "arithmeticGeometricMean": 7.462776710762316,
-    "median": 7.513999999999999
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.513999999999999,
+    "lastUpdate": "2024-05-22"
+  }
 }

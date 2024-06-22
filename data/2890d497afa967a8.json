@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "This new anime series invites you to embark on an exhilarating journey through the captivating world of Pokémon! Meet Liko, a reserved young girl hailing from the Paldea region, who ventures to the Kanto region to enroll at the prestigious Indigo Academy and fulfill her dream of becoming a Pokémon trainer. Upon her arrival, she is gifted her first Pokémon, a temperamental Grass-type cat named Nyahoja.\n\nHowever, Liko's life takes an unexpected turn when her enigmatic pendant, a gift from her grandmother, draws the unwanted attention of a mysterious organization known as the Explorers. In her moment of peril, she is rescued by Friede, a charismatic leader of the adventurer group Rising Volt Tacklers, and his trusty Charizard.\n\nAs Liko joins Friede's team, she finds herself on a thrilling adventure across the Kanto region, alongside a diverse group of trainers, including Roy, who possesses an ancient and enigmatic Pokéball. Together, they strive to uncover the secrets of the Pokémon world and unravel the mystery surrounding Liko's pendant. Along the way, they encounter a host of unique characters, such as Captain Pikachu and Amethio, who help shape their extraordinary journey. Prepare for a rollercoaster ride filled with action, friendship, and discovery in this latest installment of the Pokémon series!",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 7.471147263450835,
     "arithmeticGeometricMean": 7.466802657835101,
-    "median": 7.485227272727273
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 7.485227272727273,
+    "lastUpdate": "2024-05-09"
+  }
 }

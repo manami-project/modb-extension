@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In 19th century Japan, the last Tokugawa Shogun hid away an enormous multi-billion dollar fortune before the end of the Edo period. Centuries later, master thief Lupin sets his sights on claiming that treasure for himself. The only clues to its location are etched onto two antique glass plates, currently in the possession of millionaire businessman Michael Suzuki. Lupin and his partners Jigen and Goemon attempt to steal the plates, but quickly realize there is more to this mystery than meets the eye. Jigen is hindered by a bad toothache, while Goemon has to retrieve his precious sword after it was stolen and put on display in an art exhibition. Meanwhile, the persistent Inspector Zenigata has teamed up with alluring reporter Maria, who seems to share a mysterious connection with Suzuki. With twists and turns at every corner, Lupin must use all his cunning if he hopes to decipher the secret of the plates, outmaneuver his rivals, and claim the Tokugawa treasure as his own prize. But will the lure of Japanese gold finally be enough to trip up the slippery thief?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.275602615072003,
     "arithmeticGeometricMean": 7.273176100810356,
-    "median": 7.34
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.34,
+    "lastUpdate": "2024-05-22"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Memoru is one of 245 tiny aliens from the distant Riruru Star who crash-landed on Earth a year ago. Stranded far from home, Memoru and her people have made a hidden home near the crash site. One day, Memoru hears enchanting music and follows it to a large house, where she discovers Marielle, a terminally ill human girl playing piano. Moved by sadness for Marielle, Memoru's tears miraculously heal the dying girl, bonding them in friendship. Marielle introduces Memoru to her love interest Oscar, and the three become close companions, having whimsical adventures together. However, Oscar's jealous fiancée Grace discovers the aliens and threatens to expose Memoru's people to the world. In the end, Grace has a change of heart and helps the aliens secretly repair their ship so they can return home. Memoru stays behind on Earth, cherishing the magical friendships she found there.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.645492534676209,
     "arithmeticGeometricMean": 6.632544294689528,
-    "median": 6.636363636363637
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.636363636363637,
+    "lastUpdate": "2024-05-22"
+  }
 }

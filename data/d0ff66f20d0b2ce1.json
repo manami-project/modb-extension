@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Marces, a wealthy arms dealer, and Fujiko, Lupin's eternal temptation, join the chase for Ernest Hemingway's last unfinished manuscript, rumored to contain the location of a hidden treasure on a desolate Mediterranean island. Lupin, the master thief, finds himself caught in a power struggle between two rival factions, led by President Carlos and Consano, who have turned the island into a warzone in their quest for the treasure. With the help of Maria, a local bartender, Lupin must navigate the conflict, reunite with his old friends Jigen and Goemon, who have their own agendas, and outwit the relentless police inspector on his tail, all while trying to uncover the truth behind the Hemingway Papers.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.955617280678504,
     "arithmeticGeometricMean": 6.953925402512228,
-    "median": 7.0
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 7.0,
+    "lastUpdate": "2024-05-09"
+  }
 }

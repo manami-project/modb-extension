@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "This anime film is the first part of a theatrical trilogy that remakes the story from the first two seasons of the original anime series. It centers on Lelouch Lamperouge, a young man who gains the supernatural power of Geass that allows him to compel others to obey his commands. After Japan was conquered and destroyed by the mighty Britannian Empire, Lelouch harbors a strong desire for vengeance. With his new power, he assumes the identity Zero and leads a rebellion to free Japan. However, the road to liberation is long and arduous. Lelouch must outsmart formidable foes, rally supporters to his cause, and confront the ghosts of his past. As Lelouch wages his war for independence, his friends work to maintain the hard-won peace. But when a devastating terrorist attack threatens everything, he may have to risk it all to save the day. Will Zero's legacy end here, or can Lelouch somehow emerge victorious against impossible odds?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.013066895368782,
     "arithmeticGeometricMean": 8.012119952204896,
-    "median": 8.018
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 8.018,
+    "lastUpdate": "2024-05-21"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Based on the information provided, the final season of Attack on Titan anime follows Eren Yeager and his comrades in the Scout Regiment four years after they reached the shore beyond the walls that had enclosed their world. Initially, the focus is on two young Marleyan warrior candidates, Falco Grice and Gabi Braun, who are training to inherit the power of the Titans and help Marley wage war against the Eldians on Paradis island. However, the arrival of Eren Yeager and the Survey Corps suddenly disrupts the peace, as the truth about the Titans' dark history is now known to them. As a result, the two utterly different worlds of Marley and Paradis are set on a collision course, each pursuing their own agenda - Marley seeking to invade Paradis once again, and the Eldians fighting for their freedom at last. With Eren missing, tensions rise to a boiling point, threatening to erupt into an all-out war between the warring factions. The final season promises to bring closure at last to the epic struggle, revealing the ultimate fates of Eren, the Scout Regiment, and the people of Paradis in their quest for freedom.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.732404723252937,
     "arithmeticGeometricMean": 8.730691208466732,
-    "median": 8.788877551020407
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 8.788877551020407,
+    "lastUpdate": "2024-05-21"
+  }
 }

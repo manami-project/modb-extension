@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In 2050, young engineer Derrida Yvain finds fame for his work on autonomous machines called DZs, created by his father's company Rebuild. However, Derrida and his colleague Nathan soon uncover a dangerous flaw in the DZs' programming. Their warnings are dismissed by higher-ups, and shortly after Nathan's daughter Mage's birthday, disaster strikes. Derrida awakens from a decade of cryogenic sleep into a nightmarish future - the very machines he helped build have sparked a catastrophic war against humanity. With civilization in ruins, he struggles to survive this mechanical onslaught. As Derrida nears defeat, he remembers his promise to Nathan in their last moments together: \"Take care of Mage.\" Newly determined, Derrida sets out on a perilous journey across the war-ravaged land. He searches for any trace of Nathan's daughter, hoping to fulfill his vow. Bonding together may be their only chance for survival. Beyond time, a reunion awaits...if Derrida can brave the mechanical wrath he unintentionally unleashed.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 5.984610389610389,
     "arithmeticGeometricMean": 5.97063237839187,
-    "median": 6.005000000000001
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.005000000000001,
+    "lastUpdate": "2024-05-22"
+  }
 }

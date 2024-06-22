@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Chaos Emeralds, the legendary gems capable of granting unparalleled power, have fallen into the clutches of the nefarious Dr. Eggman. Sonic, the speedy blue hedgehog, intervenes, causing an explosion that catapults everyone from their world to Earth. Separated from his friends and stranded in an unfamiliar dimension, Sonic is rescued from drowning by Christopher Thorndyke, a 12-year-old boy living in a grand mansion with absentee parents. As Sonic and his friends, including Knuckles, Tails, Amy, and Cream, reunite with Chris's help, they embark on a quest to collect the Chaos Emeralds before Dr. Eggman can harness their power to conquer this new world. Along the way, they must also contend with Shadow, Sonic's enigmatic dark counterpart. With the fate of two worlds hanging in the balance, Sonic and his allies must find a way to return home while protecting Earth from the looming threat of Dr. Eggman's world domination.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-10"
   },
   "score": {
     "arithmeticMean": 6.344104970217753,
     "arithmeticGeometricMean": 6.324047093829997,
-    "median": 6.584473684210526
-  },
-  "lastUpdate": "2024-05-10"
+    "median": 6.584473684210526,
+    "lastUpdate": "2024-05-10"
+  }
 }

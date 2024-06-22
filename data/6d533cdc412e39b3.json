@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Phoenix is an anime that explores the endless human quest for immortality across different eras of time. It revolves around the mythical Phoenix, a fiery bird that is rumored to grant eternal life. The anime comprises five stories that span from prehistoric times to the distant future. In the Dawn chapter set in ancient times, early men hunt the Phoenix out of a desire for its power. The Resurrection chapter shows greedy royals waging wars over the magical creature. The Transformation chapter features ambitious scientists experimenting to try and harness the Phoenix's abilities. Yet despite the Phoenix granting longevity to a rare few, the anime illustrates that attaining immortality often comes at a painful price. Those who find it experience deep loneliness and the burden of outliving their mortal loved ones. Furthermore, the human struggles for power and domination persist across the ages, with civilizations rising and falling around the endless cycle of the Phoenix's death and rebirth. Ultimately, Phoenix serves as a poetic allegory highlighting the beauty and tragedy of the human condition. It explores themes of love and hate, hope and despair, life and death through the mythical frame of mankind's timeless yearning for eternal life.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.883229790617547,
     "arithmeticGeometricMean": 6.874024255989985,
-    "median": 7.0
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 7.0,
+    "lastUpdate": "2024-05-19"
+  }
 }

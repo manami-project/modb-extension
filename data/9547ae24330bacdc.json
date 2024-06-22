@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "In the year 2200 AD, humanity has progressed to exploring the stars. The Terran League sends out the starship Rugger Guard on a mission of peace and discovery beyond the galaxy. On board are the brave crews of the three Rugger teams - Land, Air and Sea - led by Aki, Walter and Keats. As they uncover ruins of ancient civilizations and explore new worlds, they accidentally encroach on the territory of the brutal Galbeston Empire ruled by a tyrant emperor. When attacked, the Rugger teams merge their specialized vehicles into the powerful super robot Dairugger XV to defend themselves. Now embroiled in an intergalactic conflict, the teams realize the people of Galbeston desperately need to find a new home before their planet explodes. Though defending Earth remains the priority, fate leads Dairugger XV to liberate the Galbeston people from tyranny and aid the search to save their dying world. This space exploration mission has become a fight for the future, where youth, bravery and unity may rewrite the fate of two civilizations.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.030506228465413,
     "arithmeticGeometricMean": 5.994969635902437,
-    "median": 6.090909090909091
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.090909090909091,
+    "lastUpdate": "2024-05-22"
+  }
 }

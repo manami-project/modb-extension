@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "A new priestess of water named Qawool Towles arrives in El-Hazard to take over the role from Miz, who has retired after marrying Mr. Fujisawa. During 17-year-old Qawool's initiation ceremony, an entity named Arjah suddenly transports Makoto, Nanami, Qawool, Jinnai, Katsuo, Shayla-Shayla, Mr. Fujisawa, Miz, and Afura Mann to an alternate world called Creteria. In this industrial realm ruled by the despot Dall, the group finds themselves split up and stranded. Qawool and Nanami are mistaken for ancient sky goddesses, while Jinnai, Katsuo, and Shayla-Shayla encounter this world's version of the Bugrom. Elsewhere, Mr. Fujisawa, Miz, and Afura Mann end up lost in the clouds. To return home to El-Hazard, Makoto and his friends must unlock the secrets behind Creteria's ancient Spring of Life artifact, which seems to be dying. With Dall's oppressive regime working against them, they race against time to figure out the spring's connection to their predicament before it's too late.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.787065641841151,
     "arithmeticGeometricMean": 6.7825358371202356,
-    "median": 6.83
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.83,
+    "lastUpdate": "2024-05-21"
+  }
 }

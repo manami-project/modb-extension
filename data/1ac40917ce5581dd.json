@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Pero is a musketeer cat with a good heart, who helps those in need. But his act of saving a mouse has made him a wanted criminal in Catdom, pursued by the bumbling Three Blunderers. On the run, Pero befriends Pierre, a kind yet mistreated miller's boy. Seeking fortune and fame, they learn Princess Rose is seeking a husband. Pero hatches a plan for Pierre to marry the Princess. But their designs are threatened by Lucifer, a wicked ogre who forces the Princess into betrothal with him. Aided by a crafty band of mice thieves, Pero spins an elaborate web of lies, portraying Pierre as a dashing hero. Pierre tries to live up to the bold persona, even as he fears invoking the Devil's ire. When Lucifer abducts Princess Rose, Pero, Pierre and the mice thieves embark on a quest to rescue her. Pero must rely on his wits and sword to defeat Lucifer, secure Pierre's marriage to the Princess, and evade capture himself.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.438479547663221,
     "arithmeticGeometricMean": 6.421647035756425,
-    "median": 6.69
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.69,
+    "lastUpdate": "2024-05-19"
+  }
 }

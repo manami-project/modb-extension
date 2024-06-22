@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The anime introduces us to Hina Satou, a spirited 13-year-old residing in a quaint seaport town nestled within Miyagi Prefecture, Tohoku. Tragically, Hina's life was forever altered by the devastating 2011 Tohoku earthquake and tsunami, which claimed the life of her beloved mother. In the aftermath, Hina and her father have had to adapt to a new existence in temporary housing. As Hina navigates the challenges of adolescence and the lingering sorrow of her loss, she remains steadfast in her pursuit of her passion for figure skating. The poignant narrative weaves together Hina's cherished memories of her mother and the indelible impact of the earthquake, all while capturing her unwavering determination to chase her dreams amidst adversity.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.584105486350384,
     "arithmeticGeometricMean": 6.582092475669267,
-    "median": 6.49
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.49,
+    "lastUpdate": "2024-05-09"
+  }
 }

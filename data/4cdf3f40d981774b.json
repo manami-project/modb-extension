@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Genius Party Beyond is an animated anthology film featuring five imaginative short films by acclaimed directors. The shorts showcase a range of unique animation styles and explore fantastical worlds filled with strange creatures, epic adventures, and thoughtful themes. In Gala, a mysterious giant object crashes near a village and comes to life through the power of music. Moondrive follows a group of criminals seeking treasure on a legendary island. Wanwa the Puppy delves into a child's vivid dreams as his mother prepares to give birth. Toujin Kit is set in a steampunk world where a young woman illegally creates strange creatures. Dimension Bomb chronicles the complex relationship between a girl and a boy she summons from another dimension. While the styles and stories vary wildly, they are tied together by the directors' creativity and insight into the human condition. From family bonds to greed to the ethics of creation, the shorts provide much to ponder even as they dazzle the eye. Genius Party Beyond promises to be a thrilling and thoughtful viewing experience for animation fans.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.958402980239716,
     "arithmeticGeometricMean": 6.953929858640886,
-    "median": 7.0
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.0,
+    "lastUpdate": "2024-05-21"
+  }
 }

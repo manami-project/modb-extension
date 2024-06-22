@@ -8,12 +8,13 @@
   ],
   "synopsis": {
     "text": "A surreal and metaphorical anime following a group of determined climbers ascending a towering stone pillar that stretches endlessly into the sky. Each climber represents the endless human drive to achieve and accumulate over a lifetime. Though the journey is long and arduous, the climbers persist, pushing themselves beyond exhaustion to reach new heights. The animation is black and white and artistic in style. It opens on a single naked climber clawing his way up the narrow pillar. As he climbs, more join him on the pillar, their bodies merging with and emerging from the stone as they struggle upwards. They climb one after the other, traversing the pillar as years pass by. In the end only one climber remains, having outlasted and outclimbed the rest. From his vantage at the top he gazes longingly at the distant horizon, a new goal already in sight even after his monumental achievement. The cyclical nature of human ambition is captured beautifully in this creative climb towards infinity.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.920783858998144,
     "arithmeticGeometricMean": 5.901248320368588,
-    "median": 6.176363636363636
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.176363636363636,
+    "lastUpdate": "2024-05-21"
+  }
 }

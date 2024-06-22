@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "A whimsical animated short film that follows a young boy on an fantastical journey of ever-increasing jumps and leaps. Beginning with playful strides down a neighborhood street, the boy's jumps gradually become more powerful, vaulting him over towns, forests, oceans and even across time. With seamless animation and an innovative first-person perspective, the film provides a unique vantage point to observe the changes wrought on Japanese countrysides and cities by rapid modernization and wartime mobilization. Though wordless, the boy's soaring viewpoint elicits questions about human progress and our relationship with the world around us. Executed in one continuous shot across 4,000 animation cells, this creatively groundbreaking work surprised critics and audiences worldwide. More than just a technical feat, its imaginative storytelling continues to inspire wonder and reflection.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.391927378743705,
     "arithmeticGeometricMean": 6.387765844792076,
-    "median": 6.45
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 6.45,
+    "lastUpdate": "2024-05-20"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The narrative of Chain Chronicle unfolds in the distant land of Yggd, a continent once believed to be the entirety of the world by its inhabitants. This land is segmented into various regions, each governed by its own king. Despite occasional minor conflicts, harmony was consistently preserved by a lord elected through royal conferences. However, this equilibrium was shattered with the emergence of the malevolent Black Army.\n\nLed by Yuri, the Volunteer Army bravely confronted the Black Army, but found themselves outmatched. Amidst the chaos, the sinister Lord of Black seized control of half of the Chain Chronicle, a sacred tome chronicling every event in the world, along with the capital city.\n\nIn their desperate retreat, Yuri and the Volunteer Army stumble upon a lone boy valiantly battling the Black Army. This marks the beginning of a saga filled with epic battles, camaraderie, and a shared mission to safeguard the world's destiny. Will they be able to reclaim the lost half of the Chain Chronicle and restore peace to Yggd? Only time will tell.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.655638050872522,
     "arithmeticGeometricMean": 6.65136598958135,
-    "median": 6.693552203490091
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.693552203490091,
+    "lastUpdate": "2024-05-09"
+  }
 }

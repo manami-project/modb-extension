@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "After witnessing an intense race between two skilled drivers, a new challenger emerges. Takeshi Nakazato, leader of the Myougi Night Kids racing team, issues a challenge to defeat the legendary Toyota AE86 driven by Takumi Fujiwara in a downhill battle. Despite Nakazato's Nissan GT-R outclassing the AE86, he is warned that Takumi's precise driving technique makes him unbeatable. Refusing to believe that flashy drift racing could surpass grip racing, a defiant Nakazato is determined to beat the AE86 and cement his reputation. Though initially reluctant to get involved, Takumi eventually accepts the challenge after encouragement from his employer. However, when Takumi goes to retrieve his father's AE86, he finds that his father has taken the car out himself. As Takumi anxiously awaits his father's return, his desire to test his skills against a worthy opponent continues to grow. This fateful challenge sets the stage for Takumi to embrace his identity as a uniquely gifted racer.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.992647058823529,
     "arithmeticGeometricMean": 7.989068848174891,
-    "median": 7.831363636363636
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.831363636363636,
+    "lastUpdate": "2024-05-21"
+  }
 }

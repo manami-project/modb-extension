@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Koro is a curious puppy who lives with his young owner Sawako and her father in a small town. One morning, Sawako accidentally leaves the garden gate open when she leaves for school. Koro seizes the opportunity to venture out into the streets beyond his familiar home. As Koro wanders, everything he encounters is new and exciting. However, he soon finds himself lost in unfamiliar territory. He has a series of small adventures - meeting friendly animals, nearly getting hit by a bicycle and car, even confronting a territorial alley cat. Meanwhile, Sawako and her father frantically search for their missing puppy. Exhausted from his exploits, Koro falls asleep under a delivery truck. When he awakens, he catches a comforting whiff of his neighborhood. Overjoyed, he leaps from the truck into Sawako's arms. Koro's day of independence ends with a happy reunion and a newfound appreciation for home.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.296636982065554,
     "arithmeticGeometricMean": 6.282562642664518,
-    "median": 6.552727272727273
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.552727272727273,
+    "lastUpdate": "2024-05-19"
+  }
 }

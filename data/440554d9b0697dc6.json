@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Set in the late 19th century during the Meiji era in Japan, the story follows Himura Kenshin, a former legendary assassin known as \"Hitokiri Battousai\" who played a pivotal role during the Bakumatsu period. After the war ended, Kenshin becomes a wandering swordsman who has vowed to never kill again and instead protects the weak and vulnerable with his sakabatō sword. In Tokyo, Kenshin meets Kamiya Kaoru, a young woman who runs a kendo dojo. When an imposter claiming to be the \"Hitokiri Battousai\" appears in the city committing murders, Kenshin steps in to help clear Kaoru's dojo's name. In doing so, Kaoru discovers Kenshin's true identity but allows him to stay at her dojo regardless due to his vow of non-violence. Kenshin soon befriends Myōjin Yahiko, a young boy hoping to learn swordsmanship to fulfill his samurai lineage, and Sagara Sanosuke, a street fighter looking for purpose. Together, they have exciting adventures while also contending with emerging figures from Kenshin's past seeking revenge. Despite his non-violent path now, Kenshin must confront his history as well as uphold his ideals of protecting the innocent in an era struggling between the old world and the new.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.542892857142856,
     "arithmeticGeometricMean": 7.540391188061551,
-    "median": 7.623181818181818
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.623181818181818,
+    "lastUpdate": "2024-05-22"
+  }
 }

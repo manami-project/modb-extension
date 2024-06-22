@@ -8,12 +8,13 @@
   ],
   "synopsis": {
     "text": "Set in a futuristic world focused on the thrilling sport of Galaxy Racing, a young rider named Roy strives to follow in his disappeared father's footsteps to become the King of the Galaxy Racers. He joins the Matela Racing Team, who help equip him with a top-notch racer built from his father's secret designs. However, the greedy Titan Space Navigation Auto Group aims to crush the competition by any means necessary with their elite Mosha Racing Team. In a series of heart-pounding, high-speed races, Roy leans on his Matela teammates' camaraderie and expertise to overcome self-doubt and cheating opponents. Metal smashes against metal in intense battles to claim each hard-fought victory. Though the risks are great, Roy perseveres to honor his father's legacy and defeat the nefarious Titan CEO Taz in this futuristic fight between good and evil on the high-stakes track.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.743181818181818,
     "arithmeticGeometricMean": 5.718357282481673,
-    "median": 5.471363636363636
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 5.471363636363636,
+    "lastUpdate": "2024-05-21"
+  }
 }

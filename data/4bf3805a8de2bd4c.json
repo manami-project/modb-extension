@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Mobile Land is an island inhabited by anthropomorphic vehicles who go about their daily lives much like humans do. The story follows Car-kun, a friendly red sports car who arrives on the island to work as a delivery man. As he carries out deliveries across Mobile Land, Car-kun meets all sorts of quirky vehicle residents and learns about the various locales. However, his job is not without obstacles - a mischievous vehicle named Sabibi sometimes gets in the way of his work. Through it all, Car-kun diligently follows traffic rules and safety protocols while bringing smiles through his speedy deliveries. With new vehicle friends and places to discover each day, there's never a dull moment in Car-kun's new life on Mobile Land!",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.758812615955472,
     "arithmeticGeometricMean": 6.750058786953295,
-    "median": 6.758812615955472
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 6.758812615955472,
+    "lastUpdate": "2024-05-20"
+  }
 }

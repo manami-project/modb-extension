@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Fate/Stay Night follows high school student Emiya Shirou, who gets caught up in a battle royale called the Holy Grail War. In this secret magical battle taking place in Fuyuki City, seven magi known as Masters each summon a legendary hero from the past as their Servant to fight for them. Shirou unwittingly enters the Holy Grail War when he accidentally summons Saber, a powerful sword-wielding Servant. Though inexperienced in magic, he now must partner with Saber against the other six Master-Servant teams in a battle to the death, with the Holy Grail said to grant any wish to the victor. With his selfless personality and Saber's mighty sword skills, Shirou fights not for personal gain but for justice. However, he faces dangerous opponents, including his schoolmate Rin, who saved his life but now is revealed as a Master. To succeed and uncover the truth behind the War, Shirou must learn magecraft and work together with Saber while navigating shifting alliances. Blending action, magic, and drama, Fate/Stay Night explores ideals of heroism and sacrifice amidst a legendary battle with the fate of the world at stake.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 6.824467650263569,
     "arithmeticGeometricMean": 6.8151323186380095,
-    "median": 6.85
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 6.85,
+    "lastUpdate": "2024-05-19"
+  }
 }

@@ -8,12 +8,13 @@
   ],
   "synopsis": {
     "text": "",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-06-22"
   },
   "score": {
     "arithmeticMean": 4.825287878787879,
     "arithmeticGeometricMean": 4.807635594783372,
-    "median": 4.7716666666666665
-  },
-  "lastUpdate": "2024-05-06"
+    "median": 4.7716666666666665,
+    "lastUpdate": "2024-05-06"
+  }
 }

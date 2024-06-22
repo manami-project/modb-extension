@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "When high school student Buntarou Hojo finds himself aimlessly drifting through life with no clear ambitions, an unexpected opportunity arises from his classmate, Sayuki Kuroda. Recognizing Buntarou's hidden talent for writing, Sayuki enlists him in her ambitious project to develop a bishoujo game. Despite his initial reluctance and lack of knowledge about the genre, Buntarou joins Sayuki on a journey of self-discovery and game creation.\n\nAs they embark on this unconventional path, Buntarou and Sayuki recruit other members to their team, learning not only about the intricacies of game development but also about the importance of finding one's purpose in life. With Sayuki's unwavering belief in the potential success of their bishoujo game, Buntarou must rise to the challenge and navigate the complex world of game creation, ultimately shaping his own future in the process.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-10"
   },
   "score": {
     "arithmeticMean": 6.377303081838797,
     "arithmeticGeometricMean": 6.372762292708727,
-    "median": 6.289
-  },
-  "lastUpdate": "2024-05-10"
+    "median": 6.289,
+    "lastUpdate": "2024-05-10"
+  }
 }

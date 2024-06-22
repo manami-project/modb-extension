@@ -6,12 +6,13 @@
   ],
   "synopsis": {
     "text": "Aladdin is a poor yet carefree water seller living in Baghdad. His life changes when he attends a slave auction and becomes infatuated with the beautiful slave girl Miriam. Unable to afford buying her, Aladdin impulsively steals Miriam away during a sandstorm. The two take refuge in an empty palace where they spend a passionate night together. However, they are discovered by the palace's owner in the morning and tragically separated. Framed for murder, Aladdin is thrown in prison where he loses everything. After being released, he embarks on a quest across the world to reunite with his lost love Miriam. On this journey, Aladdin joins the legendary Forty Thieves, conquers an island of savage warrior women, and encounters genies and other magical beings. He also discovers he may have a long-lost child. Aladdin faces numerous trials and adventures in exotic lands. But his desire to be reunited with Miriam continues to drive him forward against all odds. Their tale is one of grand adventure, forbidden passion, cruel twists of fate, and persevering love.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.938857142857143,
     "arithmeticGeometricMean": 5.935662869690247,
-    "median": 5.888
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 5.888,
+    "lastUpdate": "2024-05-21"
+  }
 }

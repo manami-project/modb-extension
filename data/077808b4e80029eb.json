@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Hikaru Genji is the illegitimate yet charming son of the emperor living during the Heian period in Kyoto. Blessed with good looks and wit, Genji leads a life of luxury and amorous affairs with various women at court. However, his deep obsession with his father's young wife has tragic consequences, forcing Genji to wander in search of love and fulfillment. Though surrounded by beauty and attention, Genji struggles to find lasting completion in his relationships. Adapted from Murasaki Shikibu's 11th century epic novel, this story vividly depicts Genji's radiance and passions alongside his painful pursuit of elusive love.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 5.983172011661808,
     "arithmeticGeometricMean": 5.952599297139495,
-    "median": 6.1
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.1,
+    "lastUpdate": "2024-05-22"
+  }
 }

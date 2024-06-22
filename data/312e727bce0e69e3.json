@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Hellsing is an organization dedicated to protecting England from supernatural threats, especially vampires. Led by Sir Integra Wingates Hellsing, Hellsing employs an army of soldiers as well as a secret weapon - the powerful vampire Alucard, who loyally serves Integra. When a young police officer named Seras Victoria is turned into a vampire, Alucard takes her under his wing as his fledgling. Together, they must defend England from rival organizations like the Vatican's Section XIII Iscariot, as well as a mysterious group of vampires called Millennium, who seem intent on starting a war. As Alucard, Seras, and the Hellsing army battle increasingly dangerous vampiric foes, it becomes clear that Millennium's ultimate goal is the total destruction of London in an apocalyptic war between vampires, humans, and monster hunters alike. Integra and Hellsing race against time to prevent Millennium's mad plan from succeeding and plunging England into vampire-ruled darkness.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 8.328238881816828,
     "arithmeticGeometricMean": 8.327940099965224,
-    "median": 8.32021897810219
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 8.32021897810219,
+    "lastUpdate": "2024-05-22"
+  }
 }

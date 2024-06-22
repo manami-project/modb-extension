@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Centuries ago, the Great Dog Demon wielded three powerful swords. On his death, he bequeathed two swords - Tetsusaiga and Tensaiga - to his sons Inuyasha and Sesshoumaru respectively. The third sword, Sou'unga, containing a wrathful evil spirit, was sealed away. Now, 700 years later, the seal on Sou'unga has broken. Attracted by its power, Inuyasha comes into possession of the sword. However, the evil spirit threatens to overwhelm him. Sesshoumaru also seeks to claim Sou'unga for himself. Despite their long-standing rivalry, Inuyasha and Sesshoumaru must unite against the common threat. If they fail to control Sou'unga's destructive power, doom will befall all mankind. Their father's legacy binds them in an uneasy alliance to confront and overcome this perilous evil that endangers not just themselves but the entire world.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.65069639958256,
     "arithmeticGeometricMean": 7.648895658274851,
-    "median": 7.743636363636364
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.743636363636364,
+    "lastUpdate": "2024-05-21"
+  }
 }

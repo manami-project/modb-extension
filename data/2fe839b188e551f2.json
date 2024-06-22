@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The story follows Violet Evergarden, a young girl who was raised as a weapon for the military during a great war that divided the continent of Telesis. After losing her arms in battle, Violet recovers and starts a new life working at the CH Postal Service. There, she witnesses an \"Auto Memories Doll\" transcribing a customer's thoughts and feelings into a letter. Moved by this, Violet begins training to become a Doll herself. As Violet travels the country writing letters for clients, she helps them convey their emotions and connect more deeply with loved ones through her writing. The work also leads her to better understand human feelings and process her own traumatic experiences from the war - including cryptic words once said to her by her protector, Major Gilbert, who she lost in battle. On her journey of self-discovery learning what it means to be human, Violet impacts the lives of many others through the letters she authors. Ultimately she hopes unlocking the meaning of those pivotal words Gilbert left her will help her heal emotional wounds from the past.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 8.570505569365896,
     "arithmeticGeometricMean": 8.569093173410723,
-    "median": 8.620222634508348
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 8.620222634508348,
+    "lastUpdate": "2024-05-22"
+  }
 }

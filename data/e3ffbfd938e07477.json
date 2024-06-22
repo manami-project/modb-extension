@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Takashi Natsume is a lonely teenager who has the unusual ability to see spirits known as youkai. After the death of his grandmother Reiko, he inherits her \"Book of Friends\" which contains the names of spirits she defeated and bound to her will. Now spirits haunt Natsume, seeking to either free themselves from the book's contracts or steal it for its power. With the help of Madara, a powerful spirit disguised as a maneki cat, Natsume sets out to release the youkai from his grandmother's control while protecting himself and the book from those who would misuse it. On his journey, Natsume discovers he shares more in common with spirits than humans. As he frees more youkai from the book, he begins building relationships with both spirits and humans and finds the solace and sense of belonging he has always craved. Though Natsume faces hostility from some spirits and isolation from classmates who don't understand his powers, with Madara’s grudging help and protection, he perseveres in his self-appointed task while learning to open his heart to those around him.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 8.174794681508967,
     "arithmeticGeometricMean": 8.174059327871127,
-    "median": 8.172575757575757
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 8.172575757575757,
+    "lastUpdate": "2024-05-22"
+  }
 }

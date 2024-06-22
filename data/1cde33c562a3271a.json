@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Amazon Prime Video's anime, set in 2199 AD, follows the journey of the spaceship Yamato as it attempts to return to Earth after acquiring a 'Cosmo Reverse System' from Iscandar. However, their voyage takes an unexpected turn when they encounter the mysterious Gatlantis group, led by the formidable Goran Dagaamu of Thunder. Demanding control of Yamato, Dagaamu attacks with the devastating 'Flame Direct Attack Cannon,' forcing Yamato to retreat into a strange, irregular dimension.\n\nLost and stranded, the crew decides to explore a nearby mysterious planet, leading to the discovery of a ship that shouldn't exist. Dagaamu, relentless in his pursuit, traces Yamato's warp trail and arrives in the same peculiar space. Unbeknownst to the crew, this enigmatic planet is precisely what Dagaamu has been searching for all along.\n\nAs the crew delves deeper into the planet's jungle-like surface, they stumble upon unsettling similarities to Earth's Amazon rainforest. Following a distress signal, they discover what appears to be the remains of the Yamato, supposedly there for over two centuries. But this is only the beginning of a series of inexplicable events that defy the laws of space and time.\n\nWith time running out, the crew must navigate this illogical world, confront old enemies, and outwit the relentless Gatlanteans to save their ship and, ultimately, Earth.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-10"
   },
   "score": {
     "arithmeticMean": 7.59334110787172,
     "arithmeticGeometricMean": 7.590570759731156,
-    "median": 7.76
-  },
-  "lastUpdate": "2024-05-10"
+    "median": 7.76,
+    "lastUpdate": "2024-05-10"
+  }
 }

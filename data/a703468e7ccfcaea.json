@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kimura's \"Deathtic 4\" explores a zombie-filled world where a living frog falls from the sky, and a young zombie boy and his friends embark on a mission to return it to its own world. In Fukuyama's \"Doorbell,\" a man must outrun alternate versions of himself to maintain control over his life. Futamura's \"Limit Cycle\" delves into the life of a man trapped in a never-ending cycle of work, while Yuasa's \"Happy Machine\" follows an infant who discovers the world outside his fake nursery, filled with alien-like creatures. Finally, Watanabe's \"Baby Blue\" tells the story of two young students who embark on a one-day adventure, cherishing their time together.\n\nGenius Party is a collection of seven unique and captivating animated short films from Studio 4°C. Each story offers a distinct perspective, ranging from heartwarming to bizarre. The anthology features a diverse range of characters, including a hunter and his prey in a surreal Serengeti, a boy who brings his drawings to life with a futuristic device, and two delinquent schoolchildren on a nostalgic train ride. With its high standard of quality and inspiration, Genius Party takes viewers on a journey through the minds of Japan's most prolific artists.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 7.045982252709696,
     "arithmeticGeometricMean": 7.041608393565675,
-    "median": 7.082
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 7.082,
+    "lastUpdate": "2024-05-09"
+  }
 }

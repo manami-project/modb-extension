@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In the year 2052, humanity has established peace across Earth and expanded into the solar system. However, this peace is shattered by the arrival of an alien race called the Death Force. Originally from the planet Gotham located 30 lightyears from Earth, the Death Force's homeworld was destroyed by a wandering black hole. Led by the ruthless Zytel, the aliens traveled for 30 years in a massive spaceship called Terror Star before arriving at Earth. With their planet gone, they seek to conquer Earth and terraform it into a new home. The Death Force launches a devastating attack, swiftly decimating Earth's population. Humanity's last hope lies with Colin Collins and a group of students who survive the attack. They take command of an advanced submarine/spaceship hybrid called Thundersub, which was created to defend Earth from uprisings in the outer solar colonies. However, Thundersub lacks a critical component needed for space combat. Colin and the students embark on a dangerous mission to recover this missing piece from Research Center N9. With Terror Star continuing to ravage the planet, it becomes a race against time to equip Thundersub and mount a counterattack before the Death Force can complete their terraforming of Earth. The fate of humanity hangs in the balance.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.242490856082694,
     "arithmeticGeometricMean": 6.2194997519729265,
-    "median": 6.65
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.65,
+    "lastUpdate": "2024-05-22"
+  }
 }

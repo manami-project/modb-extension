@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The Legend of Galactic Heroes: Spiral Labyrinth chronicles the early military careers of two central figures - Yang Wen-li of the Free Planets Alliance and Reinhard von Müsel of the Galactic Empire. Set before the main story, these tales follow Yang as he earns fame as the \"Hero of El Facile\" for a daring civilian evacuation. Though propelled to celebrity, Yang uses his newfound influence to investigate the shocking claim that legendary tactician Bruce Ashbey was murdered, not killed in action. Meanwhile, Reinhard and friend Siegfried Kircheis hone their skills through various Imperial assignments, including quelling an onboard mutiny and retrieving a stolen prototype. Reinhard also represents a friend's family in a high-stakes duel over mining rights disputes. Culminating in the pivotal Third Battle of Tiamat, the prequel provides vital backstories on Yang and Reinhard's formative years. It sets the stage for their eventual rise as Alliance admiral and Imperial high admiral respectively, and the galactic war that will pit these two military masterminds against one another.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 8.040960508878875,
     "arithmeticGeometricMean": 8.04084228929926,
-    "median": 8.016
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 8.016,
+    "lastUpdate": "2024-05-21"
+  }
 }

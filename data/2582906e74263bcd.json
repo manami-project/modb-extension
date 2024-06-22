@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "A talented mechanic named Jun Kazami manages a specialty car tuning shop called Mecha Doc in the heart of Tokyo. True to its name, Mecha Doc serves as a \"mechanical doctor\", expertly tuning up clients' cars and getting them running in peak condition. Kazami takes particular interest in an unassuming economy car that he transforms into a formidable race car dubbed \"Mechadock\". Through meticulous modifications and customizations, he evolves this small car into a speed demon able to race on any surface. However, Kazami is fiercely protective of his local streets. When aspiring street racers attempt to turn roads near Mecha Doc into their personal speedway, Kazami takes it upon himself to teach them a lesson they won't soon forget. His souped-up Mechadock serves as the perfect instrument to defend his turf. So whether you need a routine tune-up or seek to push automotive limits like Kazami, Mecha Doc has the mechanical know-how to diagnose and treat your car's needs. But think twice before attempting to turn Kazami's streets into a playground for illegal street racing - or Mechadock might school you instead!",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.309030479724357,
     "arithmeticGeometricMean": 6.277832815160167,
-    "median": 6.545454545454545
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 6.545454545454545,
+    "lastUpdate": "2024-05-20"
+  }
 }

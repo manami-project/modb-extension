@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "After graduation, four teacher-student couples embark on a joint vacation together. However, when they arrive at their hotel, there is a reservation mix-up leaving them short on rooms. As a result, the couples must split up to find alternate accommodations for the night. Two of the teachers, Chizuru and Koh, end up at a love hotel. There, hijinks and hilarity ensue as they try to make the most of the awkward situation. Despite the reservation snafu, the couples are determined not to let it ruin their vacation. The next day they reconvene for sightseeing and fun activities together. Though the overnight stay didn't go as planned, the relationships between the teachers and their partners continue to deepen throughout the trip. Their bond prevails through the ups and downs, bringing them even closer.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.165272550578672,
     "arithmeticGeometricMean": 7.1633859047833095,
-    "median": 7.117272727272728
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.117272727272728,
+    "lastUpdate": "2024-05-21"
+  }
 }

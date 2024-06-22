@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Kubbe is a young boy who lives in a forest and has a passion for collecting interesting items he discovers on his daily adventures. From rocks and feathers to acorns and pinecones, Kubbe gathers all sorts of natural objects, carefully organizing and labeling each one. Following the suggestion of his grandmother, Kubbe decides to create his own little museum at home, proudly putting his collections on display. As we follow Kubbe's journey, a world of wonder and curiosity unfolds. Every item Kubbe collects offers a glimpse into the rich diversity of the forest. And through Kubbe's enthusiasm to learn, sort, and share, the forest transforms into a lively museum filled with treasures waiting to be found. His story inspires in children a sense of exploration, appreciation, and care for the natural world surrounding them.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 5.401403525046382,
     "arithmeticGeometricMean": 5.365263403501058,
-    "median": 5.090909090909091
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 5.090909090909091,
+    "lastUpdate": "2024-05-21"
+  }
 }

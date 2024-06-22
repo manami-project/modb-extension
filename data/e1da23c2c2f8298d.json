@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Traveling the globe, the enigmatic and unlicensed surgeon known as Black Jack is renowned as the greatest in his field. Feared by children and scorned by the medical community, this heavily-scarred figure dons black attire and demands exorbitant fees for his services. When an explosion targets his secluded cliff-top home, Black Jack narrowly escapes with his life, and is thrust into a dangerous quest to uncover the truth behind the mysterious organization, Noir.\n\nHaunted by memories of the bomb field accident that claimed his mother's life, Black Jack becomes entangled in a web of secrets surrounding Noir and its connection to his estranged father, who abandoned him years ago. As he navigates treacherous waters, Black Jack must confront his past and piece together the clues, including a faded photograph featuring his mentor, Dr. Honma, and other shadowy figures.\n\nWith his life forever altered by a single phone call from his father, Black Jack embarks on a thrilling journey to expose the conspiracy and bring those responsible to justice, all while redefining what it means to be a doctor and a hero.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 7.5708364696527966,
     "arithmeticGeometricMean": 7.562109643153207,
-    "median": 7.545454545454546
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 7.545454545454546,
+    "lastUpdate": "2024-05-09"
+  }
 }

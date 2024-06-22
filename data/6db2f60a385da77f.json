@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Gin is an Akita puppy born with distinctive silver fur, destined to become a bear-hunting dog. Shortly after birth, Gin witnesses his father Riki killed protecting him from Akakabuto, a monstrous demon bear terrorizing the countryside. As the third generation brave enough to stand against Akakabuto, Gin vows revenge. Gin is raised by an old hunter named Takeda, who trains him in preparation to gather allies for the coming battle. Gin must leave his loving master and best friend Daisuke, venturing across Japan to build his pack. With Akakabuto also gathering sinister forces, Gin faces the ultimate showdown of dog versus bear that will determine the fate of his village. This thrilling tale follows Gin on a quest for justice, searching for comrades just as determined and loyal as himself. Together they share the goal of defeating the notorious Akakabuto to restore peace to their home, no matter the cost.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.581857937980387,
     "arithmeticGeometricMean": 7.575426681852841,
-    "median": 7.636363636363636
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.636363636363636,
+    "lastUpdate": "2024-05-22"
+  }
 }

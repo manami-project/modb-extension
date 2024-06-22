@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Sergeant Keroro is the leader of an elite platoon of alien frogs sent from planet Keron to conquer Earth. However, when Keroro's cover is blown upon arriving on Earth, his battalion abandons their mission, leaving him stranded at the home of the Hinata family. Forced to hide out in the Hinata residence, Keroro is subjected to rigorous housework duties by Fuyuki and Natsumi Hinata, the two siblings who discover him. Though his primary mission is stalled, Keroro hopes to secretly reunite with his scattered subordinates so they can resume plans to take over Earth. But in the meantime, he must find ways to blend into human society, which results in him picking up unlikely hobbies like Gundam model building and karaoke singing. As Keroro adjusts to everyday life with the Hinatas, he builds meaningful friendships with them and learns about humans in amusing and unexpected ways. Though world domination was his initial goal, Keroro comes to realize there may be more purpose for him on Earth than invasion.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 7.412433209647494,
     "arithmeticGeometricMean": 7.401286514254494,
-    "median": 7.612181818181818
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 7.612181818181818,
+    "lastUpdate": "2024-05-19"
+  }
 }

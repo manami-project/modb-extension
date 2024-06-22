@@ -9,12 +9,13 @@
   ],
   "synopsis": {
     "text": "Based on the information provided, this anime centers around the Band of the Hawk, a skilled mercenary group led by the charismatic Griffith, as they fight battles and gain prestige in the kingdom of Midland. A key member of the Band is Guts, the captain of the Hawk's raiders. Guts wields an enormous sword and has incredible battle prowess, capable of defeating hundreds of men single-handedly. After winning many victories together, Guts realizes to truly be Griffith's friend and equal, he must leave the Band to pursue his own dream. Despite Griffith's pleas, Guts departs. Griffith is deeply shaken by Guts' decision and loses his composure. This drives Griffith to make a fateful choice that will forever alter the destinies of himself and the Band of the Hawk. Soon after, the Hawks embark on a pivotal battle to capture the reputedly impregnable Fortress of Doldrey. They must face an empire army 30,000 strong, in what will be their most desperate fight yet.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.947578694748908,
     "arithmeticGeometricMean": 7.946751703146781,
-    "median": 7.928636363636364
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.928636363636364,
+    "lastUpdate": "2024-05-21"
+  }
 }

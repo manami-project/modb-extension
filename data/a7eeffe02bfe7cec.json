@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Monsters XY: Sora no Hahen is an exciting anime movie that takes our beloved hero, Ash, and his friends on an extraordinary adventure to the Pokémon Aerospace Exploration Agency (PAXA). Inspired by the real-life Japan Aerospace Exploration Agency, PAXA opens up a world of possibilities about the wonders of space and the existence of Pokémon beyond Earth. As Ash and his friends revel in the thrilling tales of PAXA's astronauts, the dangers of space debris become a stark reality.\n\nJust as the conversation turns to the potential hazards of space debris, alarming sirens echo through the facility. The nefarious Team Rocket has infiltrated PAXA with a sinister plan to take control. Amidst the chaos, a critical issue arises in the control system for artificial satellites. A collision between large pieces of space debris triggers fears of an even greater catastrophe. With the stakes higher than ever, Ash and his friends must confront Team Rocket and save PAXA from impending doom.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.630289424860854,
     "arithmeticGeometricMean": 6.62411665460272,
-    "median": 6.712
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.712,
+    "lastUpdate": "2024-05-09"
+  }
 }

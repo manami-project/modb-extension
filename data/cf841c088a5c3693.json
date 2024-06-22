@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Chirin is a young lamb living happily with his mother on a farm, safe behind a protective fence. But one fateful night, a savage wolf named Wor breaches their sanctuary, killing Chirin's beloved mother. Overcome by grief and rage, Chirin vows revenge against the wolf who destroyed his idyllic life. To gain the strength he needs to defeat Wor, Chirin seeks out the fearsome Wolf King, begging to become one of his own. The Wolf King accepts Chirin's plea, but warns the lamb that the path of vengeance will extract a heavy toll. Undaunted, Chirin endures the wolves' harsh training, slowly transforming from meek lamb to feral beast. Though at first empowered by his new wolf identity, Chirin remains tormented by memories of his loving mother. As his quest brings him ever closer to confronting Wor, Chirin grapples with a crisis of conscience: Will defeating the wolf that killed his mother heal his wounds or only deepen them? To regain peace, Chirin may need to relinquish the hatred burning within his heart.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.9536782401272195,
     "arithmeticGeometricMean": 6.9498647688940896,
-    "median": 6.992
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 6.992,
+    "lastUpdate": "2024-05-20"
+  }
 }

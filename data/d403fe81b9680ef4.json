@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The kingdom of Dowa is made up of 13 autonomous states and is celebrating its 99th anniversary. One hundred years ago, the giant organization known as ACCA was formed to protect the peace and prevent a potential coup d'état. Since then, ACCA has continued serving Dowa's civilians across the 13 districts. Within ACCA is an inspections department, led by vice-chairman Jean Otus. Nicknamed \"Jean the Cigarette Peddler,\" he travels to ACCA offices across Dowa's districts, monitoring operations and personnel. Though seemingly mundane, Jean's job puts him in the middle of brewing conspiracies and rumors of another coup. As he performs his audits and visits each distinct region, Jean unravels political secrets that threaten to disturb Dowa's period of unprecedented peace under the ACCA system.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.59150662189384,
     "arithmeticGeometricMean": 7.5901238186778155,
-    "median": 7.663
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.663,
+    "lastUpdate": "2024-05-22"
+  }
 }

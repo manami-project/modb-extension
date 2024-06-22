@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "The story follows Teletha \"Tessa\" Testarossa, the young captain of the Mithril submarine Tuatha De Dannan, on her rare day off. However, instead of resting, Tessa finds herself struggling to piece together fragmented memories after being unwittingly intoxicated by her friend Melissa the night before. As Tessa interacts with her quirky crewmates aboard the submarine, including the stoic Sousuke with whom she shares an awkward encounter, she slowly regains glimpses into the prior night's antics. She recalls stumbling around indecently clad and making a fool of herself much to her embarrassment. However, her top priority is recovering her beloved stuffed animal Bonta-kun which has mysteriously gone missing amidst the chaos. Through humorous misadventures and camaraderie with her loyal crew, Tessa gradually unravels the full events leading to her memory loss while also learning to balance her role as a young captain with the need for occasional fun. Ultimately she must take responsibility for her wild night and somehow save face, along with saving her cherished Bonta-kun.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.710596558392476,
     "arithmeticGeometricMean": 7.709911247516732,
-    "median": 7.69
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.69,
+    "lastUpdate": "2024-05-21"
+  }
 }

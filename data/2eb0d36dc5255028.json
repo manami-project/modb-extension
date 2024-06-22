@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Set in the seaside town of Oarai in Ibaraki Prefecture, Blue Break follows 14-year-old Masaki Hinaoka, whose life changes when he meets Shou Akitsuki, a skilled surfer who transfers to his school. Though his best friend Nalu is an avid surfer, Masaki has never tried the sport himself and can't even swim. Yet after seeing Shou gracefully ride the waves, Masaki is inspired to learn how to surf. Shou kindly offers to teach Masaki the basics. Despite some early struggles, Masaki discovers he has a natural talent for surfing and progresses quickly. He forms close bonds with Shou and Nalu through their shared passion. When a local competition approaches, the three friends start training together, aiming to compete as a team. However, Masaki soon realizes that surfing can be dangerous. As he spends more time chasing waves with reckless abandon, tensions simmer beneath Shou's gentle demeanor. Still, Masaki remains undaunted in pursuing his newfound dream, determined to become the best surfer he can be with his friends' support. Their journey will test their skills and bond through sun-soaked days of surf and sand.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.2373199045852115,
     "arithmeticGeometricMean": 6.222519987534083,
-    "median": 6.222
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.222,
+    "lastUpdate": "2024-05-21"
+  }
 }

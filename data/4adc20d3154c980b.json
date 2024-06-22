@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Kaede Honjou is invited by her friend Risa Shiramine to play the popular VRMMO game \"New World Online.\" Lacking gaming experience but disliking pain, Kaede creates a character named Maple and allocates all her status points into vitality and defense. This leaves Maple nearly incapable of attacking and even basic monsters like rabbits can overwhelm her. However, Maple's maximal vitality unlocks powerful skills - \"Absolute Defense\" makes her invincible against any attack, while \"Counter Skill\" enables her to defeat enemies in a single counterattack. Despite moving at a snail's pace and having no offensive abilities, Maple becomes an unkillable \"mobile fortress.\" As Maple explores the game world, her unconventional build draws attention. She rises to third place in a server-wide event, gaining a reputation as an absurdly overpowered player. With new friends and abilities, Maple continues her accidental adventures in New World Online, acquiring ever more improbable skills that exceed all expectations. Though a complete novice, her unique character build allows her to defeat enemies and complete quests with ease.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.75616546058983,
     "arithmeticGeometricMean": 7.753513865625848,
-    "median": 7.755582064993829
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.755582064993829,
+    "lastUpdate": "2024-05-22"
+  }
 }

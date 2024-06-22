@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In an era of civil war and social upheaval in Japan, a young woman named Rushuna Tendo travels across the countryside on a mission of peace. Though skilled with firearms like the newfangled submachine guns, she chooses to use an old-fashioned revolver as her weapon. Rushuna meets various warriors and soldiers along her journey, defeating them not by taking lives but by removing their will to fight with her cheerful smile and positive spirit. She is accompanied by Yajiro Kojima, a wandering samurai who has lost faith in the old ways yet still clings to his sword. Together, Rushuna and Yajiro have lighthearted adventures and find themselves embroiled in numerous battles. However, Rushuna faces every peril with optimism and warmth, determined to end conflict by touching people's hearts rather than resorting to violence. Along the way, she helps Yajiro regain conviction and come to terms with the era's changes. As they travel through a Japan divided by factional infighting, Rushuna stands firm by her belief that spreading joy and understanding is the path to making the world a more peaceful place.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.804013100934154,
     "arithmeticGeometricMean": 6.799101842915552,
-    "median": 6.741
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.741,
+    "lastUpdate": "2024-05-21"
+  }
 }

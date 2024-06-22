@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Danger Service Agency follows an unlikely team of specialists who take on dangerous jobs for money. The team consists of Mikura, a skilled fighter who enjoys the thrill of danger, Kurokawa, a former detective with underworld connections, and Harada, a tech wizard. Though their methods are unorthodox, the DSA will take on any high-risk job as long as the pay is good. We follow the DSA as they take on cases ranging from finding missing people to stopping assassinations. However, even routine jobs have a way of escalating into life-threatening situations with this danger-addicted crew. As they dig deeper into their biggest case yet - figuring out who put a hit on Kurokawa - the DSA soon finds that no amount of fighting skill, connections, or tech can fully prepare them for the deadly web they've stumbled into. With an unpredictable mix of grit, humor, and combat, Danger Service Agency delivers action-packed adventures through the underbelly of a troubled future Tokyo. Will the DSA's lust for danger finally catch up to them, or will the thrill of the chase propel them through even the most hazardous jobs?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-20"
   },
   "score": {
     "arithmeticMean": 6.5876830108666855,
     "arithmeticGeometricMean": 6.5745977465307694,
-    "median": 6.732
-  },
-  "lastUpdate": "2024-05-20"
+    "median": 6.732,
+    "lastUpdate": "2024-05-20"
+  }
 }

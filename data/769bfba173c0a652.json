@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "During a summer vacation, fifteen children discover a mysterious cave by the seashore. Within its depths they find a man named Kokopelli, who claims to be developing a video game involving a giant robot defending Earth from alien invaders. Enthralled by the imaginative premise, nearly all the children eagerly sign Kokopelli's contract to test out the game. However, they soon realize the supposed game is frighteningly real. After their first victory piloting the robot Zearth against an alien invasion, the children are devastated by the ensuing carnage and their first casualty. With no way to leave the \"game\" or cancel the contract, the children struggle to come to terms with their grim fate - taking turns piloting Zearth in a series of terrifying battles where their very lives are at stake. United by trauma, the group must find the resolve within themselves to continue fighting, even as they grapple with the morality of sacrifice for the greater good. Kokopelli has trapped the children in a chilling game of survival against a cosmic threat they never imagined. The summer that began with childlike joy ends in nightmare, with the weight of humanity's future upon their adolescent shoulders.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.589794933461601,
     "arithmeticGeometricMean": 7.589563387803975,
-    "median": 7.583571428571428
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.583571428571428,
+    "lastUpdate": "2024-05-22"
+  }
 }

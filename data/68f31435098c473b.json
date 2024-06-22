@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The anime \"Yamishibai\" brings to life Japan's most unsettling urban legends in a contemporary animation format, using the traditional 'paper drama' narrative style. The enigmatic Storyteller lures listeners with spine-chilling tales of the macabre, tales that could befall anyone, anywhere. The series delves into unnerving narratives of daring teenagers exploring deserted homes, children entangled in sinister family customs, vindictive spirits tormenting unsuspecting individuals, and the heartrending sight of loved ones descending into insanity. The terror escalates with stories of a woman's mounting fear as her husband's behavior drastically changes after a peculiar meal, and even an evil snowman or two. Prepare for your soul to be stirred with these petrifying tales, including the one about the deceased mother-in-law who continues to visit, the eerie street where turning back isn't an option, and the suspicious fish brought home by a husband. These harrowing tales are guaranteed to send a shiver down your spine.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-10"
   },
   "score": {
     "arithmeticMean": 6.225326376004947,
     "arithmeticGeometricMean": 6.205915832747967,
-    "median": 6.040244897959184
-  },
-  "lastUpdate": "2024-05-10"
+    "median": 6.040244897959184,
+    "lastUpdate": "2024-05-10"
+  }
 }

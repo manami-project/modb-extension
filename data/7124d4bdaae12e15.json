@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The Layzner OVA serves as an alternative retelling of the TV series storyline, condensing key plot points into just three episodes. The first episode recaps the beginning of the series, showing how tensions on Earth erupt into an interplanetary conflict when Mars colonists are caught in a battle between mysterious robots. One robot pilot, Eiji, reveals to the survivors that Earth is being targeted for occupation by the Grados Empire. The second OVA episode picks up the story after a time jump, chronicling later events like further attacks by Grados forces. It covers much of the show's middle section. The final episode revisits the climactic confrontation from the TV series ending, expanding on it with new animation and a lengthier epilogue. Overall, while largely summarizing the main series, the OVA provides an abbreviated experience with an expanded conclusion.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.497275377683541,
     "arithmeticGeometricMean": 6.468320998382448,
-    "median": 6.75
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.75,
+    "lastUpdate": "2024-05-21"
+  }
 }

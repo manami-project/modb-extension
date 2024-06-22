@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "He Fangzhi was a young boy when his family was brutally murdered while migrating. He managed to escape by pretending to be dead. Over the next 13 years, He practiced martial arts in Shuzhong, determined to one day avenge his slain family. The only clues He has are a fan and the name of the place where his family was killed - a soup shop in the northwestern border. With these scant clues, He embarks on a long journey to uncover the truth behind the murders and bring the perpetrators to justice. He's quest takes him across China, from the site of the murders to places like Linqingzhou and Cuifeng Mountain. Along the way, He defeats many henchmen, who seem intent on protecting the identity of the true mastermind behind the slaughter of He's family. Through perseverance and his exceptional fighting skills, He is slowly able to piece together what happened that fateful day 13 years ago. But dangers continue lurking in the shadows, threatening to prevent He from achieving the vengeance he has long sought.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.9999393939393935,
     "arithmeticGeometricMean": 6.993969054798583,
-    "median": 7.181818181818182
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.181818181818182,
+    "lastUpdate": "2024-05-21"
+  }
 }

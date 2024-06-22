@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "After being in a coma for three years from a tragic accident, Haruka Suzumiya finally awakens, only to find that much has changed in her absence. Her loving boyfriend Takayuki had started dating someone else, but upon Haruka's return, he leaves his new girlfriend to reconnect with Haruka. Though overjoyed to regain consciousness and be reunited with loved ones, Haruka grapples with the time she lost. Determined to not be a burden, Haruka suggests breaking up with Takayuki so he can freely pursue his career goals amidst a difficult economy. However, Takayuki remains devoted to Haruka, as the two visit meaningful places from their past and consider what future their relationship might hold. Haruka pursues her dream of becoming a picture book author, while also finding time to reconnect with her old friend Mitsuki. Though changed by time and tragedy, the enduring bonds between Haruka, Takayuki, and their wider social circle seem to transcend circumstance. Despite diverging paths and the lingering shadow of the past, their shared history hints at the possibility of rekindled connections.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.816274118738405,
     "arithmeticGeometricMean": 6.808534510613981,
-    "median": 6.828
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.828,
+    "lastUpdate": "2024-05-22"
+  }
 }

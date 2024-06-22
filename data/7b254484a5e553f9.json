@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Star Wars: Visions is an anthology series that presents nine animated short films celebrating the Star Wars universe through the imaginative lens of renowned Japanese anime studios. Spanning planets and eras across the galaxy far, far away, each story offers a unique cultural perspective and artistic style. From a lone Padawan's quest to rebuild the Jedi Order, to a robot boy's dream of becoming a Jedi, to epic lightsaber duels between Jedi and Sith, the shorts showcase the studios' creative takes on Star Wars lore and characters. While grounded in the spirit of Star Wars storytelling, the anthology gives the studios freedom to put their distinctive animation signatures on the franchise. Whether it's Kamikaze Douga's stylish action, Science SARU's whimsical droids, or Studio Colorido's musical spectacle, Star Wars: Visions promises to expand the boundaries of the galaxy far, far away.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 7.187836270871985,
     "arithmeticGeometricMean": 7.183759861586876,
-    "median": 7.213163265306122
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 7.213163265306122,
+    "lastUpdate": "2024-05-19"
+  }
 }

@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Ayakashi is an anthology anime composed of three classic Japanese horror stories linked by the common theme of darkness in the human heart. The first story is a retelling of the famous ghost tale Yotsuya Kaidan. It follows Oiwa, a woman betrayed by her ambitious husband and left to die a horrific death. Transformed into a vengeful spirit, she relentlessly curses those responsible for her misery. The second tale tells of a forbidden romance between a mortal man and a forgotten goddess. Zushonosuke, a falconer sent to retrieve his master's bird, chances upon the beautiful supernatural being Tomihime inhabiting a haunted castle. As their love grows, the horrifying existence of the castle's demonic inhabitants who feed on humans is revealed, leading to a deadly confrontation. The third story centers around a medicine seller investigating a series of murders taking place in an aristocratic household during the Edo period. He discovers the killings were committed by a shapeshifting cat demon and works to uncover its origins and motives. Though differing in style and particulars, each of these horror stories united by supernatural elements explores the darkness potentially lurking within the human soul. Their twists and tragedies leave the viewer contemplating the true nature of mankind.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.267235621521337,
     "arithmeticGeometricMean": 7.264882596849009,
-    "median": 7.305
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.305,
+    "lastUpdate": "2024-05-22"
+  }
 }

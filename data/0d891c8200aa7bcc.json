@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "News synopsis:\n\nIn a town encircled by an immense 4,000-meter wall, the air is perpetually clouded with chimney smoke, obscuring the sky from view. Amidst the town's Halloween festivities, a deliveryman misplaces a heart, abandoning his search in the smoky haze. Yet, the heart continues to pulsate, finding a new purpose in this obscured world.\n\nLubicchi, a young chimney sweep, finds solace in a peculiar friendship with Poupelle, a magical being birthed from garbage. This bond becomes a beacon of hope for Lubicchi, who has been grappling with the loss of his father at the hands of the oppressive Inquisitors. Together, they aspire to unveil the truth concealed by the town's smoky veil and the tyranny of the Inquisitors. As their friendship gains attention, they must confront the Inquisitors' threats and the townspeople's skepticism. Undeterred, Lubicchi and Poupelle remain steadfast in their pursuit of the truth and the stars hidden beyond the chimney smoke.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 6.114716759431045,
     "arithmeticGeometricMean": 5.945718622248239,
-    "median": 6.492272727272727
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 6.492272727272727,
+    "lastUpdate": "2024-05-09"
+  }
 }

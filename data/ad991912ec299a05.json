@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "The Hidden Leaf Village is hosting its annual sports festival, where the genin ninja squads compete for the ultimate prize - a paid week off from missions. Naruto Uzumaki eagerly joins his squadmates Sasuke Uchiha and Sakura Haruno, determined to lead them to victory. However, Naruto soon faces an unexpected challenge. He desperately needs to use the bathroom, but the lines are incredibly long, with even the Akatsuki members waiting their turn. As the events begin, Naruto frantically rushes from one failed bathroom attempt to the next, trying everything from sneaking into the ladies' room to creating shadow clones to compete in his place. Despite nonstop digestive distress, Naruto perseveres through races, obstacle courses, and more. In the relay race, he finally sees a chance for relief and rushes toward the finish line. But just before reaching the bathrooms, Naruto can't hold it anymore, letting loose right on the field as everyone looks on. Though embarrassed, he still led his team to win the vacation prize after all.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.721602619381613,
     "arithmeticGeometricMean": 6.713886446398001,
-    "median": 6.726
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.726,
+    "lastUpdate": "2024-05-21"
+  }
 }

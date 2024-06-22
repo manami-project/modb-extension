@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The film follows Mirai and her friends as they travel to the Magical World to attend the centennial Grand Magic Festival and celebrate the return of the mythical Wishing Stone. This legendary stone grants a single wish to one lucky person every hundred years. At the festival, Mirai's beloved talking stuffed bear Mofurun gets chosen by the Wishing Stone to receive its magical wish. However, their celebration is cut short when a mysterious villain named Dark Matter appears and kidnaps both Mofurun and the powerful Wishing Stone. Dark Matter is determined to force Mofurun into wishing for the elimination of all magicians. In the process, he separates Mirai and her friends Riko and Haa from Mofurun, leaving them unable to transform into Precure warriors. Now, Mirai, Riko and Haa must embark on a daring rescue mission to save Mofurun and thwart Dark Matter's sinister plans before he can use the wish for evil. Their journey leads them through the magical landscape as they race against time to reach Mofurun and protect the Magic World from destruction.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 7.2896130400212025,
     "arithmeticGeometricMean": 7.283344271391721,
-    "median": 7.44
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 7.44,
+    "lastUpdate": "2024-05-19"
+  }
 }

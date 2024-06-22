@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "Kino and Hermes, the talking motorcycle, arrive in the mysterious Tower Country during their travels. They discover a massive tower being built in the heart of the land, stretching impossibly high into the sky. Despite standing proudly for over two hundred years and reaching seemingly infinite heights, the townspeople continue expanding the breathtaking tower daily through backbreaking labor. Intrigued, Kino and Hermes ask the tireless workers about the tower's purpose, but receive no clear answer. The citizens simply reply \"because it's our job,\" working without knowing the meaning behind their efforts. While observing the puzzling tower and townspeople, Kino and Hermes meet a frightened young man desperate to escape Tower Country and join their journey. But why does he want to leave so badly? Unable to uncover the tower's origins during their stay, more questions than answers surround the staggering construction and its dedicated builders. Kino and Hermes hope to one day understand the reasoning behind the infinite tower requiring such tireless effort from the townspeople. For now, the travel partners continue wandering in search of countries with stories to learn.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.611744113879318,
     "arithmeticGeometricMean": 7.610396156516682,
-    "median": 7.628
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.628,
+    "lastUpdate": "2024-05-21"
+  }
 }

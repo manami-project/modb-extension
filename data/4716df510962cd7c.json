@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In a distant future, humanity has colonized the galaxy and divided itself by gender, with men and women inhabiting separate planets and engaged in a bitter war. Hibiki, a young man living in the male colony, dreams of building his own mech but is stuck working a tedious assembly line job. When he attempts to steal a mech to pursue his dreams, Hibiki accidentally thrusts himself into the midst of an intense space battle between male and female forces. Now stranded far from home, Hibiki must cooperate with the very women he was raised to see as enemies in order to survive this harsh new environment. Alongside the female pirates who capture him, Hibiki begins to question the assumptions of his society as he sees women for the first time not as alien enemies, but as fellow humans. Together, they now face a shared threat that endangers both their peoples. Surmounting prejudice and their own raging hormones, Hibiki and his new allies have only each other to depend on if they wish to make it back home to end the ruinous gender war dividing humanity across the stars.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-19"
   },
   "score": {
     "arithmeticMean": 7.280027520098948,
     "arithmeticGeometricMean": 7.277834408224385,
-    "median": 7.2838979591836726
-  },
-  "lastUpdate": "2024-05-19"
+    "median": 7.2838979591836726,
+    "lastUpdate": "2024-05-19"
+  }
 }

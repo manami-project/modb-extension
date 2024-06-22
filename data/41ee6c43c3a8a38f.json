@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Chronicles of Valkyria unfolds in the heart of Europa, a continent reminiscent of 1930s Europe, divided between the Imperial Empire in the east and the democratic Federation in the west. At the center of their conflict lies ragnite, a versatile resource with applications ranging from military weaponry to medical treatments. Gallia, a neutral country rich in ragnite, becomes the target of the Empire's expansionist ambitions.\n\nThe story follows Welkin Gunther, the son of a legendary war hero, Isara, Welkin's adopted Darcsen sister, and Alicia, a member of the local town watch, as they lead the charge against the invading Imperial forces as part of the Gallian militia's Squad 7. With Welkin commanding the Edelweiss tank, Alicia serving as a scout, and Isara piloting the Edelweiss, the squad, composed of diverse individuals, fights to reclaim their homes and protect their livelihoods.\n\nGallia, a nation that has historically maintained neutrality, finds itself thrust into war to defend its ragnite reserves. The Gallian militia, including the newly formed Squad 7, stands as the first line of defense against the technologically superior Imperial forces. Despite facing prejudice due to her Darcsen heritage, even from her squad mates, Isara remains steadfast in her commitment to the cause. As the war intensifies, ancient secrets emerge, drawing the members of Squad 7 closer together in their shared mission to defend their homeland.",
-    "author": "mistral.mistral-large-2402-v1:0"
+    "author": "mistral.mistral-large-2402-v1:0",
+    "lastUpdate": "2024-05-09"
   },
   "score": {
     "arithmeticMean": 7.600220292773429,
     "arithmeticGeometricMean": 7.599548842076494,
-    "median": 7.677
-  },
-  "lastUpdate": "2024-05-09"
+    "median": 7.677,
+    "lastUpdate": "2024-05-09"
+  }
 }

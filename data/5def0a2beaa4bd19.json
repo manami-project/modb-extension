@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Hazama Masayoshi is an aspiring model who has long idolized superheroes and tokusatsu shows. Inspired by his childhood heroes and his grandfather's stories, Masayoshi decides to become a self-made superhero named Samurai Flamenco. Donning a handmade costume, he sets out to fight petty crime in the city, though his amateur skills limit his success. Masayoshi's vigilante antics soon catch the attention of police officer Goto Hidenori, who accidentally discovers his secret identity. Though skeptical at first, Goto ends up helping Masayoshi in his superhero exploits. Over time, Samurai Flamenco gains increasing public attention as his crime-fighting escalates from litterers and jaywalkers to more dangerous threats. As Samurai Flamenco's fame grows, Masayoshi assembles an unlikely team of allies, including a pop idol group, an actor, and a martial arts master. Together, they find themselves embroiled in bizarre adventures far beyond typical superhero fare. Through it all, Masayoshi and Goto search for the true meaning of heroism while confronting the challenges of being self-made crime fighters in an increasingly chaotic world.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.823366098187527,
     "arithmeticGeometricMean": 6.817496962821451,
-    "median": 6.840384615384615
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.840384615384615,
+    "lastUpdate": "2024-05-21"
+  }
 }

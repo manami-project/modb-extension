@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "The story takes place in the land of Cruzon, where most people possess the power to control quartz crystals. This ability allows them to operate machinery, weapons, and mecha suits known as Golems. However, Rygart Arrow is an rare exception - an \"un-sorcerer\" without any quartz powers. Despite this disadvantage, Rygart formed childhood friendships with Hodr and Sigyn, the future King and Queen of Krisna, as well as Zess, brother of the Athens Commonwealth's Secretary of War. Now adults, these friends find themselves on opposing sides as Athens invades Krisna. Zess himself leads the Athens strike forces. Rygart soon discovers an incredible secret - his lack of quartz powers enables him alone to operate an ancient and incredibly advanced Golem recently uncovered in Krisna. This Golem boasts capabilities far beyond modern models and could turn the tide of the war. Although initially reluctant, Rygart decides to intervene in the conflict by piloting this Golem. His goal is to save Krisna and somehow also protect his friends Hodr, Sigyn, and Zess from the ravages of war.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.244539991754277,
     "arithmeticGeometricMean": 7.242375612149101,
-    "median": 7.302551020408163
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.302551020408163,
+    "lastUpdate": "2024-05-22"
+  }
 }

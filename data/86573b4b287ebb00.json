@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "In a post-apocalyptic future, the world has been devastated by war and a young scavenger explores an abandoned city. He comes across an old department store with a still-operational planetarium run by Hoshino Yumemi, a service robot who faithfully awaits customers despite the state of the world. Against his survivalist instincts, the scavenger decides to help Yumemi repair the planetarium's broken projector. This fateful decision marks a turning point for both of their lives. Prior to the war that ruined the world, Yumemi worked as a presenter at the department store's planetarium. Driven to attract more patrons, she would often leave the building in search of potential customers. Additionally, a newly released OVA tells the story of Yumemi's origins, before catastrophe befell the world. After a decade of dutiful service, the robot begins malfunctioning and disappears from the planetarium. Her supervisor Satomi Kurahashi is tasked with locating Yumemi and returning her before her battery dies completely.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.284693568336427,
     "arithmeticGeometricMean": 7.282159043180734,
-    "median": 7.301818181818182
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.301818181818182,
+    "lastUpdate": "2024-05-21"
+  }
 }

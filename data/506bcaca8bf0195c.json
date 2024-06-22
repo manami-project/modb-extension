@@ -10,12 +10,13 @@
   ],
   "synopsis": {
     "text": "The anime centers on Marin and Urin, two pure-hearted sisters who live in the sea longing to explore the world above the water. When a ring falls into the ocean, the sisters decide to return it, embarking on their first journey onto land. They arrive at an isolated island inhabited by Kanon, a high school girl. When Marin and Kanon meet, their encounter awakens a hidden power within them. This occurs at a pivotal time, as a dangerous darkness threatens to envelop the world. Though the sisters have found a new friend, they must tap into their dormant abilities to confront the impending danger. A year later, Kanon revisits the island. She speculates whether Marin's life has remained the same even though much has changed for Kanon. During Kanon’s stay, Marin discovers a lost baby sea cow, separated from its mother. To help reunite the sea creatures, Kanon draws on her interest in oceanography while the sisters lend their marine expertise. Though living in different worlds, the girls share a connection that transcends boundaries.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.283756957328386,
     "arithmeticGeometricMean": 6.260211247771913,
-    "median": 6.463543599257885
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.463543599257885,
+    "lastUpdate": "2024-05-21"
+  }
 }

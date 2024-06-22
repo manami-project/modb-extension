@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "\"A Day Before Us\" follows four friends as they navigate relationships and romance. It begins when Ha Eun seeks shelter from the rain at a bus stop, only to end up next to her aloof classmate Yeon Woo. An awkward moment leaves them both embarrassed. Later, their friend Yeo Reum, a cheerful and playful girl, invites them both to dinner, surprised to learn they already know one another. As the night wears on and drinks flow freely, Yeo Reum's childhood friend Kim Wook arrives to take her home. Wook harbors secret feelings for Yeo Reum but struggles to express himself, while she is infatuated with someone else. Meanwhile, Ha Eun and Yeon Woo share a quiet, intimate moment together. As rain brings these friends together, it remains to be seen whether any of the four will find lasting love. Their complex web of relationships and unspoken crushes set the stage for emotional drama.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 7.4629740259740265,
     "arithmeticGeometricMean": 7.45825615264883,
-    "median": 7.387272727272727
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 7.387272727272727,
+    "lastUpdate": "2024-05-21"
+  }
 }

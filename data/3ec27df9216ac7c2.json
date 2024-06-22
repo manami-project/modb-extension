@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Ritsuko is a young girl who was born with a disability that impairs her ability to walk. Despite her physical challenges, she dreams of going to school and making friends like other children. However, her overprotective mother and the teasing from her classmates make this dream difficult. At school, Ritsuko's unique gait makes her a target for bullying. Though deeply hurt, she finds inspiration in her regular masseur, Dr. Ishibashi. He teaches Ritsuko the true meaning of kindness and strength, despite being blind himself. With renewed optimism, Ritsuko sets a goal to come in second-to-last place in her school's footrace - an event she would normally finish last in. This is a heartwarming story of perseverance in the face of adversity. Ritsuko must navigate overprotection at home and cruelty at school to achieve her dreams. Along the way, bonds of friendship and acts of compassion help rekindle her spirit. Will Ritsuko manage to keep smiling through it all?",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 6.83488152663663,
     "arithmeticGeometricMean": 6.809267083735758,
-    "median": 7.06
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.06,
+    "lastUpdate": "2024-05-22"
+  }
 }

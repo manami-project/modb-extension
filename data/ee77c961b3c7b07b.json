@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Chihaya is an ordinary middle school student who leads a quiet life attending class and helping at her parents' store. One day, her routine is interrupted when a strange creature named Natsuki appears. Natsuki reveals that he is actually a boy from the magical world of Evergreen. He explains that five dangerous \"seeds\" with the power to possess humans and turn them into monsters have been stolen from Evergreen. These seeds were brought to Earth, putting humans in danger. As it turns out, Chihaya has a hidden power within her - the ability to become a Magical Warrior named Carmine. Natsuki traveled to Earth in search of the only person who can help him retrieve the powerful seeds - Chihaya herself. Though confused by her sudden destiny, Chihaya chooses to transform into Carmine and join Natsuki on his quest. Together, they set out to find the seeds before their dark magic corrupts innocent humans. Many mysteries surround Chihaya, like her mother's suspicious knowledge of these strange events. However, she is determined to discover the truth and protect both worlds from harm.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 5.8972388020143125,
     "arithmeticGeometricMean": 5.883430566884795,
-    "median": 6.0
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 6.0,
+    "lastUpdate": "2024-05-22"
+  }
 }

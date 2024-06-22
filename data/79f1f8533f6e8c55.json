@@ -12,12 +12,13 @@
   ],
   "synopsis": {
     "text": "The anime follows Chu Xinghe, the young leader of the once prestigious Star Clan. After coming into possession of the legendary Star Map, the clan draws the sinister attention of the Lord of the Thousand Realms. He imprisons the Star Clan elders in the Holy Star Territory in order to seize the map. Now in shambles, the few remaining members of the Star Clan are seen as weak by rival clans who overtake their territory. Determined to restore his clan's honor and rescue his father from captivity, Chu Xinghe embarks on a journey through the Twelve Star Realms. Alongside his loyal disciples, he confronts fearsome opponents and harrowing trials. Chu ultimately triumphs over the Twelve Star Soul Almighties before confronting the Lord of the Thousand Realms himself. After an intense showdown, the young leader manages to defeat the villain and free his people. With indomitable courage and unwavering loyalty, Chu Xinghe saves his clan against impossible odds. His coming-of-age quest exemplifies the themes of filial piety, redemption, and realizing one's heroic potential in the face of adversity.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-06-22"
   },
   "score": {
     "arithmeticMean": 6.180109090909092,
     "arithmeticGeometricMean": 6.1636351699050005,
-    "median": 6.21
-  },
-  "lastUpdate": "2024-06-22"
+    "median": 6.21,
+    "lastUpdate": "2024-06-22"
+  }
 }

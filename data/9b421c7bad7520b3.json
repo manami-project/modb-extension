@@ -7,12 +7,13 @@
   ],
   "synopsis": {
     "text": "This three-part anime short film series is set in a snowy countryside and explores interpersonal relationships during the winter season. The first episode focuses on the complex feelings between a father and daughter, a young couple, and two coworkers as they come together to view the town's riverside light festival. The second episode centers on a college student named Yui who is invited by her mother to revisit an observatory they frequented when she was a child. As Yui travels the snowy roads on her 20th birthday, memories of her late father resurface. The third episode depicts a heartbreaking romance between two childhood friends who fall in love but are torn apart when the girl moves away. The boy chases after her through a blizzard as she drives off, hoping to convince her to stay. Though spanning different characters and relationships, each story shares the common thread of complex emotions heightened by the stark yet beautiful winter backdrop. Together they form a poignant meditation on the interplay between human connections and the isolation of winter.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-21"
   },
   "score": {
     "arithmeticMean": 6.806022727272728,
     "arithmeticGeometricMean": 6.80494320704675,
-    "median": 6.801136363636363
-  },
-  "lastUpdate": "2024-05-21"
+    "median": 6.801136363636363,
+    "lastUpdate": "2024-05-21"
+  }
 }

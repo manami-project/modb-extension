@@ -11,12 +11,13 @@
   ],
   "synopsis": {
     "text": "Akino begins working as a trainee concierge at the unique Hokkyoku Department Store, where the exclusive clientele consists entirely of animals, including rare and extinct species. As she strives to become a full-fledged concierge, Akino runs around fulfilling the demanding wishes and addressing the myriad needs of the animal customers, ranging from sourcing hard-to-find items to providing advice on intricate personal problems. Under constant scrutiny from the meticulous floor manager, a consultant eager to downsize staff, and the store's cryptic president, Akino faces daily tests of her customer service skills. Through perseverance, resourcefulness and sincerity, she gradually earns the trust of even the most particular animals. Though challenging, Akino relishes the chance to hone her talents assisting the store's distinguished furry patrons.",
-    "author": "anthropic.claude-v2:1"
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-05-22"
   },
   "score": {
     "arithmeticMean": 7.57569696969697,
     "arithmeticGeometricMean": 7.573745382466609,
-    "median": 7.488
-  },
-  "lastUpdate": "2024-05-22"
+    "median": 7.488,
+    "lastUpdate": "2024-05-22"
+  }
 }
