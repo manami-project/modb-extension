@@ -25,8 +25,9 @@ public class DefaultScoreWriter(
         val entry = when (val currentEntry = fileAccessor.loadEntry(sources, directory)) {
             is ExtensionData -> {
                 currentEntry.copy(
-                    score = score,
-                    lastUpdate = LocalDate.now(clock).format(ISO_LOCAL_DATE),
+                    score = score.copy(
+                        lastUpdate = LocalDate.now(clock).format(ISO_LOCAL_DATE),
+                    ),
                 )
             }
             is ExtensionDataNotFound -> {

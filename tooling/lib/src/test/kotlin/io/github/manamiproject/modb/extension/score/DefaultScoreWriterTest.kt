@@ -4,12 +4,14 @@ import io.github.manamiproject.modb.extension.*
 import io.github.manamiproject.modb.test.exceptionExpected
 import io.github.manamiproject.modb.test.tempDirectory
 import org.assertj.core.api.Assertions.assertThat
+import kotlin.test.Test
 import java.net.URI
 import java.time.Clock
 import java.time.Instant
+import java.time.LocalDate
 import java.time.ZoneOffset.UTC
+import java.time.format.DateTimeFormatter.ISO_LOCAL_DATE
 import kotlin.io.path.createFile
-import kotlin.test.Test
 
 internal class DefaultScoreWriterTest {
 
@@ -33,7 +35,7 @@ internal class DefaultScoreWriterTest {
     }
 
     @Test
-    fun `correctly create new entry`() {
+    fun `correctly create new entry using default values from Score for created and lastUpdate`() {
         tempDirectory {
             // given
             val testSources = listOf(
@@ -56,6 +58,7 @@ internal class DefaultScoreWriterTest {
             var receivedObject: ExtensionData? = null
 
             val clock = Clock.fixed(Instant.parse("2021-01-31T16:02:42.00Z"), UTC)
+            val today = LocalDate.now().format(ISO_LOCAL_DATE)
             val origin = LocalFileOrigin(tempDir)
             val testFileAccessor = object : FileAccessor by TestFileAccessor {
                 override suspend fun loadEntry(sources: Collection<URI>, origin: Origin<*>): ExtensionDataReturnValue {
@@ -81,6 +84,7 @@ internal class DefaultScoreWriterTest {
                     score = testScore,
                 )
             )
+            assertThat((receivedObject!!.score() as Score).lastUpdatedAt).isEqualTo(today)
         }
     }
 
@@ -103,6 +107,7 @@ internal class DefaultScoreWriterTest {
                 arithmeticMean = 1.0,
                 arithmeticGeometricMean = 2.0,
                 median = 3.0,
+                lastUpdate = "2024-03-06",
             )
 
             var receivedObject: ExtensionData? = null
@@ -138,6 +143,7 @@ internal class DefaultScoreWriterTest {
             assertThat((receivedObject!!.score() as Score).arithmeticMean).isEqualTo(testScore.arithmeticMean)
             assertThat((receivedObject!!.score() as Score).arithmeticGeometricMean).isEqualTo(testScore.arithmeticGeometricMean)
             assertThat((receivedObject!!.score() as Score).median).isEqualTo(testScore.median)
+            assertThat((receivedObject!!.score() as Score).lastUpdatedAt).isEqualTo(LocalDate.now(clock))
         }
     }
 
@@ -160,6 +166,7 @@ internal class DefaultScoreWriterTest {
                 arithmeticMean = 1.0,
                 arithmeticGeometricMean = 2.0,
                 median = 3.0,
+                lastUpdate = "2024-03-06",
             )
 
             tempDir.resolve("abcdtest.json").createFile()
@@ -196,6 +203,7 @@ internal class DefaultScoreWriterTest {
             assertThat((receivedObject!!.score() as Score).arithmeticMean).isEqualTo(testScore.arithmeticMean)
             assertThat((receivedObject!!.score() as Score).arithmeticGeometricMean).isEqualTo(testScore.arithmeticGeometricMean)
             assertThat((receivedObject!!.score() as Score).median).isEqualTo(testScore.median)
+            assertThat((receivedObject!!.score() as Score).lastUpdatedAt).isEqualTo(LocalDate.now(clock))
             assertThat(tempDir.resolve("abcdtest")).doesNotExist()
         }
     }

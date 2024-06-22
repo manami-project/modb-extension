@@ -5,8 +5,7 @@
   "description": "Additional data extending anime-offline-database as well as a library which allows to easily create and access the data.",
   "type": "object",
   "required": [
-    "sources",
-    "lastUpdate"
+    "sources"
   ],
   "properties": {
     "sources": {
@@ -22,7 +21,8 @@
       "type": "object",
       "required": [
         "text",
-        "author"
+        "author",
+        "lastUpdate"
       ],
       "properties": {
         "text": {
@@ -32,6 +32,10 @@
         "author": {
           "description": "Author of the text.",
           "type": "string"
+        },
+        "lastUpdate": {
+          "type": "string",
+          "description": "Date of the last modification."
         }
       }
     },
@@ -41,7 +45,8 @@
       "required": [
         "arithmeticMean",
         "arithmeticGeometricMean",
-        "median"
+        "median",
+        "lastUpdate"
       ],
       "properties": {
         "arithmeticMean": {
@@ -61,12 +66,12 @@
           "description": "Median.",
           "minimum": 0.0,
           "maximum": 10.0
+        },
+        "lastUpdate": {
+          "type": "string",
+          "description": "Date of the last modification."
         }
       }
-    },
-    "lastUpdate": {
-      "type": "string",
-      "description": "Date of the last modification."
     }
   }
 }

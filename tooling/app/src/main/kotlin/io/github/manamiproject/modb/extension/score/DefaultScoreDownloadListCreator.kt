@@ -30,15 +30,15 @@ class DefaultScoreDownloadListCreator(
             val fileContent = file.readFile()
             val extensionData = Json.parseJson<ExtensionData>(fileContent)!!
 
-            when (extensionData.score()) {
+            when (val score = extensionData.score()) {
                 is Score -> {
-                    if (isRedownloadNecessary(redownloadEntriesOlderThan, extensionData.lastUpdatedAt)) {
+                    if (isRedownloadNecessary(redownloadEntriesOlderThan, score.lastUpdatedAt)) {
                         ret.add(extensionData.sources.toHashSet())
                     }
                 }
                 is ScoreNotFound -> {
                     val data = extractor.extract(fileContent, mapOf(
-                        "lastUpdate" to "$.lastUpdate",
+                        "lastUpdate" to "$.score.lastUpdate",
                     ))
 
                     if (data.notFound("lastUpdate") || isRedownloadNecessary(redownloadEntriesOlderThan, data.string("lastUpdate"))) {
