@@ -14,8 +14,9 @@ import kotlinx.coroutines.withContext
 import java.net.URI
 
 /**
+ * Loads the content of files which have been created with this app.
  * @since 1.0.0
- * @property httpCient
+ * @property httpCient Used for remote call of [UriOrigin].
  */
 internal class DefaultFileAccessor(
     private val httpCient: HttpClient = DefaultHttpClient(),

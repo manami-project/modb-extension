@@ -5,9 +5,10 @@ import io.github.manamiproject.modb.core.config.FileSuffix
 import java.net.URI
 
 /**
+ * Transform an anime identifier to a filename.
  * @since 1.0.0
- * @param sources
- * @param fileSuffix
+ * @param sources List of [URI] identifying an anime as seen in the "sources" array in anime-offline-database.
+ * @param fileSuffix File suffix including a dot.
  * @return Filename including file suffix set in [fileSuffix].
  */
 public fun filename(sources: Collection<URI>, fileSuffix: FileSuffix = ".json"): String {

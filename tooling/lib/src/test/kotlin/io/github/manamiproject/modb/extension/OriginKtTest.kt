@@ -159,6 +159,22 @@ internal class OriginKtTest {
             }
 
             @Test
+            fun `throws exception if protocol is not http or https`() {
+                tempDirectory {
+                    // given
+                    val origin = UriOrigin(URI("wss://example.org/data"))
+
+                    // when
+                    val result = exceptionExpected<IllegalArgumentException> {
+                        origin.resolve("test.json")
+                    }
+
+                    // then
+                    assertThat(result).hasMessage("Protocol must be http or https.")
+                }
+            }
+
+            @Test
             fun `correctly resolve file for URI without trailing slash`() {
                 // given
                 val filename = "049073efcafb1e52.json"

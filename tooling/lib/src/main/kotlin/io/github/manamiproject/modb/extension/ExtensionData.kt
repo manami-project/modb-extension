@@ -10,20 +10,23 @@ import io.github.manamiproject.modb.extension.synopsis.SynopsisReturnValue
 import java.net.URI
 
 /**
+ * Return for trying to retrieve an ExtensionData..
  * @since 1.0.0
  */
 public sealed class ExtensionDataReturnValue
 
 /**
+ * Indicates that no ExtensionData has been found.
  * @since 1.0.0
  */
 public data object ExtensionDataNotFound: ExtensionDataReturnValue()
 
 /**
+ * Whole data set for a single anime.
  * @since 1.0.0
- * @property sources
- * @property synopsis
- * @property score
+ * @property sources List of [URI] identifying an anime as seen in the "sources" array in anime-offline-database.
+ * @property synopsis Descriptive text of an anime.
+ * @property score Different score types creating an average across different meta data providers.
  */
 public data class ExtensionData(
     val sources: List<URI>,
@@ -36,8 +39,9 @@ public data class ExtensionData(
     }
 
     /**
+     * Synopsis
      * @since 1.0.0
-     * @return
+     * @return Either the [Synopsis] or [SynopsisNotFound] if a synopsis doesn't exist.
      */
     public fun synopsis(): SynopsisReturnValue {
         return when {
@@ -48,8 +52,9 @@ public data class ExtensionData(
     }
 
     /**
+     * Score
      * @since 1.0.0
-     * @return
+     * @return Either the [Score] or [ScoreNotFound] if a score doesn't exist.
      */
     public fun score(): ScoreReturnValue {
         return when {
