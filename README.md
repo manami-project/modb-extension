@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > **This repository is experimental** \
-> Significant and breaking changes can potentially be made to both code and structure. I am also not sure whether I will maintain this project continuously or leave it as a public archive for demonstration purposes.
+> This repo is a showcase demonstrating how you can create tooling to extend the data of [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database).
 
 _[modb](https://github.com/manami-project?tab=repositories&q=modb&type=source)_ stands for _**M**anami **O**ffline **D**ata**B**ase_ and basically represents [manami-project/anime-offline-database](https://github.com/manami-project/anime-offline-database) which is a dataset specifically created for [manami](https://github.com/manami-project/manami).
 This project is both an experiment and a demonstration on how to extend the existing project.
