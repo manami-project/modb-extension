@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anilist.co/anime/177456",
+    "https://anime-planet.com/anime/the-idolmster-million-live-special",
+    "https://livechart.me/anime/12353",
+    "https://myanimelist.net/anime/59082"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-06-22"
+  },
+  "score": {
+    "arithmeticMean": 6.636363636363637,
+    "arithmeticGeometricMean": 6.636363636363637,
+    "median": 6.636363636363637,
+    "lastUpdate": "2024-06-22"
+  }
+}

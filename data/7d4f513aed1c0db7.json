@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anilist.co/anime/132000",
+    "https://anime-planet.com/anime/a-day-before-us-merry-christmas",
+    "https://kitsu.io/anime/42871",
+    "https://myanimelist.net/anime/59069"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-06-22"
+  },
+  "score": {
+    "arithmeticMean": 6.694121212121213,
+    "arithmeticGeometricMean": 6.678691229557445,
+    "median": 6.636363636363637,
+    "lastUpdate": "2024-06-22"
+  }
+}

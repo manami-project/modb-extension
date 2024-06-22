@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18330",
+    "https://anilist.co/anime/174704",
+    "https://anime-planet.com/anime/big-brother-2nd-season",
+    "https://anisearch.com/anime/19368",
+    "https://kitsu.io/anime/48712",
+    "https://myanimelist.net/anime/57442",
+    "https://notify.moe/anime/7zC1bP5SR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1",
+    "lastUpdate": "2024-06-22"
+  },
+  "score": {
+    "arithmeticMean": 7.971272727272726,
+    "arithmeticGeometricMean": 7.965712511844374,
+    "median": 8.181818181818182,
+    "lastUpdate": "2024-06-22"
+  }
+}
