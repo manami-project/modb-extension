@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16778",
+    "https://anilist.co/anime/120486",
+    "https://anime-planet.com/anime/legend-of-liu-yi",
+    "https://anime-planet.com/anime/liu-yi-chuanqi",
+    "https://myanimelist.net/anime/42320",
+    "https://notify.moe/anime/ylFdcIMGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 5.181818181818182,
+    "arithmeticGeometricMean": 5.181818181818182,
+    "median": 5.181818181818182
+  },
+  "lastUpdate": "2024-06-22"
+}

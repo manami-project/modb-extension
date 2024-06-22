@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18434",
+    "https://anilist.co/anime/155327",
+    "https://anime-planet.com/anime/the-success-of-empyrean-xuan-emperor-3rd-season",
+    "https://kitsu.io/anime/47162",
+    "https://myanimelist.net/anime/53476",
+    "https://notify.moe/anime/gLvZJH_4g"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.9067878787878785,
+    "arithmeticGeometricMean": 6.8975657624634845,
+    "median": 6.636363636363637
+  },
+  "lastUpdate": "2024-06-22"
+}

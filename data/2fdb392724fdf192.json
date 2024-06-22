@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anilist.co/anime/132234",
+    "https://anime-planet.com/anime/akogare-ranraran",
+    "https://anisearch.com/anime/17831",
+    "https://kitsu.io/anime/48890",
+    "https://myanimelist.net/anime/49882"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.697750463821893,
+    "arithmeticGeometricMean": 6.693330763814909,
+    "median": 6.649591836734693
+  },
+  "lastUpdate": "2024-06-22"
+}

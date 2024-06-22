@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18377",
+    "https://anilist.co/anime/174649",
+    "https://anime-planet.com/anime/the-legend-of-yang-chen",
+    "https://livechart.me/anime/12282",
+    "https://myanimelist.net/anime/55864",
+    "https://notify.moe/anime/bo1x_DgSg"
+  ],
+  "synopsis": {
+    "text": "Yang Chen is the grandson of the leader of the Yang family. He was mocked by other family members for not yet awakening his Tao soul, an important rite of passage. Feeling despair, Yang Chen perseveres and finally succeeds in awakening his Tao soul and a Weapon Spirit named Huangyu. Yang Chen then discovers his uncle is leading a faction trying to force his grandfather to give up leadership of the family. Wanting to protect his grandfather, Yang Chen resolves to increase his own strength. He journeys alone to Mount Youyun seeking medicine that will aid his cultivation. Through perseverance and newfound strength, Yang Chen is ultimately able to expose his uncle's conspiracy and maintain his grandfather's position as the Yang family leader.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.187333333333332,
+    "arithmeticGeometricMean": 7.180091221946712,
+    "median": 7.0
+  },
+  "lastUpdate": "2024-06-22"
+}

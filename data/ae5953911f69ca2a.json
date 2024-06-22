@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16720",
+    "https://anilist.co/anime/121679",
+    "https://anime-planet.com/anime/god-troubles-me-2nd-season",
+    "https://anime-planet.com/anime/hanhua-riji-2nd-season",
+    "https://anisearch.com/anime/17126",
+    "https://kitsu.io/anime/43908",
+    "https://livechart.me/anime/10260",
+    "https://myanimelist.net/anime/42956",
+    "https://notify.moe/anime/_7bLtkcGg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.217149041434755,
+    "arithmeticGeometricMean": 7.20007054239845,
+    "median": 7.583181818181818
+  },
+  "lastUpdate": "2024-06-22"
+}

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18051",
+    "https://anilist.co/anime/165525",
+    "https://anime-planet.com/anime/dianqi-shaonu",
+    "https://kitsu.io/anime/47387",
+    "https://myanimelist.net/anime/54973",
+    "https://notify.moe/anime/Zz1hqvE4R"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.296363636363637,
+    "arithmeticGeometricMean": 6.2963414537127225,
+    "median": 6.296363636363637
+  },
+  "lastUpdate": "2024-06-22"
+}

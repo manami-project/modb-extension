@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15800",
+    "https://anilist.co/anime/120405",
+    "https://anime-planet.com/anime/the-awakening",
+    "https://anisearch.com/anime/15685",
+    "https://kitsu.io/anime/43334",
+    "https://livechart.me/anime/9997",
+    "https://myanimelist.net/anime/42148",
+    "https://notify.moe/anime/jBZvl3vGR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.430087198515771,
+    "arithmeticGeometricMean": 6.424940123525184,
+    "median": 6.254174397031541
+  },
+  "lastUpdate": "2024-06-22"
+}

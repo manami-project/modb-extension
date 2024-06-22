@@ -1,0 +1,17 @@
+{
+  "sources": [
+    "https://anilist.co/anime/178102",
+    "https://kitsu.io/anime/48970",
+    "https://myanimelist.net/anime/59099"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.909090909090909,
+    "arithmeticGeometricMean": 6.909090909090909,
+    "median": 6.909090909090909
+  },
+  "lastUpdate": "2024-06-22"
+}

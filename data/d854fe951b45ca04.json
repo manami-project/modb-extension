@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13722",
+    "https://anilist.co/anime/102316",
+    "https://anime-planet.com/anime/the-young-imperial-guards",
+    "https://anisearch.com/anime/13207",
+    "https://kitsu.io/anime/40995",
+    "https://myanimelist.net/anime/36644",
+    "https://notify.moe/anime/NLrOhKimg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.274715151515151,
+    "arithmeticGeometricMean": 6.257958560855636,
+    "median": 6.090909090909091
+  },
+  "lastUpdate": "2024-06-22"
+}

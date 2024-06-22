@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/5004",
+    "https://anilist.co/anime/178307",
+    "https://anime-planet.com/anime/anthology-no-1",
+    "https://anisearch.com/anime/4101",
+    "https://kitsu.io/anime/10161",
+    "https://notify.moe/anime/LEAstKiiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 4.203418367346939,
+    "arithmeticGeometricMean": 4.160591055164525,
+    "median": 4.415
+  },
+  "lastUpdate": "2024-06-22"
+}

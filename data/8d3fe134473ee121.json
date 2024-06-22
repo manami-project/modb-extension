@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17051",
+    "https://anilist.co/anime/134090",
+    "https://anime-planet.com/anime/you-yao-2nd-season",
+    "https://anisearch.com/anime/19319",
+    "https://kitsu.io/anime/44594",
+    "https://myanimelist.net/anime/48964",
+    "https://notify.moe/anime/1GcK4fiSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.272727272727273,
+    "arithmeticGeometricMean": 7.272727272727273,
+    "median": 7.272727272727273
+  },
+  "lastUpdate": "2024-06-22"
+}

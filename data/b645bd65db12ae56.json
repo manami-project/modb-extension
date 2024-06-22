@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18348",
+    "https://anilist.co/anime/155314",
+    "https://anime-planet.com/anime/the-great-journey-of-teenagers-3",
+    "https://anisearch.com/anime/18794",
+    "https://kitsu.io/anime/46579",
+    "https://myanimelist.net/anime/56787",
+    "https://notify.moe/anime/UjuBLeZIg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 8.503454545454545,
+    "arithmeticGeometricMean": 8.47187498159711,
+    "median": 7.874
+  },
+  "lastUpdate": "2024-06-22"
+}

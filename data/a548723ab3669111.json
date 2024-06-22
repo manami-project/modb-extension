@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17032",
+    "https://anilist.co/anime/141132",
+    "https://anime-planet.com/anime/the-great-journey-of-teenagers-2-part-ii",
+    "https://anisearch.com/anime/16956",
+    "https://kitsu.io/anime/45843",
+    "https://myanimelist.net/anime/50629",
+    "https://notify.moe/anime/KEy4LeZIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 8.195818181818183,
+    "arithmeticGeometricMean": 8.16416963804719,
+    "median": 7.751636363636363
+  },
+  "lastUpdate": "2024-06-22"
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16589",
+    "https://anilist.co/anime/137735",
+    "https://anime-planet.com/anime/the-kings-avatar-3",
+    "https://anisearch.com/anime/16713",
+    "https://kitsu.io/anime/45074",
+    "https://livechart.me/anime/11385",
+    "https://myanimelist.net/anime/49559"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.749384972170686,
+    "arithmeticGeometricMean": 7.737785166143839,
+    "median": 7.697545454545454
+  },
+  "lastUpdate": "2024-06-22"
+}

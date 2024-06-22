@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/9847",
+    "https://anilist.co/anime/12441",
+    "https://anime-planet.com/anime/armored-trooper-votoms-vol-2-highlights-from-the-at-votoms",
+    "https://anisearch.com/anime/8971",
+    "https://kitsu.io/anime/6733",
+    "https://myanimelist.net/anime/12441",
+    "https://notify.moe/anime/PdAHpFmiR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 5.772445269016698,
+    "arithmeticGeometricMean": 5.764438175021211,
+    "median": 5.720408163265306
+  },
+  "lastUpdate": "2024-06-22"
+}

@@ -1,0 +1,17 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18637",
+    "https://anisearch.com/anime/19293",
+    "https://livechart.me/anime/12660"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0
+  },
+  "lastUpdate": "2024-06-22"
+}

@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18689",
+    "https://anilist.co/anime/178046",
+    "https://anime-planet.com/anime/guilty-gear-strive-dual-rulers",
+    "https://kitsu.io/anime/48952",
+    "https://livechart.me/anime/12702",
+    "https://myanimelist.net/anime/59070",
+    "https://notify.moe/anime/8cllkB8SR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0
+  },
+  "lastUpdate": "2024-06-22"
+}

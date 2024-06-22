@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18662",
+    "https://anilist.co/anime/156095",
+    "https://anime-planet.com/anime/xuwu-bianjing",
+    "https://anisearch.com/anime/19220",
+    "https://kitsu.io/anime/48810",
+    "https://myanimelist.net/anime/58487"
+  ],
+  "synopsis": {
+    "text": "Xuwu, a mysterious and foreboding domain, unleashes catastrophic monsters called \"Doomers\" that threaten to destroy the world. Humanity bands together, determined to resist. Their last line of defense is the continental boundary of Shazhou, where a crucial battle unfolds. But fate intertwines with a young woman named Coral who defies her destiny and comes from Xuwu itself. Seeking truth, she meets Yu Jia, leader of the human alliance. Their encounter triggers turmoil as an ominous dark force, the \"Shadow of Blessing,\" also seeks out Xuwu's buried secrets for its own malevolent ends. With civilization hanging by a thread, these characters are bound by the red thread of fate. Their choices and beliefs will determine the world's future. Will Xuwu's historical truths save humanity or doom it? The battle for existence begins in this romantic legend.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.363636363636363,
+    "arithmeticGeometricMean": 6.363636363636363,
+    "median": 6.363636363636363
+  },
+  "lastUpdate": "2024-06-22"
+}

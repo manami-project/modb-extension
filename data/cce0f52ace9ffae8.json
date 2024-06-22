@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18489",
+    "https://anilist.co/anime/175034",
+    "https://anime-planet.com/anime/glorious-revenge-of-ye-feng-2nd-season",
+    "https://myanimelist.net/anime/58057",
+    "https://notify.moe/anime/LFYFHX1Ig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.676727272727273,
+    "arithmeticGeometricMean": 7.676166027574898,
+    "median": 7.676727272727273
+  },
+  "lastUpdate": "2024-06-22"
+}

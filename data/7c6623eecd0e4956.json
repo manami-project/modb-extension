@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18670",
+    "https://anilist.co/anime/177697",
+    "https://anime-planet.com/anime/dead-dead-demons-dededede-destruction-web",
+    "https://anisearch.com/anime/19270",
+    "https://kitsu.io/anime/48892",
+    "https://livechart.me/anime/12669",
+    "https://myanimelist.net/anime/58883",
+    "https://notify.moe/anime/ZuoEncsSg"
+  ],
+  "synopsis": {
+    "text": "When an ominous alien mothership suddenly appears in the skies above Tokyo, the lives of Japanese teenagers Koyama Kadode and Nakagawa \"Ontan\" Oran are thrown into uncertainty. As the two best friends continue with their daily high school routines, the looming threat spurs Japan's government to take controversial military actions that spark public debate. Initially detached from the crisis unfolding around them, Kadode and Ontan gradually come to question the meaning of adulthood as they witness the complexities of an increasingly militarized society. Their youthful naiveté gives way to existential rumination about humanity's self-destructive tendencies. While the world focuses its efforts on combatting the extraterrestrial \"Invaders,\" the two friends discover that the greatest threat to the future may not be alien, but all too human. Their journey from carefree teenagers to self-aware young adults parallels their society's transformation in response to the unprecedented upheaval. As graduation approaches, Kadode and Ontan learn to find meaning amidst uncertainty. Their quiet acts of everyday courage become a testament to the human capacity to persevere against the darkest of skies, alien or otherwise.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.385369202226345,
+    "arithmeticGeometricMean": 7.37647704314592,
+    "median": 6.987755102040815
+  },
+  "lastUpdate": "2024-06-22"
+}

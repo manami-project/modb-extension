@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/14984",
+    "https://anilist.co/anime/113669",
+    "https://anime-planet.com/anime/doraemon-movie-40-nobita-no-shin-kyouryuu",
+    "https://anisearch.com/anime/14679",
+    "https://livechart.me/anime/9499",
+    "https://myanimelist.net/anime/40044"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.448366728509584,
+    "arithmeticGeometricMean": 7.442104332382895,
+    "median": 7.588181818181818
+  },
+  "lastUpdate": "2024-06-22"
+}

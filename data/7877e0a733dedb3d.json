@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anilist.co/anime/170983",
+    "https://anime-planet.com/anime/yoasobi-biri-biri",
+    "https://anisearch.com/anime/18860",
+    "https://kitsu.io/anime/48244",
+    "https://myanimelist.net/anime/57199"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.83963172541744,
+    "arithmeticGeometricMean": 6.808605492326085,
+    "median": 7.157
+  },
+  "lastUpdate": "2024-06-22"
+}

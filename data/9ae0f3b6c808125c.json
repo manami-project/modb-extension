@@ -1,0 +1,19 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17525",
+    "https://anilist.co/anime/133866",
+    "https://anime-planet.com/anime/sword-quest",
+    "https://kitsu.io/anime/46098",
+    "https://myanimelist.net/anime/51681"
+  ],
+  "synopsis": {
+    "text": "I was ordered by my revered master to leave my secluded life in the mountains and enter the secular world, joining a family as their son-in-law to fulfill my master's dying wish. Though the world sees me as incompetent, I am secretly a peerless swordsman of unrivaled skill. What matters it to me how coldly people look upon this supposed loser of a son-in-law? I care not what they think. With sword in hand I will prove my might, sweeping aside all challengers as I carve a path across the land and break through the very sky itself! Though my role may be humble, my skill knows no equal. Underestimate me at your peril!",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.755757575757577,
+    "arithmeticGeometricMean": 6.746872416429943,
+    "median": 6.7272727272727275
+  },
+  "lastUpdate": "2024-06-22"
+}

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17187",
+    "https://anime-planet.com/anime/shiyakusho",
+    "https://anisearch.com/anime/17153",
+    "https://kitsu.io/anime/48938",
+    "https://livechart.me/anime/11077",
+    "https://myanimelist.net/anime/50993"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.846255102040816,
+    "arithmeticGeometricMean": 6.822964281523835,
+    "median": 6.937
+  },
+  "lastUpdate": "2024-06-22"
+}

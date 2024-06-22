@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17582",
+    "https://anilist.co/anime/142178",
+    "https://anime-planet.com/anime/jian-yu-chuanqi",
+    "https://anime-planet.com/anime/the-legend-of-sword-domain",
+    "https://anisearch.com/anime/17055",
+    "https://kitsu.io/anime/45582",
+    "https://myanimelist.net/anime/50501",
+    "https://notify.moe/anime/q6SWzVoVR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.993481756338899,
+    "arithmeticGeometricMean": 6.969729139546873,
+    "median": 7.136363636363637
+  },
+  "lastUpdate": "2024-06-22"
+}

@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18682",
+    "https://anilist.co/anime/151511",
+    "https://anime-planet.com/anime/xianwu-heaven",
+    "https://anisearch.com/anime/18018",
+    "https://kitsu.io/anime/47167",
+    "https://myanimelist.net/anime/52221"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.572636363636363,
+    "arithmeticGeometricMean": 7.5083183585251145,
+    "median": 6.950272727272727
+  },
+  "lastUpdate": "2024-06-22"
+}

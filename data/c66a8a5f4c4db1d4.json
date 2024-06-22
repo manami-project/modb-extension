@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18646",
+    "https://anilist.co/anime/177679",
+    "https://anime-planet.com/anime/the-darwin-incident",
+    "https://anisearch.com/anime/19295",
+    "https://kitsu.io/anime/48884",
+    "https://livechart.me/anime/12670",
+    "https://myanimelist.net/anime/58886",
+    "https://notify.moe/anime/OzCkS5sSR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0
+  },
+  "lastUpdate": "2024-06-22"
+}

@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17784",
+    "https://anilist.co/anime/158927",
+    "https://anime-planet.com/anime/spy-x-family-2nd-season",
+    "https://anime-planet.com/anime/spy-x-family-season-2",
+    "https://anisearch.com/anime/17952",
+    "https://kitsu.io/anime/46873",
+    "https://livechart.me/anime/11739",
+    "https://myanimelist.net/anime/53887",
+    "https://notify.moe/anime/Cvw57YcVg"
+  ],
+  "synopsis": {
+    "text": "Spy x Family follows the fortunes of Twilight, an elite spy working undercover to avert war between Westalis and Ostania. To maintain his cover identity as psychiatrist Loid Forger, Twilight creates a pretend family consisting of himself, the deadly assassin Yor Briar who poses as his wife, and the orphaned telepath Anya who plays the role of their daughter. On the surface, the Forgers appear to be an ordinary and loving family. In truth, each hides their real identity and occupation in service of Twilight's secret mission, Operation Strix. Its goal is to get close to politician Donovan Desmond by having Anya befriend his son, Damian. Though maintaining their facade is challenging, the bonds of affection between Loid, Yor, and Anya gradually become real. Anya is key to the success of Operation Strix. Her telepathic powers allow her to know the truth about her parents while also helping steer their family interactions. Anya works hard at the prestigious Eden Academy in hopes of becoming an Imperial Scholar which would grant access to Damian. Though making friends is difficult for the eccentric Anya, she perseveres, committed to playing her part in what she sees as an exciting real-life spy mission. Comedic misadventures abound as the Forgers balance their genuine and pretend family lives while hiding their true selves from one another. But despite the secrecy and subterfuge, they discover the meaning of love and belonging in this most unlikely of families.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 8.244539545110975,
+    "arithmeticGeometricMean": 8.241975827750855,
+    "median": 8.236734693877551
+  },
+  "lastUpdate": "2024-06-22"
+}

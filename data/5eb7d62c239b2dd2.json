@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17364",
+    "https://anilist.co/anime/129243",
+    "https://anime-planet.com/anime/thousands-of-worlds",
+    "https://anime-planet.com/anime/zhu-tian-ji",
+    "https://anisearch.com/anime/17081",
+    "https://kitsu.io/anime/45931",
+    "https://myanimelist.net/anime/50925"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.361816944959801,
+    "arithmeticGeometricMean": 7.347124287776517,
+    "median": 7.532818181818182
+  },
+  "lastUpdate": "2024-06-22"
+}

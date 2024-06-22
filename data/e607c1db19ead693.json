@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18342",
+    "https://anilist.co/anime/174705",
+    "https://anime-planet.com/anime/the-peak-of-true-martial-arts-3rd-season",
+    "https://kitsu.io/anime/48897",
+    "https://myanimelist.net/anime/57351",
+    "https://notify.moe/anime/gR8NBE5Ig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.4544848484848485,
+    "arithmeticGeometricMean": 7.444488420815253,
+    "median": 7.545454545454546
+  },
+  "lastUpdate": "2024-06-22"
+}

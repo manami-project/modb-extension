@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17570",
+    "https://anilist.co/anime/153658",
+    "https://anime-planet.com/anime/haikyu-movie-1-the-dumpster-battle",
+    "https://anisearch.com/anime/17592",
+    "https://kitsu.io/anime/46336",
+    "https://livechart.me/anime/11369",
+    "https://myanimelist.net/anime/52742",
+    "https://notify.moe/anime/rDehWvRSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 8.450208719851577,
+    "arithmeticGeometricMean": 8.440820253603848,
+    "median": 8.649090909090908
+  },
+  "lastUpdate": "2024-06-22"
+}

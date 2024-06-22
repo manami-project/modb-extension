@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18078",
+    "https://anilist.co/anime/155244",
+    "https://anime-planet.com/anime/the-demon-hunter",
+    "https://kitsu.io/anime/47684",
+    "https://livechart.me/anime/12274",
+    "https://myanimelist.net/anime/55655"
+  ],
+  "synopsis": {
+    "text": "In a fantasy world filled with demons, young Meng Chuan witnesses his mother's tragic death at the hands of these monsters. Seeking revenge, he dedicates himself to becoming a powerful warrior skilled in swift saber techniques. Meng Chuan joins the prestigious Archean Mountain Sect to access their extensive resources and training aimed at demon slaying. Though born of nobility, Meng forsakes status in pursuit of strength. His solitary passions include cultivation training and drawing, finding catharsis in art amidst hardship. Over time, his drawings seem to grant Meng greater power and vitality. As he comes of age, tumultuous events threaten Meng's settlement - from a broken engagement to foreign invasion. Nonetheless, bound by duty, Meng vows to master the saber and defend humanity no matter the cost. What begins as a personal vendetta becomes a heroic crusade spanning the demon and mortal realms.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.783181818181818,
+    "arithmeticGeometricMean": 7.762411401683807,
+    "median": 8.205
+  },
+  "lastUpdate": "2024-06-22"
+}

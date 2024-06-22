@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18341",
+    "https://anilist.co/anime/155322",
+    "https://anime-planet.com/anime/the-peak-of-true-martial-arts-2nd-season",
+    "https://kitsu.io/anime/47385",
+    "https://myanimelist.net/anime/55130",
+    "https://notify.moe/anime/8VeDhN_VR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.520848484848485,
+    "arithmeticGeometricMean": 7.516632603193842,
+    "median": 7.454545454545454
+  },
+  "lastUpdate": "2024-06-22"
+}

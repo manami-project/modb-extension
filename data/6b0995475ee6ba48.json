@@ -1,0 +1,23 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13428",
+    "https://anilist.co/anime/99654",
+    "https://anime-planet.com/anime/the-unparalleled-black-and-white",
+    "https://anime-planet.com/anime/the-unparalleled-black-white",
+    "https://anisearch.com/anime/12923",
+    "https://kitsu.io/anime/12814",
+    "https://livechart.me/anime/5925",
+    "https://myanimelist.net/anime/33562",
+    "https://notify.moe/anime/PuGWhKmig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.630435528756958,
+    "arithmeticGeometricMean": 6.620060041466025,
+    "median": 6.736
+  },
+  "lastUpdate": "2024-06-22"
+}

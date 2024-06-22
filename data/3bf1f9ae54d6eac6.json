@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://anilist.co/anime/115406",
+    "https://anime-planet.com/anime/kikyou",
+    "https://kitsu.io/anime/48929",
+    "https://myanimelist.net/anime/58951"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 5.5974545454545455,
+    "arithmeticGeometricMean": 5.585965040160906,
+    "median": 5.5974545454545455
+  },
+  "lastUpdate": "2024-06-22"
+}

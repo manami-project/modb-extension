@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/17996",
+    "https://anilist.co/anime/141865",
+    "https://anime-planet.com/anime/xyrin-empire",
+    "https://anisearch.com/anime/18372",
+    "https://kitsu.io/anime/47433",
+    "https://myanimelist.net/anime/50431",
+    "https://notify.moe/anime/3TuURIf4g"
+  ],
+  "synopsis": {
+    "text": "Chen Jun is an otaku who suddenly finds himself thrust into the role of Emperor over a vast intergalactic empire spanning multiple universes. Though unprepared for the job, Chen Jun receives support from his childhood friend Xu Qianqian, who firmly believes in his potential. However, others like the Empress Sandora and General Pandora doubt Chen Jun's abilities. Despite the lack of confidence from some, Chen Jun has no choice but to embrace his new position and responsibilities as Emperor. His duties include saving the various worlds under his rule from impending catastrophe. During the week, Chen Jun works hard to protect his subjects across the galaxies. Come the weekend, he relaxes by indulging in his gaming hobbies. Though Chen Jun would prefer to avoid leadership and simply enjoy his otaku lifestyle, the lives of trillions now depend on him stepping up as Emperor. With help from allies like Xu Qianqian, he must prove himself worthy and save his empire from disaster, all while finding time for gaming on the side.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.628178107606679,
+    "arithmeticGeometricMean": 6.6254044108778345,
+    "median": 6.609090909090909
+  },
+  "lastUpdate": "2024-06-22"
+}

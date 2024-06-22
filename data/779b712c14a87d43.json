@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15675",
+    "https://anilist.co/anime/109150",
+    "https://anime-planet.com/anime/god-of-deception",
+    "https://anisearch.com/anime/15389",
+    "https://kitsu.io/anime/43113",
+    "https://livechart.me/anime/9864",
+    "https://myanimelist.net/anime/39298",
+    "https://notify.moe/anime/qvUGfKrWR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.1480339252584155,
+    "arithmeticGeometricMean": 6.12654737658918,
+    "median": 6.090909090909091
+  },
+  "lastUpdate": "2024-06-22"
+}

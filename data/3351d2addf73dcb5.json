@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18421",
+    "https://anilist.co/anime/129244",
+    "https://anime-planet.com/anime/everlasting-god-of-sword-2022",
+    "https://anisearch.com/anime/17702",
+    "https://kitsu.io/anime/45418",
+    "https://myanimelist.net/anime/51726"
+  ],
+  "synopsis": {
+    "text": "Shen Zhenyi was the gifted third son of the Abandoned Sword Villa, masters of the ancient 'Wan Zang Sword Sutra' martial arts technique. But at the moment of his greatest triumph, he was crippled and disappeared. A year later, the Villa reopened and surprisingly, Shen Zhenyi returned—now seeking to pass on the coveted Sword Sutra. Chu Huoluo, a young female disciple from another martial arts school, becomes Shen Zhenyi's unlikely apprentice. As master and disciple work together, they discover there is a brewing crisis connected to an ancient legend called the 'Zhanyue Feixian'. Though Shen Zhenyi's legendary journey was disrupted, this new chapter of intrigue and partnership with Chu Huoluo may lead to the Sword Sutra's secrets being unlocked once more. Will the two put aside their differences long enough to get to the truth? Or will shadowy forces stop them before they bring the ancient legend to light?",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.08769696969697,
+    "arithmeticGeometricMean": 7.080748128564045,
+    "median": 6.909090909090909
+  },
+  "lastUpdate": "2024-06-22"
+}

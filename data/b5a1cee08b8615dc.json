@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18463",
+    "https://anilist.co/anime/156109",
+    "https://anime-planet.com/anime/god-troubles-me-4th-season",
+    "https://anime-planet.com/anime/hanhua-riji-4th-season",
+    "https://kitsu.io/anime/48851",
+    "https://livechart.me/anime/11594",
+    "https://myanimelist.net/anime/53449",
+    "https://notify.moe/anime/te3rP8cIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 8.09090909090909,
+    "arithmeticGeometricMean": 8.09090909090909,
+    "median": 8.09090909090909
+  },
+  "lastUpdate": "2024-06-22"
+}

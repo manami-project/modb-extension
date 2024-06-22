@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18000",
+    "https://anilist.co/anime/156111",
+    "https://anime-planet.com/anime/the-girl-downstairs",
+    "https://anisearch.com/anime/17876",
+    "https://kitsu.io/anime/47333",
+    "https://livechart.me/anime/11957",
+    "https://myanimelist.net/anime/54846",
+    "https://notify.moe/anime/5gh3uvEVg"
+  ],
+  "synopsis": {
+    "text": "Freshman Yuan Juntang enrolls at Minsong University with the goal of getting closer to his long-time crush, Zhu Zhu. On campus, he reconnects with Zhu Zhu, who seems aware of his feelings but keeps an intentional distance. He also meets two other young women who complicate matters: Li Shiya, a former idol who has returned to school after a hiatus, and Ruoni Cui, whom he meets at a party. As Juntang spends more time with the outgoing Shiya, they form a close friendship that starts to become something more. Meanwhile, the reserved Zhu Zhu continues to avoid intimacy with Juntang, despite his clear affection for her. This leaves Juntang caught in an emotional dilemma, hesitant to fully commit to Shiya while still holding out hope for Zhu Zhu. With three complex women in his life, Juntang falls into a vortex of entangled relationships and uncertain feelings. He must navigate complicated social dynamics and his own hesitations if he hopes to find clarity and perhaps even love.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.75203374856436,
+    "arithmeticGeometricMean": 7.745047481980961,
+    "median": 7.88
+  },
+  "lastUpdate": "2024-06-22"
+}

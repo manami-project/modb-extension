@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18122",
+    "https://anilist.co/anime/156099",
+    "https://anime-planet.com/anime/yong-sheng-zhi-shi-nian-zhi-yue",
+    "https://anisearch.com/anime/18560",
+    "https://kitsu.io/anime/47652",
+    "https://myanimelist.net/anime/55684",
+    "https://notify.moe/anime/KvN5TvRIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.655489424860853,
+    "arithmeticGeometricMean": 7.642551052121929,
+    "median": 7.5
+  },
+  "lastUpdate": "2024-06-22"
+}

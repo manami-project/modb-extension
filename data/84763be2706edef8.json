@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18472",
+    "https://anilist.co/anime/129250",
+    "https://anime-planet.com/anime/shen-ji-long-wei",
+    "https://anime-planet.com/anime/the-legend-of-dragon-soldier",
+    "https://anisearch.com/anime/18012",
+    "https://kitsu.io/anime/47178",
+    "https://myanimelist.net/anime/52101"
+  ],
+  "synopsis": {
+    "text": "Shen Lang traveled from the human world to the primordial world, embarking on a quest to find his missing partner, Su Ruoxue. His journey leads him to get embroiled in a conflict between righteous and demonic martial sects across the mythical Penglai continent. On the day the Taiqing Sect holds a ceremony to wed Su Ruoxue, Shen Lang gatecrashes using a powerful blood transformation technique. To his shock, Ruoxue attacks and rejects him. Desperate, Shen Lang tries to make Ruoxue remember their past - how 10 years ago, an accident at her virtual reality research base left her comatose. Racked by guilt, Shen Lang had connected her to a damaged machine to save her life, but her soul became trapped in the virtual world. He then entered it himself to rescue her. Now in the primordial world, Shen Lang quests to recover Ruoxue's memories, defeat competing sects also seeking mythical treasures, and prove himself as the one true hero of their generation.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.096045454545456,
+    "arithmeticGeometricMean": 7.088231718876047,
+    "median": 7.183090909090909
+  },
+  "lastUpdate": "2024-06-22"
+}

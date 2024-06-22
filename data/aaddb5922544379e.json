@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://anidb.net/anime/15958",
+    "https://anime-planet.com/anime/emerald-no-wa",
+    "https://anisearch.com/anime/16292",
+    "https://myanimelist.net/anime/58941"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 5.585877551020408,
+    "arithmeticGeometricMean": 5.578772409448458,
+    "median": 5.585877551020408
+  },
+  "lastUpdate": "2024-06-22"
+}

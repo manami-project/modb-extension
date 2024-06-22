@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18594",
+    "https://anilist.co/anime/141913",
+    "https://anime-planet.com/anime/fanpai-chushihua",
+    "https://anisearch.com/anime/19210",
+    "https://kitsu.io/anime/48895",
+    "https://myanimelist.net/anime/58476"
+  ],
+  "synopsis": {
+    "text": "In the year 2048, the supervillain Ling Chen, known by his alias Penrose, finds himself unexpectedly transported back in time to the year 2030 during a fierce battle with his nemesis, the superhero Ye Zi Mu. Ling Chen suddenly wakes up as his 17-year-old self, realizing he has a chance to redo the past. This time travel offers Ling Chen an opportunity to change critical events from his prior timeline. Most importantly, he aims to protect his aunt, who had previously been killed by Ye Zi Mu. Additionally, Ling Chen plots to undermine Ye Zi Mu's rise to power in order to prevent Ye Zi Mu from becoming his feared superhero alter ego. With high stakes in this rewritten timeline, Ling Chen must cleverly navigate his high school experience once again. His knowledge of future events provides Ling Chen inside information to outmaneuver his adversaries. However, the butterfly effect of his interference creates uncertainties. Can Ling Chen reshape the timeline to his advantage? Or will unforeseen ripples in events outside his control undermine his efforts? The path ahead remains full of variables.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.181818181818182,
+    "arithmeticGeometricMean": 7.181818181818182,
+    "median": 7.181818181818182
+  },
+  "lastUpdate": "2024-06-22"
+}

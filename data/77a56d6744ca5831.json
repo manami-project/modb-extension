@@ -1,0 +1,21 @@
+{
+  "sources": [
+    "https://anidb.net/anime/16760",
+    "https://anilist.co/anime/141950",
+    "https://anilist.co/anime/141953",
+    "https://anime-planet.com/anime/jiyi-guanli-ju",
+    "https://anisearch.com/anime/16987",
+    "https://kitsu.io/anime/48953",
+    "https://myanimelist.net/anime/50462"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.555134508348794,
+    "arithmeticGeometricMean": 7.5493608763259505,
+    "median": 7.463636363636364
+  },
+  "lastUpdate": "2024-06-22"
+}

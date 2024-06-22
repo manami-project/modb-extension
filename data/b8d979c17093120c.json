@@ -1,0 +1,18 @@
+{
+  "sources": [
+    "https://anilist.co/anime/161442",
+    "https://anime-planet.com/anime/inabakumori-float-play",
+    "https://kitsu.io/anime/48936",
+    "https://myanimelist.net/anime/55321"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.956848484848485,
+    "arithmeticGeometricMean": 6.943873267458112,
+    "median": 7.286
+  },
+  "lastUpdate": "2024-06-22"
+}

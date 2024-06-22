@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18502",
+    "https://anilist.co/anime/158641",
+    "https://anime-planet.com/anime/ghost-cat-anzu",
+    "https://anisearch.com/anime/19103",
+    "https://kitsu.io/anime/48891",
+    "https://livechart.me/anime/11993",
+    "https://myanimelist.net/anime/54603",
+    "https://notify.moe/anime/ij2C9_TSg"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 0.0,
+    "arithmeticGeometricMean": 0.0,
+    "median": 0.0
+  },
+  "lastUpdate": "2024-06-22"
+}

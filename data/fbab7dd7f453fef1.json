@@ -1,0 +1,22 @@
+{
+  "sources": [
+    "https://anidb.net/anime/13820",
+    "https://anilist.co/anime/102432",
+    "https://anime-planet.com/anime/shaonian-jinyiwei-2nd-season",
+    "https://anime-planet.com/anime/the-young-imperial-guards-2nd-season",
+    "https://anisearch.com/anime/13347",
+    "https://kitsu.io/anime/40996",
+    "https://myanimelist.net/anime/37152",
+    "https://notify.moe/anime/6U9dhKiig"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 6.419363636363637,
+    "arithmeticGeometricMean": 6.397960261732139,
+    "median": 6.42
+  },
+  "lastUpdate": "2024-06-22"
+}

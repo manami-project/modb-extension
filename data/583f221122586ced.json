@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18697",
+    "https://anilist.co/anime/141862",
+    "https://anime-planet.com/anime/ringing-fate",
+    "https://anisearch.com/anime/18917",
+    "https://kitsu.io/anime/48369",
+    "https://myanimelist.net/anime/57371"
+  ],
+  "synopsis": {
+    "text": "Liver, a young girl who has lost her memories, enters a mysterious competition called the 'Fate Fights' in hopes of recovering them. In this tournament, competitors battle using mechas with the winner earning the chance to be revived. By accident, Liver uses a forbidden mecha, causing a series of storms. She partners with Zhang San, an experienced yet sinister pilot whose own mecha possesses a soul. Together, they navigate the perilous fights, overcoming dangerous foes. However, the competition proves more treacherous than either expected. To reclaim her past, Liver must risk everything in these fateful, mechanical battles. Though once naive about the world, a tragic accident leaves a young girl alone, turning to boxing to channel her pain. The road proves arduous, full of hazards that will push her to the brink. But she persists, determined to overcome life's cruelties and emerge stronger.",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 8.104,
+    "arithmeticGeometricMean": 8.06478896856227,
+    "median": 7.758
+  },
+  "lastUpdate": "2024-06-22"
+}

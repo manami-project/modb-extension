@@ -1,0 +1,20 @@
+{
+  "sources": [
+    "https://anidb.net/anime/18143",
+    "https://anilist.co/anime/155302",
+    "https://anime-planet.com/anime/soul-of-light",
+    "https://anisearch.com/anime/18612",
+    "https://myanimelist.net/anime/55693",
+    "https://notify.moe/anime/0vEtQvRIR"
+  ],
+  "synopsis": {
+    "text": "",
+    "author": "anthropic.claude-v2:1"
+  },
+  "score": {
+    "arithmeticMean": 7.196951762523191,
+    "arithmeticGeometricMean": 7.193538700694596,
+    "median": 7.167903525046382
+  },
+  "lastUpdate": "2024-06-22"
+}
